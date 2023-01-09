@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-01-11 19:52+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/tags/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. uuid = 04ae77c4-f708-4ffa-8c8b-3b762a066e2e
 #. tag_name = WILDSHAPE
@@ -20,7 +21,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/04ae77c4-f708-4ffa-8b8c-763b062a2e6e.lsx:8
 msgctxt "h607020b5g4886g40f0g9c8ag2e695fb74e54"
 msgid "Creature has assumed the shape of a beast."
-msgstr ""
+msgstr "크리쳐가 짐승의 형상을 취했습니다."
 
 #. uuid = 09ad9054-26f9-422b-a098-d261818957e1
 #. tag_name = ACT1_GOB_DIGGINGTOOL
@@ -30,7 +31,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/09ad9054-26f9-422b-98a0-61d28981e157.lsx:8
 msgctxt "hefe94d66gf942g40e3gaefbg80c306de8244"
 msgid "Digging Tool"
-msgstr ""
+msgstr "채굴 도구"
 
 #. uuid = 107e2c8a-8293-4650-9e9c-7e646ed66917
 #. tag_name = FOR_GOBLINTRIBE
@@ -40,7 +41,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/107e2c8a-8293-4650-9c9e-647ed66e1769.lsx:8
 msgctxt "h87d83afagee03g4a21gadfeg10205411e5c5"
 msgid "FOR_GOBLINTRIBE"
-msgstr ""
+msgstr "FOR_GOBLINTRIBE"
 
 #. uuid = 107e2c8a-8293-4650-9e9c-7e646ed66917
 #. tag_name = FOR_GOBLINTRIBE
@@ -50,7 +51,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/107e2c8a-8293-4650-9c9e-647ed66e1769.lsx:7
 msgctxt "h3cf46063g40afg430dgbb5bga9e76e6db40c"
 msgid "LAN"
-msgstr ""
+msgstr "LAN"
 
 #. uuid = 11491bda-fa57-44ed-06a3-3fa18edf823b
 #. tag_name = TRUESOUL
@@ -80,7 +81,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/14e17bf7-a466-404a-b097-29642492a2b2.lsx:8
 msgctxt "h3de62923gbda0g42a1g8e55g7f98ceb3b95f"
 msgid "Camp Supplies"
-msgstr ""
+msgstr "야영 물자"
 
 #. uuid = 1a2f70d6-8ead-4eb5-24a8-ee7971194a76
 #. tag_name = REALLY_KARLACH
@@ -90,7 +91,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/1a2f70d6-8ead-4eb5-a824-79ee1971764a.lsx:8
 msgctxt "hf1650a70g77e5g415fgae97ga23e4842c3f2"
 msgid "Karlach"
-msgstr ""
+msgstr "칼라흐"
 
 #. uuid = 1a2f70d6-8ead-4eb5-24a8-ee7971194a76
 #. tag_name = REALLY_KARLACH
@@ -110,7 +111,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/23a46e79-e73c-4043-940f-cb0aace9ab2e.lsx:8
 msgctxt "h50ed9c6agd191g4a13gb9a8g97acfa92d9ba"
 msgid "Astarion"
-msgstr ""
+msgstr "아스타리온"
 
 #. uuid = 23a46e79-e73c-4043-0f94-0acbe9ac2eab
 #. tag_name = ASTARION
@@ -140,7 +141,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/2a84bac4-3111-43a6-8f0c-9995b6187962.lsx:8
 msgctxt "h0c8d8bb1gded0g4d66gbb7bgbeb0152c14f4"
 msgid "ACT1_HAG_ILLUSIONCRATE"
-msgstr ""
+msgstr "ACT1_HAG_ILLUSIONCRATE"
 
 #. uuid = 2a84bac4-3111-43a6-0c8f-959918b66279
 #. tag_name = ACT1_HAG_ILLUSION
@@ -150,7 +151,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/2a84bac4-3111-43a6-8f0c-9995b6187962.lsx:7
 msgctxt "h2e1bde37g5bb6g403cgaaf5ga0eb004be355"
 msgid "ACT1_HAG_ILLUSIONCRATE tooltip"
-msgstr ""
+msgstr "ACT1_HAG_ILLUSIONCRATE tooltip"
 
 #. uuid = 2cff7db0-ae50-4267-ea82-e984d361fae3
 #. tag_name = REALLY_US
@@ -160,7 +161,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/2cff7db0-ae50-4267-82ea-84e961d3e3fa.lsx:8
 msgctxt "h716111d1g028bg43dcg82abg0a6cc8c78f54"
 msgid "Us"
-msgstr ""
+msgstr "어스"
 
 #. uuid = 2cff7db0-ae50-4267-ea82-e984d361fae3
 #. tag_name = REALLY_US
@@ -170,7 +171,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/2cff7db0-ae50-4267-82ea-84e961d3e3fa.lsx:7
 msgctxt "h7981f4begf758g40d9ga102ged13cce0b002"
 msgid "|Origin 8|"
-msgstr ""
+msgstr "|Origin 8|"
 
 #. uuid = 310f7186-bb0b-4905-f6b8-c2df62fe0a57
 #. tag_name = BRANDED
@@ -202,7 +203,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/31e8b88d-a232-43d5-8cce-74c590fe23c8.lsx:7
 msgctxt "h805d489bgb31eg44dcgbc36gc73c6db15d13"
 msgid "LAN"
-msgstr ""
+msgstr "LAN"
 
 #. uuid = 3549f056-0826-45ee-aea8-1435b749e30f
 #. tag_name = DAISY_FEMALE_VOICE
@@ -222,7 +223,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/3b07eac7-fab3-4120-a46c-51dbb3ec500b.lsx:8
 msgctxt "he9b529a2g165ag4fbcg8e5fga2458f1b2f26"
 msgid "Lae'zel"
-msgstr ""
+msgstr "라에젤"
 
 #. uuid = 3b07eac7-fab3-4120-6ca4-db51ecb30b50
 #. tag_name = LAEZEL
@@ -232,7 +233,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/3b07eac7-fab3-4120-a46c-51dbb3ec500b.lsx:7
 msgctxt "h56890214g7463g4757g8b5egb4bdb286196b"
 msgid "No warrior is more ferocious, no githyanki more loyal to Vlaakith."
-msgstr ""
+msgstr "포악함으로도, 블라키스에 대한 충성심으로도 따라올 자가 없는 기스양키 전사."
 
 #. uuid = 406d4f64-8713-4d6c-98a4-e4ab9e0ec1c6
 #. tag_name = COMBAT_GOBLINKING
@@ -242,7 +243,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/406d4f64-8713-4d6c-a498-abe40e9ec6c1.lsx:8
 msgctxt "h8928c498g879bg477dg9108g2cbf1d62e1ff"
 msgid "COMBAT_GOBLINKING"
-msgstr ""
+msgstr "COMBAT_GOBLINKING"
 
 #. uuid = 4874959b-4811-4b89-558f-fe85fb0461cd
 #. tag_name = MINDMELD
@@ -250,9 +251,10 @@ msgstr ""
 #. 
 #. type = display_name
 #: Gustav/Public/Gustav/Tags/4874959b-4811-4b89-8f55-85fe04fbcd61.lsx:8
+#, fuzzy
 msgctxt "h8552c497g53d0g4aeagb0c7g6542917fc97a"
 msgid "MINDMELD"
-msgstr ""
+msgstr "MINDMELD"
 
 #. uuid = 52c6aff2-d34c-44f6-1ebc-9229cbb56194
 #. tag_name = DEN_HIDEOUTKID
@@ -262,7 +264,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/52c6aff2-d34c-44f6-bc1e-2992b5cb9461.lsx:7
 msgctxt "h9984cbf4g1dc3g4decga828g57de8298981f"
 msgid "LAN"
-msgstr ""
+msgstr "LAN"
 
 #. uuid = 5f40def5-d3ec-4698-67a3-a30188395689
 #. tag_name = REALLY_WYLL
@@ -272,7 +274,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/5f40def5-d3ec-4698-a367-01a339888956.lsx:8
 msgctxt "hb2c4e2dbgf760g434dgb4a5g8f6d52d8b0cb"
 msgid "Wyll"
-msgstr ""
+msgstr "윌"
 
 #. uuid = 614b7f6c-e6ef-4d6d-8db5-514d4b4ff6df
 #. tag_name = ACT1_GOB_Festivities
@@ -282,7 +284,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/614b7f6c-e6ef-4d6d-b58d-4d514f4bdff6.lsx:8
 msgctxt "h560a5437g0055g4f7agb07egbb6e7489fca4"
 msgid "ACT1_GOB_Festivities"
-msgstr ""
+msgstr "ACT1_GOB_Festivities"
 
 #. uuid = 642d2aee-e3df-47e3-479f-cdbb1b44e0b9
 #. tag_name = REALLY_SHADOWHEART
@@ -292,7 +294,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/642d2aee-e3df-47e3-9f47-bbcd441bb9e0.lsx:8
 msgctxt "hd7b77e53g3968g4a4dg8018g10591859dc9b"
 msgid "Shadowheart"
-msgstr ""
+msgstr "섀도하트"
 
 #. uuid = 642d2aee-e3df-47e3-479f-cdbb1b44e0b9
 #. tag_name = REALLY_SHADOWHEART
@@ -312,7 +314,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/673cb6af-f12b-4d6e-abfa-1bb83cf4ce44.lsx:8
 msgctxt "ha0e656fcgf385g4ae4g845agb38b3ab736ce"
 msgid "Forbidden Knowledge"
-msgstr ""
+msgstr "금단의 지식"
 
 #. uuid = 673cb6af-f12b-4d6e-faab-b81bf43c44ce
 #. tag_name = FORBIDDENKNOWLEDGE
@@ -337,7 +339,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/70da70c9-353d-4a53-aee5-7ee5fc9fcd94.lsx:8
 msgctxt "h3184dbcbg23b3g47aega9cbg6c64cc90e3d2"
 msgid "Us"
-msgstr ""
+msgstr "어스"
 
 #. uuid = 72de9ad8-bd70-4b1f-9dbe-5125bdc53788
 #. tag_name = DEAD_SPEAKER
@@ -347,7 +349,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/72de9ad8-bd70-4b1f-be9d-2551c5bd8837.lsx:8
 msgctxt "h34ef5a1eg19f3g405fgb9ddg76e998609d47"
 msgid "DEAD_SPEAKER"
-msgstr ""
+msgstr "DEAD_SPEAKER"
 
 #. uuid = 799118d3-901c-41cc-998f-3225236d49c6
 #. tag_name = DAISY_MALE_VOICE
@@ -367,7 +369,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/7ba800bc-5a08-428c-bb72-0fa2b61e2673.lsx:8
 msgctxt "hb87dd233g344fg4a9cgaba5gd322aa79afc6"
 msgid "Zhentarim"
-msgstr ""
+msgstr "젠타림"
 
 #. uuid = 7ba800bc-5a08-428c-72bb-a20f1eb67326
 #. tag_name = ZHENTRECRUIT
@@ -387,7 +389,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/82d1439c-2e6f-4734-ab75-a264c44b8ef1.lsx:8
 msgctxt "hc78b3b00gf89eg486bgb260gec3d62bab743"
 msgid "ACT1_GOB_SPIDERNEST_GUARDS"
-msgstr ""
+msgstr "ACT1_GOB_SPIDERNEST_GUARDS"
 
 #. uuid = 82d1439c-2e6f-4734-75ab-64a24bc4f18e
 #. tag_name = ACT1_GOB_SPIDERNEST_GUARDS
@@ -407,7 +409,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/85a96b13-23ae-4cdf-91db-9a92973a1a9e.lsx:8
 msgctxt "h02f1b180ga138g42a3gb456g02f59209a7f5"
 msgid "|Protected NPC|"
-msgstr ""
+msgstr "|Protected NPC|"
 
 #. uuid = 8991c4c4-59f6-40b8-e1a8-01c7ee384da6
 #. tag_name = ACT1_DEN_IDOLTHEFT
@@ -417,7 +419,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/8991c4c4-59f6-40b8-a8e1-c70138eea64d.lsx:8
 msgctxt "ha273540eg82a7g4357g82a7gf85333bbcf44"
 msgid "ACT1_DEN_IDOLTHEFT"
-msgstr ""
+msgstr "ACT1_DEN_IDOLTHEFT"
 
 #. uuid = 8b4cf0fa-f712-4839-3994-6af89051fa78
 #. tag_name = SHADOWHEART
@@ -427,7 +429,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/8b4cf0fa-f712-4839-9439-f86a519078fa.lsx:8
 msgctxt "h91f3a1f6g71a6g438dg9927g478f70b00aec"
 msgid "Shadowheart"
-msgstr ""
+msgstr "섀도하트"
 
 #. uuid = 8b4cf0fa-f712-4839-3994-6af89051fa78
 #. tag_name = SHADOWHEART
@@ -447,7 +449,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/8df7d133-21cb-4e8d-92dd-9ef9394fd2d1.lsx:8
 msgctxt "h378dc9f9g104bg4037g86a4gea2598ae68d0"
 msgid "One-Eyed"
-msgstr ""
+msgstr "외눈"
 
 #. uuid = 8df7d133-21cb-4e8d-dd92-f99e4f39d1d2
 #. tag_name = ONEEYED
@@ -467,7 +469,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/8e4a646f-7ec2-49bb-974e-d2cc34e9b525.lsx:8
 msgctxt "hacbc3c9agfb0bg4a4fgad75g6a0e56941969"
 msgid "|CHOSEN OF BOOOAL|"
-msgstr ""
+msgstr "|CHOSEN OF BOOOAL|"
 
 #. uuid = 9aab4bcd-e1f7-4008-7b8f-20f189379bae
 #. tag_name = KARLACH
@@ -477,7 +479,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/9aab4bcd-e1f7-4008-8f7b-f1203789ae9b.lsx:8
 msgctxt "h818d8e87gf7b3g4ba6g94e3gf0550eaa67a7"
 msgid "Karlach"
-msgstr ""
+msgstr "칼라흐"
 
 #. uuid = 9aab4bcd-e1f7-4008-7b8f-20f189379bae
 #. tag_name = KARLACH
@@ -497,7 +499,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/9b0354c0-56d9-4723-8034-918ac9abab19.lsx:8
 msgctxt "hf21ab23cgf9f5g4aaeg9599ga5c700b03f3f"
 msgid "Gale"
-msgstr ""
+msgstr "게일"
 
 #. uuid = 9b0354c0-56d9-4723-3480-8a91abc919ab
 #. tag_name = REALLY_GALE
@@ -517,7 +519,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/9f2e27f1-dca8-4376-a148-92a016b08142.lsx:8
 msgctxt "he756a5fag86f6g4fd8gbef3g70f975a37f33"
 msgid "ACT1_DEN_GREETING"
-msgstr ""
+msgstr "ACT1_DEN_GREETING"
 
 #. uuid = 9f2e27f1-dca8-4376-48a1-a092b0164281
 #. tag_name = ACT1_DEN_GREETING
@@ -527,7 +529,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/9f2e27f1-dca8-4376-a148-92a016b08142.lsx:7
 msgctxt "h9f530a85gdbf1g4635g8106gbedc98423f20"
 msgid "ACT1_DEN_GREETING"
-msgstr ""
+msgstr "ACT1_DEN_GREETING"
 
 #. uuid = a3907be6-50c2-407e-59b1-538ca3f98e41
 #. tag_name = GALE
@@ -537,7 +539,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/a3907be6-50c2-407e-b159-8c53f9a3418e.lsx:8
 msgctxt "hc1f59bc9ge1abg475egac24gd48a24067828"
 msgid "Gale"
-msgstr ""
+msgstr "게일"
 
 #. uuid = a3907be6-50c2-407e-59b1-538ca3f98e41
 #. tag_name = GALE
@@ -557,7 +559,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/af54ab50-4ffb-41f3-9485-f7c81bd37cfd.lsx:8
 msgctxt "h460fd693g2ec9g40c3gb157gf8ca35326b8a"
 msgid "ACT1_FOR_GLADEGUARD"
-msgstr ""
+msgstr "ACT1_FOR_GLADEGUARD"
 
 #. uuid = af54ab50-4ffb-41f3-8594-c8f7d31bfd7c
 #. tag_name = ACT1_FOR_GLADEGUARD
@@ -567,7 +569,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/af54ab50-4ffb-41f3-9485-f7c81bd37cfd.lsx:7
 msgctxt "he021b4e4g67b5g4f8bgb776g8ea5a193b2be"
 msgid "ACT1_FOR_GLADEGUARD tooltip"
-msgstr ""
+msgstr "ACT1_FOR_GLADEGUARD tooltip"
 
 #. uuid = b450e5e9-9c2f-4be9-e2ae-d071ceb2a4cf
 #. tag_name = ACT1_GOB_WARPAINT
@@ -577,7 +579,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/b450e5e9-9c2f-4be9-aee2-71d0b2cecfa4.lsx:8
 msgctxt "h655422f9g73d1g474bg9748g43367585db96"
 msgid "ACT1_GOB_WARPAINT"
-msgstr ""
+msgstr "ACT1_GOB_WARPAINT"
 
 #. uuid = b450e5e9-9c2f-4be9-e2ae-d071ceb2a4cf
 #. tag_name = ACT1_GOB_WARPAINT
@@ -587,7 +589,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/b450e5e9-9c2f-4be9-aee2-71d0b2cecfa4.lsx:7
 msgctxt "h84b4dd7dg9bb4g45a7g840fgffbabff0579f"
 msgid "WARPAINTED"
-msgstr ""
+msgstr "WARPAINTED"
 
 #. uuid = b5682d1d-c395-489c-7596-9b1f320ca58e
 #. tag_name = REALLY_LAEZEL
@@ -597,7 +599,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/b5682d1d-c395-489c-9675-1f9b0c328ea5.lsx:8
 msgctxt "h59d20b67g2f2ag401cg92e7g8d38385f57c5"
 msgid "Lae'zel"
-msgstr ""
+msgstr "라에젤"
 
 #. uuid = b5682d1d-c395-489c-7596-9b1f320ca58e
 #. tag_name = REALLY_LAEZEL
@@ -607,7 +609,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/b5682d1d-c395-489c-9675-1f9b0c328ea5.lsx:7
 msgctxt "h0d178affga12eg488cga158g8582c1e427df"
 msgid "No warrior is more ferocious, no githyanki more loyal to Vlaakith."
-msgstr ""
+msgstr "포악함으로도, 블라키스에 대한 충성심으로도 따라올 자가 없는 기스양키 전사."
 
 #. uuid = b8d357e9-afe5-487d-c0b6-bc1f2dc2923a
 #. tag_name = DEBUG
@@ -617,7 +619,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/b8d357e9-afe5-487d-b6c0-1fbcc22d3a92.lsx:8
 msgctxt "hc7a8fa93g116eg47ebgb3fegd3d066b96b1a"
 msgid "LAN"
-msgstr ""
+msgstr "LAN"
 
 #. uuid = b8d357e9-afe5-487d-c0b6-bc1f2dc2923a
 #. tag_name = DEBUG
@@ -627,7 +629,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/b8d357e9-afe5-487d-b6c0-1fbcc22d3a92.lsx:7
 msgctxt "h4895d078g57bfg471fg95dagccf4571a46e1"
 msgid "LAN"
-msgstr ""
+msgstr "LAN"
 
 #. uuid = bfef85f2-6caa-40c8-80b8-83199da407cc
 #. tag_name = PSIONICS
@@ -699,7 +701,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/dbbb5a43-a45f-4d6e-b6dd-eba372e8f294.lsx:8
 msgctxt "h31606a02gee6cg4170g9803g3488f6f8c3ba"
 msgid "Mind Shield"
-msgstr ""
+msgstr "정신 방패"
 
 #. uuid = e1850f47-8063-45b6-cfb6-d61de7ad40f8
 #. tag_name = ARCHDRUID_KAGHA
@@ -709,7 +711,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/e1850f47-8063-45b6-b6cf-1dd6ade7f840.lsx:8
 msgctxt "h54feb256g4b9fg4bc7g8204gfa83d8f5d264"
 msgid "ARCHDRUID_KAGHA"
-msgstr ""
+msgstr "ARCHDRUID_KAGHA"
 
 #. uuid = e45d5440-4a29-42e1-5d84-0a89e8e8632a
 #. tag_name = CREATURE_SPORE_SERVANT
@@ -719,7 +721,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/e45d5440-4a29-42e1-845d-890ae8e82a63.lsx:8
 msgctxt "h1cd36de9gec28g40d8gbf23g7658da9fed2a"
 msgid "SPORE SERVANT"
-msgstr ""
+msgstr "SPORE SERVANT"
 
 #. uuid = f15e9b0d-676c-4f52-bf9a-5c3689ff0fef
 #. tag_name = BALDURIAN
@@ -729,7 +731,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/f15e9b0d-676c-4f52-9abf-365cff89ef0f.lsx:8
 msgctxt "h05e15fb5g4c07g4573gad06ga31c7b1ea361"
 msgid "Baldurian"
-msgstr ""
+msgstr "발두르인"
 
 #. uuid = f15e9b0d-676c-4f52-bf9a-5c3689ff0fef
 #. tag_name = BALDURIAN
@@ -739,7 +741,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/f15e9b0d-676c-4f52-9abf-365cff89ef0f.lsx:7
 msgctxt "h2ff28c97gea33g421agb75fg7552949af38c"
 msgid "Those raised in Baldur's Gate know the city well, for better or worse."
-msgstr ""
+msgstr "발더스 게이트에서 나고 자란 이들은 도시를 잘 알고 있습니다. 좋은 쪽으로든, 나쁜 쪽으로든."
 
 #. uuid = f64626cd-da8c-4ddf-7ca1-32a0ff27d65f
 #. tag_name = ACT1_MOO_DROW_GUARD
@@ -749,7 +751,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/f64626cd-da8c-4ddf-a17c-a03227ff5fd6.lsx:8
 msgctxt "h9803d8a6gab20g47e3g868cga763e58373e7"
 msgid "ACT1_MOO_DROW_GUARD"
-msgstr ""
+msgstr "ACT1_MOO_DROW_GUARD"
 
 #. uuid = f64626cd-da8c-4ddf-7ca1-32a0ff27d65f
 #. tag_name = ACT1_MOO_DROW_GUARD
@@ -769,7 +771,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/facf82dc-a6e1-4720-a0bd-6efde960dc5f.lsx:8
 msgctxt "h5cbf2a31ge73eg4dd0ga90fge7c7e20dea23"
 msgid "Wyll"
-msgstr ""
+msgstr "윌"
 
 #. uuid = facf82dc-a6e1-4720-bda0-fd6e60e95fdc
 #. tag_name = WYLL
@@ -799,7 +801,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/ffc90ec2-bdab-4866-8f0a-0b8db2a164f9.lsx:8
 msgctxt "h99aae5d6ge5a6g4d44ga2ecg09bd7b5b65be"
 msgid "ACT1_GOB_PENITENT"
-msgstr ""
+msgstr "ACT1_GOB_PENITENT"
 
 #. uuid = ffd08582-7396-4cac-d4bc-9c8ffdd0f38e
 #. tag_name = REALLY_ASTARION
@@ -809,7 +811,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Tags/ffd08582-7396-4cac-bcd4-8f9cd0fd8ef3.lsx:8
 msgctxt "h0db12988ge4f1g4619g9c85ga8bd356db395"
 msgid "Astarion"
-msgstr ""
+msgstr "아스타리온"
 
 #. uuid = ffd08582-7396-4cac-d4bc-9c8ffdd0f38e
 #. tag_name = REALLY_ASTARION
@@ -839,7 +841,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/02913f9a-f696-40cf-acdf-32032afab32c.lsx:8
 msgctxt "he58b883ag9b2fg45adgac11g2a67dd1a1181"
 msgid "Barbarian"
-msgstr ""
+msgstr "바바리안"
 
 #. uuid = 02913f9a-f696-40cf-dfac-0332fa2a2cb3
 #. tag_name = BARBARIAN
@@ -861,7 +863,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/02da79f5-6f13-4f90-9819-102e37693f48.lsx:8
 msgctxt "he78dba7dg4078g4d99gb8f5ga0ac3c2d2852"
 msgid "Greataxe"
-msgstr ""
+msgstr "그레이트액스"
 
 #. uuid = 035128b6-9778-4aa7-5f8f-23664baac6f4
 #. tag_name = HYENA
@@ -871,7 +873,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/035128b6-9778-4aa7-8f5f-6623aa4bf4c6.lsx:8
 msgctxt "hf697bae9g4ba6g47a6ga7c9g57173b0279c5"
 msgid "Hyena"
-msgstr ""
+msgstr "하이에나"
 
 #. uuid = 035128b6-9778-4aa7-5f8f-23664baac6f4
 #. tag_name = HYENA
@@ -881,7 +883,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/035128b6-9778-4aa7-8f5f-6623aa4bf4c6.lsx:7
 msgctxt "h95209ce4g2d0dg400egb8d1g9249d4985092"
 msgid "HYENA tooltip"
-msgstr ""
+msgstr "HYENA tooltip"
 
 #. uuid = 0353b9e8-b2a1-45b9-ec8e-593d6cef1405
 #. tag_name = AI_HINT_SUMMONER
@@ -891,7 +893,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0353b9e8-b2a1-45b9-8eec-3d59ef6c0514.lsx:8
 msgctxt "h2d763adbg9901g4711g8b99g0d3965ce2533"
 msgid "AiHint_Summoner"
-msgstr ""
+msgstr "AiHint_Summoner"
 
 #. uuid = 0353b9e8-b2a1-45b9-ec8e-593d6cef1405
 #. tag_name = AI_HINT_SUMMONER
@@ -901,7 +903,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0353b9e8-b2a1-45b9-8eec-3d59ef6c0514.lsx:7
 msgctxt "h75ac3596g5c28g4944g9568g6e487ff433e1"
 msgid "AiHint_Summoner tooltip"
-msgstr ""
+msgstr "AiHint_Summoner tooltip"
 
 #. uuid = 03a8e066-673e-4353-04ae-407c4e175ba0
 #. tag_name = IGNORE_HEIGHT_DIFFERENCE
@@ -911,7 +913,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/03a8e066-673e-4353-ae04-7c40174ea05b.lsx:8
 msgctxt "h00721d73g9bf4g4373ga2f2g77cfec8dcd74"
 msgid "IGNORE_HEIGHT_DIFFERENCE"
-msgstr ""
+msgstr "IGNORE_HEIGHT_DIFFERENCE"
 
 #. uuid = 03a8e066-673e-4353-04ae-407c4e175ba0
 #. tag_name = IGNORE_HEIGHT_DIFFERENCE
@@ -921,7 +923,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/03a8e066-673e-4353-ae04-7c40174ea05b.lsx:7
 msgctxt "h33879b04g1d2fg4ce4ga654g34cf01dea723"
 msgid "IGNORE_HEIGHT_DIFFERENCE tooltip"
-msgstr ""
+msgstr "IGNORE_HEIGHT_DIFFERENCE tooltip"
 
 #. uuid = 058df86a-97b6-4dc4-46a2-dba1ff650f3c
 #. tag_name = REALLY_STOUTHALFLING
@@ -1015,7 +1017,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/081a2ef4-dc1b-4d5b-bae3-8db81bef1d06.lsx:7
 msgctxt "h7685afbegc152g4044gab41g0d617cebd137"
 msgid "MONSTROSITY tooltip"
-msgstr ""
+msgstr "MONSTROSITY tooltip"
 
 #. uuid = 09518377-4ea1-4ce2-e8b8-4761267cddeb
 #. tag_name = FORESTGNOME
@@ -1058,7 +1060,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0976fc05-da0e-43ea-8978-5accef445e0f.lsx:7
 msgctxt "he1f2b97dge4f3g4eb4gbd4eg5b64a9bc8836"
 msgid "FROG tooltip"
-msgstr ""
+msgstr "FROG tooltip"
 
 #. uuid = 09962a69-b99d-40ed-8eb2-54c220206c66
 #. tag_name = Puzzle
@@ -1140,7 +1142,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0bdf874a-3703-49be-b1cf-4d291d4e495b.lsx:8
 msgctxt "hcbb97644g5a9dg4b21gb4c5g9f37d981e198"
 msgid "SCRYING_EYE"
-msgstr ""
+msgstr "SCRYING_EYE"
 
 #. uuid = 0bdf874a-3703-49be-cfb1-294d4e1d5b49
 #. tag_name = SCRYING_EYE
@@ -1150,7 +1152,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0bdf874a-3703-49be-b1cf-4d291d4e495b.lsx:7
 msgctxt "hd35aabeege397g4555gb544g4e6da6151b80"
 msgid "SCRYING_EYE tooltip"
-msgstr ""
+msgstr "SCRYING_EYE tooltip"
 
 #. uuid = 0cc54cdc-7b26-4b12-af98-00f8370b88e9
 #. tag_name = PALADIN_LOLTH
@@ -1203,7 +1205,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0d1d64b8-70d6-4702-8643-be348b0f3fc6.lsx:8
 msgctxt "h424dcdc3g3e2bg489bga3e7g9b88a5b658f1"
 msgid "Cleric of Shar"
-msgstr ""
+msgstr "샤의 클레릭"
 
 #. uuid = 0d1d64b8-70d6-4702-4386-34be0f8bc63f
 #. tag_name = CLERIC_SHAR
@@ -1226,7 +1228,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0ef7a827-b872-4c8c-85f0-2a2b516439c4.lsx:8
 msgctxt "h5d18a2e2gf4c1g406cg9588gc98237d5ff47"
 msgid "GNOLL_FLESHGNAWER"
-msgstr ""
+msgstr "GNOLL_FLESHGNAWER"
 
 #. uuid = 0ef7a827-b872-4c8c-f085-2b2a6451c439
 #. tag_name = GNOLL_FLESHGNAWER
@@ -1236,7 +1238,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0ef7a827-b872-4c8c-85f0-2a2b516439c4.lsx:7
 msgctxt "h501088aag0abdg4eb5gbe88gbda3e9c638cc"
 msgid "GNOLL_FLESHGNAWER tooltip"
-msgstr ""
+msgstr "GNOLL_FLESHGNAWER tooltip"
 
 #. uuid = 0f68567e-1e38-41d9-cab2-33285a19f4b2
 #. tag_name = TURTLE
@@ -1286,7 +1288,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0fc0e733-c539-4d4d-b0cb-fef6d666ba9b.lsx:7
 msgctxt "h51d24524gb7a1g439agafe5g4e372d841ddd"
 msgid "CHICKEN tooltip"
-msgstr ""
+msgstr "CHICKEN tooltip"
 
 #. uuid = 1013e720-9b0f-4783-8686-559b84068800
 #. tag_name = LOCKPICKS
@@ -1311,7 +1313,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/10b2a53c-3eb0-451c-8057-0f1cc9e62a4d.lsx:8
 msgctxt "hd5559499geed3g4675g9172g7b0ad360cde4"
 msgid "Cleric of Selûne"
-msgstr ""
+msgstr "셀루네의 클레릭"
 
 #. uuid = 10b2a53c-3eb0-451c-5780-1c0fe6c94d2a
 #. tag_name = CLERIC_SELUNE
@@ -1354,7 +1356,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1350164f-85e1-42f9-89c9-eb0c6703e890.lsx:8
 msgctxt "h0ef98595g94fdg43e3g8ac7gafedf6ad664d"
 msgid "Gnoll"
-msgstr ""
+msgstr "놀"
 
 #. uuid = 1350164f-85e1-42f9-c989-0ceb036790e8
 #. tag_name = GNOLL
@@ -1364,7 +1366,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1350164f-85e1-42f9-89c9-eb0c6703e890.lsx:7
 msgctxt "h101fb3d5gc69fg4512gb037gd2cb6a40b5cd"
 msgid "GNOLL tooltip"
-msgstr ""
+msgstr "GNOLL tooltip"
 
 #. uuid = 1402369e-b821-47be-cc95-5c43e59048ca
 #. tag_name = RECORD_PLAYER
@@ -1374,7 +1376,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1402369e-b821-47be-95cc-435c90e5ca48.lsx:8
 msgctxt "hea5c2968gbd7dg4df7ga169g1b321b371cbe"
 msgid "RECORD_PLAYER"
-msgstr ""
+msgstr "RECORD_PLAYER"
 
 #. uuid = 1402369e-b821-47be-cc95-5c43e59048ca
 #. tag_name = RECORD_PLAYER
@@ -1384,7 +1386,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1402369e-b821-47be-95cc-435c90e5ca48.lsx:7
 msgctxt "h547e885ag733eg4281g8655ga03299130ef6"
 msgid "RECORD_PLAYER tooltip"
-msgstr ""
+msgstr "RECORD_PLAYER tooltip"
 
 #. uuid = 150ee63f-4d47-4951-44b9-53a8bed8a8b9
 #. tag_name = MUTED
@@ -1404,7 +1406,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/16657b43-323e-4eee-8982-77338229444b.lsx:8
 msgctxt "h0160ada8gc451g4c15ga08bg4d6a65202a90"
 msgid "Cleric of Tyr"
-msgstr ""
+msgstr "티르의 클레릭"
 
 #. uuid = 16657b43-323e-4eee-8289-337729824b44
 #. tag_name = CLERIC_TYR
@@ -1427,7 +1429,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1671b4bf-4f47-4bb7-9cb9-80bb1f6009d5.lsx:8
 msgctxt "hbc2652f4gf148g4505g921bgc7b40362ec3b"
 msgid "Cleric"
-msgstr ""
+msgstr "클레릭"
 
 #. uuid = 1671b4bf-4f47-4bb7-b99c-bb80601fd509
 #. tag_name = CLERIC
@@ -1494,7 +1496,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/18266c0b-efbc-4c80-8784-ada4a37218d7.lsx:8
 msgctxt "hdd1386fag3caeg43acg8516g835647d8742f"
 msgid "Sorcerer"
-msgstr ""
+msgstr "소서러"
 
 #. uuid = 18266c0b-efbc-4c80-8487-a4ad72a3d718
 #. tag_name = SORCERER
@@ -1641,7 +1643,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1ae7017c-4884-4a43-bc4a-742fa0d201c0.lsx:8
 msgctxt "h32b514dfg4196g4f2cgb2ecge993eeac914e"
 msgid "Fighter"
-msgstr ""
+msgstr "파이터"
 
 #. uuid = 1ae7017c-4884-4a43-4abc-2f74d2a0c001
 #. tag_name = FIGHTER
@@ -1776,7 +1778,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1eec74e8-3673-4500-abec-57b7ed8469ed.lsx:8
 msgctxt "hd9c6010fgdcaeg49bfgafb6gc080e578a79a"
 msgid "Illithid"
-msgstr ""
+msgstr "일리시드"
 
 #. uuid = 1eec74e8-3673-4500-ecab-b75784eded69
 #. tag_name = ILLITHID
@@ -1880,7 +1882,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2502057c-6210-4dcb-9943-2812b59c3737.lsx:8
 msgctxt "h072340c0g50b5g484dgb395g285e2be21a64"
 msgid "Paladin of Bane"
-msgstr ""
+msgstr "베인의 팔라딘"
 
 #. uuid = 2502057c-6210-4dcb-4399-12289cb53737
 #. tag_name = PALADIN_BANE
@@ -1972,7 +1974,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/277f9609-ad0c-4883-b56d-0850904e88df.lsx:8
 msgctxt "h4161d225g7881g4fb3gbde5g0c3c6f7b6f23"
 msgid "Half-Elf"
-msgstr ""
+msgstr "하프 엘프"
 
 #. uuid = 277f9609-ad0c-4883-6db5-50084e90df88
 #. tag_name = REALLY_HALFELF
@@ -2058,7 +2060,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2b40a033-7a5c-47e9-92f0-7de9b5cd3a42.lsx:8
 msgctxt "hb6362a38g7c83g4b49ga46eg2e60e55f9a5f"
 msgid "Halfling"
-msgstr ""
+msgstr "하플링"
 
 #. uuid = 2b40a033-7a5c-47e9-f092-e97dcdb5423a
 #. tag_name = REALLY_HALFLING
@@ -2123,7 +2125,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2d0a73b9-f113-4d35-bdee-a31ab9163d74.lsx:8
 msgctxt "ha341638fg437cg44d1gb6adgbb8619cafcec"
 msgid "Underdark"
-msgstr ""
+msgstr "언더다크"
 
 #. uuid = 2d0a73b9-f113-4d35-eebd-1aa316b9743d
 #. tag_name = REALLY_UNDERDARK
@@ -2284,7 +2286,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/32049276-fd31-469a-a1d2-f37db9482be7.lsx:7
 msgctxt "h5c1b65edgccd5g4afdgb88eg91eb0dfc06b8"
 msgid "AiHint_Teleport tooltip"
-msgstr ""
+msgstr "AiHint_Teleport tooltip"
 
 #. uuid = 33c625aa-6982-4c27-4f90-70e4a92940b1
 #. tag_name = UNDEAD
@@ -2328,7 +2330,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/34317158-8e6e-45a2-bd1e-6604d82fdda2.lsx:8
 msgctxt "hc67c3375ge31bg42ebg99b5g64ba92b183ec"
 msgid "Half-Elf"
-msgstr ""
+msgstr "하프 엘프"
 
 #. uuid = 34317158-8e6e-45a2-1ebd-04662fd8a2dd
 #. tag_name = HALFELF
@@ -2342,6 +2344,8 @@ msgid ""
 "never quite fitting in. Curious, ambitious, and versatile, half-elves are "
 "welcome everywhere - yet struggle to stay for long."
 msgstr ""
+"하프 엘프는 부모 양쪽으로부터 축복을 물려받지만, 그에 따른 대가 또한 큽니다. 호기심 많고 열성적이며 다재다능한 하프 엘프는 어딜 가던 "
+"환영받지만, 오래 머무르지는 못합니다."
 
 #. uuid = 346b447c-93ba-426c-f5ac-92dafb44ec22
 #. tag_name = WEIGHT_LARGE
@@ -2351,7 +2355,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/346b447c-93ba-426c-acf5-da9244fb22ec.lsx:8
 msgctxt "h16031b41g359ag42c6g8912ge834b52f3138"
 msgid "Weight_Large"
-msgstr ""
+msgstr "Weight_Large"
 
 #. uuid = 351f4e42-1217-4c06-7ab4-3d4469cf11b1
 #. tag_name = ELF
@@ -2361,7 +2365,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/351f4e42-1217-4c06-b47a-443dcf69b111.lsx:8
 msgctxt "h8090462dg9bdfg4278gb436ge2a3f956eb82"
 msgid "Elf"
-msgstr ""
+msgstr "엘프"
 
 #. uuid = 351f4e42-1217-4c06-7ab4-3d4469cf11b1
 #. tag_name = ELF
@@ -2384,7 +2388,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/35313c46-61b6-4e06-b054-ae84400a1890.lsx:8
 msgctxt "h252d23cdg58fag435ag9eaagcc731265bdb0"
 msgid "Dog"
-msgstr ""
+msgstr "개"
 
 #. uuid = 35313c46-61b6-4e06-54b0-84ae0a409018
 #. tag_name = DOG
@@ -2394,7 +2398,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/35313c46-61b6-4e06-b054-ae84400a1890.lsx:7
 msgctxt "h88fd2defg013dg4c15gb8c1g5c1d9cbd629c"
 msgid "LAN"
-msgstr ""
+msgstr "LAN"
 
 #. uuid = 36c5df8b-7efc-4125-8e82-0e12cfd671fa
 #. tag_name = PALADIN_HELM
@@ -2427,7 +2431,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/375bd683-249f-488e-8ada-4ea49df5540d.lsx:8
 msgctxt "h56c333ecg4809g4158g9aa5g1ffb128b5af1"
 msgid "Giant"
-msgstr ""
+msgstr "거인"
 
 #. uuid = 375bd683-249f-488e-da8a-a44ef59d0d54
 #. tag_name = GIANT
@@ -2437,7 +2441,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/375bd683-249f-488e-8ada-4ea49df5540d.lsx:7
 msgctxt "h2d30053dg754cg4d34g8fb4g8357147188e8"
 msgid "GIANT tooltip"
-msgstr ""
+msgstr "거인 툴팁"
 
 #. uuid = 37a733c1-a862-4157-2ab9-ff9c23466a2c
 #. tag_name = RANGER
@@ -2447,7 +2451,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/37a733c1-a862-4157-b92a-9cff46232c6a.lsx:8
 msgctxt "hce9fd8dfgd5a3g4824gb4beg1c974a709b03"
 msgid "Ranger"
-msgstr ""
+msgstr "레인저"
 
 #. uuid = 37a733c1-a862-4157-2ab9-ff9c23466a2c
 #. tag_name = RANGER
@@ -2470,7 +2474,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/3806477c-65a7-4100-9f92-be4c12c4fa4f.lsx:8
 msgctxt "h4d28f1b3g3fb8g48d6ga015g7f6ef4a6ba7f"
 msgid "Female"
-msgstr ""
+msgstr "여성"
 
 #. uuid = 3806477c-65a7-4100-929f-4cbec4124ffa
 #. tag_name = FEMALE
@@ -2558,7 +2562,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/3a5efd84-5925-4a75-83ee-4f336b56f716.lsx:8
 msgctxt "hab86cb7bg53c0g4932ga83fgdf4800a625d9"
 msgid "Zariel Tiefling"
-msgstr ""
+msgstr "자리엘 티플링"
 
 #. uuid = 3a5efd84-5925-4a75-ee83-334f566b16f7
 #. tag_name = REALLY_ZARIELTIEFLING
@@ -2580,7 +2584,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/3bd9cf0a-5512-4d6a-9da8-d15684ea0412.lsx:8
 msgctxt "h8c42be9bgcefeg45f1g8152g40b2b7cd1d7d"
 msgid "ENFORCE_ANALYSIS"
-msgstr ""
+msgstr "ENFORCE_ANALYSIS"
 
 #. uuid = 3bd9cf0a-5512-4d6a-a89d-56d1ea841204
 #. tag_name = ENFORCE_ANALYSIS
@@ -2590,7 +2594,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/3bd9cf0a-5512-4d6a-9da8-d15684ea0412.lsx:7
 msgctxt "h40fff8cag8394g4faag8481g002170f559d6"
 msgid "ENFORCE_ANALYSIS tooltip"
-msgstr ""
+msgstr "ENFORCE_ANALYSIS tooltip"
 
 #. uuid = 3c33430b-c7f0-4e26-7d90-2aabdd2623b8
 #. tag_name = TOY
@@ -2729,7 +2733,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/42483542-7915-4de5-a7d9-ac0d15fe301c.lsx:8
 msgctxt "h6dbed1f8g741fg4d6agabf6gfe61540039d3"
 msgid "Gnome"
-msgstr ""
+msgstr "노움"
 
 #. uuid = 42483542-7915-4de5-d9a7-0dacfe151c30
 #. tag_name = REALLY_GNOME
@@ -2824,7 +2828,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/44ac4317-4d38-4d28-80e2-94024c6e42f0.lsx:8
 msgctxt "h299daf83g9417g4e20gb179ge3fc35b36b93"
 msgid "Druid"
-msgstr ""
+msgstr "드루이드"
 
 #. uuid = 44ac4317-4d38-4d28-e280-02946e4cf042
 #. tag_name = DRUID
@@ -2867,7 +2871,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/450f4137-1a60-45e3-90cf-de9e182f3078.lsx:8
 msgctxt "h4981708bg3ecbg477dg94d4g19f10c529a37"
 msgid "SFX_Only"
-msgstr ""
+msgstr "SFX_Only"
 
 #. uuid = 450f4137-1a60-45e3-cf90-9ede2f187830
 #. tag_name = SFX_Only
@@ -2877,7 +2881,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/450f4137-1a60-45e3-90cf-de9e182f3078.lsx:7
 msgctxt "h1733e1e4g7d05g45b1ga183g1f71ab75e52e"
 msgid "SFX_Only tooltip"
-msgstr ""
+msgstr "SFX_Only tooltip"
 
 #. uuid = 4533d292-5b1f-43c7-44ad-c76b10dbca00
 #. tag_name = SELUNE
@@ -2887,7 +2891,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/4533d292-5b1f-43c7-ad44-6bc7db1000ca.lsx:8
 msgctxt "h7c293751g166fg4b68g82cfgd95a8056785b"
 msgid "Selûne"
-msgstr ""
+msgstr "셀루네"
 
 #. uuid = 45a231e4-e94f-4b0e-41a9-af2ddf1ab544
 #. tag_name = AI_HINT_CASTER
@@ -2907,7 +2911,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/45a231e4-e94f-4b0e-a941-2daf1adf44b5.lsx:7
 msgctxt "hc06ef6dagbd19g4b83gb0a9gfaaae2bf2b42"
 msgid "AiHint_Mage tooltip"
-msgstr ""
+msgstr "AiHint_Mage tooltip"
 
 #. uuid = 45b007f7-f4f6-46e2-8094-5a39b849f37e
 #. tag_name = REALLY_DUERGARDWARF
@@ -2917,7 +2921,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/45b007f7-f4f6-46e2-9480-395a49b87ef3.lsx:8
 msgctxt "h6a479792g72b8g4e54g8b2cg9e5061b4ac72"
 msgid "Duergar"
-msgstr ""
+msgstr "듀에르가"
 
 #. uuid = 45b007f7-f4f6-46e2-8094-5a39b849f37e
 #. tag_name = REALLY_DUERGARDWARF
@@ -2940,7 +2944,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/480f5568-7c49-45e4-9543-7c06e43bdf52.lsx:8
 msgctxt "h7126e984g53f5g4451gac33g65b1c25956a1"
 msgid "Myconid"
-msgstr ""
+msgstr "마이코니드"
 
 #. uuid = 4835ba9d-c0d6-40fb-62ad-f888b575c236
 #. tag_name = ILLITHID_HIDDEN_CHECK
@@ -2970,7 +2974,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/486a2562-31ae-437b-bf63-30393e18cbdd.lsx:8
 msgctxt "haee50b4bg4cfbg4c06gae7fgfc221c283513"
 msgid "Dwarf"
-msgstr ""
+msgstr "드워프"
 
 #. uuid = 486a2562-31ae-437b-63bf-3930183eddcb
 #. tag_name = DWARF
@@ -2992,7 +2996,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/486e4a27-e6f9-40a5-9dd1-108a1d0f60eb.lsx:8
 msgctxt "haddc2cb6g2d91g47cdg83adg43ab5adaa56c"
 msgid "Shar"
-msgstr ""
+msgstr "샤"
 
 #. uuid = 489adf86-3f6c-4e2f-e8b3-307d90d39688
 #. tag_name = CANDLE
@@ -3022,7 +3026,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/492c3200-1226-4114-bad1-f6b1ba737f3d.lsx:8
 msgctxt "hbf00e575ga43dg40e5g825fg791539a41c02"
 msgid "High Elf"
-msgstr ""
+msgstr "하이 엘프"
 
 #. uuid = 492c3200-1226-4114-d1ba-b1f673ba3d7f
 #. tag_name = HIGHELF
@@ -3044,7 +3048,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/494bddcf-9325-4883-a937-817fbdf11161.lsx:8
 msgctxt "hf2c5aaf6ga110g48cbgab50gd8e307409786"
 msgid "Bane"
-msgstr ""
+msgstr "베인"
 
 #. uuid = 498946c4-246a-47dc-219c-fb898b531426
 #. tag_name = PALADIN_MYSTRA
@@ -3054,7 +3058,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/498946c4-246a-47dc-9c21-89fb538b2614.lsx:8
 msgctxt "h157e76fdgb8c1g41ccg84f3g55cb0267b0dc"
 msgid "Paladin of Mystra"
-msgstr ""
+msgstr "미스트라의 팔라딘"
 
 #. uuid = 498946c4-246a-47dc-219c-fb898b531426
 #. tag_name = PALADIN_MYSTRA
@@ -3107,7 +3111,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/4bac801e-9471-4f41-88bc-caa39e358c52.lsx:8
 msgctxt "h9824d342g0246g4934gab1bg14da3bd4ba9e"
 msgid "|Wild Magic Guaranteed - no destub|"
-msgstr ""
+msgstr "|Wild Magic Guaranteed - no destub|"
 
 #. uuid = 4cb02915-7ad7-4141-7e90-25936a3c4486
 #. tag_name = REALLY_PLANAR
@@ -3328,7 +3332,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/541bd0f1-9164-4c16-b04e-7b5c96038471.lsx:7
 msgctxt "h3757e025gb2cbg4a5eg9b3cgef03f1b30975"
 msgid "RECORD_PROTAGONIST tooltip"
-msgstr ""
+msgstr "RECORD_PROTAGONIST tooltip"
 
 #. uuid = 542b58f0-42ad-4157-8ea2-43270e4e187b
 #. tag_name = NOT_MESSING_AROUND
@@ -3338,7 +3342,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/542b58f0-42ad-4157-a28e-27434e0e7b18.lsx:8
 msgctxt "hcaeee2ddg0cebg407ag8239g15dd2351760d"
 msgid "NOT_MESSING_AROUND"
-msgstr ""
+msgstr "NOT_MESSING_AROUND"
 
 #. uuid = 542b58f0-42ad-4157-8ea2-43270e4e187b
 #. tag_name = NOT_MESSING_AROUND
@@ -3348,7 +3352,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/542b58f0-42ad-4157-a28e-27434e0e7b18.lsx:7
 msgctxt "h0ae5615ega7f3g40fdgab13gc840ed1c1e8a"
 msgid "NOT_MESSING_AROUND tooltip"
-msgstr ""
+msgstr "NOT_MESSING_AROUND tooltip"
 
 #. uuid = 556b33c9-2cde-4d41-008c-cddd61c168c8
 #. tag_name = STONE
