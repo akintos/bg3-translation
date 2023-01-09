@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-01-09 15:23+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
+"sharedlocalization/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. key = Gustav_BackgroundGoals_New_Stat_0_Description
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Description.lsx:8
@@ -28288,7 +28290,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:246
 msgctxt "h297f1716g8822g481fgb2bcg6c7a0f6f757c"
 msgid "Fireball"
-msgstr ""
+msgstr "화염구"
 
 #. key = Shared_Projectile_Fireball_Trap_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:897
@@ -28318,19 +28320,19 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:218
 msgctxt "h8eaa5f4bg6731g47c4g983ag2bcb6488497a"
 msgid "Fly to the target position."
-msgstr ""
+msgstr "대상 지점으로 날아갑니다."
 
 #. key = Shared_Projectile_Fly_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:204
 msgctxt "h4351c365g38afg4a30g986agd88ad9905fa3"
 msgid "Fly"
-msgstr ""
+msgstr "비행"
 
 #. key = Shared_Projectile_GEB_GoblinKid_ThrowRocks_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:701
 msgctxt "h55778ca9g71f3g40feg9e31g2f3aaec3f6ab"
 msgid "Throw Rock"
-msgstr ""
+msgstr "돌 던지기"
 
 #. key = Shared_Projectile_GEB_Perform_TossCoin_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:722
@@ -28342,7 +28344,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:855
 msgctxt "hee741fb3g41c2g4638g8b37g924c73d9573a"
 msgid "Toss a Coin"
-msgstr ""
+msgstr "동전 던지기"
 
 #. key = Shared_Projectile_Generic_Imp_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:456
@@ -28362,13 +28364,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:925
 msgctxt "h1138da96gffefg48c8g8fbcg3dda146a138a"
 msgid "Glyph of Warding: Acid"
-msgstr ""
+msgstr "수호의 문자: 산"
 
 #. key = Shared_Projectile_GlyphOfWarding_Cold_Trap_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:932
 msgctxt "hd6ecf2c0g9929g4a77g9266g8200489c0939"
 msgid "Glyph of Warding: Cold"
-msgstr ""
+msgstr "수호의 문자: 냉기"
 
 #. key = Shared_Projectile_GlyphOfWarding_Detonation_Trap_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:925
@@ -28382,19 +28384,19 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:953
 msgctxt "h6f281b47gbadbg4516g8a12gd9fe722ca68f"
 msgid "Glyph of Warding: Detonation"
-msgstr ""
+msgstr "수호의 문자: 폭발"
 
 #. key = Shared_Projectile_GlyphOfWarding_Fire_Trap_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:939
 msgctxt "ha8f59e41g7129g4d2bgb10eg0c6d4d635bb4"
 msgid "Glyph of Warding: Fire"
-msgstr ""
+msgstr "수호의 문자: 불"
 
 #. key = Shared_Projectile_GlyphOfWarding_Lightning_Trap_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:946
 msgctxt "hcb46f221gf99fg4c4agb1d6gd3a9f80a804f"
 msgid "Glyph of Warding: Lightning"
-msgstr ""
+msgstr "수호의 문자: 번개"
 
 #. key = Shared_Projectile_GlyphOfWarding_Sleep_Trap_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:932
@@ -28408,25 +28410,25 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:960
 msgctxt "hecf68ee8g8c89g462bg9cb7g8c6aa41fac7c"
 msgid "Glyph of Warding: Sleep"
-msgstr ""
+msgstr "수호의 문자: 수면"
 
 #. key = Shared_Projectile_GlyphOfWarding_Thunder_Trap_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:988
 msgctxt "hf45f5b7cg4eccg4c54gbdc0g63626e691a01"
 msgid "Glyph of Warding: Thunder"
-msgstr ""
+msgstr "수호의 문자: 천둥"
 
 #. key = Shared_Projectile_GreenSporeCloud_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:323
 msgctxt "hdaafea37ga405g4886g9847gb68f7f90e1b6"
 msgid "Eject poisonous bibberbang spores and create a cloud of Noxious Fumes."
-msgstr ""
+msgstr "독성 비버뱅 포자를 뿜어내 유해한 구름을 만듭니다."
 
 #. key = Shared_Projectile_GreenSporeCloud_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:582
 msgctxt "h75aaed3bg26c1g44a3g8891g230a6f8bf428"
 msgid "Bibberbang Spores"
-msgstr ""
+msgstr "비버뱅 포자"
 
 #. key = Shared_Projectile_Grenade_AcidBottle_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:659
