@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-11 19:52+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2023-01-14 04:52+0000\n"
+"Last-Translator: OCN <veritas997@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/journal/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,8 @@ msgid ""
 "Zarys, leader of the local Zhentarim, said her agents went missing while "
 "transporting a shipment. She'll pay a hefty sum if we return it unopened."
 msgstr ""
+"이 지역 젠타림의 지도자인 자리스가 요원들이 화물을 옮기는 도중 실종되었다고 했다. 화물을 열어보지 않은 채로 돌려준다면 큰 보상을 줄 "
+"것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:38
 msgctxt "hed8f162ag7246g4d7dg8710gfeed77e9a670"
@@ -31,11 +33,12 @@ msgid ""
 "We found Zarys' missing agents trapped in a cave surrounded by gnolls. If we "
 "want to save them, we'll have to take out the gnolls first."
 msgstr ""
+"우리는 실종되었던 자리스의 요원들이 놀들에게 포위된 채 동굴에 갇혀있는 것을 발견했다. 그들을 구하기 위해선 놀부터 처리해야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:58
 msgctxt "h554cd131g47a7g4333g9422g8a9f85c923e5"
 msgid "The gnolls have been defeated. We should let Rugan know."
-msgstr ""
+msgstr "놀들을 물리쳤다. 루간에게 알려줘야한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:78
 msgctxt "h42eb5f6ag06c8g4063gabdcg988b731ae616"
@@ -43,6 +46,8 @@ msgid ""
 "We found the remains of a caravan. A note on a corpse mentioned a valuable "
 "chest and someone called 'NF'. Perhaps someone survived this attack."
 msgstr ""
+"우리는 상단의 잔해를 발견했다. 한 시체가 갖고 있던 노트에서 중요한 상자와 'NF'라는 인물에 대해 언급되었다. 분명 누군가는 이 "
+"공격에서 살아남았을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:98
 msgctxt "h7fc94f49g55c5g4573gb2begf87d6d9a3eb1"
@@ -50,49 +55,51 @@ msgid ""
 "We discovered the wrecked wagon and a note on one of the dead. This must be "
 "one of Zarys' missing agents, but where are the others? And the shipment?"
 msgstr ""
+"우리는 파손된 수레, 시체에 있던 노트를 발견했다. 이들은 분명히 젠타림의 실종된 요원들일텐데, 나머지는 어디에 있을까. 그리고 그 "
+"화물은 어디에 있을까?"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:118
 msgctxt "heec574bbgb63dg4531gbc41ge3d381c4bbe0"
 msgid ""
 "We discovered two people trapped in a cave, surrounded by a horde of "
 "ravenous gnolls. They'll likely die without help."
-msgstr ""
+msgstr "우리는 두 인간이 동굴에 갇힌 채 굶주린 놀들에 의해 둘러 쌓인 것을 발견했다. 도와주지 않는다면 그들은 죽을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:138
 msgctxt "ha1be8cdbg8dadg4591g8891gca2d6fd8a7f1"
 msgid ""
 "We saved two men from a band of ravenous gnolls. We should speak to them "
 "before anything else shows up."
-msgstr ""
+msgstr "우리는 두 인간을 굶주린 놀 무리에게서 구해주었다. 다른 것들이 나타나기 전에 그들과 대화해야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:158
 msgctxt "h6ae1c533g3da0g40bfgab91g28d447b01829"
 msgid ""
 "We managed to defeat the gnolls. We should talk to the survivor before "
 "anything else shows up."
-msgstr ""
+msgstr "우리는 놀 무리를 물리쳐냈다. 다른 것들이 나타나기 전에 그들과 대화해야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:178
 msgctxt "h17b1e8edg7d61g47a4ga8e7g1de2132fcae7"
 msgid "We managed to defeat the gnolls. We should return to Olly."
-msgstr ""
+msgstr "우리는 놀 무리를 물리쳐냈다. 올리에게 돌아가야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:198
 msgctxt "h16570bc1gd72eg426ag9e8eg4ea214af8f04"
 msgid "Zarys' agents lie dead. We need to bring their shipment back to Zarys."
-msgstr ""
+msgstr "자리스의 요원들은 죽은 채 누워있다. 자리스에게 화물을 돌려줘야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:218
 msgctxt "h9e3ccaeag0cf5g445dga175gea539900bfd1"
 msgid "Zarys' agents died. However, we have the shipment. She'll be pleased."
-msgstr ""
+msgstr "자리스의 요원들은 죽었지만 화물은 확보했다. 그녀가 기뻐할 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:238
 msgctxt "hccbe9c4dg3d52g412eg8b0ag46d13ab6b22b"
 msgid ""
 "The two men died. Their cargo is still in the cave, however. It looks "
 "valuable."
-msgstr ""
+msgstr "두 인간은 죽었지만 그들이 지키고 있던 화물은 그대로 동굴에 있다. 매우 귀중해 보인다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:258
 msgctxt "h15407b8eg1debg4501gaf4ag9202d1dd32ae"
@@ -106,52 +113,52 @@ msgctxt "h7fcbd397g7774g4ab4g89c7g2fd059791bcd"
 msgid ""
 "Rugan thanked us for saving him and the other agent. We should return to "
 "Zarys for payment."
-msgstr ""
+msgstr "루간이 자신과 다른 요원을 구해준 것에 대해 감사를 표했다. 자리스에게 돌아가 보상을 받자."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:298
 msgctxt "h76b83ed5gc649g4017ga638g93dcac3fa687"
 msgid "We made enemies of the Zhentarim before we could complete our mission."
-msgstr ""
+msgstr "우리는 임무를 끝내기 전에 젠타림을 적으로 만들어버렸다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:318
 msgctxt "h8199e0a5g734dg4349gbeafg38669b2f6775"
 msgid "We left the region without finding the chest."
-msgstr ""
+msgstr "우리는 상자를 찾지 않은 채 지역을 떠났다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:338
 msgctxt "h44864148g4914g4ac4g8b96g9b40c69be768"
 msgid ""
 "One of Zarys' agents is dead. Olly wants nothing to do with the chest they "
 "carried. Zarys will want it back."
-msgstr ""
+msgstr "젠타림 요원 중 하나가 죽었다. 올리는 운반하던 화물을 더 이상 옮기고 싶어하지 않는다. 자리스는 돌려받기 원할 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:358
 msgctxt "h576dcd06g59beg45e7ga1bdg70ef276d8c61"
 msgid ""
 "One of Zarys' agents lies dead, but we have the shipment. Zarys will be "
 "pleased."
-msgstr ""
+msgstr "자리스의 요원 중 한 명이 죽은 채 누워있지만 화물은 확보했다. 자리스가 기뻐할 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:378
 msgctxt "h3441220cg1d0ag4dbag9aa2g1fe851ed8623"
 msgid ""
 "One of the men died. The other wants nothing to do with the chest they "
 "carried. It looks valuable."
-msgstr ""
+msgstr "인간들 중 한 명이 죽었다. 다른 한 명은 운반하던 화물을 더 이상 옮기고 싶어하지 않는다. 화물은 매우 귀중해 보인다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:398
 msgctxt "h00dc79e2g6802g4d22g8783gb59824c30e93"
 msgid ""
 "Using our parasite, we forced the gnoll leader to attack the men in the "
 "cave. It's sure to be a bloodbath."
-msgstr ""
+msgstr "기생충을 이용하여 놀 대장을 동굴 안에 있는 인간들을 공격하게 만들었다. 피바다가 되었으리라."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:418
 msgctxt "h986e44e3ge475g4f84gbbe2gbaa1d720563b"
 msgid ""
 "Things turned sour with the survivors in the cave. We'll make quick work of "
 "them."
-msgstr ""
+msgstr "동굴 속 생존자들과의 상황이 틀어졌다. 그들을 빨리 처리해야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:438
 msgctxt "ha92bdba9g22dbg4df4gb67dgfb439a044139"
@@ -159,33 +166,35 @@ msgid ""
 "Rugan thanked us and invited us to meet his associates. To enter their "
 "hideout, we need to use the password 'little serpent, long shadow'."
 msgstr ""
+"루간이 감사를 표하며 그의 동료들과 만날 수 있도록 초대했다. 그들의 은신처에 들어가기 위해선 암구호를 이용해야 한다. '작은 뱀, 긴 "
+"그림자'."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:458
 msgctxt "h8fecce94gc524g445fg97e2g8065820dee6a"
 msgid ""
 "We were able to successfully enter the hideout. Time to find who's in charge."
-msgstr ""
+msgstr "우리는 은신처에 성공적으로 들어왔다. 그들의 대장이 누구인지 찾아야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:478
 msgctxt "hf35020e4g6a93g4342gb2bbgf3c508c7c7ba"
 msgid ""
 "We discovered a wrecked wagon. A corpse told us that someone called Rugan "
 "escaped with a chest and headed north. We should search for him."
-msgstr ""
+msgstr "파손된 수레를 발견했다. 루간이라는 자가 상자를 가지고 북쪽으로 달아났다고 그곳에 있던 시체가 말해주었다. 그자를 찾아야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:498
 msgctxt "hc0426b84g2930g4616g8283g5215387438d3"
 msgid ""
 "The two men died, but left behind a valuable chest. We could try to find its "
 "owner, or just open it and take what's inside."
-msgstr ""
+msgstr "두 인간은 죽었지만 귀중한 상자를 남겨두었다. 상자의 주인을 찾아주거나, 상자를 열어 안에 있는 것을 가져버릴 수 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:518
 msgctxt "hb3fb45f7gae52g4388gb147g21d8a1fed335"
 msgid ""
 "We took a locked and sealed chest from Rugan, one of the men we saved from "
 "gnolls. The chest is now ours, but we could try to find its owner."
-msgstr ""
+msgstr "놀들에게서 생존한 사람 중 하나인 루간에게서 봉인된 상자를 받았다. 우리의 소유가 되었지만 주인을 찾아볼 수도 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:538
 msgctxt "he3b58f5dg1880g4034g96ccg71c1b28414d9"
@@ -193,74 +202,79 @@ msgid ""
 "The men hiding from the gnolls were carrying a locked, sealed chest. We "
 "could try to find its owner, or just open it and take what's inside."
 msgstr ""
+"놀 무리에게서 숨었던 인간들은 (자물쇠로 잠기고) 봉인된 상자를 옮기고 있었다. 상자의 주인을 찾아주거나, 상자를 열어 안에 있는 것을 "
+"가져버릴 수 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:558
 msgctxt "h95f41a12g894fg45a9gbf19ge65700a98695"
 msgid "Pleased, Zarys rewarded us for bringing back the shipment."
-msgstr ""
+msgstr "(만족스럽게도, )자리스가 우리에게 화물을 돌려준 것에 대해 보상해 주었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:578
 msgctxt "h002a3e3cg8d72g4ab1gadf7ge302192e8041"
 msgid ""
 "Zarys attacked us when she learned we had lost the chest. We should have "
 "been more careful."
-msgstr ""
+msgstr "자리스는 우리가 상자를 잃어버렸다는 것을 알아차리고 우릴 공격했다. 좀 더 신중했어야 했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:598
 msgctxt "h58de445cgffe3g4ecag8156gd2b901146b8f"
 msgid ""
 "We broke the seal on the chest. No point in returning it to the owner now - "
 "guess it's ours!"
-msgstr ""
+msgstr "상자의 봉인을 풀었다. 이제는 주인에게 돌려 줄 의미가 없다 - 상자는 이제 우리 것이다!"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:618
 msgctxt "h2ccf4d51g5208g4850gaa28g70e18e638fb6"
 msgid "We kept the chest and left the area with it."
-msgstr ""
+msgstr "우리는 상자를 챙기고 그 지역을 떠났다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:638
 msgctxt "h1bb07793ged45g45bfgb2c3g05338f75043e"
 msgid "We tried meeting with Rugan's associates but were refused entry."
-msgstr ""
+msgstr "우린 루간의 동료들을 만나려 했으나 입장을 거부 당했습니다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:658
 msgctxt "h5a10e87fgc8a9g4895gb19eg47ce2b87f8b0"
 msgid ""
 "We tried to return the chest, but things went wrong. Guess it's ours now."
-msgstr ""
+msgstr "우리는 상자를 돌려주려 했으나 일이 잘못되어 버렸다. 상자는 이제 우리 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:678
+#, fuzzy
 msgctxt "h3b5540a0g8f6fg421eg9662g68447b0da0f6"
 msgid ""
 "Pleased, Zarys rewarded us for defending her agents. We kept quiet about the "
 "shipment. "
-msgstr ""
+msgstr "(만족스럽게도) 자리스는 요원들을 지켜준 것에 대해 보상해주었다. 우린 화물에 대해선 침묵했다. "
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:698
 msgctxt "h3bfc8a3bgb5d1g4195g9392gf29372b2fb08"
 msgid ""
 "We joined the Zhentarim. Zarys needs us to bring the shipment to Baldur's "
 "Gate."
-msgstr ""
+msgstr "우리는 젠타림에 입단했다. 자리스는 우리가 화물을 발더스 게이트로 옮길 것을 원한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:718
 msgctxt "h301bbdddg3dc8g4bbbg8f44g12fbf99e78e5"
 msgid ""
 "The shipment is ours. We should grab it while we can - and decide what to do "
 "with it."
-msgstr ""
+msgstr "화물은 우리 것이다. 갖고 있는 동안에 이 화물을 어떻게 할지 정해야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:743
+#, fuzzy
 msgctxt "hcd783c86gb7aeg46bfg9147g1e867258cd6f"
 msgid "Save the Goblin Sazza"
-msgstr ""
+msgstr "고블린 삿자를 구해라"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:749
+#, fuzzy
 msgctxt "h6351708eg842cg41d4ga869g7ea63d4c8485"
 msgid ""
 "Sazza betrayed us, but we convinced Minthara to spare her life. Let's hope "
 "she'll remember what we did for her."
-msgstr ""
+msgstr "삿자가 우릴 배신했지만 민타라가 삿자를 살려줄 것이라 확신한다. 우리가 삿자를 위해 해준 것을 기억하기를 바라자."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:774
 msgctxt "h72557e2bg6805g4581ga9bbg11cbf36c05c3"
@@ -1553,7 +1567,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5019
 msgctxt "h8a501633g3df1g4422gbabag8eb07fa0189e"
 msgid "Lae'zel is dead."
-msgstr ""
+msgstr "레이젤이 죽었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5039
 msgctxt "h7ea35a40g2714g4771gb1b5g900c8b66f969"
@@ -1656,14 +1670,14 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5404
 msgctxt "h206ccbd0g776dg44c0gbacbga01c935962aa"
 msgid "The Wizard of Waterdeep"
-msgstr ""
+msgstr "워터딥의 위자드"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5410
 msgctxt "hbeca3f01ge7cdg4c49gac86g5ef6de642084"
 msgid ""
 "A wizard named Gale joined the party. He claims to have been on the "
 "Nautiloid - which means he's infected too."
-msgstr ""
+msgstr "게일이라는 이름의 위자드가 일행에 합류했다. 그도 노틸로이드에 있었다고 한다. 즉 우리와 같은 감염자인 셈이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5430
 msgctxt "h06821c89gd2f6g4213g930fga02265d6139b"
@@ -1773,7 +1787,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5784
 msgctxt "h85272b6eg8ac7g4208g93eaga827ce4ae8f9"
 msgid "We successfully resurrected Gale. Let's make sure he doesn't die again."
-msgstr ""
+msgstr "게일을 부활시키는 데에 성공했다. 다시 죽는 일이 없도록 주의해야겠다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5804
 msgctxt "h7784c6e7g6f86g4b0dgbdbcg36c2bb386591"
@@ -1810,12 +1824,12 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5909
 msgctxt "h69a0003agdf18g4fb5g807cgdce740a6c40e"
 msgid "|Karlach Recruitment|"
-msgstr ""
+msgstr "|Karlach Recruitment|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5915
 msgctxt "he941d015gd95fg43b2g89acgc561a9c67988"
 msgid "|We defeated the cultists.|"
-msgstr ""
+msgstr "|We defeated the cultists.|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5935
 msgctxt "h83451ce9g366fg4d44g9b42gcb62f8ec9456"
@@ -1823,21 +1837,23 @@ msgid ""
 "|The cultists have left the tollhouse, perhaps we will see them in the "
 "future.|"
 msgstr ""
+"|The cultists have left the tollhouse, perhaps we will see them in the "
+"future.|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5955
 msgctxt "hbc6267f1g9c36g4b8eg9371gff8dee87e9be"
 msgid "|We lied about where Karlach could be found.|"
-msgstr ""
+msgstr "|We lied about where Karlach could be found.|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5975
 msgctxt "h927d0ec8g862bg4f11gb1c2g97cd6427eef9"
 msgid "|We told the refugees where to find Karlach|"
-msgstr ""
+msgstr "|We told the refugees where to find Karlach|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5995
 msgctxt "h32fc288eg0725g4c54g86a0gb2c83e435b76"
 msgid "|The refugees are looking for an one-horned tiefling|"
-msgstr ""
+msgstr "|The refugees are looking for an one-horned tiefling|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6020
 msgctxt "hb0a6df51gf5abg42b7g95b6g1c02d8c8d8a4"
@@ -1915,7 +1931,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6251
 msgctxt "heecade36g9142g4a1bg8584g5cb073729cb4"
 msgid "Search the Cellar"
-msgstr ""
+msgstr "지하실 수색"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6257
 msgctxt "h4e5796a2g6896g4af7g845bg1aeac5c26dfc"
@@ -2094,37 +2110,37 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6830
 msgctxt "hd84c53f6g04eag43e5gbb90ga03e5548d1aa"
 msgid "|Happy Torturers|"
-msgstr ""
+msgstr "|Happy Torturers|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6836
 msgctxt "hdb05017aga80cg498fgbc4fgd237c605c6dc"
 msgid "|Meet the Torturers|"
-msgstr ""
+msgstr "|Meet the Torturers|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6856
 msgctxt "h0fc163d5ga2a7g4711g8d3dg24f8c9980d6a"
 msgid "|Save tortured adventurer|"
-msgstr ""
+msgstr "|Save tortured adventurer|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6876
 msgctxt "he8b14478gf51fg423eg9993gca3443b7b583"
 msgid "|Fight the goblins|"
-msgstr ""
+msgstr "|Fight the goblins|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6896
 msgctxt "h03f089cfga52cg44a0g80a3gf8dedd447811"
 msgid "|We tricked goblins into leaving. We gotta free adventurer|"
-msgstr ""
+msgstr "|We tricked goblins into leaving. We gotta free adventurer|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6916
 msgctxt "hd35c734cg4c40g47c2gaf10g7369cbc72bd8"
 msgid "|Goblins are dead. We gotta free adventurer|"
-msgstr ""
+msgstr "|Goblins are dead. We gotta free adventurer|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6936
 msgctxt "h2240b5eegd247g4207g9bd7gf17d501074ec"
 msgid "|Adventurer is no longer unconscious. We gotta free him|"
-msgstr ""
+msgstr "|Adventurer is no longer unconscious. We gotta free him|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6956
 msgctxt "h164d4417g493cg4dd6gbd7dg13630c30b952"
@@ -2132,11 +2148,13 @@ msgid ""
 "|We tortured Liam into giving the goblin information on the Grove. They left "
 "him alone, but at what price?|"
 msgstr ""
+"|We tortured Liam into giving the goblin information on the Grove. They left "
+"him alone, but at what price?|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6976
 msgctxt "h732a34c0ga5b7g4529gaf1bg3b962cda4afc"
 msgid "|Liam is dead.|"
-msgstr ""
+msgstr "|Liam is dead.|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6996
 msgctxt "h988fc410gea41g4eedga645g9c468cc15fe5"
@@ -2161,7 +2179,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:7081
 msgctxt "h08c74ff9gb81ag480dga088gc4647666b1fa"
 msgid "The Githyanki Warrior"
-msgstr ""
+msgstr "기스양키 전사"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:7087
 msgctxt "h645247cagfbc7g4bfagb960g9e1855084b64"
@@ -3031,7 +3049,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9945
 msgctxt "h67868108gd8bcg45d2gb11dg6ead1f41e94c"
 msgid "Rescue the Druid Halsin"
-msgstr ""
+msgstr "드루이드 할신 구조"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9951
 msgctxt "hf96ca830g00efg46eagb11cg44a382c16c76"
@@ -4708,7 +4726,7 @@ msgctxt "hf03db707g07d1g4fc5gb3a7g0e036e3c438c"
 msgid ""
 "A group of paladins of Tyr told us they are looking for Karlach - the same "
 "tiefling we agreed to help."
-msgstr ""
+msgstr "티르의 팔라딘으로 보이는 무리가 칼라크를 찾고 있다. 우리가 돕기로 한 그 티플링 말이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14960
 msgctxt "ha539858bg51fcg454bg8992g06333717e04d"
@@ -4736,14 +4754,14 @@ msgctxt "h489e91d8g1ac5g4ee9gb6d4ge9aa92fe45ca"
 msgid ""
 "We've agreed to help both Anders and Karlach kill each other. We'll need to "
 "pick a side."
-msgstr ""
+msgstr "우린 앤더스와 칼라크 양쪽의 부탁을 다 돕기로 했다. 이제 누구의 편에 설지 선택할 때가 왔다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15040
 msgctxt "he5e6ff46gc2b4g4164g8c77g4fe9488bc263"
 msgid ""
 "We learned that Anders and his band are actually servants of Zariel posing "
 "as paladins of Tyr."
-msgstr ""
+msgstr "앤더스의 무리가 티르의 팔라딘으로 위장한 자리엘의 수하임을 알게 되었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15060
 msgctxt "h38bcbdb1gc33dg487cgbe54ga0a67df8d8ee"
@@ -4755,12 +4773,12 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15080
 msgctxt "h5c34c26dg2e05g4cd3gb235g432bd3e07866"
 msgid "We killed Anders and his band. Karlach will want to hear the good news."
-msgstr ""
+msgstr "앤더스의 무리를 죽였다. 칼라크가 이 소식을 반길 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15100
 msgctxt "h1047bbe6gda0ag4254g90b6gbb7afe6b6c94"
 msgid "Karlach is dead. The ones hunting her would be happy to hear it."
-msgstr ""
+msgstr "칼라크가 죽었다. 그녀를 쫓는 자들이 이 소식을 반길 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15120
 msgctxt "ha9f1e54cg3d92g4b28gabf9g009c97dff9e8"
@@ -4783,7 +4801,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15180
 msgctxt "h0797d608g5495g4b1bgaa3bg28c9ec33230f"
 msgid "Karlach and her hunters are dead. Everyone should be happy now."
-msgstr ""
+msgstr "칼라크도 죽고 그녀를 쫓던 자들도 죽었다. 모두가 만족할 결말이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15200
 msgctxt "h1a15b6c6g9c6bg4984gba84g3fa956ffd1a2"
@@ -4802,17 +4820,17 @@ msgctxt "ha18bf652g82ebg485cg9e95ge33753ee9118"
 msgid ""
 "Anders asked us to kill the one-horned tiefling Karlach and bring him her "
 "head."
-msgstr ""
+msgstr "앤더스는 뿔 하나 달린 티플링인 칼라크를 죽이고 그녀의 머리를 가져와달라고 부탁했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15257
 msgctxt "hb026c4f3g6342g419fgaf69g1a2f1607f0da"
 msgid "Karlach has been slain. Anders will want her head."
-msgstr ""
+msgstr "칼라크를 죽였다. 앤더스가 그녀의 머리를 원할 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15277
 msgctxt "h08a30250g1615g4c0dg95a2g4d826facd6f9"
 msgid "Anders is dead. Karlach should be relieved."
-msgstr ""
+msgstr "앤더스가 죽었다. 칼라크는 안심할 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15297
 msgctxt "h966b97b7g3934g4103gb4b8g6bd917513857"
@@ -4844,7 +4862,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15388
 msgctxt "h179438ebgfb3ag44eaga816g3d9434f6d670"
 msgid "Karlach died."
-msgstr ""
+msgstr "칼라크가 죽었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15413
 msgctxt "hfd767eb3g578dg4c21g96ddgf551b35bfafd"
@@ -4861,7 +4879,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15439
 msgctxt "h5d73f5c0gd65bg49e8g8198g7d00d4f669db"
 msgid "We couldn't get through the door. There must be another way in."
-msgstr ""
+msgstr "문을 뚫고 갈 수가 없었다. 이곳으로 통하는 다른 길이 있을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15459
 msgctxt "h4a63318fg8b8bg45b7gb2f5g612563d66b6e"
@@ -4938,14 +4956,14 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15709
 msgctxt "h4e91c779g3fe7g4850gb99fg3e80da9ab30e"
 msgid "The Pale Elf"
-msgstr ""
+msgstr "창백한 엘프"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15715
 msgctxt "hb1501a0bga286g4d29g9fd2g8449c8c2badd"
 msgid ""
 "We met a strange elf who had also been infected with a parasite. He was "
 "hostile at first, but agreed to join us when he learned we were infected too."
-msgstr ""
+msgstr "기생충에 감염된 낯선 엘프를 만났다. 적개심을 보이던 엘프는 우리도 감염되었다는 사실을 알자 동행하기로 했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15735
 msgctxt "h8620a8afg098bg4587g83b5g6fa903a7a609"
@@ -4953,6 +4971,8 @@ msgid ""
 "Astarion is a vampire! We woke up last night and saw him bent over one of us "
 "- drinking their blood. We let him drink his fill to regain his strength."
 msgstr ""
+"아스타리온은 뱀파이어였다! 어젯밤 그가 일어나 우리 중 한 명의 피를 먹기 위해 다가왔었다. 우린 그가 힘을 회복할 만큼 피를 마실 수 "
+"있도록 해줬다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15755
 msgctxt "h3d04aa39gda5bg4852gbb26g1c6e846623ce"
@@ -4960,13 +4980,15 @@ msgid ""
 "Astarion is a vampire! We woke up last night and saw him bent over one of us "
 "- drinking their blood. We warned him never to do it again."
 msgstr ""
+"아스타리온은 뱀파이어였다! 어젯밤 그가 일어나 우리 중 한 명의 피를 먹기 위해 다가왔었다. 우린 그가 두 번 다시 그런 짓을 못하도록 "
+"경고했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15775
 msgctxt "h332efe40g9cbbg423bgaebcgf536627fc850"
 msgid ""
 "Astarion is a vampire! We woke up last night and saw him bent over one of us "
 "- drinking their blood. We had no choice but to attack him."
-msgstr ""
+msgstr "아스타리온은 뱀파이어였다! 어젯밤 그가 일어나 우리 중 한 명의 피를 먹기 위해 다가왔었다. 그를 공격할 수 밖에 없었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15795
 msgctxt "h4edf08bcga899g4b79g9a86g110f13d0ecd5"
@@ -4994,14 +5016,14 @@ msgctxt "h8e42f63dgaa71g47f2g8b99g5d606b28b46b"
 msgid ""
 "We told Astarion that he couldn't feed on innocents - but enemies were fair "
 "game."
-msgstr ""
+msgstr "아스타리온에게 무고한 자들은 건들지 않는 대신, 적들의 피는 마셔도 된다고 일렀다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15875
 msgctxt "h7d4709e1gb20bg4857g98cag2a3dc451d3c2"
 msgid ""
 "We told Astarion he could only feed on animals - intelligent creatures are "
 "off-limits."
-msgstr ""
+msgstr "아스타리온에게 동물의 피는 마셔도 된다고 했지만, 지성 있는 생명체의 피는 절대 안 된다고 당부했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15895
 msgctxt "h23d05d82gc3fbg48c5gbf4agbe8679ca6417"
@@ -5013,26 +5035,26 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15915
 msgctxt "h87a9c150g8347g4e45gaa4egbd5183778ee2"
 msgid "We fought a monster hunter who was looking for Astarion."
-msgstr ""
+msgstr "아스타리온을 찾던 괴물 사냥꾼과 맞서 싸웠다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15935
 msgctxt "h14a78cb9g7242g40afg921ag84c75ee62cbf"
 msgid "Astarion killed a monster hunter who had been looking for him."
-msgstr ""
+msgstr "아스타리온이 그를 찾던 괴물 사냥꾼을 처치했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15955
 msgctxt "h176f4bddg3dd1g4618g9294g8dc0d664963f"
 msgid ""
 "We met a monster hunter who is looking for Astarion. We told the hunter "
 "where we were camping."
-msgstr ""
+msgstr "아스타리온을 찾는 괴물 사냥꾼을 만났다. 그에게 우리가 야영하는 곳을 말해줬다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15975
 msgctxt "ha723df8cgd37fg47f9g9476g3bbdfe8b696d"
 msgid ""
 "We met a monster hunter who is looking for Astarion. We kept our camp's "
 "location a secret."
-msgstr ""
+msgstr "아스타리온을 찾는 괴물 사냥꾼을 만났다. 그에게서 우리 야영지의 위치를 숨겼다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15995
 msgctxt "hdec1bb8bg45eeg4442ga96cgcb6969c68cf2"
@@ -5291,7 +5313,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16777
 msgctxt "hc3ae3f9egf8b2g46aagbda6g8ffbe084d245"
 msgid "The drow commander Minthara is dead."
-msgstr ""
+msgstr "드로우 지휘관인 민타라가 죽었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16797
 msgctxt "h9f8e6062gde99g4f3eg827agd0a349cac024"
@@ -5325,7 +5347,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16897
 msgctxt "h9513fb0eg29e4g42dbga7a4ge745b9555910"
 msgid "Halsin thanked us for saving him."
-msgstr ""
+msgstr "할신은 자신을 구해준 데에 감사를 표했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16917
 msgctxt "h7580d310g017bg400ag9409gc82d6095905e"
@@ -5380,342 +5402,342 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17082
 msgctxt "hf43b9ddag1c24g4d34gb297g1f7746b92271"
 msgid "|HIDDEN BOOSTER QUEST|"
-msgstr ""
+msgstr "|HIDDEN BOOSTER QUEST|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17088
 msgctxt "he132cb9egd80bg4539g93beg787ec5719f7e"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17113
 msgctxt "h22e87b2dg9b6fg4124g8923ga9d6868a8aa2"
 msgid "|HIDDEN BOOSTER QUEST|"
-msgstr ""
+msgstr "|HIDDEN BOOSTER QUEST|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17119
 msgctxt "h3bf132b1ga48ag4a99ga7abgc570b5896ba3"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17139
 msgctxt "hdfd35d46ga223g428fgb95cg7d3a683faf73"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17159
 msgctxt "hdb34308fg4680g412bg9200gf768ab01c048"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17179
 msgctxt "hb5c69037g1d61g42a5ga469g7c67605c30ce"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17199
 msgctxt "hffc5a02cg3752g4c72g86a3g98ffb9d5b5b0"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17219
 msgctxt "h0d5913c0g19b3g43caga863g6cb98c27e6bf"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17239
 msgctxt "hc6ff5dbdg9ee8g497egb666gb26969ee61b1"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17259
 msgctxt "hf1f6ea96gefc5g4223gba86g60bb5cd3c60a"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17279
 msgctxt "h5f6e6299g8ebag48e7gb8a6g5ba93a581350"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17299
 msgctxt "ha297ce73gbda6g4a13g9c12gc689b4187fd4"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17319
 msgctxt "hb8bf3abdgf86bg44b1ga61eg88c839fa4245"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17339
 msgctxt "h22da735bg5989g4ab2g9d55g06eb25a9f191"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17359
 msgctxt "hbfb48dbeg300ag4f85g829ag604629943dbb"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17379
 msgctxt "haf8f950eg37c9g4f41g9c77g2a6db9a75a03"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17399
 msgctxt "ha108b5d7ge901g4efbgba38g29df46cf9be9"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17419
 msgctxt "h1e165bbegc240g49d3g9273g435041162fac"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17439
 msgctxt "h9768b515g6e6ag4412gae12ge4f316d00063"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17459
 msgctxt "h8b1b9447g739eg4bf9ga023gbdc14e60c0d1"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17479
 msgctxt "h055ca900gacdeg4c30ga886g53d37bb9f49f"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17499
 msgctxt "ha7e34ef7g8917g4084g89e1g27cc3fdde466"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17519
 msgctxt "h2bfd37bcgca8cg4faag96d1gab827dfd913f"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17539
 msgctxt "h241d6516g6905g4b2bg841dg9f4061fecc3a"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17559
 msgctxt "h37cb0cf7g6b45g498cg8d85g55e5b940395b"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17579
 msgctxt "h54bbbe6bg7da9g4a86ga6bdgf96c6d2f2428"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17599
 msgctxt "h89aa8a66gbf07g49cfg8ca2g5eb7afe684f6"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17619
 msgctxt "hf120bcdag4ba3g4083g9acbgf3d2eeab665f"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17639
 msgctxt "h49aa26abg60dfg4497gbc34g827cd21337eb"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17659
 msgctxt "h887dedcdg52f1g4ae8g886ag328a9dc08bb4"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17679
 msgctxt "h46f81851g354cg4e62g8639g96f1a3d75698"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17699
 msgctxt "hffb527d3g3aa4g4227g8384g525ec9ad612a"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17719
 msgctxt "hcb704686g6d69g43e4gbabfg5b15f1ef3493"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17739
 msgctxt "h3d684ab6ga07ag4dd5g943dga32e21ca6a2b"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17759
 msgctxt "h7965ce94g990dg48d0gb065g460fbbb2b834"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17779
 msgctxt "h2190055cg56a4g4fc9g92e6g2cdc14659c0d"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17799
 msgctxt "h8ac5721fg68ceg45aega9e9g2d396d7ef762"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17819
 msgctxt "h08c30364g046ag4261gb8f5gaef327c134f8"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17839
 msgctxt "hbdbc5a63gae21g4898gba0bg9f9908bf764c"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17859
 msgctxt "h144f399bgd0bcg4bd2gabadg122d9156b01c"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17879
 msgctxt "hc20054cdg2307g46bdg9cbbg69cfe7f55eb1"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17899
 msgctxt "hb4596871gb448g4153gacddg32bdfb9b0a2e"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17919
 msgctxt "ha1162229gde9dg433fgb525g6f13f2a7df92"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17939
 msgctxt "h859c4495g35d3g4e8cg94a3ga980c875bedb"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17959
 msgctxt "h6ac7ca01gc482g457fg8623g85f972a0c348"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17979
 msgctxt "hba3175c9g2bb0g4ac4gad3dg4a5d00543e97"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17999
 msgctxt "h0378d8d4g4700g493fg8259gf76cdb7ba1a9"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18019
 msgctxt "h437ea9f1ga322g43b8g9604g1f0f0745cdaa"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18039
 msgctxt "h7e0891aeg162dg441dgb680g1b2150f49bed"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18059
 msgctxt "ha680f4aeg3fd0g4af1g933cg75d37ce52441"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18079
 msgctxt "hf6e8d3b5g0134g495agac93gaa5c9bb3a665"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18099
 msgctxt "hdb0f2aebg37d4g451bg95bfgd87053187968"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18119
 msgctxt "hb9a7c58cg8cbfg4dc9g8c44g190840984987"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18139
 msgctxt "h63fb0eafg57e6g4316g897bg3ea10d60293a"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18159
 msgctxt "h9a070c78g43c7g4600g8e08gf6ce9e9b6dc8"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18179
 msgctxt "h603277b7g47f0g4487ga35eg9aee3d902a11"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18199
 msgctxt "hea3856aeg3afcg43dagb9fegb7458dbf166e"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18219
 msgctxt "h59699137gfc3bg4d34g855dg16dcc50c42d9"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18239
 msgctxt "h5606a9cdgdc2cg47a3g9757g7ceb0999956e"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18259
 msgctxt "h91896d95g798bg4805gaf4bgfda444bad8e6"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18279
 msgctxt "h43775143g2ebeg4148g8422gaa613d10b710"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18299
 msgctxt "hed29e561gcd7eg4d92g9a3egd78cf1d3eb91"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18319
 msgctxt "h17b20594g93d4g4dd7g87c5g2b690f0193ec"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18339
 msgctxt "h85b82911gedc4g4d65g9c73g052bc9440dd5"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18359
 msgctxt "h6a620349gce71g4a0fga620ge99632c47861"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18379
 msgctxt "h17526b32g8e45g4c75g8375gb1477725599f"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18399
 msgctxt "h484aa3d8g0db1g40c9gb8f7g612ba202b0f4"
 msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr ""
+msgstr "|INVISIBLE ENTRY CONTENT|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18424
 msgctxt "h4d22802ag13a9g4678g9624g9fc00139e256"
