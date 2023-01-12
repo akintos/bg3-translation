@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-11 19:52+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2023-01-14 04:52+0000\n"
+"Last-Translator: 겐쥐킹 <a8675309@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -233,7 +233,7 @@ msgstr "전문성"
 #: Game/Public/Game/GUI/Library/CharacterCreationLib_c.xaml:469
 msgctxt "h7d02199dg44ecg4a1egbcacg9cc1cec197b3"
 msgid "Cantrips"
-msgstr "캔트립"
+msgstr "소마법"
 
 #: Game/Public/Game/GUI/Library/CharacterCreationLib.xaml:278
 #: Game/Public/Game/GUI/Library/CharacterCreationLib_k.xaml:396
@@ -1527,7 +1527,7 @@ msgstr "행동"
 #: Game/Public/Game/GUI/Widgets/CharacterFullRespec.xaml:40
 msgctxt "h5d603bcfg4028g4476g92b3gbca357af6bee"
 msgid "Cantrip"
-msgstr "캔트립"
+msgstr "소마법"
 
 #: Game/Public/Game/GUI/Widgets/CharacterFullRespec_c.xaml:139
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:112
@@ -3459,7 +3459,6 @@ msgstr ""
 "\"Downed\">쓰러짐</LSTag> 상태를 제거할 수 없으며, 임시 체력은 긴 휴식 이후에 사라집니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2058
-#, fuzzy
 msgctxt "he07ef4d4gd151g4071gbcb4ge33046cb0453"
 msgid "Requires two hands to use."
 msgstr "사용하려면 양손이 필요합니다."
@@ -3508,28 +3507,28 @@ msgstr "당신이 주문시전자들과 그들의 동맹 세력에 우호적인 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5551
 msgctxt "hb0e52a34g0bc5g496ega45fg7b802ba9eb68"
 msgid "A small group of conditions that hinder or harm you during combat."
-msgstr ""
+msgstr "전투중 당신을 방해하거나 해치는 조건들."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2350
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:3963
 msgctxt "h0f8acaadgd1f6g4a7ega71ageda041426536"
 msgid "Upcast"
-msgstr ""
+msgstr "강화시전"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2366
 msgctxt "h672032fcg3562g4dccgbe76g720228818da1"
 msgid "Empowered Spell"
-msgstr ""
+msgstr "주문 강력화"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2369
 msgctxt "hc215d788gec91g4f43g97e9gdbf1a904e041"
 msgid "Roll damage dice with <LSTag Tooltip=\"Advantage\">Advantage</LSTag>."
-msgstr ""
+msgstr "<LSTag Tooltip=\"Advantage\">이점</LSTag> 을 지닌 채로 피해 주사위를 굴립니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2398
 msgctxt "hc60f063eg9286g4461g9781g3d6d66af7384"
 msgid "Careful Spell"
-msgstr ""
+msgstr "주문 세심화"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2402
 msgctxt "h128bef82g7eb4g4ce1g9d55g5f0e816da7c5"
@@ -3537,37 +3536,39 @@ msgid ""
 "Allies automatically succeed their <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throws</LSTag> against this spell."
 msgstr ""
+"아군들은 이 주문을 대상으로 하는 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag> 에 자동으로 성공합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2410
 msgctxt "hb9ef85e6gb3d0g4295g8c89g69a102a0444a"
 msgid "Distant Spell"
-msgstr ""
+msgstr "주문 장거리화"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2416
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4750
 msgctxt "hb984e30dgab6ag4f54g883fg2f499f03b5f5"
 msgid "Range"
-msgstr ""
+msgstr "범위"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2456
 msgctxt "h9dacdfbcg09bag4071gb453g164764a12a95"
 msgid "Extended Spell"
-msgstr ""
+msgstr "주문 연장화"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2461
 msgctxt "h35573af4g0f87g4ce0gb759g4f4904c04e87"
 msgid "Double the spell's duration."
-msgstr ""
+msgstr "주문의 지속 시간을 두 배로 늘립니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2464
 msgctxt "hea6f3450g9430g46bbga707g63aac4dd0bbc"
 msgid "Duration"
-msgstr ""
+msgstr "지속 시간"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2507
+#, fuzzy
 msgctxt "hc6d29819g33d5g4ca7g9957gb8c47d823262"
 msgid "Heightened Spell"
-msgstr ""
+msgstr "주문 상승화"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2511
 msgctxt "he1e8bfc3g6befg49afga083g284a45191d82"
@@ -3575,31 +3576,34 @@ msgid ""
 "Give 1 target <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on its "
 "first <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag> against this spell."
 msgstr ""
+"하나의 대상에게 이 주문으로 인한 첫번째 <LSTag Tooltip=\"SavingThrow\">내성굴림</LSTag> 에 대한 "
+"<LSTag Tooltip=\"Disadvantage\">불리점</LSTag> 을 준다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2519
 msgctxt "h7a4aed26ga038g4775g885ag81cc91f418ac"
 msgid "Quickened Spell"
-msgstr ""
+msgstr "주문 신속화"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2537
+#, fuzzy
 msgctxt "h51c6fd28gb431g46bfg8415gad6a9a5151a4"
 msgid "Subtle Spell"
-msgstr ""
+msgstr "주문 영창 생략"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2541
 msgctxt "hf22ebe0fgc409g42c0gacc9gdb230f898e4b"
 msgid "Cast while you are Silenced."
-msgstr ""
+msgstr "침묵 상태에서 시전합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2549
 msgctxt "h8d567697g1843g4bdcga303g744782e3c803"
 msgid "Twinned Spell"
-msgstr ""
+msgstr "주문 이중화"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2553
 msgctxt "h5e3393e9g1125g4f89gba33g55e52287ac30"
 msgid "Target a second creature."
-msgstr ""
+msgstr "크리쳐를 하나 더 지정합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2604
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3105
@@ -3641,27 +3645,27 @@ msgstr "턴 당 [1] 피해"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2771
 msgctxt "h151e5400g4218g486fga6ccg5bc82239aa09"
 msgid "Regain [1] per turn"
-msgstr ""
+msgstr "턴당 [1] 회복"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2816
 msgctxt "hfd91f94eg7274g4716g92cagc4aa3b826925"
 msgid "Inflicts"
-msgstr ""
+msgstr "가합니다"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2996
 msgctxt "hd46ad4d5gaaa1g4289g99eeg2b87c99962db"
 msgid "Applies"
-msgstr ""
+msgstr "적용합니다"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3003
 msgctxt "h3bfb7f5ag85a1g49afg86ddg5bb80f2e8234"
 msgid "Creates"
-msgstr ""
+msgstr "생성합니다"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3007
 msgctxt "h78678ca2g9aebg48edg8d75gdb8671bd610e"
 msgid "[1] Surface"
-msgstr ""
+msgstr "[1] 표면"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3029
 msgctxt "h6e1e86b5g98f8g42c8ga383gf770838ca349"
@@ -3676,7 +3680,7 @@ msgstr "[1] 턴"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3061
 msgctxt "hf5d92374g1f72g4b7bga1d5g178ff9c36ed5"
 msgid "Permanent"
-msgstr ""
+msgstr "영구적"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3253
 msgctxt "hb115268eg66f3g4f91g827bgdbad9a941c6b"
@@ -3686,7 +3690,7 @@ msgstr "무기 피해"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3306
 msgctxt "h29900944ga4c3g49ffg8a15g5970c20a9cdd"
 msgid "| (up to [1]) |"
-msgstr ""
+msgstr "| ([1]까지) |"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3567
 msgctxt "h22431a3cg7670g4cabg987fge9a1bbbbbd32"
@@ -3694,13 +3698,15 @@ msgid ""
 "This weapon receives a +[1] bonus to <LSTag Tooltip=\"AttackRoll\">Attack "
 "Rolls</LSTag> and deals +[1] bonus damage."
 msgstr ""
+"이 무기는 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1] 보너스를 받으며 보너스 피해를 +[1]"
+" 줍니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3577
 msgctxt "h4200bb68gc854g4b01g8bb9gc64e9ba8457f"
 msgid ""
 "Provides a +[1] bonus to Armor Class, reducing the chance you will get hit "
 "with an attack."
-msgstr ""
+msgstr "방어도에 +[1] 보너스를 제공함으로써, 공격에 맞을 확률을 줄여 줍니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3600
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:9486
@@ -3751,7 +3757,7 @@ msgstr "근접"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4761
 msgctxt "h3f2eb441g6794g47abgb02fgbc10c76df394"
 msgid "Explode radius"
-msgstr "폭발 범위"
+msgstr "폭발 반경"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4765
 msgctxt "h1151f17bgf35fg4312g9f25g7052866afc5d"
@@ -3762,13 +3768,13 @@ msgstr "효과 범위"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5592
 msgctxt "h463784c4gb6b5g43cdga821gaee496c3b1ec"
 msgid "<LSTag Tooltip=\"Light\">Light</LSTag>"
-msgstr "<LSTag Tooltip=\"Light\">가벼움</LSTag>"
+msgstr "<LSTag Tooltip=\"Light\">경량형</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4773
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5596
 msgctxt "h5bc7fbd4gfd81g4e6eg94a5g1b655286b07c"
 msgid "Heavy"
-msgstr "무거움"
+msgstr "중량형"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4777
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5600
@@ -3786,38 +3792,40 @@ msgstr "장전"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5608
 msgctxt "h7edff38ag7aaeg4e90g99fcgc0287127c41e"
 msgid "<LSTag Tooltip=\"Finesse\">Finesse</LSTag>"
-msgstr "<LSTag Tooltip=\"Finesse\">기교</LSTag>"
+msgstr "<LSTag Tooltip=\"Finesse\">기교형</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4789
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5612
 msgctxt "h71bfc5dcg7f7dg4f57gbae4g047a4a7f6fc2"
 msgid "<LSTag Tooltip=\"TwoHanded\">Two-Handed</LSTag>"
-msgstr "<LSTag Tooltip=\"TwoHanded\">양손</LSTag>"
+msgstr "<LSTag Tooltip=\"TwoHanded\">양손형</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4793
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5616
 msgctxt "h1cf683bdg186eg4818gbf84g6255a3436a74"
 msgid "<LSTag Tooltip=\"Thrown\">Thrown</LSTag>"
-msgstr "<LSTag Tooltip=\"Thrown\">투척</LSTag>"
+msgstr "<LSTag Tooltip=\"Thrown\">투척형</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4797
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5620
 msgctxt "ha287aa54g9a53g4c18ga0f4gfeb652a28da4"
 msgid "<LSTag Tooltip=\"Reach\">Extra Reach</LSTag>"
-msgstr ""
+msgstr "<LSTag Tooltip=\"Reach\">장병기</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4801
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5624
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6976
+#, fuzzy
 msgctxt "hfbf78535g63cbg497bg9f0ag260553831875"
 msgid "<LSTag Tooltip=\"Versatile\">Versatile</LSTag>"
-msgstr ""
+msgstr "<LSTag Tooltip=\"Versatile\">다용도 무기</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4805
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5628
+#, fuzzy
 msgctxt "h4bf65b5ag7f76g41caga545g0266adc4acab"
 msgid "<LSTag Tooltip=\"Dippable\">Dippable</LSTag>"
-msgstr ""
+msgstr "<LSTag Tooltip=\"Dippable\">담그기 가능</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4809
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5632
@@ -3933,7 +3941,7 @@ msgstr "숙련"
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:3964
 msgctxt "hb897c56egaa6fg460bg8676g8ebfa0340954"
 msgid ": "
-msgstr ""
+msgstr ": "
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5093
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5102
@@ -3960,19 +3968,19 @@ msgstr "짧은 휴식 당 한 번"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3548
 msgctxt "h0987de21g7f18g46bdg96b6g251f0d886fd8"
 msgid "Battleaxes"
-msgstr ""
+msgstr "배틀액스"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5152
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3552
 msgctxt "hf7ee4cf2g8054g4cecgaf42g00e26e4c6301"
 msgid "Clubs"
-msgstr ""
+msgstr "곤봉"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5161
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3556
 msgctxt "ha9bc5c71gf7fdg4f77gad7eg14da6c8ecfc2"
 msgid "Daggers"
-msgstr ""
+msgstr "단검"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5170
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3560
@@ -3984,31 +3992,31 @@ msgstr "다트"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3564
 msgctxt "hf61bb53cg6987g4c34gbaf3g008e491dd1bd"
 msgid "Flails"
-msgstr ""
+msgstr "도리깨"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5188
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3568
 msgctxt "h899d4afbgabdag433ag924ag1aa328117d8a"
 msgid "Glaives"
-msgstr ""
+msgstr "글레이브"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5197
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3572
 msgctxt "h9430a867gd49ag48c8g9900gc945e3326765"
 msgid "Greataxes"
-msgstr ""
+msgstr "그레이트액스"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5206
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3576
 msgctxt "hec8a15degd33fg4fdagaf70gf0f1c9dd53e9"
 msgid "Greatclubs"
-msgstr ""
+msgstr "대형곤봉"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5215
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3580
 msgctxt "h8d8817a2gf20dg4eb8gbcd0gfd1bc5428004"
 msgid "Greatswords"
-msgstr ""
+msgstr "그레이트소드"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5224
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3584
@@ -4020,177 +4028,177 @@ msgstr "할버드"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3592
 msgctxt "h35568a26gee03g4dfagb3d0g35db1faec364"
 msgid "Handaxes"
-msgstr ""
+msgstr "손도끼"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5242
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3588
 msgctxt "h23613b92g02b0g4b9cg9b7fg937f0d83f7d8"
 msgid "Hand Crossbows"
-msgstr ""
+msgstr "손쇠뇌"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5251
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5977
 msgctxt "hfa2140c8g0b74g4ac0g81ffg75146ee3ef6c"
 msgid "Heavy Armour"
-msgstr ""
+msgstr "중갑"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5260
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3600
 msgctxt "h5b736f1eg9895g4263gb76dg76c06c1038ae"
 msgid "Heavy Crossbows"
-msgstr ""
+msgstr "중쇠뇌"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5269
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3604
 msgctxt "hbfcb8bcbg561ag473bga1a0g4e184d2b2692"
 msgid "Javelins"
-msgstr ""
+msgstr "투창"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5278
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6004
 msgctxt "h1f5f61b0ge1b7g4d5fga2e9g46b1d5a9330b"
 msgid "Light Armour"
-msgstr ""
+msgstr "경갑"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5287
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3612
 msgctxt "h210d748egfceeg4e76gabe5g9080c902693f"
 msgid "Light Crossbows"
-msgstr ""
+msgstr "경쇠뇌"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5296
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3616
 msgctxt "ha0df64f6gae3cg4dd4gaee6g8aa988bfde8f"
 msgid "Light Hammers"
-msgstr ""
+msgstr "라이트 해머"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5305
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3620
 msgctxt "h68720f95gd2c6g4b0ega150geece5a885719"
 msgid "Longbows"
-msgstr ""
+msgstr "장궁"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5314
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3624
 msgctxt "h23d056e9g6d0cg47d1g9603g873752123142"
 msgid "Longswords"
-msgstr ""
+msgstr "롱소드"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5323
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3628
 msgctxt "h6718875ag0e2eg46eag98f0gb8d626d5ec13"
 msgid "Maces"
-msgstr ""
+msgstr "메이스"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5332
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3632
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4361
 msgctxt "h93cf8a7dgf14dg4f68g816fgdbf4de0dae41"
 msgid "Martial Weapons"
-msgstr ""
+msgstr "군용 무기"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5341
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3636
 msgctxt "h1332cd56g203fg4919gac2dg2d2443302a31"
 msgid "Mauls"
-msgstr ""
+msgstr "마울"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5350
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6076
 msgctxt "hdc524c1age0cdg4303g9e52g7bcc933c7b0b"
 msgid "Medium Armour"
-msgstr ""
+msgstr "평갑"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5359
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3644
 msgctxt "hc622f5a9gf7cag4b6ag8e99g792d3831fdfc"
 msgid "Morningstars"
-msgstr ""
+msgstr "모닝스타"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5368
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3648
 msgctxt "he28bbadcgf4fdg48f8gb59bg89d5895d1267"
 msgid "Pikes"
-msgstr ""
+msgstr "파이크"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5377
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3652
 msgctxt "h3fcd9f76g0dcfg4038g9a56g06353c1c0cea"
 msgid "Quarterstaffs"
-msgstr ""
+msgstr "쿼터스태프"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5386
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3656
 msgctxt "h3c574faagd3dbg4b38gbca9g2a71750dfcf0"
 msgid "Rapiers"
-msgstr ""
+msgstr "레이피어"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5395
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3660
 msgctxt "h4caa96c2g100fg4292ga543g740f93ad59ca"
 msgid "Scimitars"
-msgstr ""
+msgstr "시미터"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5404
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3664
 msgctxt "h7a819a15g5129g48bagafc1g1c73cc6634ab"
 msgid "Shields"
-msgstr ""
+msgstr "방패"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5413
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3668
 msgctxt "h931161d1ge54ag480agb3d1gdaf3ed47004c"
 msgid "Shortbows"
-msgstr ""
+msgstr "단궁"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5422
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3672
 msgctxt "h2529ddf4gb846g4940g9b1dg9969718fe87d"
 msgid "Shortswords"
-msgstr ""
+msgstr "숏소드"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5431
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3676
 msgctxt "h28d04d64ge35dg4469g956bg27d715d6e9b1"
 msgid "Sickles"
-msgstr ""
+msgstr "낫"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5440
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3680
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4347
 msgctxt "hd0ea839ag4be2g455bgbff6g71446c4f1355"
 msgid "Simple Weapons"
-msgstr ""
+msgstr "단순 무기"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5449
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3684
 msgctxt "hc5bd4565g187cg49e2ga99eg43b33c5b8142"
 msgid "Slings"
-msgstr ""
+msgstr "슬링"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5458
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3688
 msgctxt "h45a6183ag755ag4fdagb147gae8c86ceec57"
 msgid "Spears"
-msgstr ""
+msgstr "창"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5467
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3692
 msgctxt "hf2542d79gdedfg4a37gb9d2g2238be0f9f4c"
 msgid "Tridents"
-msgstr ""
+msgstr "트라이던트"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5476
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3696
 msgctxt "h4e50a96bg2c2bg41daga27eg623eeae44daf"
 msgid "Warhammers"
-msgstr ""
+msgstr "워해머"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5485
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3700
 msgctxt "h2914d6ecg0f4ag4452ga88cg59a2f075a69f"
 msgid "War Picks"
-msgstr ""
+msgstr "워 픽"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5641
 msgctxt "hccfa6976gd950g49e0g88a3gbb0e8380175f"
@@ -4200,54 +4208,54 @@ msgstr "집중"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5650
 msgctxt "h02316c7bgeac5g4b0egb78cg44b193b2e233"
 msgid "| Self |"
-msgstr ""
+msgstr "| 자신 |"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5663
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:3914
 msgctxt "h1579d774gdbcdg4a97gb3fage409138d104d"
 msgid "STR"
-msgstr ""
+msgstr "근력"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5672
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:3917
 msgctxt "h8d7356d7g4c37g41e4gb8a2gef3459e12b97"
 msgid "DEX"
-msgstr ""
+msgstr "민첩"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5681
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:3920
 msgctxt "h20676a9ag9216g47dbgba3ag82bd734cfd53"
 msgid "CON"
-msgstr ""
+msgstr "건강"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5690
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:3923
 msgctxt "ha1a41e74g2804g4a70g9a85g6235163d41da"
 msgid "INT"
-msgstr ""
+msgstr "지능"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5699
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:3926
 msgctxt "h2e9f1067g2dceg4640g8816gc6394e9f0303"
 msgid "WIS"
-msgstr ""
+msgstr "지혜"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5708
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:3929
 msgctxt "ha2fc9b3dg3305g404eg9256gf25a06d0b2aa"
 msgid "CHA"
-msgstr ""
+msgstr "카리스마"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5722
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5731
 msgctxt "h8c45d8a5gf1b2g4723ga21ageacde38ba8cc"
 msgid "Per turn"
-msgstr ""
+msgstr "턴당"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5740
 msgctxt "h223d44e2g5654g496cg8997gb218f29eba0c"
 msgid "Per battle"
-msgstr ""
+msgstr "전투당"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5749
 msgctxt "h8d993cfag30d7g474fgaf29gdcdc3cd67bdc"
@@ -4305,222 +4313,222 @@ msgstr "명중 굴림"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5869
 msgctxt "h0f24a0dag08bbg49fcga71egedbe3f64b331"
 msgid "Battleaxe"
-msgstr ""
+msgstr "배틀액스"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5878
 msgctxt "h058d54a6g9dc3g4f4dg994fg88a15b2842d3"
 msgid "Club"
-msgstr ""
+msgstr "곤봉"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5887
 msgctxt "hdd0b05e3gd03cg485dg8de2g6ebabc00b214"
 msgid "Dagger"
-msgstr ""
+msgstr "단검"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5896
 msgctxt "h88b8cd86gdf58g466ag9dbaga8b649339a55"
 msgid "Dart"
-msgstr ""
+msgstr "다트"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5905
 msgctxt "hddb48511g0748g43afg99e2g01cfacd58afb"
 msgid "Flail"
-msgstr ""
+msgstr "도리깨"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5914
 msgctxt "hb96be45dgf7e9g4b83g9007g0c45baf5fa62"
 msgid "Glaive"
-msgstr ""
+msgstr "글레이브"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5923
 msgctxt "hd9ab04d5g884ag418bgae08g13c54d1e2c17"
 msgid "Greataxe"
-msgstr ""
+msgstr "그레이트액스"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5932
 msgctxt "hce65c424g6bebg4589gad5eg01d76406130d"
 msgid "Greatclub"
-msgstr ""
+msgstr "대형곤봉"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5941
 msgctxt "hb426f608ga7f6g41c6g9bb1g38b02784f14a"
 msgid "Greatsword"
-msgstr ""
+msgstr "그레이트소드"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5950
 msgctxt "h66f64922g1bbbg4668g9b91g00bba46ef7db"
 msgid "Halberd"
-msgstr ""
+msgstr "할버드"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5959
 msgctxt "h7ad13e94g51e4g4cf8ga50cg1fbb5bfc9eb9"
 msgid "Handaxe"
-msgstr ""
+msgstr "손도끼"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5968
 msgctxt "h579a013egaf2dg4df0ga826gf9980e4c4c94"
 msgid "Hand Crossbow"
-msgstr ""
+msgstr "손쇠뇌"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5986
 msgctxt "he7d5e399g0f9dg4d03gabc4gfe02ff7a6170"
 msgid "Heavy Crossbow"
-msgstr ""
+msgstr "중쇠뇌"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5995
 msgctxt "h85452b27gc430g4da4g8133g62493e0c764f"
 msgid "Javelin"
-msgstr ""
+msgstr "투창"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6013
 msgctxt "h969a09e2gfeb5g4b9agae63g5c51195c3973"
 msgid "Light Crossbow"
-msgstr ""
+msgstr "경쇠뇌"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6022
 msgctxt "hf0fdf976g5f6dg44e1ga191g02c18ef4ff96"
 msgid "Light Hammer"
-msgstr ""
+msgstr "라이트 해머"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6031
 msgctxt "h91b20b51gacb0g4f22gaadfgbab5703dda4b"
 msgid "Longbow"
-msgstr ""
+msgstr "장궁"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6040
 msgctxt "hcec8435fgabd7g4f32g8e12g538fe5bb4e68"
 msgid "Longsword"
-msgstr ""
+msgstr "롱소드"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6049
 msgctxt "ha7668408g97feg42acgb9f7g7f9eb951cc85"
 msgid "Mace"
-msgstr ""
+msgstr "메이스"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6058
 msgctxt "h7df2c944gd524g424dga4e7g031a97be4f1e"
 msgid "Martial Weapon"
-msgstr ""
+msgstr "군용 무기"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6067
 msgctxt "hbd876c12g581fg4369g8048gc54c436372fa"
 msgid "Maul"
-msgstr ""
+msgstr "마울"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6085
 msgctxt "h26d4e472g8031g4522g8832g4bd9eb8435b4"
 msgid "Morningstar"
-msgstr ""
+msgstr "모닝스타"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6094
 msgctxt "h2fffc752g7f15g4203g9ad0gb268c25dd710"
 msgid "Pike"
-msgstr ""
+msgstr "파이크"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6103
 msgctxt "h787ec264g5ad4g43f3g8896g4d2bf8d84f68"
 msgid "Quarterstaff"
-msgstr ""
+msgstr "쿼터스태프"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6112
 msgctxt "h95d07e1ag0bcdg4b82gabfcgf9192ea9205e"
 msgid "Rapier"
-msgstr ""
+msgstr "레이피어"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6121
 msgctxt "h57197717ge47bg4fc6g8857gd062ba9cadb6"
 msgid "Scimitar"
-msgstr ""
+msgstr "시미터"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6130
 msgctxt "h9fb17844g263cg48e7g9d5cga5ddbd96352f"
 msgid "Shield"
-msgstr ""
+msgstr "방패"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6139
 msgctxt "h5d97e306g9b35g4a98g8276g792a206d22d1"
 msgid "Shortbow"
-msgstr ""
+msgstr "단궁"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6148
 msgctxt "h978f9e38g7dc7g4effga726g91e512768a02"
 msgid "Shortsword"
-msgstr ""
+msgstr "숏소드"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6157
 msgctxt "h4ffb7bacgad4cg43c4gbdc1g3759cd2bac12"
 msgid "Sickle"
-msgstr ""
+msgstr "낫"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6166
 msgctxt "h07e6785bg9c25g4cd8ga892g606a6c07a2b8"
 msgid "Simple Weapon"
-msgstr ""
+msgstr "단순 무기"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6175
 msgctxt "h9cd08861g50cfg4a67gb598gdbe47fbce245"
 msgid "Sling"
-msgstr ""
+msgstr "슬링"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6184
 msgctxt "hc822646agd243g4d4cga4ecg0331bfdfefeb"
 msgid "Spear"
-msgstr ""
+msgstr "창"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6193
 msgctxt "h661d9ca8g7392g4703g96fcgd398e347dd31"
 msgid "Trident"
-msgstr ""
+msgstr "트라이던트"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6202
 msgctxt "h0bb20a29gd01bg4d72ga526gd827f3db1f1a"
 msgid "Warhammer"
-msgstr ""
+msgstr "워해머"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6211
 msgctxt "hed0f9876g1925g49dag9523gc6ae9cbf3608"
 msgid "War Pick"
-msgstr ""
+msgstr "워 픽"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6251
 msgctxt "h84d192f5g6473g4932gb6a8g1387eae58320"
 msgid "Abjuration <LSTag Tooltip=\"Cantrip\">Cantrip</LSTag>"
-msgstr "방호계 <LSTag Tooltip=\"Cantrip\">캔트립</LSTag>"
+msgstr "방호계 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6261
 msgctxt "he52cfcbag8a50g453agb4c8g2fac2ff17c10"
 msgid "Conjuration <LSTag Tooltip=\"Cantrip\">Cantrip</LSTag>"
-msgstr "조형계 <LSTag Tooltip=\"Cantrip\">캔트립</LSTag>"
+msgstr "조형계 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6271
 msgctxt "h39ad0edbg77d3g4021g9e2eg191042e6d467"
 msgid "Divination <LSTag Tooltip=\"Cantrip\">Cantrip</LSTag>"
-msgstr "예지계 <LSTag Tooltip=\"Cantrip\">캔트립</LSTag>"
+msgstr "예지계 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6281
 msgctxt "h79636df9g296cg4bfdga59cgb7db7d3419ab"
 msgid "Enchantment <LSTag Tooltip=\"Cantrip\">Cantrip</LSTag>"
-msgstr "환혹계 <LSTag Tooltip=\"Cantrip\">캔트립</LSTag>"
+msgstr "환혹계 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6291
 msgctxt "h42bcd6b2g9deag452cgb9adg4ce569758b0f"
 msgid "Evocation <LSTag Tooltip=\"Cantrip\">Cantrip</LSTag>"
-msgstr "방출계 <LSTag Tooltip=\"Cantrip\">캔트립</LSTag>"
+msgstr "방출계 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6301
 msgctxt "h6b2a69f0g57e8g45c0gb271gbd317790bc8f"
 msgid "Illusion <LSTag Tooltip=\"Cantrip\">Cantrip</LSTag>"
-msgstr "환영계 <LSTag Tooltip=\"Cantrip\">캔트립</LSTag>"
+msgstr "환영계 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6311
 msgctxt "h1431ea5eg3cd6g464dga8c6gfd9653e48f7e"
 msgid "Necromancy <LSTag Tooltip=\"Cantrip\">Cantrip</LSTag>"
-msgstr "사령계 <LSTag Tooltip=\"Cantrip\">캔트립</LSTag>"
+msgstr "사령계 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6321
 msgctxt "h2e7f0955g4be5g4a21g8f1cg221d590807d4"
 msgid "Transmutation <LSTag Tooltip=\"Cantrip\">Cantrip</LSTag>"
-msgstr "변환계 <LSTag Tooltip=\"Cantrip\">캔트립</LSTag>"
+msgstr "변환계 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6335
 msgctxt "h3d4828d5gd55ag409dgae7dg3bd8a511ab88"
@@ -4570,12 +4578,12 @@ msgstr "<LSTag Type=\"Image\" Info=\"Ellipsis\"/>"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6666
 msgctxt "he8ad7cd6g0ffag472ega526g52c8ef0560f1"
 msgid "Toggleable Passive Feature"
-msgstr ""
+msgstr "켜거나 끌 수 있는 패시브 기능"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6689
 msgctxt "h0600e546g6545g4d00g8794g72aad11f278a"
 msgid "Equip on hotbar to toggle"
-msgstr ""
+msgstr "켜거나 끄려면 단축바에 장착하세요"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6696
 msgctxt "h2e273132g455dg487cgbe1ag5a57d9edf32f"
@@ -4595,12 +4603,12 @@ msgstr "전투 당 한 번만 사용할 수 있습니다"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6756
 msgctxt "h099ebd82g6ea7g43b7gbf0fg69e32653f322"
 msgid "Passive Feature"
-msgstr ""
+msgstr "패시브 기능"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6797
 msgctxt "hee42bdaeg1e29g42feg90dfg54e68ed479c9"
 msgid "Reaction"
-msgstr ""
+msgstr "반응 행동"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6936
 msgctxt "hbae5dd01g4c64g4b58ga7bcg84360d7a5458"
@@ -4610,42 +4618,44 @@ msgstr "[1] <LSTag Tooltip=\"CampSupplies\">야영 물자</LSTag>"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6952
 msgctxt "h6d1b6256g3ea8g4e82gaa0agc7fbeb252fdf"
 msgid "Armour Class"
-msgstr ""
+msgstr "방어도"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6978
 msgctxt "h3aa09574g4d88g474bgbe97g5a989944c7e9"
 msgid "Equipped One-Handed"
-msgstr ""
+msgstr "한손으로 장착함"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7013
+#, fuzzy
 msgctxt "h4f3ba872g1c86g4dbag9253g439da8478726"
 msgid "Conditional"
-msgstr ""
+msgstr "조건부"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7136
 msgctxt "h8a2addc4gb160g4358g90a6gb65f1f7c0000"
 msgid "Main Hand Only"
-msgstr ""
+msgstr "주로 사용하는 손에만 가능"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7159
+#, fuzzy
 msgctxt "h80276877gd95cg4477ga1a3g85986f4f919b"
 msgid "Off-Hand Only"
-msgstr ""
+msgstr "보조 손 전용"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7172
 msgctxt "h23929a25gb39ag409bga61ag1b0e9d6f5852"
 msgid "Proficiency unlocks"
-msgstr ""
+msgstr "숙련 해금"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7211
 msgctxt "hd40af023g3265g492dgb433gb272f433a093"
 msgid "Alchemical Solution"
-msgstr ""
+msgstr "연금술 용액"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7244
 msgctxt "h7660812bg5518g4b67g8fbdg835faf6ef636"
 msgid "Equipped by [1]"
-msgstr ""
+msgstr "다음으로 장착됨 : [1]"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7258
 msgctxt "h4333422eg15d9g4c6egbfbeg9f06915940d1"
@@ -4653,16 +4663,18 @@ msgid ""
 "<LSTag Tooltip=\"ArmourClass\">AC</LSTag> bonus from <LSTag Tooltip="
 "\"Dexterity\">Dexterity</LSTag> limited to +[1]"
 msgstr ""
+"<LSTag Tooltip=\"Dexterity\">민첩</LSTag>으로부터 얻는 <LSTag Tooltip=\"ArmourClass\""
+">방어도</LSTag> 보너스는 +[1]로 제한됨"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7337
 msgctxt "h3d9ac91dg2ed4g47aega170gc4d638367579"
 msgid "Single Use"
-msgstr ""
+msgstr "일회용"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7339
 msgctxt "ha8b28fcaga542g44ecg91bbgdaa03d029898"
 msgid "Item will be destroyed upon use."
-msgstr ""
+msgstr "아이템은 사용 후 소멸됩니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7349
 msgctxt "h9b3f757dgbe75g41a6gae52g0c2b1a5e49f2"
@@ -4674,6 +4686,11 @@ msgid ""
 "The weight of carried items (excluding equipped items) counts towards your "
 "<LSTag Tooltip=\"CarryWeight\">Weight Limit</LSTag>."
 msgstr ""
+"아이템의 무게는 아이템을 옮기거나, 들어 올리거나, 투척 할 시 얼마나 많은 <LSTag Tooltip=\"Strength\">근력</"
+"LSTag>이 필요한지에 영향을 끼치며, 해당 아이템이 무언가에 부딪힐 때 피해를 얼마나 줄지에도 영향을 줍니다.\n"
+"\n"
+"(장비한 아이템을 제외한) 들고 있는 아이템의 무게는 <LSTag Tooltip=\"CarryWeight\">무게 제한</LSTag>에 "
+"가산됩니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7400
 msgctxt "hcea50cc0gbeebg4aaeg992bgdb79cbfef7e8"
@@ -4683,11 +4700,14 @@ msgid ""
 "Depending on how much they like a character, traders may sell and buy items "
 "at a mark-up."
 msgstr ""
+"아이템의 가격은 아이템의 실제 가치와 같습니다.\n"
+"\n"
+"상인들이 캐릭터에 느끼는 호감에 따라, 더 좋은 가격에 아이템을 매매하기도 합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7578
 msgctxt "hab0f38bfg982fg417bg9246gd38f135b3964"
 msgid "Equipped Two-Handed"
-msgstr ""
+msgstr "양손에 장착함"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7643
 msgctxt "h24a49208g1912g4270g9d2dgc2986ab10ae0"
@@ -4695,22 +4715,24 @@ msgid ""
 "No <LSTag Tooltip=\"ArmourClass\">AC</LSTag> bonus from <LSTag Tooltip="
 "\"Dexterity\">Dexterity</LSTag>"
 msgstr ""
+"<LSTag Tooltip=\"Dexterity\">민첩</LSTag>으로부터 얻는 <LSTag Tooltip=\"ArmourClass\""
+">방어도</LSTag> 보너스 없음"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7760
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:9544
 msgctxt "h9ad6cf4dg119cg4c28g8527gc2bec6466e0f"
 msgid "Roll"
-msgstr ""
+msgstr "굴림"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7766
 msgctxt "h6e3a9885ga3ffg4f82gb9f7gb2833b2a2e96"
 msgid "Use the highest roll from"
-msgstr ""
+msgstr "다음으로부터 가장 높은 굴림을 사용합니다 :"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7772
 msgctxt "h0017825fgda99g495fg938dg196a95011901"
 msgid "Use the lowest roll from"
-msgstr ""
+msgstr "다음으로부터 가장 낮은 굴림을 사용합니다 :"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7780
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7819
@@ -4721,71 +4743,72 @@ msgstr "이점/불리점"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7803
 msgctxt "hb047e755gd92bg43d8gac73gcf2a011a5ca1"
 msgid "Effects cancelled out"
-msgstr ""
+msgstr "효과 취소됨"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7879
 msgctxt "hd54ec827g2cd8g480fg9b76g74a62c213271"
 msgid "Roll Target"
-msgstr ""
+msgstr "굴림 대상"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7920
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8373
 msgctxt "h8493c134g46fdg4a51gb78ag901a25906630"
 msgid "from"
-msgstr ""
+msgstr "다음으로부터"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7937
+#, fuzzy
 msgctxt "h87e79fa7gcd5eg41ceg8f66g245868d1fedf"
 msgid ""
 "If your dice roll + modifiers is equal to or higher than the target, you "
 "succeed your"
-msgstr ""
+msgstr "만약 당신의 주사위 굴림 + 수정치가 대상 이상이라면, 당신의 굴림이 성공합니다"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8107
 msgctxt "h2d431f82g4984g4294ga8edg944f01925773"
 msgid "On Miss:"
-msgstr ""
+msgstr "빗맞았을시:"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8121
 msgctxt "hcd11abdfg86e4g4470gabf5g52fad467aa86"
 msgid "On Save:"
-msgstr ""
+msgstr "저항시:"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8161
 msgctxt "h4693f78cge101g4dbcg8d2fg314806236010"
 msgid "You already know this spell."
-msgstr ""
+msgstr "이미 알고 있는 주문입니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8167
 msgctxt "hfa9b9be2gb7eeg4d98g8869gc4126276e512"
 msgid "You already have access to a better version of this spell."
-msgstr ""
+msgstr "이 주문의 상위의 주문을 이미 이용 가능합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8170
 msgctxt "ha231a88fg57f3g4bf2g9bd5g21c728ca318f"
 msgid ""
 "This is an equivalent variation on a spell you already know. You will have "
 "access to both."
-msgstr ""
+msgstr "이미 당신이 알고 있는 주문의 동위의 변형에 해당합니다. 두 주문 모두 이용 가능해집니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8173
 msgctxt "h5f14e2f1g251cg4d45g972dg35f77e231d81"
 msgid ""
 "This spell is a better version of one you already know. You will only have "
 "access to this one."
-msgstr ""
+msgstr "이 주문은 당신이 이미 알고 있는 주문보다 상위입니다. 이제부터 이 상위의 주문만 이용 가능합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8176
 msgctxt "hf70e793egfa56g4da3ga018ga4c6a012733f"
 msgid ""
 "This spell is a different version of one you already know. You will have "
 "access to both."
-msgstr ""
+msgstr "이 주문은 당신이 이미 알고 있는 주문의 변형에 해당합니다. 두 주문 모두 이용 가능해집니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8344
 msgctxt "h57a05f43g5361g4b03g8883g56d4683b7100"
 msgid "Details:"
-msgstr ""
+msgstr "세부사항:"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8434
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:1459
@@ -4800,98 +4823,98 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/LearnSpells.xaml:125
 msgctxt "hb7c9dbb8gd727g421egaf0ag910c2bec58e1"
 msgid "Level"
-msgstr ""
+msgstr "레벨"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8442
 msgctxt "h835d57a1g1280g47efg86deg12e69ba1ced4"
 msgid "Recharge: "
-msgstr ""
+msgstr "재충전: "
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8515
 msgctxt "h0c3f8279g8a3cg4482g9520g3d8dea6b638a"
 msgid "<hl>Vulnerable:</hl> Takes double damage."
-msgstr ""
+msgstr "<hl>취약함:</hl>두 배의 피해를 받습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8525
 msgctxt "h4aef1a30g1e36g45d0gb2c8g418b5910ecae"
 msgid "<hl>Resistant:</hl> Takes half damage."
-msgstr ""
+msgstr "<hl>저항:</hl> 절반의 데미지를 받습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8530
 msgctxt "hccec68aeg14fbg43f6ga35cg40da5c109da7"
 msgid "<hl>Immune:</hl> Takes no damage."
-msgstr ""
+msgstr "<hl>면역:</hl> 데미지를 받지 않습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8546
 msgctxt "h3d8c1481ga7e5g47c0gbcbeg6432ea83a828"
 msgid "Slashing Damage"
-msgstr ""
+msgstr "참격 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8550
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:9561
 msgctxt "hea17a85cg4aaag4679g9cbdge242e8f3bb9a"
 msgid "from <hl>[1]</hl>"
-msgstr ""
+msgstr "<hl>[1]</hl>로부터"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8595
 msgctxt "h59125b90g01acg47d1g9b6fg239f85116364"
 msgid "Piercing Damage"
-msgstr ""
+msgstr "관통 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8598
 msgctxt "h3550bb64g7af7g4e91gb461g1cae98ec840c"
 msgid "Bludgeoning Damage"
-msgstr ""
+msgstr "타격 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8601
 msgctxt "h58c367f5g2c2cg4045ga1b9g7b2e1a912d17"
 msgid "Acid Damage"
-msgstr ""
+msgstr "산성 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8604
 msgctxt "hbecb4ca9g48bag40fag819egafd249d8b96b"
 msgid "Thunder Damage"
-msgstr ""
+msgstr "천둥 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8607
 msgctxt "h033b1adbgc977g4d9fg8168g5fadcd6fd9f5"
 msgid "Necrotic Damage"
-msgstr ""
+msgstr "사령 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8610
 msgctxt "hfe5d3972g45f0g4e17gacd5g8054c0d40574"
 msgid "Fire Damage"
-msgstr ""
+msgstr "화염 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8613
 msgctxt "hdd679dc1gf504g462eg85f5gebd04359aff8"
 msgid "Lightning Damage"
-msgstr ""
+msgstr "번개 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8616
 msgctxt "h4eb283f1gbfddg4fdcgb417g84f28d5ae29b"
 msgid "Cold Damage"
-msgstr ""
+msgstr "냉기 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8619
 msgctxt "h10fd9484g2096g46e6g9ec9g751d5fed0e45"
 msgid "Psychic Damage"
-msgstr ""
+msgstr "정신 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8622
 msgctxt "h0d110711g9de8g4803ga322g2b76ae2f0637"
 msgid "Poison Damage"
-msgstr ""
+msgstr "독성 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8625
 msgctxt "hbb704683g7464g4c39g80d3g2b9487108a7c"
 msgid "Radiant Damage"
-msgstr ""
+msgstr "광휘 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8640
 msgctxt "h8a6537cdg4967g472bg9bbfg64a000c6359b"
 msgid "Non-Magical Damage"
-msgstr ""
+msgstr "비마법 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8641
 msgctxt "h8d033c84g7d23g479ag801cg89e8eba46ff4"
@@ -4901,11 +4924,14 @@ msgid ""
 "\n"
 "Non-magical damage affects all damage that is not magical in nature."
 msgstr ""
+"일부 크리쳐와 오브젝트는 특정 유형의 피해로부터 피해량을 덜 받거나 더 받기도 합니다.\n"
+"\n"
+"비마법 피해는 마법적 성질이 아닌 모든 피해에 영향을 줍니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8649
 msgctxt "ha413cc41g130eg473eg88acg712effb701be"
 msgid "Magical Damage"
-msgstr ""
+msgstr "마법 피해"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8650
 msgctxt "h3ac6b87ag09c5g4c49gb469gacceb1f1f6d9"
@@ -4915,6 +4941,9 @@ msgid ""
 "\n"
 "Magical damage affects all damage that has a magical source."
 msgstr ""
+"일부 크리쳐와 오브젝트는 특정 유형의 피해로부터 피해량을 덜 받거나 더 받기도 합니다.\n"
+"\n"
+"마법 피해는 마법적 원천을 지닌 모든 피해에 영향을 줍니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8667
 msgctxt "hf760bd98g64e4g4788g9761gb2d692399f15"
@@ -4925,6 +4954,10 @@ msgid ""
 "<hl>Resistant</hl>: takes half damage.\n"
 "<hl>Immune</hl>: takes no damage."
 msgstr ""
+"일부 크리쳐는 특정 유형의 피해로부터 피해량을 덜 받거나 더 받기도 합니다.\n"
+"<hl>취약함</hl>: 두 배의 피해를 받습니다.\n"
+"<hl>저항</hl>: 절반의 피해를 받습니다.\n"
+"<hl>면역</hl>: 피해를 받지 않습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8777
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8787
@@ -4936,7 +4969,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/LearnSpells.xaml:60
 msgctxt "h2519408dg5fd7g4cbcg840cg14370239edf8"
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8926
 msgctxt "h6dd6596fg1433g4b04g9d74g5dc6fb0048ea"
@@ -4944,11 +4977,13 @@ msgid ""
 "Weight the character is carrying, and how much they can carry before "
 "becoming <LSTag Tooltip=\"Encumbered\">Encumbered</LSTag>."
 msgstr ""
+"캐릭터가 현재 들고 있는 무게와<LSTag Tooltip=\"Encumbered\">과적</LSTag>상태가 되기 전까지 들 수 있는 "
+"무게."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8939
 msgctxt "he70ba432g24d1g4fbdg8ca0g1f16ecdf713c"
 msgid "Amount of gold this character is carrying."
-msgstr ""
+msgstr "이 캐릭터가 보유 중인 골드의 양."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8987
 msgctxt "h53a94e02g4319g47f7gb38fg87a53127da50"
@@ -5531,7 +5566,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:1453
 msgctxt "h85581f8bg866cg4da4g9d7agffb21a8cfade"
 msgid "Cantrips"
-msgstr "캔트립"
+msgstr "소마법"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:1546
 msgctxt "h66448586g6071g4b12g8e48g27cd0d5715ab"
