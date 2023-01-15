@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-15 18:03+0000\n"
-"Last-Translator: 겐쥐킹 <a8675309@naver.com>\n"
+"PO-Revision-Date: 2023-01-16 08:15+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/system/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -790,11 +790,11 @@ msgstr "도주 실패: 안전한 웨이포인트 성소가 없음"
 
 msgctxt "ha5a28174g9f8bg4167ga1e7ga33b785f37c4"
 msgid "Level with name '[1]' was not found!"
-msgstr ""
+msgstr "'[1]'이라는 이름의 레벨을 찾을 수 없습니다!"
 
 msgctxt "h9d5e6a4dgd36bg4578ga8d3ga8746a2044d7"
 msgid "[1] was refreshed"
-msgstr ""
+msgstr "다음이 갱신되었습니다 : [1]"
 
 msgctxt "h64dfc346ga614g4df9gbd15g2cd152c83873"
 msgid "[1] was removed by [2]"
@@ -826,7 +826,7 @@ msgstr ""
 
 msgctxt "h50f68d4egcba4g4bf7gb8dega93c1e1575b1"
 msgid "backstab."
-msgstr ""
+msgstr "배후 공격."
 
 msgctxt "hac7cca96gd0dfg4391gb188gc53fd12cb6a5"
 msgid "<LSTag Tooltip=\"Immune\">Immune</LSTag> to [1]"
@@ -866,7 +866,7 @@ msgstr ""
 
 msgctxt "h3653d04bg590fg4aabgb92fg0af2d81a1d0d"
 msgid "[1] has been slain!"
-msgstr ""
+msgstr "[1]을 처치함!"
 
 msgctxt "h48354645g13e8g4cb9gbc42gbbb447f5a406"
 msgid "This Round: [1]"
@@ -886,27 +886,27 @@ msgstr ""
 
 msgctxt "h3f133a1bg6a86g425eg9f5fg27f8cec6702b"
 msgid "Master volume"
-msgstr ""
+msgstr "전체 볼륨"
 
 msgctxt "h4cbc0429gafadg46f4g9139g3c8969b1734f"
 msgid "SFX volume"
-msgstr ""
+msgstr "효과음 볼륨"
 
 msgctxt "haf2d328ag37e4g4b6dg8491g06dbb9de0aa4"
 msgid "UI volume"
-msgstr ""
+msgstr "조작음 볼륨"
 
 msgctxt "hf047e594gfce2g41a1gaf2fgab878c1c0be6"
 msgid "Music volume"
-msgstr ""
+msgstr "배경음 볼륨"
 
 msgctxt "h4193178ag77d2g460eg9bbfgb74039f83c2a"
 msgid "Voice volume"
-msgstr ""
+msgstr "음성 볼륨"
 
 msgctxt "hf81ab406ga4d7g41ceg82f3g09e71cafca9f"
 msgid "Speaker configuration"
-msgstr ""
+msgstr "스피커 구성"
 
 msgctxt "h70dd4817g4b8eg4c9egb8dbg08622acaf6f9"
 msgid "Headphones"
@@ -926,7 +926,7 @@ msgstr "TV 스피커"
 
 msgctxt "hbd9ec9a1g9badg4a1cg8cf6gb2a0a8851fef"
 msgid "Point and click voice frequency"
-msgstr ""
+msgstr "클릭시 음성 빈도"
 
 msgctxt "hce5cccbcg2729g41c5gbeb3g10473d11a1b6"
 msgid "Midnight Mode"
@@ -936,15 +936,15 @@ msgctxt "hd18f2ceag9142g4724ga6e2gae11d86d4531"
 msgid ""
 "Helpful when trying to not disturb people around you. Reduces the dynamic "
 "range and lowers louder sounds, while maintaining a clear audio."
-msgstr ""
+msgstr "주변 사람들을 방해하지 않으려고 할 때 도움이 됩니다. 동적 범위가 감소하고 큰 소리를 줄이면서도 맑은 음향을 유지합니다."
 
 msgctxt "h43456c76g01b5g4a6cg89a8g2b44fecaaf80"
 msgid "Mute sound when inactive"
-msgstr ""
+msgstr "최소화 시 게임 음소거"
 
 msgctxt "h52cd5443g6e95g4eb2g8413gd5d4dd0432f8"
 msgid "Occlusion Quality"
-msgstr "오클루전 품질"
+msgstr "공간감 품질"
 
 msgctxt "hba8a0a10g213dg4b98gad27gf7442e5aa73d"
 msgid "Low"
@@ -4163,43 +4163,43 @@ msgstr ""
 
 msgctxt "h0c90d1d5gb529g4832gb9efgdd45155789b0"
 msgid "Abjuration"
-msgstr ""
+msgstr "방호계"
 
 msgctxt "h3eaaf2d6g8795g42f5gb815gddd92b0cf1f1"
 msgid "Conjuration"
-msgstr ""
+msgstr "조형계"
 
 msgctxt "h13a83f2ag601eg46d4ga8e9g908d577fb191"
 msgid "Divination"
-msgstr ""
+msgstr "예지계"
 
 msgctxt "h63f1ab3bge972g40b6ga9f4gbe7a1bc842e2"
 msgid "Enchantment"
-msgstr ""
+msgstr "환혹계"
 
 msgctxt "hbc557540gb3e3g4b1fga9bdg2eef3d463473"
 msgid "Evocation"
-msgstr ""
+msgstr "방출계"
 
 msgctxt "h66c48ab0ga6e3g4c56g9d76g84b8f4b739ee"
 msgid "Illusion"
-msgstr ""
+msgstr "환영계"
 
 msgctxt "h6d04178cgffbdg441agb7bcga8c670132a62"
 msgid "Necromancy"
-msgstr ""
+msgstr "사령계"
 
 msgctxt "h4ef544bfg288ag4f7cgb08bg87906504bd7b"
 msgid "Transmutation"
-msgstr ""
+msgstr "변환계"
 
 msgctxt "hcaaadcd5g4b98g49fdg8309g89799329e03f"
 msgid "Available next turn."
-msgstr ""
+msgstr "다음 턴에 사용 가능."
 
 msgctxt "hfb329171g7913g42baga9d2gf1109151936a"
 msgid "Requires <LSTag Tooltip=\"LongRest\">Long Rest</LSTag> before use."
-msgstr ""
+msgstr "사용하려면 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취해야 합니다."
 
 msgctxt "hd241fab4gb161g4208g8becg1b3954721204"
 msgid "Advantage"
@@ -4774,23 +4774,23 @@ msgstr ""
 
 msgctxt "h6a8d1ea1gbcfdg44a4g96d4g3338d0ca5db2"
 msgid "|  Owner has [1] [2] Condition(s) |"
-msgstr ""
+msgstr "|  Owner has [1] [2] Condition(s) |"
 
 msgctxt "h824cba1fg2a25g4831g838egbaf3aa88a5c8"
 msgid "| [1] Level |"
-msgstr ""
+msgstr "| [1] Level |"
 
 msgctxt "hf4fae594g55e5g4f4bg9eacg1ca267667c14"
 msgid "| Target's [1] Level |"
-msgstr ""
+msgstr "| Target's [1] Level |"
 
 msgctxt "hee8e1c68g09f7g4f23gada1g79e75c607e18"
 msgid "| Owner's [1] Level |"
-msgstr ""
+msgstr "| Owner's [1] Level |"
 
 msgctxt "h06011027g3850g47eeg88a0g6df5305f4eb8"
 msgid "| [1] Level |"
-msgstr ""
+msgstr "| [1] Level |"
 
 msgctxt "h1d88581bg45e0g4e5dg8043g51e57faffc9e"
 msgid "Spellcasting Ability"
@@ -4802,7 +4802,7 @@ msgstr ""
 
 msgctxt "h279199f6gda2bg4dc6gae8eg991780a1d7c1"
 msgid "| Owner's Spellcasting Ability |"
-msgstr ""
+msgstr "| Owner's Spellcasting Ability |"
 
 msgctxt "hcde008f4g257bg4839g8fbag92c9f2478682"
 msgid "Spellcasting Ability Modifier"
@@ -4814,7 +4814,7 @@ msgstr ""
 
 msgctxt "ha14b6b7fg818bg479cg88c5g3a47048142e1"
 msgid "| Owner's Spellcasting Ability Modifier |"
-msgstr ""
+msgstr "| Owner's Spellcasting Ability Modifier |"
 
 msgctxt "hc726a5f0gfc07g4d57ga112g35741b328da6"
 msgid "Target's Proficiency"
@@ -4822,7 +4822,7 @@ msgstr ""
 
 msgctxt "h13067ca4g2a92g4bfbga0ccg4e46a93c99a5"
 msgid "| Owner's Proficiency |"
-msgstr ""
+msgstr "| Owner's Proficiency |"
 
 msgctxt "hd0189c57gdd5fg4657g86f9g8ccaaa8dc327"
 msgid "Level"
@@ -4834,7 +4834,7 @@ msgstr ""
 
 msgctxt "h61962f3bg58e1g4eecg9749g8320dbc379e2"
 msgid "| Owner's Level |"
-msgstr ""
+msgstr "| Owner's Level |"
 
 msgctxt "h2cf755b2g0446g4d2ag9f4ag74062555d18f"
 msgid "Spell Save DC"
@@ -4846,7 +4846,7 @@ msgstr ""
 
 msgctxt "h7218ad79gd670g463ag9089g41d3feb96691"
 msgid "| Owner's Spell Save DC |"
-msgstr ""
+msgstr "| Owner's Spell Save DC |"
 
 msgctxt "hfd529e8dgf889g4c68g84aagad6427bad8ae"
 msgid "Weapon Action DC"
@@ -4858,7 +4858,7 @@ msgstr ""
 
 msgctxt "ha5930bbeg33fdg4f40g8d62gade8f3136716"
 msgid "| Owner's Weapon Action DC |"
-msgstr ""
+msgstr "| Owner's Weapon Action DC |"
 
 msgctxt "h2b326145g369cg49b0g9a2cg13959be07bc8"
 msgid "Unarmed Ability Modifier"
@@ -4870,7 +4870,7 @@ msgstr ""
 
 msgctxt "h5279c922g19c7g4168g9c83g39d1d2ec74a2"
 msgid "| Owner's Unarmed Ability Modifier |"
-msgstr ""
+msgstr "| Owner's Unarmed Ability Modifier |"
 
 msgctxt "h344c66d5g5b96g4762ga10bg7e1f337b9f1f"
 msgid "Current Hit Points"
@@ -4894,11 +4894,11 @@ msgstr ""
 
 msgctxt "hc017a45eg5c63g4348gb5edgd2f10caac811"
 msgid "| Owner's Maximum Hit Points |"
-msgstr ""
+msgstr "| Owner's Maximum Hit Points |"
 
 msgctxt "hea02c099g1f5fg46d1ga53cgb1039834594e"
 msgid "Spell Level"
-msgstr ""
+msgstr "주문 레벨"
 
 msgctxt "h4bfc4b52gf10cg4f24g9f28g5034826bc654"
 msgid ","
