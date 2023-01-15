@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-15 09:04+0000\n"
+"PO-Revision-Date: 2023-01-15 18:03+0000\n"
 "Last-Translator: 겐쥐킹 <a8675309@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
@@ -1321,7 +1321,7 @@ msgstr "물려받은 기술"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1116
 msgctxt "ha501c259g518eg4925g8f4cgfbe442cdf2ef"
 msgid "Inherited Skills with Expertise"
-msgstr "물려받았으며 전문성도 있는 기술"
+msgstr "물려받은 전문기술"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1021
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1126
@@ -2365,7 +2365,7 @@ msgstr "캠페인 정보"
 #: Game/Public/Game/GUI/Theme/DefaultTheme.Styles.xaml:1916
 msgctxt "h809e08f9g0ae8g4057g8941g245023916247"
 msgid "Sort By"
-msgstr "정렬"
+msgstr "정렬 기준"
 
 #: Game/Public/Game/GUI/Widgets/Container_c.xaml:381
 #: Game/Public/Game/GUI/Widgets/Container.xaml:458
@@ -3818,10 +3818,9 @@ msgstr "<LSTag Tooltip=\"Reach\">장병기</LSTag>"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4801
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5624
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6976
-#, fuzzy
 msgctxt "hfbf78535g63cbg497bg9f0ag260553831875"
 msgid "<LSTag Tooltip=\"Versatile\">Versatile</LSTag>"
-msgstr "<LSTag Tooltip=\"Versatile\">다용도 무기</LSTag>"
+msgstr "<LSTag Tooltip=\"Versatile\">다용도</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4805
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5628
@@ -4648,7 +4647,7 @@ msgstr "보조 손 전용"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7172
 msgctxt "h23929a25gb39ag409bga61ag1b0e9d6f5852"
 msgid "Proficiency unlocks"
-msgstr "숙련 해금"
+msgstr "숙련도로 해금"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7211
 msgctxt "hd40af023g3265g492dgb433gb272f433a093"
@@ -6912,10 +6911,9 @@ msgid "No damage"
 msgstr "피해 없음"
 
 #: Game/Public/Game/GUI/Widgets/Trade.xaml:261
-#, fuzzy
 msgctxt "h9235ffc2g60c0g4ec6g9070g1e864a597f0e"
 msgid "Sort By"
-msgstr "다음 기준으로 정렬:"
+msgstr "정렬 기준"
 
 #: Game/Public/Game/GUI/Widgets/Trade.xaml:339
 #: Game/Public/Game/GUI/Widgets/Trade_c.xaml:413
