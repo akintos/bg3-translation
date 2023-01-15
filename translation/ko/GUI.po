@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-15 18:03+0000\n"
-"Last-Translator: 겐쥐킹 <a8675309@naver.com>\n"
+"PO-Revision-Date: 2023-01-16 08:15+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1698,7 +1698,7 @@ msgstr "주문책"
 #: Game/Public/Game/GUI/Widgets/PartyPanel.xaml:361
 msgctxt "h2fda2a98g24aeg4745ga96fg486c04590c4e"
 msgid "Reactions"
-msgstr "리액션"
+msgstr "반응 행동"
 
 #: Game/Public/Game/GUI/Widgets/CharacterPanel.xaml:280
 #: Game/Public/Game/GUI/Widgets/PartyPanel.xaml:186
@@ -3245,9 +3245,9 @@ msgid ""
 "Class, but it also doesn't penalize you if your Dexterity modifier is "
 "negative. |"
 msgstr ""
-"중갑은 모든 갑옷 유형 중 가장 보호 성능이 가장 탁월합니다. 중갑은 전신을 감싸며 다양한 공격을 막아내게끔 설계되었습니다. 오직 숙련된 "
-"전사들만이 중갑의 무게와 부피를 제대로 감당할 수 있습니다. 중갑 착용시 민첩 수정치가 방어도에 가산되지 않지만, 민첩 수정치가 "
-"마이너스일시 받는 페널티도 없애줍니다."
+"| 중갑은 모든 갑옷 유형 중 가장 보호 성능이 가장 탁월합니다. 중갑은 전신을 감싸며 다양한 공격을 막아내게끔 설계되었습니다. 오직 "
+"숙련된 전사들만이 중갑의 무게와 부피를 제대로 감당할 수 있습니다. 중갑 착용시 민첩 수정치가 방어도에 가산되지 않지만, 민첩 수정치가 "
+"마이너스일시 받는 페널티도 없애줍니다. |"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:1911
 msgctxt "h0e6581dag3136g4990gb14eg8a3f8f2ebba1"
@@ -4639,10 +4639,9 @@ msgid "Main Hand Only"
 msgstr "주로 사용하는 손에만 가능"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7159
-#, fuzzy
 msgctxt "h80276877gd95cg4477ga1a3g85986f4f919b"
 msgid "Off-Hand Only"
-msgstr "보조 손 전용"
+msgstr "보조 무기 전용"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7172
 msgctxt "h23929a25gb39ag409bga61ag1b0e9d6f5852"
@@ -5753,45 +5752,35 @@ msgstr "방어구"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4306
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4321
-#, fuzzy
 msgctxt "h6352fd8fg07b1g4c3agab89g4ec0a2b479e6"
 msgid ""
 "<hl>[1]</hl> is <LSTag Tooltip=\"ArmourProficiency\">Proficient</LSTag> with "
 "the following armours:"
-msgstr ""
-"<hl>[1]</hl>에게는 다음의 방어구들에 해당하는 <LSTag Tooltip=\"ArmourProficiency\">갑옷 숙련도</"
-"LSTag>가 있습니다:"
+msgstr "<hl>[1]</hl>의 방어구 <LSTag Tooltip=\"ArmourProficiency\">숙련</LSTag>:"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4338
-#, fuzzy
 msgctxt "h3f2a13d0g43dfg45c3g9054gac4435262f3b"
 msgid ""
 "<hl>[1]</hl> is not <LSTag Tooltip=\"ArmourProficiency\">Proficient</LSTag> "
 "with any armour."
 msgstr ""
-"<hl>[1]</hl>에게는 모든 유형의 갑옷에 대해  <LSTag Tooltip=\"ArmourProficiency\">갑옷 숙련도</"
-"LSTag>가 없습니다."
+"<hl>[1]</hl>의 방어구 <LSTag Tooltip=\"ArmourProficiency\">숙련</LSTag>: 해당 없음"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4351
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4365
-#, fuzzy
 msgctxt "haa84e19cg142fg4128g97b3g4bbed0390545"
 msgid ""
 "<hl>[1]</hl> is <LSTag Tooltip=\"Proficiency\">Proficient</LSTag> with the "
 "following weapons:"
-msgstr ""
-"<hl>[1]</hl>에게는 다음에 해당하는 무기들에 대한 <LSTag Tooltip=\"Proficiency\">숙련도</LSTag> "
-"가 있습니다:"
+msgstr "<hl>[1]</hl>의 무기 <LSTag Tooltip=\"ArmourProficiency\">숙련</LSTag>:"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4382
-#, fuzzy
 msgctxt "h8ad022f5g5e8eg409eg8577gb83095463181"
 msgid ""
 "<hl>[1]</hl> is not <LSTag Tooltip=\"Proficiency\">Proficient</LSTag> with "
 "any Martial Weapons."
 msgstr ""
-"<hl>[1]</hl>에게는 모든 종류의 군용 무기에 대한 <LSTag Tooltip=\"Proficiency\">숙련도</LSTag>가 "
-"없습니다."
+"<hl>[1]</hl>의 군용 무기 <LSTag Tooltip=\"ArmourProficiency\">숙련</LSTag>: 해당 없음"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4395
 #, fuzzy
