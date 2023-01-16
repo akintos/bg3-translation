@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-16 14:59+0000\n"
+"PO-Revision-Date: 2023-01-18 15:52+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/default/ko/>\n"
 "Language: ko\n"
@@ -296,7 +296,7 @@ msgstr "작업 중인 책의 초안입니다...영혼에 관한 것인가요?"
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:6347
 msgctxt "h0ef93881g3483g46b6ga6bege01742cc5e17"
 msgid "Volo's Guide to Spirits and Spectres"
-msgstr "영혼과 망령에 대한 볼로의 안내서"
+msgstr "볼로의 영혼과 망령에 대한 안내서"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:6418
 msgctxt "h3581fef2g5b6cg4f38gb782g97859510d599"
@@ -2060,7 +2060,7 @@ msgstr "영혼에 관한 이 책의 초안은 분명히 작업 중인 작품이�
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:31800
 msgctxt "h28a22f35ga57fg4570gb1e5g3700f30565af"
 msgid "Volo's Guide to Spirits and Spectres (Signed)"
-msgstr "영혼과 망령에 대한 볼로의 안내서 (서명됨)"
+msgstr "볼로의 영혼과 망령에 대한 안내서 (서명됨)"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:31871
 msgctxt "h2c0fe352g5606g44bega8cdg871d23f67223"
@@ -3211,14 +3211,13 @@ msgid "Komira's Locket"
 msgstr "코미라의 로켓"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:49242
-#, fuzzy
 msgctxt "h241e5918g663eg4858g8a38g36a7eda5737c"
 msgid ""
 "Grants its wearer the ability to cast <LSTag Type=\"Spell\" Tooltip="
 "\"Target_DancingLights\">Dancing Lights</LSTag>."
 msgstr ""
-"착용자에게 <LSTag Type=\"Spell\" Tooltip=\"Target_DancingLights\">Dancing Lights</"
-"LSTag> 시전 능력을 부여한다."
+"착용자에게 <LSTag Type=\"Spell\" Tooltip=\"Target_DancingLights\">춤추는 빛</LSTag> "
+"시전 능력을 부여한다."
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:49376
 msgctxt "hc7a44c31g49a9g46a6g83a3gac5e652d7a1a"
@@ -4252,45 +4251,47 @@ msgid ""
 "wreath is forever linked to its lands, the tiny rubies connected to its "
 "stones and structures, bidding them to do their bidding."
 msgstr ""
+"이 머리장식의 나뭇가지는 반쯤 화석화되었는데, 드루이드들 사이에서 수 세대에 걸쳐 내려온 것입니다. 숲이 세워질 때 제작된 이 화관은 이 "
+"땅과 영원히 연결되어 있으며, 작은 루비들은 그 땅의 돌과 구조물들에 연결되어 명령을 내립니다."
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:65395
 msgctxt "h39168373gd77dg44a6gb871gf2b39af6f416"
 msgid "Key of the Ancients"
-msgstr ""
+msgstr "선조의 열쇠"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:65734
 msgctxt "hba5263e5gb46cg4ca0ga8c8gada21897f101"
 msgid ""
 "The heavily edited draft of a book that examines the activities of nymphs in "
 "GREAT detail."
-msgstr ""
+msgstr "편집이 많이 된 이 초안본은 님프의 활동을 <b>무척이나</b> 상세하게 조사한 내용입니다."
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:65735
 msgctxt "h14074256g5e85g4715g8f5ag1f15493397db"
 msgid "Volo's Complete Guide to the Behaviour of Nymphs"
-msgstr ""
+msgstr "볼로의 님프 행동 완벽 안내서"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:65806
 msgctxt "h5f419360gf97ag41cag91dcgc0fb94fa453e"
 msgid "An exotic gossamer petal, faded and blue. It smells faintly of honey."
-msgstr ""
+msgstr "이국적이고 섬세한 꽃잎으로, 시든 푸른빛입니다. 희미한 꿀 향기가 납니다."
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:65807
 msgctxt "h5646b276g7c57g4abcg8a57g89f97efaa8aa"
 msgid "Withered Blue Petal"
-msgstr ""
+msgstr "시든 푸른 꽃잎"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:66074
 msgctxt "hb39612e5g3300g487eg95e1g39b891270dcb"
 msgid ""
 "Rough, unprocessed and raw - this mithral ore is ready to be fed into the "
 "forge."
-msgstr ""
+msgstr "거칠고, 정제되지 않았습니다. 이 미스랄 광석은 용광로에 들어갈 준비가 되었습니다."
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:66075
 msgctxt "h4a907eeeg5a6fg424eg81efg255707eb8d12"
 msgid "Mithral Ore"
-msgstr ""
+msgstr "미스랄 광석"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:66124
 msgctxt "h66ecf0a3gfcb8g4d26ga1dag3bae2b9ec9d8"
@@ -4310,19 +4311,19 @@ msgstr "꿈의 방문자"
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:66418
 msgctxt "h80e8b04eg5833g4f51gafc9g9600e8e340c9"
 msgid "Pendant Light"
-msgstr ""
+msgstr "펜던트 조명"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:66579
 msgctxt "h96347dfeg7e96g474cga87eg652cd899b053"
 msgid ""
 "Blackened drops of blood have coagulated on the outside of the bottle and "
 "stained its stopper."
-msgstr ""
+msgstr "검게 된 핏방울이 병의 바깥쪽에 응고되어 묻어있고, 마개를 더럽혔습니다."
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:66580
 msgctxt "h8870e964ga1a1g453fgb937g53d127ba8c2e"
 msgid "Vial of Blood"
-msgstr ""
+msgstr "피의 병"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:66649
 msgctxt "h25826d74g5806g4f93gb1e2gdb6451f66998"
@@ -4342,22 +4343,23 @@ msgstr "| Illithid|"
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:66953
 msgctxt "h406f517eg1490g4a22g9669gc4ef06d3e15b"
 msgid "Grave Marker"
-msgstr ""
+msgstr "무덤 표지"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:67016
+#, fuzzy
 msgctxt "h9a1e0bcbg23dag44adga3e2g31aeb6d142c9"
 msgid "Scroll of Summon Quasit"
-msgstr ""
+msgstr "콰지트 소환의 두루마리"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:67057
 msgctxt "h826ff2a6gcbb5g4d99g9d88ge0e132deef4b"
 msgid "This watery sludge slowly drips off your spoon."
-msgstr ""
+msgstr "묽은 진흙 같은 것이 숟가락에서 천천히 뚝뚝 떨어집니다."
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:67059
 msgctxt "h8ae96ae0g3473g45d6gb577g0479413ddbba"
 msgid "Gruel"
-msgstr ""
+msgstr "귀리죽"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:67180
 msgctxt "h636612f4gf077g4780ga407ged4a0df5b8d9"
@@ -4388,27 +4390,27 @@ msgstr "물꽃점화기"
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68114
 msgctxt "h1e7b013fg8c96g4e57gb002ga2361c78c7a9"
 msgid "Deep and dark, like a starless night."
-msgstr ""
+msgstr "별이 없는 밤하늘처럼 깊고 어둡습니다."
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68115
 msgctxt "hc0556e33gf3d2g4dcfg99fag53629a5ebe1e"
 msgid "Umbral Gem"
-msgstr ""
+msgstr "그림자 보석"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68160
 msgctxt "hae38c7d6g31b1g40d1g989cgad4fe9706014"
 msgid "Fashioned together from a rough-cut branch and stinking sinew."
-msgstr ""
+msgstr "대충 꺾은 나뭇가지와 악취나는 힘줄로 만들어졌습니다."
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68161
 msgctxt "he655d7aagbf82g47eag844bga4fd9555f66d"
 msgid "Goblin Bow"
-msgstr ""
+msgstr "고블린 활"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68350
 msgctxt "hbb631492gb07eg41f6gbeb3g25df049064cd"
 msgid "Pendant Light"
-msgstr ""
+msgstr "펜던트 조명"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68406
 msgctxt "h01f49464gbdf7g4397ga7a0g8e4a2bf9a4a0"
@@ -4418,39 +4420,39 @@ msgstr "|Teleportation Beacon|"
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68424
 msgctxt "h7b02e350g24cdg4c54g81fag98a145e491e9"
 msgid "Entirely inconspicuous, save for the circular pattern in which it grew."
-msgstr ""
+msgstr "버섯이 자라나며 생긴 둥근 문양을 제외하면, 전혀 눈에 띄는 부분이 없습니다."
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68425
 msgctxt "h5b4fa248g2ce4g4a2bg9318g7daf38839247"
 msgid "Mushroom Circle"
-msgstr ""
+msgstr "버섯 원"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68505
 msgctxt "h1451a287gd39bg4a31ga94eg1849b013eede"
 msgid "Sandstone Rock"
-msgstr ""
+msgstr "사암"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68551
 msgctxt "h8ca3e962g7ee1g4fddga460g9b5b52921d5a"
 msgid "Grave Marker"
-msgstr ""
+msgstr "무덤 표지"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68614
 msgctxt "hcd67ead2g2f18g4e27g864fg0d9dda4c31c6"
 msgid ""
 "A simple horn belonging to Lump the Enlightened. The mouthpiece is crusty "
 "with chunks of dried food."
-msgstr ""
+msgstr "깨우친 럼프가 가지고 있던 단순한 뿔나팔입니다. 입이 닿는 부분에 음식이 딱딱하게 말라붙어 있습니다."
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68615
 msgctxt "hc1a94844g323dg44a6g93f3g9a0a375ff3c0"
 msgid "Lump's War Horn"
-msgstr ""
+msgstr "럼프의 전쟁 뿔나팔"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68620
 msgctxt "h3a39659cg5984g4ae8gbdc8gca52c85014ea"
 msgid "Sound"
-msgstr ""
+msgstr "불기"
 
 #: Gustav/Public/Gustav/RootTemplates/_merged.lsx:68624
 msgctxt "hfbf02626g9c4fg47bdg8c56g6a4579202386"
@@ -4459,6 +4461,8 @@ msgid ""
 "feast on anyone they can get their hands on, but if you've made a deal with "
 "them, they will make an effort to spare your party."
 msgstr ""
+"이 뿔나팔을 불어 럼프의 광폭한 오우거 무리를 불러냅니다. <br><br>그들은 손에 닿는 건 무엇이든 먹어 치우겠지만, 당신과 거래를 "
+"했다면 당신 일행에게는 해를 끼치지 않으려고 노력은 해볼 것입니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:10
 msgctxt "h809b87b4g868ag4e87gbe4bgb895f7efc47b"
@@ -4467,6 +4471,8 @@ msgid ""
 "can also hold the Left Mouse Button, or double-click on your character's "
 "bottom-left portrait to do the same."
 msgstr ""
+"선택한 캐릭터를 카메라 중앙에 두려면 [IE_CameraCenter]키를 누르세요. 왼쪽 마우스 버튼을 누르고 있거나, 좌측 하단의 "
+"캐릭터 초상화를 두 번 클릭해도 됩니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:18
 msgctxt "h08d17d54gf579g43ebga0a6gbf74ad1fc133"
@@ -4485,14 +4491,14 @@ msgstr ""
 #: Game/Public/Game/Hints/Hints.lsx:34
 msgctxt "h87355969gfcbbg424fg92c1g351a1b9e6ce5"
 msgid "Use [IE_CameraRotate] to rotate the camera."
-msgstr ""
+msgstr "[IE_CameraRotate]키를 사용해 카메라를 회전하세요."
 
 #: Game/Public/Game/Hints/Hints.lsx:42
 msgctxt "h54ccef5cg601bg4333g8473g1eb69aed0436"
 msgid ""
 "Your spells will react with the environment, so use your surroundings to "
 "your advantage."
-msgstr ""
+msgstr "주문은 환경과 상호작용하므로, 주위 환경을 이용해 이점을 취하십시오."
 
 #: Game/Public/Game/Hints/Hints.lsx:50
 msgctxt "h34f27a9bg5a6eg4421g9d15g8b83d498124d"
@@ -4501,6 +4507,8 @@ msgid ""
 "ascended to godhood in a strange bargain with Jergal, the original god of "
 "death, murder, and strife."
 msgstr ""
+"바알, 베인, 머큘. 세 악신은 모두 한때 필멸자였습니다. 그러나 죽음, 살인, 투쟁의 신이었던 제르갈과의 알 수 없는 거래를 통해 "
+"위상을 물려받고 신으로 승천했습니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:58
 msgctxt "he1a8eb0eg277fg4278gaa18g1dc22e1cc830"
@@ -4517,11 +4525,12 @@ msgid ""
 msgstr "홀로 여행하는 것은 힘들고 지치는 일입니다. 균형잡힌 파티를 만들면 대화에서 전투까지 모든 것이 쉬워집니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:74
+#, fuzzy
 msgctxt "h17e1f9fbg49d0g405agb733ga396708e6e72"
 msgid ""
 "Passive checks can reveal hidden details in the world around you. Explore "
 "thoroughly to discover Faerûn's secrets."
-msgstr ""
+msgstr "패시브 굴림을 통해 당신 주위의 숨은 세부 사항을 드러낼 수 있습니다. 철저히 탐험해 페이룬의 비밀을 찾아보세요."
 
 #: Game/Public/Game/Hints/Hints.lsx:82
 msgctxt "hb98b72a6gff93g4a81ga8edgead58f6722ac"
@@ -4536,18 +4545,20 @@ msgid ""
 "You can separate stacked items by holding [IE_SplitItemToggle] and then "
 "dragging and dropping to another inventory slot."
 msgstr ""
+"[IE_SplitItemToggle]키를 누르고 있으면 여러 개가 있는 아이템을 분리할 수 있고, 마우스로 끌어서 다른 인벤토리 칸에 "
+"놓을 수 있습니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:98
 msgctxt "h5e550837g8575g4196ga376g55ea38a18e45"
 msgid "Trade keeps the Realms alive. Most people are happy to barter if asked."
-msgstr "거래는 이 세계의 살아있는 원동력입니다. 물물거래를 요청하면 대부분의 사람들이 기꺼이 수락할 것입니다."
+msgstr "포가튼 렐름을 생기넘치게 하는 원동력이 바로 교역입니다. 물물교환을 요청하면 대부분의 사람들은 기꺼이 수락할 것입니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:106
 msgctxt "hea0be49bg4758g42e0gab48gef901ee00fda"
 msgid ""
 "Items outlined in red belong to someone else. Steal with care, or risk a "
 "confrontation."
-msgstr "붉은색으로 강조되는 아이템은 다른 사람의 소유물입니다. 조심해서 훔치거나, 정면으로 부딪힐 위험을 감수하십시오."
+msgstr "붉은 색으로 강조되는 아이템은 다른 사람의 소유물입니다. 조심해서 훔치거나, 정면으로 부딪힐 위험을 감수하십시오."
 
 #: Game/Public/Game/Hints/Hints.lsx:114
 msgctxt "h470412aegd5d4g4429g96dfg888f6a0d184b"
@@ -4555,13 +4566,14 @@ msgid ""
 "Holding [IE_DestructionToggle] allows you to destroy mundane items or attack "
 "non-hostile characters."
 msgstr ""
+"[IE_DestructionToggle]키를 누르고 있으면 일반적인 물품을 공격해 파괴하거나, 비적대적인 캐릭터를 공격할 수 있습니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:122
 msgctxt "h975207b5gb68cg4f9dgae15g5dc7eefd3334"
 msgid ""
 "Avernus, the first layer of the Nine Hells, is ruled by Zariel - a fallen "
 "angel turned archdevil."
-msgstr ""
+msgstr "아홉 지옥의 첫 번째 층인 아베르누스는 타락한 천사이자 아크데블인 자리엘이 통치합니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:130
 msgctxt "hd2e816a0g9ec7g4a4cg8210g32dcd3f2bc81"
@@ -4575,28 +4587,30 @@ msgctxt "hd1502ce7g66a0g4e3cgb3b0ga56745fee96d"
 msgid ""
 "Your arrows and spells will pass through companions harmlessly - unless they "
 "cause explosions or an area of effect."
-msgstr ""
+msgstr "폭발하거나 범위 효과를 주지 않는 화살과 주문은 동료들에게 피해를 주지 않고 통과합니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:146
+#, fuzzy
 msgctxt "he3d1d1bagd74dg4df3gbf35g1743d016e5d6"
 msgid ""
 "Detect Thoughts can give you a glimpse into someone's secrets, but expect "
 "hostility if you're caught prying."
 msgstr ""
+"Detect Thoughts는 타인의 비밀을 살짝 엿볼 수 있게 해줍니다. 하지만 시도하다 걸릴 경우에는 적대적인 반응이 있을 것입니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:154
 msgctxt "hcd9123c9g1d9dg4676g804cgac05d50e1d26"
 msgid ""
 "Need a bit of magic to turn the tides? Scrolls allow you to keep extra "
 "spells on hand."
-msgstr ""
+msgstr "전세를 뒤집기 위해 약간의 마법이 필요한가요? 두루마리를 통해 주문을 추가적으로 보관할 수 있습니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:162
 msgctxt "haeacd961g8366g4afbga52agdc51c03b4570"
 msgid ""
 "You cannot target enemies in darkness and fog clouds unless they are very "
 "close to you."
-msgstr ""
+msgstr "안개나 어둠 속에서는 적이 매우 가까이 있지 않는 한 공격할 수 없습니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:170
 msgctxt "hf66531fcg8dc0g42b7gbbe8g9c0ef90959cb"
@@ -4604,6 +4618,7 @@ msgid ""
 "Be aware of your fights spilling into new areas. You might end up with "
 "unexpected allies - or facing a new horde of enemies."
 msgstr ""
+"싸움이 다른 구역으로 번지는 것을 조심하세요. 예상치 못한 아군을 만나게 될 수도 있지만, 새로운 적 무리를 맞이할 수도 있습니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:178
 msgctxt "h4899733eg21edg4bebg9e5ag2e04e1d6b104"
@@ -4617,7 +4632,7 @@ msgctxt "hd30ded14g5ad5g4712gbf66g32736faa955f"
 msgid ""
 "Use custom markers on your map to track quests, hostile locations, or areas "
 "of interest."
-msgstr ""
+msgstr "지도에 사용자 지정 마커를 추가해서 퀘스트나 적대적인 지역, 관심거리를 표시할 수 있습니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:194
 msgctxt "h27457824g3787g4dd3gb730g5df2c91d92df"
@@ -4629,14 +4644,14 @@ msgctxt "ha927c7cbg6f76g4f49ga9dcg46c93dac8082"
 msgid ""
 "Items can be traded with the same ease as gold. Offer them up for barter if "
 "your coin pouch is getting light."
-msgstr ""
+msgstr "아이템은 금화와 마찬가지로 쉽게 거래할 수 있습니다. 주머니가 가벼워지고 있다면 아이템을 물물교환에 내놓아 보세요."
 
 #: Game/Public/Game/Hints/Hints.lsx:210
 msgctxt "h509221cag2369g4e91g928egdd4dfaf65484"
 msgid ""
 "It is said mind flayer tadpoles consume their hosts in a matter of days, "
 "destroying the victim in both body and soul."
-msgstr ""
+msgstr "마인드 플레이어 올챙이는 그 숙주를 단 며칠 만에 잠식해버리고, 희생자의 육신과 영혼을 모두 파괴한다고 합니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:218
 msgctxt "h66621a17gbc76g4ba1gb03ag015e7477e881"
@@ -4648,33 +4663,33 @@ msgstr "[IE_HighlightCharacters] 키를 눌러 주변의 모든 캐릭터에 외
 #: Game/Public/Game/Hints/Hints.lsx:226
 msgctxt "hc10e13b6gcb52g413bgaf14g6d725654e3e7"
 msgid "The river Chionthar flows from Iriaebor all the way to Baldur's Gate."
-msgstr ""
+msgstr "치온타르 강은 이리에보어에서 발더스 게이트까지 흐릅니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:234
 msgctxt "h6e653b23g6d43g49acg8160g876c46bae16f"
 msgid ""
 "Pickpocketing is a quick path to profit - just make sure your Sleight of "
 "Hand is up to the task."
-msgstr ""
+msgstr "소매치기로 빠르게 이익을 취할 수 있습니다. 다만 당신의 손재주가 그 일을 해낼 수 있는지부터 확인하십시오."
 
 #: Game/Public/Game/Hints/Hints.lsx:242
 msgctxt "he9f0d816gf61ag4313ga49dg1cfbc58a62c3"
 msgid "All audio settings can be adjusted under the Options menu."
-msgstr ""
+msgstr "옵션 메뉴에서 음향 설정을 조정할 수 있습니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:250
 msgctxt "h0ead99b2gdd90g4b9fg8d02g1d1aeff59f7b"
 msgid ""
 "Shar and Selûne fight a divine war of darkness versus light. Their "
 "worshippers mirror this crusade in conflicts across Faerûn."
-msgstr ""
+msgstr "샤와 셀루네는 어둠 대 빛의 성전을 치릅니다. 그 신자들도 이를 본따 페이룬 전역에 걸쳐 분쟁을 벌이고 있습니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:258
 msgctxt "h5b183927gc84ag430egabdbg77f69f36cbeb"
 msgid ""
 "Web surfaces can Enweb you, but they also prevent you from taking falling "
 "damage. They're a good spot for a soft landing!"
-msgstr ""
+msgstr "거미줄 표면은 당신을 묶어버릴 수도 있지만, 그 위에 떨어지면 낙상 피해를 받지 않습니다. 부드럽게 착지하기 좋은 자리입니다!"
 
 #: Game/Public/Game/Hints/Hints.lsx:266
 msgctxt "h9d7c4bf6gc5eag4d88g9a8dg918a71827f59"
@@ -4682,13 +4697,15 @@ msgid ""
 "Arrows can be useful in more than just a fight. Shoot a hinge to bring down "
 "a brazier, or fire at a lever that is just out of reach."
 msgstr ""
+"화살은 그냥 전투 외에도 쓸만한 구석이 있습니다. 매달려 있는 화로의 경첩을 쏘아 떨어뜨리거나, 손이 닿지 않는 레버를 쏴서 밀어버릴 "
+"수도 있습니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:274
 msgctxt "h1a7c974ag6f3bg4c57ga318ga13fb4c535fe"
 msgid ""
 "Standing in dark areas obscures you, making it harder for enemies to hit you "
 "or spot you when you are hiding."
-msgstr ""
+msgstr "어두운 곳에 있으면 가려집니다. 공격이 적중하기 어려워지고, 은신했을 경우엔 찾기 어려워집니다."
 
 #: Game/Public/Game/Hints/Hints.lsx:282
 msgctxt "hee48e0e7g875cg4b66ga21dg7aa7257288ce"
@@ -4700,20 +4717,20 @@ msgctxt "h7a54e545gc4ddg44d6g95f1g3e4c8e8d7338"
 msgid ""
 "Enemies that are standing in darkness are harder to hit, unless you have "
 "darkvision."
-msgstr ""
+msgstr "어둠 속에 있는 적은 맞추기 더 어려워집니다. 암시야가 없다면 말이죠."
 
 #: Game/Public/Game/Hints/Hints.lsx:298
 msgctxt "h5fd25fb5g0c76g470cg9b88g61f286bb1802"
 msgid ""
 "Elves, dwarves, half-elves, gnomes, and tieflings have darkvision, which "
 "allows them to see in the dark."
-msgstr ""
+msgstr "엘프, 드워프, 하프엘프, 노움, 티플링은 어둠 속에서도 잘 보게 해주는 암시야를 지니고 있습니다."
 
 #. key = GEN_Unreadable
 #: Gustav/Mods/Gustav/Localization/Generic_Books.lsx:8
 msgctxt "h98c34f0dg4b83g4524g9e0age93dad662c10"
 msgid "This book has all but crumbled to dust, making it impossible to read."
-msgstr ""
+msgstr "이 책은 거의 먼지가 되어 읽을 수가 없습니다."
 
 #. key = GEN_Factions_OriginsofZhentarim
 #: Gustav/Mods/Gustav/Localization/Generic_Books.lsx:15
@@ -4870,6 +4887,7 @@ msgstr ""
 
 #. key = GEN_Factions_FlamingFistPoster
 #: Gustav/Mods/Gustav/Localization/Generic_Books.lsx:64
+#, fuzzy
 msgctxt "h44669d5aga81dg41c8g9a16g742797032aae"
 msgid ""
 "<b>[A man and woman stand side by side in armour emblazoned with a red fist "
@@ -4881,6 +4899,10 @@ msgid ""
 "at the Seatower of Balduran to find out how you can blaze a new career path, "
 "today!"
 msgstr ""
+"<b>[남자와 여자가 불꽃에 휩싸인 붉은 주먹이 새겨진 갑옷 옆에 서 있습니다.]</b><br><br>플레이밍 피스트에서 긍지와 목적을 "
+"찾아보세요! 오늘 입단해서 발더스 게이트를 지키세요. <br><br>대공작 얼더 레이븐가드 에게 직접 지휘 받으며, 여러분은 도시의 "
+"거리를 지키고, 사람들을 수호하고, 우리를 다스리는 질서를 유지하게 될 것입니다. <br><br>도시 전역에 있는 우리의 친절한 피스트 "
+"단원에게 물어보거나, 발더란의 해상탑에 있는 본부에 와서 어떻게 여러분이 새로운 성공으로의 길을 빛낼 수 있는지 알아보세요!"
 
 #. key = GEN_Races_GoblinsMockingMaglubiyet
 #: Gustav/Mods/Gustav/Localization/Generic_Books.lsx:71
@@ -6862,109 +6884,110 @@ msgstr "발더스 게이트 3"
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:8
 msgctxt "h6438ed9bg4858g48ceg8ab8g162d33b982c6"
 msgid "Riverside Teahouse"
-msgstr ""
+msgstr "강가의 찻집"
 
 #. key = WAYP_DEN_Camp
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:15
 msgctxt "hb1c65f38gaa8fg4a0agbb07g55713490eef9"
 msgid "Silvanus' Grove"
-msgstr ""
+msgstr "실바누스의 숲"
 
 #. key = WAYP_CHA_Chapel
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:22
 msgctxt "h11d261f1ge304g48f3ga47cge84ef1c5494d"
 msgid "Overgrown Ruins"
-msgstr ""
+msgstr "풀이 무성한 폐허"
 
 #. key = WAYP_PLA_Toll
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:29
+#, fuzzy
 msgctxt "h9d6af1d4g60ccg43aagb868gb84df562f9cd"
 msgid "The Risen Road"
-msgstr ""
+msgstr "치솟은 길"
 
 #. key = WAYP_GOB_Temple
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:36
 msgctxt "h7b3b5b80gabbcg411dg8779g703bf6645b39"
 msgid "Goblin Camp"
-msgstr ""
+msgstr "고블린 숙영지"
 
 #. key = WAYP_PLA_Tavern
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:43
 msgctxt "h689d5ab6g5c45g4982g9132gcf27064b1154"
 msgid "Waukeen's Rest"
-msgstr ""
+msgstr "와우킨의 쉼터"
 
 #. key = WAYP_FOR_Ruins
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:50
 msgctxt "hbf8f373bgcf96g4aa2gbec3g5691a618a8b9"
 msgid "Blighted Village"
-msgstr ""
+msgstr "파괴된 마을"
 
 #. key = WAYP_ReturnPos
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:57
 msgctxt "h1485a3edgbe1bg460cg9498g3c875198180b"
 msgid "Leave Camp"
-msgstr ""
+msgstr "야영지 떠나기"
 
 #. key = WAYP_CHA_Top
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:64
 msgctxt "hdfc8037eg1199g4901g9f6eg5984aa1584fb"
 msgid "Roadside Cliffs"
-msgstr ""
+msgstr "길가의 절벽"
 
 #. key = WaypointCampEnter
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:71
 msgctxt "h4d361898g4acdg4b43ga2c0gc699fdcace74"
 msgid "Camp"
-msgstr ""
+msgstr "야영지"
 
 #. key = WaypointCampLeave
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:78
 msgctxt "h2030b262g502bg4d96g8108g9019afd6615f"
 msgid "Leave Camp"
-msgstr ""
+msgstr "야영지 떠나기"
 
 #. key = WAYP_FOR_Bottomless
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:85
 msgctxt "h1cce06ffgb367g45b7ga501g554618175c07"
 msgid "Whispering Depths"
-msgstr ""
+msgstr "속삭이는 동굴"
 
 #. key = WAYP_UND_Beach
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:92
 msgctxt "h45a6a240gecc5g4147ga675gfab51691b7da"
 msgid "Underdark - Beach"
-msgstr ""
+msgstr "언더다크 - 호숫가"
 
 #. key = WAYP_UND_Duergar
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:99
 msgctxt "h34b4cad7g8badg46bagaff7gf80e29795b65"
 msgid "Underdark - Grymforge"
-msgstr ""
+msgstr "언더다크 - 그림포지"
 
 #. key = WAYP_UND_Sussur
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:106
 msgctxt "he433a87dgdfb9g4ca7g976egd3925d4a6514"
 msgid "Underdark - Sussur Tree"
-msgstr ""
+msgstr "언더다크 - 수서르 나무"
 
 #. key = WAYP_UND_Myconid
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:113
 msgctxt "h0f8777eag3e59g4fe8g9308g09834c822438"
 msgid "Underdark - Myconid Colony"
-msgstr ""
+msgstr "언더다크 - 마이코니드 군락"
 
 #. key = WAYP_UND_Fort
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:120
 msgctxt "hce869d31g4363g42b6ga6aag6ab145b02adf"
 msgid "Underdark - Selûnite Outpost"
-msgstr ""
+msgstr "언더다크 - 셀루네 교단 전초기지"
 
 #. key = WAYP_UND_GP_HookHorror
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:127
 msgctxt "h26d2bd3bgfa55g4a95g99d7g5532bc0059a3"
 msgid "Underdark - Nest of Horrors"
-msgstr ""
+msgstr "언더다크 - 공포의 소굴"
 
 #. key = WAYP_PLA_ZhentDungeon
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:134
@@ -6976,13 +6999,13 @@ msgstr "젠타림 은신처"
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:141
 msgctxt "hcc38f366g0cafg4feag8371gd14ec3d081e9"
 msgid "Underdark - Ancient Forge"
-msgstr ""
+msgstr "언더다크 - 고대의 대장간"
 
 #. key = Message_LeavingActNormalLevel
 #: Gustav/Mods/Gustav/Localization/Misc.lsx:8
 msgctxt "h4959555cg9b26g4e09gbb15gfeade9ebba15"
 msgid "You are about to leave the area. Do you wish to proceed?"
-msgstr ""
+msgstr "구역을 떠납니다. 계속하시겠습니까?"
 
 #. key = Message_LeavingActLowLevel
 #: Gustav/Mods/Gustav/Localization/Misc.lsx:15
@@ -6990,7 +7013,7 @@ msgctxt "h5048b772gb961g4555g8ac5g2b39e5c4f279"
 msgid ""
 "Danger is nigh: you are about to enter a higher-level area. Do you wish to "
 "proceed?"
-msgstr ""
+msgstr "위험이 가까이 있습니다. 높은 레벨의 구역으로 진입하게 될 것입니다. 계속하시겠습니까?"
 
 #. key = GLO_Camp_RestLocallyMsgBox
 #: Gustav/Mods/Gustav/Localization/Misc.lsx:22
@@ -7010,25 +7033,25 @@ msgctxt "hcec2f218g5bf9g4f38g97f2gc65cf0ec4236"
 msgid ""
 "Special powers are growing inside you. Select the Illithid option to harness "
 "the power of the mind flayers' parasite."
-msgstr ""
+msgstr "당신의 안에서 특별한 힘이 자라고 있습니다. 일리시드 선택지를 골라 마인드 플레이어 기생충의 힘을 활용합니다."
 
 #. key = GLO_CompanionLeftPermanently
 #: Gustav/Mods/Gustav/Localization/Misc.lsx:43
 msgctxt "h1580685agacf9g4e57g91fdg31a4eafbeb6d"
 msgid "Your companion has permanently left the party."
-msgstr "당신의 동료가 영원히 파티를 떠났습니다."
+msgstr "당신의 동료가 영구히 파티를 떠났습니다."
 
 #. key = HAG_Inspiration
 #: Gustav/Mods/Gustav/Localization/Misc.lsx:50
 msgctxt "h76bfac67gcba1g4e7eg84c5g47e754986533"
 msgid "Fey magic fills your mind with dark blessings."
-msgstr ""
+msgstr "페이 마법이 어둠의 축복으로 당신의 정신을 가득 채웁니다."
 
 #. key = HAG_Inspiration_Title
 #: Gustav/Mods/Gustav/Localization/Misc.lsx:57
 msgctxt "h92ec2463g23d1g4c21ga9f7g37d1119a8434"
 msgid "Auntie Ethel's Charm"
-msgstr ""
+msgstr "에텔 이모의 부적"
 
 #. key = DEBUG_CAMP_UnsupportedCampTypeFault
 #: Gustav/Mods/Gustav/Localization/Misc.lsx:64
@@ -7044,7 +7067,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Localization/GLO_Misc.lsx:8
 msgctxt "h07c99e16g5917g4c7eg80d0gbf67e8719902"
 msgid "Travel to camp?"
-msgstr ""
+msgstr "야영지로 이동하시겠습니까?"
 
 #. key = GLO_Camp_LocalRest
 #: Gustav/Mods/Gustav/Localization/GLO_Misc.lsx:15
@@ -7056,7 +7079,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Localization/GLO_Misc.lsx:22
 msgctxt "hd9f30aeag8bdfg4ab0g8975g617605a6f426"
 msgid "You are entering a new region. Venture forth?"
-msgstr ""
+msgstr "새로운 지역으로 진입합니다. 계속 모험해 나가겠습니까?"
 
 #. key = FOR_OwlBear_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:8
@@ -7068,97 +7091,98 @@ msgstr "아울베어 둥지"
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:15
 msgctxt "hd18f5f04g04a2g4638g82c2g583edde3a958"
 msgid "Druid Grove"
-msgstr ""
+msgstr "드루이드 숲"
 
 #. key = GOB_Penance_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:22
 msgctxt "h096afcdfg65c6g4943gb6deg5367ffb7b354"
 msgid "Bloodied Shrine"
-msgstr ""
+msgstr "피투성이 제단"
 
 #. key = DEN_SacredPond_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:29
 msgctxt "hc5d61a48g399dg45fcga59dg530009446fba"
 msgid "Sacred Pool"
-msgstr ""
+msgstr "신성한 연못"
 
 #. key = DEN_Prison_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:36
 msgctxt "ha70243a7g4a9bg490aga646gdfdc056c9ee5"
 msgid "Makeshift Prison"
-msgstr ""
+msgstr "급조 감옥"
 
 #. key = GOB_ThroneRoom_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:43
 msgctxt "h9cabad48ge27fg48e1g9985g25ed98f3fc9f"
 msgid "Shattered Sanctum"
-msgstr ""
+msgstr "파괴된 성소"
 
 #. key = DEN_Cave_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:50
+#, fuzzy
 msgctxt "hd91d5e76g62edg4920gb442g2345297e5b32"
 msgid "The Hollow"
-msgstr ""
+msgstr "공동"
 
 #. key = HAG_HagLair_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:57
 msgctxt "h03b16f36g7395g4068gbaceg26336ad8c2ee"
 msgid "Overgrown Tunnel"
-msgstr ""
+msgstr "풀이 무성한 지하도"
 
 #. key = PLA_Plains_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:64
 msgctxt "hbc57fda4ga1feg40acgbf1agb568341aa89c"
 msgid "The Risen Road"
-msgstr ""
+msgstr "치솟은 길"
 
 #. key = UND_DuergarCamp_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:71
 msgctxt "h9debdc2bgcaa9g4e16g9e3dg797894ba30da"
 msgid "Abandoned Refuge"
-msgstr ""
+msgstr "버려진 피난처"
 
 #. key = UND_MyconidCircle_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:78
 msgctxt "h666f159fg0209g4d09gbce8g9b4ce982318a"
 msgid "Ebonlake Grotto"
-msgstr ""
+msgstr "칠흑호수 동굴"
 
 #. key = HAG_HagLair_SUB_CombatArea
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:85
 msgctxt "hf229af94g6585g488cga93fg6e2155943869"
 msgid "Ancient Abode"
-msgstr ""
+msgstr "고대의 거주지"
 
 #. key = DEN_DruidLair_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:92
 msgctxt "he8890657g102cg4441g8db1gcc128408c17f"
 msgid "Emerald Grove"
-msgstr ""
+msgstr "에메랄드 숲"
 
 #. key = CAMP_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:99
 msgctxt "ha20547a8g29ebg4602g8418ga05c2e05a3fe"
 msgid "Campsite"
-msgstr ""
+msgstr "야영지"
 
 #. key = HAG_HagLair_SUB_Gallery
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:106
 msgctxt "hde9e7f6eg94b1g453cg82b1g3806594ad708"
 msgid "Entrance Gallery"
-msgstr ""
+msgstr "입구 화랑"
 
 #. key = HAG_HagLair_SUB_Workshop
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:113
 msgctxt "h3ff421a1ga8aeg4832g9011gf425079f2541"
 msgid "Acrid Workshop"
-msgstr ""
+msgstr "매캐한 작업장"
 
 #. key = DEN_Tunnel_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:120
 msgctxt "h39953202g3966g497ag9e43g08bffb35a05f"
 msgid "Underground Passage"
-msgstr ""
+msgstr "지하 통로"
 
 #. key = DEN_Hideout_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:127
@@ -7170,85 +7194,85 @@ msgstr "티플링 은신처"
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:134
 msgctxt "heb61d1c6g203fg49f9g9d4dg7fc84eeadd02"
 msgid "Secluded Cove"
-msgstr ""
+msgstr "한적한 작은 만"
 
 #. key = DEN_SecretLibrary_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:141
 msgctxt "h9bf47225g0751g4e89g8425g845acda693cf"
 msgid "Enclave Library"
-msgstr ""
+msgstr "언클레이브 도서관"
 
 #. key = DEN_DruidVault_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:148
 msgctxt "h93000349g21aeg4ef3g8390gf6bdb2b1b5e3"
 msgid "Hidden Vault"
-msgstr ""
+msgstr "숨겨진 금고"
 
 #. key = DEN_ServantsQuarters_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:155
 msgctxt "hc1066b67g3d56g4dd4g88c9g5d981a0c02cb"
 msgid "Servants' Quarters"
-msgstr ""
+msgstr "시종 숙소"
 
 #. key = DEN_DruidChamber_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:162
 msgctxt "h38aefed2ge7abg4ba4g858cgb5c11d171858"
 msgid "Druids' Chambers"
-msgstr ""
+msgstr "드루이드의 방"
 
 #. key = GOB_WolfPens_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:169
 msgctxt "h6999709cg0880g4ffbg94a2g2471883816a2"
 msgid "Worg Pens"
-msgstr ""
+msgstr "워그 우리"
 
 #. key = GOB_Festivities_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:176
 msgctxt "hea683d7dg17f9g4508ga605ga168b69851f3"
 msgid "Goblin Camp"
-msgstr ""
+msgstr "고블린 숙영지"
 
 #. key = GOB_PriestDungeon_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:183
 msgctxt "h574175f0gb689g4ef6g94d6g3b3b235c5a08"
 msgid "Defiled Temple"
-msgstr ""
+msgstr "모독당한 신전"
 
 #. key = HAG_Swamp_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:190
 msgctxt "h300deb22g492dg4579gb266gf59896c14adc"
 msgid "Sunlit Wetlands"
-msgstr ""
+msgstr "햇볕 드는 습지"
 
 #. key = HAG_HagHouse_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:197
 msgctxt "h74b408f5gde62g48caga09cg4361ffe99a24"
 msgid "Riverside Teahouse"
-msgstr ""
+msgstr "강가의 찻집"
 
 #. key = HAG_HagHouse_SUB_Revealed
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:204
 msgctxt "ha3476927g8df3g4d33g9d71gc4410ecbabc9"
 msgid "Gnarled Teahouse"
-msgstr ""
+msgstr "비틀린 찻집"
 
 #. key = HAG_Swamp_SUB_Revealed
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:211
 msgctxt "h243f348fg7389g455bgae47gc9a480b0ea8d"
 msgid "Putrid Bog"
-msgstr ""
+msgstr "썩은 늪지"
 
 #. key = DEN_Storage_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:218
 msgctxt "h95b7948agaf76g4996g9f94g6e90caa60fd9"
 msgid "Storage"
-msgstr ""
+msgstr "창고"
 
 #. key = PLA_MountainPass_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:225
 msgctxt "h99b460bbgffb0g4f55g8d74g5fcfc6041848"
 msgid "Mountain Pass"
-msgstr ""
+msgstr "산길"
 
 #. key = UND_Underdark_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:232
@@ -7272,79 +7296,79 @@ msgstr "파괴된 마을"
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:253
 msgctxt "hd3649446g767bg4a72gbbd8ge7c2def553b2"
 msgid "Secluded Chamber"
-msgstr ""
+msgstr "고립된 방"
 
 #. key = FOR_BottomlessWell_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:260
 msgctxt "h3033e1b3gd968g43cfg88a1gb2bc7da15a4b"
 msgid "Whispering Depths"
-msgstr ""
+msgstr "속삭이는 동굴"
 
 #. key = UND_ArcaneTower_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:267
 msgctxt "h438d1401g538fg4648g8d18g8aa7bf10a4eb"
 msgid "Arcane Tower"
-msgstr ""
+msgstr "신비한 탑"
 
 #. key = CHA_UpperFloor_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:274
 msgctxt "h725fa33bg8ce9g4e4fg929cgcf5384f11937"
 msgid "Bedchamber"
-msgstr ""
+msgstr "침실"
 
 #. key = CHA_LowerFloor_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:281
 msgctxt "hb74d3988gf008g454eg99c0g7ed9f603f964"
 msgid "Dank Crypt"
-msgstr ""
+msgstr "눅눅한 지하실"
 
 #. key = CHA_Outside_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:288
 msgctxt "h8a3f7e96g6f89g4f16g9097g9d29b5febf11"
 msgid "Chapel Entrance"
-msgstr ""
+msgstr "사원 입구"
 
 #. key = CRA_Beach_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:295
 msgctxt "h919589b3g7d72g4b36gba82g62b33d4e9653"
 msgid "Ravaged Beach"
-msgstr "황폐화된 해변"
+msgstr "황폐화된 강가"
 
 #. key = UND_Fort_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:302
 msgctxt "he81e90d5g6472g492dgbc9cg8899960cf6ee"
 msgid "Selûnite Outpost"
-msgstr ""
+msgstr "셀루네 교단 전초기지"
 
 #. key = UND_SussurTree_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:309
 msgctxt "h502dd4afge9e7g4670g985fge74e46f7c443"
 msgid "Dread Hollow"
-msgstr ""
+msgstr "공포의 공허"
 
 #. key = UND_ZhentHideout_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:316
 msgctxt "h262a20cdg667ag4d2dgb7b1g0429539b2182"
 msgid "Storehouse"
-msgstr ""
+msgstr "창고"
 
 #. key = UND_GnomeVillage_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:323
 msgctxt "h1226969ag8b5bg4d20ga2f4g9c9260300906"
 msgid "Decrepit Village"
-msgstr ""
+msgstr "노후한 마을"
 
 #. key = UND_KuoToa_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:330
 msgctxt "h2a2a0b42gf1abg4264gaa4bgc1929726714b"
 msgid "The Festering Cove"
-msgstr ""
+msgstr "썩어가는 만"
 
 #. key = UND_EbonLake_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:337
 msgctxt "h1eded963g8791g43a3gbc29g5146f1af8e19"
 msgid "Ebonlake"
-msgstr ""
+msgstr "칠흑호수"
 
 #. key = UND_KethericCity_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:344
@@ -7356,31 +7380,31 @@ msgstr "그림포지"
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:351
 msgctxt "hbf191937g88eag4566gafc7gb037595d9a2d"
 msgid "Torturous Abyss"
-msgstr ""
+msgstr "고통의 심연"
 
 #. key = PLA_ZhentDungeon_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:358
 msgctxt "hd133a95bgaeb0g478eg9a27g9f45b9417b39"
 msgid "Zhentarim Basement"
-msgstr ""
+msgstr "젠타림 지하실"
 
 #. key = PLA_Caravanserai_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:365
 msgctxt "h7b7d2188gaff4g4b3dgbd90g2f359117d828"
 msgid "Waukeen's Rest"
-msgstr ""
+msgstr "와우킨의 쉼터"
 
 #. key = UND_AdamantineForge_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:372
 msgctxt "hd7b1565cgc9bdg49b3g944bg1a53ca488c45"
 msgid "Adamantine Forge"
-msgstr ""
+msgstr "아다만틴 대장간"
 
 #. key = UND_SharTempleVista_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:379
 msgctxt "h8f0b3a3eg0408g4525g8751gd8fee988769d"
 msgid "Ancient Temple"
-msgstr ""
+msgstr "고대 신전"
 
 #. key = PLA_Tavern_DeadFF5Letter
 #: Gustav/Mods/Gustav/Localization/Act1_PLA_Books.lsx:8
@@ -7403,139 +7427,139 @@ msgstr "|Doesn't need destub - Fancy Form that gets us into the city.|"
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:8
 msgctxt "ha10b2d09gad95g4194gad93g022776c7ec3b"
 msgid "Weakened Mind Flayer"
-msgstr ""
+msgstr "약해진 마인드 플레이어"
 
 #. key = GOB_Mindflayer_Dead
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:15
 msgctxt "h460ef74fg1ccfg4c47gbe44g47a08c3176f3"
 msgid "Dead Mind Flayer"
-msgstr ""
+msgstr "죽은 마인드 플레이어"
 
 #. key = FOR_ThayanCellar_QuasitName1
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:22
 msgctxt "hc4f95d10gfb28g4e63gb22dgeff44b6410ba"
 msgid "Shovel"
-msgstr ""
+msgstr "삽"
 
 #. key = FOR_ThayanCellar_QuasitName2
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:29
 msgctxt "ha5d47ac4g0f8eg47c3g92acgc2ca19eb1e90"
 msgid "Fork"
-msgstr ""
+msgstr "쇠스랑"
 
 #. key = FOR_ThayanCellar_QuasitName3
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:36
 msgctxt "h0e203a50g33e9g4bfegad6ag4ef4e32fa276"
 msgid "Basket"
-msgstr ""
+msgstr "바구니"
 
 #. key = HAG_HagTitle
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:43
 msgctxt "h24732f6ag58f7g45b9g836bg1b5c5842182e"
 msgid "Sister of the Seeing Pearl"
-msgstr ""
+msgstr "앞을 보는 진주의 자매"
 
 #. key = DEN_Apprentice_ExhaustedBirdName
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:50
 msgctxt "hfae9d227gd306g43b0ga2c1ge001eec01247"
 msgid "Exhausted Bird"
-msgstr ""
+msgstr "탈진한 새"
 
 #. key = DEN_Apprentice_HealedBirdName
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:57
 msgctxt "h82ea811ag8297g4460g940eg8e93643a5fa4"
 msgid "Healed Bird"
-msgstr ""
+msgstr "치유된 새"
 
 #. key = PLA_GithCrecheMap
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:64
 msgctxt "h720eaf52g1f7bg44a9gb034g6091cecba4b2"
 msgid "Githyanki Map"
-msgstr "기스양키 맵"
+msgstr "기스양키 지도"
 
 #. key = UND_DuergarCamp_CrossbowRealName
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:71
 msgctxt "h68148352gacefg45a2gaa7fg4cb00c860fcc"
 msgid "Sharran Crossbow"
-msgstr ""
+msgstr "샤 신도의 쇠뇌"
 
 #. key = UND_MyconidCircle_DuergarServant
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:78
 msgctxt "h62d533c3gf3acg4907g99c6g785712692056"
 msgid "Duergar Spore Servant"
-msgstr ""
+msgstr "듀에르가 포자 종복"
 
 #. key = UND_PetrifiedDrow_Unpetrified_Wizard
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:85
 msgctxt "h071d5c99gbdb6g48f9g85c2gcb3151363c4a"
 msgid "Dhourn"
-msgstr ""
+msgstr "도운"
 
 #. key = UND_PetrifiedDrow_Unpetrified_Wizard_Title
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:92
 msgctxt "hac0ce9edg09c4g421bga14bg1b0f071e2162"
 msgid "Initiate of the Living Library"
-msgstr ""
+msgstr "살아있는 도서관의 입회자"
 
 #. key = UND_PetrifiedDrow_Unpetrified_Drow_002
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:99
 msgctxt "h4ba3630egc66fg48cdga89fgffd54cc10ba8"
 msgid "Izwae"
-msgstr ""
+msgstr "이즈와에"
 
 #. key = UND_PetrifiedDrow_Unpetrified_Drow_003
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:106
 msgctxt "h0a0f3ad0g54a6g4777gbe90gf665e0b4362e"
 msgid "Artimezt"
-msgstr ""
+msgstr "아티메즈트"
 
 #. key = UND_PetrifiedDrow_Unpetrified_Drow_004
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:113
 msgctxt "h949d2873gf8deg4f9eg9406gfa0ab03816e8"
 msgid "Tecothy"
-msgstr ""
+msgstr "테코시"
 
 #. key = UND_PetrifiedDrow_Unpetrified_Drow_005
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:120
 msgctxt "hc6399690gda12g41c1gaefcg44bb5b5878b0"
 msgid "Arcagh"
-msgstr ""
+msgstr "아르카그"
 
 #. key = UND_PetrifiedDrow_Unpetrified_Drow_006
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:127
 msgctxt "hd1158df1g27beg49f9g9f42g76884cce87a6"
 msgid "Moy"
-msgstr ""
+msgstr "모이"
 
 #. key = UND_PetrifiedDrow_Unpetrified_HookHorror
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:134
 msgctxt "hf2ecf280gfbd9g47f1g9839gc4ef17563cea"
 msgid "Wan Hook Horror"
-msgstr ""
+msgstr "힘없는 후크 호러"
 
 #. key = TUT_TransformChamber_Sign001
 #: Gustav/Mods/Gustav/Localization/Act0_Misc.lsx:8
 msgctxt "hf32f80d9g44aeg4d72gb137ga0dbb7adab89"
 msgid "\"Aggression\""
-msgstr ""
+msgstr "\"공격\""
 
 #. key = TUT_TransformChamber_Sign002
 #: Gustav/Mods/Gustav/Localization/Act0_Misc.lsx:15
 msgctxt "h2dbb0d1bg071bg43c3gab94g475f312eb584"
 msgid "\"Annihilate\""
-msgstr ""
+msgstr "\"멸절\""
 
 #. key = TUT_TransformChamber_Sign003
 #: Gustav/Mods/Gustav/Localization/Act0_Misc.lsx:22
 msgctxt "h0d36d906gb099g49c7g8b0agaeb24df481ff"
 msgid "\"Unleash\""
-msgstr ""
+msgstr "\"해방\""
 
 #. key = TUT_TransformChamber_Sign005
 #: Gustav/Mods/Gustav/Localization/Act0_Misc.lsx:29
 msgctxt "hb7bd184dge287g471ag9300g8d69d4e94bf0"
 msgid "\"Perfect\""
-msgstr ""
+msgstr "\"완벽\""
 
 #. key = DEN_VoloOperation_VoloCGBN
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:8
@@ -7592,6 +7616,8 @@ msgid ""
 "<br><br>Open it, and I will know, because you will be dead. This is not a "
 "threat. This is what will happen if you open the chest.<br><br>NF"
 msgstr ""
+"상자를 열지 말고 내게 가져와.<br><br>첫 줄 다시 읽어 봐. <br><br>열면 내가 알게 될 거야. 너희는 죽게 됐을 것이니까. "
+"위협하는 게 아니야. 진짜로 상자를 열면 죽는다는 뜻이야.<br><br>NF"
 
 #. key = FOR_Courier_Letter1
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:36
@@ -7623,6 +7649,9 @@ msgid ""
 "somewhere.<br><br>Watch yourself - better late than never.<br>Postmaster "
 "General Danzo"
 msgstr ""
+"곰윅에게,<br><br>발더스 게이트로 가는 길에서 각별히 몸조심해야 한다. 그 지역에서 여행자들이 공격을 받는다는 제보가 더 많이 "
+"들어오고 있어. 내 최고의 전령이 길 가다가 죽어버리면 안 되지 않겠나.<br><br>조심하라고. 아예 도착 못 하느니 천천히 가는 게 "
+"나아.<br>우정장관 댄조"
 
 #. key = DEN_VoloOperation_VoloGBG
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:57
@@ -7761,6 +7790,15 @@ msgid ""
 "\n"
 "<br>Mayrina"
 msgstr ""
+"사랑하는 욜과 드미어,\n"
+"\n"
+"<br>화내지 말아 줘. 진심이야. 오빠들이 어쩔 줄 몰라서 바보같은 짓 하지 말라고 이 쪽지 남겨 놓는 거야.<br>\n"
+"\n"
+"난 마녀에게 갈 거야. 코너를 위해 해야 하는 일이야. 그이가 내 처지였어도 똑같이 해줬을 거야.\n"
+"\n"
+"<br>금방 돌아올게. 그러니까 엄마한텐 말하지 말아 줘, 알겠지? 안 그래도 고생 많이 하시잖아.\n"
+"\n"
+"<br>메이리나"
 
 #. key = DEN_Spencer_Wanted
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:127
@@ -8123,6 +8161,8 @@ msgid ""
 "left corner is an A, in the top right corner a D, in the bottom right corner "
 "another D, and in the bottom left corner an E."
 msgstr ""
+"이 종이의 모서리마다 하나씩, 4개의 문자가 적혀 있습니다. 왼쪽 상단에는 A, 오른쪽 상단에는 D, 오른쪽 하단에는 또 D, 왼쪽 "
+"하단에는 E가 있습니다."
 
 #. key = DEN_DruidLair_Refugees
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:337
@@ -8304,6 +8344,10 @@ msgid ""
 "ask.<br>Protect my research while I'm gone and take care of the animals. "
 "Don't give fish to Tuffet, she's getting lazy.<br><br>Master Halsin"
 msgstr ""
+"친애하는 네티,<br><br>도서관을 열 수 있도록 이 머리장식을 믿고 맡긴다. 항상 쓰고 있어라.<br>금고에 들어가야 할 일이 "
+"생기거든 라스에게 말해라. 그가 룬을 가지고 있지만, 아무에게나 주진 않을 테야. 그러니 달라고 할 때는 꼭 필요한 이유가 있어야 할 "
+"거다.<br>내가 가 있는 동안 내 연구 자료 잘 지키고 동물들도 잘 돌봐 다오. 터펫에게 생선 주지 마라, 게을러지고 "
+"있어.<br>마스터 할신"
 
 #. key = DEN_Apprentice_TadpoleResearch
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:442
@@ -8316,6 +8360,9 @@ msgid ""
 "cadaver. Most strange.<br><br>[The final note is a single, underlined "
 "word.]<br><br>Altered???"
 msgstr ""
+"[드로우와 일리시드 올챙이의 해부도 스케치가 급히 쓴 메모와 함께 그려져 있습니다.]<br>... 기생충이 뇌 속 깊숙히 자리잡고 "
+"있었다. 의심할 바 없이 일리시드다. 그런데 숙주는 그에 대해 인지하고 있지 못했던 것 같다.<br>... 시신에는 뇌변이의 징후가 "
+"보이지 않는다. 정말 이상하다.<br><br>[마지막 메모는 밑줄이 쳐진 한 개의 단어입니다.]<br><br>변화???"
 
 #. key = DEN_Apprentice_DrowRecord
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:449
@@ -8332,6 +8379,12 @@ msgid ""
 "further findings in a separate volume and keep them upon my person, lest "
 "prying eyes jump to the wrong conclusions."
 msgstr ""
+"기이한 일이다. 네티와 함께 숲에서 명상을 하다가 드로우가 이끄는 고블린 무리에게 기습당했다. 우리는 스스로를 지킬 수밖에 없었다. "
+"<br>그런데 기이한 건 그게 아니라... 기이하다기보다는 충격적이었다고 해야겠지, 드로우가 죽을 때 시신에서 기생체가 튀어나와 "
+"도망가려고 했다. 잡는 데 성공했고, 연구를 위해 숙주의 시신을 가져왔다. 내 두려움을 아무에게도 말하지 않았다. 네티가 의심하고 있긴 "
+"하지만, 물어볼 용기는 없는 모양이다.<br>다른 이들에게 알리기 전에 더 조사해볼 것이다. 카그하는 내가 줄 수 없는 답변을 "
+"요구하겠지. 이 이상의 발견은 다른 책에 기록하고 내 몸에 지니고 다니는 게 좋겠다. 그러면 누군가가 엿보고 잘못된 결론에 도달하는 일은 "
+"없겠지."
 
 #. key = DEN_DruidLair_EmeraldTenets
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:456
@@ -8342,6 +8395,9 @@ msgid ""
 "that would disrupt the Natural Order must be destroyed.<br><br>3. The "
 "Emerald Enclave must offer aid to the weary and injured."
 msgstr ""
+"장로의 서클이 칙령을 내리노라<br>가장 위대한 세 가지 교리<br><br>첫째. 자연의 질서는 그 형태에 관계 없이 보존되어야만 "
+"한다.<br><br>둘째. 자연의 질서를 어지럽히는 세력은 반드시 파괴해야 한다.<br><br>셋째. 에메랄드 언클레이브는 지치고 다친 "
+"자들에게 도움을 주어야 한다."
 
 #. key = DEN_DruidLair_Rite
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:463
@@ -8352,6 +8408,8 @@ msgid ""
 "When the prayer is complete, thorns and bramble rise from the earth, "
 "protecting from harm all who chanted it.]"
 msgstr ""
+"[실로 엮어 만든 기도문과 주문이 한쪽 면에 구불구불하게 박혀 있습니다. 반대편에 적힌 내용은 가시의 의례를 수행하기 위한 설명입니다. "
+"기도가 끝나면, 가시덩쿨과 가시덤불이 땅에서 솟아나와 기도를 외운 자들을 위해로부터 보호합니다.]"
 
 #. key = FOR_SeluneStash_PrayerSheet
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:470
@@ -8359,7 +8417,7 @@ msgctxt "hf0433276g390cg478dgbf2fg1c1b922b298d"
 msgid ""
 "[A prayer dedicated to Selûne, imploring all to accept the Moonmaiden's "
 "blessings and share in her bounty.]"
-msgstr ""
+msgstr "[셀루네에게 바치는 기도문으로, 모든 이가 달여인의 축복을 받아들이고 그녀의 은혜를 나누길 탄원하는 내용입니다.]"
 
 #. key = FOR_Bottomless_HermitBook1
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:477
@@ -8571,6 +8629,8 @@ msgid ""
 "cover. In one of the few legible entries, the author wonders if he'll ever "
 "see his friend Barcus again, now that he's departed for the surface world.]"
 msgstr ""
+"[안쪽 표지에 '울브렌의 소유물'이라고 적힌 심하게 그을린 일기장. 읽을 수 있는 몇 안 되는 내용 중 하나에서는, 글쓴이는 지상으로 "
+"떠난 그의 친구 바커스를 다시 볼 일이 있을지 궁금해하고 있습니다.]"
 
 #. key = UND_GnomeVillage_LoreBookA
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:589
@@ -8652,6 +8712,10 @@ msgid ""
 "appetites. Her mother's mind is failing. My contact has assured her you can "
 "help. I'll have her sent by the usual route.<br>M"
 msgstr ""
+"[이 편지는 우아한 필기체로 작성되었습니다.]<br> 에텔,<br>장사가 잘 안 된다고 들었어. 내가 일거리를 가져왔으니 안심해. 한 "
+"고객이 돈을 지불하지 않고 발더스 게이트에서 도망쳤어. 내 요원들이 치온타르 강을 따라 놈의 흔적을 추적했고 녀석이 네 구역을 지나갈 "
+"것이라고 확인해주었으니 놈에게 하고 싶은 대로 하도록 해.<br>그 대가로, 네 입맛에 딱 맞는 여자가 있어. 그 여자의 어머니는 정신이 "
+"쇠약해져가고 있지. 네가 도울 수 있다고 그녀를 안심시켜 놓았어. 평소 경로로 보내도록 하지.<br>M"
 
 #. key = HAG_LetterFromEthel
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:631
@@ -8725,6 +8789,15 @@ msgid ""
 "He sought to forge a path through the darkness, not realising there are some "
 "places the light was never meant to touch.<br><br>He was a fool.<br>"
 msgstr ""
+"내가 행한 일을 개인적인 일지에 적는 것은 허영심인 줄 알았다. 하지만 대문 바깥에 모인 드로우 무리를 봤을 때, 내 오만이야말로 더 "
+"허영 가득한 것임을 그제야 깨달았다. 그러니 이제 와서 그걸 조금 더한들 상관없겠지.<br>나를 위한 건 아니다. 이 암흑 속으로 날 "
+"따라온 이들을 위한 것이다. 그들은 기억될 가치가 있다.<br><br>- 입회자 노온 레미스, 우리가 드로우 상대로 후퇴할 때 깊은 굴 "
+"속으로 빠졌다.<br><br>- 북부 황야에서 온 입회자 툴크, 화살에 맞고 중독되어 죽었다.<br><br>- 입회자 브리 브레카, 석공 "
+"망치만 들고 드라이더에 맞섰다.<br><br>그리고 입회자 전원. 초심자로서는 너무 끔찍한 것을 목도하고 고통받은 "
+"이들.<br><br>————<br><br>우리 뒤에 있는 통로를 무너뜨렸고 대문을 열 준비를 마쳤다. 길을 뚫을 수 있을지도 "
+"모르지.<br><br>그러지 못할 경우를 위해 명단을 여기 동봉한다. 연대기에 그들의 최후가 어땠든 간에 사인은 모두 같았다고 적어라. "
+"고위 입회자 자루스가 교단 역사에 이름을 남기고 싶어했다고. 빛조차도 닿지 못하는 곳이 있다는 것을 깨닫지 못하고, 어둠을 뚫고 길을 "
+"구축하려 했다고.<br><br>그는 어리석었다고.<br>"
 
 #. key = UND_SharFortBattlefield_SeluneDiary_001
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:659
@@ -8739,12 +8812,18 @@ msgid ""
 "the path of right,<br>Ever burning, ever- </i><br><br>[The last line of the "
 "prayer succumbs to blurring, as if stained by something wet.]<br>"
 msgstr ""
+"달과 별이 없으니 잠에 들 수 없다. 어렸을 적에, 셀루네님의 이름을 알기 전에도 난 별과 달에 기도하곤 했는데 그건 "
+"신성모독이었을까?<br>요새의 벽을 따라 걷고 있을 때 내가 볼 수 있는 유일한 빛은 바깥에서 기다리는 놈들의 눈빛 "
+"뿐이다.<br><br>고위 입회자께서 무언가 계획을 짜고 계시다. 여기서 내보내주실 것이다.<br><br>-------<br>우리는 "
+"버티고 있다.<br><br><i>아름다운 달여인이시여, 빛을 빌려 주소서,<br>깊은 밤 어둠 속에서도 우릴 집으로 인도해 "
+"주시며,<br>올바른 길을 따르게 해 주시사,<br>영원히 타오르는, 영원히-</i><br><br>[기도문의 마지막 줄은 흐려져 읽을 수 "
+"없습니다. 무언가 축축한 것에 더럽혀졌습니다.]<br>"
 
 #. key = HAG_NoteAboutSnacks
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:666
 msgctxt "h351e3fd8gf561g46e5gb840g4ce2cc59ea67"
 msgid "Take a breather, lovelies, and have a bite to eat on me.<br>Auntie E"
-msgstr ""
+msgstr "한숨 돌리렴, 이쁜이들. 그리고 이걸 한 입 깨물어 먹어봐.<br>에텔 이모"
 
 #. key = HAG_MuddyDoll_Note
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:673
@@ -8964,6 +9043,10 @@ msgid ""
 "<br>When you get it, you can write me back in Baldur's Gate. Or maybe come "
 "visit?<br><br>I'll write again when I can get more paper.<br><br>- Doni"
 msgstr ""
+"아빠께,<br><br>쓰다 말아서 죄송해요. 이동 중에 종이가 다 떨어졌었거든요. 이 종이는 드루이드들한테서 훔쳤어요. 그래서 우리한테 "
+"그렇게 화가 난 건가 싶어요.<br><br>이 편지가 아빠한테 닿길 바래요. 제블러는 우리 옛날 집이 사라졌고 아빠는 길을 잃었다고 "
+"말했지만, 모든 강은 스틱스 강으로 이어진다고 책에서 그러더라구요.<br>이거 받으면 발더스 게이트로 답장 보내 주세요. 아니면 만나러 "
+"와 줘요.<br>종이가 더 생기면 더 쓸게요.<br><br>도니가."
 
 #. key = UND_DrowResupply_Prayer
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:771
@@ -8973,6 +9056,8 @@ msgid ""
 "foes.<br>May they be strangled by the threads of fate, and dyed red in your "
 "image.<br>Lolth be praised!"
 msgstr ""
+"어둠의 어머니시여, 운명을 엮는 분이시여, 당신의 적들을 살육할 힘을 우리에게 내려 주소서.<br>운명의 실가닥에 놈들의 목이 졸리고 "
+"당신의 형상 속에서 붉게 물들게 하소서.<br>롤쓰를 찬양하라!"
 
 #. key = PLA_ZhentDungeon_CorridorTrapNote
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:778
@@ -8997,6 +9082,9 @@ msgid ""
 "covered in notes, symbols, and ciphers. The freshest ink marks pictographs "
 "of goblins and gnolls, shown gathering in the forests and hills nearby.]"
 msgstr ""
+"[엘터가드와 그 주변 지역을 담은, 낡아가는 지도입니다. 발더스 게이트와 엘터렐에는 표시가 되어 있고, 두 도시 사이의 황야에는 온갖 "
+"메모, 기호, 암호로 도배가 되어 있습니다. 가장 덜 마른 잉크는 고블린과 놀 무리가 근처의 숲과 언덕에 모여드는 것을 의미하는 "
+"그림입니다.]"
 
 #. key = GOB_GoblinPriest_HalsinNote
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:792
@@ -9110,6 +9198,10 @@ msgid ""
 "pleas? Has my faith been for nothing? Have my good works gone "
 "unseen?<br><br>Selûne, O Selûne, WHY HAVE YOU ABANDONED ME?"
 msgstr ""
+"셀루네, 아아, 셀루네이시여.<br><br>어둠 속에서 당신을 찾았지만 말씀이 없으셨습니다. 당신의 빛을 위해 기도했지만 오직 그림자만이 "
+"있었습니다.<br><br>죽음이 저를 애워싸고 있습니다. 함정이 저를 조롱하고, 저의 주린 배는 울부짖고 있습니다. 제 간청이 들리지 "
+"않으십니까? 제 믿음이 헛된 것이었습니까? 저의 선행은 눈에 띄지 않는 것입니까?<br><br>셀루네이시여, 아아, 셀루네이시여, "
+"<b>왜 저를 버리셨나이까?</b>"
 
 #. key = UND_SadisticNote_002
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:855
@@ -9190,7 +9282,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:897
 msgctxt "h98038c84g2251g4522gb814g172788a80f98"
 msgid "KEEP AWAY FROM TUFFET.<br>She's lazy enough as is."
-msgstr ""
+msgstr "<b>터펫에게 가까이 가지 마.</b><br>지금도 충분히 게으른 녀석이야."
 
 #. key = DEN_NarrativeLoot_Idol
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:904
@@ -9440,6 +9532,9 @@ msgid ""
 "LEFT! Next of you shits I see flubbing it is getting a hot poker up the arse "
 "SIDEWAYS.<br><br>THRINN"
 msgstr ""
+"<b>좆만한 녀석들아!</b><br><br>노예한테 주는 음식은 <b>오른쪽</b> 통이고, 로테 먹이는 <b>왼쪽</b>이야! 너희 "
+"똥쓰레기들 중에 또 실수하는 놈 나한테 걸리거든 뜨거운 부지깽이를 갖다가 궁둥이에 <b>측면으로</b>쑤셔넣어 줄 "
+"테다.<br><br><b>쓰린</b>"
 
 #. key = UND_Grymforge_MyconidMap
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:1051
@@ -9679,6 +9774,9 @@ msgid ""
 "in.<br><br>Behold! Shar, who shades our path.<br>Behold! Shar, from Ao "
 "born.<br>Behold! Shar, the primal dark.<br>Our Goddess of Night, behold!"
 msgstr ""
+"빛이 기어가는 곳에 그림자가 드리우게 하시고,<br>침묵이 소음을 가리게 하소서.<br>상처 입은 마음에 어둠이 스며들어,<br>우리의 "
+"여신님을 들여보내게 하소서.<br><br>우리의 길을 감춰 주시는 샤를 보아라!<br>아오가 태어날 적부터 계시던 분인 샤를 "
+"보아라!<br>태고의 어둠이신 샤를 보아라!<br>우리의 밤의 여신님을 보아라!"
 
 #. key = UND_ArcaneTower_GnomeSchematic
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:1156
@@ -9712,61 +9810,63 @@ msgid ""
 "|This war map offers a detailed plan to attack the village of Moonhaven, "
 "encouraging soldiers to kill in merciless silence.|"
 msgstr ""
+"|This war map offers a detailed plan to attack the village of Moonhaven, "
+"encouraging soldiers to kill in merciless silence.|"
 
 #: Gustav/Mods/Gustav/Globals/TUT_Avernus_C/Items/_merged.lsx:13
 msgctxt "h9a518adfg6b66g44a1gac8eg05e512be3274"
 msgid "Slave Mind"
-msgstr ""
+msgstr "노예의 정신"
 
 #: Gustav/Mods/Gustav/Globals/TUT_Avernus_C/Items/_merged.lsx:54
 msgctxt "h89835bcagadaag43f5gb9f8g3754fb9b1d33"
 msgid "Dark Mind"
-msgstr ""
+msgstr "어둠의 정신"
 
 #: Shared/Mods/Shared/Levels/SYS_Character_Creation_A/Characters/_merged.lsx:10
 msgctxt "h3e71e735ga40dg4161gabecg914280687832"
 msgid "Gustav"
-msgstr ""
+msgstr "구스타브"
 
 #: Shared/Mods/Shared/Globals/SYS_Character_Creation_A/Characters/_merged.lsx:11
 msgctxt "hae51db37g6422g4fdcgb0d4gb227f31eba55"
 msgid "Dummy"
-msgstr ""
+msgstr "허수아비"
 
 #: Shared/Mods/Shared/Globals/SYS_Character_Creation_A/Characters/_merged.lsx:55
 msgctxt "h77df571agbc3cg4c35g90c0g8a1275979d92"
 msgid "Dummy"
-msgstr ""
+msgstr "허수아비"
 
 #: Shared/Mods/Shared/Globals/SYS_Character_Creation_A/Characters/_merged.lsx:98
 msgctxt "h0a4ccc88g193fg40acgafcbg7c50c789666c"
 msgid "Dummy"
-msgstr ""
+msgstr "허수아비"
 
 #: Shared/Mods/Shared/Globals/SYS_Character_Creation_A/Characters/_merged.lsx:141
 msgctxt "he9f42d72g7979g4d14gbae3gc472c53d4d7b"
 msgid "Player"
-msgstr ""
+msgstr "플레이어"
 
 #: Gustav/Mods/Gustav/Globals/WLD_Main_A/Items/_merged.lsx:172
 msgctxt "hd69550a3gb0c4g4171g907fg44f4be90c1b6"
 msgid "Mysterious Artefact"
-msgstr ""
+msgstr "수수께끼의 유물"
 
 #: Gustav/Mods/Gustav/Globals/WLD_Main_A/Items/_merged.lsx:688
 msgctxt "h401064b6ge65cg45e3g9914gcea0e6df1cd3"
 msgid "Auntie Ethel"
-msgstr ""
+msgstr "에텔 이모"
 
 #: Gustav/Mods/Gustav/Globals/WLD_Main_A/Items/_merged.lsx:734
 msgctxt "hfed85bb5gce0eg4ce6gb016g659d02d81d3d"
 msgid "The Necromancy of Thay"
-msgstr ""
+msgstr "테이의 강령술"
 
 #: Gustav/Mods/Gustav/Globals/WLD_Main_A/Items/_merged.lsx:816
 msgctxt "h0e2fea8eg09d9g4aacg9517g2d5fff98a417"
 msgid "Auntie Ethel "
-msgstr ""
+msgstr "에텔 이모 "
 
 #: Gustav/Mods/Gustav/Globals/WLD_Main_A/Items/_merged.lsx:915
 msgctxt "ha64b2920g4992g48bbg9c1fg5e991baa2d1f"
