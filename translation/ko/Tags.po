@@ -1,17 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-19 17:32+0000\n"
-"Last-Translator: 윤준혁 <nick0406@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/tags/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-01-20 02:43+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 #. uuid = 04ae77c4-f708-4ffa-8c8b-3b762a066e2e
 #. tag_name = WILDSHAPE
@@ -162,16 +161,6 @@ msgstr "ACT1_HAG_ILLUSIONCRATE tooltip"
 msgctxt "h716111d1g028bg43dcg82abg0a6cc8c78f54"
 msgid "Us"
 msgstr "어스"
-
-#. uuid = 2cff7db0-ae50-4267-ea82-e984d361fae3
-#. tag_name = REALLY_US
-#. categories = Code, Dialog, DialogHidden
-#. 
-#. type = display_description
-#: Gustav/Public/Gustav/Tags/2cff7db0-ae50-4267-82ea-84e961d3e3fa.lsx:7
-msgctxt "h7981f4begf758g40d9ga102ged13cce0b002"
-msgid "|Origin 8|"
-msgstr "|Origin 8|"
 
 #. uuid = 310f7186-bb0b-4905-f6b8-c2df62fe0a57
 #. tag_name = BRANDED
@@ -329,7 +318,7 @@ msgctxt "h204da519g01abg4ecbgbeafg603c52d65312"
 msgid ""
 "A tome of necromancy has seared strange, profane glyphs into your mind, but "
 "you cannot understand them."
-msgstr ""
+msgstr "강령술의 고서가 기이한 금단의 문자를 당신의 정신에 지져 넣었으나, 뜻은 알 길이 없습니다."
 
 #. uuid = 70da70c9-353d-4a53-e5ae-e57e9ffc94cd
 #. tag_name = INTELLECT_DEVOURER_US
@@ -401,16 +390,6 @@ msgctxt "hded51b78g08b5g448cg8819g6190661d9ae4"
 msgid "The famed Blade of Frontiers, the pride of Baldur's Gate."
 msgstr ""
 
-#. uuid = 85a96b13-23ae-4cdf-db91-929a3a979e1a
-#. tag_name = PALADIN_PROTECTED_NPC
-#. categories = Code, Story
-#. 
-#. type = display_name
-#: Gustav/Public/Gustav/Tags/85a96b13-23ae-4cdf-91db-9a92973a1a9e.lsx:8
-msgctxt "h02f1b180ga138g42a3gb456g02f59209a7f5"
-msgid "|Protected NPC|"
-msgstr "|Protected NPC|"
-
 #. uuid = 8991c4c4-59f6-40b8-e1a8-01c7ee384da6
 #. tag_name = ACT1_DEN_IDOLTHEFT
 #. categories = Code
@@ -460,16 +439,6 @@ msgstr "외눈"
 msgctxt "h9dbd7ddag5ff7g43c4ga987g23dc283323df"
 msgid "Missing an eye."
 msgstr "한쪽 눈이 없습니다."
-
-#. uuid = 8e4a646f-7ec2-49bb-4e97-ccd2e93425b5
-#. tag_name = CHOSENOFBOOOAL
-#. categories = Code, Dialog, Background
-#. 
-#. type = display_name
-#: Gustav/Public/Gustav/Tags/8e4a646f-7ec2-49bb-974e-d2cc34e9b525.lsx:8
-msgctxt "hacbc3c9agfb0bg4a4fgad75g6a0e56941969"
-msgid "|CHOSEN OF BOOOAL|"
-msgstr "|CHOSEN OF BOOOAL|"
 
 #. uuid = 9aab4bcd-e1f7-4008-7b8f-20f189379bae
 #. tag_name = KARLACH
@@ -960,7 +929,7 @@ msgctxt "h204da519g01abg4ecbgbeafg603c52d65312"
 msgid ""
 "A tome of necromancy has seared strange, profane glyphs into your mind, but "
 "you cannot understand them."
-msgstr ""
+msgstr "강령술의 고서가 기이한 금단의 문자를 당신의 정신에 지져 넣었으나, 뜻은 알 길이 없습니다."
 
 #. uuid = 0668a5fd-72e0-4f9e-5eb8-aeba968737c6
 #. tag_name = IGNORE_AOO
@@ -975,7 +944,7 @@ msgctxt "h204da519g01abg4ecbgbeafg603c52d65312"
 msgid ""
 "A tome of necromancy has seared strange, profane glyphs into your mind, but "
 "you cannot understand them."
-msgstr ""
+msgstr "강령술의 고서가 기이한 금단의 문자를 당신의 정신에 지져 넣었으나, 뜻은 알 길이 없습니다."
 
 #. uuid = 07925e5b-af3d-4743-65a5-feb94ce0ac24
 #. tag_name = CHARLATAN
@@ -2946,26 +2915,6 @@ msgctxt "h7126e984g53f5g4451gac33g65b1c25956a1"
 msgid "Myconid"
 msgstr "마이코니드"
 
-#. uuid = 4835ba9d-c0d6-40fb-62ad-f888b575c236
-#. tag_name = ILLITHID_HIDDEN_CHECK
-#. categories = Code, Dialog, Story, DialogHidden
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/4835ba9d-c0d6-40fb-ad62-88f875b536c2.lsx:8
-msgctxt "hdb6f38b0g22b9g4e94gb94fg6a37f7c61aaa"
-msgid "|No destub|"
-msgstr ""
-
-#. uuid = 4835ba9d-c0d6-40fb-62ad-f888b575c236
-#. tag_name = ILLITHID_HIDDEN_CHECK
-#. categories = Code, Dialog, Story, DialogHidden
-#. 
-#. type = display_description
-#: Shared/Public/Shared/Tags/4835ba9d-c0d6-40fb-ad62-88f875b536c2.lsx:9
-msgctxt "h2445bfefgbf26g4ef1gb15bg27df682c35d2"
-msgid "|No destub|"
-msgstr ""
-
 #. uuid = 486a2562-31ae-437b-63bf-3930183eddcb
 #. tag_name = DWARF
 #. categories = Code, Dialog, Race, PlayerRace, CharacterSheet
@@ -3102,16 +3051,6 @@ msgstr ""
 msgctxt "h9392bb9bgcc3dg4543g9dfbg39e82307147b"
 msgid "BONE tooltip"
 msgstr ""
-
-#. uuid = 4bac801e-9471-4f41-bc88-a3ca359e528c
-#. tag_name = SORCERER_WILD_MAGIC_GUARANTEED
-#. categories = Story
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/4bac801e-9471-4f41-88bc-caa39e358c52.lsx:8
-msgctxt "h9824d342g0246g4934gab1bg14da3bd4ba9e"
-msgid "|Wild Magic Guaranteed - no destub|"
-msgstr "|Wild Magic Guaranteed - no destub|"
 
 #. uuid = 4cb02915-7ad7-4141-7e90-25936a3c4486
 #. tag_name = REALLY_PLANAR
@@ -3544,26 +3483,6 @@ msgid ""
 "Kelemvor, Oghma, and Tempus."
 msgstr ""
 
-#. uuid = 5ce73ec6-be80-4853-3cad-1412719d7ee0
-#. tag_name = CLERIC_MIELIKKI
-#. categories = Dialog, Class, CharacterSheet
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/5ce73ec6-be80-4853-ad3c-12149d71e07e.lsx:8
-msgctxt "h2e52ac7dg2619g4f6dgb3c0g4ec3a4e83b09"
-msgid "|Cleric of Mielikki|"
-msgstr ""
-
-#. uuid = 5ce73ec6-be80-4853-3cad-1412719d7ee0
-#. tag_name = CLERIC_MIELIKKI
-#. categories = Dialog, Class, CharacterSheet
-#. 
-#. type = display_description
-#: Shared/Public/Shared/Tags/5ce73ec6-be80-4853-ad3c-12149d71e07e.lsx:7
-msgctxt "h2f84b2f1gb74bg4040g8d36g8d3850390b66"
-msgid "|Mielikki tag tooltip description|"
-msgstr ""
-
 #. uuid = 5d7b1304-6d20-4d60-1bba-bb0f1b4918fc
 #. tag_name = WPN_FLAIL
 #. categories = Code
@@ -3657,16 +3576,6 @@ msgid ""
 "Even a generation apart, forest blood breeds true. These half-elves retain "
 "their parent's gift for speed, but tend to wander rather than staying in "
 "hidden enclaves."
-msgstr ""
-
-#. uuid = 6078032a-1638-4d33-16ba-60994966cf0c
-#. tag_name = SORCERER_METAMAGIC
-#. categories = Story
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/6078032a-1638-4d33-ba16-996066490ccf.lsx:8
-msgctxt "hb515e714g589ag4d3dg91efgf49d26751325"
-msgid "|Metamagic - no destub|"
 msgstr ""
 
 #. uuid = 608597d9-bf00-4ede-beaa-747628572509
@@ -4118,26 +4027,6 @@ msgctxt "h2b48ec0ag0513g4a84gbde5g52be316d8450"
 msgid "COMBAT_PACKTACTICS tooltip"
 msgstr ""
 
-#. uuid = 6e31b516-92fc-4526-cdb1-5192026e86cf
-#. tag_name = CLERIC_LATHANDER
-#. categories = Dialog, Class, CharacterSheet
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/6e31b516-92fc-4526-b1cd-92516e02cf86.lsx:8
-msgctxt "h6f2ed899g25deg45e0gbfa1gdbd0b30d50cc"
-msgid "|Cleric of Lathander|"
-msgstr ""
-
-#. uuid = 6e31b516-92fc-4526-cdb1-5192026e86cf
-#. tag_name = CLERIC_LATHANDER
-#. categories = Dialog, Class, CharacterSheet
-#. 
-#. type = display_description
-#: Shared/Public/Shared/Tags/6e31b516-92fc-4526-b1cd-92516e02cf86.lsx:7
-msgctxt "hfcaf1069gf4e0g4307gb986g482513c2e5d6"
-msgid "|Lathander tag tooltip description|"
-msgstr ""
-
 #. uuid = 6e913b6e-58b1-41bf-5187-2589d10dff7b
 #. tag_name = SELDARINEDROWELF
 #. categories = Code, Dialog, Race, PlayerRace, CharacterSheet
@@ -4535,16 +4424,6 @@ msgid ""
 "cosmic struggle against darkness."
 msgstr ""
 
-#. uuid = 7cae2d74-89f3-4312-1698-e66a7f828c31
-#. tag_name = LATHANDER
-#. categories = Dialog, Deity
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/7cae2d74-89f3-4312-9816-6ae6827f318c.lsx:8
-msgctxt "h43bfa748g15a3g4b6fgbfcdgd4477a337158"
-msgid "|Lathander|"
-msgstr ""
-
 #. uuid = 7cba0bd7-b955-4ac9-ba95-e7797859acd9
 #. tag_name = CELESTIAL
 #. categories = Code, Dialog
@@ -4711,16 +4590,6 @@ msgctxt "haf8ca065g8b44g4a02gac02ge481fbb097f0"
 msgid ""
 "One of the more common creatures to see in Faerûn, primarily defined as "
 "standing on two feet while being neither undead nor monstrous."
-msgstr ""
-
-#. uuid = 801bd716-0666-4dd5-49b4-ff45a5a90f2a
-#. tag_name = INNATE_FLYER
-#. categories = Code
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/801bd716-0666-4dd5-b449-45ffa9a52a0f.lsx:8
-msgctxt "hdd663e85g7696g4b87g8a1agee4bb244350a"
-msgid "|Innate Flyer|"
 msgstr ""
 
 #. uuid = 80572cea-ebf2-4c53-0589-d5b0be3b49f4
@@ -5792,16 +5661,6 @@ msgctxt "h06d15739g316eg4482gaad8ga6cf454d41c2"
 msgid "Neutral tooltip"
 msgstr ""
 
-#. uuid = a3b7a422-4d28-413d-c4ad-d2e71e00f537
-#. tag_name = SORCERER_WILD_MAGIC_SUPRESSED
-#. categories = Story
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/a3b7a422-4d28-413d-adc4-e7d2001e37f5.lsx:8
-msgctxt "hab6d0c2eg1c5dg4f78g9399g9c8e6eee809f"
-msgid "|Wild Magic Supressed - no destub|"
-msgstr ""
-
 #. uuid = a49c94ac-6903-408e-058b-3786d81fc065
 #. tag_name = BLINDSIGHT
 #. categories = Code
@@ -5810,16 +5669,6 @@ msgstr ""
 #: Shared/Public/Shared/Tags/a49c94ac-6903-408e-8b05-86371fd865c0.lsx:8
 msgctxt "h77f3984eg33acg4b2ag89ebg84eb366744ae"
 msgid "BLINDSIGHT"
-msgstr ""
-
-#. uuid = a66639f1-15bd-43ae-138f-a1fd0127cc87
-#. tag_name = INANIMATE
-#. categories = Code
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/a66639f1-15bd-43ae-8f13-fda1270187cc.lsx:8
-msgctxt "h8c653727g6462g42e0ga87fgb5e2d538556b"
-msgid "|Inanimate|"
 msgstr ""
 
 #. uuid = a672ac1d-d088-451a-3795-a43d74bf6c46
@@ -6016,7 +5865,7 @@ msgstr ""
 
 #. uuid = abadcad5-9229-4999-7a8c-55cdf27f5cc9
 #. tag_name = METAL
-#. categories = 
+#. categories =
 #. 
 #. type = display_name
 #: Shared/Public/Shared/Tags/abadcad5-9229-4999-8c7a-cd557ff2c95c.lsx:8
@@ -6026,7 +5875,7 @@ msgstr ""
 
 #. uuid = abadcad5-9229-4999-7a8c-55cdf27f5cc9
 #. tag_name = METAL
-#. categories = 
+#. categories =
 #. 
 #. type = display_description
 #: Shared/Public/Shared/Tags/abadcad5-9229-4999-8c7a-cd557ff2c95c.lsx:7
@@ -6519,16 +6368,6 @@ msgctxt "hc4f379e5g0aeag4600gb408g9b7efa183d2a"
 msgid "Badger"
 msgstr ""
 
-#. uuid = c0b03fe2-6495-4340-c8a0-6ced20cfcc6b
-#. tag_name = TYMORA
-#. categories = Dialog, Deity
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/c0b03fe2-6495-4340-a0c8-ed6ccf206bcc.lsx:8
-msgctxt "h38ecfdeeg3e86g45ecg8608ge26be06acf6a"
-msgid "|Tymora|"
-msgstr ""
-
 #. uuid = c1ff8a7f-c430-4671-4ebc-8f094a8702e3
 #. tag_name = ALIGN_NEUTRAL
 #. categories = Code
@@ -6746,16 +6585,6 @@ msgctxt "hf21c0fb9g7e54g47e6g9d3ag1e13b2483eb3"
 msgid "Shortsword"
 msgstr ""
 
-#. uuid = c8650f16-4610-4648-d195-a418114ab788
-#. tag_name = TALOS
-#. categories = Dialog, Deity
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/c8650f16-4610-4648-95d1-18a44a1188b7.lsx:8
-msgctxt "hc8c4ee6egf90ag4da3gafd8gf2a587f356de"
-msgid "|Talos|"
-msgstr ""
-
 #. uuid = c86e0114-a5ab-48f6-97b4-32debf1e77f5
 #. tag_name = FOOD
 #. categories = Code
@@ -6953,26 +6782,6 @@ msgid ""
 "the back of their hand."
 msgstr ""
 
-#. uuid = d274b482-4add-4f36-a4a0-47a9f6400e63
-#. tag_name = OATHBREAKER_DEVOTION
-#. categories = Code, Dialog, Story
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/d274b482-4add-4f36-a0a4-a94740f6630e.lsx:8
-msgctxt "h59246a1cg1c68g4180gbe7fg6cecc0c2e3e2"
-msgid "|HIDDEN Oathbreaker of the Devotion|"
-msgstr ""
-
-#. uuid = d274b482-4add-4f36-a4a0-47a9f6400e63
-#. tag_name = OATHBREAKER_DEVOTION
-#. categories = Code, Dialog, Story
-#. 
-#. type = display_description
-#: Shared/Public/Shared/Tags/d274b482-4add-4f36-a0a4-a94740f6630e.lsx:9
-msgctxt "h49d6335cg5534g4515gbe94gfb5fa6a67f05"
-msgid "|Your previous oath was of the Devotion.|"
-msgstr ""
-
 #. uuid = d2d60a81-688e-4d3d-56ba-463eae7cfc37
 #. tag_name = REALLY_SELDARINEDROWELF
 #. categories = Code, Dialog, Race, PlayerRace
@@ -7090,26 +6899,6 @@ msgid ""
 "survive in the outdoors with very little."
 msgstr ""
 
-#. uuid = d84a8a0b-b648-464c-d59b-d91e65b92ada
-#. tag_name = OATHBREAKER_ANCIENTS
-#. categories = Code, Dialog, Story
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/d84a8a0b-b648-464c-9bd5-1ed9b965da2a.lsx:8
-msgctxt "hd3d471e4g80eag4be7ga23eg8cc07e2e27a3"
-msgid "|HIDDEN Oathbreaker of the Ancients|"
-msgstr ""
-
-#. uuid = d84a8a0b-b648-464c-d59b-d91e65b92ada
-#. tag_name = OATHBREAKER_ANCIENTS
-#. categories = Code, Dialog, Story
-#. 
-#. type = display_description
-#: Shared/Public/Shared/Tags/d84a8a0b-b648-464c-9bd5-1ed9b965da2a.lsx:9
-msgctxt "hc230d5e2g8d38g4541ga8fbgf0f061d7c093"
-msgid "|Your previous oath was of the Ancients.|"
-msgstr ""
-
 #. uuid = d84b4081-6800-45f9-3fb0-db1692a55dc7
 #. tag_name = VLAAKITH
 #. categories = Dialog, Deity
@@ -7184,26 +6973,6 @@ msgid ""
 "Named for their inclination to stealth, lightfoot halflings are nonetheless "
 "happy in the spotlight. They enjoy travel, and many have made names for "
 "themselves across Faerûn."
-msgstr ""
-
-#. uuid = da25a7cc-066d-43dc-1e8f-c174d07c89d5
-#. tag_name = CLERIC_TALOS
-#. categories = Dialog, Class, CharacterSheet
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/da25a7cc-066d-43dc-8f1e-74c17cd0d589.lsx:8
-msgctxt "hc9cbfccdg24e3g4416g80feg9e2831319847"
-msgid "|Cleric of Talos|"
-msgstr ""
-
-#. uuid = da25a7cc-066d-43dc-1e8f-c174d07c89d5
-#. tag_name = CLERIC_TALOS
-#. categories = Dialog, Class, CharacterSheet
-#. 
-#. type = display_description
-#: Shared/Public/Shared/Tags/da25a7cc-066d-43dc-8f1e-74c17cd0d589.lsx:7
-msgctxt "h27cb1120g8566g4d8fg9543g2f5b2b30316c"
-msgid "|Talos tag tooltip description|"
 msgstr ""
 
 #. uuid = dad18490-c61d-4958-5c80-17f068eba0f8
@@ -7581,26 +7350,6 @@ msgid ""
 "a particular affinity for arcane magic."
 msgstr ""
 
-#. uuid = edc085f7-63f8-4bb0-0cb6-8cb6b6920877
-#. tag_name = CLERIC_TYMORA
-#. categories = Dialog, Class, CharacterSheet
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/edc085f7-63f8-4bb0-b60c-b68c92b67708.lsx:8
-msgctxt "hac9b42b6g0fafg4053g850bgdd3d4e0b2268"
-msgid "|Cleric of Tymora|"
-msgstr ""
-
-#. uuid = edc085f7-63f8-4bb0-0cb6-8cb6b6920877
-#. tag_name = CLERIC_TYMORA
-#. categories = Dialog, Class, CharacterSheet
-#. 
-#. type = display_description
-#: Shared/Public/Shared/Tags/edc085f7-63f8-4bb0-b60c-b68c92b67708.lsx:7
-msgctxt "hd51f451bg6058g44ffg9965ge36adf44d21a"
-msgid "|Tymora tag tooltip description|"
-msgstr ""
-
 #. uuid = edc46cc0-25d0-4da9-cbbf-baed9e23cedc
 #. tag_name = WPN_LIGHT_HAMMER
 #. categories = Code
@@ -7696,16 +7445,6 @@ msgctxt "hda96632cg67ecg484cg8eecgd2e762b87647"
 msgid "Myrkul"
 msgstr ""
 
-#. uuid = f21f419c-bbf8-42df-89ae-def1e972f50c
-#. tag_name = MIELIKKI
-#. categories = Dialog, Deity
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/f21f419c-bbf8-42df-ae89-f1de72e90cf5.lsx:8
-msgctxt "hffae24eag1c20g4dcag8ca4gfe8b058b5cc9"
-msgid "|Mielikki|"
-msgstr ""
-
 #. uuid = f2f86f8a-b927-4e70-8f88-ffde0ea196c7
 #. tag_name = SQUIRREL
 #. categories = Code, Dialog
@@ -7724,16 +7463,6 @@ msgstr ""
 #: Shared/Public/Shared/Tags/f2f86f8a-b927-4e70-888f-deffa10ec796.lsx:7
 msgctxt "hb8a43579g7182g4e94g9914ga6f171c472ca"
 msgid "SQUIRREL tooltip"
-msgstr ""
-
-#. uuid = f31d1582-9498-4a92-5985-f7de22a3ef2a
-#. tag_name = VFX_DEAD_WISP
-#. categories = SpellCondition
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/f31d1582-9498-4a92-8559-def7a3222aef.lsx:8
-msgctxt "he414a712g4944g4232g8e38g629e060249eb"
-msgid "|Wisp|"
 msgstr ""
 
 #. uuid = f532d904-4e7c-469f-478e-a667cd39e11a
@@ -8016,16 +7745,6 @@ msgstr ""
 #: Shared/Public/Shared/Tags/fef6b399-19da-4d4b-b1ec-c79dff7f46c3.lsx:8
 msgctxt "hcaa48cfdgaf38g424aga2efg01969215aa51"
 msgid "Spear"
-msgstr ""
-
-#. uuid = ff16e8ab-e8e6-4acb-05a1-e5aa9d3a0e51
-#. tag_name = SUMMONWITHOUTMOUTH
-#. categories = Code
-#. 
-#. type = display_name
-#: Shared/Public/Shared/Tags/ff16e8ab-e8e6-4acb-a105-aae53a9d510e.lsx:8
-msgctxt "h2dc95fcdg26a4g4c2agacb8gd476173c4fb6"
-msgid "|Summon without Mouth|"
 msgstr ""
 
 #. uuid = ff6d7d1f-094f-432e-17a1-c3fdaba0c17a

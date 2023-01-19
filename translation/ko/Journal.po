@@ -1,17 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-19 09:17+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/journal/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-01-20 02:43+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:12
 msgctxt "h9fcf80d5g8134g46e7g9ef8g42af65fb072c"
@@ -416,25 +415,6 @@ msgctxt "h9671c717g5c2ag4bbdg8815g0ebeaa480cf7"
 msgid "Shadowheart died. We won't be able to bring her back."
 msgstr "섀도하트가 죽었다. 우린 그녀를 되살릴 수 없었다."
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1246
-msgctxt "hb741c3c4g5320g46fcgae58gb7c78c5724da"
-msgid "|We recruited Shadow Heart into our party|"
-msgstr "|We recruited Shadow Heart into our party|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1266
-msgctxt "hcb1a07c6ge650g48b2g8834g7c0f2987b681"
-msgid ""
-"|We recruited Shadow Heart into our party and learned she was headed to "
-"Baldur's Gate|"
-msgstr ""
-"|We recruited Shadow Heart into our party and learned she was headed to "
-"Baldur's Gate|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1286
-msgctxt "hf7739fedg4a9ag4c38g984cg5ea9dd8d3cf9"
-msgid "|We learned that Shadow Heart was headed to Baldur's Gate|"
-msgstr "|We learned that Shadow Heart was headed to Baldur's Gate|"
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1306
 msgctxt "hd0c25f49g6d5dg4106g94d6g3724bb63d2fa"
 msgid ""
@@ -590,72 +570,12 @@ msgid ""
 "underground."
 msgstr "고블린 캠프에서 수수께끼를 풀자, 밑으로 이어지는 비밀 통로를 발견했다."
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1760
-msgctxt "h5f7b2297g11dfg49f9g9e87ge0a1a428750b"
-msgid ""
-"|We entered a chamber in the Goblin's camp that seems to be hiding "
-"something.|"
-msgstr ""
-"|We entered a chamber in the Goblin's camp that seems to be hiding "
-"something.|"
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1780
 msgctxt "h337169bdge646g4cc5ga175gf00c808ee20f"
 msgid ""
 "We found a poem about Selûne on a dwarf's corpse. It mentioned a door under "
 "the temple. What is hidden beneath the goblin camp?"
 msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1800
-msgctxt "hbb322ad4g7e3fg4665g9317g159565fdb1a7"
-msgid "|We entered the innermost part of the Goblin's camp.|"
-msgstr "|We entered the innermost part of the Goblin's camp.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1820
-msgctxt "h2865c766gbf78g4575g9e72gad0a7331e919"
-msgid ""
-"|We read a map that contained a cryptic hint, and pointed us to a specific "
-"location in the temple. There is something odd going on in this temple.|"
-msgstr ""
-"|We read a map that contained a cryptic hint, and pointed us to a specific "
-"location in the temple. There is something odd going on in this temple.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1840
-msgctxt "h9c6759f1g0845g48bagbcaegaabb1194837c"
-msgid ""
-"|We found some out-of-place artwork in the temple. It seemed non-Selunite.|"
-msgstr ""
-"|We found some out-of-place artwork in the temple. It seemed non-Selunite.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1860
-msgctxt "hb6a2597bg43a7g44b2gb1dfgfff4cc2c17a8"
-msgid "|We left the Nightsong where we found her.|"
-msgstr "|We left the Nightsong where we found her.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1880
-msgctxt "hd4c121f6g4159g4b03g9ac8g2bd52ef7b1d6"
-msgid "|We decided to give up Nightsong to Aradin and his party.|"
-msgstr "|We decided to give up Nightsong to Aradin and his party.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1900
-msgctxt "he1553d5dge32cg47d9g8490g3d594855f456"
-msgid "|We freed Nightsong of her curse.|"
-msgstr "|We freed Nightsong of her curse.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1920
-msgctxt "hdfee02c7g67f5g4d52g9e18g2bbdd14af47a"
-msgid "_"
-msgstr "_"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1940
-msgctxt "hea1ad884gb927g402fgbe61g2fd02f45ea99"
-msgid "|The Nightsong is dead.|"
-msgstr "|The Nightsong is dead.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1960
-msgctxt "h04f3f7f2ga6b0g4550g852agb4a4d760ae20"
-msgid "|We did not solve the mystery of the Nightsong.|"
-msgstr "|We did not solve the mystery of the Nightsong.|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1980
 msgctxt "h3d6a4326gfff5g4168ga162gdbebde1c0eb8"
@@ -676,11 +596,6 @@ msgid ""
 "a door under the temple. What is hidden beneath the goblin camp?"
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2040
-msgctxt "h533bcd8ege6dag4c89gaa37g908065526b00"
-msgid "|We did not solve the mystery of the Nightsong.|"
-msgstr "|We did not solve the mystery of the Nightsong.|"
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2060
 msgctxt "h82daab51gbb88g4031g89afg357bc4b95ce9"
 msgid ""
@@ -692,26 +607,6 @@ msgstr ""
 msgctxt "ha2ba88e1gdd0eg4e78g957cg3a9cbd559088"
 msgid "The trail goes cold in the Underdark. Where is the Nightsong?"
 msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2100
-msgctxt "h30a2ebdfg3673g4431g8e08g632efdf0e8ee"
-msgid ""
-"|We found out that some duergars are trying to find a way into a temple to "
-"Shar. Believe they could access it from the ruins of an ancient underground "
-"city.|"
-msgstr ""
-"|We found out that some duergars are trying to find a way into a temple to "
-"Shar. Believe they could access it from the ruins of an ancient underground "
-"city.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2120
-msgctxt "hb18cd6bcgd6a0g4823g858bga2ca886167f0"
-msgid ""
-"|We found some ancient ruins still bearing the architecture of the above "
-"temple. Why lock it down?|"
-msgstr ""
-"|We found some ancient ruins still bearing the architecture of the above "
-"temple. Why lock it down?|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2140
 msgctxt "h1a1f0566g4af3g48beg9899g77c1a675dab7"
@@ -783,11 +678,6 @@ msgid ""
 "her, perhaps we'll find Mayrina."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2356
-msgctxt "h6bf2051cgb651g4999g954bgbfbf5530e0ed"
-msgid "|We defeated the ruffians.|"
-msgstr ""
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2376
 msgctxt "h28638156g3441g491egbbb9g71fae6db2482"
 msgid ""
@@ -795,21 +685,11 @@ msgid ""
 "to a dark, twisted lair."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2396
-msgctxt "hbc44d390g1a73g49dcg819bg80ba7a81582c"
-msgid "|The ruffians attacked us.|"
-msgstr ""
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2416
 msgctxt "h9d4c6314g0dafg4af6g91ecgc61d1bff666e"
 msgid ""
 "We met a young woman staying with Auntie Ethel. There is something strange "
 "about their relationship. "
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2436
-msgctxt "h6c5605f7g78b2g4420g9fabga203c8bcea12"
-msgid "|Ethel promised us to explain at her house.|"
 msgstr ""
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2456
@@ -831,11 +711,6 @@ msgid ""
 "shell of who he once was. Would it be right to keep him alive like this?"
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2516
-msgctxt "h2da94c0dge910g430fg801agd66075d21c53"
-msgid "|Ethel poisoned the brothers with some sort of swamp gas.|"
-msgstr ""
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2536
 msgctxt "hc4e962c8g648eg4a04gaa6agb75889658162"
 msgid ""
@@ -843,21 +718,11 @@ msgid ""
 "find their sister Mayrina. Something isn't right here."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2556
-msgctxt "hde5a29d3gf8a7g4dcegb4f7ga97447f040fd"
-msgid "|We came upon a pair of ruffians harassing an old woman.|"
-msgstr ""
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2576
 msgctxt "hd96d8311gb22dg42ddga9fagefd1785a3b0d"
 msgid ""
 "Two brothers said that their sister Mayrina is being held against her will "
 "at Ethel's house - something that the old woman denied."
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2596
-msgctxt "hb839909ag6547g4ef6gb618g504285f10c54"
-msgid "|I told the brothers they were on their own. They ran off.|"
 msgstr ""
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2616
@@ -869,16 +734,6 @@ msgstr ""
 msgctxt "hd5755061g8f6eg4681ga510g8cf0a501c6e6"
 msgid ""
 "We made a deal with the hag. We let her live in exchange for Mayrina's life."
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2656
-msgctxt "hd3002f49g0636g4776g9cdfg68229ae77a05"
-msgid "|As we sided with the brothers, Ethel disappeared.|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2676
-msgctxt "h3ba23a6dg42d3g451ag800ega365b7b9b8fd"
-msgid "|We came upon a pair of ruffians harassing Ethel, the potion lady.|"
 msgstr ""
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2696
@@ -932,11 +787,6 @@ msgctxt "hd939a662g650cg417aga070g29736228a6e3"
 msgid ""
 "We found a wand with Connor's name on it. Could this resurrect Mayrina's "
 "husband?"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2856
-msgctxt "h6ebdd8d0g9612g4bbagbb6eg34d412a9eb73"
-msgid "|We found the brothers dead in the swamp.|"
 msgstr ""
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:2876
@@ -1499,16 +1349,6 @@ msgid ""
 "greatest secret."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:4722
-msgctxt "h28dc05bbg42f4g4761g908fg046743391040"
-msgid "|The CaravenSerai|"
-msgstr "|The CaravenSerai|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:4728
-msgctxt "hd169b911g2610g402bga382g838b7f767374"
-msgid "|We've discovered a burning caravanserai|"
-msgstr "|We've discovered a burning caravanserai|"
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:4753
 msgctxt "h115f69acgdb51g45f9g9038gfc64b524bd91"
 msgid "Free Lae'zel"
@@ -1838,40 +1678,6 @@ msgid ""
 "purple seam - moving counter-clockwise."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5909
-msgctxt "h69a0003agdf18g4fb5g807cgdce740a6c40e"
-msgid "|Karlach Recruitment|"
-msgstr "|Karlach Recruitment|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5915
-msgctxt "he941d015gd95fg43b2g89acgc561a9c67988"
-msgid "|We defeated the cultists.|"
-msgstr "|We defeated the cultists.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5935
-msgctxt "h83451ce9g366fg4d44g9b42gcb62f8ec9456"
-msgid ""
-"|The cultists have left the tollhouse, perhaps we will see them in the "
-"future.|"
-msgstr ""
-"|The cultists have left the tollhouse, perhaps we will see them in the "
-"future.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5955
-msgctxt "hbc6267f1g9c36g4b8eg9371gff8dee87e9be"
-msgid "|We lied about where Karlach could be found.|"
-msgstr "|We lied about where Karlach could be found.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5975
-msgctxt "h927d0ec8g862bg4f11gb1c2g97cd6427eef9"
-msgid "|We told the refugees where to find Karlach|"
-msgstr "|We told the refugees where to find Karlach|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5995
-msgctxt "h32fc288eg0725g4c54g86a0gb2c83e435b76"
-msgid "|The refugees are looking for an one-horned tiefling|"
-msgstr "|The refugees are looking for an one-horned tiefling|"
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6020
 msgctxt "hb0a6df51gf5abg42b7g95b6g1c02d8c8d8a4"
 msgid "Return the Locket"
@@ -2123,75 +1929,6 @@ msgstr ""
 msgctxt "h07fa9c2ag8afeg41c0g8ea2g9bd8eaefc1ee"
 msgid "The book was lost, along with its secrets."
 msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6830
-msgctxt "hd84c53f6g04eag43e5gbb90ga03e5548d1aa"
-msgid "|Happy Torturers|"
-msgstr "|Happy Torturers|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6836
-msgctxt "hdb05017aga80cg498fgbc4fgd237c605c6dc"
-msgid "|Meet the Torturers|"
-msgstr "|Meet the Torturers|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6856
-msgctxt "h0fc163d5ga2a7g4711g8d3dg24f8c9980d6a"
-msgid "|Save tortured adventurer|"
-msgstr "|Save tortured adventurer|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6876
-msgctxt "he8b14478gf51fg423eg9993gca3443b7b583"
-msgid "|Fight the goblins|"
-msgstr "|Fight the goblins|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6896
-msgctxt "h03f089cfga52cg44a0g80a3gf8dedd447811"
-msgid "|We tricked goblins into leaving. We gotta free adventurer|"
-msgstr "|We tricked goblins into leaving. We gotta free adventurer|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6916
-msgctxt "hd35c734cg4c40g47c2gaf10g7369cbc72bd8"
-msgid "|Goblins are dead. We gotta free adventurer|"
-msgstr "|Goblins are dead. We gotta free adventurer|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6936
-msgctxt "h2240b5eegd247g4207g9bd7gf17d501074ec"
-msgid "|Adventurer is no longer unconscious. We gotta free him|"
-msgstr "|Adventurer is no longer unconscious. We gotta free him|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6956
-msgctxt "h164d4417g493cg4dd6gbd7dg13630c30b952"
-msgid ""
-"|We tortured Liam into giving the goblin information on the Grove. They left "
-"him alone, but at what price?|"
-msgstr ""
-"|We tortured Liam into giving the goblin information on the Grove. They left "
-"him alone, but at what price?|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6976
-msgctxt "h732a34c0ga5b7g4529gaf1bg3b962cda4afc"
-msgid "|Liam is dead.|"
-msgstr "|Liam is dead.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6996
-msgctxt "h988fc410gea41g4eedga645g9c468cc15fe5"
-msgid "|Liam escaped the goblin camp for the Grove.|"
-msgstr "|Liam escaped the goblin camp for the Grove.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:7016
-msgctxt "h0f5e4afbg36dag4ee0g9c63g8cb98988cb06"
-msgid "|We left the region before helping the tortured man.|"
-msgstr "|We left the region before helping the tortured man.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:7036
-msgctxt "hda74e38ag77d2g4960g92a8g0161a8f5f6a8"
-msgid "|Liam is free from his torturing device, but too wounded to escape.|"
-msgstr "|Liam is free from his torturing device, but too wounded to escape.|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:7056
-msgctxt "hbe4fc21bg1697g4b22gb5b8gacf4b83460e9"
-msgid "|Liam should be able to escape, but best check on him.|"
-msgstr "|Liam should be able to escape, but best check on him.|"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:7081
 msgctxt "h08c74ff9gb81ag480dga088gc4647666b1fa"
@@ -2653,11 +2390,6 @@ msgid ""
 "The dwarf died before we could help him. What was he even doing down here?"
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:8561
-msgctxt "ha46142bbgc6b8g48b1g943fgc9b8241f20dd"
-msgid "|We found a dead dwarf. We should try to learn more about him.|"
-msgstr ""
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:8581
 msgctxt "hfa6c4d2fg1608g46c1g868bgca076bedb5fd"
 msgid "We rescued the dwarf from the Bibberbang field. We should check on him."
@@ -2800,11 +2532,6 @@ msgstr ""
 msgctxt "hdb7da5fbge4bcg4e98g8ed0gc43e55e75c36"
 msgid ""
 "Benryn mentioned a dowry for him and his wife. It's worth searching for it."
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9097
-msgctxt "hca6f5d7dgacb2g45bfg8165gb6fccc7474a7"
-msgid "|Benryn is beyond our help.|"
 msgstr ""
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9122
@@ -4118,12 +3845,6 @@ msgid ""
 "light. We should get some rest."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13043
-msgctxt "h99ec04aega132g46a9g9653gec39f4f415ab"
-msgid ""
-"| The tieflings are preparing for the raid. We should check in with them. |"
-msgstr ""
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13063
 msgctxt "h1d5ee4b7g38a2g46a1g941eg5d2fc38add5e"
 msgid ""
@@ -5422,346 +5143,6 @@ msgid ""
 "would likely still benefit from his return."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17082
-msgctxt "hf43b9ddag1c24g4d34gb297g1f7746b92271"
-msgid "|HIDDEN BOOSTER QUEST|"
-msgstr "|HIDDEN BOOSTER QUEST|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17088
-msgctxt "he132cb9egd80bg4539g93beg787ec5719f7e"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17113
-msgctxt "h22e87b2dg9b6fg4124g8923ga9d6868a8aa2"
-msgid "|HIDDEN BOOSTER QUEST|"
-msgstr "|HIDDEN BOOSTER QUEST|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17119
-msgctxt "h3bf132b1ga48ag4a99ga7abgc570b5896ba3"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17139
-msgctxt "hdfd35d46ga223g428fgb95cg7d3a683faf73"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17159
-msgctxt "hdb34308fg4680g412bg9200gf768ab01c048"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17179
-msgctxt "hb5c69037g1d61g42a5ga469g7c67605c30ce"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17199
-msgctxt "hffc5a02cg3752g4c72g86a3g98ffb9d5b5b0"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17219
-msgctxt "h0d5913c0g19b3g43caga863g6cb98c27e6bf"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17239
-msgctxt "hc6ff5dbdg9ee8g497egb666gb26969ee61b1"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17259
-msgctxt "hf1f6ea96gefc5g4223gba86g60bb5cd3c60a"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17279
-msgctxt "h5f6e6299g8ebag48e7gb8a6g5ba93a581350"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17299
-msgctxt "ha297ce73gbda6g4a13g9c12gc689b4187fd4"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17319
-msgctxt "hb8bf3abdgf86bg44b1ga61eg88c839fa4245"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17339
-msgctxt "h22da735bg5989g4ab2g9d55g06eb25a9f191"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17359
-msgctxt "hbfb48dbeg300ag4f85g829ag604629943dbb"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17379
-msgctxt "haf8f950eg37c9g4f41g9c77g2a6db9a75a03"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17399
-msgctxt "ha108b5d7ge901g4efbgba38g29df46cf9be9"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17419
-msgctxt "h1e165bbegc240g49d3g9273g435041162fac"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17439
-msgctxt "h9768b515g6e6ag4412gae12ge4f316d00063"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17459
-msgctxt "h8b1b9447g739eg4bf9ga023gbdc14e60c0d1"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17479
-msgctxt "h055ca900gacdeg4c30ga886g53d37bb9f49f"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17499
-msgctxt "ha7e34ef7g8917g4084g89e1g27cc3fdde466"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17519
-msgctxt "h2bfd37bcgca8cg4faag96d1gab827dfd913f"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17539
-msgctxt "h241d6516g6905g4b2bg841dg9f4061fecc3a"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17559
-msgctxt "h37cb0cf7g6b45g498cg8d85g55e5b940395b"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17579
-msgctxt "h54bbbe6bg7da9g4a86ga6bdgf96c6d2f2428"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17599
-msgctxt "h89aa8a66gbf07g49cfg8ca2g5eb7afe684f6"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17619
-msgctxt "hf120bcdag4ba3g4083g9acbgf3d2eeab665f"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17639
-msgctxt "h49aa26abg60dfg4497gbc34g827cd21337eb"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17659
-msgctxt "h887dedcdg52f1g4ae8g886ag328a9dc08bb4"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17679
-msgctxt "h46f81851g354cg4e62g8639g96f1a3d75698"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17699
-msgctxt "hffb527d3g3aa4g4227g8384g525ec9ad612a"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17719
-msgctxt "hcb704686g6d69g43e4gbabfg5b15f1ef3493"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17739
-msgctxt "h3d684ab6ga07ag4dd5g943dga32e21ca6a2b"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17759
-msgctxt "h7965ce94g990dg48d0gb065g460fbbb2b834"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17779
-msgctxt "h2190055cg56a4g4fc9g92e6g2cdc14659c0d"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17799
-msgctxt "h8ac5721fg68ceg45aega9e9g2d396d7ef762"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17819
-msgctxt "h08c30364g046ag4261gb8f5gaef327c134f8"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17839
-msgctxt "hbdbc5a63gae21g4898gba0bg9f9908bf764c"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17859
-msgctxt "h144f399bgd0bcg4bd2gabadg122d9156b01c"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17879
-msgctxt "hc20054cdg2307g46bdg9cbbg69cfe7f55eb1"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17899
-msgctxt "hb4596871gb448g4153gacddg32bdfb9b0a2e"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17919
-msgctxt "ha1162229gde9dg433fgb525g6f13f2a7df92"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17939
-msgctxt "h859c4495g35d3g4e8cg94a3ga980c875bedb"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17959
-msgctxt "h6ac7ca01gc482g457fg8623g85f972a0c348"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17979
-msgctxt "hba3175c9g2bb0g4ac4gad3dg4a5d00543e97"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:17999
-msgctxt "h0378d8d4g4700g493fg8259gf76cdb7ba1a9"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18019
-msgctxt "h437ea9f1ga322g43b8g9604g1f0f0745cdaa"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18039
-msgctxt "h7e0891aeg162dg441dgb680g1b2150f49bed"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18059
-msgctxt "ha680f4aeg3fd0g4af1g933cg75d37ce52441"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18079
-msgctxt "hf6e8d3b5g0134g495agac93gaa5c9bb3a665"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18099
-msgctxt "hdb0f2aebg37d4g451bg95bfgd87053187968"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18119
-msgctxt "hb9a7c58cg8cbfg4dc9g8c44g190840984987"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18139
-msgctxt "h63fb0eafg57e6g4316g897bg3ea10d60293a"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18159
-msgctxt "h9a070c78g43c7g4600g8e08gf6ce9e9b6dc8"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18179
-msgctxt "h603277b7g47f0g4487ga35eg9aee3d902a11"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18199
-msgctxt "hea3856aeg3afcg43dagb9fegb7458dbf166e"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18219
-msgctxt "h59699137gfc3bg4d34g855dg16dcc50c42d9"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18239
-msgctxt "h5606a9cdgdc2cg47a3g9757g7ceb0999956e"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18259
-msgctxt "h91896d95g798bg4805gaf4bgfda444bad8e6"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18279
-msgctxt "h43775143g2ebeg4148g8422gaa613d10b710"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18299
-msgctxt "hed29e561gcd7eg4d92g9a3egd78cf1d3eb91"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18319
-msgctxt "h17b20594g93d4g4dd7g87c5g2b690f0193ec"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18339
-msgctxt "h85b82911gedc4g4d65g9c73g052bc9440dd5"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18359
-msgctxt "h6a620349gce71g4a0fga620ge99632c47861"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18379
-msgctxt "h17526b32g8e45g4c75g8375gb1477725599f"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18399
-msgctxt "h484aa3d8g0db1g40c9gb8f7g612ba202b0f4"
-msgid "|INVISIBLE ENTRY CONTENT|"
-msgstr "|INVISIBLE ENTRY CONTENT|"
-
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18424
 msgctxt "h4d22802ag13a9g4678g9624g9fc00139e256"
 msgid "Find Doni"
@@ -6526,16 +5907,6 @@ msgid ""
 "Moonrise Towers - including their leader Wulbren. We need to find and rescue "
 "them."
 msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:20846
-msgctxt "hdf7f7d48geaf2g48a3gb671g502473e309db"
-msgid "|Override this title in the rewards section of each step|"
-msgstr "|Override this title in the rewards section of each step|"
-
-#: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:20852
-msgctxt "h487d1288g18a3g40c2gb53bgbc29b6c7e8db"
-msgid "|Reason for the reward.|"
-msgstr "|Reason for the reward.|"
 
 #: Gustav/Mods/Gustav/Story/Journal/questcategory_prototypes.lsx:9
 msgctxt "hd9926374g1983g4a95g880dg32a7c29c49ad"
@@ -7312,46 +6683,6 @@ msgctxt "ha28c49e1gc60eg4797g8997g1fe376f532e9"
 msgid "Look for Oskar in Baldur's Gate."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:329
-msgctxt "hce9e3c32g6f2cg4141gb982g289ba659c028"
-msgid "|Investigate|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:340
-msgctxt "h2e8f820fg8f96g4471gbd83g8f50d128f67b"
-msgid "|Talk to the brothers.|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:351
-msgctxt "hb5da97f1gc8a0g436dg958cg82d7be85c642"
-msgid "|Defeat the ruffians.|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:362
-msgctxt "h00af7ecbgc280g4661g9eefg5cc030c60e0b"
-msgid "|Investigate the area|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:368
-msgctxt "hd34fbb1dg2df9g4f5bgabefg0affbc5bbbae"
-msgid "|Talk to Ethel|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:379
-msgctxt "hbfddd091g3e10g4d43ga647g3aa0149139aa"
-msgid "|Visit Ethel's House|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:390
-msgctxt "ha17b097ag2335g4aa1gb67dgddeac2eee327"
-msgid "|Pursue Ethel|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:396
-msgctxt "h3c9bec12g99b6g43b3gaee7gdfeb00fbd96b"
-msgid "|Learn more about Mayrina|"
-msgstr ""
-
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:407
 msgctxt "hf5d3a558g36bdg4aa4g8c6dgf515426d7884"
 msgid "Speak with Mayrina."
@@ -7407,11 +6738,6 @@ msgctxt "hf3136c2egeba5g4c27g88e4g082674143d0c"
 msgid "Recruit Lae'zel."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:531
-msgctxt "h194922b1gf9c9g4909g8182gb47bb4748581"
-msgid "|Find the One-Horned Tiefling|"
-msgstr ""
-
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:543
 msgctxt "ha096d9ecgd686g489fg8566g7948a734f51a"
 msgid "Retrieve the stolen locket."
@@ -7422,19 +6748,9 @@ msgctxt "he5d0cf34g23e9g4a54g971ege79de79c493d"
 msgid "Return the stolen locket."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:571
-msgctxt "hbe232de8g9fb8g4672ga93bge622a758b11f"
-msgid "|Investigate|"
-msgstr ""
-
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:577
 msgctxt "h70b6348eg55bdg4002g855agfe21008ae302"
 msgid "Get to Baldur's Gate."
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:583
-msgctxt "h998aa43fgf8b2g409cg9779gca95979e67ff"
-msgid "| Travel with Shadow Heart. |"
 msgstr ""
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:595
@@ -7497,11 +6813,6 @@ msgctxt "h6ae6c479g771eg439dgbaccgff13a714d559"
 msgid "Slay Connor."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:677
-msgctxt "h67186fedg92d6g479dgbe6dg9cd2826ab70d"
-msgid "|See where she went.|"
-msgstr ""
-
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:683
 msgctxt "h85ba0346gd2dag4a75g9468gba681c630cbd"
 msgid "Pursue Auntie Ethel"
@@ -7510,31 +6821,6 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:689
 msgctxt "h3c92fa2dgb459g4c5eg9d8eg07ff215adf03"
 msgid "Fight the hag"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:695
-msgctxt "h7de66e65gdb3fg441ag9040g956962ae2431"
-msgid "|We heard scream and found a duo of goblins torturing a man.|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:701
-msgctxt "hf56d0d45g5c73g4cbagb5dbg4436a58c788e"
-msgid "|If the goblins keep going, Liam will die. We got to do something.|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:707
-msgctxt "hc0c16546gda63g438bgb573gab8a98f67e42"
-msgid "|We decided to fight the goblins|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:713
-msgctxt "h39624738g364bg4a45gab65ga4aca5522c26"
-msgid "|Free adventurer|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:719
-msgctxt "h38600e3cg562bg4abdg9d53gbc0dedf837a9"
-msgid "|Heal adventurer|"
 msgstr ""
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:731
@@ -7555,16 +6841,6 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:759
 msgctxt "hb428b4d0g5f29g4dfbg9921gf8be181dcb87"
 msgid "Find a Githyanki Crèche."
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:765
-msgctxt "h0b7ef051g96d9g4953ga228g3c975cc525e4"
-msgid "|Liam is free from his torturing device, but too wounded to escape.|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:771
-msgctxt "h5f04ee89g9873g4cacga8degb7b56625db25"
-msgid "|Liam should be able to escape, but best check on him.|"
 msgstr ""
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:777
@@ -8312,11 +7588,6 @@ msgctxt "h2fabc0dag0135g4e85gbc67g0872f8dd7e35"
 msgid "Find the Dark Justiciar's lair."
 msgstr ""
 
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2416
-msgctxt "he715557ega704g4967g8369g902aaaf6d8ba"
-msgid "|Find out where Mayrina went.|"
-msgstr ""
-
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2422
 msgctxt "h4abb987fgff38g411bg92e0g83c6a016575e"
 msgid "Bring the wand to Mayrina."
@@ -8405,16 +7676,6 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2598
 msgctxt "hf75e5babg93a2g4b51g8395g4447fab7d29f"
 msgid "Find Mol."
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2609
-msgctxt "h8e9b670egadccg4c3cg8ed0gceb25ec76e29"
-msgid "|INVISIBLE BOOSTER OBJECTIVE|"
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2615
-msgctxt "hd90dd1b4g2007g45e7gb963gaf419056351a"
-msgid "|INVISIBLE BOOSTER OBJECTIVE|"
 msgstr ""
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2621
@@ -8705,11 +7966,6 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:3230
 msgctxt "h32bde912g5932g46b4ga28cg759005722653"
 msgid "Pick up the forged item."
-msgstr ""
-
-#: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:3241
-msgctxt "hc4c58aefgd97cg42a8g8388gffe9eb91e406"
-msgid "|INVISIBLE REWARD OBJECTIVE|"
 msgstr ""
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:3247

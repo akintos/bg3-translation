@@ -1,17 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-19 17:32+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-01-20 02:43+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_0_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:8
@@ -3235,20 +3234,6 @@ msgstr ""
 ">투척</LSTag> 역시 가능한 근접 무기들을 일컫습니다. <br><br> 투척을 할 시, 이러한 무기들은 근접 공격을 할 때와 동일한 "
 "피해를 줍니다."
 
-#: Game/Public/Game/GUI/Library/Tooltips.xaml:1904
-msgctxt "he3e40c35g7afeg4727g9233gd5b818f8a2c1"
-msgid ""
-"| Of all the armour categories, heavy armor offers the best protection. "
-"These suits of armour cover the entire body and are designed to stop a wide "
-"range of attacks. Only proficient warriors can manage their weight and "
-"bulk.  Heavy Armor doesn't let you add your Dexterity modifier to your Armor "
-"Class, but it also doesn't penalize you if your Dexterity modifier is "
-"negative. |"
-msgstr ""
-"| 중갑은 모든 갑옷 유형 중 가장 보호 성능이 가장 탁월합니다. 중갑은 전신을 감싸며 다양한 공격을 막아내게끔 설계되었습니다. 오직 "
-"숙련된 전사들만이 중갑의 무게와 부피를 제대로 감당할 수 있습니다. 중갑 착용시 민첩 수정치가 방어도에 가산되지 않지만, 민첩 수정치가 "
-"마이너스일시 받는 페널티도 없애줍니다. |"
-
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:1911
 msgctxt "h0e6581dag3136g4990gb14eg8a3f8f2ebba1"
 msgid ""
@@ -3689,11 +3674,6 @@ msgstr "영구적"
 msgctxt "hb115268eg66f3g4f91g827bgdbad9a941c6b"
 msgid "Weapon Damage"
 msgstr "무기 피해"
-
-#: Game/Public/Game/GUI/Library/Tooltips.xaml:3306
-msgctxt "h29900944ga4c3g49ffg8a15g5970c20a9cdd"
-msgid "| (up to [1]) |"
-msgstr "| ([1]까지) |"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3567
 msgctxt "h22431a3cg7670g4cabg987fge9a1bbbbbd32"
@@ -4206,11 +4186,6 @@ msgstr "워 픽"
 msgctxt "hccfa6976gd950g49e0g88a3gbb0e8380175f"
 msgid "Concentration"
 msgstr "집중"
-
-#: Game/Public/Game/GUI/Library/Tooltips.xaml:5650
-msgctxt "h02316c7bgeac5g4b0egb78cg44b193b2e233"
-msgid "| Self |"
-msgstr "| 자신 |"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5663
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:3914
@@ -5958,11 +5933,6 @@ msgstr "슬롯 배정"
 msgctxt "h469e422dg6170g46e8g9727gdcade42eb5a1"
 msgid "Clear slot"
 msgstr "슬롯 비우기"
-
-#: Game/Public/Game/GUI/Widgets/HotBar_c.xaml:1377
-msgctxt "h1018e7a5gdb9ag4b51g9898gc30c5b0ab518"
-msgid "| End Concentration |"
-msgstr "| 집중 종료 |"
 
 #: Game/Public/Game/GUI/Widgets/HotBar_c.xaml:1418
 #: Game/Public/Game/GUI/Widgets/HotBar_c.xaml:1437

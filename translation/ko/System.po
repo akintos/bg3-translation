@@ -1,17 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-19 17:32+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/system/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-01-20 02:43+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "h2503ea88g4951g4db3g9fdeg0722d8eab5d4"
 msgid "Saving..."
@@ -629,14 +628,6 @@ msgctxt "h69398e63gdbabg4704gba66g78583d59607e"
 msgid "Could not learn [1]."
 msgstr "[1] 주문을 배울 수 없습니다."
 
-msgctxt "heda4e4e7g5707g467bga359gcd17eb83a654"
-msgid ""
-"|Doesn't need destub - UNUSED- DOS2- Could not learn [1].<br>|Spellbook "
-"requirements not met.|"
-msgstr ""
-"|Doesn't need destub - UNUSED- DOS2- Could not learn [1].<br>|Spellbook "
-"requirements not met.|"
-
 msgctxt "hd5831160gc20dg4da0g8e16gab583c039258"
 msgid "Pickpocket Failed!"
 msgstr "소매치기 실패!"
@@ -815,10 +806,6 @@ msgstr "표면 위험."
 msgctxt "h21913bd9g90c8g45b6gabf1g82cbaa2d3740"
 msgid "elemental clouds."
 msgstr "원소 구름."
-
-msgctxt "h5574bd84g0bd6g4e95g8dadgd275887eabaf"
-msgid "|explosions.|"
-msgstr "|explosions.|"
 
 msgctxt "h26acd640gfd8ag4af2gb56cgbdd9ca8a54b6"
 msgid "Cannot turn Invisible."
@@ -1142,14 +1129,6 @@ msgctxt "h7d59296fgb46bg4636g9736ge455ceed63fd"
 msgid "All avatars must be able to travel to camp to end the day."
 msgstr "하루를 마치기 위해서는 모든 아바타가 캠프로 여행할 수 있어야 합니다."
 
-msgctxt "h2f59e893g3007g44b1ga6d9g6ea92badcc89"
-msgid "| Your avatar is in no condition to end the day. |"
-msgstr "| 당신의 아바타는 하루를 마칠 수 있는 상태가 아닙니다.|"
-
-msgctxt "h3230af3bgdb76g41fcgb2cag08e76c6d9c4c"
-msgid "| One of your avatars is in no condition to end the day. |"
-msgstr "| 당신의 아바타 중 하나가 하루를 마칠 수 있는 상태가 아닙니다. |"
-
 msgctxt "hf0e9624fg0dd7g4af7g8613g3f89ffe36df5"
 msgid "Heavily Encumbered - cannot climb."
 msgstr "심각한 과적 상태입니다 - 오를 수 없습니다."
@@ -1169,10 +1148,6 @@ msgstr "아이템을 사용할 수 없습니다."
 msgctxt "hb588e2c5ge2e5g4144ga183g70024b8b8332"
 msgid "Target is blocked!"
 msgstr "대상이 가로막혀있습니다!"
-
-msgctxt "hbd04a3d6g5785g4334g9badgefb596f14d80"
-msgid "| Too heavy to put in inventory. |"
-msgstr "| 인벤토리에 넣기에 너무 무겁습니다. |"
 
 msgctxt "ha755f079g21f6g480cga374gaf2f911e41be"
 msgid "Can't use"
@@ -1437,12 +1412,6 @@ msgstr "활성화하면 중요한 개념들을 설명하는 대화식 튜토리�
 msgctxt "h976cb493g6e5fg4bb4gab9fg727c4bec6c6f"
 msgid "UI Scaling"
 msgstr "UI 스케일링"
-
-msgctxt "hf18dfb23g4feag4ddbgac86gee9e736ecfb9"
-msgid ""
-"| Changing this setting will change the size of certain elements inside the "
-"UI. |"
-msgstr ""
 
 msgctxt "h9c329b8bg9605g4d96gb14bga9cf3f84bb02"
 msgid "Show full tooltips"
@@ -2406,18 +2375,6 @@ msgctxt "hd8ca3313ge347g4c19g84d2g08217dc31e34"
 msgid "Cannot Find Path"
 msgstr "경로를 찾을 수 없음"
 
-msgctxt "hca813806gb2afg48bdgb37cg6726888f3014"
-msgid "| Will remove surface and cloud |"
-msgstr ""
-
-msgctxt "ha160cbcfgc8bdg4dd2g84d3g7ded6005c7bd"
-msgid "| Will remove surface |"
-msgstr ""
-
-msgctxt "h39612b44g5129g46a9ga6aag4f716977bab0"
-msgid "| Will remove cloud |"
-msgstr ""
-
 msgctxt "h7357a715g18a2g45e1g9dfcg6b2a9e759eef"
 msgid "Detect Thoughts"
 msgstr "생각 탐지"
@@ -2889,78 +2846,6 @@ msgctxt "h456f6feeg12a2g4ba4g9299g3a47347980ac"
 msgid "Target's Survival"
 msgstr "대상의 생존"
 
-msgctxt "h7ab4af5bg3933g40d2g82a2ga20d03135316"
-msgid "| Owner's Deception |"
-msgstr "| Owner's Deception |"
-
-msgctxt "hba75a86cg9114g4b00g8875g8323ee9a10eb"
-msgid "| Owner's Intimidation |"
-msgstr "| Owner's Intimidation |"
-
-msgctxt "h357a4642g8c81g4b71gbf14g66a80f2702b6"
-msgid "| Owner's Performance |"
-msgstr "| Owner's Performance |"
-
-msgctxt "h4f62aa35g8984g4f85gbb88g6c33fde98fb9"
-msgid "| Owner's Persuasion |"
-msgstr "| Owner's Persuasion |"
-
-msgctxt "hc5169a77g2088g40bega4c9g7d3eb9142cc3"
-msgid "| Owner's Acrobatics |"
-msgstr "| Owner's Acrobatics |"
-
-msgctxt "h6df8759dgd294g42eeg8065g8808c1007e2b"
-msgid "| Owner's Sleight of Hand |"
-msgstr "| Owner's Sleight of Hand |"
-
-msgctxt "h4849433fgbb3fg4ac2g9d20gb6592e2aca2a"
-msgid "| Owner's Stealth |"
-msgstr "| Owner's Stealth |"
-
-msgctxt "h0148b597gc565g4dfag9cf9gd8914f9e8e4a"
-msgid "| Owner's Arcana |"
-msgstr "| Owner's Arcana |"
-
-msgctxt "h41912732gaeedg4170gbaa2g88e26522ed88"
-msgid "| Owner's History |"
-msgstr "| Owner's History |"
-
-msgctxt "h4a8c7068g2bc5g4a3fg81b6gd2496bb324b0"
-msgid "| Owner's Investigation |"
-msgstr "| Owner's Investigation |"
-
-msgctxt "hd8de32edg544eg4f46gbd1cg3540e7972716"
-msgid "| Owner's Nature |"
-msgstr "| Owner's Nature |"
-
-msgctxt "h4c6df25bg2e13g4e10ga366g7f468492d1f0"
-msgid "| Owner's Religion |"
-msgstr "| Owner's Religion |"
-
-msgctxt "h4d785f7bg4e25g474cga3a0gce1558708eaf"
-msgid "| Owner's Athletics |"
-msgstr "| Owner's Athletics |"
-
-msgctxt "hb5be8aa5g3b0bg426ag85a5g4046a897d9ab"
-msgid "| Owner's Animal Handling |"
-msgstr "| Owner's Animal Handling |"
-
-msgctxt "h03cd7fabg81f0g4214g8eecg14cfbb937227"
-msgid "| Owner's Insight |"
-msgstr "| Owner's Insight |"
-
-msgctxt "h7030144cg113bg43b6ga9adg42bd3b9e4697"
-msgid "| Owner's Medicine |"
-msgstr "| Owner's Medicine |"
-
-msgctxt "h8ea9da77g2ae0g42abgbe17ge14d3fde6818"
-msgid "| Owner's Perception |"
-msgstr "| Owner's Perception |"
-
-msgctxt "h47b0a1ebgd9c6g496fg83a5ged97aadb3bd6"
-msgid "| Owner's Survival |"
-msgstr "| Owner's Survival |"
-
 msgctxt "h0a9b66e9g5a8fg400agaa44g4ee46a55a96d"
 msgid "Deception Modifier"
 msgstr "기만 수정치"
@@ -3105,78 +2990,6 @@ msgctxt "h60c25fbdge840g4497gbcefgccd11824066a"
 msgid "Target's Survival Modifier"
 msgstr "대상의 생존 수정치"
 
-msgctxt "hc585185cgb0e7g4442gbf4bgaf853a86a761"
-msgid "| Owner's Deception Modifier |"
-msgstr "| Owner's Deception Modifier |"
-
-msgctxt "hc5b982a3g6562g46bagac98g36dccd26819c"
-msgid "| Owner's Intimidation Modifier |"
-msgstr "| Owner's Intimidation Modifier |"
-
-msgctxt "h0d5a8b0bg3de4g4acbg9c57gfcdcc7e65507"
-msgid "| Owner's Performance Modifier |"
-msgstr "| Owner's Performance Modifier |"
-
-msgctxt "h1a55fdf1ga2aag491egba82g9bf96aa93334"
-msgid "| Owner's Persuasion Modifier |"
-msgstr "| Owner's Persuasion Modifier |"
-
-msgctxt "hbadec7a3gd8e8g441ag86e6g067065669810"
-msgid "| Owner's Acrobatics Modifier |"
-msgstr "| Owner's Acrobatics Modifier |"
-
-msgctxt "hcc370e5dgcda2g40dbga41fg9f5ef2b090b4"
-msgid "| Owner's Sleight of Hand Modifier |"
-msgstr "| Owner's Sleight of Hand Modifier |"
-
-msgctxt "h71d726fcg26ddg462dga53ag09c0a894b315"
-msgid "| Owner's Stealth Modifier |"
-msgstr "| Owner's Stealth Modifier |"
-
-msgctxt "hd525de21g6196g4752gbe33g2fbe3a95281d"
-msgid "| Owner's Arcana Modifier |"
-msgstr "| Owner's Arcana Modifier |"
-
-msgctxt "h6b07b1a8gc687g451fgba2fga7c4ac28b349"
-msgid "| Owner's History Modifier |"
-msgstr "| Owner's History Modifier |"
-
-msgctxt "hde9e6ccdg32acg4499g93eagbf9e663503c6"
-msgid "| Owner's Investigation Modifier |"
-msgstr "| Owner's Investigation Modifier |"
-
-msgctxt "h5d9302c5g7715g4fb6ga4a3g6a83b2a84594"
-msgid "| Owner's Nature Modifier |"
-msgstr "| Owner's Nature Modifier |"
-
-msgctxt "h3c1b9d69gc975g4027g9dadg7d9d76ff5b71"
-msgid "| Owner's Religion Modifier |"
-msgstr "| Owner's Religion Modifier |"
-
-msgctxt "h07811890gab70g431dg837agbb18125b79f3"
-msgid "| Owner's Athletics Modifier |"
-msgstr "| Owner's Athletics Modifier |"
-
-msgctxt "h2e4d43a8ga1dbg4db6gb2dfg268c61cc886f"
-msgid "| Owner's Animal Handling Modifier |"
-msgstr "| Owner's Animal Handling Modifier |"
-
-msgctxt "h9e9ae075g268fg4ecagb667gf6d2d2af99f1"
-msgid "| Owner's Insight Modifier |"
-msgstr "| Owner's Insight Modifier |"
-
-msgctxt "hdb64bc33g3357g4b3aga381g314ca5add564"
-msgid "| Owner's Medicine Modifier |"
-msgstr "| Owner's Medicine Modifier |"
-
-msgctxt "h422e59d9g647cg4eccgbf98g3451e2e705ea"
-msgid "| Owner's Perception Modifier |"
-msgstr "| Owner's Perception Modifier |"
-
-msgctxt "h8cdaf887g9beag451cg9e03g462a833ccba3"
-msgid "| Owner's Survival Modifier |"
-msgstr "| Owner's Survival Modifier |"
-
 msgctxt "hab37f34dg747bg4151g98d4g09e1c58c3f62"
 msgid "Target's Strength"
 msgstr "대상의 근력"
@@ -3200,30 +3013,6 @@ msgstr "대상의 지혜"
 msgctxt "hdb1fb0bfg9581g44d2g81f4gd52709138d39"
 msgid "Target's Charisma"
 msgstr "대상의 매력"
-
-msgctxt "h4e4c3cc9gb249g4cbcgb6dcg518b7ed7c4ff"
-msgid "| Owner's Strength |"
-msgstr "| Owner's Strength |"
-
-msgctxt "h7a540601g1af2g40e2g9aeeg02c208708b84"
-msgid "| Owner's Dexterity |"
-msgstr "| Owner's Dexterity |"
-
-msgctxt "h0544c88eg4f23g4d32gbb18geb9216507971"
-msgid "| Owner's Intelligence |"
-msgstr "| Owner's Intelligence |"
-
-msgctxt "h328d4913gf764g464ag9128gecb67bbf08b0"
-msgid "| Owner's Constitution |"
-msgstr "| Owner's Constitution |"
-
-msgctxt "hfe33a000g0560g406dg97b7g61081232ef8e"
-msgid "| Owner's Wisdom |"
-msgstr "| Owner's Wisdom |"
-
-msgctxt "h780d7abcg3798g472fg84aeg9cd12df3b1a1"
-msgid "| Owner's Charisma |"
-msgstr "| Owner's Charisma |"
 
 msgctxt "h655dab63gc26dg43a3gb57ag6903517ba4ec"
 msgid "Strength Modifier"
@@ -3272,30 +3061,6 @@ msgstr "대상의 지혜 수정치"
 msgctxt "h190980f0g8e11g400fga918g869540f38cc5"
 msgid "Target's Charisma Modifier"
 msgstr "대상의 매력 수정치"
-
-msgctxt "h511e0f65ge09bg418cgb241ge59f7eabca5f"
-msgid "| Owner's Strength Modifier |"
-msgstr "| 소유자의 근력 수정치 |"
-
-msgctxt "hce65d775g4ba3g4467g9b62g8cca4cae21ae"
-msgid "| Owner's Dexterity Modifier |"
-msgstr "| 소유자의 민첩 수정치 |"
-
-msgctxt "h59c000a0gc79cg49b8g877eg7b1aa16b4615"
-msgid "| Owner's Intelligence Modifier |"
-msgstr "| 소유자의 지능 수정치 |"
-
-msgctxt "h843c4c24gff1cg448fgba73gb83f1a869659"
-msgid "| Owner's Constitution Modifier |"
-msgstr "| 소유자의 건강 수정치 |"
-
-msgctxt "hc929cd2dg775eg460ega01dg960bcb142cb2"
-msgid "| Owner's Wisdom Modifier |"
-msgstr "| 소유자의 지혜 수정치 |"
-
-msgctxt "h8b40cd09gb9a9g4984g9b19gd3a06a1ac72f"
-msgid "| Owner's Charisma Modifier |"
-msgstr "| 소유자의 매력 수정치 |"
 
 msgctxt "h91fe54feg4a54g4ce7gab45g40bb4576d666"
 msgid "Strength Skill"
@@ -3560,14 +3325,6 @@ msgstr "AP"
 msgctxt "h340eb272g7e61g4b98gb671gc41be609bfe3"
 msgid "SP"
 msgstr "SP"
-
-msgctxt "h3478fd51gb40bg4a9ega851g25a1b5e62ea5"
-msgid "|Doesn't need destub - Willpower|"
-msgstr "|Doesn't need destub - Willpower|"
-
-msgctxt "h9e592393gda0fg4841gb7eegbfa847582e82"
-msgid "|Doesn't need destub - Bodybuilding|"
-msgstr "|Doesn't need destub - Bodybuilding|"
 
 msgctxt "h7cb359afg02cbg465fgb6d6gaedb07eb4223"
 msgid "Recovery AP"
@@ -3961,10 +3718,6 @@ msgctxt "h0b55e55fg0b1dg4c92g899egca5204be3932"
 msgid "Immunity to [1]<br>"
 msgstr "[1]에 대한 면역<br>"
 
-msgctxt "h0ea4d07agd31cg4596g9103gdd6132044742"
-msgid "|being thrown by explosions.|"
-msgstr "|being thrown by explosions.|"
-
 msgctxt "hc1432764gb2c7g4fadgb30dg908945176f11"
 msgid "Immunity to [1].<br>"
 msgstr "[1]에 대한 면역.<br>"
@@ -3992,10 +3745,6 @@ msgstr "근접 무기 착용 필요<br>"
 msgctxt "habc84babg3ab9g41c7g8bc1gaef245c76b6a"
 msgid "No ranged weapon equipped<br>"
 msgstr "원거리 무기 착용 필요<br>"
-
-msgctxt "h2a2cc3d8g7b56g4c94ga4dege6bfa8121e66"
-msgid "|Doesn't need destub - Deprecated|"
-msgstr "|Doesn't need destub - Deprecated|"
 
 msgctxt "h68113473g94dag464cga7dcg8699b2c497d7"
 msgid "No bow or crossbow equipped.<br>"
@@ -4309,10 +4058,6 @@ msgctxt "h25d3151fg05edg41b3g93c0gafa115f513fb"
 msgid "Below Damage Threshold"
 msgstr "피해 임계값 미만"
 
-msgctxt "h77a4424eg1c39g46c5g9c75g8fb945b39de2"
-msgid "| Damage reduction |"
-msgstr "| Damage reduction |"
-
 msgctxt "h065c2fc4g4431g4891g833cg9493816a2bab"
 msgid "Attack Roll"
 msgstr "명중 굴림"
@@ -4469,14 +4214,6 @@ msgctxt "h6f430eb9g0671g4bc0g9d52g9bb0747a3292"
 msgid "Petrified"
 msgstr "석화"
 
-msgctxt "h6cc52f17g8ac3g442agbfb8g854b770b1fa8"
-msgid "| Polymorphed (Beast) |"
-msgstr ""
-
-msgctxt "h044f79fege3efg4829gbab4g082a14bf878d"
-msgid "| Helpable |"
-msgstr ""
-
 msgctxt "h25b8be77g170bg4fcag9ccfg610d7de9a667"
 msgid "Rage"
 msgstr "격노"
@@ -4503,14 +4240,6 @@ msgstr "혼란스러움"
 
 msgctxt "hc82a5cb0g05e4g45b3gbb97gfa0d96936289"
 msgid "Mad"
-msgstr ""
-
-msgctxt "h91c5dc1cgf1d3g4197g94d0g340ef31d7abf"
-msgid "| Detecting thoughts |"
-msgstr ""
-
-msgctxt "h131fa450g3969g42c7g868agbd515eff5ed2"
-msgid "| Difficult Terrain |"
 msgstr ""
 
 msgctxt "hdac4a008g7019g4a50g9887gc03eb73be9b4"
@@ -4740,10 +4469,6 @@ msgctxt "h15d1a799gc3b7g4818gb24eg85ba320af714"
 msgid "APRecovery"
 msgstr ""
 
-msgctxt "h47a1e1e8g2837g4f0eg9ca5g9f8713370dd0"
-msgid "|Doesn't need destub - Deprecated|"
-msgstr "|Doesn't need destub - Deprecated|"
-
 msgctxt "h41030e05g4b25g49a2gb65bg4c47e5b9dd6b"
 msgid "Weight"
 msgstr ""
@@ -4768,18 +4493,6 @@ msgctxt "h97b0bd51gc29fg46d4gaf85ged7a0b1518ff"
 msgid " or "
 msgstr " 또는 "
 
-msgctxt "h543d6afdg1767g41f0gb41dg4919349c41b8"
-msgid "| Attacker has total duration of [1] turn(s) of [2] Condition(s) |"
-msgstr ""
-
-msgctxt "h16d640d7gefe5g441bga229gd339f19404eb"
-msgid "| Target has total duration of [1] turn(s) of [2] Condition(s) |"
-msgstr ""
-
-msgctxt "h8ba61a21gfa26g4818g8fbcgbfb83d498bac"
-msgid "| Owner has total duration of [1] turn(s) of [2] Condition(s) |"
-msgstr ""
-
 msgctxt "h6fd7b5a6gb138g499cga85ag208ea784a690"
 msgid "Attacker has [1] [2] Condition(s)"
 msgstr ""
@@ -4787,26 +4500,6 @@ msgstr ""
 msgctxt "ha5f43ab2gb60ag466eg8fc0g0b83b3d64ae4"
 msgid "Target has [1] [2] Condition(s)"
 msgstr ""
-
-msgctxt "h6a8d1ea1gbcfdg44a4g96d4g3338d0ca5db2"
-msgid "|  Owner has [1] [2] Condition(s) |"
-msgstr "|  Owner has [1] [2] Condition(s) |"
-
-msgctxt "h824cba1fg2a25g4831g838egbaf3aa88a5c8"
-msgid "| [1] Level |"
-msgstr "| [1] Level |"
-
-msgctxt "hf4fae594g55e5g4f4bg9eacg1ca267667c14"
-msgid "| Target's [1] Level |"
-msgstr "| Target's [1] Level |"
-
-msgctxt "hee8e1c68g09f7g4f23gada1g79e75c607e18"
-msgid "| Owner's [1] Level |"
-msgstr "| Owner's [1] Level |"
-
-msgctxt "h06011027g3850g47eeg88a0g6df5305f4eb8"
-msgid "| [1] Level |"
-msgstr "| [1] Level |"
 
 msgctxt "h1d88581bg45e0g4e5dg8043g51e57faffc9e"
 msgid "Spellcasting Ability"
@@ -4816,10 +4509,6 @@ msgctxt "h7af575c5g9dcag4eb3g8b56g092e8b683f83"
 msgid "Target's Spellcasting Ability"
 msgstr ""
 
-msgctxt "h279199f6gda2bg4dc6gae8eg991780a1d7c1"
-msgid "| Owner's Spellcasting Ability |"
-msgstr "| Owner's Spellcasting Ability |"
-
 msgctxt "hcde008f4g257bg4839g8fbag92c9f2478682"
 msgid "Spellcasting Ability Modifier"
 msgstr ""
@@ -4828,17 +4517,9 @@ msgctxt "h36e6d4edg6a32g4cddgb8e7g6418a71a9740"
 msgid "Target's Spellcasting Ability Modifier"
 msgstr ""
 
-msgctxt "ha14b6b7fg818bg479cg88c5g3a47048142e1"
-msgid "| Owner's Spellcasting Ability Modifier |"
-msgstr "| Owner's Spellcasting Ability Modifier |"
-
 msgctxt "hc726a5f0gfc07g4d57ga112g35741b328da6"
 msgid "Target's Proficiency"
 msgstr ""
-
-msgctxt "h13067ca4g2a92g4bfbga0ccg4e46a93c99a5"
-msgid "| Owner's Proficiency |"
-msgstr "| Owner's Proficiency |"
 
 msgctxt "hd0189c57gdd5fg4657g86f9g8ccaaa8dc327"
 msgid "Level"
@@ -4848,10 +4529,6 @@ msgctxt "h7c488ae1gf05bg459egb8cbg4afd045be6b3"
 msgid "Target's Level"
 msgstr ""
 
-msgctxt "h61962f3bg58e1g4eecg9749g8320dbc379e2"
-msgid "| Owner's Level |"
-msgstr "| Owner's Level |"
-
 msgctxt "h2cf755b2g0446g4d2ag9f4ag74062555d18f"
 msgid "Spell Save DC"
 msgstr ""
@@ -4859,10 +4536,6 @@ msgstr ""
 msgctxt "hbe2c31d2gcf6cg47bcgb399ge7538a906fa1"
 msgid "Target's Spell Save DC"
 msgstr ""
-
-msgctxt "h7218ad79gd670g463ag9089g41d3feb96691"
-msgid "| Owner's Spell Save DC |"
-msgstr "| Owner's Spell Save DC |"
 
 msgctxt "hfd529e8dgf889g4c68g84aagad6427bad8ae"
 msgid "Weapon Action DC"
@@ -4872,10 +4545,6 @@ msgctxt "h29dbedf8gb16eg4568ga58agd4fea3030eef"
 msgid "Target's Weapon Action Difficulty Class"
 msgstr ""
 
-msgctxt "ha5930bbeg33fdg4f40g8d62gade8f3136716"
-msgid "| Owner's Weapon Action DC |"
-msgstr "| Owner's Weapon Action DC |"
-
 msgctxt "h2b326145g369cg49b0g9a2cg13959be07bc8"
 msgid "Unarmed Ability Modifier"
 msgstr ""
@@ -4883,10 +4552,6 @@ msgstr ""
 msgctxt "ha6f5e5acgccf2g4295gb1d9gc8d4567d4bca"
 msgid "Target's Unarmed Ability Modifier"
 msgstr ""
-
-msgctxt "h5279c922g19c7g4168g9c83g39d1d2ec74a2"
-msgid "| Owner's Unarmed Ability Modifier |"
-msgstr "| Owner's Unarmed Ability Modifier |"
 
 msgctxt "h344c66d5g5b96g4762ga10bg7e1f337b9f1f"
 msgid "Current Hit Points"
@@ -4907,10 +4572,6 @@ msgstr ""
 msgctxt "h54e1517fgec81g48dfgb0ccg37f1ec87c744"
 msgid "Target's Maximum Hit Points"
 msgstr ""
-
-msgctxt "hc017a45eg5c63g4348gb5edgd2f10caac811"
-msgid "| Owner's Maximum Hit Points |"
-msgstr "| Owner's Maximum Hit Points |"
 
 msgctxt "hea02c099g1f5fg46d1ga53cgb1039834594e"
 msgid "Spell Level"
@@ -5342,10 +5003,6 @@ msgctxt "hc1bde738g4958g40e5ga060gd9001368f1e7"
 msgid "Concentration Saving Throw"
 msgstr ""
 
-msgctxt "he35f4f39gd89fg4ee0gac2ega7f19a487d68"
-msgid "| Dispel Magic Check |"
-msgstr ""
-
 msgctxt "h4e244836g1337g4ab9g91b5gac4a77471ac9"
 msgid "[1]d[2][3][4]"
 msgstr "[1]d[2][3][4]"
@@ -5493,18 +5150,6 @@ msgstr "동료가 턴제 모드 중일 때는 긴 휴식을 할 수 없습니다
 msgctxt "hcdf4e5c3g28a1g4c31g8568g60f3b3b62416"
 msgid "It is not possible to do a Short Rest right now."
 msgstr "지금은 짧은 휴식을 할 수 없습니다."
-
-msgctxt "hfdd51bd3gc7b6g481agad10g40afb54f0a05"
-msgid ""
-"| Character cannot start a performance near to another perfromance taking "
-"place |"
-msgstr ""
-"| Character cannot start a performance near to another perfromance taking "
-"place |"
-
-msgctxt "h090109ddg03c9g4ad7g8205ga89488133d3e"
-msgid "| Reached limit of performance playing in the world |"
-msgstr "| Reached limit of performance playing in the world |"
 
 msgctxt "h5919d0d9g1747g49a4g986dg255ee3e307c4"
 msgid "Quicksave successful!"
@@ -6845,10 +6490,6 @@ msgctxt "h8e991ed8gb528g4a12gaa8fg7e8bd6740c35"
 msgid "Throw damage boosted"
 msgstr ""
 
-msgctxt "ha1f5a262g20d6g44fegbf9fgcd9023a800ca"
-msgid "| Damage Bonus |"
-msgstr ""
-
 msgctxt "h10c41cc4g3298g4b43ga78fgc7bfe1111849"
 msgid "[1], Repeated [2] Time(s)"
 msgstr ""
@@ -7076,10 +6717,6 @@ msgid ""
 "otherwise."
 msgstr ""
 
-msgctxt "h915b24f2gd95bg47cfg992dg8dbcb2954665"
-msgid "|Race Passives|"
-msgstr ""
-
 msgctxt "ha44392d7g8bddg48b3gb92cg2a49baee95ea"
 msgid "Class Passives"
 msgstr ""
@@ -7095,22 +6732,6 @@ msgstr ""
 msgctxt "hd8f1acdbg0813g4950gab51g4e2ec13d9c0b"
 msgid "Proficiency with [1]"
 msgstr ""
-
-msgctxt "h5c669db7g06ffg4540g99ffg8521ec48bab0"
-msgid "| Has Any Spells |"
-msgstr "| Has Any Spells |"
-
-msgctxt "hc72a24a6g081ag4ac2g9a95g466b27d877b8"
-msgid "| Race Equipment |"
-msgstr "| Race Equipment |"
-
-msgctxt "h3d4dd8d4gb900g496cga8d0gf2c971a64383"
-msgid "| Class Equipment |"
-msgstr "| Class Equipment |"
-
-msgctxt "hcf94b067g951ag4059g9d20gb6bd0d34f463"
-msgid "| Select Feat Equipment |"
-msgstr "| Select Feat Equipment |"
 
 msgctxt "h7f9e385eg62afg4e1egbabbga8f5c4aec9c4"
 msgid "Items"
