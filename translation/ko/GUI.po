@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-19 09:17+0000\n"
-"Last-Translator: 윤준혁 <nick0406@naver.com>\n"
+"PO-Revision-Date: 2023-01-19 17:32+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -332,7 +332,7 @@ msgstr "산성"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:840
 msgctxt "h24650d5cgd8afg46e7ga817g87a20ae8da3d"
 msgid "Thunder"
-msgstr "음파"
+msgstr "천둥"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates.xaml:89
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:843
@@ -374,7 +374,7 @@ msgstr "독"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:861
 msgctxt "h97e5a269gf0ecg4481g9ccbge4a60aadfcaa"
 msgid "Radiant"
-msgstr "빛"
+msgstr "광휘"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates.xaml:110
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:864
@@ -1315,7 +1315,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1111
 msgctxt "hb4f4053bg6a73g4eb6gb641g0b835bc3fecf"
 msgid "Inherited Skills"
-msgstr "물려받은 기술"
+msgstr "고유 기술"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1011
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1116
@@ -4656,7 +4656,7 @@ msgstr "연금술 용액"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7244
 msgctxt "h7660812bg5518g4b67g8fbdg835faf6ef636"
 msgid "Equipped by [1]"
-msgstr "다음으로 장착됨 : [1]"
+msgstr "현재 [1] 착용 중"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7258
 msgctxt "h4333422eg15d9g4c6egbfbeg9f06915940d1"
@@ -6931,12 +6931,12 @@ msgstr "거래"
 #: Game/Public/Game/GUI/Widgets/Trade_c.xaml:699
 msgctxt "hd4ebf395gca4fg40e5gbc16gf9b31778850a"
 msgid "Barter"
-msgstr "흥정"
+msgstr "물물교환"
 
 #: Game/Public/Game/GUI/Widgets/Trade.xaml:558
 msgctxt "h7d99f468gd1ddg42c4gaf52g7757aadfdcc4"
 msgid "Your offer is insufficient. Change your offer to continue bartering."
-msgstr "제시한 액수가 불충분합니다. 흥정을 계속하려면 몫을 변경하세요."
+msgstr "제시한 액수가 불충분합니다. 거래를 계속하려면 몫을 변경하세요."
 
 #: Game/Public/Game/GUI/Widgets/Trade.xaml:699
 msgctxt "hcb2f0ae8g4b71g475bgbf9bgb026d2d5cdcb"
