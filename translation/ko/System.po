@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 22:52+0900\n"
-"PO-Revision-Date: 2023-01-18 15:52+0000\n"
-"Last-Translator: 겐쥐킹 <a8675309@naver.com>\n"
+"PO-Revision-Date: 2023-01-19 09:17+0000\n"
+"Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/system/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -679,11 +679,11 @@ msgstr "[3] 님이 [2] 에게서 [1] 가져감"
 
 msgctxt "h0348da17gacb6g4dc5ga8d1g96588e5a2584"
 msgid "and <br>[1] from [2] using magic pockets."
-msgstr ""
+msgstr "또한 <br>마법의 주머니로 [2] 로부터 [1] 을(를) 가져감."
 
 msgctxt "h0b6701c5g93d0g4507ga58cg2e960db8ff8a"
 msgid ", <br>[1] from [2]"
-msgstr ""
+msgstr ", <br>[2] 로부터 [1]"
 
 msgctxt "h2e4e21e9g93fbg4f93g9002ga4b805dde5c2"
 msgid "Shared Stash"
@@ -792,30 +792,29 @@ msgctxt "ha5a28174g9f8bg4167ga1e7ga33b785f37c4"
 msgid "Level with name '[1]' was not found!"
 msgstr "'[1]'이라는 이름의 레벨을 찾을 수 없습니다!"
 
-#, fuzzy
 msgctxt "h9d5e6a4dgd36bg4578ga8d3ga8746a2044d7"
 msgid "[1] was refreshed"
-msgstr "다음이 갱신되었습니다 : [1]"
+msgstr "[1] 갱신됨"
 
 msgctxt "h64dfc346ga614g4df9gbd15g2cd152c83873"
 msgid "[1] was removed by [2]"
-msgstr ""
+msgstr "[2] 에 의해 [1] 제거됨"
 
 msgctxt "ha8e41c4dga85eg4fbcg926bg36c3298d654a"
 msgid "[1] was removed"
-msgstr ""
+msgstr "[1] 제거됨"
 
 msgctxt "hf866dbebgab10g4913g8d4agaff311049d22"
 msgid "Slipping"
-msgstr "수면"
+msgstr "미끄러짐"
 
 msgctxt "h299659abg4020g41eeg8ca6gca1432d7e7c5"
 msgid "surface hazards."
-msgstr ""
+msgstr "표면 위험."
 
 msgctxt "h21913bd9g90c8g45b6gabf1g82cbaa2d3740"
 msgid "elemental clouds."
-msgstr ""
+msgstr "원소 구름."
 
 msgctxt "h5574bd84g0bd6g4e95g8dadgd275887eabaf"
 msgid "|explosions.|"
@@ -823,7 +822,7 @@ msgstr "|explosions.|"
 
 msgctxt "h26acd640gfd8ag4af2gb56cgbdd9ca8a54b6"
 msgid "Cannot turn Invisible."
-msgstr "투명화될 수 없습니다."
+msgstr "투명화 불가."
 
 msgctxt "h50f68d4egcba4g4bf7gb8dega93c1e1575b1"
 msgid "backstab."
@@ -831,11 +830,11 @@ msgstr "배후 공격."
 
 msgctxt "hac7cca96gd0dfg4391gb188gc53fd12cb6a5"
 msgid "<LSTag Tooltip=\"Immune\">Immune</LSTag> to [1]"
-msgstr "[1]에 <LSTag Tooltip=\"Immune\">면역</LSTag>"
+msgstr "[1] <LSTag Tooltip=\"Immune\">면역</LSTag>"
 
 msgctxt "h42f3dbdcgccd7g4572gbdf9g900e9364f377"
 msgid "Fumbled"
-msgstr ""
+msgstr "더듬거림"
 
 msgctxt "ha0eca831g2e16g463fgb80fg09f33092c2ee"
 msgid "[1] on applying [2]"
@@ -843,11 +842,11 @@ msgstr ""
 
 msgctxt "hed8f572bg4816g47bbg852fg2f3d70784c04"
 msgid "Incompatible with [1]"
-msgstr ""
+msgstr "다음과 호환되지 않음 : [1]"
 
 msgctxt "hb6410d9fg30bbg4fdag8c66ga8e67a66afc5"
 msgid "[1] not high enough"
-msgstr ""
+msgstr "다음이 충분하지 않음 : [1]"
 
 msgctxt "h826971d7gc2c1g4081g96e8gc6f0b5606ebb"
 msgid "Incompatible with [1] [2]"
@@ -855,35 +854,35 @@ msgstr ""
 
 msgctxt "ha3189283gf864g4f36gab2ag1cc45fc0629c"
 msgid "Missing [1] [2]"
-msgstr ""
+msgstr "[1] [2] 없음"
 
 msgctxt "h9a3e8aeagac57g4f78gb8edg9932004b3020"
 msgid "All Heroes get [1]"
-msgstr ""
+msgstr "모든 영웅이 [1] 획득"
 
 msgctxt "h3138c32fga3beg4254g8232g40dd14cd8fad"
 msgid "All Characters get [1]"
-msgstr ""
+msgstr "모든 캐릭터 [1] 획득"
 
 msgctxt "h3653d04bg590fg4aabgb92fg0af2d81a1d0d"
 msgid "[1] has been slain!"
-msgstr "[1]을 처치함!"
+msgstr "[1] 처치!"
 
 msgctxt "h48354645g13e8g4cb9gbc42gbbb447f5a406"
 msgid "This Round: [1]"
-msgstr ""
+msgstr "이번 라운드: [1]"
 
 msgctxt "h18a4d9e9g26f0g462fgb27eg03c90c64ebfc"
 msgid "Next Round: [1]"
-msgstr ""
+msgstr "다음 라운드: [1]"
 
 msgctxt "hbadf5c5fgeaceg4273ga985gbefdfee60ee9"
 msgid "In [1] Rounds: [2]"
-msgstr ""
+msgstr "[1] 라운드 안에: [2]"
 
 msgctxt "h5c0fd2f0g12dfg435dgab4egcba9c30e9703"
 msgid "Some spell requirements are invalid and have been unmemorised."
-msgstr ""
+msgstr "일부 주문의 요구사항이 유효하지 않으며 기억된 주문에서 제거되었습니다."
 
 msgctxt "h3f133a1bg6a86g425eg9f5fg27f8cec6702b"
 msgid "Master volume"
@@ -911,7 +910,7 @@ msgstr "스피커 구성"
 
 msgctxt "h70dd4817g4b8eg4c9egb8dbg08622acaf6f9"
 msgid "Headphones"
-msgstr "헤드셋"
+msgstr "헤드폰"
 
 msgctxt "hb40b7157gf953g40deg9770gb0e987bde1d5"
 msgid "Stereo Speakers"
@@ -937,7 +936,7 @@ msgctxt "hd18f2ceag9142g4724ga6e2gae11d86d4531"
 msgid ""
 "Helpful when trying to not disturb people around you. Reduces the dynamic "
 "range and lowers louder sounds, while maintaining a clear audio."
-msgstr "주변 사람들을 방해하지 않으려고 할 때 도움이 됩니다. 동적 범위가 감소하고 큰 소리를 줄이면서도 맑은 음향을 유지합니다."
+msgstr "주변 사람들을 방해하지 않으려고 할 때 도움이 됩니다. 다이나믹 레인지가 감소하고 큰 소리를 줄이면서도 맑은 음향을 유지합니다."
 
 msgctxt "h43456c76g01b5g4a6cg89a8g2b44fecaaf80"
 msgid "Mute sound when inactive"
@@ -977,27 +976,27 @@ msgstr "공개"
 
 msgctxt "h2d0c1120g4202g414dg9b9bg2e5e73e2b1aa"
 msgid "Equipment"
-msgstr ""
+msgstr "장비"
 
 msgctxt "ha9b9119fga6c1g44d6ga594g06661a275ee1"
 msgid "Consumables"
-msgstr ""
+msgstr "소모품"
 
 msgctxt "h19daaa91gecafg451dgb193g29c64273332f"
 msgid "Ingredients"
-msgstr ""
+msgstr "재료"
 
 msgctxt "h3206d347ge18eg4123g8da5g057753be0d22"
 msgid "Books and Keys"
-msgstr ""
+msgstr "책과 열쇠"
 
 msgctxt "hb8ed2061ge5a3g4f64g9d54g9a9b65e27e1e"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "기타"
 
 msgctxt "h312452fbg64ddg44d0gaab4g5e3ed03689be"
 msgid "Wares"
-msgstr ""
+msgstr "판매품"
 
 msgctxt "h2c8be5afg46d0g40e0g9cecg38125c187f5b"
 msgid "Buy Back"
@@ -1037,7 +1036,7 @@ msgstr ""
 
 msgctxt "he30f9c87g9381g4d69g8bd8g97a2022540b7"
 msgid "[1]h [2]m"
-msgstr ""
+msgstr "[1]시간 [2]분"
 
 msgctxt "ha020d932g69e4g4957g998dg9204aa232200"
 msgid "[1]:[2]"
@@ -1045,27 +1044,27 @@ msgstr "[1]:[2]"
 
 msgctxt "ha62b3d12gd6a3g4da2gb4f9g8785f36f3130"
 msgid "Not enough Movement!"
-msgstr ""
+msgstr "이동력이 부족합니다!"
 
 msgctxt "hb22c6ec1gf189g453aga095gcb88e8c69f0b"
 msgid "Can't move!"
-msgstr ""
+msgstr "움직일 수 없습니다!"
 
 msgctxt "ha9156ca2g7912g462cgab60gda4ada5938ce"
 msgid "Can't reach destination."
-msgstr ""
+msgstr "해당 위치에 도달할 수 없습니다."
 
 msgctxt "h88f65c7eg61abg43e0gaf31g2b5f2b7c269d"
 msgid "Can't see!"
-msgstr ""
+msgstr "시야가 없습니다!"
 
 msgctxt "h46cffd65g9a1bg46b9gb556ge58706ba2573"
 msgid "Character is disarmed!"
-msgstr ""
+msgstr "캐릭터가 무장해제된 상태입니다!"
 
 msgctxt "he623e91dga8a9g4795g8caag58e8a8a08385"
 msgid "Too high"
-msgstr ""
+msgstr "너무 높음"
 
 msgctxt "h0e6654d6g2dbeg4821g9a81g106c1e5f5b3f"
 msgid "Target is invalid."
@@ -1073,11 +1072,11 @@ msgstr "잘못된 대상입니다."
 
 msgctxt "h598217dege9e8g4e21gaf36g3ae186d20aa7"
 msgid "Ladder is blocked."
-msgstr ""
+msgstr "사다리가 가로막혀있습니다."
 
 msgctxt "h89dbdaf9g61bdg4246g82fag8e432a286751"
 msgid "Wand is out of charges."
-msgstr ""
+msgstr "완드의 충전 횟수가 바닥났습니다."
 
 msgctxt "hdfbc0f44g7f3dg4985g9621g25cba41922e0"
 msgid "Target is out of sight."
@@ -1085,19 +1084,19 @@ msgstr "대상이 시야에 없습니다."
 
 msgctxt "h1fbffe74g605cg4684gbdaegeef32111b83b"
 msgid "Your current shape does not allow you do this."
-msgstr ""
+msgstr "현재 형상으로는 해당 행동을 할 수 없습니다."
 
 msgctxt "h893148f2g2c22g42ffg88b6gb1cdbf40d4eb"
 msgid "Position is invalid!"
-msgstr ""
+msgstr "유요하지 않은 위치입니다!"
 
 msgctxt "h5b51dd18g8fd4g4844g8eccg51b50a68874a"
 msgid "Too steep!"
-msgstr ""
+msgstr "너무 가파릅니다!"
 
 msgctxt "he58e876dgd428g4215ga86eg2f83019094e2"
 msgid "Not enough space"
-msgstr ""
+msgstr "공간 부족"
 
 msgctxt "he0840263gdc1eg4154gad43g533e25ac2c72"
 msgid "Not enough Strength!"
@@ -1153,11 +1152,11 @@ msgstr "| 당신의 아바타 중 하나가 하루를 마칠 수 있는 상태�
 
 msgctxt "hf0e9624fg0dd7g4af7g8613g3f89ffe36df5"
 msgid "Heavily Encumbered - cannot climb."
-msgstr ""
+msgstr "심각한 과적 상태입니다 - 오를 수 없습니다."
 
 msgctxt "h7b0dada9g9beag484fgaefegd29a53084487"
 msgid "Heavily Encumbered - cannot pick up."
-msgstr ""
+msgstr "심각한 과적 상태입니다 - 주울 수 없습니다."
 
 msgctxt "h1fb99de8ga2edg4649gaf30g79c6cbc49846"
 msgid "Can't consume items."
@@ -1261,7 +1260,7 @@ msgstr "대상이 너무 무겁습니다."
 
 msgctxt "h20c735e1gd50fg48fcga6bfg1eef99eadf58"
 msgid "Already targeted! "
-msgstr ""
+msgstr "이미 대상을 선택했습니다! "
 
 msgctxt "hfd62bbe7ge0e9g4d02ga549g05715f75871e"
 msgid "Default online settings"
@@ -1353,11 +1352,11 @@ msgstr "아바타"
 
 msgctxt "had63c0f1g35e3g4e8bg9df6gc9bd627f0bcb"
 msgid "Restore"
-msgstr ""
+msgstr "복원"
 
 msgctxt "hc4e1783fg4ebbg4e63g8da3ga62957f23f51"
 msgid "Off"
-msgstr ""
+msgstr "비활성"
 
 msgctxt "h54a1d071g742ag4acaga263g4191c8ef9944"
 msgid "Camera options"
@@ -1369,11 +1368,11 @@ msgstr "창에 마우스 가두기"
 
 msgctxt "h1d070bc1g7d7cg4b4fg9938ga19da5b703bd"
 msgid "Edge panning"
-msgstr ""
+msgstr "마우스로 화면 이동하기"
 
 msgctxt "h34f0c0c7g6e2cg40a4gb983g0b7e16890ad4"
 msgid "Panning speed"
-msgstr ""
+msgstr "화면 이동 속도"
 
 msgctxt "h958d530cgdf97g4066g97beg5b9bdb1a3295"
 msgid "Dynamic combat camera"
@@ -1437,7 +1436,7 @@ msgstr "활성화하면 중요한 개념들을 설명하는 대화식 튜토리�
 
 msgctxt "h976cb493g6e5fg4bb4gab9fg727c4bec6c6f"
 msgid "UI Scaling"
-msgstr ""
+msgstr "UI 스케일링"
 
 msgctxt "hf18dfb23g4feag4ddbgac86gee9e736ecfb9"
 msgid ""
@@ -1453,7 +1452,7 @@ msgctxt "h63fd2a31g66a1g4ffagabd6g62573f7a8968"
 msgid ""
 "When to show all the information contained in the action and spell tooltips, "
 "including a more detailed explanation and additional rules."
-msgstr ""
+msgstr "언제 행동 및 주문 툴팁에 더 자세한 설명과 추가 규칙을 설명할지 고릅니다."
 
 msgctxt "h800188c2gea8bg4c39ga83fg751e339e0e75"
 msgid "Dialogue Options"
@@ -1501,29 +1500,29 @@ msgstr "대사 문자 크기를 조절합니다."
 
 msgctxt "h932b9445g99acg4390ga4baga731c8a70ee2"
 msgid "Overhead Text Options"
-msgstr ""
+msgstr "캐릭터 머리 위 텍스트 옵션"
 
 msgctxt "hee3ce860g993eg442ega84cg8b72e535d1b8"
 msgid "Show text background"
-msgstr ""
+msgstr "문자 배경 표시"
 
 msgctxt "h753c5decg8b73g4da6ga64dgea2e6f61dd21"
 msgid ""
 "Add a background to overhead text, such as passive rolls, NPC conversations "
 "and party banter."
-msgstr ""
+msgstr "패시브 굴림, NPC 대화나 파티 잡담과 같은 캐릭터 머리 위 텍스트에 배경을 추가합니다."
 
 msgctxt "h07f3c0d7gc4e4g4df7g9a5ega9bce9d206c1"
 msgid "Adjust the opacity of the overhead text background."
-msgstr ""
+msgstr "캐릭터 머리 위 텍스트 배경의 투명도를 조절합니다."
 
 msgctxt "h56a5d2ddgb980g4ba9g8054g1563d973d8ec"
 msgid "Adjust the size of the overhead text."
-msgstr ""
+msgstr "캐릭터 머리 위 텍스트의 크기를 조절합니다."
 
 msgctxt "h394745d2g06d5g4967g950egc88f2ae4dbdd"
 msgid "Bottom Bar Options"
-msgstr ""
+msgstr "하단 바 옵션"
 
 msgctxt "he61d89dfg1047g49dbg98d4gf84adae4d69d"
 msgid "Auto-remove spells from bar"
@@ -1539,19 +1538,19 @@ msgstr "소모품 자동 추가"
 
 msgctxt "h6592ad60g1d60g40c6gb021g06971922c14b"
 msgid "Auto-add containers to bar"
-msgstr ""
+msgstr "용기 자동 추가"
 
 msgctxt "he1ecc854g7e45g43f6ga4e5g9ad46c40ce31"
 msgid "Auto-add missiles to bar"
-msgstr ""
+msgstr "탄약 자동 추가"
 
 msgctxt "he1789fc8g9353g4075ga1fbg99bcaffa480e"
 msgid "Auto-add potions to bar"
-msgstr ""
+msgstr "물약 자동 추가"
 
 msgctxt "h021357d1g12a3g4e5egac45g41e662b419b8"
 msgid "Auto-add scrolls to bar"
-msgstr ""
+msgstr "두루마리 자동 추가"
 
 msgctxt "h4cf8d62dg5fb2g487cga993g93b273cfaf51"
 msgid "Auto-add spells to bar"
@@ -1559,7 +1558,7 @@ msgstr "주문 자동 추가"
 
 msgctxt "h77ef256ag7ebag4ba2ga251ge4903930ea41"
 msgid "Auto-add usables to bar"
-msgstr ""
+msgstr "사용 가능한 아이템 자동 추가"
 
 msgctxt "hf8a229bfg7684g4aa7g975dg6170ba4fffc8"
 msgid "Auto-add torches to bar"
@@ -1571,20 +1570,20 @@ msgstr "거래 옵션"
 
 msgctxt "hd824875dgd86dg4847g9798ge9def668b091"
 msgid "Always show item stack splitter"
-msgstr ""
+msgstr "항상 아이템 더미 분리 창 표시"
 
 msgctxt "hae71d70cg95e8g452agb539gbfc451e7320e"
 msgid ""
 "Display the stack splitter UI when you select a stack of items while trading."
-msgstr ""
+msgstr "거래 중에 아이템 더미를 선택하면 항상 아이템 더미 분리 UI를 표시합니다."
 
 msgctxt "h2d46d8dfg790eg4989gb0eeg767933f34fc6"
 msgid "Keybinding options"
-msgstr ""
+msgstr "키 설정"
 
 msgctxt "hfd2d90f9gbb28g4d72gb2dagc0945b4198cd"
 msgid "Fullscreen display"
-msgstr ""
+msgstr "전체화면 표시"
 
 msgctxt "h521c61edga758g4cc3g98cag589cd29dcec1"
 msgid "Resolution"
@@ -1592,7 +1591,7 @@ msgstr "해상도"
 
 msgctxt "h94173264g76bfg4d72gbfeag22c15f4b0959"
 msgid "Display mode"
-msgstr ""
+msgstr "표시 모드"
 
 msgctxt "h25a9a3b8g4eebg4022g8421gda2256a0e2f3"
 msgid "Windowed"
@@ -1604,7 +1603,7 @@ msgstr "전체 화면"
 
 msgctxt "h4bebc375ga328g4ffdg9db2g776521184258"
 msgid "Fake fullscreen"
-msgstr ""
+msgstr "가짜 전체 화면"
 
 msgctxt "h3b5033d0gbd95g4d6fgbcdbgd1973aa0c042"
 msgid "VSync"
@@ -1626,31 +1625,31 @@ msgctxt "h6a22fc48g8927g486fg87ddg6a066c3bd1f7"
 msgid ""
 "Synchronizes game frame rate with monitor refresh rate. Reduces screen "
 "tearing."
-msgstr ""
+msgstr "게임의 해상도를 모니터의 해상도와 동기화시킵니다. 화면 찢어짐을 감소시켜줍니다."
 
 msgctxt "h1094282ag54bag418fg8710g620c9af8377c"
 msgid "Framerate cap enabled"
-msgstr ""
+msgstr "최대 프레임률 활성화"
 
 msgctxt "h9f9289fdg16e5g46c6g9f98gda68b32f4f99"
 msgid "Framerate cap"
-msgstr ""
+msgstr "프레임률 제한"
 
 msgctxt "h1f3ca1bdgbc37g4218g921eg6b754013a5d6"
 msgid "HDR calibration"
-msgstr ""
+msgstr "HDR 보정"
 
 msgctxt "h39dabc1agf371g41ffg94ccge4cecea8645a"
 msgid "Peak brightness"
-msgstr ""
+msgstr "최대 밝기"
 
 msgctxt "hb0164df6g853ag4991g9d32g5dd0da1d9e24"
 msgid "Paperwhite"
-msgstr ""
+msgstr "페이퍼화이트"
 
 msgctxt "h2b8b144cg607ag4291g8a41g5f25e0545f6a"
 msgid "Contrast"
-msgstr ""
+msgstr "대비"
 
 msgctxt "he2eab376gc374g4772g8be3g6848f0fad530"
 msgid "Very low"
@@ -1662,15 +1661,15 @@ msgstr "울트라"
 
 msgctxt "hb49048d0g9ea7g4786gb96bga7d9bc2be25b"
 msgid "Overall quality"
-msgstr ""
+msgstr "전체 품질"
 
 msgctxt "hc1f4c1d7g840fg44fdgad70gc5aab14dfc52"
 msgid "Overall preset"
-msgstr ""
+msgstr "전체 사전 설정"
 
 msgctxt "h0d44d229g8e5fg4e1cg8062g7c85bcc38026"
 msgid "Custom"
-msgstr ""
+msgstr "사용자 설정"
 
 msgctxt "hb4a1d32bg7622g4d6egaad7g02304520f64f"
 msgid "Auto-detect"
@@ -1678,7 +1677,7 @@ msgstr "자동 감지"
 
 msgctxt "hdeb87f69g289dg4ba3ga7a0g9a89f0c82112"
 msgid "General"
-msgstr ""
+msgstr "일반"
 
 msgctxt "hffaf25e3gc292g460dgb2bagb43c523b7faa"
 msgid "Model quality"
@@ -1952,6 +1951,8 @@ msgid ""
 "host to free two character slots or recruit more characters, then try "
 "joining again."
 msgstr ""
+"세션에 조작할 수 있는 캐릭터가 충분하지 않습니다. 호스트에게 두 개의 캐릭터 슬롯을 해제하거나 더 많은 캐릭터를 모집하도록 요청한 뒤 "
+"다시 참여를 시도하십시오."
 
 msgctxt "he9ae11d8gf9d4g4540ga338gea6140ee53c5"
 msgid "That game no longer exists!"
@@ -1971,51 +1972,51 @@ msgstr "중단됨."
 
 msgctxt "h6f529258g53e7g45f5gb475gac35ed577198"
 msgid "Restrained"
-msgstr ""
+msgstr "제한됨"
 
 msgctxt "he88e9131ga753g4816g9e50g3b8fd72f2a80"
 msgid "Gateway teleportations remaining: [1]"
-msgstr ""
+msgstr "게이트웨이 순간이동 전여 횟수: [1]"
 
 msgctxt "h8fca86b5g210ag4b9dgb85bg870f2a6ce307"
 msgid "Offer price"
-msgstr ""
+msgstr "제시 가격"
 
 msgctxt "h7b5ddf16g3829g4733gbf1cg173c79d2c9f8"
 msgid "Buy price"
-msgstr ""
+msgstr "구매 가격"
 
 msgctxt "h55e5ec72g331dg4dc9g9532g4a68ba0bc2a3"
 msgid "Gold"
-msgstr ""
+msgstr "금화"
 
 msgctxt "h48996bdcg4645g4a2bga2f6gf53408ba9cff"
 msgid "Identify price"
-msgstr ""
+msgstr "가격 확인"
 
 msgctxt "h986fdc45gcb62g460ag96c1g7f39e64e2f26"
 msgid "Repair price"
-msgstr ""
+msgstr "수리 가격"
 
 msgctxt "he5a2e238gb18eg46c2ga737gafeb9d9f7fc1"
 msgid "Use"
-msgstr ""
+msgstr "사용"
 
 msgctxt "h4cc37533gd21eg4bc8g950fg517b46d61393"
 msgid "Consume"
-msgstr ""
+msgstr "소비"
 
 msgctxt "h6f4a29a6gac14g42c7gae13gc4b19b97dff8"
 msgid "Sit"
-msgstr ""
+msgstr "앉기"
 
 msgctxt "h995b0201g4d5dg400agbf4fg403d11a1da0f"
 msgid "Lie"
-msgstr ""
+msgstr "눕기"
 
 msgctxt "hc577aa71g9716g4e4eg98c1gf79fe2635b72"
 msgid "Restrain"
-msgstr ""
+msgstr "묶기"
 
 msgctxt "hf156179cga2c8g4758ga607g0658ee292674"
 msgid "Open"
@@ -2039,19 +2040,19 @@ msgstr "주문 배우기"
 
 msgctxt "hda30c406g0198g4f3fga4fbg7fcb956aee54"
 msgid "Combine"
-msgstr ""
+msgstr "조합하기"
 
 msgctxt "h0acc9290g8cc1g45cdg9944g93a5f7a7382c"
 msgid "Insert Item(s)"
-msgstr ""
+msgstr "아이템(들)을 삽입"
 
 msgctxt "h4faee8c5g3f5fg4b70gb49bgd7b0ae8e0f8d"
 msgid "Equip"
-msgstr ""
+msgstr "장착"
 
 msgctxt "h424198c9gf1abg4cf4ga5b7g9181645cc54c"
 msgid "Cast spell"
-msgstr ""
+msgstr "주문 시전"
 
 msgctxt "hf3e36f02gc53eg4499g93ffg12a60fb50555"
 msgid "Throw Grenade"
@@ -2059,47 +2060,47 @@ msgstr "수류탄 투척"
 
 msgctxt "h8ce5f329g13fcg4849ga5ccg4ab86696cb1e"
 msgid "Shoot Arrow"
-msgstr ""
+msgstr "화살 발사"
 
 msgctxt "h89bd24cegc8c6g4112g87bagc1c1df3df57b"
 msgid "[1]/[2] projectiles"
-msgstr ""
+msgstr "[1]/[2] 번째 투사체"
 
 msgctxt "h80de8e03gca3ag44d3g9f6bg0e9a661e9b21"
 msgid "Can't be teleported: ([1])"
-msgstr ""
+msgstr "순간이동 될 수 없음: ([1])"
 
 msgctxt "h0e19cd91gf5e4g4937g8696g83f15e719dd9"
 msgid "Non-Teleportable"
-msgstr ""
+msgstr "순간이동 불가능"
 
 msgctxt "hc6e0a601gbb07g4361g85aegec1473605407"
 msgid "Grounded"
-msgstr ""
+msgstr "접지됨"
 
 msgctxt "hf2ac3c8dg4847g4422gb553g167b46cd5575"
 msgid "Entangled"
-msgstr ""
+msgstr "뒤얽힘"
 
 msgctxt "h8f9e4716g7749g45eag967egd009c563c227"
 msgid "Fortified"
-msgstr ""
+msgstr "요새화됨"
 
 msgctxt "hfc001d70gaff3g4f6eg9517g55e11fa7ce51"
 msgid "Petrified"
-msgstr ""
+msgstr "석화됨"
 
 msgctxt "h462b926agd962g4f06ga705g9618cf69f1c0"
 msgid "Enwebbed"
-msgstr ""
+msgstr "거미줄에 묶임"
 
 msgctxt "h4ee3b831gaa15g478cgb717gc43008ad28b0"
 msgid "Target cannot be resurrected."
-msgstr ""
+msgstr "대상은 부활될 수 없습니다."
 
 msgctxt "hda004cc7g02e0g444ag83a8ga5422da5d80f"
 msgid "Target is invalid"
-msgstr ""
+msgstr "올바른 대상이 아님"
 
 msgctxt "h661a179bg9272g40c0g97begdd9a75375b4e"
 msgid "Choose target to resurrect."
@@ -2107,19 +2108,19 @@ msgstr "부활시킬 대상을 선택하십시오."
 
 msgctxt "h1c17f4a2g9f90g4765g8c98g4ed43b2e0125"
 msgid "Choose target to teleport."
-msgstr ""
+msgstr "순간이동시킬 대상을 선택하십시오."
 
 msgctxt "h13bb484ag7862g4cf9ga59agc2c9c3acf72b"
 msgid "Choose teleport destination."
-msgstr ""
+msgstr "순간이동 목적지를 선택하십시오."
 
 msgctxt "h23ecb62dgd6eeg4ce4g8a0cg8f970e4a947f"
 msgid "Choose destination."
-msgstr ""
+msgstr "목적지를 선택하십시오."
 
 msgctxt "hfdc69928g9611g49e0gbaa3gcf05a9b07a6a"
 msgid "Attitude [1] [2][3]"
-msgstr ""
+msgstr "태도 [1] [2][3]"
 
 msgctxt "h72dd58d1g281bg4cc6g841agabbf4dfd6b9c"
 msgid "[1] xp"
@@ -2131,35 +2132,35 @@ msgstr "레벨 상승!"
 
 msgctxt "h50116f77g1be8g4cabg8c9eg97ce9b755773"
 msgid "Backstab Critical!"
-msgstr ""
+msgstr "배후 공격 치명타!"
 
 msgctxt "h11065363gf07eg4764ga834g9eeab569ceec"
 msgid "Critical Hit!"
-msgstr ""
+msgstr "치명타!"
 
 msgctxt "ha1eef723gd062g47b1g848dg3e26ac75e4ab"
 msgid "Absorbed: [1]"
-msgstr ""
+msgstr "흡수됨: [1]"
 
 msgctxt "h920c16cbg2581g4e70gb388g9610e8c739db"
 msgid "Critical Miss!"
-msgstr ""
+msgstr "치명적 빗나감!"
 
 msgctxt "h0ef50966g4a1dg42a8g9d79g77f4f84d6006"
 msgid "Miss!"
-msgstr ""
+msgstr "빗나감!"
 
 msgctxt "hb0348599g1694g462fg9cb9g8fc9f34f82c4"
 msgid "Evade!"
-msgstr ""
+msgstr "회피함!"
 
 msgctxt "h60c5101fg75c1g4578g9692g8614a998f454"
 msgid "Invulnerable!"
-msgstr ""
+msgstr "무적!"
 
 msgctxt "hb144646cg0249g4715gbdf1gdf9e1b77133e"
 msgid "Target group is too far away!"
-msgstr ""
+msgstr "대상 무리가 너무 멀리 있음!"
 
 msgctxt "h9e56d78cg0bceg4684gb1e7ge5a1f14c7262"
 msgid "Waiting for other players... [1]"
@@ -2169,27 +2170,27 @@ msgctxt "h42c4a0e6ga88bg450cgbe6cg8f891e2ece55"
 msgid ""
 "One or more players denied the request, failed to answer in time, or could "
 "not respond due to in-game restraints."
-msgstr ""
+msgstr "한 명 이상의 플레이어가 요청을 거부하였거나, 제시간에 대답하지 못하였거나 또는 게임 내 제약으로 답신하지 못하였습니다."
 
 msgctxt "h77afbbc7gc256g42bag9c00g198592585ff8"
 msgid "Incompatible with [1] [2]<br>"
-msgstr ""
+msgstr "다음과 호환 불가능: [1] [2]<br>"
 
 msgctxt "hfb78168cgf584g4029g9be3gae08b1b4f0f2"
 msgid "Requires [1] [2]<br>"
-msgstr ""
+msgstr "다음이 요구됨: [1] [2]<br>"
 
 msgctxt "h8814b7fagd719g4ed0ga8afg2995c1846126"
 msgid "Throw Weapon"
-msgstr ""
+msgstr "무기 투척"
 
 msgctxt "hbce667b6g9192g42bfgb756gfa3491251ba5"
 msgid "Throw Item"
-msgstr ""
+msgstr "아이템 투척"
 
 msgctxt "hb0e9f362g3179g4ff3gbd28gbd1bfa1218a6"
 msgid "Loading failed: Level [1] not found"
-msgstr ""
+msgstr "로딩 실패: [1] 레벨을 발견하지 못함"
 
 msgctxt "h13683bb4g81e2g444dg93fbgf93cf96e79a4"
 msgid "Paused"
@@ -2197,23 +2198,23 @@ msgstr "일시 중지됨"
 
 msgctxt "hc279bcdfg1df2g4519g849dg8113bf6c0e14"
 msgid "Climb To"
-msgstr ""
+msgstr "으로 오르기"
 
 msgctxt "hbc2bc0f2g24eag495bg87f6g507e4b6dc583"
 msgid "Target Hit Points affected: [1]/[2]"
-msgstr ""
+msgstr "범위 내 대상의 체력: [1]/[2]"
 
 msgctxt "h89641b0fg9e4cg4a57gbfdcg30afbc8aa6b2"
 msgid "Talk"
-msgstr ""
+msgstr "말하기"
 
 msgctxt "h8e3f9e82g8fdag437cg99c1g4988a6aeccff"
 msgid "Listen"
-msgstr ""
+msgstr "듣기"
 
 msgctxt "h14884b44gc0bcg4fe7gbd6eg40ccb7063607"
 msgid "Move To"
-msgstr ""
+msgstr "으로 이동"
 
 msgctxt "h1ae6ac78gb2d3g4232g8910g2f26c76e5d62"
 msgid "Pickpocket"
@@ -2221,23 +2222,23 @@ msgstr "소매치기"
 
 msgctxt "h9dbef534gd471g4dbdg9419g3855830e3189"
 msgid "Can't be pickpocketed."
-msgstr ""
+msgstr "소매치기 할 수 없음."
 
 msgctxt "h2540f096gfe81g4931gb48bgcae2bb739b97"
 msgid "[1] isn't locked"
-msgstr ""
+msgstr "대상이 잠겨있지 않습니다: [1]"
 
 msgctxt "h804ce3cagde9ag4681ga2ccgb967da642a96"
 msgid "[1] cannot be disarmed"
-msgstr ""
+msgstr "대상이 무장해제 될 수 없습니다: [1]"
 
 msgctxt "hafdc3f26ged2bg40cfgaa0cgb80b0023852e"
 msgid "Disarm"
-msgstr ""
+msgstr "무장해제"
 
 msgctxt "h971babf0g789ag4127g91beged432859fc76"
 msgid "No Disarm Toolkit Available"
-msgstr ""
+msgstr "사용 가능한 무장 해제 도구가 없음"
 
 msgctxt "h9f321004gcc9ag45ffg8752g61d1e965f612"
 msgid "Interact"
@@ -2245,73 +2246,73 @@ msgstr "상호작용"
 
 msgctxt "he31b93f5gd7edg410bg9fc7ga79624abb4b3"
 msgid "Loot"
-msgstr ""
+msgstr "약탈"
 
 msgctxt "h96930066gd070g4cd4gbf80g39ab08995dd7"
 msgid "Drop"
-msgstr ""
+msgstr "버리기"
 
 msgctxt "h0a62b826g9d26g49fdg9af9g27c1e8c7ea37"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 msgctxt "hb7bb21cdge65bg4d6bg9cbcg6b410505dbcd"
 msgid "Can't pick up items."
-msgstr ""
+msgstr "아이템을 주울 수 없습니다."
 
 msgctxt "h8b55ba9eg3d4dg4cfag8a04g6ede4a1e36df"
 msgid "Pick Up"
-msgstr ""
+msgstr "줍기"
 
 msgctxt "h884b6c13g5338g497dga91bg582640938cf9"
 msgid "Steal"
-msgstr ""
+msgstr "훔치기"
 
 msgctxt "h9317f6begb281g450bg9877gd69f60d76545"
 msgid "Use"
-msgstr ""
+msgstr "사용"
 
 msgctxt "h530df49fg6ab4g417bg82c2g5db2833e4ff5"
 msgid "Duration: [1] Turns"
-msgstr ""
+msgstr "지속시간: [1] 턴"
 
 msgctxt "h5ccc06e1g9685g4731gb3c7ga060319880c5"
 msgid "Duration: [1] Turn"
-msgstr ""
+msgstr "지속시간: [1] 턴"
 
 msgctxt "hfcb26405gaf80g44ccgb5bbg3b555ffe6854"
 msgid ""
 "Character is <LSTag Tooltip=\"Downed\">Downed</LSTag> but in stable "
 "condition."
-msgstr ""
+msgstr "캐릭터가 <LSTag Tooltip=\"Downed\">쓰러진</LSTag> 상태이지만 안정적입니다."
 
 msgctxt "h3c67d174g93f4g460bgafa0g02053132b3cf"
 msgid ""
 "Character is <LSTag Tooltip=\"Downed\">Downed</LSTag> and in unstable "
 "condition."
-msgstr ""
+msgstr "캐릭터가 <LSTag Tooltip=\"Downed\">쓰러진</LSTag> 상태이며 불안정합니다."
 
 msgctxt "hb8e6e43fg7099g4760g88b3g370da290dd1e"
 msgid "This creature is dead."
-msgstr ""
+msgstr "이 크리쳐는 사망했습니다."
 
 msgctxt "h2d014c36g7457g49f8ga0d5g748fb44cb940"
 msgid "Revivify can bring it back to life."
-msgstr ""
+msgstr "재활성화 주문을 통해 다시 생명을 불어넣을 수 있습니다."
 
 msgctxt "h048a5a5fg0bf4g45fcg9403g11a2c03feed4"
 msgid ""
 "Fear has gripped this character. It cannot be controlled and will "
 "automatically try to run away."
-msgstr ""
+msgstr "이 캐릭터가 공포에 휩싸였습니다. 제어할 수 없으며 자동으로 달아나려고 할 것입니다."
 
 msgctxt "h2ebf85b8g24e8g43e4ga62eg9263ac0c4d23"
 msgid "Character is knocked down and cannot move."
-msgstr ""
+msgstr "캐릭터가 넘어진 상태이며 움직일 수 없습니다."
 
 msgctxt "h23c407c9g9a79g4bd2g8028g1d55a20c3319"
 msgid "Character has changed appearance."
-msgstr ""
+msgstr "캐릭터가 외형을 바꾸었습니다."
 
 msgctxt "h9cd8f07fg0035g4bb9g8461gaf42afb2005b"
 msgid "Opportunity Attack"
@@ -2319,91 +2320,91 @@ msgstr "기회 공격"
 
 msgctxt "h9194c4acgfcc6g4f0bgabc2g7b1eba911cb2"
 msgid "Character is smelly!"
-msgstr ""
+msgstr "캐릭터가 고약한 냄새를 풍깁니다!"
 
 msgctxt "h17a31a69g7f96g441eg9c13g065840c55bf5"
 msgid "Successfully Hiding!"
-msgstr ""
+msgstr "숨기가 성공적입니다!"
 
 msgctxt "h26a380bcg8c2dg413ag85fcge490566fa3ff"
 msgid "Failed to hide!"
-msgstr ""
+msgstr "숨기가 실패했습니다!"
 
 msgctxt "h4ca75b5ag5e98g4be8g9037geff155f426be"
 msgid "Unlocked"
-msgstr ""
+msgstr "잠금 해제됨"
 
 msgctxt "h7721d212g5d7cg4341g94c3gbf1dd5ef11e5"
 msgid "Unlock failed"
-msgstr ""
+msgstr "잠금 해제 실패"
 
 msgctxt "h8cd2fa76g3210g4b1egade2g8bb2d0db3bcd"
 msgid "Put away your weapon."
-msgstr ""
+msgstr "무기를 집어넣습니다."
 
 msgctxt "h194329edgd348g46eagad00gd185ec228296"
 msgid "Enter or exit sneak mode."
-msgstr ""
+msgstr "은신 상태로 돌입하거나 해제합니다."
 
 msgctxt "h2c4c2857g4d73g4012g862agf598785f348d"
 msgid "End your current turn in combat."
-msgstr ""
+msgstr "전투에서 당신의 현재 턴을 종료합니다."
 
 msgctxt "hc157fadagf8a7g4707g9886g1b75941156f4"
 msgid "Flee to your camp."
-msgstr ""
+msgstr "캠프로 달아납니다."
 
 msgctxt "h584bafc1g62bag4b08g84a8gc37ca5056c2d"
 msgid "Try to open a lock using lockpicks."
-msgstr ""
+msgstr "락픽을 이용해 자물쇠를 열려고 시도합니다."
 
 msgctxt "h52103f4bga860g4afeg8cefgefede098fc9d"
 msgid "Neutralise a trap using a Disarm Toolkit."
-msgstr ""
+msgstr "무장 해제 도구를 이용해 함정을 무력화합니다."
 
 msgctxt "hcacb94cbg4737g4a52g8b07gc5af8628eff5"
 msgid "Attack the ground."
-msgstr ""
+msgstr "바닥을 공격합니다."
 
 msgctxt "hbb510089g3d5bg434dga929gcb697fcaf656"
 msgid "Sheathe"
-msgstr ""
+msgstr "무기 꺼내기"
 
 msgctxt "h14dec5c1g0fa6g4abag8219gba6727c227d8"
 msgid "Unsheathe"
-msgstr ""
+msgstr "무기 넣기"
 
 msgctxt "hc0d5bf50g6523g4779g9b2egb772480114c7"
 msgid "Stop Hiding"
-msgstr ""
+msgstr "숨기 해제"
 
 msgctxt "h7ccd039age7f6g4022g9078g4b8d3749c956"
 msgid "Hide"
-msgstr ""
+msgstr "숨기"
 
 msgctxt "ha17c1b4bgc146g4897g8cfeg8e379b560530"
 msgid "End Turn"
-msgstr ""
+msgstr "턴 종료"
 
 msgctxt "hb399d83eg5ae8g48d0g8f7eg1a89d707f7f9"
 msgid "Flee"
-msgstr ""
+msgstr "도주"
 
 msgctxt "h12379ad5g2d06g43b0g8bb2gae030cc52b8a"
 msgid "Lockpick"
-msgstr ""
+msgstr "자물쇠따기"
 
 msgctxt "h0caaedadg4d07g4378g9cd1ge13fee7703e7"
 msgid "Disarm Trap"
-msgstr ""
+msgstr "함정 해제"
 
 msgctxt "hbdac34fdg43b6g4439g9947g6676e9c03294"
 msgid "Attack Ground"
-msgstr ""
+msgstr "바닥 공격"
 
 msgctxt "hd8ca3313ge347g4c19g84d2g08217dc31e34"
 msgid "Cannot Find Path"
-msgstr ""
+msgstr "경로를 찾을 수 없음"
 
 msgctxt "hca813806gb2afg48bdgb37cg6726888f3014"
 msgid "| Will remove surface and cloud |"
@@ -2419,7 +2420,7 @@ msgstr ""
 
 msgctxt "h7357a715g18a2g45e1g9dfcg6b2a9e759eef"
 msgid "Detect Thoughts"
-msgstr "사고 탐지"
+msgstr "생각 탐지"
 
 msgctxt "h5fdf89fbga64ag4ad1gb480gd1e1cd898ef4"
 msgid "Saving throw"
@@ -2427,7 +2428,7 @@ msgstr "내성 굴림"
 
 msgctxt "h74f62b4egc712g4ddeg8598g654ab2f754ab"
 msgid "Not enough resources: [1]"
-msgstr ""
+msgstr "자원이 충분하지 않음: [1]"
 
 msgctxt "ha6e54ed5g93afg42acg95acg38b109b05000"
 msgid "Cannot reach"
@@ -2439,27 +2440,27 @@ msgstr "캠프로 보내기"
 
 msgctxt "h96970b4fg25c7g45a7g8237gfeea349629f9"
 msgid "Send to [1]"
-msgstr ""
+msgstr "[1]에게 보내기"
 
 msgctxt "hd0b907cfg3d21g428fgbd7bg50d53ee381bd"
 msgid "Remove from Wares"
-msgstr ""
+msgstr "판매품에서 제거"
 
 msgctxt "haf8cda3dg7a31g4b50g90a1g3181d39fb815"
 msgid "Add to Wares"
-msgstr ""
+msgstr "판매품에 추가"
 
 msgctxt "hf2562ad1g6799g4afbgb824g3a9c07532c80"
 msgid "Hold in Hand"
-msgstr ""
+msgstr "손에 쥐기"
 
 msgctxt "h3890a960gec48g46f1gb38bgc3899e970f3d"
 msgid "Move items"
-msgstr ""
+msgstr "아이템 옮기기"
 
 msgctxt "ha105b564ga064g4fcbgbf3cgbf4a4e093866"
 msgid "Put Into"
-msgstr ""
+msgstr "에 넣기"
 
 msgctxt "h48569ea7g2fcbg4193ga14fge894d27ce97c"
 msgid "Climb On"
@@ -2475,19 +2476,19 @@ msgstr " 훔칠 수 없음 (너무 무거움) "
 
 msgctxt "h36a3ecaeg0968g4114ga989g9ad74353f168"
 msgid "Pick Up and Add to Wares"
-msgstr ""
+msgstr "주워서 판매품에 추가"
 
 msgctxt "h5247f573g64aeg433fgb452g49b238916d94"
 msgid "Steal and Add to Wares"
-msgstr ""
+msgstr "훔쳐서 판매품에 추가"
 
 msgctxt "h77d5f998gecc5g4e28gbc08g30764a87e47a"
 msgid " Can't pick up and Add to Wares (too heavy) "
-msgstr ""
+msgstr " 주워서 판매품에 추가할 수 없음 (너무 무거움) "
 
 msgctxt "h03b09f5ag23cfg46e6gb952g480175cd63ce"
 msgid " Can't Steal and Add to Wares (too heavy) "
-msgstr ""
+msgstr " 훔쳐서 판매품에 추가할 수 없음 (너무 무거움) "
 
 msgctxt "hb050cfccgbefcg446fg89fcg3d389ce0327f"
 msgid "Learn spell: [1] gold"
@@ -2527,15 +2528,15 @@ msgstr "단축바에 추가"
 
 msgctxt "hc50effd1g8abfg48dbgb85eg9e2e5b287fae"
 msgid "Send To"
-msgstr ""
+msgstr "전달"
 
 msgctxt "hc426bfcegd91eg43dcg9b7ag6c30caefa96e"
 msgid "Stack"
-msgstr ""
+msgstr "더미"
 
 msgctxt "h953a2709g947eg412cgab6bg30912f30e52e"
 msgid "Swap Items"
-msgstr ""
+msgstr "아이템 교환"
 
 msgctxt "h6fff5f0dg61afg4558gaea3g8fa634910d2b"
 msgid "Move Item"
@@ -2559,11 +2560,11 @@ msgstr "빈손"
 
 msgctxt "h40a6291cgaa57g4e63gad9eg170df446caf6"
 msgid "Ungroup"
-msgstr ""
+msgstr "그룹 해제"
 
 msgctxt "hfbb70789g4cd9g491fgb728g6350185e239e"
 msgid "Group"
-msgstr ""
+msgstr "그룹"
 
 msgctxt "hcda03447gd378g40bdga0ecg6cdeda2c6644"
 msgid "Leave Party"
@@ -2579,7 +2580,7 @@ msgstr "파티 초대"
 
 msgctxt "h3aec364egc5eag4821ga287gf546a6c4b49f"
 msgid "Loot Character"
-msgstr ""
+msgstr "캐릭터에서 약탈"
 
 msgctxt "h9ed060bfgfddcg478cga96agb9b191cc4469"
 msgid "Throw"
@@ -2587,7 +2588,7 @@ msgstr "던지기"
 
 msgctxt "hcdb797e5g5989g48e8g87d1gd25ba5d9e57f"
 msgid "[1] ([2])"
-msgstr ""
+msgstr "[1] ([2])"
 
 msgctxt "h32f778f4g0cb7g4971ga1a2g8261ee0ad75a"
 msgid "Drink"
@@ -2599,11 +2600,11 @@ msgstr "먹기"
 
 msgctxt "h7c5b68d4g76f4g428cga417g2aa53f3f00e6"
 msgid "Failed to save game - ErrorCode(s):<br>[1]"
-msgstr ""
+msgstr "저장 실패 - 에러코드:<br>[1]"
 
 msgctxt "hf9e7bfeag3fe9g49e4ga349gc5cde5cbb78a"
 msgid "Projectile deflected."
-msgstr ""
+msgstr "투사체 반사됨."
 
 msgctxt "h6c440465gbcaeg44f8gbdbag80eff3b7a21b"
 msgid "[1] was kicked from the game"
@@ -2615,19 +2616,19 @@ msgstr "[1]이 게임에서 나갔습니다"
 
 msgctxt "hc96634c2ga638g4144g9413g2c6489f98217"
 msgid "connection to [1] timed out"
-msgstr ""
+msgstr "다음으로 연결하는 시간이 초과되었습니다: [1]"
 
 msgctxt "h13a0a5e4g84dfg41dbgab12ga176fa765022"
 msgid "Unknown player"
-msgstr ""
+msgstr "알 수 없는 플레이어"
 
 msgctxt "hf9ae6134g368ag4799gb149g671b7caf73e5"
 msgid "[1]'s lobby"
-msgstr ""
+msgstr "[1]의 로비"
 
 msgctxt "h25cb8532g4c1cg48f0gbc87g9eda0486de8a"
 msgid "It's stuck!"
-msgstr ""
+msgstr "막혔습니다!"
 
 msgctxt "h4dd067fegad9dg4b14gbb92g7e0633b95bbe"
 msgid "Locked"
@@ -2635,19 +2636,19 @@ msgstr "잠겼음"
 
 msgctxt "hb2b93c25g3985g43a9g8596g611480ee3230"
 msgid "[1] [2] xp"
-msgstr ""
+msgstr "[1] [2] xp"
 
 msgctxt "hf5b2961bgb4f3g434agbafeg24012e448f9a"
 msgid "Exploration"
-msgstr ""
+msgstr "탐험"
 
 msgctxt "h6658a3ccg94d7g459ag95e2g2acf2d4e021f"
 msgid "Charisma"
-msgstr ""
+msgstr "매력"
 
 msgctxt "h7deb8801g30eeg4f49g9aa3g3119670db61a"
 msgid "[1] gained [2]."
-msgstr ""
+msgstr "[1]: [2] 획득."
 
 msgctxt "h2d9af495ge64bg42a9gaa6cge358e8e58510"
 msgid "Unlocked!"
@@ -2655,7 +2656,7 @@ msgstr "해금됨!"
 
 msgctxt "h0fd7e77ag106bg47d5ga587g6cfeed742d5d"
 msgid "Narrator"
-msgstr ""
+msgstr "내레이터"
 
 msgctxt "h566a32b1g1e58g4df0g9368g5b7a37f2d40d"
 msgid ""
@@ -2667,16 +2668,22 @@ msgid ""
 "\"SpellSlot\">spell slots</LSTag> up to half their maximum, and you won't "
 "regain any <LSTag Tooltip=\"ShortRest\">Short Rests</LSTag>."
 msgstr ""
+"캠프로 가시겠습니까? 오늘 하루가 마무리됩니다.\n"
+"\n"
+"보유한 <LSTag Tooltip=\"CampSupplies\">야영 물자</LSTag>가 충분하지 않습니다. <LSTag Tooltip="
+"\"LongRest\">긴 휴식</LSTag>을 취해도 <LSTag Tooltip=\"HitPoints\">체력</LSTag> 과 "
+"<LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>이 최대치의 절반까지만 회복되며, <LSTag Tooltip="
+"\"ShortRest\">짧은 휴식</LSTag>의 횟수가 충전되지 않습니다."
 
 msgctxt "hd2b79899g518bg4b7eg9b61geffde28c3f75"
 msgid ""
 "Warning! The savegame has detected tampering or corruption.<br>It is "
 "strongly advised that you do not continue on this savegame."
-msgstr ""
+msgstr "경고! 세이브 파일에서 변조나 손상이 감지되었습니다.<br>이 세이브 파일을 계속하지 않는 것을 강력하게 권장합니다."
 
 msgctxt "h472708cegcda9g4067g89c5g8dffadd8b517"
 msgid "[1] joined the game"
-msgstr ""
+msgstr "[1] 게임 참여"
 
 msgctxt "h25f6aa7fgb4e2g4724g8a8fg51147f01881b"
 msgid "created"
@@ -2720,167 +2727,167 @@ msgstr "원거리 비무장 공격"
 
 msgctxt "hfa371a70g84a2g4895g8bd2g27ec4c3df3fb"
 msgid "Skill Check"
-msgstr ""
+msgstr "기술 판정"
 
 msgctxt "h056db991g64f1g405ag8114g18e52efcd908"
 msgid "Raw <LSTag Tooltip=\"Abilities\">Ability</LSTag>"
-msgstr ""
+msgstr "기본 <LSTag Tooltip=\"Abilities\">능력치</LSTag>"
 
 msgctxt "h7856e988gd351g47f5gb021g756ad0167cfd"
 msgid "Melee Off-Hand Weapon Attack"
-msgstr ""
+msgstr "보조 근접 무기 공격"
 
 msgctxt "hf69f823ag2359g41feg9b1fg93291596e328"
 msgid "Ranged Off-Hand Weapon Attack"
-msgstr ""
+msgstr "보조 원거리 무기 공격"
 
 msgctxt "hbcc8fbb3g4820g4ec6gbda6g2376dbf22fea"
 msgid "Death Saving Throw"
-msgstr ""
+msgstr "죽음 내생 굴림"
 
 msgctxt "hcaeb4d5fg8b57g4520g912fg4fae8267b844"
 msgid "Deception"
-msgstr ""
+msgstr "기만"
 
 msgctxt "h6efd5166g9073g439fgb814gcd9186cb8e61"
 msgid "Intimidation"
-msgstr ""
+msgstr "위협"
 
 msgctxt "hc632dc67g7806g436fg9a73gb80b4d6f5e7c"
 msgid "Performance"
-msgstr ""
+msgstr "공연"
 
 msgctxt "h257372d3g6f98g4450g813bg190e19aecce4"
 msgid "Persuasion"
-msgstr ""
+msgstr "설득"
 
 msgctxt "hf18eb9a0g33a1g481fg9646g5ddeaa7e2156"
 msgid "Acrobatics"
-msgstr ""
+msgstr "곡예"
 
 msgctxt "hba2e587ag00b7g4f75ga38bg8754bcaa7b6b"
 msgid "Sleight of Hand"
-msgstr ""
+msgstr "손재주"
 
 msgctxt "h49c7514bg504dg4445g915cgb9562d8585ac"
 msgid "Stealth"
-msgstr ""
+msgstr "은신"
 
 msgctxt "h22b7e6b6g8c55g49c6gba43gd16c8e399fea"
 msgid "Arcana"
-msgstr ""
+msgstr "비전"
 
 msgctxt "hab026295g69b7g4013g9b14g807992eb1a22"
 msgid "History"
-msgstr ""
+msgstr "역사"
 
 msgctxt "hfd00683fg1522g4f04g91c4g9bef52cda3d0"
 msgid "Investigation"
-msgstr ""
+msgstr "조사"
 
 msgctxt "h63548a6ag0bc9g4e87g8d62gd6e7b8771333"
 msgid "Nature"
-msgstr ""
+msgstr "자연"
 
 msgctxt "h9eab2802gb592g4c23g87b9g165135e307a1"
 msgid "Religion"
-msgstr ""
+msgstr "종교"
 
 msgctxt "h06f7e4d9g1d7eg42aagb745g2e08ebeb9de2"
 msgid "Athletics"
-msgstr ""
+msgstr "운동"
 
 msgctxt "hab871a76g3541g4045ga1c1gbb9b5d13ee36"
 msgid "Animal Handling"
-msgstr ""
+msgstr "동물 조련"
 
 msgctxt "h64f8e22agf0eeg4a0bga9abgb0178dd5e670"
 msgid "Insight"
-msgstr ""
+msgstr "통찰"
 
 msgctxt "h23dfa632g875dg4081ga2abg950b7f7adc13"
 msgid "Medicine"
-msgstr ""
+msgstr "의학"
 
 msgctxt "h153612e7g6e83g48fbg855ag7088e7eea89e"
 msgid "Perception"
-msgstr ""
+msgstr "지각"
 
 msgctxt "ha479d52eg60c5g4f9eg88ddg43e201dae0d3"
 msgid "Survival"
-msgstr ""
+msgstr "생존"
 
 msgctxt "h229e796fg1598g4c92gbf2fg4c5244e28b87"
 msgid "Target's Deception"
-msgstr ""
+msgstr "대상의 기만"
 
 msgctxt "h7f3e08c7ge924g41c4gb960g821f40d5a577"
 msgid "Target's Intimidation"
-msgstr ""
+msgstr "대상의 위협"
 
 msgctxt "h77a85c34g5605g4b76g93b5ga141e27cfff6"
 msgid "Target's Performance"
-msgstr ""
+msgstr "대상의 공연"
 
 msgctxt "ha4b8b9bbgbdc3g4271g9f3bg19ed4cb9d04d"
 msgid "Target's Persuasion"
-msgstr ""
+msgstr "대상의 설득"
 
 msgctxt "he7c1b2d4g6629g43c7g8c0eg7a6cbcc168e1"
 msgid "Target's Acrobatics"
-msgstr ""
+msgstr "대상의 곡예"
 
 msgctxt "h55c01730g5df2g4e4dg8df4g2d64079615da"
 msgid "Target's Sleight of Hand"
-msgstr ""
+msgstr "대상의 손재주"
 
 msgctxt "hebe47995g3933g415egaabaga3befe5827fd"
 msgid "Target's Stealth"
-msgstr ""
+msgstr "대상의 은신"
 
 msgctxt "h62e0eeb7gdf89g4b6cga0d1gbd208910a22c"
 msgid "Target's Arcana"
-msgstr ""
+msgstr "대상의 비전"
 
 msgctxt "h06f74e43g38ddg445bgabcfg647ce3a21868"
 msgid "Target's History"
-msgstr ""
+msgstr "대상의 역사"
 
 msgctxt "ha79ad845g1911g4211g98beg341a7d38f842"
 msgid "Target's Investigation"
-msgstr ""
+msgstr "대상의 조사"
 
 msgctxt "hc0538796gf7ffg4a0cg9aeag3809e9ab2ef4"
 msgid "Target's Nature"
-msgstr ""
+msgstr "대상의 자연"
 
 msgctxt "he9a1af59g70a7g40e7g968agab34f8657441"
 msgid "Target's Religion"
-msgstr ""
+msgstr "대상의 종교"
 
 msgctxt "h69e045e8gf418g4fe3g8a3bg5019b9dc5d72"
 msgid "Target's Athletics"
-msgstr ""
+msgstr "대상의 운동"
 
 msgctxt "h8e833f0dgc50eg40eegad33gc726199cbdc1"
 msgid "Target's Animal Handling"
-msgstr ""
+msgstr "대상의 동물 조련"
 
 msgctxt "h61b6500fg54efg483aga8b8gf9dace490a20"
 msgid "Target's Insight"
-msgstr ""
+msgstr "대상의 통찰"
 
 msgctxt "h9f24bccag5b63g4763ga99bg4215873474fa"
 msgid "Target's Medicine"
-msgstr ""
+msgstr "대상의 의학"
 
 msgctxt "hb54015aag763dg418dg9f46g39e895b25db9"
 msgid "Target's Perception"
-msgstr ""
+msgstr "대상의 지각"
 
 msgctxt "h456f6feeg12a2g4ba4g9299g3a47347980ac"
 msgid "Target's Survival"
-msgstr ""
+msgstr "대상의 생존"
 
 msgctxt "h7ab4af5bg3933g40d2g82a2ga20d03135316"
 msgid "| Owner's Deception |"
@@ -7285,7 +7292,7 @@ msgstr "Right Bracket"
 
 msgctxt "h826c7efagaff0g4bd2g8cc9g4c27b8ec17bc"
 msgid "Grave"
-msgstr "Grave"
+msgstr "`"
 
 msgctxt "h22c380d1gd6a3g4e0egb707g58ea9dfb1587"
 msgid "Quote"
@@ -7685,7 +7692,7 @@ msgstr ""
 
 msgctxt "hfa257f57g16cag4957g9a76g91256847dddf"
 msgid "Middle Mouse Button"
-msgstr ""
+msgstr "마우스 중앙 버튼"
 
 msgctxt "he60b95a2g53afg464agaac7g55a29dbaf7f6"
 msgid "Right Mouse Button"
