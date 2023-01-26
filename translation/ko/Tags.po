@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-01-23 15:52+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2023-01-26 03:52+0000\n"
+"Last-Translator: 조선인 <kimkikim141@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/tags/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -241,7 +241,6 @@ msgstr "COMBAT_GOBLINKING"
 #. 
 #. type = display_name
 #: Gustav/Public/Gustav/Tags/4874959b-4811-4b89-8f55-85fe04fbcd61.lsx:8
-#, fuzzy
 msgctxt "h8552c497g53d0g4aeagb0c7g6542917fc97a"
 msgid "MINDMELD"
 msgstr "MINDMELD"
@@ -619,7 +618,7 @@ msgstr "PSIONICS"
 #: Gustav/Public/Gustav/Tags/bfef85f2-6caa-40c8-b880-1983a49dcc07.lsx:7
 msgctxt "h7fb3958dgd13eg46b3g82bbgb94795d7df4d"
 msgid "PSIONICS"
-msgstr ""
+msgstr "PSIONICS"
 
 #. uuid = c1f7de2b-7cc5-41bc-23a7-1101bb72bac4
 #. tag_name = HAGEYED
@@ -918,6 +917,8 @@ msgid ""
 "Legends say dwarven blood gave stronghearts their hardiness. Resistant to "
 "poison and wellsprings of endurance, these halflings easily hold their own."
 msgstr ""
+"전설에 따르면, 스트롱하트의 강인함은 드워프 혈통에서 유래되었다고 합니다. 독에 저항력이 있고 강인함의 원천이나 다름없는 이 하플링들은 "
+"위험에서도 곧잘 견뎌냅니다."
 
 #. uuid = 0668a5fd-72e0-4f9e-5eb8-aeba968737c6
 #. tag_name = IGNORE_AOO
@@ -957,7 +958,7 @@ msgstr "강령술의 고서가 기이한 금단의 문자를 당신의 정신에
 #: Shared/Public/Shared/Tags/07925e5b-af3d-4743-a565-b9fee04c24ac.lsx:8
 msgctxt "h126af7b3g3dbcg4fadgb015g50b3a548b58d"
 msgid "Charlatan"
-msgstr ""
+msgstr "사기꾼"
 
 #. uuid = 07925e5b-af3d-4743-65a5-feb94ce0ac24
 #. tag_name = CHARLATAN
@@ -969,7 +970,7 @@ msgctxt "h5dece7d8gc771g41d2g953cgc05c93c76a5f"
 msgid ""
 "A connoisseur of deals that are too good to be true. Prone to exaggeration, "
 "and more than happy to profit from it."
-msgstr ""
+msgstr "진짜라기에는 너무 좋은 거래에 대한 전문가입니다. 뭐든 과장하는 경향이 있으며, 이를 통해 이득을 보면 너무나 행복해 합니다."
 
 #. uuid = 081a2ef4-dc1b-4d5b-e3ba-b88def1b061d
 #. tag_name = MONSTROSITY
@@ -979,7 +980,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/081a2ef4-dc1b-4d5b-bae3-8db81bef1d06.lsx:8
 msgctxt "h5f38447fge19eg42d6g98c8g2e8686be6241"
 msgid "Monstrosity"
-msgstr ""
+msgstr "괴물"
 
 #. uuid = 081a2ef4-dc1b-4d5b-e3ba-b88def1b061d
 #. tag_name = MONSTROSITY
@@ -999,7 +1000,7 @@ msgstr "MONSTROSITY tooltip"
 #: Shared/Public/Shared/Tags/09518377-4ea1-4ce2-b8e8-61477c26ebdd.lsx:8
 msgctxt "h6e881eeeg0b53g4430gb264g1d36fa4342a7"
 msgid "Forest Gnome"
-msgstr ""
+msgstr "숲 노움"
 
 #. uuid = 09518377-4ea1-4ce2-e8b8-4761267cddeb
 #. tag_name = FORESTGNOME
@@ -1013,6 +1014,8 @@ msgid ""
 "rare sight in Faerûn. They master magic and craftsmanship in their distant, "
 "idyllic groves."
 msgstr ""
+"사촌들보다도 키가 더 작고, 두 배는 더 은둔적인 숲 노움들은 페이룬에서 보기 드뭅니다. 이들은 머나먼 곳의 목가적인 숲에서 살며 마법과 "
+"손재주를 익힙니다."
 
 #. uuid = 0976fc05-da0e-43ea-7889-cc5a44ef0f5e
 #. tag_name = FROG
@@ -1022,7 +1025,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0976fc05-da0e-43ea-8978-5accef445e0f.lsx:8
 msgctxt "hd25dd860g52d0g4173ga877g9bef1a3ba539"
 msgid "Frog"
-msgstr ""
+msgstr "개구리"
 
 #. uuid = 0976fc05-da0e-43ea-7889-cc5a44ef0f5e
 #. tag_name = FROG
@@ -1042,7 +1045,7 @@ msgstr "FROG tooltip"
 #: Shared/Public/Shared/Tags/09962a69-b99d-40ed-b28e-c2542020666c.lsx:8
 msgctxt "h797c13feg3c33g423bg9822g83d0725ae5bc"
 msgid "Puzzle"
-msgstr ""
+msgstr "퍼즐"
 
 #. uuid = 09962a69-b99d-40ed-8eb2-54c220206c66
 #. tag_name = Puzzle
@@ -1052,7 +1055,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/09962a69-b99d-40ed-b28e-c2542020666c.lsx:7
 msgctxt "hb63c1acage272g48d1gbf76g2f7b00b665a8"
 msgid "Puzzle tooltip"
-msgstr ""
+msgstr "Puzzle tooltip"
 
 #. uuid = 09dd1e1e-6d9f-4cc6-14b5-e968c8814305
 #. tag_name = WPN_HANDAXE
@@ -1062,7 +1065,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/09dd1e1e-6d9f-4cc6-b514-68e981c80543.lsx:8
 msgctxt "hd02d7904g03a9g473eg9548g947027869246"
 msgid "Handaxe"
-msgstr ""
+msgstr "손도끼"
 
 #. uuid = 0b2bdab1-6455-4baa-3b88-294f7693b6ab
 #. tag_name = PALADIN_TEMPUS
@@ -1096,7 +1099,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0b52f35e-fb1f-4865-bcd2-5d21ef7343cd.lsx:8
 msgctxt "h71ca36adg9308g41b7g99ebg7e0445723626"
 msgid "Guard"
-msgstr ""
+msgstr "경비"
 
 #. uuid = 0b52f35e-fb1f-4865-d2bc-215d73efcd43
 #. tag_name = GUARD
@@ -1106,7 +1109,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0b52f35e-fb1f-4865-bcd2-5d21ef7343cd.lsx:7
 msgctxt "h30b4d2bag6bb0g48ccga7b3g4e06037534d6"
 msgid "GUARD tooltip"
-msgstr ""
+msgstr "GUARD tooltip"
 
 #. uuid = 0bdf874a-3703-49be-cfb1-294d4e1d5b49
 #. tag_name = SCRYING_EYE
@@ -1226,7 +1229,7 @@ msgstr "GNOLL_FLESHGNAWER tooltip"
 #: Shared/Public/Shared/Tags/0f68567e-1e38-41d9-b2ca-2833195ab2f4.lsx:8
 msgctxt "hdae3105cg1ab2g4e46gb23dg75931f2a2ff0"
 msgid "Turtle"
-msgstr ""
+msgstr "거북이"
 
 #. uuid = 0f68567e-1e38-41d9-cab2-33285a19f4b2
 #. tag_name = TURTLE
@@ -1236,7 +1239,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0f68567e-1e38-41d9-b2ca-2833195ab2f4.lsx:7
 msgctxt "h9d913c1dga3ebg4a29gb402gf05fbced805e"
 msgid "TURTLE tooltip"
-msgstr ""
+msgstr "TURTLE tooltip"
 
 #. uuid = 0f9099e9-a4d8-4b17-e5b2-f7e6eb4eb479
 #. tag_name = AUTOMATON
@@ -1246,7 +1249,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0f9099e9-a4d8-4b17-b2e5-e6f74eeb79b4.lsx:8
 msgctxt "h3ef7e51eg83d0g42bagb778g8ba08dc1247c"
 msgid "Automaton"
-msgstr ""
+msgstr "오토마톤"
 
 #. uuid = 0fc0e733-c539-4d4d-cbb0-f6fe66d69bba
 #. tag_name = CHICKEN
@@ -1256,7 +1259,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/0fc0e733-c539-4d4d-b0cb-fef6d666ba9b.lsx:8
 msgctxt "h7dbe18b3g0cf1g47f2gb17fg331204a2fa68"
 msgid "Chicken"
-msgstr ""
+msgstr "닭"
 
 #. uuid = 0fc0e733-c539-4d4d-cbb0-f6fe66d69bba
 #. tag_name = CHICKEN
@@ -1316,7 +1319,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/125b3d94-3997-4fc4-8211-1768b67dbe4a.lsx:8
 msgctxt "he0276573g395fg4806g9db3g3f5b7c97898d"
 msgid "Plant"
-msgstr ""
+msgstr "식물"
 
 #. uuid = 125b3d94-3997-4fc4-1182-68177db64abe
 #. tag_name = PLANT
@@ -1376,7 +1379,7 @@ msgstr "RECORD_PLAYER tooltip"
 #: Shared/Public/Shared/Tags/150ee63f-4d47-4951-b944-a853d8beb9a8.lsx:8
 msgctxt "h2f23cd66g203fg4b10g9e81g97f5588069b5"
 msgid "Muted"
-msgstr ""
+msgstr "침묵"
 
 #. uuid = 16657b43-323e-4eee-8289-337729824b44
 #. tag_name = CLERIC_TYR
@@ -1400,6 +1403,8 @@ msgid ""
 "no matter the sacrifices that must be made. He grants spells that enhance "
 "accuracy and martial prowess."
 msgstr ""
+"티르는 규범과 정의의 신으로, 그의 클레릭들로 하여금 어떠한 희생을 치르더라도 규범과 정의를 유지하게끔 합니다. 그는 명중률과 무력을 "
+"향상시켜주는 주문을 하사합니다."
 
 #. uuid = 1671b4bf-4f47-4bb7-b99c-bb80601fd509
 #. tag_name = CLERIC
@@ -1421,7 +1426,7 @@ msgctxt "h5fa0c086gcd05g44e6gbcc4gff33589db848"
 msgid ""
 "Clerics channel the power of the gods they worship, wielding potent magic "
 "and acting as representatives of divine authority."
-msgstr ""
+msgstr "클레릭은 섬기는 신의 힘을 변환하여 강력한 마법을 휘두르며, 신성한 권위의 대리인이 됩니다."
 
 #. uuid = 178016d5-e3d3-44bd-a58a-c36ac6d16c1e
 #. tag_name = CLERIC_BANE
@@ -1431,7 +1436,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/178016d5-e3d3-44bd-8aa5-6ac3d1c61e6c.lsx:8
 msgctxt "h3723f319g29dfg46a3g8745g6a2cc64c9b37"
 msgid "Cleric of Bane"
-msgstr ""
+msgstr "베인의 클레릭"
 
 #. uuid = 178016d5-e3d3-44bd-a58a-c36ac6d16c1e
 #. tag_name = CLERIC_BANE
@@ -1444,6 +1449,8 @@ msgid ""
 "Bane is the god of hatred, fear, and tyranny. His clerics are spartan, "
 "ruthless conquerors, gathering as much power as they can under Bane's banner."
 msgstr ""
+"베인은 증오와 공포, 그리고 폭정의 신입니다. 그의 클레릭들은 엄격하고 무자비한 정복자들로, 베인의 기치 아래 가능한 한 많은 세력을 "
+"모읍니다."
 
 #. uuid = 17d29357-beba-4096-ccac-8bc2a8deda8f
 #. tag_name = REALLY_DEEPGNOME
@@ -1451,9 +1458,10 @@ msgstr ""
 #. 
 #. type = display_name
 #: Shared/Public/Shared/Tags/17d29357-beba-4096-accc-c28bdea88fda.lsx:8
+#, fuzzy
 msgctxt "hcecb4613gbb8bg45d9ga4a6g55436402414d"
 msgid "Deep Gnome"
-msgstr ""
+msgstr "딥 노움"
 
 #. uuid = 17d29357-beba-4096-ccac-8bc2a8deda8f
 #. tag_name = REALLY_DEEPGNOME
@@ -1467,6 +1475,8 @@ msgid ""
 "loyalty and cunning. Their darkvision and training in stealth keep them "
 "alive in the hostile Underdark."
 msgstr ""
+"지상의 노움들보다 더 조심스러운 딥 노움들은 그 충직함과 교활함으로 잘 알려져 있습니다. 암시야와 은신 훈련이 이들을 적대적인 "
+"언더다크에서 살아남을 수 있게 해줍니다."
 
 #. uuid = 18266c0b-efbc-4c80-8487-a4ad72a3d718
 #. tag_name = SORCERER
@@ -1489,6 +1499,7 @@ msgid ""
 "Magic brews in a sorcerer's blood. By channeling natural ability into "
 "powerful spells, a sorcerer is born to arcane greatness."
 msgstr ""
+"소서러의 피 속에서 마법이 끓어오릅니다. 타고난 능력을 강력한 주문으로 전환하는 소서러는 비전의 위대함을 위해 태어난 존재입니다."
 
 #. uuid = 18659b46-73ae-49d2-a885-6c7e3cc44fe9
 #. tag_name = REALLY_MOUNTAINDWARF
@@ -1498,7 +1509,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/18659b46-73ae-49d2-85a8-7e6cc43ce94f.lsx:8
 msgctxt "h0fa905a3g9c7eg4962g8c41g22e2336860ba"
 msgid "Shield Dwarf"
-msgstr ""
+msgstr "실드 드워프"
 
 #. uuid = 18659b46-73ae-49d2-a885-6c7e3cc44fe9
 #. tag_name = REALLY_MOUNTAINDWARF
@@ -1511,6 +1522,8 @@ msgid ""
 "Mountain dwarves thrive in rugged terrain, standing taller than their hill "
 "dwarf cousins. Their kingdoms are a bastion of strength in northern Faerûn."
 msgstr ""
+"산의 드워프들은 언덕에 사는 사촌들보다 키가 더 크고, 험준한 지형에서도 잘 삽니다. 이들의 왕국은 북부 페이룬에서 강대한 요새로 우뚝 "
+"서 있습니다."
 
 #. uuid = 1879a93d-2edf-4f54-dd85-a3814d727f67
 #. tag_name = HEALING_POTION
@@ -1520,7 +1533,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1879a93d-2edf-4f54-85dd-81a3724d677f.lsx:8
 msgctxt "h7b987b47gb353g4051gb111gb03b4f19163f"
 msgid "HEALING POTION"
-msgstr ""
+msgstr "HEALING POTION"
 
 #. uuid = 1879a93d-2edf-4f54-dd85-a3814d727f67
 #. tag_name = HEALING_POTION
@@ -1530,7 +1543,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1879a93d-2edf-4f54-85dd-81a3724d677f.lsx:7
 msgctxt "hfa7d165bg4450g40cag928eg01ad66b9d66a"
 msgid "HEALING_POTION tooltip"
-msgstr ""
+msgstr "HEALING_POTION tooltip"
 
 #. uuid = 18aef887-d7c7-46b9-4394-bbe3f14ac94a
 #. tag_name = INGREDIENT
@@ -1540,7 +1553,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/18aef887-d7c7-46b9-9443-e3bb4af14ac9.lsx:8
 msgctxt "h363e7a7cg772bg4e6dga982g6b9cd4bc77bc"
 msgid "INGREDIENT"
-msgstr ""
+msgstr "INGREDIENT"
 
 #. uuid = 18aef887-d7c7-46b9-4394-bbe3f14ac94a
 #. tag_name = INGREDIENT
@@ -1550,7 +1563,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/18aef887-d7c7-46b9-9443-e3bb4af14ac9.lsx:7
 msgctxt "hd24c863dge541g43d6ga96agad3158b233d3"
 msgid "INGREDIENT tooltip"
-msgstr ""
+msgstr "INGREDIENT tooltip"
 
 #. uuid = 1902723d-dd16-4e7a-d687-077b3af679dd
 #. tag_name = AI_HINT_UNIQUE
@@ -1560,7 +1573,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1902723d-dd16-4e7a-87d6-7b07f63add79.lsx:8
 msgctxt "h9b139e58g9d85g44ddg99deg98d9942b4b3f"
 msgid "AiHint_Unique"
-msgstr ""
+msgstr "AiHint_Unique"
 
 #. uuid = 1902723d-dd16-4e7a-d687-077b3af679dd
 #. tag_name = AI_HINT_UNIQUE
@@ -1570,7 +1583,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1902723d-dd16-4e7a-87d6-7b07f63add79.lsx:7
 msgctxt "h6fd667aeg6b01g4b41g9857gd2fb797b5427"
 msgid "AiHint_Unique tooltip"
-msgstr ""
+msgstr "AiHint_Unique tooltip"
 
 #. uuid = 193938c4-ed1c-4648-3faf-b5f4529192ec
 #. tag_name = HOBGOBLIN
@@ -1580,7 +1593,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/193938c4-ed1c-4648-af3f-f4b59152ec92.lsx:8
 msgctxt "h450b84b4g5793g478bgaff9g4895433ed27f"
 msgid "Hobgoblin"
-msgstr ""
+msgstr "홉고블린"
 
 #. uuid = 193938c4-ed1c-4648-3faf-b5f4529192ec
 #. tag_name = HOBGOBLIN
@@ -1594,6 +1607,8 @@ msgid ""
 "hobgoblins revel in the beauty of warfare. They also try to keep an iron "
 "boot on their chaotic goblinoid cousins."
 msgstr ""
+"잔혹할 정도로 공격적이면서도 명예로운, 호전적인 문화에서 자란 홉고블린들은 전쟁의 아름다움을 즐깁니다. 또한 이들은 혼돈적인 천성의 "
+"고블린족 친척들을 규율 아래에 두려고 노력합니다."
 
 #. uuid = 196351e2-ff25-4e2b-6085-2a22b9c6544a
 #. tag_name = ELEMENTAL
@@ -1603,7 +1618,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/196351e2-ff25-4e2b-8560-222ac6b94a54.lsx:8
 msgctxt "h481ac8e0g5a44g4ff6g86bag8ae11a2f0400"
 msgid "Elemental"
-msgstr ""
+msgstr "정령"
 
 #. uuid = 196351e2-ff25-4e2b-6085-2a22b9c6544a
 #. tag_name = ELEMENTAL
@@ -1613,7 +1628,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/196351e2-ff25-4e2b-8560-222ac6b94a54.lsx:7
 msgctxt "h4a7102b5gf519g4430ga17eg9ccd68b9c410"
 msgid "ELEMENTAL tooltip"
-msgstr ""
+msgstr "ELEMENTAL tooltip"
 
 #. uuid = 1ae7017c-4884-4a43-4abc-2f74d2a0c001
 #. tag_name = FIGHTER
@@ -1637,6 +1652,8 @@ msgid ""
 "relentless training. They move in armour like a second skin, and can wield "
 "any weapon with unmatched skill."
 msgstr ""
+"전술과 전투에 통달한 파이터들은 철저하고 가차없는 훈련의 산물입니다. 갑옷을 두 번째 피부처럼 편하게 입은 채 움직이며, 비할 데 없는 "
+"기술로 어떠한 종류의 무기든 다룰 수 있습니다."
 
 #. uuid = 1afa97c7-8b5c-4421-32a4-16a7cef6cdad
 #. tag_name = NIGHTMAREWITCH
@@ -1646,7 +1663,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1afa97c7-8b5c-4421-a432-a716f6ceadcd.lsx:8
 msgctxt "hf4ef2fb0ga966g47a5ga439gb63402633e49"
 msgid "NIGHTMARE WITCH"
-msgstr ""
+msgstr "NIGHTMARE WITCH"
 
 #. uuid = 1afa97c7-8b5c-4421-32a4-16a7cef6cdad
 #. tag_name = NIGHTMAREWITCH
@@ -1656,7 +1673,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1afa97c7-8b5c-4421-a432-a716f6ceadcd.lsx:7
 msgctxt "h0637ea2dgb20dg4775g9cf6gc8018b7bd352"
 msgid "NIGHTMAREWITCH tooltip"
-msgstr ""
+msgstr "NIGHTMAREWITCH tooltip"
 
 #. uuid = 1c12ee6d-50e2-459f-c890-56ae1170ce90
 #. tag_name = WPN_HAND_CROSSBOW
@@ -1666,7 +1683,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1c12ee6d-50e2-459f-90c8-ae56701190ce.lsx:8
 msgctxt "h8fa179b0g7878g4352gb858g5f34a54b294f"
 msgid "Hand Crossbow"
-msgstr ""
+msgstr "핸드 크로스보우"
 
 #. uuid = 1d156657-b014-48fa-4cb3-773248632706
 #. tag_name = UNDEAD_BEAST
@@ -1676,7 +1693,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1d156657-b014-48fa-b34c-327763480627.lsx:8
 msgctxt "h7d43a6d6g9725g4298g8d08g4b3aac7d7133"
 msgid "Undead Beast"
-msgstr ""
+msgstr "언데드 짐승"
 
 #. uuid = 1d156657-b014-48fa-4cb3-773248632706
 #. tag_name = UNDEAD_BEAST
@@ -1686,7 +1703,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1d156657-b014-48fa-b34c-327763480627.lsx:7
 msgctxt "hdf5e3defg9adcg48bfg96e2gd6e8bbef9c0e"
 msgid "UNDEAD_BEAST tooltip"
-msgstr ""
+msgstr "UNDEAD_BEAST tooltip"
 
 #. uuid = 1d6e36a6-d757-449b-4080-f32aa9f13a9c
 #. tag_name = COMPREHEND_LANGUAGES
@@ -1696,7 +1713,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1d6e36a6-d757-449b-8040-2af3f1a99c3a.lsx:8
 msgctxt "h72f9626egc6b9g4763g9f6cg15d33e2d05fa"
 msgid "Comprehend Languages"
-msgstr ""
+msgstr "언어 이해"
 
 #. uuid = 1dc20a7a-00e7-4126-ad80-11aaa2526c13
 #. tag_name = MOUNTAINDWARF
@@ -1706,7 +1723,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1dc20a7a-00e7-4126-80ad-aa1152a2136c.lsx:8
 msgctxt "h818c632cgb9c3g402dg8d4fg43d9660cf68c"
 msgid "Shield Dwarf"
-msgstr ""
+msgstr "실드 드워프"
 
 #. uuid = 1dc20a7a-00e7-4126-ad80-11aaa2526c13
 #. tag_name = MOUNTAINDWARF
@@ -1719,6 +1736,8 @@ msgid ""
 "Mountain dwarves thrive in rugged terrain, standing taller than their hill "
 "dwarf cousins. Their kingdoms are a bastion of strength in northern Faerûn."
 msgstr ""
+"산의 드워프들은 언덕에 사는 사촌들보다 키가 더 크고, 험준한 지형에서도 잘 삽니다. 이들의 왕국은 북부 페이룬에서 강대한 요새로 우뚝 "
+"서 있습니다."
 
 #. uuid = 1dff197e-b74c-4173-d394-32e139326c55
 #. tag_name = WPN_WARHAMMER
@@ -1728,7 +1747,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1dff197e-b74c-4173-94d3-e1323239556c.lsx:8
 msgctxt "ha8061a07g03e7g48fagbb9bgf0de8c65e01d"
 msgid "Warhammer"
-msgstr ""
+msgstr "워해머"
 
 #. uuid = 1ed04fb5-e654-4dbf-3c89-95a72e95e177
 #. tag_name = AGGRESSIVEBEAST
@@ -1738,7 +1757,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1ed04fb5-e654-4dbf-893c-a795952e77e1.lsx:8
 msgctxt "h7e5466eeg5bd6g4c71g8040g6cbb2bb3992a"
 msgid "AGGRESSIVE BEAST"
-msgstr ""
+msgstr "AGGRESSIVE BEAST"
 
 #. uuid = 1ed04fb5-e654-4dbf-3c89-95a72e95e177
 #. tag_name = AGGRESSIVEBEAST
@@ -1748,7 +1767,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1ed04fb5-e654-4dbf-893c-a795952e77e1.lsx:7
 msgctxt "hdae7d863gabf7g4c50gb58egb247253629e5"
 msgid "AGGRESSIVEBEAST tooltip"
-msgstr ""
+msgstr "AGGRESSIVEBEAST tooltip"
 
 #. uuid = 1eec74e8-3673-4500-ecab-b75784eded69
 #. tag_name = ILLITHID
@@ -1770,7 +1789,7 @@ msgctxt "h09ce69e7g2621g4110g90c0g3afbeb749754"
 msgid ""
 "Being implanted with a mind flayer tadpole is a fate worse than death. Isn't "
 "it?"
-msgstr ""
+msgstr "마인드 플레이어 올챙이가 머릿속에 심어지는 것은 죽음보다 더 나쁜 운명입니다. 그렇지 않습니까?"
 
 #. uuid = 1f0551f3-d769-47a9-2bb0-3a5d518c8c97
 #. tag_name = GNOME
@@ -1780,7 +1799,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/1f0551f3-d769-47a9-b02b-5d3a8c51978c.lsx:8
 msgctxt "h12accbabg698ag402cgaeebgb5b61bbcb049"
 msgid "Gnome"
-msgstr ""
+msgstr "노움"
 
 #. uuid = 1f0551f3-d769-47a9-2bb0-3a5d518c8c97
 #. tag_name = GNOME
@@ -1793,6 +1812,8 @@ msgid ""
 "Small, clever, and energetic, gnomes use their centuries-long lifespans to "
 "explore and invent in Faerûn's brightest corners and darkest depths. "
 msgstr ""
+"작고 영리하며 활기가 넘치는 노움들은, 수백 년에 달하는 인생을 페이룬의 가장 밝은 모퉁이와 가장 어두운 동굴들을 탐험하고 발명을 하는 "
+"데 바칩니다. "
 
 #. uuid = 206f9701-7b24-4eaf-c49a-77a4c246e251
 #. tag_name = WPN_SCIMITAR
@@ -1802,7 +1823,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/206f9701-7b24-4eaf-9ac4-a47746c251e2.lsx:8
 msgctxt "he44f849dgbf7bg4c0cga490g57dbbc449027"
 msgid "Scimitar"
-msgstr ""
+msgstr "시미터"
 
 #. uuid = 22e5209c-eaeb-40dc-efb6-71a34179c210
 #. tag_name = CONSTRUCT
@@ -1812,7 +1833,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/22e5209c-eaeb-40dc-b6ef-a371794110c2.lsx:8
 msgctxt "h148c65b8g67adg49b8g81f7g3c220226cd6e"
 msgid "Construct"
-msgstr ""
+msgstr "구조물"
 
 #. uuid = 22e5209c-eaeb-40dc-efb6-71a34179c210
 #. tag_name = CONSTRUCT
@@ -1822,7 +1843,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/22e5209c-eaeb-40dc-b6ef-a371794110c2.lsx:7
 msgctxt "h0b27a505g3aa1g48c1gab33gd525b93f2f24"
 msgid "CONSTRUCT tooltip"
-msgstr ""
+msgstr "CONSTRUCT tooltip"
 
 #. uuid = 23541bea-8177-496d-8bb5-9cc2134f2cc2
 #. tag_name = KELEMVOR
@@ -1832,7 +1853,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/23541bea-8177-496d-b58b-c29c4f13c22c.lsx:8
 msgctxt "ha91b987agb884g4800gae54g0312df00e080"
 msgid "Kelemvor"
-msgstr ""
+msgstr "켈렘보르"
 
 #. uuid = 249ba319-6652-47ec-319f-5bef54e5c329
 #. tag_name = CORPSE_SPOKEN
@@ -1842,7 +1863,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/249ba319-6652-47ec-9f31-ef5be55429c3.lsx:8
 msgctxt "h46518510g269eg496fgb0e2g8afd1065df4b"
 msgid "Speaking Corpse"
-msgstr ""
+msgstr "말하는 시체"
 
 #. uuid = 249ba319-6652-47ec-319f-5bef54e5c329
 #. tag_name = CORPSE_SPOKEN
@@ -1852,7 +1873,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/249ba319-6652-47ec-9f31-ef5be55429c3.lsx:7
 msgctxt "hb6a709d2g1e70g4439gb803gf18da2cbc24a"
 msgid "This corpse has been the target of a Speak with Dead spell."
-msgstr ""
+msgstr "이 시체는 죽은 자와 대화 주문의 대상이 되었습니다."
 
 #. uuid = 2502057c-6210-4dcb-4399-12289cb53737
 #. tag_name = PALADIN_BANE
@@ -1875,6 +1896,8 @@ msgid ""
 "Bane is the god of hatred, fear, and tyranny. His paladins are often "
 "remorseless commanders, leading armies dedicated to crushing the weak."
 msgstr ""
+"베인은 증오와 공포, 그리고 폭정의 신입니다. 그의 팔라딘들은 무자비한 지휘관이 되어, 약한 자들을 박살내는 데 전념하는 군대를 이끌고는 "
+"합니다."
 
 #. uuid = 2503012b-9cc4-491c-68a0-2f28ea8c0787
 #. tag_name = WPN_MAUL
@@ -1884,7 +1907,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2503012b-9cc4-491c-a068-282f8cea8707.lsx:8
 msgctxt "hf3cbadb9g2a10g48d4gaa10gc47927dabc53"
 msgid "Maul"
-msgstr ""
+msgstr "마울"
 
 #. uuid = 264a6880-9a51-429c-fca9-f8972b9590af
 #. tag_name = REALLY_GENERIC
@@ -1894,7 +1917,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/264a6880-9a51-429c-a9fc-97f8952baf90.lsx:8
 msgctxt "h04508495g5a4cg4b6ag9881g85dab759ac0a"
 msgid "Custom"
-msgstr ""
+msgstr "커스텀"
 
 #. uuid = 264a6880-9a51-429c-fca9-f8972b9590af
 #. tag_name = REALLY_GENERIC
@@ -1904,7 +1927,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/264a6880-9a51-429c-a9fc-97f8952baf90.lsx:7
 msgctxt "h9fc1dc79ge9f2g46ebga2d1g145dec0338c2"
 msgid "An enthusiastic adventurer of remarkable spirit and mettle."
-msgstr ""
+msgstr "주목할만한 정신과 패기를 지닌 열정적인 모험가입니다."
 
 #. uuid = 26c78224-a4c1-43e4-43b9-e7751bfa41fa
 #. tag_name = SUMMON
@@ -1914,7 +1937,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/26c78224-a4c1-43e4-b943-75e7fa1bfa41.lsx:8
 msgctxt "h21add139g1d55g4840g9a7cgd851c95f2591"
 msgid "SUMMON"
-msgstr ""
+msgstr "SUMMON"
 
 #. uuid = 26c78224-a4c1-43e4-43b9-e7751bfa41fa
 #. tag_name = SUMMON
@@ -1924,7 +1947,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/26c78224-a4c1-43e4-b943-75e7fa1bfa41.lsx:7
 msgctxt "h18116268g0fc3g4732g87acg1906d2592035"
 msgid "SUMMON tooltip"
-msgstr ""
+msgstr "SUMMON tooltip"
 
 #. uuid = 273296fc-764e-4119-6eb3-c2a29cf2b196
 #. tag_name = Tool
@@ -1934,7 +1957,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/273296fc-764e-4119-b36e-a2c2f29c96b1.lsx:8
 msgctxt "h62b6d4f7g2f3ag4b1bgb01cg81feee2f018d"
 msgid "TOOL"
-msgstr ""
+msgstr "TOOL"
 
 #. uuid = 273296fc-764e-4119-6eb3-c2a29cf2b196
 #. tag_name = Tool
@@ -1944,7 +1967,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/273296fc-764e-4119-b36e-a2c2f29c96b1.lsx:7
 msgctxt "h2eebff53g4205g4070gbe05g3a36ea90c30d"
 msgid "Tool tooltip"
-msgstr ""
+msgstr "Tool tooltip"
 
 #. uuid = 277f9609-ad0c-4883-6db5-50084e90df88
 #. tag_name = REALLY_HALFELF
@@ -1968,6 +1991,8 @@ msgid ""
 "never quite fitting in. Curious, ambitious, and versatile, half-elves are "
 "welcome everywhere - yet struggle to stay for long."
 msgstr ""
+"하프 엘프는 부모 양쪽으로부터 축복을 물려받지만, 그에 따른 대가 또한 큽니다. 호기심 많고 열성적이며 다재다능한 하프 엘프는 어딜 가던 "
+"환영받지만, 오래 머무르지는 못합니다."
 
 #. uuid = 2947a463-3c45-4a70-9a95-813e43a992ab
 #. tag_name = CLERIC_NEUTRAL
@@ -1977,7 +2002,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2947a463-3c45-4a70-959a-3e81a943ab92.lsx:8
 msgctxt "hfb436b0cga6d9g4788g8bd1g527d51242724"
 msgid "Neutral Cleric"
-msgstr ""
+msgstr "중립 클레릭"
 
 #. uuid = 2947a463-3c45-4a70-9a95-813e43a992ab
 #. tag_name = CLERIC_NEUTRAL
@@ -1991,6 +2016,8 @@ msgid ""
 "further their faith. Helm, Kelemvor, Oghma, and Tempus are common gods they "
 "worship."
 msgstr ""
+"중립 클레릭은 균형, 공정, 공명정대함이라는 이상을 따르며 그들의 신앙을 키웁니다. 이들이 주로 섬기는 신은 헬름, 켈렘보르, 오그마, "
+"템푸스입니다."
 
 #. uuid = 298e9df0-bd3c-40f4-ae82-ad147db72e7c
 #. tag_name = BEAR
@@ -2000,7 +2027,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/298e9df0-bd3c-40f4-82ae-14adb77d7c2e.lsx:8
 msgctxt "h1d477aa7ga915g4178gbaa7g7ad86a065239"
 msgid "Bear"
-msgstr ""
+msgstr "곰"
 
 #. uuid = 298e9df0-bd3c-40f4-ae82-ad147db72e7c
 #. tag_name = BEAR
@@ -2010,7 +2037,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/298e9df0-bd3c-40f4-82ae-14adb77d7c2e.lsx:7
 msgctxt "h051d0ab8g50dcg41ecg9235gb5459d95479e"
 msgid "BEAR tooltip"
-msgstr ""
+msgstr "BEAR tooltip"
 
 #. uuid = 2a4f9fcc-5891-4150-3fbf-19a29ae6337f
 #. tag_name = DONOTUSE_COMPANION
@@ -2020,7 +2047,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2a4f9fcc-5891-4150-bf3f-a219e69a7f33.lsx:8
 msgctxt "h9b5e63ddg6c2dg4236g8b7eg062aa864f175"
 msgid "COMPANION"
-msgstr ""
+msgstr "COMPANION"
 
 #. uuid = 2a4f9fcc-5891-4150-3fbf-19a29ae6337f
 #. tag_name = DONOTUSE_COMPANION
@@ -2030,7 +2057,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2a4f9fcc-5891-4150-bf3f-a219e69a7f33.lsx:7
 msgctxt "hd0149b8dg0c29g48c7gbcf1g571f26915947"
 msgid "COMPANION tooltip"
-msgstr ""
+msgstr "COMPANION tooltip"
 
 #. uuid = 2b40a033-7a5c-47e9-f092-e97dcdb5423a
 #. tag_name = REALLY_HALFLING
@@ -2062,7 +2089,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2bbc3217-3d8c-46e6-b599-a0f1c9063f9a.lsx:8
 msgctxt "h97d4be66g5581g41b7g8507g390f3356fafd"
 msgid "Deep Gnome"
-msgstr ""
+msgstr "딥 노움"
 
 #. uuid = 2bbc3217-3d8c-46e6-99b5-f1a006c99a3f
 #. tag_name = DEEPGNOME
@@ -2076,6 +2103,8 @@ msgid ""
 "loyalty and cunning. Their darkvision and training in stealth keep them "
 "alive in the hostile Underdark."
 msgstr ""
+"지상의 노움들보다 더 조심스러운 딥 노움들은 그 충직함과 교활함으로 잘 알려져 있습니다. 암시야와 은신 훈련이 이들을 적대적인 "
+"언더다크에서 살아남을 수 있게 해줍니다."
 
 #. uuid = 2c74855f-769a-43f5-dbb6-c44877c4ff21
 #. tag_name = WPN_HALBERD
@@ -2085,7 +2114,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2c74855f-769a-43f5-b6db-48c4c47721ff.lsx:8
 msgctxt "h77fe860ag78e0g4987g8df0g5244a4b366ab"
 msgid "Halberd"
-msgstr ""
+msgstr "할버드"
 
 #. uuid = 2cc23bb9-d777-4265-4ca3-35336228908b
 #. tag_name = WPN_HEAVY_CROSSBOW
@@ -2095,7 +2124,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2cc23bb9-d777-4265-a34c-333528628b90.lsx:8
 msgctxt "he03c1732ga33cg4c73gbe94gac047ed153ce"
 msgid "Heavy Crossbow"
-msgstr ""
+msgstr "헤비 크로스보우"
 
 #. uuid = 2d0a73b9-f113-4d35-eebd-1aa316b9743d
 #. tag_name = REALLY_UNDERDARK
@@ -2117,7 +2146,7 @@ msgctxt "h8b4a242dg7a6eg475bg9c31g15a753d03647"
 msgid ""
 "Being raised in the Underdark casts a cruel shadow on one's view of the "
 "world, even up on the surface."
-msgstr ""
+msgstr "언더다크에서 자란 자는 관점에 잔혹한 그림자를 드리운 채 세상을 보게 됩니다. 지상 세계로 나가게 되더라도 말입니다."
 
 #. uuid = 2de0a4fc-5831-4439-d394-ffa77a9bf6ac
 #. tag_name = PALADIN_DEVOTION
@@ -2149,7 +2178,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2f277b95-581b-4aee-995d-0e6488d16e78.lsx:8
 msgctxt "h03dc7ce3g8d46g466cgb979g4d5be07fc137"
 msgid "Jailor"
-msgstr ""
+msgstr "Jailor"
 
 #. uuid = 2f277b95-581b-4aee-5d99-640ed188786e
 #. tag_name = JAILOR
@@ -2159,7 +2188,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/2f277b95-581b-4aee-995d-0e6488d16e78.lsx:7
 msgctxt "h973ec23dgd13dg4a86ga141g631f3310fd99"
 msgid "JAILOR tooltip"
-msgstr ""
+msgstr "JAILOR tooltip"
 
 #. uuid = 2fa3f042-2b50-41b2-4580-dd3942d4a91c
 #. tag_name = HERMIT
@@ -2214,7 +2243,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/306b9b05-1057-4770-aa17-01af21acd650.lsx:8
 msgctxt "h15fc75eeg6c56g42e5g8882gbfdd714c5845"
 msgid "Avatar"
-msgstr ""
+msgstr "Avatar"
 
 #. uuid = 306b9b05-1057-4770-17aa-af01ac2150d6
 #. tag_name = AVATAR
@@ -2224,7 +2253,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/306b9b05-1057-4770-aa17-01af21acd650.lsx:7
 msgctxt "h3473edefgdc77g4959ga02bgebcf133c828e"
 msgid "AVATAR tooltip"
-msgstr ""
+msgstr "AVATAR tooltip"
 
 #. uuid = 31d96353-a4b8-4abf-ce9c-a9f74e17da65
 #. tag_name = CLERIC_TEMPUS
@@ -3427,7 +3456,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/5804f55a-93f7-4281-9512-8d548a9e2a22.lsx:8
 msgctxt "h950bcf33g170cg417egbb0cg93c474899b10"
 msgid "Warlock"
-msgstr ""
+msgstr "워락"
 
 #. uuid = 5804f55a-93f7-4281-1295-548d9e8a222a
 #. tag_name = WARLOCK
@@ -3793,7 +3822,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/676e854b-d74b-44f3-8363-3ef27164a54d.lsx:8
 msgctxt "h3fdf92d5gcfa4g4c18g9fd0g0d823cc2d0d5"
 msgid "Drow"
-msgstr ""
+msgstr "드로우"
 
 #. uuid = 676e854b-d74b-44f3-6383-f23e64714da5
 #. tag_name = REALLY_DROWELF
@@ -3818,7 +3847,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/677ffa76-2562-4217-873e-2253d4720ba4.lsx:8
 msgctxt "hc47f3214g93d9g4d8fg964fgdd6113edc5d7"
 msgid "Githyanki"
-msgstr ""
+msgstr "기스양키"
 
 #. uuid = 677ffa76-2562-4217-3e87-532272d4a40b
 #. tag_name = GITHYANKI
@@ -3906,7 +3935,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/69fd1443-7686-4ca9-9516-72ec0b9d94d7.lsx:8
 msgctxt "hc17058d2gd04bg4469ga9f8g6e9bc4828ad3"
 msgid "Human"
-msgstr ""
+msgstr "인간"
 
 #. uuid = 69fd1443-7686-4ca9-1695-ec729d0bd794
 #. tag_name = HUMAN
@@ -4071,7 +4100,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/6fe3ae27-dc6c-4fc9-9245-710c790c396c.lsx:8
 msgctxt "h794117b8g3a50g4399gb755gc446b1d0837b"
 msgid "Wizard"
-msgstr ""
+msgstr "위저드"
 
 #. uuid = 6fe3ae27-dc6c-4fc9-4592-0c710c796c39
 #. tag_name = WIZARD
@@ -4996,7 +5025,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/8e288154-e7ca-4277-b2df-e61639b1cce8.lsx:8
 msgctxt "h3db43a2cg8878g457fg85e5g0569118ba759"
 msgid "Human"
-msgstr ""
+msgstr "인간"
 
 #. uuid = 8e288154-e7ca-4277-dfb2-16e6b139e8cc
 #. tag_name = REALLY_HUMAN
@@ -5376,7 +5405,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/987a41e3-2482-4c74-8c30-f3843cfdb7f3.lsx:8
 msgctxt "h19573116g3a0fg4777ga775g1ec4dd6e834d"
 msgid "Rare"
-msgstr ""
+msgstr "희귀"
 
 #. uuid = 987da248-4855-40b8-8291-f04fb74e3dc1
 #. tag_name = IDENTITY_NEUTRAL
@@ -5690,7 +5719,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/a672ac1d-d088-451a-9537-3da4bf74466c.lsx:8
 msgctxt "hd948c2a3gd98bg466bgae65g849b0c8ec5c0"
 msgid "Drow"
-msgstr ""
+msgstr "드로우"
 
 #. uuid = a672ac1d-d088-451a-3795-a43d74bf6c46
 #. tag_name = DROWELF
@@ -5935,7 +5964,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/ad129444-0f41-4114-9ee5-2b9902d7ca8d.lsx:8
 msgctxt "h036d072dg8426g4c5fg97a3gdb98c5d7cf07"
 msgid "Dwarf"
-msgstr ""
+msgstr "드워프"
 
 #. uuid = ad129444-0f41-4114-e59e-992bd7028dca
 #. tag_name = REALLY_DWARF
@@ -6183,7 +6212,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/b99b6a5d-8445-44e4-ac58-81b2ee88aab1.lsx:8
 msgctxt "h31aa8dacg6ce8g496cg9ca8g7355cb563f08"
 msgid "Halfling"
-msgstr ""
+msgstr "하플링"
 
 #. uuid = b99b6a5d-8445-44e4-58ac-b28188eeb1aa
 #. tag_name = HALFLING
@@ -6826,7 +6855,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/d2f86ec3-c41f-47e1-8acd-984872a4d7d5.lsx:8
 msgctxt "h66854b0eg1695g4efdgb6e7ga72abafade17"
 msgid "Rare"
-msgstr ""
+msgstr "희귀"
 
 #. uuid = d3be3db4-1261-422d-ffa2-622668a0fd84
 #. tag_name = SALAMANDER
@@ -6928,7 +6957,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/d93434bd-6b71-4789-b128-ee24156057cc.lsx:8
 msgctxt "he70356f9gb39bg4149g9f6cg2b94736554d6"
 msgid "Bard"
-msgstr ""
+msgstr "바드"
 
 #. uuid = d93434bd-6b71-4789-28b1-24ee6015cc57
 #. tag_name = BARD
@@ -7059,7 +7088,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/dc9e09f0-b2ba-4720-bd28-ee9ddbdef2f1.lsx:8
 msgctxt "hc1e6b4afge8b5g42cbg82ffg07abeaafb895"
 msgid "Shield"
-msgstr ""
+msgstr "방패"
 
 #. uuid = dd86c045-0370-4ec9-c5b7-b1b07060096f
 #. tag_name = SCROLL
@@ -7211,7 +7240,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/e49c027c-6ec6-4158-9afb-8b59236d10fd.lsx:8
 msgctxt "hd7c9e050gc312g47e2gaccag5e0f11bebd4b"
 msgid "Githyanki"
-msgstr ""
+msgstr "기스양키"
 
 #. uuid = e49c027c-6ec6-4158-fb9a-598b6d23fd10
 #. tag_name = REALLY_GITHYANKI
@@ -7602,7 +7631,7 @@ msgstr ""
 #: Shared/Public/Shared/Tags/f8a0608b-666c-4be6-a49c-03b369c10bd2.lsx:8
 msgctxt "h7c6002e9g298dg40c4g8023g1dd681f8d627"
 msgid "Rogue"
-msgstr ""
+msgstr "로그"
 
 #. uuid = f8a0608b-666c-4be6-9ca4-b303c169d20b
 #. tag_name = ROGUE

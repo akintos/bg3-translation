@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-01-22 14:52+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2023-01-26 03:52+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2145,7 +2145,7 @@ msgstr "가끔씩"
 #: Game/Public/Game/GUI/Library/OptionTemplates_Shared.xaml:288
 msgctxt "heb7ba0d5g7f4cg49e9g9ce2g86cf5e5bd277"
 msgid "Rare"
-msgstr "드물게"
+msgstr "희귀"
 
 #: Game/Public/Game/GUI/Library/OptionTemplates_Shared.xaml:292
 msgctxt "hf55f2b8bgffa6g4589ga3c2g3e960d208aec"
@@ -2619,7 +2619,7 @@ msgstr "캐릭터 선택"
 #: Game/Public/Game/GUI/Widgets/Minimap_c.xaml:75
 msgctxt "h8be1f0ddgdfa7g4812ga2b5g04854b2a1a65"
 msgid "Early Access"
-msgstr "얼리억세스"
+msgstr "얼리 액세스"
 
 #: Game/Public/Game/GUI/Widgets/Eula.xaml:72
 #: Game/Public/Game/GUI/Widgets/Eula.xaml:265
@@ -2837,7 +2837,7 @@ msgstr "패시브 요소"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4598
 msgctxt "hab8d8423g3797g4f2ega601g18f13af5add6"
 msgid "Approval"
-msgstr "승인"
+msgstr "찬성도"
 
 #: Game/Public/Game/GUI/Widgets/Examine.xaml:554
 #: Game/Public/Game/GUI/Widgets/Examine_c.xaml:687
@@ -3127,7 +3127,7 @@ msgid ""
 "succeeds if the roll matches or exceeds the target's <LSTag Tooltip="
 "\"ArmourClass\">Armour Class</LSTag>."
 msgstr ""
-"공격이 대상에 명중하는지 결정하는 주사위 굴림입니다. 공격은 대상의<LSTag Tooltip=\"ArmourClass\">방어도</"
+"공격이 대상에 명중하는지 결정하는 주사위 굴림입니다. 공격은 대상의 <LSTag Tooltip=\"ArmourClass\">방어도</"
 "LSTag> 이상의 주사위값이 나올시 성공합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:1806
@@ -4222,7 +4222,7 @@ msgstr "지혜"
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:3929
 msgctxt "ha2fc9b3dg3305g404eg9256gf25a06d0b2aa"
 msgid "CHA"
-msgstr "카리스마"
+msgstr "매력"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5722
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5731
@@ -4831,7 +4831,7 @@ msgstr "참격 피해"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:9561
 msgctxt "hea17a85cg4aaag4679g9cbdge242e8f3bb9a"
 msgid "from <hl>[1]</hl>"
-msgstr "<hl>[1]</hl>로부터"
+msgstr "<hl>[1]</hl>으로부터"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8595
 msgctxt "h59125b90g01acg47d1g9b6fg239f85116364"
@@ -5015,7 +5015,7 @@ msgid ""
 "attack succeeds if the roll matches or exceeds the target's <LSTag Tooltip="
 "\"ArmourClass\">Armour Class</LSTag>."
 msgstr ""
-"공격이 대상에 명중하는지 결정하는 주사위 굴림입니다. 공격은 대상의<LSTag Tooltip=\"ArmourClass\">방어도</"
+"공격이 대상에 명중하는지 결정하는 주사위 굴림입니다. 공격은 대상의 <LSTag Tooltip=\"ArmourClass\">방어도</"
 "LSTag> 이상의 주사위값이 나올시 성공합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:9481
@@ -6877,13 +6877,13 @@ msgstr "정렬 기준"
 #: Game/Public/Game/GUI/Widgets/Trade_c.xaml:413
 msgctxt "h95f2cfd5g8628g4cb5g9002g8ef2e69a49fa"
 msgid "Profit"
-msgstr "이익"
+msgstr "이득"
 
 #: Game/Public/Game/GUI/Widgets/Trade.xaml:347
 #: Game/Public/Game/GUI/Widgets/Trade_c.xaml:425
 msgctxt "h59259fb2gc248g400fgb872g53b804b88473"
 msgid "Loss"
-msgstr "손실"
+msgstr "지불"
 
 #: Game/Public/Game/GUI/Widgets/Trade.xaml:450
 #: Game/Public/Game/GUI/Widgets/Trade.xaml:571
