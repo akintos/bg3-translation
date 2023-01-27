@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-01-26 03:52+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2023-01-27 06:52+0000\n"
+"Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/system/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -671,11 +671,11 @@ msgstr "[3] 님이 [2] 에게서 [1] 가져감"
 
 msgctxt "h0348da17gacb6g4dc5ga8d1g96588e5a2584"
 msgid "and <br>[1] from [2] using magic pockets."
-msgstr "또한 <br>마법의 주머니로 [2] 로부터 [1] 을(를) 가져감."
+msgstr "또한 <br>마법의 주머니로 [2] 에게서 [1] 을(를) 가져감."
 
 msgctxt "h0b6701c5g93d0g4507ga58cg2e960db8ff8a"
 msgid ", <br>[1] from [2]"
-msgstr ", <br>[2] 로부터 [1]"
+msgstr ", <br>[2] 으로부터 [1]"
 
 msgctxt "h2e4e21e9g93fbg4f93g9002ga4b805dde5c2"
 msgid "Shared Stash"
@@ -838,7 +838,7 @@ msgstr "다음이 충분하지 않음 : [1]"
 
 msgctxt "h826971d7gc2c1g4081g96e8gc6f0b5606ebb"
 msgid "Incompatible with [1] [2]"
-msgstr ""
+msgstr "다음과 호환되지 않음: [1] [2]"
 
 msgctxt "ha3189283gf864g4f36gab2ag1cc45fc0629c"
 msgid "Missing [1] [2]"
@@ -992,35 +992,35 @@ msgstr "재구입"
 
 msgctxt "hc7505159gb784g48a6gace2g3b876aaacf21"
 msgid "Showing Equipped"
-msgstr ""
+msgstr "착용된 장비 표시중"
 
 msgctxt "hd5a629b7g2908g43c3g9a3dg1058c95e84d3"
 msgid "Showing Equipment"
-msgstr ""
+msgstr "장비 표시중"
 
 msgctxt "h269841abga95bg44dbgb2a0gcd544868cb17"
 msgid "Showing Consumables"
-msgstr ""
+msgstr "소모품 표시중"
 
 msgctxt "hffb734a7g7f58g427dga86egdd18eca99d1f"
 msgid "Showing Ingredients"
-msgstr ""
+msgstr "재료 표시중"
 
 msgctxt "hbee04b2bg679fg4f13g8e2bge850027319a9"
 msgid "Showing Magical"
-msgstr ""
+msgstr "마법물품 표시중"
 
 msgctxt "hd4f5ead4gfc4cg4ef4gac3bgbe44abae7c96"
 msgid "Showing Books and Keys"
-msgstr ""
+msgstr "책과 열쇠 표시중"
 
 msgctxt "h9089ba48g8a87g4541gba63g941d0422f943"
 msgid "Showing Miscellaneous"
-msgstr ""
+msgstr "기타 표시중"
 
 msgctxt "h21b940c4g4e00g4393ga255gc51d49902df4"
 msgid "Showing Wares"
-msgstr ""
+msgstr "판매품 표시중"
 
 msgctxt "he30f9c87g9381g4d69g8bd8g97a2022540b7"
 msgid "[1]h [2]m"
@@ -2645,15 +2645,15 @@ msgstr "[1] 게임 참여"
 
 msgctxt "h25f6aa7fgb4e2g4724g8a8fg51147f01881b"
 msgid "created"
-msgstr ""
+msgstr "생성됨"
 
 msgctxt "hcd0c5899ge014g486bgbc5fgd9ae916509dc"
 msgid "cone"
-msgstr ""
+msgstr "원뿔"
 
 msgctxt "hae4eec8cg0e4bg41c5gb09cg2edaf72e34ff"
 msgid "Tav"
-msgstr ""
+msgstr "Tav"
 
 msgctxt "h92797e07g15c4g4b60g9b6bg0acfa7bb3436"
 msgid "Attack"
@@ -3125,7 +3125,7 @@ msgstr "화염"
 
 msgctxt "h95295c6ag8609g4964g80b8g6caa0b15678a"
 msgid "Lightning"
-msgstr "전기"
+msgstr "번개"
 
 msgctxt "hb8dac175g7c56g4b3fgba56g78395650bd2e"
 msgid "Cold"
@@ -3661,7 +3661,7 @@ msgstr "내레이터 음성"
 
 msgctxt "h72a721c3gedd1g4fe5g8a5dg0a07325730e3"
 msgid "Voice Overhead"
-msgstr ""
+msgstr "머리 위 음성"
 
 msgctxt "h9eca94d8ga1fbg4e14g8551ge76d11eae20e"
 msgid "Controller Vibration"
@@ -3777,7 +3777,7 @@ msgstr "아이템 사용 횟수 없음<br>"
 
 msgctxt "h9500dd57g6059g4b7agacd8g02326fac8c0f"
 msgid "Source-Muted. Can't cast.<br>"
-msgstr ""
+msgstr "근원 차단됨. 시전 불가능.<br>"
 
 msgctxt "h3cda0031g251eg4562g807fg3f9559268ff6"
 msgid "Disarmed. Can't cast.<br>"
@@ -3904,6 +3904,7 @@ msgid ""
 "Can't cast Spells - not <LSTag Tooltip=\"ArmourProficiency\">Proficient</"
 "LSTag> with equipped shield."
 msgstr ""
+"주문 시전 불가 - 방패 착용에 <LSTag Tooltip=\"ArmourProficiency\">숙련</LSTag>되지 않았습니다."
 
 msgctxt "h53ed237cg0949g4e27gb53fg60852051c2a1"
 msgid "Recharging required.<br>"
@@ -4620,7 +4621,7 @@ msgstr "목걸이"
 
 msgctxt "ha65f720fg4fd2g4f73ga847g89881c7fadaf"
 msgid "Back"
-msgstr ""
+msgstr "등"
 
 msgctxt "hff459609g099bg4cfcg885fg87c3d9e54f59"
 msgid "Head"
@@ -4971,7 +4972,7 @@ msgstr "무기의 유효 거리입니다."
 
 msgctxt "h3c9ffd72g807dg4f81gbde0gded8ff1b45e1"
 msgid "An object's weight."
-msgstr ""
+msgstr "물체의 무게입니다."
 
 msgctxt "h784f42a9g95e6g4a55gb2b5g3ef52f6bbee6"
 msgid "[1] Damage"
@@ -4979,55 +4980,55 @@ msgstr "[1] 피해"
 
 msgctxt "h36853db0g3a71g4bacgafb9g74a26ff4e7f9"
 msgid "[1] Bludgeoning damage"
-msgstr ""
+msgstr "[1] 부수기 피해"
 
 msgctxt "he58a3731gdf91g42f6g9f4fgf54af7bd2844"
 msgid "[1] Slashing damage"
-msgstr ""
+msgstr "[1] 베기 피해"
 
 msgctxt "h147b4a91g438eg42f2gb959g93dd54916f62"
 msgid "[1] Piercing damage"
-msgstr ""
+msgstr "[1] 찌르기 피해"
 
 msgctxt "h1710e205gc60ag4df1g8336g4702454ae2fc"
 msgid "[1] Acid damage"
-msgstr ""
+msgstr "[1] 산성 피해"
 
 msgctxt "h51a3e5a7g4e52g41b7ga181g47514242cbda"
 msgid "[1] Thunder damage"
-msgstr ""
+msgstr "[1] 천둥 피해"
 
 msgctxt "h1b787b09g3d12g40e4g971ag2f0b7bfddb5b"
 msgid "[1] Necrotic damage"
-msgstr ""
+msgstr "[1] 괴저 피해"
 
 msgctxt "hd30d58a7g3376g4b01ga18fg20590e2a9158"
 msgid "[1] Fire damage"
-msgstr ""
+msgstr "[1] 화염 피해"
 
 msgctxt "he1d3aa1dg41ddg45bcga121gd2e936962fdb"
 msgid "[1] Lightning damage"
-msgstr ""
+msgstr "[1] 번개 피해"
 
 msgctxt "h93274007gd97bg4e20g8111g1e76d05914ef"
 msgid "[1] Cold damage"
-msgstr ""
+msgstr "[1] 냉기 피해"
 
 msgctxt "h3b2709cdgad15g47b3gaab8g56317d8afd6b"
 msgid "[1] Psychic damage"
-msgstr ""
+msgstr "[1] 정신 피해"
 
 msgctxt "h6a236b95g8c37g4a0cg942ag869faf1d412a"
 msgid "[1] Poison damage"
-msgstr ""
+msgstr "[1] 독 피해"
 
 msgctxt "h53b5886bg452cg416cgbf0agf6fc94a14e4e"
 msgid "[1] Radiant damage"
-msgstr ""
+msgstr "[1] 광휘 피해"
 
 msgctxt "hd026ff7fg589eg4d58ga25cg41a728a72d3c"
 msgid "[1] Force damage"
-msgstr ""
+msgstr "[1] 역장 피해"
 
 msgctxt "h8c63b44agf159g4aa7g878bg1ed2a817865e"
 msgid "Damage Roll"
@@ -5035,7 +5036,7 @@ msgstr "피해 굴림"
 
 msgctxt "ha5323d84gaf2bg41f9g815fga0ec70cc9dcd"
 msgid "Hiding"
-msgstr ""
+msgstr "숨기"
 
 msgctxt "hab6103cdg3d5dg4a85ga0b4gbd3f45024a7a"
 msgid "Sleight of Hand"
@@ -5047,7 +5048,7 @@ msgstr "함정 해제"
 
 msgctxt "hc1bde738g4958g40e5ga060gd9001368f1e7"
 msgid "Concentration Saving Throw"
-msgstr ""
+msgstr "집중 내성 굴림"
 
 msgctxt "h4e244836g1337g4ab9g91b5gac4a77471ac9"
 msgid "[1]d[2][3][4]"
@@ -5055,11 +5056,11 @@ msgstr "[1]d[2][3][4]"
 
 msgctxt "h17a7e2fcga1f2g4bf7gb6c6g8227fd294c53"
 msgid "Inflicts Conditions"
-msgstr ""
+msgstr "상태를 부여"
 
 msgctxt "hbebf6a4ege9cag4a84gad0bgca907b228bf1"
 msgid "Unknown item"
-msgstr ""
+msgstr "알 수 없는 아이템"
 
 msgctxt "hb3a2f32agb92dg4fdeg943eg3e5ab51eb505"
 msgid "Arrows"
@@ -5139,7 +5140,7 @@ msgstr ""
 
 msgctxt "hdc14fc8dgb21ag4a3cg9bfbg48bf7fa35c1d"
 msgid "A Mystery Resolved"
-msgstr ""
+msgstr "수수께끼 해결"
 
 msgctxt "h09e0a964g9015g4fc3g803fg330260534d61"
 msgid "Item received"
@@ -5243,7 +5244,7 @@ msgstr "주문을 더 준비할 수 없음"
 
 msgctxt "h7d32577dg477cg4f89g815cg87642153ca00"
 msgid "[1] shares [3] with [2]"
-msgstr ""
+msgstr "[1]: [2]에게 [3] 공유함"
 
 msgctxt "hae5f7d79g4e03g44bdga545ga2e456358cbf"
 msgid "[1] cannot be unequipped"
@@ -5255,7 +5256,7 @@ msgstr "(끝)"
 
 msgctxt "h386c152fg7c8eg4e13gbf8cg2d8dc9582b15"
 msgid "Continue. (Cinematic pending)"
-msgstr ""
+msgstr "계속하기. (시네마틱 보류 중)"
 
 msgctxt "h09dcd4efg7a5eg4284g8214g0bb5b5e5640c"
 msgid "(continue)"
@@ -5283,11 +5284,11 @@ msgstr "이동 중..."
 
 msgctxt "hd8721b91gabb7g4972ga908gff35df3de5ca"
 msgid "Getting in range..."
-msgstr ""
+msgstr "사정거리로 다가가는 중..."
 
 msgctxt "hc215a03eg656fg4c3ag998cg0d8c269013dd"
 msgid "[1] on [2]"
-msgstr ""
+msgstr "[2] 에게 [1]"
 
 msgctxt "h64aa0baege2c0g4691g8df7g2bc21aeeb68f"
 msgid "multiple targets"
@@ -5386,7 +5387,7 @@ msgstr ""
 
 msgctxt "h95f7bb65gd02dg4e1fg814fg9c97df4a8ce2"
 msgid "Tattoo Intensity"
-msgstr ""
+msgstr "문신 색조"
 
 msgctxt "h9c2aeaf8gd865g4b79g9034gce7f17c10b96"
 msgid "All Tattoo Colours"
@@ -5394,7 +5395,7 @@ msgstr "모든 문신 색"
 
 msgctxt "h4273d019gbf83g4cebg8e10g2ba098442dcf"
 msgid "Makeup Intensity"
-msgstr ""
+msgstr "화장 색조"
 
 msgctxt "hf0846d27g7209g4ac7ga828g74e3d9c5e97e"
 msgid "All Makeup Colours"
@@ -5428,7 +5429,7 @@ msgstr "정말로 메인 메뉴로 돌아가시겠습니까?"
 
 msgctxt "h1383e71dg4a7fg4cbbgba69gc5a3b303dd3b"
 msgid "[1]/[2]/[3] [4]:[5]"
-msgstr ""
+msgstr "[1]/[2]/[3] [4]:[5]"
 
 msgctxt "h5b6e4138g2cf0g4d67gb825gee416cf8c54f"
 msgid "© 2020 Larian Studios and Wizards of the Coast. All rights reserved."
@@ -5581,7 +5582,7 @@ msgstr "소환된 크리쳐는 도주할 수 없습니다."
 
 msgctxt "hab0fbdcag2f19g4769ga9ffgdf487416790a"
 msgid "Party followers can't flee on their own!"
-msgstr ""
+msgstr "파티 추정자는 스스로 도망칠 수 없습니다!"
 
 msgctxt "he8c1b5cag162cg45c7gb133g34a51620dcb1"
 msgid "Enemy too close!"
@@ -5597,7 +5598,7 @@ msgstr "상태이상 때문에 도망칠 수 없습니다!"
 
 msgctxt "h7e52c1b1g3424g4b38g8ab2ge5b98e139964"
 msgid "Incapacitated!"
-msgstr ""
+msgstr "무력화상태!"
 
 msgctxt "hd7792e8ag930dg41bbgb14ag551ee0e63e8c"
 msgid "You cannot flee!"
@@ -5605,7 +5606,7 @@ msgstr "도주 불가!"
 
 msgctxt "h932c15e0gb870g440bg9409g748d8baa90e3"
 msgid "From DC Bonus"
-msgstr ""
+msgstr "DC(난이도) 보너스로부터"
 
 msgctxt "h75aee313gda5fg4b3agba0egc75041a81f66"
 msgid "Base DC"
@@ -5613,7 +5614,7 @@ msgstr "기본 DC"
 
 msgctxt "hed00d673g9ef3g473cgb615gcb557f521f1b"
 msgid "from Proficiency"
-msgstr ""
+msgstr "숙련으로부터"
 
 msgctxt "hfc529763g96c9g46d4g8c3eg8effdaab3089"
 msgid "[1]'s Armour Class: [2]"
@@ -5629,11 +5630,11 @@ msgstr "DC: [1]"
 
 msgctxt "h0a171109g25bdg45efgb646gea7e9f62e713"
 msgid "[1] hit [2] for [3]."
-msgstr ""
+msgstr "[1] 이 [2] 타격: [3]."
 
 msgctxt "h3acc1c32gb006g4039ga7c6g87425057a981"
 msgid "[2] was hit for [3]."
-msgstr ""
+msgstr "[2] 에게 피해: [3]."
 
 msgctxt "h9c1320d9g5355g49d6gaffag0d4d7b4d68ad"
 msgid "[1] blasted [2] for [3]."
@@ -5641,7 +5642,7 @@ msgstr ""
 
 msgctxt "he94f4e8agfce1g459dg9df9gc27b66cdc38e"
 msgid "[1] shot [2], for [3]."
-msgstr ""
+msgstr "[1] 이 [2] 에게 사격: [3]."
 
 msgctxt "hb2c8861bgd0d1g4a56gad98ge539059950cd"
 msgid "[1] targeted [2] for [3]."
@@ -5649,7 +5650,7 @@ msgstr ""
 
 msgctxt "h14466b85g9fa8g4a64gbed3gc96b2116bbe0"
 msgid "itself"
-msgstr ""
+msgstr "자신"
 
 msgctxt "h43e75198g8c80g48caga967g1942e6104735"
 msgid "[1] was caught in a trap that dealt [2]."
@@ -5673,11 +5674,11 @@ msgstr ""
 
 msgctxt "hdb3847e7gde52g41eag888dgcc49d93cf9d3"
 msgid "[1] was hit for [2]."
-msgstr ""
+msgstr "[1] 에게 다음의 피해: [2]."
 
 msgctxt "hcc81dcbeg85b0g47e5g971cg09e64a2169b3"
 msgid "[1] is immune to [2]."
-msgstr ""
+msgstr "[2] 에 대해 면역: [1]."
 
 msgctxt "h7dd469edg5564g447fgbf70g37881d6f1538"
 msgid "[1] took no damage because of [2]."
@@ -5685,7 +5686,7 @@ msgstr ""
 
 msgctxt "hbbf23a87gee3eg4bcagafa7g32036f00a6a3"
 msgid "[1] took no damage."
-msgstr ""
+msgstr "어떤 피해도 입지 않음: [1]."
 
 msgctxt "h07b0df99g2a5eg48bag9345g9c4bfa1d6205"
 msgid "Damage"
@@ -5705,7 +5706,7 @@ msgstr "[1] = [2]"
 
 msgctxt "h9e0590cdg2407g47dfg92b7g6fa1c60946be"
 msgid "Falling damage"
-msgstr ""
+msgstr "낙하 피해"
 
 msgctxt "hd015dbb3g8c8bg44a3gb536gd5ba451cfcfc"
 msgid "[1] from [2] = [3]"
@@ -5725,11 +5726,11 @@ msgstr ""
 
 msgctxt "h221135begc315g4c01g8e0ag44bc78ddafd1"
 msgid "missed"
-msgstr ""
+msgstr "빗맞춤"
 
 msgctxt "he85b60e1g2a9bg4b19ga7c1gade9b43246d8"
 msgid "A missile from [1] [2] [3]."
-msgstr ""
+msgstr "[1] [2] [3] 발사체."
 
 msgctxt "h0b7f696bg11a9g4058g97f6gb86badd41f1d"
 msgid "An arrow from [1] [2] [3]."
@@ -5741,7 +5742,7 @@ msgstr "[1] [2] [3]."
 
 msgctxt "h799edd48g88c7g43e2g864cg09ac40bc07b0"
 msgid "dodged"
-msgstr ""
+msgstr "회피함"
 
 msgctxt "h2f6e70b0g7cfcg41b1g9457gf5ed60303776"
 msgid "[1] [2] a missile from [3]."
@@ -5753,11 +5754,11 @@ msgstr ""
 
 msgctxt "hd26066adg2f54g4289gad8agdbf09c007508"
 msgid "succeeded on a saving throw against"
-msgstr ""
+msgstr "다음으로부터 내성 굴림에 성공:"
 
 msgctxt "hac58a414g08ddg460dga906g4467d8349de0"
 msgid "failed a saving throw against"
-msgstr ""
+msgstr "다음으로부터 내성 굴림 실패:"
 
 msgctxt "hc55108b7gd593g446ag84a4g6d4ff55c813e"
 msgid "[1] [2] a blast from [3]."
@@ -5773,35 +5774,35 @@ msgstr "[1] [2] [3]."
 
 msgctxt "hde45515egfc79g4c87g8e69g85ec4f8346fc"
 msgid "[2] was downed by their own hand."
-msgstr ""
+msgstr "스스로 쓰러짐: [2]."
 
 msgctxt "h4b32814fgf085g4650g8694g0266fd0aaaf1"
 msgid "[1] downed [2]."
-msgstr ""
+msgstr "[1]: [2] 쓰러뜨림."
 
 msgctxt "ha16885e9gf0f5g46aeg8adagb44687ba5749"
 msgid "[2] was downed."
-msgstr ""
+msgstr "쓰러짐 [2]."
 
 msgctxt "hfd980f24g4d6bg4d60ga7e1g9a66962fda4c"
 msgid "[2] died by their own hand."
-msgstr ""
+msgstr "자결함: [2]."
 
 msgctxt "h43004825g3046g4691gbddcg28e68eec5d51"
 msgid "[1] killed [2]."
-msgstr ""
+msgstr "[1]: [2] 처치함."
 
 msgctxt "hde0ad7b0g6259g4050g93a2gfb1d68ed2e7f"
 msgid "[2] was killed."
-msgstr ""
+msgstr "처치됨: [2]."
 
 msgctxt "h93f2ea93g8f3cg4b19gbebdg6e09056037c8"
 msgid "[1] destroyed [2]."
-msgstr ""
+msgstr "[1] 파괴함 : [2]."
 
 msgctxt "h3d2c57b3g8b84g4315ga619g04367092ce5f"
 msgid "[2] was destroyed."
-msgstr ""
+msgstr "파괴됨 : [2]."
 
 msgctxt "h0ac74323g2d25g4c2cgb539ge413a768dbe6"
 msgid "[1] threw [2]."
@@ -5809,35 +5810,35 @@ msgstr ""
 
 msgctxt "h4af5ba2fgc487g4d90g9bd3g0d60b69d4a27"
 msgid "[1] used [2]."
-msgstr ""
+msgstr "[1]: [2] 사용."
 
 msgctxt "h17edbbb2g9444g4c79g9409gdb8eb5731c7c"
 msgid "[1] cast [2]."
-msgstr ""
+msgstr "[1]: [2] 시전."
 
 msgctxt "h1f94a0f5g26f0g4959g9d14g28220694d69f"
 msgid "[1] used [2]."
-msgstr ""
+msgstr "[1]: [2] 사용."
 
 msgctxt "hbf53e359g5f74g4cc8g8b68gd9cd3b6b25d7"
 msgid "[1] cast [2]."
-msgstr ""
+msgstr "[1]: [2] 시전."
 
 msgctxt "hbc9cc01cg7216g458aga07cgdfaa59d324fe"
 msgid "[1] used [2] on self."
-msgstr ""
+msgstr "[1]: 자신에게 [2] 사용."
 
 msgctxt "h123d8ac1gcfddg4e33gb8dagf4d97cd1c02b"
 msgid "[1] cast [2] on self."
-msgstr ""
+msgstr "[1]: 자신에게 [2] 시전."
 
 msgctxt "he19a08cegaad3g4be3gb33cga9abe4537e2d"
 msgid "[1] used [2] on [3]."
-msgstr ""
+msgstr "[1]: [3]에게 [2] 사용."
 
 msgctxt "h4afe4d2dg40efg4c02g9661g3d0b1b574650"
 msgid "[1] cast [2] on [3]."
-msgstr ""
+msgstr "[1]: [3]에게 [2] 시전."
 
 msgctxt "hb1a8fff9g3257g4f72gb846g619686a23a84"
 msgid "[1] was modified by [2]."
@@ -5845,51 +5846,51 @@ msgstr ""
 
 msgctxt "h2cff89d1gb2bag46a9ga8a7g66cfe9c16c03"
 msgid "[1] started combat."
-msgstr ""
+msgstr "[1] 전투 시작."
 
 msgctxt "hcf048accgc35fg4e64gacffgc2edbf049db4"
 msgid "[1] joined combat."
-msgstr ""
+msgstr "[1] 전투에 참여."
 
 msgctxt "h7f07a2f0g5ea9g42c3g8280g3ac5234eccc7"
 msgid "[1] left combat."
-msgstr ""
+msgstr "[1] 전투를 떠남."
 
 msgctxt "h2079c5f0g8375g4833g85f4gbac3e5bfa759"
 msgid "Round [1]"
-msgstr ""
+msgstr "[1] 라운드"
 
 msgctxt "h7dadfb8eg00dbg4243g8811gee757a942c0a"
 msgid "[1] received Condition: [2]  from [3]."
-msgstr ""
+msgstr "[1]: [3]에게서 [2] 상태 획득."
 
 msgctxt "h19c314cdg86aag420egb636g918f7d37532b"
 msgid "[1] was given Condition: [2]."
-msgstr ""
+msgstr "[1]: [2] 상태 획득."
 
 msgctxt "hd7eb5503g3894g4ce9ga7b4g26836f5356d5"
 msgid "[1] received Condition: [2]."
-msgstr ""
+msgstr "[1]: [2] 상태 받음."
 
 msgctxt "h5d76ea48gfd59g441fg9724g0603de19c4a6"
 msgid "[1] was resurrected."
-msgstr ""
+msgstr "[1] 부활."
 
 msgctxt "h5e6ac140g634bg46dcg903ag0597244d57c4"
 msgid "[1] lost Condition: [2]."
-msgstr ""
+msgstr "[1]: [2] 상태 잃음."
 
 msgctxt "hc87473fagab70g41cfga942g26598b783a8b"
 msgid "[1] summoned [2]."
-msgstr ""
+msgstr "[1]: [2] 소환."
 
 msgctxt "h40d6034dg4e63g4c58g8884g9dba728e2dc5"
 msgid "[1] was summoned."
-msgstr ""
+msgstr "[1] 소환됨."
 
 msgctxt "hc292a4b5g1472g4ff6gb63eg3890b75c6fb5"
 msgid "[1] was dissolved by acid."
-msgstr ""
+msgstr "[1]: 산에 의해 용해됨."
 
 msgctxt "hbefa52e5g1fc2g4611g8f57g14f582d3d4e9"
 msgid "[1] succumbed to death."
@@ -5905,15 +5906,15 @@ msgstr ""
 
 msgctxt "h1642a3aeg9eb8g45d9ga0c7ge8b4ba3eb951"
 msgid "[1] exploded."
-msgstr ""
+msgstr "[1] 폭발함."
 
 msgctxt "h0f21eb28gbcf0g44eeg9519g1904f803cd36"
 msgid "[1] fell to their death."
-msgstr ""
+msgstr "[1] 추락사."
 
 msgctxt "hd0a5c2e7ge7b2g40e9gaaf6g19f8c3916b8b"
 msgid "[1] burned to ash."
-msgstr ""
+msgstr "[1] 불타 재가 됨."
 
 msgctxt "h521c6de3ga8e9g4d23ga377g70ed71690a47"
 msgid "[1] was killed while Downed."
@@ -5921,7 +5922,7 @@ msgstr ""
 
 msgctxt "hbffbd538gcc64g4b4dg867dga37c600beb79"
 msgid "[1] disappeared."
-msgstr ""
+msgstr "[1] 사라짐."
 
 msgctxt "hf08aa0acg41f5g44aega81fg5db24cff2303"
 msgid "[1] withered away."
@@ -5933,7 +5934,7 @@ msgstr ""
 
 msgctxt "h9a5d8d48g8a3bg4cadga500g1fe203367236"
 msgid "[1]'s mind collapsed."
-msgstr ""
+msgstr "[1]의 마음이 무너짐."
 
 msgctxt "hc0d2b507g6dd8g4f69gb28cge19e72461809"
 msgid "[1] was slain by holy light."
@@ -5949,7 +5950,7 @@ msgstr ""
 
 msgctxt "hd8471d66gcad4g43c5gb13bg67f0484deeec"
 msgid "[1] used [2]."
-msgstr "[1]: [2] 사용함."
+msgstr "[1]: [2] 사용."
 
 msgctxt "h4252f41fgdbfag4dd1g89d8gfed8fcabc6b7"
 msgid "[1] reacted to [2] by using [3]."
@@ -5957,11 +5958,11 @@ msgstr ""
 
 msgctxt "h39b0b028g267fg4faag97bage49cb933145d"
 msgid "[1] picked up [2] [3]."
-msgstr ""
+msgstr "[1]: [3] [2]개 주움."
 
 msgctxt "h21e31c16g0fa8g4970ga121gf745f9ce267a"
 msgid "[1] dropped [2] [3]."
-msgstr ""
+msgstr "[1]: [3] [2]개 떨어트림."
 
 msgctxt "ha2091829gbdecg43a6g9d9ag16043dbe52b9"
 msgid "[1] consumed [2]."
@@ -5969,7 +5970,7 @@ msgstr ""
 
 msgctxt "h2b6c5142gd515g49e3gb3aeg54e8335f1de9"
 msgid "[1] unlocked [2] with [3]."
-msgstr ""
+msgstr "[1]: [3] 사용해 [2] 잠금해제."
 
 msgctxt "h998bcfd4gd85bg4473gadecgbe922660e5ed"
 msgid "[1] couldn't unlock [2] with [3]."
@@ -5977,19 +5978,19 @@ msgstr ""
 
 msgctxt "h909b7d28g35dbg4d9eg816ag63765a3cef4b"
 msgid "[1] unlocked [2]."
-msgstr ""
+msgstr "[1]: [2] 잠금해제."
 
 msgctxt "h6d98af71g1b1eg4f37ga3a1g64fb029d76a8"
 msgid "[1] couldn't unlock [2]."
-msgstr ""
+msgstr "[1]: [2] 잠금해제 불가."
 
 msgctxt "ha9da4efdgcb75g46b2g93c7gf2f056bf12d7"
 msgid "[1] gained [2] experience."
-msgstr ""
+msgstr "[1]: 경험치 [2] 획득."
 
 msgctxt "h33309befg6d8dg4226g95c3g38fcf425610f"
 msgid "[1] is now level [2]."
-msgstr ""
+msgstr "[1]: 레벨 상승 - [2]."
 
 msgctxt "he92d9d44g87ddg48bbg8b31g19ae859bd8e1"
 msgid "A [1] surface turned into [2]."
@@ -6013,51 +6014,51 @@ msgstr "[1]: 집중 깨짐."
 
 msgctxt "hf8ac8fcegdbc5g4ea1gbad9geec35df79e8c"
 msgid "[1] stopped concentrating."
-msgstr ""
+msgstr "[1]: 집중 중단함."
 
 msgctxt "h15da1f6dg10abg418dg82fdg750dfd91f941"
 msgid "[1] succeeded a [2]."
-msgstr "[1]: [2]에 성공함."
+msgstr "[1]: [2] 성공."
 
 msgctxt "h8e7fc114g5146g413dg890eg6bee65f335bf"
 msgid "[1] succeeded a [2] Check."
-msgstr "[1]: [2] 판정에 성공함."
+msgstr "[1]: [2] 판정 성공."
 
 msgctxt "he322bd51gcd80g4d55g8e41g233c92f44dc3"
 msgid "[1] rolled a critical fail on a [2]."
-msgstr ""
+msgstr "[1]: [2] 치명적 실패."
 
 msgctxt "hbb8ecf42g61dbg4c7dg8729g4946ab82d82d"
 msgid "[1] rolled a critical fail on a [2] Check."
-msgstr ""
+msgstr "[1]: [2] 판정 치명적 실패."
 
 msgctxt "hd33bc3e0gf62dg4489ga67ag4ce6a78ba0d4"
 msgid "[1] failed a [2]."
-msgstr "[1]: [2]에 실패함."
+msgstr "[1]: [2] 실패."
 
 msgctxt "h1c8e34f7g5aafg4fedgb37ag3add57740d68"
 msgid "[1] failed a [2] Check."
-msgstr ""
+msgstr "[1]: [2] 판정 실패."
 
 msgctxt "h9b08ec63ga349g4325g9309g9ceb7760315c"
 msgid "[1] Hit Points"
-msgstr ""
+msgstr "[1] 체력"
 
 msgctxt "ha188ffc8g0320g4663gaf30g8d53c351c115"
 msgid "[1] healed [2] for [3]"
-msgstr ""
+msgstr "[1]: [2] [3] 치유"
 
 msgctxt "hf70d145ag642ag49c7g8126gb8da07747fd5"
 msgid "[1] healed self for [2]."
-msgstr ""
+msgstr "[1]: 자신을 [2] 치유."
 
 msgctxt "hf22009a3gf079g4dfeg940fgfb63db383bef"
 msgid "[1] was healed for [2]."
-msgstr ""
+msgstr "[1]: [2] 치유됨."
 
 msgctxt "hd5dc8d98gd300g413cg8f14gb880b803028e"
 msgid "Healing Roll"
-msgstr ""
+msgstr "회복 굴림"
 
 msgctxt "h5d3abc99ge3ecg4131ga6a0gb1cffa9aaa28"
 msgid ""
@@ -6070,15 +6071,15 @@ msgstr ""
 
 msgctxt "h42f59f56g5519g4af7gb024g08faaa7772c1"
 msgid "Camp Supply"
-msgstr ""
+msgstr "야영 물자"
 
 msgctxt "h766168e9g0dc0g4a96gb328g75ce30288397"
 msgid "Camp Supplies"
-msgstr ""
+msgstr "야영 물자"
 
 msgctxt "h0469b9f7geabdg41dfg9ae2gbcc0eefb3fcf"
 msgid "[1] [2] used to Long Rest."
-msgstr ""
+msgstr "긴 휴식에 사용됨 : [1] [2]."
 
 msgctxt "ha3e1cf99g5f58g414ag9ffagd3244072047a"
 msgid "[2]: [1]"
@@ -6094,7 +6095,7 @@ msgstr "전투 개시!"
 
 msgctxt "h7cf3d853gb24ag4d6bga234gbb2f866ff20a"
 msgid "The party gained [1] experience."
-msgstr ""
+msgstr "파티가 경험치 [1] 획득함."
 
 #, fuzzy
 msgctxt "hbf484ef4g6e44g4aa7gb5dbgd8439bbd1d79"
@@ -6111,35 +6112,35 @@ msgstr ""
 
 msgctxt "h9050147ag88b1g4603g8ea1g1c0d71d4159c"
 msgid "Base"
-msgstr ""
+msgstr "기본"
 
 msgctxt "h1e7b737ega0c5g4f84ga6ecg910b3af0a7c2"
 msgid "from Class"
-msgstr ""
+msgstr "클래스"
 
 msgctxt "ha7ad1dd3g4394g403cga657g9a9ff697e596"
 msgid "from Race"
-msgstr ""
+msgstr "종족"
 
 msgctxt "h56367a47g31aeg4ffdgb260g676d0b1d1916"
 msgid "from Shapeshifting"
-msgstr ""
+msgstr "형상변환"
 
 msgctxt "he3c8efdeg0081g4443g8bbag10b1a2615c51"
 msgid "from [1] (up to [2])"
-msgstr ""
+msgstr "[1] (최대 [2])"
 
 msgctxt "h9c232218g5080g4ccdga0afg8ecd8891b00c"
 msgid "from Ability boost"
-msgstr ""
+msgstr "능력치 강화"
 
 msgctxt "h0c709fa5gb012g45bagb878g57400b652d7b"
 msgid "from <LSTag Tooltip=\"Proficiency\">Proficiency</LSTag>"
-msgstr ""
+msgstr "<LSTag Tooltip=\"Proficiency\">숙련</LSTag>"
 
 msgctxt "ha143856fg255bg49cbga1f4g6d318b04f0c2"
 msgid "from Armour Class boost"
-msgstr ""
+msgstr "AC 강화"
 
 msgctxt "hddbd8972gbc01g45dcga1abg2dd337b274ec"
 msgid "from adjusted Armour Class"
@@ -6159,11 +6160,11 @@ msgstr ""
 
 msgctxt "hcae5981agba74g4e28g8619gd2c30f647890"
 msgid "from Armour"
-msgstr ""
+msgstr "갑옷"
 
 msgctxt "h1685b17dga932g42e0g8a9ag658389adba30"
 msgid "from Shield"
-msgstr ""
+msgstr "방패"
 
 msgctxt "h8612e9a8gf6eag4ee8ga3f9g227af36fd74f"
 msgid "Base Armour Class"
@@ -6179,23 +6180,23 @@ msgstr "굴림 보너스"
 
 msgctxt "hde0bfae6g092eg4b39g8ca1gc615ddb17d41"
 msgid "Ranged Attack Bonus: <LSTag Type=\"Damage\">[1][2]</LSTag>"
-msgstr ""
+msgstr "원거리 공격 보너스: <LSTag Type=\"Damage\">[1][2]</LSTag>"
 
 msgctxt "h0c734573g5e16g4dc8g9af3g8cefde99422f"
 msgid "Melee Damage: <LSTag Type=\"Damage\">[1]</LSTag>"
-msgstr ""
+msgstr "근접 피해: <LSTag Type=\"Damage\">[1]</LSTag>"
 
 msgctxt "hcfa13c4cg8effg4ae9g8ceagf95e805f7db9"
 msgid "Ranged Damage: <LSTag Type=\"Damage\">[1]</LSTag>"
-msgstr ""
+msgstr "원거리 피해: <LSTag Type=\"Damage\">[1]</LSTag>"
 
 msgctxt "h2d4b70ddg94e1g466bga966g635c7f75fadb"
 msgid "Single Use"
-msgstr ""
+msgstr "일회용"
 
 msgctxt "h9e4ac23fgf83fg441bg9175ge4c4c92a6b60"
 msgid "Replenishable Resource"
-msgstr "충전 가능한 자원"
+msgstr "회복 가능한 자원"
 
 msgctxt "hab6eefdfgb328g4cf2g9c76g5f5a196d8423"
 msgid "Once per turn"
@@ -6211,7 +6212,7 @@ msgstr "짧은 휴식 당 한 번"
 
 msgctxt "hf4cfb074g5c7dg4555gab64g27916dd2d577"
 msgid " summoned by [1] "
-msgstr ""
+msgstr " - [1]에 의해 소환됨 "
 
 msgctxt "h8066a32dg29f8g49e5ga6f0gab89a43c7c23"
 msgid " only certain characters are proficient "
@@ -6255,27 +6256,27 @@ msgstr ""
 
 msgctxt "h0d6e5793g954eg40e4g8941gaf2367d0d939"
 msgid "Weapon Enchantment"
-msgstr ""
+msgstr "무기 강화"
 
 msgctxt "hc145bacfgca64g40a6ga912ga97ab2a88da3"
 msgid "Weapon Skill"
-msgstr ""
+msgstr "무기 기술"
 
 msgctxt "hbbb6a988gedd7g4363g924dg531c71822d6d"
 msgid "Weapon Skills"
-msgstr ""
+msgstr "무기 기술"
 
 msgctxt "h18e7459fg05a5g4c2fgbdbdg21dadb605134"
 msgid "<LSTag Tooltip=\"Advantage\">Advantage</LSTag> on [1] rolls"
-msgstr ""
+msgstr "[1] 굴림에 <LSTag Tooltip=\"Advantage\">이점</LSTag>"
 
 msgctxt "he577f2d6g0e94g49bag9f02g9b319c2be0d9"
 msgid "<LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on [1] rolls"
-msgstr ""
+msgstr "[1] 굴림에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>"
 
 msgctxt "h4fa92881gbad8g4f33ga365g13b129ffbc4c"
 msgid "Attack"
-msgstr ""
+msgstr "공격"
 
 msgctxt "he95e05c9g1566g4d8bg9aacgfa0eebd35c0e"
 msgid "[1] Saving Throws"
@@ -6478,7 +6479,7 @@ msgstr ""
 
 msgctxt "ha64d9e2ag9280g4640g8454ga196806d1eb9"
 msgid "[1] Lightning damage"
-msgstr ""
+msgstr "[1] 번개 피해"
 
 msgctxt "haa665313gdc44g40a2g9bfbgafef8741c41f"
 msgid "[1] Cold damage"
