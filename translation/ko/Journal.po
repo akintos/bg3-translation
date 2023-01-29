@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-01-28 12:52+0000\n"
-"Last-Translator: 조선인 <kimkikim141@naver.com>\n"
+"PO-Revision-Date: 2023-01-29 15:52+0000\n"
+"Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/journal/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1265,6 +1265,8 @@ msgid ""
 "We met some bandits near some ruins. They've been trying to break into a "
 "crypt - with no success. Whatever they're after is probably still inside."
 msgstr ""
+"어떤 폐허 근처에서 산적 무리를 만났다. 그들은 어떤 묘실에 들어가려고 애쓰고 있었는데, 진전이 없었다. 그들이 찾던 것이 아직 안쪽에 "
+"있을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:4452
 msgctxt "h75e0fc0eg0ca3g4fb2g96ddgff3d0c41bed8"
@@ -1290,7 +1292,7 @@ msgctxt "hb2441aebg3b59g4a5bgbb0bg2b6a7f960666"
 msgid ""
 "The strange door led deeper into the ruins. There are bound to be some "
 "interesting artefacts down here."
-msgstr ""
+msgstr "이상한 문을 통해 폐허의 더욱 깊은 곳으로 들어왔다. 이곳에는 분명 무언가 흥미로운 유물들이 있을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:4532
 msgctxt "hebb84dc3ga570g4643gafa7g88af5024fdab"
@@ -1304,14 +1306,14 @@ msgctxt "hd7ce860ag7368g4b1fg9a23g6fb44fe6377c"
 msgid ""
 "A strange figure emerged from one of the sarcophagi we opened. Seems like he "
 "has something to say."
-msgstr ""
+msgstr "우리가 연 석관에서 기묘한 인물이 나타났다. 무언가 말하고 싶은 것이 있는 것 같다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:4572
 msgctxt "hd4351eb0g2a35g40b8g8a24g15bae08cc872"
 msgid ""
 "The strange figure said he would see us again soon. He was probably the "
 "ruins' greatest secret, but there's no harm in checking for more valuables."
-msgstr ""
+msgstr "기묘한 인물이 곧 다시 만날거라고 했다. 그가 이 폐허의 가장 흥미로운 비밀이겠지만 더 둘러봐서 나쁠 것은 없을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:4592
 msgctxt "h83037b5ag78a7g4a1ega583g37faa2984024"
@@ -1329,18 +1331,19 @@ msgid ""
 "That strange figure somehow found our camp. He was probably the ruins' "
 "greatest secret, but there could still be some treasure down there."
 msgstr ""
+"그 기묘한 존재가 어떻게 한건지 우리의 야영지를 찾아냈다. 그가 폐허의 가장 큰 비밀이겠지만, 아래에 더 많은 보물이 있을지도 모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:4652
 msgctxt "hc7fbaf1dgb13eg4d2fg920fgf6a87eb57217"
 msgid "We found a large sarcophagus hidden in the ruins. Who lies within?"
-msgstr ""
+msgstr "우리는 폐허에 숨겨져 있던 거대한 석관을 발견했다. 안에 누워있는 것은 누구일까?"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:4672
 msgctxt "hbfb9123fg3f4eg4ae8gae16gfbfedee1d72b"
 msgid ""
 "The plaque by the sarcophagus mentioned a 'Guardian of Tombs'. Could it be "
 "the strange figure who offered us help?"
-msgstr ""
+msgstr "석관의 명판에는 '무덤들의 수호자'가 언급되어 있었다. 우리에게 도움을 주겠다는 이 기묘한 존재가 그일까?"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:4692
 msgctxt "h119a726eg564dg4279g9b9fg240c296f516c"
@@ -1349,6 +1352,8 @@ msgid ""
 "been sealed within one of the ruins' sarcophagi. He was likely the ruins' "
 "greatest secret."
 msgstr ""
+"기묘한 인물이 그가 '무덤들의 수호자'가 맞다고 인정했으며 폐허의 석관 중 하나에 봉인되어 있었다고 했다. 그가 이 폐허의 가장 큰 "
+"비밀이었던 것 같다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:4753
 msgctxt "h115f69acgdb51g45f9g9038gfc64b524bd91"
@@ -1450,6 +1455,7 @@ msgid ""
 "Lae'zel said she knew of a cure for the parasite. We won't find out what it "
 "is unless we help her get rid of the tieflings."
 msgstr ""
+"레이젤이 그녀가 기생충을 제거할 방법을 안다고 했다. 우리가 그녀를 도와 티플링들을 처리하지 않으면 그 방법을 알 수 없을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5119
 msgctxt "h6cc6e93aga5a0g45d6gbbe5g1fa08b5d88bb"
@@ -1502,6 +1508,7 @@ msgid ""
 "We found Lae'zel, the githyanki from the Nautiloid, trapped in a hanging "
 "cage. She wants us to free her."
 msgstr ""
+"우리는 노틸로이드에서 봤던 기스양키, 레이젤이 매달려있는 우리 안에 갇혀있는 것을 발견했다. 우리가 그녀를 풀어주기를 원하는 것 같다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5319
 msgctxt "ha8009514g837fg4228g8ac0g9899e52abefc"
@@ -1518,7 +1525,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5359
 msgctxt "ha30d01efg955bg4b99gb3d0g775b59efd166"
 msgid "Now that the tieflings have been dealt with, we can free Lae'zel."
-msgstr ""
+msgstr "티플링들을 손봐줬으니, 이제 레이젤을 풀어줄 수 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5379
 msgctxt "hf249548eg053dg4bf8g9193gf742aba2a001"
@@ -2538,14 +2545,14 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9122
 msgctxt "h9c2b3b8eg5635g4a01ga62bga59d14fef0de"
 msgid "Remove the Parasite"
-msgstr ""
+msgstr "기생충 제거"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9128
 msgctxt "h6158ab98g5364g4167g85d3g4f028955033b"
 msgid ""
 "We've escaped Hell on the Nautiloid and crashed somewhere back in the "
 "Material Plane. We need to explore the area and find a healer."
-msgstr ""
+msgstr "우리는 노틸로이드를 타고 지옥에서 탈출해 물질계의 어딘가에 추락했다. 지역을 탐사해 치유사를 찾아야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9148
 msgctxt "h86be6384ga54ag4de5g8b21gf5529d69d4a5"
@@ -2553,6 +2560,8 @@ msgid ""
 "There could be several ways to get rid of the parasite. Lae'zel, the "
 "githyanki who helped us escape the Nautiloid, mentioned a potential solution."
 msgstr ""
+"기생충을 제거할 방법은 여러 가지가 있을지도 모른다. 우리가 노틸로이드에서 탈출하는 것을 도운 기스양키, 레이젤이 잠재적 해결책을 "
+"언급했었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9168
 msgctxt "h16e7b950ge96dg4141ga02bg45d4219e98a6"
@@ -2560,6 +2569,8 @@ msgid ""
 "Our luck is starting to turn. We found some people taking refuge in some "
 "kind of grove. We should explore it - there might be a healer inside."
 msgstr ""
+"우리의 운이 바뀌기 시작했다. 우리는 어떤 사람들이 숲같이 보이는 곳을 피난처로 삼고 있는 것을 발견했다. 안쪽에 치유사가 있을지도 "
+"모르니 탐험해봐야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9188
 msgctxt "hc816655bgf894g4e0dgbc9cge85de3598e75"
@@ -2581,7 +2592,7 @@ msgctxt "he86d3909gfb1eg4f1cg861cgb10cb4a34669"
 msgid ""
 "The parasite reacted after we tried to use its powers. We need to be careful "
 "- the last thing we need is for these things to wake up."
-msgstr ""
+msgstr "우리가 그 힘을 이용하려고 한 뒤로 기생충이 반응했다. 절대로 이것들이 깨어나서는 안 되므로 조심하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9248
 msgctxt "h38327421ga784g43a9ga5a0g55708c1aea55"
@@ -2598,7 +2609,7 @@ msgctxt "h7dd17d09g3d34g42bfg8076g37887405790b"
 msgid ""
 "Lae'zel told us that the parasite in our heads will transform us into mind "
 "flayers. We need to find a way to remove it."
-msgstr ""
+msgstr "레이젤이 우리 머릿속에 있는 기생충이 우릴 마인드 플레이어로 변화시킬 것이라고 했다. 그걸 제거할 방법을 찾아야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9288
 msgctxt "hbe54c1d2ge704g43caga968g76049ec42264"
@@ -2613,6 +2624,7 @@ msgid ""
 "We learned that the leader of the druids is a powerful healer named Halsin. "
 "He might be able to help us remove the parasite."
 msgstr ""
+"우리는 드루이드들의 지도자인 할신이 아주 강력한 치유사인 것을 알아냈다. 그가 우리의 기생충을 제거하는 것을 도울 수 있을지도 모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9328
 msgctxt "h41da5820g51b7g495fgaff8gf1d3e7237858"
@@ -2634,7 +2646,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9388
 msgctxt "h5b42cd01ga7e8g4aa0ga5dbga91950149b8a"
 msgid "There's a healer named Nettie in a camp nearby. Maybe she can help us."
-msgstr ""
+msgstr "근처의 야영지에 네티라는 치유사가 있다고 한다. 그녀가 우리를 도울 수 있을지도 모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9408
 msgctxt "hf1daf622g0e32g4ca6ga248g2032acf2f853"
@@ -2720,14 +2732,14 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9694
 msgctxt "h670d1ad4g597eg40aeg9c38ge38b47f05ac3"
 msgid "Find the Githyanki Crèche"
-msgstr ""
+msgstr "기스양키의 Crèche를 찾기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9700
 msgctxt "hd60cb9c3g39aeg4d8bg93e3g6b547a79eabe"
 msgid ""
 "Lae'zel told us that the githyanki should be able to cure us, if we can find "
 "one of their crèches. Someone named Zorru should know more."
-msgstr ""
+msgstr "레이젤이 기스양키의 crèche를 찾으면 그들이 우리를 치료해줄 수 있을거라고 했다. 조르라는 자가 아는 바가 있다고 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9720
 msgctxt "h86050c65g0cabg452bg8ffcg22acfd7db0e2"
@@ -2809,6 +2821,8 @@ msgid ""
 "We learned that a powerful druid named Halsin hasn't returned from an "
 "expedition into goblin territory. He might be able to help us."
 msgstr ""
+"우리는 아주 강력한 드루이드인 할신이 고블린의 영토로 여정을 떠나 아직 돌아오지 않았다는 것을 알아냈다. 그가 우리를 도울 수 있을지도 "
+"모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:9971
 msgctxt "h70fd28e4g7d49g473fga78egcf15021266de"
@@ -3187,7 +3201,7 @@ msgctxt "h508a4ff1g1329g4d13gb731g3907a5551495"
 msgid ""
 "When we asked about healing, we were told to look for Nettie in the Inner "
 "Sanctum."
-msgstr ""
+msgstr "우리가 치료에 대해 묻자, 안쪽 성소에서 네티라는 자를 찾으라는 이야기를 들었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:11093
 msgctxt "h9efe54c5gf323g4657ga8c2g3014681f8bb1"
@@ -3233,6 +3247,7 @@ msgid ""
 "There's a camp nearby where someone named Nettie can supposedly heal any "
 "wound. She might be able to help remove the parasite."
 msgstr ""
+"근처의 야영지에 네티라는 자가 있는데 그녀가 어떤 상처라도 치유할 수 있다고 한다. 그녀가 기생충을 제거하는 것을 도와줄지도 모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:11213
 msgctxt "h34421c30gbf9ag4000g9f23g7a24a63206ec"
@@ -3334,11 +3349,13 @@ msgid ""
 "Kagha, leader of the druids, ordered the tieflings to leave the grove. "
 "Zevlor fears they won't survive the road and asked us to intervene."
 msgstr ""
+"드루이드들의 지도자, 카그하가 티플링들에게 숲을 떠나라고 명령했다. 제블로어는 그들이 길에서 생존할 수 없을 것을 걱정하여 우리에게 "
+"개입해달라고 부탁했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:11495
 msgctxt "hff9f8031gf337g4ab7g8d43g407cea3b64e3"
 msgid "Kagha, leader of the druids, wants to speak with us."
-msgstr ""
+msgstr "드루이드의 지도자, 카그하가 우리와 대화하고 싶다고 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:11515
 msgctxt "he1665518gccffg4e8cg8ccagb18894117529"
@@ -3623,7 +3640,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:12366
 msgctxt "hf58516c8gf51cg4c73g8a21g3019495ba71c"
 msgid "Defeat the Goblins"
-msgstr ""
+msgstr "고블린 물리치기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:12372
 msgctxt "hf4f71cb3g4b1bg4230gb398g2c6936b92d1d"
@@ -3651,7 +3668,7 @@ msgctxt "h9be6f4bbg0cf5g400bg9f98gb1157f1f669b"
 msgid ""
 "Wyll, the Blade of Frontiers, believes that the best way to handle the "
 "goblins is to take out their leader. We need to find this person."
-msgstr ""
+msgstr "변경의 칼날, 윌이 고블린 무리를 처리할 가장 확실한 방법은 그들의 지도자를 해치워버리는 것이라고 한다. 이자를 찾아야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:12452
 msgctxt "h9afb9527g963eg4d76g9ecegb05cd300073b"
@@ -3678,7 +3695,7 @@ msgctxt "haadb87aegb3e6g4ca8ga15bg3473bde34199"
 msgid ""
 "Wyll, the Blade of Frontiers, believed that the best way to handle the "
 "goblins is to take out their leader. We need to find this person."
-msgstr ""
+msgstr "변경의 칼날, 윌이 고블린 무리를 처리할 가장 확실한 방법은 그들의 지도자를 해치워버리는 것이라고 했다. 이자를 찾아야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:12532
 msgctxt "h5bfdb427g7746g474cg92acg02f1bc060b11"
@@ -4155,6 +4172,8 @@ msgid ""
 "We found Arabella in the druids' lair. She's being judged by Kagha, leader "
 "of the druids, and is clearly in trouble."
 msgstr ""
+"우리는 드루이드의 은신처에서 아라벨라를 찾아냈다. 그녀는 드루이드들의 지도자, 카그하에게 심판받고 있었으며, 분명 곤경에 처해있는 듯 "
+"하다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13996
 msgctxt "h7b74314cgda3eg4788g8b88g2fc53aebd1ee"
@@ -4359,7 +4378,7 @@ msgctxt "h76b79961ge166g447bgbb99g629e740d3d0d"
 msgid ""
 "The mind flayer told us we need to connect the nerves of the transponder to "
 "escape Hell."
-msgstr ""
+msgstr "마인드 플레이어가 우리에게 중계기를 연결해 지옥에서 탈출해야 한다고 했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14618
 msgctxt "h7ab9eb03g144bg43f4ga28dg33e38f680f6e"
@@ -4369,7 +4388,7 @@ msgstr "노틸로이드에 탄 채로 지옥에서 탈출했다."
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14643
 msgctxt "h7ba26afbg0274g4a6aga395gcd6f0ebc3e0f"
 msgid "The Blade of Frontiers"
-msgstr ""
+msgstr "변경의 칼날"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14649
 msgctxt "h88060daegbc45g4474gb736ge65964625c9e"
@@ -6626,12 +6645,12 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:176
 msgctxt "hcb288ffbgfa55g4ccbgabd5g7b7167143860"
 msgid "Find a way into the ruins."
-msgstr ""
+msgstr "폐허 안쪽으로 향하는 길을 찾자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:187
 msgctxt "hf999df46ga3f1g41e8g9fbag43c6955fd48d"
 msgid "Investigate the ruins."
-msgstr ""
+msgstr "폐허를 탐색하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:199
 msgctxt "h8a676d1bgc6c8g4d5fga494gf97e55aaa4c3"
@@ -6701,12 +6720,12 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:435
 msgctxt "heb35f8fdg31a7g4e83ga938gdf78d859b01c"
 msgid "Resolve the conflict."
-msgstr ""
+msgstr "갈등을 해결하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:441
 msgctxt "h8f3ca5eeg9226g414ag845egcf8efd7e7b9a"
 msgid "Free Lae'zel."
-msgstr ""
+msgstr "레이젤을 풀어주자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:452
 msgctxt "h5ccb49d7g5281g4464g96b1gc9ef6fcdafb8"
@@ -6721,7 +6740,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:469
 msgctxt "he3008c3cg73f5g4aabg8a73gdbe09cf6ad41"
 msgid "Free Lae'zel."
-msgstr ""
+msgstr "레이젤을 풀어주자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:480
 msgctxt "h8eb3b0e7g5172g44f5gbeb4g8409fffeb0a1"
@@ -6741,7 +6760,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:514
 msgctxt "hf3136c2egeba5g4c27g88e4g082674143d0c"
 msgid "Recruit Lae'zel."
-msgstr ""
+msgstr "레이젤을 영입하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:543
 msgctxt "ha096d9ecgd686g489fg8566g7948a734f51a"
@@ -6761,7 +6780,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:595
 msgctxt "h2a05224cgbceag459fga1ffg1b26e94eb716"
 msgid "Continue travelling with Gale."
-msgstr ""
+msgstr "게일과 계속 여행하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:601
 msgctxt "hae5fb4aagd3eeg4fafgbcf5g407fc232b1dd"
@@ -6831,7 +6850,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:731
 msgctxt "hc83a2da3g54bfg4c94gbc19gaf3f29e25c8b"
 msgid "Find and speak with Zorru."
-msgstr ""
+msgstr "조르를 찾아서 대화하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:737
 msgctxt "he0e65b9ag0d85g41d0gb37dgba2e6c7f12b7"
@@ -7066,7 +7085,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:1266
 msgctxt "h1806545fg3db9g49bag8793g765182a4fa60"
 msgid "Search for Halsin in the Goblin Camp."
-msgstr ""
+msgstr "고블린 캠프에서 할신을 찾자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:1277
 msgctxt "h4b7890f7g812cg4be6ga29eg9f232a5b04e3"
@@ -7121,12 +7140,12 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:1402
 msgctxt "h11b69e78g6207g401fg8844gf38c1e3fa09e"
 msgid "Talk to the strange figure."
-msgstr ""
+msgstr "기묘한 인물에게 말을 걸자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:1413
 msgctxt "h6f6be30bg1695g4042gabc0g826bf16f376d"
 msgid "Speak with Kagha."
-msgstr ""
+msgstr "카그하와 대화하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:1424
 msgctxt "h71db752cg6c89g427egb9fag3695a254109b"
@@ -7271,7 +7290,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:1728
 msgctxt "h92d5ea84gcd94g4f7cga8c8g5b095785a761"
 msgid "Travel to the Goblin Camp."
-msgstr ""
+msgstr "고블린 캠프로 떠나자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:1739
 msgctxt "h7c330e09g130cg4bf0ga3feg3a59f9676e7b"
@@ -7311,7 +7330,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:1817
 msgctxt "he00b5270gd7c6g4ebag852bgf3aa85c40bda"
 msgid "Find Zorru."
-msgstr ""
+msgstr "조르를 찾자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:1828
 msgctxt "h886cb68fgb201g4b0agae56g2369fffd88d5"
@@ -7406,17 +7425,17 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2023
 msgctxt "h90801f71gde8fg44c9g976cg85e5b77adba1"
 msgid "Find a way off the Nautiloid."
-msgstr ""
+msgstr "노틸로이드에서 탈출할 방법을 찾자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2040
 msgctxt "ha8ff3618gb376g481cg93degc42eb5afff21"
 msgid "Connect the nerves of the transponder."
-msgstr ""
+msgstr "중계기의 신경 다발을 연결하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2051
 msgctxt "h3133a59cg85cbg4a8eg9b20g51af026f1f8b"
 msgid "Reach the Helm."
-msgstr ""
+msgstr "조타실에 도달하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2062
 msgctxt "h0a0c3fbdgbe2bg448dga55bg28d16fc3f86f"
@@ -7441,12 +7460,12 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2097
 msgctxt "hc28a8c4dg12e2g496fg90d6g9f2cb1c937e0"
 msgid "Continue travelling with Gale."
-msgstr ""
+msgstr "게일과 계속 여행하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2103
 msgctxt "h36e32c8cgd539g4166gbe8bg52e3e61e34ea"
 msgid "Find the Goblin Camp."
-msgstr ""
+msgstr "고블린 캠프를 찾자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2114
 msgctxt "he6ce2da1g8c3eg49c7g8f48g3600318f1796"
@@ -7456,37 +7475,37 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2120
 msgctxt "h453466c7g772dg42a8g8b10g498955c8a8e7"
 msgid "Continue travelling with Wyll."
-msgstr ""
+msgstr "윌과 계속 여행하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2126
 msgctxt "h02a7c30bg00fdg4595gb2bdg35c4fe963a7e"
 msgid "Confront the goblin Spike."
-msgstr ""
+msgstr "고블린 스파이크와 대면하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2137
 msgctxt "h8b825978g9d42g4ef1gb886g86c3a66177c8"
 msgid "Kill the leaders of the goblin camp."
-msgstr ""
+msgstr "고블린 캠프의 지도자들을 죽이자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2143
 msgctxt "h00cbc895ga12bg4b41g8051g18fbd9e5863a"
 msgid "Continue travelling with Wyll."
-msgstr ""
+msgstr "윌과 계속 여행하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2149
 msgctxt "h034a302ag8ac3g4497gb383g6fea0df78ed0"
 msgid "Speak with Wyll at camp."
-msgstr ""
+msgstr "야영지에서 윌과 대화하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2155
 msgctxt "hf923562dgf6e9g42bcg9fb7g5742f79c1182"
 msgid "Save Mizora."
-msgstr ""
+msgstr "미조라를 구하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2167
 msgctxt "hc6ceab37gc2e0g43dfg927ag80587fc0fef6"
 msgid "Reach the Githyanki Crèche."
-msgstr ""
+msgstr "기스양키 Crèche에 도달하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2178
 msgctxt "h2b70c1a2g84adg4e4bgb8d8g7b83e0eab619"
@@ -7581,12 +7600,12 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2386
 msgctxt "heeee9185g9720g4781ga028g523424bdbfbb"
 msgid "Continue travelling with Astarion."
-msgstr ""
+msgstr "아스타리온과 계속 여행햐자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2398
 msgctxt "hfc8db8a9gc5e6g4a22gaf5dg3aa3be05c1c0"
 msgid "Continue travelling with Shadowheart."
-msgstr ""
+msgstr "섀도하트와 계속 여행하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2404
 msgctxt "h2fabc0dag0135g4e85gbc67g0872f8dd7e35"
@@ -7626,7 +7645,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2485
 msgctxt "he87db94ag2518g463cga15bg591f76241b94"
 msgid "Search for Halsin in the Goblin Camp."
-msgstr ""
+msgstr "고블린 캠프에서 할신을 찾자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2496
 msgctxt "h776d3b45gc1c0g47d0gaa27g09213a7f8300"
@@ -7786,7 +7805,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2831
 msgctxt "h0c9b886eg8389g4bebgbcc6ga40da99b24fc"
 msgid "Open the sarcophagus."
-msgstr ""
+msgstr "석관을 열자."
 
 #: Gustav/Mods/Gustav/Story/Journal/objective_prototypes.lsx:2842
 msgctxt "h94126db7g3f44g4307gb189gc2de6ab01e8f"
