@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-02-06 16:52+0000\n"
-"Last-Translator: 조선인 <kimkikim141@naver.com>\n"
+"PO-Revision-Date: 2023-02-09 10:52+0000\n"
+"Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/journal/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:12
 msgctxt "h9fcf80d5g8134g46e7g9ef8g42af65fb072c"
 msgid "Find the Missing Shipment"
-msgstr "잃어버린 화물을 찾아라"
+msgstr "잃어버린 화물 찾기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:18
 msgctxt "hee8e6c88ga078g439agac7dgba3a720529b8"
@@ -486,12 +486,11 @@ msgid ""
 msgstr "섀도하트는 샤를 더럽히지 않고 섬기기 위해 본인의 기억을 억제하도록 허락했다고 말해주었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1506
-#, fuzzy
 msgctxt "he5e7f7a8g916ag4cecg9f54gf045f05c6f9a"
 msgid ""
 "We learned that Shadowheart worships the goddess Shar. It shouldn't be much "
 "of a problem, though - she's not the only follower of Shar in the party."
-msgstr "섀도하트가 샤 여신을 추종한다는 걸 알게 됐다. 큰 문제는 아니다. 일행 중에는 샤 추종자가 또 있기 때문이다."
+msgstr "섀도하트가 샤 여신을 추종한다는 걸 알게 됐다. 큰 문제는 아니다. 일행 중에는 다른 샤 추종자가 있기 때문이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1526
 msgctxt "h037183b9g7386g4140gab35g9237d303b686"
@@ -544,7 +543,7 @@ msgstr "섀도하트가 파티를 떠났다. 다시는 돌아오지 않을 것�
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1666
 msgctxt "h6e670370gb005g4a4fg8cddge297a73eff09"
 msgid "Shadowheart turned against us."
-msgstr "섀도하트가 우리에게서 등을 돌렸다."
+msgstr "섀도하트는 우리에게 등을 돌렸다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:1686
 msgctxt "h00724ad8g8821g499bgbe7fgcfe6bc1ddd48"
@@ -957,7 +956,7 @@ msgstr "우리는 도난당한 소지품을 되찾지 못했다."
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:3362
 msgctxt "h1a372a47g8209g4c1cg9d63g43c611b7c3fd"
 msgid "Free the Artist"
-msgstr "예술가를 풀어주기"
+msgstr "예술가 풀어주기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:3368
 msgctxt "ha0420e31ga5e6g4443g810cge1f5e8d50fe0"
@@ -1029,7 +1028,7 @@ msgstr "우리는 분명 오스카는 젠타림에게 득보다는 실이 될 �
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:3593
 msgctxt "hab22f2c4gbea8g4fa1ga2d5g9874b10cc9bc"
 msgid "Finish the Masterwork Weapon"
-msgstr "명품 무기를 완성하기"
+msgstr "명품 무기 완성"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:3599
 msgctxt "h7e1a6a9egbc79g43b1ga72bg03a12df8b802"
@@ -1642,7 +1641,7 @@ msgstr "게일이 일행을 떠나 돌아오지 않을 것이다."
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5690
 msgctxt "h3a562cd4g3b10g4fa2g9a07g103e7c0a58bf"
 msgid "Gale turned against us."
-msgstr "게일이 우리에게서 등을 돌렸다."
+msgstr "게일은 우리에게 등을 돌렸다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:5718
 msgctxt "hdefe5c7ag7265g40c2gb2begde3fb42c3590"
@@ -1862,7 +1861,7 @@ msgstr "책은 그것이 품고 있던 비밀과 함께 사라졌다."
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6488
 msgctxt "hcaa86226gd914g4040gae66gefdffe7fd4cd"
 msgid "Destroy the Ancient Tome"
-msgstr "고대 서적을 파괴하기"
+msgstr "고대 서적 파괴"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:6494
 msgctxt "heae28085g8e38g46f7ga6e1gb6303ca21954"
@@ -2117,7 +2116,7 @@ msgstr "기스양키 기사 Kith'rak 보스가 근처 기스양키 crèche의 �
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:7532
 msgctxt "h58fbd483gf411g4b84g87ebg6b7305d040e1"
 msgid "Defeat the Duergar Intruders"
-msgstr "듀에르가 침입자들 처치하기"
+msgstr "듀에르가 침입자 물리치기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:7538
 msgctxt "h1394d638ga7f0g4be2ga468g8f076a1bdb79"
@@ -2153,7 +2152,7 @@ msgctxt "h143322ddg8e58g4b0egabc5gd45d33760642"
 msgid ""
 "We reached the sovereign's refuge, where we found a long-dead drow scholar. "
 "Fortunately for us, he'd left plenty of valuables behind."
-msgstr ""
+msgstr "우리는 군주의 피난처에 도착했고, 그곳에서 오래된 드로우 학자의 시체를 발견했다. 다행히도 그는 많은 귀중품들을 남겨놓았다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:7658
 msgctxt "h6de81cc3ga2dbg49dagb6b1gaa353b0faeeb"
@@ -2190,7 +2189,7 @@ msgstr "하사관 쓰린의 신발을 돌려주고 보상을 받았다."
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:7774
 msgctxt "ha34ced9eg4a91g45cdg994ag7e28acda6426"
 msgid "Things turned violent with Sergeant Thrinn."
-msgstr ""
+msgstr "쓰린 하사관과의 상황이 격렬해졌다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:7794
 msgctxt "h659b3b2eg20b2g4edegac9cg5e48ba8e3bc0"
@@ -2280,7 +2279,7 @@ msgstr "듀에르가 하사관에게 신발을 돌려줘야 한다."
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:8079
 msgctxt "h22c96650g014dg4230g9e33g43a9aeae0e52"
 msgid "Avenge Glut's Circle"
-msgstr "글럿의 서클의 복수하기"
+msgstr "글럿의 서클의 복수"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:8085
 msgctxt "h0f9a2cbdg6278g4d16gbabcge8fc5ab8d57f"
@@ -2366,7 +2365,7 @@ msgctxt "h113a2899gf7c7g45f1g8607gef2268f83444"
 msgid ""
 "Glut wishes to see the defeated duergar. We refused to escort it to the "
 "bodies."
-msgstr ""
+msgstr "글럿이 패배한 듀에르가를 보고 싶어 한다. 우리는 그를 시체까지 데려다주지 않았다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:8390
 msgctxt "h23153471g8f08g443bgae95gad8e7dea9331"
@@ -2498,7 +2497,7 @@ msgstr "베리스의 인상착의에 대해 들었다. 그는 대머리에 파�
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:8831
 msgctxt "he0d2b31bg426cg44d5ga07dg8cbceefcf2a8"
 msgid "Rescue the Trapped Man"
-msgstr "갇힌 남자를 구출하기"
+msgstr "갇힌 남자 구출하기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:8837
 msgctxt "h1e0d9d32gca1cg4ea5g84f1gd853c719d724"
@@ -3404,7 +3403,7 @@ msgctxt "h75a5b575g99edg42cbg9afcg2108d9346c3f"
 msgid ""
 "Priestess Gut might have been able to help us, but being a goblin proved to "
 "be fatal for her. We'll need to find another way to remove the parasite."
-msgstr ""
+msgstr "여사제 거트가 우리를 도와줄 수도 있었지만, 그녀가 고블린이라는 사실이 치명적이었다. 기생충을 제거할 다른 방법을 찾아야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:11424
 msgctxt "hca984e43g8ba7g45caga08bg6fb8f002041f"
@@ -3638,7 +3637,7 @@ msgstr "살아남은 티플링들이 숲을 떠났다. 이제 그들은 우리 �
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:12095
 msgctxt "h2b97a63dg35bdg4f44g8907gde68d806599e"
 msgid "Investigate Kagha"
-msgstr "카그하 조사하기"
+msgstr "카그하 조사"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:12101
 msgctxt "h94a78bedg69eeg4086g9890g1e9feef34cff"
@@ -3965,7 +3964,7 @@ msgstr "우리가 고블린들을 처리하기도 전에 티플링들이 숲에�
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13017
 msgctxt "h37e3aa67gbb80g4081g972dg33b4004328d0"
 msgid "Raid the Grove"
-msgstr "숲 습격하기"
+msgstr "숲 습격"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13023
 msgctxt "h73affb64gb05fg4f16gb31cg868c71dcff38"
@@ -4062,204 +4061,204 @@ msgctxt "hffefeb80g0310g4920g86c3g4ca0caec0b35"
 msgid ""
 "Dror Ragzlin told us to speak to the drow Minthara. She plans to raid the "
 "adventurers' refuge - the grove."
-msgstr ""
+msgstr "드로르 라그즐린이 드로우 민타라와 대화를 나눠보라고 했다. 그녀는 모험가들의 피난처인 숲을 습격할 계획이라고 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13323
 msgctxt "h94f1c0fbgdca1g4282ga33ag61b5fd98cf81"
 msgid ""
 "Minthara asked us to interrogate the prisoner. She wants to know where the "
 "adventurers were hiding out."
-msgstr ""
+msgstr "민타라가 죄수를 심문해보라고 했다. 그녀는 모험가들이 어디 숨어있는지 알아내고 싶어 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13343
 msgctxt "h4ea6e55egbedeg49c0g850ag1e9e86f33cd0"
 msgid ""
 "The adventurer gave in and revealed the location of the grove. We have what "
 "the drow Minthara needs to order the raid."
-msgstr ""
+msgstr "모험가가 결국 굴복하고 숲의 위치를 밝혔다. 드로우 민타라가 습격을 지시하는데 필요한 정보를 모두 모았다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13363
 msgctxt "h649a7ebdgc191g414dg98fdga5b872a9ea70"
 msgid "Minthara was furious that the grove was sealed and attacked us."
-msgstr ""
+msgstr "민타라는 숲이 봉인된것에 분개하여 우리를 공격했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13383
 msgctxt "he6525652ge6e8g4aaegbe7fg994a2489d1d2"
 msgid ""
 "Sazza told the drow Minthara where the grove is. Minthara plans to raid it - "
 "and wants our help."
-msgstr ""
+msgstr "삿자가 드로우 민타라에게 숲의 위치를 알려줬다. 민타라는 그곳을 습격할 계획이며 우리의 도움이 필요하다고 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13403
 msgctxt "h81009ff1ge3d3g4007g897fg8b5fdd7224b8"
 msgid "Minthara died before she could lead an attack on the grove."
-msgstr ""
+msgstr "민타라는 숲을 향한 공격을 이끌지 못하고 죽어버렸다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13423
 msgctxt "hc32e93a7g16f3g47f7g8390g439375343afe"
 msgid ""
 "Minthara died before she could reward us for our part in the attack on the "
 "grove. "
-msgstr ""
+msgstr "민타라는 숲 공격전에 대한 우리의 공로를 보상해주지 못하고 죽어버렸다. "
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13443
 msgctxt "h44bb93cag325dg473dg8ac1gf943fa515bdf"
 msgid ""
 "Minthara and her warband have set out for the Grove. They are waiting for us "
 "to infiltrate it."
-msgstr ""
+msgstr "민타라와 그녀의 군대가 숲으로 출발했다. 그들은 우리가 숲으로 잠입하기를 기다리고 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13468
 msgctxt "h9e183f26ge22dg433cga333gbf3fadbf200f"
 msgid "Kill Kagha"
-msgstr ""
+msgstr "카그하 죽이기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13474
 msgctxt "hbfd65420g6415g453fg85f5g9d492deb6c89"
 msgid ""
 "The tieflings and druids are at an impasse. Killing Kagha might tip the "
 "balance."
-msgstr ""
+msgstr "티플링과 드루이드들은 교착상태에 빠져있다. 카그하를 죽인다면 균형이 기울 수도 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13494
 msgctxt "h9d3f2c59g0acdg461bgbac8g9b0015a9a919"
 msgid "We exposed Kagha as a traitor. Furious, she attacked us."
-msgstr ""
+msgstr "우리는 카그하가 배신자라는 사실을 폭로했다. 분노한 그녀는 우리를 공격했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13514
 msgctxt "hf0bf0db0g44c9g47a4g9922g46a760fe1bd6"
 msgid "We attacked Kagha, and the druids turned on all of the tieflings."
-msgstr ""
+msgstr "우리는 카그하를 공격했고, 드루이드들은 모든 티플링들을 공격하기 시작했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13534
 msgctxt "hcf7b1599g988ag4207gbf0fg1c4c82006634"
 msgid ""
 "Kagha and the other druids are dead. The conflict in the grove has ended. We "
 "should check on the tieflings."
-msgstr ""
+msgstr "카그하와 다른 드루이드들은 모두 죽었다. 숲의 갈등이 끝났다. 티플링들을 확인해봐야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13554
 msgctxt "h3fe28b2dg0449g4249gb20fgfa853e9035be"
 msgid ""
 "We killed Kagha and her Shadow Druid associates. Zevlor will be glad to hear "
 "it."
-msgstr ""
+msgstr "카그하와 그녀의 그림자 드루이드 동료들을 살해했다. 제블로어가 이 소식을 들으면 기뻐할 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13574
 msgctxt "heb3b822dg22b1g476dga38fg67ea9836d91d"
 msgid ""
 "The goblins are marching on the grove. Kagha and Zevlor are too focused on "
 "their own people to worry about each other."
-msgstr ""
+msgstr "고블린들이 숲으로 진격하고 있다. 카그하와 제블로어는 동족들에게 집중하느라 서로에게 신경 쓰지 못하고 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13594
 msgctxt "h2b828cedg557ag470eg8d55g7986db59453b"
 msgid ""
 "Zevlor thanked us for taking care of Kagha. Now we can focus on the goblin "
 "threat."
-msgstr ""
+msgstr "제블로어가 카그하 문제를 해결해줘서 고맙다고 했다. 이제 고블린들의 위협에 집중할 수 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13614
 msgctxt "h8727d071gce33g43ebga02fg8c2f38cb9eb2"
 msgid "With Zevlor gone, there will be no reward for killing Kagha."
-msgstr ""
+msgstr "제블로어가 사라졌으니 카그하를 살해해도 보상받지 못할 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13634
 msgctxt "hf23f409bg5ec6g4bfcgb466gfbd17a9b3288"
 msgid ""
 "We persuaded Kagha to stop the ritual. The conflict has ended - the "
 "tieflings can stay in the grove."
-msgstr ""
+msgstr "카그하를 설득해 의식을 멈췄다. 갈등이 끝났으니 티플링들은 숲에 머무를 수 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13654
 msgctxt "h36de2871g6bd7g4802g97e0ga8e611672f40"
 msgid "With the road cleared, the tieflings can leave in peace."
-msgstr ""
+msgstr "도로가 정리되었으니 티플링들은 안심하고 떠날 수 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13674
 msgctxt "ha28683feg85cdg47cdgbb0ag212bc2a87a54"
 msgid ""
 "Too many of the tieflings died. Unable to stay, the rest were forced from "
 "the grove."
-msgstr ""
+msgstr "너무 많은 티플링들이 죽었다. 더 이상 남아있을 수 없었던 다른 이들은 숲에서 쫓겨났다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13699
 msgctxt "hff8df774g600ag4206g99d2g04ff5d49157b"
 msgid "Steal the Sacred Idol"
-msgstr ""
+msgstr "신성한 우상 훔치기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13705
 msgctxt "h99dffa16gd386g40abg9812ga25612082824"
 msgid "Mol asked us to steal some kind of idol from the druids."
-msgstr ""
+msgstr "몰이 드루이드들에게서 어떤 우상을 훔쳐달라고 부탁했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13725
 msgctxt "h21dd8bd8g0b79g4ce3g8689g589ab84d4d42"
 msgid ""
 "We took the sacred idol and disrupted the ritual - but now the druids are "
 "attacking the tieflings."
-msgstr ""
+msgstr "우리는 신성한 우상을 훔치고 의식을 방해했다. 하지만 그러자 드루이드들이 티플링들을 공격하기 시작했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13745
 msgctxt "h1855c052g7efcg43d4g980bg2be4b2348260"
 msgid ""
 "Mol asked us to steal a sacred idol from the druids. Luckily, we already "
 "have it."
-msgstr ""
+msgstr "몰이 드루이드들에게서 신성한 우상을 훔쳐달라고 부탁했다. 운 좋게도 우리는 이미 그걸 가지고 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13765
 msgctxt "h86b1219dg2e93g4950g83e0g8d3e6b625b48"
 msgid ""
 "We stole the sacred idol and killed all the druids. Now we just need to "
 "deliver the idol to Mol."
-msgstr ""
+msgstr "신성한 우상을 훔치고 모든 드루이드를 죽였다. 이제 우상을 몰에게 가져다주기만 하면 된다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13785
 msgctxt "hb6dea607g72bag4910g98fbge250672cc64d"
 msgid ""
 "Even though the ritual to seal the grove had been halted, we stole the "
 "sacred idol. Now to deliver it to Mol."
-msgstr ""
+msgstr "숲을 봉인하는 의식은 중단되었지만, 우리는 신성한 우상을 훔쳤다. 이제 몰에게 가져다 주자."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13805
 msgctxt "h67878ff2g9000g45b3g8c77g0688f05a20a3"
 msgid ""
 "We gave the sacred idol to Mol. She promised to repay us in Baldur's Gate."
-msgstr ""
+msgstr "몰에게 신성한 우상을 건네줬다. 그녀는 발더스 게이트에서 반드시 보답하겠다고 약속했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13825
 msgctxt "hf99be25cg9fb5g444bgbc16g4fd3b5e71d76"
 msgid ""
 "Mol and her crew left for Baldur's Gate before we could speak with her. We "
 "should look for her in the city."
-msgstr ""
+msgstr "몰과 그녀의 일행은 우리가 그녀를 만나기도 전에 발더스 게이트로 떠나 버렸다. 도시에서 그녀를 찾아야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13845
 msgctxt "hfac16c13g9fc6g41dfgb2e1gcb70c899b490"
 msgid "We angered Mol and her gang - they won't deal with us anymore."
-msgstr ""
+msgstr "우리는 몰과 그녀의 패거리를 화나게 했다. 이제 우리와 거래하지 않을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13865
 msgctxt "h9e0d91c7g0e4eg4d07ga647g9350322009db"
 msgid "We decided to keep the sacred idol for ourselves."
-msgstr ""
+msgstr "우리는 신성한 우상을 가지기로 했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13885
 msgctxt "heb029555ga62dg4efdgb97age95d8d2750d8"
 msgid ""
 "The tieflings were forced out of the grove before we could steal the sacred "
 "idol."
-msgstr ""
+msgstr "우리가 신성한 우상을 훔치기도 전에 티플링들이 숲에서 쫓겨났다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13905
 msgctxt "h64d08963gbbc4g4ac5g96c4g47eb1719f7c0"
 msgid "We left the grove without stealing the sacred idol."
-msgstr ""
+msgstr "우리는 신성한 우상을 훔치지 않고 숲을 떠났다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13925
 msgctxt "h5a1458b4gfb27g40cbgb1fdga2275b008a0a"
 msgid "We weren't able to return the idol to Mol."
-msgstr ""
+msgstr "몰에게 우상을 가져다줄 수 없었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13950
 msgctxt "h21e9f1c8g4affg45e7g81b5gb69f93d1ad6a"
@@ -4271,7 +4270,7 @@ msgctxt "h7e3b761dga5b3g42bag9f43gc9095196c531"
 msgid ""
 "We learned that a child named Arabella is being held by the druids on "
 "charges of theft. We should check on her."
-msgstr ""
+msgstr "아라벨라라는 아이가 도둑질 혐의로 드루이드들에게 붙잡혀있다고 한다. 그녀를 확인해봐야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13976
 msgctxt "hb9791af7gfd90g422aga783g33637efbf2f5"
@@ -4285,27 +4284,27 @@ msgstr ""
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:13996
 msgctxt "h7b74314cgda3eg4788g8b88g2fc53aebd1ee"
 msgid "We managed to save Arabella, who immediately ran to her parents."
-msgstr ""
+msgstr "우리는 아라벨라를 구해냈고, 그녀는 바로 부모님에게 달려갔다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14016
 msgctxt "h773c4459g3ad6g45d4g988cgd63e95d2189c"
 msgid "Kagha's snake killed Arabella. Her parents should be informed."
-msgstr ""
+msgstr "카그하의 뱀이 아라벨라를 살해했다. 그녀의 부모에게 알려야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14036
 msgctxt "h801abcb8g3389g4dd9g9e37ga7cffc768a29"
 msgid "Arabella is safe - her parents are grateful for our intervention."
-msgstr ""
+msgstr "아라벨라는 이제 안전하다. 그녀의 부모는 우리의 개입에 감사해하고 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14056
 msgctxt "hd649d2beg1209g4e46gb7b6g7ef2bfd6686e"
 msgid "We told Arabella's parents what happened. They were devastated."
-msgstr ""
+msgstr "아라벨라의 부모에게 무슨 일이 있었는지 알려줬다. 그들은 큰 충격을 받았다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14076
 msgctxt "ha6e12f4egca56g4231gbf68g34c7983a6fb7"
 msgid "We left the area. Arabella's parents will never know her fate."
-msgstr ""
+msgstr "지역을 떠났다. 아라벨라의 부모는 결코 그녀의 운명을 알 수 없을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14096
 msgctxt "h7cd606f4g7dd2g483dga3c6gf870c32180ef"
@@ -4326,7 +4325,7 @@ msgctxt "h8f3d91f0g6306g45bag8deagd38b8e09b72d"
 msgid ""
 "Arabella's parents are gone for good. They will never learn their daughter's "
 "fate."
-msgstr ""
+msgstr "아라벨라의 부모는 영영 사라졌다. 그들은 결코 딸의 운명을 알 수 없을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14156
 msgctxt "h5744e223gd2f0g4f3dg8a0dg28986b2d22a7"
@@ -4345,7 +4344,7 @@ msgctxt "h37947095g38b7g46f3gabe4g1a41183fc560"
 msgid ""
 "We saved a child named Arabella from being killed by a snake. She "
 "immediately ran to her parents - we should speak with them."
-msgstr ""
+msgstr "우리는 아라벨라라는 아이가 뱀에게 물려 죽기 전에 구해냈다. 그녀는 바로 부모님에게 달려갔다. 그들과 이야기를 나눠보자."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14216
 msgctxt "hb3bc125eg703eg42b5ga32bgeb4dca312a93"
@@ -4355,28 +4354,29 @@ msgstr "아라벨라의 부모님은 딸의 운명을 영영 알지 못할 것�
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14241
 msgctxt "h61e2c2ebg0ee4g4fdag8f06g22a420056534"
 msgid "Help Omeluum investigate the parasite"
-msgstr ""
+msgstr "오멜룸의 기생충 조사 돕기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14247
 msgctxt "h350e3c5bgd3fag48a5gb09eg34f1a4bdfbf4"
 msgid ""
 "We've acquired Omeluum's ring of mind shielding. It might protect its wearer "
 "from the parasite's influence."
-msgstr ""
+msgstr "오멜룸의 정신 보호 반지를 획득했다. 이것으로 기생충의 영향으로부터 착용자를 보호할 수 있을지도 모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14267
 msgctxt "hc98dc678g8696g4692ga879g08a630a64c3e"
 msgid ""
 "We left the area before Omeluum could help. We'll need to find a cure "
 "somewhere else."
-msgstr ""
+msgstr "오멜룸의 도움을 받지 않고 지역을 떠났다. 다른 치료법을 찾아야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14287
+#, fuzzy
 msgctxt "h7cda485dg33d8g4ebdgb1edgf5c3e7d9afc9"
 msgid ""
 "We picked a fight with the Society of Brilliance - Omeluum won't be helping "
 "us now."
-msgstr ""
+msgstr "광명회와 싸움이 발생했다. 이제 오멜룸은 우리를 도와주지 않을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14307
 msgctxt "h3b87e193ge9adg4fe6g8edbgcfae890939b2"
@@ -4384,48 +4384,50 @@ msgid ""
 "We mentioned the parasite to Blurg, a hobgoblin. His colleague, a mind "
 "flayer named Omeluum, offered to examine it. Perhaps it can cure us?"
 msgstr ""
+"홉고블린 블러그에게 우리의 기생충에 대해 말했다. 그의 동료인 오멜룸이라는 마인드 플레이어가 한번 살펴보겠다고 한다. 우리를 치료해 줄 "
+"수 있을까?"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14327
 msgctxt "h3b126c6bg7f72g4796gb0d2ga25f4f03ad87"
 msgid ""
 "To help us, Omeluum requires a Tongue of Madness mushroom and some Timmask "
 "Spores. We can find both of these in the mysterious tower nearby."
-msgstr ""
+msgstr "오멜룸이 우리를 도와주려면 광기의 혀 버섯과 티마스크 포자가 필요하다고 한다. 근처에 있는 신비로운 탑에서 모두 찾을 수 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14347
 msgctxt "hcbd37a23g9d87g4e4egb458g5d8ae1bd9761"
 msgid ""
 "The mind flayer couldn't extract the parasite, but offered us a way to "
 "negate the magic protecting it."
-msgstr ""
+msgstr "마인드 플레이어가 기생충을 빼내지는 못했지만, 기생충을 보호하고 있는 마법을 무력화할 방법을 제시했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14367
 msgctxt "h8f14a0f6gbcf2g42d4ga4e0g733952174ac7"
 msgid ""
 "We found the Tongue of Madness. We'll need to bring it back to Omeluum along "
 "with the Timmask Spores."
-msgstr ""
+msgstr "광기의 혀를 찾았다. 티마스크 포자와 함께 오멜룸에게 가져가자."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14387
 msgctxt "h8032ae55ged81g453cg8123ga4b429130ffc"
 msgid ""
 "We found some Timmask Spores. We'll need to bring them back to Omeluum once "
 "we find the Tongue of Madness."
-msgstr ""
+msgstr "티마스크 포자를 좀 찾았다. 광기의 혀를 찾으면 같이 오멜룸에게 가져가자."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14407
 msgctxt "h3f4102e9g3c96g4fa8gac82g5e793f284dab"
 msgid ""
 "We lost some of the mushrooms that Omeluum asked for. We'll have to find "
 "some replacements before it can help us."
-msgstr ""
+msgstr "오멜룸이 부탁한 버섯의 일부를 잃어버렸다. 그것이 우리를 도와주려면 대체품을 찾아야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14427
 msgctxt "hf1efd0a3g0babg47b3g91eegb65d5371c0b3"
 msgid ""
 "Before Omeluum can start the procedure, we'll need to drink a potion it made "
 "from the mushrooms we found."
-msgstr ""
+msgstr "오멜룸이 시술을 시작하기 전에, 우리가 찾은 버섯으로 만든 물약을 마셔야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14447
 msgctxt "h8b0ca348g03f3g4eb5ga0b6g7d1f0f8700f9"
@@ -4433,19 +4435,21 @@ msgid ""
 "The potion Omeluum gave us didn't work - it made the parasite even stronger. "
 "To calm it down, Omeluum is willing to trade us a ring of mind shielding."
 msgstr ""
+"오멜룸이 준 물약은 전혀 통하지 않았다. 오히려 기생충이 더욱 강해졌다. 기생충을 안정시키기 위해 오멜룸이 정신 보호의 반지를 "
+"건네주겠다고 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14467
 msgctxt "h74a2774bg68dbg4739g9cf3g95f367c1ad6a"
 msgid ""
 "Omeluum died. We'll have to keep looking for a way to deal with the parasite."
-msgstr ""
+msgstr "오멜룸이 죽었다. 기생충을 처리할 방법을 계속 찾아봐야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14487
 msgctxt "hb505ff80ge9f2g4153g8da3g48e782efa635"
 msgid ""
 "The tower belongs to a cleric of Mystra named Lenore. She is fond of "
 "gardening and experimenting on plants such as the Sussur Tree."
-msgstr ""
+msgstr "이 탑은 미스트라의 클레릭인 레노어가 소유하고 있다. 그녀는 정원 가꾸기와 수서르 나무와 같은 식물에 실험하는 것을 즐긴다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14512
 msgctxt "hc077b289g0a20g4a88g96ddg323229c756c1"
@@ -4478,7 +4482,7 @@ msgctxt "hc64d65a7g2fd9g4b5egbad2g1648379ad549"
 msgid ""
 "We met one of the mind flayers' minions - an intellect devourer. It wants us "
 "to go to the helm of the ship."
-msgstr ""
+msgstr "마인드 플레이어의 하수인 중 하나인 지성 포식자를 만났다. 그것이 우리가 배의 조타실로 향해야 한다고 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14598
 msgctxt "h76b79961ge166g447bgbb99g629e740d3d0d"
@@ -4508,21 +4512,21 @@ msgstr "발더스 게이트에서 온 유명한 괴물 사냥꾼 윌을 만났�
 msgctxt "h20b879d7g0680g4979gb646gfbb402d8a1ed"
 msgid ""
 "We've arrived at the goblin camp. Now we need to find and kill their leaders."
-msgstr ""
+msgstr "고블린 야영지에 도착했다. 이제 지도자들을 찾아 모두 죽여야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14689
 msgctxt "hdfe04d09g7b4eg45c4g8482gc017790de47d"
 msgid ""
 "We killed the goblin leaders - the tieflings should have a chance now. Wyll "
 "wants to continue looking for a cure for the parasite with us."
-msgstr ""
+msgstr "고블린 지도자들을 모두 죽였으니 티플링들에게도 승산이 있을 것이다. 윌이 우리와 함께 기생충을 치료할 방법을 찾고 싶어 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14709
 msgctxt "h5b4793e2g5dcbg4f94g9fa2g8edea1509726"
 msgid ""
 "Wyll told us that he's looking for a goblin named Spike. They've got some "
 "history together, and Wyll would like to have a chat."
-msgstr ""
+msgstr "윌이 스파이크라는 고블린을 찾고 있다고 한다. 둘 사이에는 과거에 사연이 있는데, 윌이 그와 대화를 나누고 싶다고 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14729
 msgctxt "h126271ecg182ag4055gb419ga89e418daccb"
@@ -4530,6 +4534,8 @@ msgid ""
 "Spike died before he could tell us anything useful. Wyll wasn't too pleased, "
 "but we'll have to carry on - the goblin leaders still need to die."
 msgstr ""
+"스파이크가 쓸모 있는 정보를 주기 전에 죽어버렸다. 윌은 기분이 그닥 좋지 않았지만 우리는 계속 나아가야 한다. 여전히 죽여야 할 고블린 "
+"지도자들이 남아 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14749
 msgctxt "h3b78b6c8g60e5g41d0gaaedgf3f4c9cb10ab"
@@ -4537,6 +4543,8 @@ msgid ""
 "Spike died before he could tell us anything useful. Wyll wasn't too pleased, "
 "but we'll have to carry on - we still need to deal with the parasite."
 msgstr ""
+"스파이크가 쓸모 있는 정보를 주기 전에 죽어버렸다. 윌은 기분이 그닥 좋지 않았지만 우리는 계속 나아가야 한다. 우리에게는 아직 처리해야 "
+"할 기생충 문제가 남아있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14769
 msgctxt "h7090bd90gfd02g44f7ga44dg096cee542946"
@@ -4544,6 +4552,7 @@ msgid ""
 "Spike told Wyll that someone named Mizora was imprisoned here, then brought "
 "somewhere else. Wyll said he would explain back at camp."
 msgstr ""
+"스파이크는 윌에게 미조라라는 자가 여기 갇혀있었지만 다른 곳으로 이송되었다고 전했다. 윌은 야영지로 돌아가서 설명해주겠다고 했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14789
 msgctxt "hadd0503bg5636g4f17g9db4gce1f577301e6"
@@ -4552,6 +4561,8 @@ msgid ""
 "separated on the Nautiloid, and now he needs to find where the goblins took "
 "her."
 msgstr ""
+"윌이 미조라는 자신에게 힘을 준 캠비온이라고 말했다. 둘은 노틸로이드에서 헤어졌고, 이제 그는 고블린들이 그녀를 어디로 데려갔는지 "
+"알아내야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14809
 msgctxt "h4915e55cgab5cg48abg9227gbd6420dfa308"
@@ -4560,40 +4571,41 @@ msgid ""
 "separated on the Nautiloid, and now he needs to rescue her from Moonrise "
 "Towers."
 msgstr ""
+"윌이 미조라는 자신에게 힘을 준 캠비온이라고 말했다. 둘은 노틸로이드에서 헤어졌고, 이제 그는 문라이즈 타워에서 그녀를 구해내야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14829
 msgctxt "h4531edc2g6ef4g4350gbd9egc7426506613e"
 msgid ""
 "We learned that Mizora was taken to Moonrise Towers - the Absolute's "
 "stronghold to the west."
-msgstr ""
+msgstr "우리는 미조라가 서쪽에 있는 절대자의 요새인 문라이즈 타워로 이송되었다는 것을 알아냈다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14849
 msgctxt "hfea4c88eg56e2g4cffgbcfcgdfbf24d1cfd5"
 msgid "Wyll died - as heroes often do."
-msgstr ""
+msgstr "으레 영웅들이 그러듯, 윌이 죽었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14869
 msgctxt "h3231b3aeg405eg46d2g838ag90e423720c24"
 msgid "Wyll left our party - for good."
-msgstr ""
+msgstr "윌이 일행을 영영 떠났다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14889
 msgctxt "h494a24f6gba05g41a9g98b8gcc354f8dd931"
 msgid "Wyll turned against us."
-msgstr ""
+msgstr "윌은 우리에게 등을 돌렸다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14914
 msgctxt "h4a0ad072gc9f4g42ecgafd3g58b8b4cd4583"
 msgid "Hunt the Devil"
-msgstr ""
+msgstr "데블 사냥"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14920
 msgctxt "h82235629gff0ag43bdgb99dg64516607b708"
 msgid ""
 "We met a tiefling named Karlach who escaped Avernus - though not without "
 "being infected first. She asked us to kill some cultists looking for her."
-msgstr ""
+msgstr "우리는 감염된 채 아베르누스에서 탈출한 티플링, 칼라크를 만났다. 그녀는 자신을 찾는 어떤 신도들을 처치해달라고 부탁했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14940
 msgctxt "hf03db707g07d1g4fc5gb3a7g0e036e3c438c"
@@ -4607,14 +4619,14 @@ msgctxt "ha539858bg51fcg454bg8992g06333717e04d"
 msgid ""
 "We met a group of paladins of Tyr and agreed to help them look for some kind "
 "of devil - she was leading a gnoll pack and could still be nearby."
-msgstr ""
+msgstr "어떤 티르의 팔라딘 무리와 만났는데, 그들에 따르면 어떤 악마가 놀 무리를 이끌고 근처에 있다고 한다. 그들을 도와주기로 했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:14980
 msgctxt "h3fdbe511g0c08g4a51g95d7g15989811074c"
 msgid ""
 "We discovered that the paladins of Tyr are actually cultists serving Zariel -"
 " an archdevil of Avernus."
-msgstr ""
+msgstr "티르의 팔라딘들이 사실은 아베르누스의 아크데블, 자리엘을 섬기는 신도들이라는 사실을 알아냈다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15000
 msgctxt "h8e1c3dfcg8205g4450g951fg0da76b926bfd"
@@ -4622,6 +4634,8 @@ msgid ""
 "Karlach told us she is a veteran of the Blood War. She escaped Hell on the "
 "Nautiloid, but is still being hunted by servants of Zariel, an archdevil."
 msgstr ""
+"칼라크는 그녀가 피의 전쟁의 참전 용사라고 말했다. 그녀는 노틸로이드를 타고 지옥에서 탈출했지만, 아크데블 자리엘의 하수인들에게 계속 "
+"추적당하고 있다고 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15020
 msgctxt "h489e91d8g1ac5g4ee9gb6d4ge9aa92fe45ca"
@@ -4642,7 +4656,7 @@ msgctxt "h38bcbdb1gc33dg487cgbe54ga0a67df8d8ee"
 msgid ""
 "We killed the devil terrorising the region. We should bring her head back to "
 "Anders."
-msgstr ""
+msgstr "지역을 위협하던 데블을 죽였다. 그녀의 머리를 앤더스에게 가져가자."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15080
 msgctxt "h5c34c26dg2e05g4cd3gb235g432bd3e07866"
@@ -4658,12 +4672,12 @@ msgstr "칼라크가 죽었다. 그녀를 쫓는 자들이 이 소식을 반길 
 msgctxt "ha9f1e54cg3d92g4b28gabf9g009c97dff9e8"
 msgid ""
 "Anders is dead. The devil he was hunting may be interested in hearing this."
-msgstr ""
+msgstr "앤더스는 죽었다. 그가 쫓던 데블이 이 소식에 흥미가 있을지도 모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15140
 msgctxt "h73de4a6bg8c56g4412ga12fg7204e38013fc"
 msgid "We gave the head to a thankful Anders. Karlach the devil is no more."
-msgstr "수급을 넘겨줬고 앤더스는 감사를 표했다. 악마 칼라크는 영원히 작별이다."
+msgstr "수급을 넘겨줬고 앤더스는 감사를 표했다. 데블 칼라크와는 영원히 작별이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15160
 msgctxt "h9a3ba3f5gc45cg48e8gbd31gc2442b52f70c"
@@ -4683,19 +4697,19 @@ msgctxt "h1a15b6c6g9c6bg4984gba84g3fa956ffd1a2"
 msgid ""
 "We left the region before resolving the conflict between the hunters and "
 "their prey."
-msgstr ""
+msgstr "사냥꾼꽈 사냥감 사이의 갈등을 해결하지 않고 지역을 떠났다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15231
 msgctxt "hd0464399g6ab2g4fbdg80aag1227536ab7fd"
 msgid "Kill the Devil"
-msgstr ""
+msgstr "데블 죽이기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15237
 msgctxt "ha18bf652g82ebg485cg9e95ge33753ee9118"
 msgid ""
 "Anders asked us to kill the one-horned tiefling Karlach and bring him her "
 "head."
-msgstr "앤더스는 뿔 하나 달린 티플링인 칼라크를 죽이고 그녀의 머리를 가져와달라고 부탁했다."
+msgstr "앤더스는 뿔이 하나뿐인 티플링인 칼라크를 죽이고 그녀의 머리를 가져와달라고 부탁했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15257
 msgctxt "hb026c4f3g6342g419fgaf69g1a2f1607f0da"
@@ -4710,22 +4724,22 @@ msgstr "앤더스가 죽었다. 칼라크는 안심할 것이다."
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15297
 msgctxt "h966b97b7g3934g4103gb4b8g6bd917513857"
 msgid "We gave the head to a thankful Anders. Karlach the devil is no more."
-msgstr ""
+msgstr "수급을 넘겨줬고 앤더스는 감사를 표했다. 데블 칼라크와는 영원히 작별이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15322
 msgctxt "h8dc6dd86gbcd3g43bcg9bcdg2cd4c4a33373"
 msgid "Kill Anders"
-msgstr ""
+msgstr "앤더스 죽이기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15328
 msgctxt "hd9b7dfe0gdbaag4e3fga851g6835064564f3"
 msgid "Karlach asked us to kill Anders and his band before they find her."
-msgstr ""
+msgstr "칼라크가 그녀를 찾기 전에 앤더스와 그의 무리를 죽여달라고 부탁했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15348
 msgctxt "hf6de7e93gee9fg4f4egbce7g978870c758e4"
 msgid "Anders and his band have been killed. We should inform Karlach."
-msgstr ""
+msgstr "앤더스와 그의 무리는 죽었다. 칼라크에게 알리자."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15368
 msgctxt "h07662eb2g3381g46fagb6a1g1832777f5851"
@@ -4733,6 +4747,7 @@ msgid ""
 "We told Karlach that the cultists hunting her are dead. She thanked us and "
 "said she was heading to Baldur's Gate. Perhaps we'll see her again there."
 msgstr ""
+"칼라크를 쫓던 광신도들을 처치했다고 말해줬다. 감사를 표한 그녀는 발더스 게이트로 향한다고 했다. 아마 거기서 다시 만나게 될 지도."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15388
 msgctxt "h179438ebgfb3ag44eaga816g3d9434f6d670"
@@ -4742,7 +4757,7 @@ msgstr "칼라크가 죽었다."
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15413
 msgctxt "hfd767eb3g578dg4c21g96ddgf551b35bfafd"
 msgid "Rescue the Grand Duke"
-msgstr ""
+msgstr "대공 구출하기"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15419
 msgctxt "h6ee73145g500fg4836gb5e1g74045162d410"
@@ -4750,6 +4765,8 @@ msgid ""
 "We approached a burning inn called Waukeen's Rest. Flaming Fists are trying "
 "to break down the door - a Grand Duke of Baldur's Gate is trapped inside."
 msgstr ""
+"우리는 불타고 있는 여관, 와우킨의 쉼터에 도착했다. 플레이밍 피스트 단원들이 문을 부수려고 하고 있다. 발더스 게이트의 대공이 안에 "
+"갇혀있다고 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15439
 msgctxt "h5d73f5c0gd65bg49e8g8198g7d00d4f669db"
@@ -4759,74 +4776,74 @@ msgstr "문을 뚫고 갈 수가 없었다. 이곳으로 통하는 다른 길이
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15459
 msgctxt "h4a63318fg8b8bg45b7gb2f5g612563d66b6e"
 msgid "We managed to get inside. We need to find the Grand Duke and fast."
-msgstr ""
+msgstr "겨우 안쪽으로 들어왔다. 대공을 빨리 찾아야 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15479
 msgctxt "h0b7b2759g71fdg4e87gade6g336a228a0342"
 msgid "We found a survivor trapped behind a locked door."
-msgstr ""
+msgstr "잠긴 문 뒤에 갇혀있던 생존자를 발견했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15499
 msgctxt "hd38b0e07gc18cg4ab2gb317gaa28b30dbe92"
 msgid ""
 "A man is stuck under some rubble. He's not the Grand Duke, but he still "
 "needs help."
-msgstr ""
+msgstr "한 남성이 잔해 아래 깔려있다. 대공은 아니지만 도움이 필요한 상황이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15519
 msgctxt "h94e629bcg96adg4981g9df9g4e9c01e6d147"
 msgid "The woman we rescued survived. Maybe she saw the Grand Duke?"
-msgstr ""
+msgstr "우리가 구출한 여성이 살아남았다. 그녀가 대공을 봤을까?"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15539
 msgctxt "hcbafc909g9bccg439egbea2g8dab2ecf7b35"
 msgid ""
 "We learned nothing from the woman we rescued. Someone else must know what "
 "happened to the Grand Duke."
-msgstr ""
+msgstr "우리가 구출한 여성에게서는 아무것도 알아낼 수 없었다. 대공에게 무슨 일이 있었는지는 다른 이가 알고 있을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15559
 msgctxt "h25b6bb6cgdddag4851g8dc9g9a4bfc998757"
 msgid ""
 "We refused to help Counsellor Florrick. But we should keep an eye out for "
 "the Grand Duke - he'd make a powerful ally."
-msgstr ""
+msgstr "자문관 플로릭의 도움 요청을 거절했다. 하지만 여전히 대공을 찾아봐야 한다. 그는 강력한 아군이 되어줄 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15579
 msgctxt "h76dd4a4eg6c06g4c5agb7dcg95f8a1e70f20"
 msgid "We agreed to look for the Grand Duke. We should investigate the area."
-msgstr ""
+msgstr "대공을 찾아보기로 했다. 지역을 조사해보자."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15599
 msgctxt "h93e37aa6g145bg4f14g9951gf250c28d0528"
 msgid ""
 "We agreed to look for the Grand Duke. We should head to Moonrise Towers."
-msgstr ""
+msgstr "대공을 찾아보기로 했다. 문라이즈 타워로 향하자."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15619
 msgctxt "h42d45cd3gf8aag4ab1gb0fcg1c1fdfa6c796"
 msgid ""
 "Moonrise Towers is a popular location - at least for the cult of the "
 "Absolute. Perhaps the Grand Duke was taken there too."
-msgstr ""
+msgstr "문라이즈 타워는 적어도 절대자 교단에게는 유명한 장소인 듯하다. 대공도 그곳으로 끌려갔을지도 모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15639
 msgctxt "hea153f43gd08cg4122gb4b5g2443ab9dcd4c"
 msgid ""
 "We didn't find the Grand Duke or anyone who'd seen him. We should still keep "
 "an eye out, though - he'd make a powerful ally."
-msgstr ""
+msgstr "대공이나 그를 본 사람은 만나지 못했다. 하지만 계속해서 찾아봐야 한다. 그는 강력한 아군이 되어줄 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15659
 msgctxt "h8ca1ecebg9215g4491g8f70g3381120c809c"
 msgid "We learned that the Grand Duke of Baldur's Gate was kidnapped."
-msgstr ""
+msgstr "우리는 발더스 게이트의 대공이 납치되었다는 소식을 들었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15679
 msgctxt "h0d886ba7gf6e4g482eg915dg163a61b33e66"
 msgid ""
 "We learned that the Grand Duke was captured by drow and taken westwards. "
-msgstr ""
+msgstr "대공이 드로우에게 납치되어 서쪽으로 끌려갔다는 사실을 알아냈다. "
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15709
 msgctxt "h4e91c779g3fe7g4850gb99fg3e80da9ab30e"
@@ -4871,6 +4888,7 @@ msgid ""
 "We learned that Astarion was murdered by a Gur nomad long ago. The vampire "
 "lord Cazador came to his aid and made him a vampire spawn."
 msgstr ""
+"아스타리온이 오래전 거르 유목민에게 살해당했다는 것을 알아냈다. 뱀파이어 로드인 카자도르가 그를 치료해 뱀파이어 스폰으로 만들었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15815
 msgctxt "h206b4c85g50beg4301ga469gd0d45f6bb0c2"
@@ -4878,6 +4896,7 @@ msgid ""
 "We learned that Astarion was a slave to the Szarr family. He couldn't refuse "
 "orders from them - and believes that might still be the case."
 msgstr ""
+"우리는 아스타리온이 자르 가문의 노예였다는 사실을 알아냈다. 그는 가문의 명령을 거역할 수 없었고, 여전히 그럴지도 모른다고 믿고 있다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15835
 msgctxt "h8a669673gbbeeg4f74gb03bg6e282834e658"
@@ -4885,6 +4904,8 @@ msgid ""
 "Astarion suspects that the parasite may have negated some of the downsides "
 "of being a vampire spawn. Perhaps his master has no power over him anymore."
 msgstr ""
+"아스타리온은 기생충이 뱀파이어 스폰의 단점을 일부 상쇄했을지도 모른다고 의심하고 있다. 그의 주인은 더 이상 그를 지배할 수 없을지도 "
+"모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15855
 msgctxt "h8e42f63dgaa71g47f2g8b99g5d606b28b46b"
@@ -4905,7 +4926,7 @@ msgctxt "h23d05d82gc3fbg48c5gbf4agbe8679ca6417"
 msgid ""
 "We learned that Astarion might be a vampire! A monster hunter named Gandrel "
 "is looking for him."
-msgstr ""
+msgstr "아스타리온이 뱀파이어일지도 모른다! 간드렐이라는 괴물 사냥꾼이 그를 찾고있다고 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:15915
 msgctxt "h87a9c150g8347g4e45gaa4egbd5183778ee2"
@@ -4935,21 +4956,21 @@ msgstr "아스타리온을 찾는 괴물 사냥꾼을 만났다. 그에게서 �
 msgctxt "hdec1bb8bg45eeg4442ga96cgcb6969c68cf2"
 msgid ""
 "We learned that the monster hunter was serving someone named Maiden Fel."
-msgstr ""
+msgstr "우리는 괴물 사냥꾼이 메이든 펠이라는 사람을 섬기고 있다는 사실을 알아냈다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16015
 msgctxt "hd73f0d07g513dg4a15ga123g25dd562f1e82"
 msgid ""
 "Astarion told us that he suspects the monster hunter is serving his master "
 "Cazador."
-msgstr ""
+msgstr "아스타리온이 그 괴물 사냥꾼이 그의 주인인 카자도르를 섬기고 있을지도 모른다고 말했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16035
 msgctxt "h0b1e60feg87e1g4500g955bge6a25db4be76"
 msgid ""
 "After spending the night with Astarion, we learned that he has some kind of "
 "poem carved into his back. Cazador did this to him - but why?"
-msgstr ""
+msgstr "아스타리온과 하룻밤을 보낸 뒤, 우리는 그의 등에 어떤 시가 새겨져 있다는 것을 알아냈다. 카자도르가 왜 이런 짓을 한걸까?"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16055
 msgctxt "h5ed9b3e0ga50ag402bg8e16g7f80c8e802cb"
@@ -4957,92 +4978,93 @@ msgid ""
 "After spending the night with Astarion, we learned that he has a poem "
 "written in Infernal carved into his back. Cazador did this to him - but why?"
 msgstr ""
+"아스타리온과 하룻밤을 보낸 뒤, 우리는 그의 등에 지옥의 글씨로 어떤 시가 새겨져 있다는 것을 알아냈다. 카자도르가 왜 이런 짓을 한걸까?"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16075
 msgctxt "h3879de70g3539g485dgb0d5gf194e73882be"
 msgid ""
 "We broke Astarion's cover and let the monster hunter capture him. That might "
 "be the last we see of the vampire spawn."
-msgstr ""
+msgstr "우리는 아스타리온의 위장을 밝히고 괴물 사냥꾼이 그를 사로잡게 했다. 이게 뱀파이어 스폰의 마지막 모습일지도 모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16095
 msgctxt "ha77867f5g68d6g4ffdga057g7f893c1ce26d"
 msgid ""
 "Astarion's gone. One can't help but wonder if it had anything to do with us "
 "telling the monster hunter where we were camped."
-msgstr ""
+msgstr "아스타리온은 사라졌다. 우리가 괴물 사냥꾼에게 야영지의 위치를 알려준 것과 관련이 있다는 생각이 떠나지 않는다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16115
 msgctxt "he0367065g8db2g4a76g9699g2d3afda93eb1"
 msgid "Astarion died. No time for a funeral."
-msgstr ""
+msgstr "아스타리온은 죽었다. 장례를 치를 시간은 없다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16135
 msgctxt "h2da5d524gf44ag4875g9c50g194ad8238e4f"
 msgid "Astarion has left the party. We won't be inviting him back."
-msgstr ""
+msgstr "아스타리온이 일행을 떠났다. 그를 다시 초대할 일은 없을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16155
 msgctxt "h76310aa4g7b95g42a4gac83g2466c5033773"
 msgid "Astarion turned against us."
-msgstr ""
+msgstr "아스타리온은 우리에게 등을 돌렸다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16180
 msgctxt "h523483eeg2e20g433agaff2geba1f7e6ab87"
 msgid "The Chosen of Shar"
-msgstr ""
+msgstr "샤의 초즌"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16186
 msgctxt "h66c90938ga013g4ed6gba10g5e31a037eca0"
 msgid ""
 "Shadowheart has shown interest in finding the lair of the Dark Justiciar - "
 "an elite force dedicated to her goddess Shar."
-msgstr ""
+msgstr "섀도하트는 그녀가 섬기는 여신 샤를 위해 헌신하는 정예 부대인 다크 저스티시어의 은신처를 찾는 데 관심을 보인다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16206
 msgctxt "h84c9d390g04fag44b7g825fg0bc3f902630c"
 msgid ""
 "Shadowheart has shown interest in finding the lair of the Dark Justiciar - "
 "an elite force dedicated to the goddess Shar."
-msgstr ""
+msgstr "섀도하트는 여신 샤를 위해 헌신하는 정예 부대인 다크 저스티시어의 은신처를 찾는 데 관심을 보인다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16226
 msgctxt "h4e9eafb9g5c84g4dd8gaf54g605c35e51610"
 msgid ""
 "We entered the ruins of what may have been a fortress dedicated to the "
 "goddess Shar. We could be close to the Dark Justiciar's lair."
-msgstr ""
+msgstr "여신 샤에게 바쳐진 신전일지도 모르는 요새에 들어섰다. 다크 저스티시어의 은신처가 가까운 곳에 있을지도 모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16246
 msgctxt "h27114bfdgbea0g4020g85dbg4407cf6ca2ab"
 msgid "Shadowheart died. We won't be able to bring her back."
-msgstr ""
+msgstr "섀도하트가 죽었다. 우린 그녀를 되살릴 수 없었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16266
 msgctxt "hcdcdb23dg3656g45e7gbce2gb48874a341bc"
 msgid "Shadowheart left our party and won't return."
-msgstr ""
+msgstr "섀도하트가 파티를 떠났다. 다시는 돌아오지 않을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16286
 msgctxt "hf69606a6g8660g4d50gba38g2f5af762aa6d"
 msgid ""
 "We found the corpses of several Dark Justiciars - Shar must have been "
 "worshipped here. "
-msgstr ""
+msgstr "다크 저스티시어 몇명의 시체를 발견했다. 이곳에서 샤를 숭배했던 모양이다. "
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16306
 msgctxt "h620cd172gbdd3g4aa7g8903g4b89aaa15575"
 msgid ""
 "We found the corpses of several of Dark Justiciars - Shar must have been "
 "worshipped here. Shadowheart suggested we search for answers."
-msgstr ""
+msgstr "다크 저스티시어 몇명의 시체를 발견했다. 이곳에서 샤를 숭배했던 모양이다. 섀도하트는 답을 찾아보자고 제안했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16326
 msgctxt "h611c437cge450g46edgbe63g8f8bff4027bc"
 msgid ""
 "We found traces of hellish fiends. Could they have killed the Dark "
 "Justiciars? If so, where is their temple of Shar?"
-msgstr ""
+msgstr "지옥 악마들의 흔적을 찾았다. 그것들이 다크 저스티시어들을 살해한걸까? 그렇다면 샤의 신전은 어디에 있는걸까?"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16346
 msgctxt "h7619d4c4g62a5g45e0ga433ga9fe1177fe09"
@@ -5050,13 +5072,14 @@ msgid ""
 "We learned that Grymforge leads to an ancient temple. Perhaps the truth of "
 "what happened to the Dark Justiciars can be discovered there."
 msgstr ""
+"그림포지가 어떤 고대의 사원으로 이어지고 있다. 이곳에서 다크 저스티시어들에게 어떤 일이 있었던 건지 진실을 찾을 수 있을지도 모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16366
 msgctxt "h70e789deg0eddg4b18g9dd4g78d253f26ac9"
 msgid ""
 "The bridge to the ancient temple has been destroyed - there must be another "
 "way in."
-msgstr ""
+msgstr "고대 사원으로 향하는 다리가 파괴되었지만 분명 다른 길이 있을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16386
 msgctxt "h48757c33ga780g48efgbc30g67c20bc2d8af"
@@ -5065,59 +5088,61 @@ msgid ""
 "destroyed. If we find another way to in, we might discover what happened to "
 "the Dark Justiciars."
 msgstr ""
+"사교 신도들이 고대 사원을 찾으려 했지만, 다리가 파괴되어 있다. 다른 길을 찾으면 다크 저스티시어들에게 어떤 일이 일어난건지 알아낼 수 "
+"있을지도 모른다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16411
 msgctxt "h61540649g9238g4cedg88a4g3d7aa92f4813"
 msgid "Save the First Druid"
-msgstr ""
+msgstr "첫번째 드루이드 구출"
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16417
 msgctxt "hf42b2fb6gf234g4812ga13cg449490a88bab"
 msgid "Halsin was defeated."
-msgstr ""
+msgstr "할신이 패배했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16437
 msgctxt "hd7857e84gff0eg430dga9afg8e6476ce6340"
 msgid ""
 "Rath was grateful and pointed us to a hidden vault locked by runes in the "
 "Enclave Library."
-msgstr ""
+msgstr "라스가 감사를 표하며 언클레이브 도서관에 룬으로 봉인된 숨겨진 금고의 위치를 알려 주었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16457
 msgctxt "hd31f03bfg35bcg433ag9aa6gd3f9777920c2"
 msgid "The tieflings left for Baldur's Gate - the grove will be at peace now."
-msgstr ""
+msgstr "티플링들이 발더스 게이트로 떠났으니 이제 숲은 평화로울 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16477
 msgctxt "ha20f0febg99b1g4360g8a2bg223b9dcb2ef5"
 msgid ""
 "The tieflings left for Baldur's Gate - the grove will be at peace now. Rath "
 "should have something for us."
-msgstr ""
+msgstr "티플링들이 발더스 게이트로 떠났으니 이제 숲은 평화로울 것이다. 라스가 우리에게 줄 것이 있다고 한다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16497
 msgctxt "hecc70369g2f50g4fa9ga724g01809331d918"
 msgid "The tieflings left for Baldur's Gate - the grove will be at peace now."
-msgstr ""
+msgstr "티플링들이 발더스 게이트로 떠났으니 이제 숲은 평화로울 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16517
 msgctxt "hd4eb0613ga46fg44eegafbbg4ed7d1d32ae1"
 msgid ""
 "The grove was sealed before we could find Halsin. He won't be needed at the "
 "grove anymore."
-msgstr ""
+msgstr "할신을 찾기 전에 숲이 봉인되었다. 이제 그는 숲은 그를 필요로 하지 않을 것이다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16537
 msgctxt "h0f9068f3gfa44g46d6gad46g915566ec0bd0"
 msgid ""
 "The tieflings and the druids were defeated. The grove has been destroyed."
-msgstr ""
+msgstr "티플링과 드루이드들이 패배했다. 숲은 파괴되었다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16557
 msgctxt "ha6917ba8g0307g4dd0g899egb6e8bfc1c611"
 msgid ""
 "Halsin thanked us and said that Rath would surely reward us for our efforts."
-msgstr ""
+msgstr "할신이 감사를 전하며 라스가 우리의 노고에 분명 보상을 해줄 것이라고 했다."
 
 #: Gustav/Mods/Gustav/Story/Journal/quest_prototypes.lsx:16577
 msgctxt "hccacc062g5972g4300gac31g675f1fb0b397"

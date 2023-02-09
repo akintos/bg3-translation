@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-02-06 16:52+0000\n"
+"PO-Revision-Date: 2023-02-09 10:52+0000\n"
 "Last-Translator: 겐쥐킹 <a8675309@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/levelitems/ko/>"
 "\n"
@@ -2866,7 +2866,7 @@ msgctxt "hacfe15a0g6116g4280g9722g353ec6ceea7f"
 msgid ""
 "A metal key held by a tiefling refugee. Three notches have been carved in "
 "the handle."
-msgstr "티플링 난민이 쥐고 있던 금속 열쇠. 손잡이 부분에 홈이 새겨져 있다."
+msgstr "티플링 난민이 쥐고 있던 금속 열쇠. 손잡이 부분에 홈이 세 개 새겨져 있다."
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:119473
 msgctxt "hba3b00d1g21e4g4960g92b7g6f7bcfabb58a"
@@ -3727,46 +3727,48 @@ msgstr "안수르의 최고봉 모집 포스터"
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:154600
 msgctxt "h8d015511gc109g4a3bgbd52g885198196700"
 msgid "An orderly ledger, figures faded with time."
-msgstr ""
+msgstr "세월에 숫자는 희미해진, 잘 정돈된 장부."
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:154601
 msgctxt "hebef2e7cg87ddg47c0ga5f2gdab6aa6c07c8"
 msgid "Scuffed Manifest"
-msgstr ""
+msgstr "긁힌 명부"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:154738
 msgctxt "hf9e20512g2e38g459eg86b7g47906d3d63c1"
 msgid "Rampart"
-msgstr ""
+msgstr "성곽"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:155050
 msgctxt "hdd4280fbg7734g4ec9gbd81g2f92ff4f6b61"
 msgid "Wooden Hinge"
-msgstr ""
+msgstr "나무 경첩"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:155550
+#, fuzzy
 msgctxt "h40cdc3f6geb19g416ag9d01gaebe83ee9ef4"
 msgid "Pull Switch"
-msgstr ""
+msgstr "스위치 당기기"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:155645
 msgctxt "h8fda442bg5e18g4bd0gb0a2g24862b85e632"
 msgid ""
 "Despite the rotting smell wafting off this talisman, holding it makes you "
 "feel inexplicably powerful."
-msgstr ""
+msgstr "부적에서 풍기는 썩은 냄새에도 불구하고, 이 부적을 쥐고 있노라면 설명할 순 없지만 힘이 충만해지는 기분입니다."
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:155646
 msgctxt "haeb641deg77f2g49f4g881agfff436608a05"
 msgid "Auntie Ethel's Charm"
-msgstr ""
+msgstr "에텔 이모의 부적"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:155653
 msgctxt "h576f5494g80f2g4288g9e4fg01392f842285"
 msgid "Break"
-msgstr ""
+msgstr "부수기"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:155656
+#, fuzzy
 msgctxt "h1d125063g7e66g472ag8558g3f7b46e6b5ba"
 msgid ""
 "Break this charm to receive all benefits from the Enhance Ability Spell "
@@ -3780,121 +3782,130 @@ msgid ""
 ">Fox's Cunning</LSTag>, and <LSTag Type=\"Spell\" Tooltip="
 "\"Target_EnhanceAbility_OwlsWisdom\">Owl's Wisdom</LSTag>."
 msgstr ""
+"이 부적을 부수면 다음 긴 휴식 전까지 능력 강화 주문의 모든 효과를 받습니다: <LSTag Type=\"Spell\" Tooltip="
+"\"Target_EnhanceAbility_BearsEndurance\">곰의 인내력</LSTag>, <LSTag Type=\"Spell"
+"\" Tooltip=\"Target_EnhanceAbility_BullsStrength\">황소의 힘</LSTag>, <LSTag "
+"Type=\"Spell\" Tooltip=\"Target_EnhanceAbility_CatsGrace\">고양이의 우아함</LSTag>, "
+"<LSTag Type=\"Spell\" Tooltip=\"Target_EnhanceAbility_EaglesSplendor\">독수리의 "
+"웅대함</LSTag>, <LSTag Type=\"Spell\" Tooltip="
+"\"Target_EnhanceAbility_FoxsCunning\">여우의 교활함</LSTag>, and <LSTag Type="
+"\"Spell\" Tooltip=\"Target_EnhanceAbility_OwlsWisdom\">올빼미의 지혜</LSTag>."
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:155703
 msgctxt "h4ff5784bg53d8g44c3ga490g1120bf2abc65"
 msgid "Magma Rain"
-msgstr ""
+msgstr "용암비"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:156635
 msgctxt "h82f2dceeg4f87g4de4g97e0gaa06b8aae412"
 msgid ""
 "A metal key held by a tiefling refugee. Two notches have been carved in the "
 "handle."
-msgstr ""
+msgstr "티플링 난민이 쥐고 있던 금속 열쇠. 손잡이 부분에 홈이 두 개 새겨져 있다."
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:156636
 msgctxt "hf29dbf45g250bg4a53g955egba94a9e6fe73"
 msgid "Storage Key"
-msgstr ""
+msgstr "창고 열쇠"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:157264
 msgctxt "h203e5cd3g9732g41c8gbe68g5f4e4ac6fb41"
 msgid "Ascend"
-msgstr ""
+msgstr "올라가기"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:157589
 msgctxt "h8e3a675cgdce2g4830gab4dgeef75ae0cc73"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:157628
 msgctxt "h8b8c9fe2g2b9dg43ddgac9agb3074d0958c4"
 msgid "Cracked Stone"
-msgstr ""
+msgstr "금이 간 돌"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:157793
 msgctxt "h87f59a5egdd6cg4fdfgbbb7gfe9bfe340a37"
 msgid "Rusted Weapons"
-msgstr ""
+msgstr "녹슨 무기"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:158035
 msgctxt "hddf9930cg5599g4f73ga4ffgb1b2be4b3f3b"
 msgid "This key shines from lack of use."
-msgstr ""
+msgstr "이 열쇠는 별로 사용하지 않아 빛이 납니다."
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:158036
 msgctxt "h15137b9ag09dfg4b34gb9dfg0dd47d2706c5"
 msgid "Prison Key"
-msgstr ""
+msgstr "감옥 열쇠"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:158207
 msgctxt "had3837c9g9ed0g43d2gb714g35fbc5fb1a0d"
 msgid ""
 "Black ink stains blot the handle of this key. Found in sarcophagus within a "
 "long-forgotten chapel."
-msgstr ""
+msgstr "이 열쇠의 손잡이 부분은 검은색 잉크로 얼룩져 있습니다. 오랜 세월 잊혀졌던 예배당 내의 석관에서 발견되었습니다."
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:158208
 msgctxt "h1055e137gd574g41eag9d0cg442d46fdf6f1"
 msgid "Engraved Key"
-msgstr ""
+msgstr "무늬새김 열쇠"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:158251
 msgctxt "h7d2c0be6g875dg4a57ga990g52f06861efe0"
 msgid ""
 "A thick wrought-iron key held by a guard in a cavern beneath Waukeen's Rest."
-msgstr ""
+msgstr "와우킨의 쉼터 아래 동굴에 있던 경비가 지니고 있던 두꺼운 단철 열쇠."
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:158252
 msgctxt "h39076411g1af5g4cfegaf9eg6ee5517286b7"
 msgid "Iron Key"
-msgstr ""
+msgstr "철제 열쇠"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:158588
 msgctxt "h2c2a814egf4c8g4c1agbbeage22585412fdf"
 msgid "Backdraft"
-msgstr ""
+msgstr "역기류"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:158992
 msgctxt "ha69701f9gb910g423bgb3edg6241b00ac93f"
 msgid "Sodden Altar"
-msgstr ""
+msgstr "흠뻑 젖은 제단"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:159623
 msgctxt "h4f77489egc907g4446g8151gb1fafebde825"
 msgid "A detailed record of the travellers sighted in Moonhaven village."
-msgstr ""
+msgstr "문헤이븐 마을에서 목격된 여행자들에 관한 세세한 기록."
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:159624
 msgctxt "h7688acaagd575g4e38ga0cdg11d44122d9e7"
 msgid "Moonhaven Logbook"
-msgstr ""
+msgstr "문헤이븐 일지"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:159675
 msgctxt "h1287fb8cgaf08g4734ga9cdg95ac38ae01e2"
 msgid "Collapsed Archway"
-msgstr ""
+msgstr "무너진 아치형 입구"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:159989
 msgctxt "hcbe1523fg438fg4956ga7fege2ab05d84fb2"
 msgid "Clumps of dirt collect in the corners of this heavy-walled chest."
-msgstr ""
+msgstr "먼지 덩어리들이 이 두꺼운 상자 모퉁이에 뭉쳐 있습니다."
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:159990
+#, fuzzy
 msgctxt "h334bc10cg8ed0g4400ga69bgaae60cc16fa9"
 msgid "Pantry Chest"
-msgstr ""
+msgstr "팬트리 상자"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:160112
 msgctxt "h8908b905gfa40g4352ga557g3f541b7052aa"
 msgid "One side of this wooden chest is buckled and cracked from rain."
-msgstr ""
+msgstr "이 목재 상자의 한쪽 면은 비를 맞아 우그러지고 금이 갔습니다."
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:160113
 msgctxt "h147514e7g7cb1g4f3dg9971g33e18dd9a05d"
 msgid "Travel-Worn Chest"
-msgstr ""
+msgstr "잦은 운송에 닳은 상자"
 
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:160201
 msgctxt "h57c03176g62d1g4729g91b8g0cb7a3f72995"
