@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-02-12 07:52+0000\n"
+"PO-Revision-Date: 2023-02-14 15:52+0000\n"
 "Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -3196,12 +3196,14 @@ msgid ""
 "Tooltip=\"TemporaryHitPoints\">temporary hit points</LSTag> equal to your "
 "Charisma <LSTag Tooltip=\"AbilityModifier\">Modifier</LSTag>."
 msgstr ""
+"강타 주문 중 하나로 상태를 적용시키면, 매력 <LSTag Tooltip=\"AbilityModifier\">수정치</LSTag>와 "
+"동일한 수치의 <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 얻습니다."
 
 #. key = Gustav_Passive_MAG_Paladin_SmiteSpellsSupport_Helmet_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:988
 msgctxt "h19fc1888g99c9g4529ga64eg63c33f0924ee"
 msgid "Bolstering Smite"
-msgstr ""
+msgstr "보강의 강타"
 
 #. key = Gustav_Passive_MAG_Rage_TempHPOnExit_Passive_Description
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:729
@@ -3851,7 +3853,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Projectile_DisplayName.lsx:85
 msgctxt "hed72fe06gb823g439cga4adge1f897b94fc5"
 msgid "Shatter"
-msgstr ""
+msgstr "분쇄"
 
 #. key = Gustav_Projectile_UND_HarperStash_Trap_ExtraDescription
 #: Gustav/Public/Gustav/Localization/Projectile_ExtraDescription.lsx:8
@@ -4082,7 +4084,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Shout_DisplayName.lsx:169
 msgctxt "hab878f6fge4f7g4c7agb8aeg334b57bf5d04"
 msgid "Lightning Aura"
-msgstr ""
+msgstr "번개의 오라"
 
 #. key = Gustav_Shout_MAG_ChargedLightning_LightningBlast_Description
 #: Gustav/Public/Gustav/Localization/Stats/Shout_Description.lsx:169
@@ -5607,7 +5609,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1268
 msgctxt "haae76a0egadf8g4903g94ddgd48c2569e673"
 msgid "Lightning Aura"
-msgstr ""
+msgstr "번개의 오라"
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1128
@@ -6808,7 +6810,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:29
 msgctxt "h6555b166g1f19g418agbf10gb78303fca527"
 msgid "Under Operation"
-msgstr ""
+msgstr "수술중"
 
 #. key = Gustav_Status_INCAPACITATED_UND_INJUREDGNOME_POISONED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:120
@@ -7461,7 +7463,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:92
 msgctxt "he4d4bb28g0214g423fg873ag383bcf6a27f8"
 msgid "Warlock Spell Slot"
-msgstr ""
+msgstr "워락 주문 슬롯"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_14_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:106
@@ -7638,13 +7640,13 @@ msgstr "이동 속도"
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:36
 msgctxt "h6ba89950gb4e2g4363ga6eagd245088261ad"
 msgid "Used to cast spells."
-msgstr ""
+msgstr "주문을 시전하는 데 사용됩니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_4_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:36
 msgctxt "h4e0bbc17g498dg4eebgbd9fg439e25625039"
 msgid "Spell Slot"
-msgstr ""
+msgstr "주문 슬롯"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_5_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:43
@@ -7690,13 +7692,13 @@ msgctxt "h1d06df95g7f0ag4a3eg996ag2f7c94531a0f"
 msgid ""
 "Superiority dice are spent to empower Battle Master manoeuvres, improving "
 "proficiency in combat."
-msgstr ""
+msgstr "우월성 주사위는 배틀 마스터의 기동을 강화하여 전투에서 숙련도를 증가시킵니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_8_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:64
 msgctxt "h70051973ge89eg4a49g9c8ag324fce806913"
 msgid "Superiority Die"
-msgstr ""
+msgstr "우월성 주사위"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_9_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:71
@@ -7712,12 +7714,14 @@ msgid ""
 "to profit from it. Bending the truth and turning allies against each other "
 "will lead to greater success down the road."
 msgstr ""
+"당신은 조작의 전문가이며 늘상 과장하며 이를 통해 이익을 얻는 것을 좋아합니다. 진실을 왜곡하고 아군을 서로 적으로 돌리는 것이 앞으로 "
+"더 큰 성공으로 이어질 것입니다."
 
 #. key = Shared_Backgrounds_New_Stat_0_DisplayName
 #: Shared/Public/Shared/Localization/Backgrounds_DisplayName.lsx:8
 msgctxt "h4858e9a1gb81fg4335g9839gcd8e479ce0cc"
 msgid "Charlatan"
-msgstr ""
+msgstr "사기꾼"
 
 #. key = Shared_Backgrounds_New_Stat_10_Description
 #: Shared/Public/Shared/Localization/Backgrounds_Description.lsx:71
@@ -7732,7 +7736,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Backgrounds_DisplayName.lsx:71
 msgctxt "hb10c1825g27e8g47fag9e51gf79f5a8d1c2f"
 msgid "Acolyte"
-msgstr ""
+msgstr "복사"
 
 #. key = Shared_Backgrounds_New_Stat_11_Description
 #: Shared/Public/Shared/Localization/Backgrounds_Description.lsx:78
@@ -7742,12 +7746,14 @@ msgid ""
 "guild, offering privileges and protection while engaging in your art. "
 "Repairing and discovering rare crafts will bring new inspiration."
 msgstr ""
+"당신의 특별한 기술이 상인 길드의 자리를 얻게 해 주었으며, 길드에서 특권과 보호를 받으며 공예를 펼칠 수 있었습니다. 희귀한 공예품들을 "
+"수리하거나 발견하면 새로운 영감을 얻을 것입니다."
 
 #. key = Shared_Backgrounds_New_Stat_11_DisplayName
 #: Shared/Public/Shared/Localization/Backgrounds_DisplayName.lsx:78
 msgctxt "h256017d5g3d5fg4b8dg968ega7074ce7a090"
 msgid "Guild Artisan"
-msgstr ""
+msgstr "길드 장인"
 
 #. key = Shared_Backgrounds_New_Stat_1_Description
 #: Shared/Public/Shared/Localization/Backgrounds_Description.lsx:15
@@ -7757,12 +7763,13 @@ msgid ""
 "legal connections. Profiting from criminal enterprise will lead to greater "
 "opportunities in the future."
 msgstr ""
+"당신은 전과가 있으며 불법적인 인맥을 활용해 생존해 왔습니다. 범죄 기업에서 이익을 얻는 것은 앞으로도 더 큰 기회로 이어질 것입니다."
 
 #. key = Shared_Backgrounds_New_Stat_1_DisplayName
 #: Shared/Public/Shared/Localization/Backgrounds_DisplayName.lsx:15
 msgctxt "h3da3856dg029eg4476gb757g01c7cbdc44e6"
 msgid "Criminal"
-msgstr ""
+msgstr "범죄자"
 
 #. key = Shared_Backgrounds_New_Stat_2_Description
 #: Shared/Public/Shared/Localization/Backgrounds_Description.lsx:22
@@ -7772,12 +7779,14 @@ msgid ""
 "society alike. Preserving art and bringing joy to the hapless and "
 "downtrodden heightens your charismatic aura."
 msgstr ""
+"당신은 대중과 상류 사회의 모두를 흔들어놓고 타락시키기 위해 살아갑니다. 예술을 보존하고 불행하고 탄압받는 자들에게 즐거움을 선사하는 "
+"것이 당신의 매력을 고조시킵니다."
 
 #. key = Shared_Backgrounds_New_Stat_2_DisplayName
 #: Shared/Public/Shared/Localization/Backgrounds_DisplayName.lsx:22
 msgctxt "h4aab9e83g2faeg420fg829fg4a48a1e72bed"
 msgid "Entertainer"
-msgstr ""
+msgstr "연예인"
 
 #. key = Shared_Backgrounds_New_Stat_3_Description
 #: Shared/Public/Shared/Localization/Backgrounds_Description.lsx:29
@@ -7792,7 +7801,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Backgrounds_DisplayName.lsx:29
 msgctxt "h23f8fc07g20e5g43a4gba1bgbb976e4c1557"
 msgid "Folk Hero"
-msgstr ""
+msgstr "민중 영웅"
 
 #. key = Shared_Backgrounds_New_Stat_4_Description
 #: Shared/Public/Shared/Localization/Backgrounds_Description.lsx:36
@@ -7806,7 +7815,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Backgrounds_DisplayName.lsx:36
 msgctxt "h85c48005g524eg41acg86d6g65ea50d8c179"
 msgid "Noble"
-msgstr ""
+msgstr "귀족"
 
 #. key = Shared_Backgrounds_New_Stat_6_Description
 #: Shared/Public/Shared/Localization/Backgrounds_Description.lsx:43
@@ -7816,12 +7825,14 @@ msgid ""
 "civilisation. Surviving unusual hazards of the wild will enhance your "
 "prowess and understanding."
 msgstr ""
+"당신은 문명의 안락함과는 거리가 먼 곳에서 생존하는 법을 터득하며 자랐습니다. 야생의 예상치 못한 위험 속에서 살아남으면 당신의 능력과 "
+"이해가 향상될 것입니다."
 
 #. key = Shared_Backgrounds_New_Stat_6_DisplayName
 #: Shared/Public/Shared/Localization/Backgrounds_DisplayName.lsx:43
 msgctxt "h198c786cg54aag4408g9201g85069571dd1a"
 msgid "Outlander"
-msgstr ""
+msgstr "이방인"
 
 #. key = Shared_Backgrounds_New_Stat_7_Description
 #: Shared/Public/Shared/Localization/Backgrounds_Description.lsx:50
@@ -13486,7 +13497,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:8
 msgctxt "h894ae177ga1dbg4183g8b37ge3f1909dbdcf"
 msgid "Life Domain"
-msgstr ""
+msgstr "생명 권역"
 
 #. key = Shared_ClassDescriptions_New_Stat_10_ShortName
 #: Shared/Public/Shared/Localization/ClassDescriptions_ShortName.lsx:8
@@ -13506,13 +13517,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:15
 msgctxt "h76681ff1g0a1bg45afg9134gde2bc1fede45"
 msgid "Light Domain"
-msgstr ""
+msgstr "광휘 권역"
 
 #. key = Shared_ClassDescriptions_New_Stat_11_ShortName
 #: Shared/Public/Shared/Localization/ClassDescriptions_ShortName.lsx:15
 msgctxt "hc0b2a797ga126g45d5g8cdfgc65425b5ff40"
 msgid "Light"
-msgstr ""
+msgstr "빛"
 
 #. key = Shared_ClassDescriptions_New_Stat_12_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:71
@@ -13611,7 +13622,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:22
 msgctxt "hed8c569bg900ag4013g90afg79d20d363479"
 msgid "Trickery Domain"
-msgstr ""
+msgstr "기만 권역"
 
 #. key = Shared_ClassDescriptions_New_Stat_18_ShortName
 #: Shared/Public/Shared/Localization/ClassDescriptions_ShortName.lsx:22
@@ -13735,7 +13746,7 @@ msgstr "클레릭"
 #: Shared/Public/Shared/Localization/ClassDescriptions_SubclassTitle.lsx:8
 msgctxt "hee3ec834g1a90g4f22g9f78g2d0195c29d37"
 msgid "Select Domain"
-msgstr ""
+msgstr "권역 선택"
 
 #. key = Shared_ClassDescriptions_New_Stat_26_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:183
@@ -16179,7 +16190,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ItemCombinations.lsx:43
 msgctxt "hb2d5cb6dgbbd3g46bag9d63g3c8d17881549"
 msgid "Spinning Wheel"
-msgstr ""
+msgstr "회전하는 바퀴"
 
 #. key = CraftingStationsItemComboPreviewData_Well_Tooltip
 #: Shared/Public/Shared/Localization/ItemCombinations.lsx:50
@@ -17293,7 +17304,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:50
 msgctxt "h256bb30eg4f66g44d1gbad3gdb6ff146ee99"
 msgid "Divine Smite on Critical Hit"
-msgstr ""
+msgstr "치명타 시 신성한 강타"
 
 #. key = Shared_Interrupt_Interrupt_Smite_Divine_Critical_ExtraDescription
 #: Shared/Public/Shared/Localization/Interrupt_ExtraDescription.lsx:43
@@ -17314,7 +17325,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:64
 msgctxt "hec12d3b6g365eg4809g8053gbbf4ec3c0686"
 msgid "Divine Smite"
-msgstr ""
+msgstr "신성한 강타"
 
 #. key = Shared_Interrupt_Interrupt_Smite_Divine_ExtraDescription
 #: Shared/Public/Shared/Localization/Interrupt_ExtraDescription.lsx:36
@@ -18503,12 +18514,14 @@ msgid ""
 "providing sacrifices to the god or gods you worship. Manifestations of gods, "
 "along with their sacred works, guide you to greatness."
 msgstr ""
+"당신은 신전에서 봉사하며, 섬기는 신(들)의 성스러운 의식을 배우고 제물을 바치며 인생을 살아왔습니다. 신들의 현현과 그들의 신성한 "
+"업적이, 당신을 위대함의 길로 인도합니다."
 
 #. key = Shared_Passive_Background_Acolyte_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1261
 msgctxt "h543f0d83g566fg4ec9gbe5cg3930f6638e92"
 msgid "Acolyte"
-msgstr ""
+msgstr "복사"
 
 #. key = Shared_Passive_Background_Charlatan_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1219
@@ -18518,12 +18531,14 @@ msgid ""
 "to profit from it. Bending the truth until it breaks will lead to greater "
 "success down the road."
 msgstr ""
+"당신은 조작에 능하고 늘상 과장하며 이를 통해 이익을 얻는 것을 좋아합니다. 진실이 깨질 때까지 구부린다면 나중에 더 큰 성공을 거둘 "
+"것입니다."
 
 #. key = Shared_Passive_Background_Charlatan_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1037
 msgctxt "hca6dc39agec99g4571g8f52gaa41b7ec2f69"
 msgid "Charlatan"
-msgstr ""
+msgstr "사기꾼"
 
 #. key = Shared_Passive_Background_Criminal_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1226
@@ -18533,12 +18548,13 @@ msgid ""
 "legal connections. Profiting from criminal enterprise will lead to greater "
 "opportunities in the future."
 msgstr ""
+"당신은 전과가 있으며 불법적인 인맥을 활용해 생존해 왔습니다. 범죄 기업에서 이익을 얻는 것은 앞으로도 더 큰 기회로 이어질 것입니다."
 
 #. key = Shared_Passive_Background_Criminal_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1044
 msgctxt "h8fd8b1ddgc70bg4683g80aag6accdc62152f"
 msgid "Criminal"
-msgstr ""
+msgstr "범죄자"
 
 #. key = Shared_Passive_Background_Entertainer_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1233
@@ -18548,12 +18564,14 @@ msgid ""
 "society alike. Bringing joy to the hapless and downtrodden heightens your "
 "charismatic aura."
 msgstr ""
+"당신은 대중과 상류 사회의 모두를 흔들어놓고 타락시키기 위해 살아갑니다. 불행하고 탄압받는 자들에게 즐거움을 선사하는 것이 당신의 매력을 "
+"고조시킵니다."
 
 #. key = Shared_Passive_Background_Entertainer_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1051
 msgctxt "h91bd899eg5cafg488egbfbfga356a91f16ce"
 msgid "Entertainer"
-msgstr ""
+msgstr "연예인"
 
 #. key = Shared_Passive_Background_FolkHero_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1240
@@ -18563,12 +18581,14 @@ msgid ""
 "protect the helpless. Saving people in imminent danger will make your legend "
 "grow."
 msgstr ""
+"당신은 민중의 영웅이며 힘없는 자들을 보호하기 위해 폭군과 괴물에게 도전합니다. 절체절명의 위기에 빠진 사람들을 구해주면 당신의 전설이 "
+"더 커질 것입니다."
 
 #. key = Shared_Passive_Background_FolkHero_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1058
 msgctxt "h11109d18g4031g4d21g9fdeg5fcec0685b4c"
 msgid "Folk Hero"
-msgstr ""
+msgstr "민중 영웅"
 
 #. key = Shared_Passive_Background_GuildArtisan_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1198
@@ -18579,12 +18599,14 @@ msgid ""
 "Discovering rare components for wondrous crafts will provide the perfect "
 "muse."
 msgstr ""
+"당신의 특별한 기술이 상인 길드의 자리를 얻게 해 주었으며, 길드에서 특권과 보호를 받으며 공예를 펼칠 수 있었습니다. 멋진 공예품을 "
+"만들기 위한 희귀한 재료를 발견하면 완벽한 영감을 얻을 것입니다."
 
 #. key = Shared_Passive_Background_GuildArtisan_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1268
 msgctxt "hed087d89gc383g486bg95d9gd92c21bdf51f"
 msgid "Guild Artisan"
-msgstr ""
+msgstr "길드 장인"
 
 #. key = Shared_Passive_Background_Hermit_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1247
@@ -18614,7 +18636,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1072
 msgctxt "h193bb28bg2d55g4a1dga600gbdea6927d10f"
 msgid "Noble"
-msgstr ""
+msgstr "귀족"
 
 #. key = Shared_Passive_Background_Outlander_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1261
@@ -18624,12 +18646,14 @@ msgid ""
 "civilisation. Surviving unusual hazards of the wild will enhance your "
 "prowess and understanding."
 msgstr ""
+"당신은 문명의 안락함과는 거리가 먼 곳에서 생존하는 법을 터득하며 자랐습니다. 야생의 예상치 못한 위험 속에서 살아남으면 당신의 능력과 "
+"이해가 향상될 것입니다."
 
 #. key = Shared_Passive_Background_Outlander_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1079
 msgctxt "h53790ac1g9e88g4d6dgbb1fgf70526c8be5f"
 msgid "Outlander"
-msgstr ""
+msgstr "이방인"
 
 #. key = Shared_Passive_Background_Sage_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1268
@@ -19169,7 +19193,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:43
 msgctxt "h1bde91c2g3406g4552gafb0g6e21436db1d3"
 msgid "You can see in the dark up to [1]."
-msgstr ""
+msgstr "어둠 속에서도 [1] 앞까지 볼 수 있습니다."
 
 #. key = Shared_Passive_Darkvision_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:43
@@ -19345,7 +19369,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:232
 msgctxt "hee67852agfbecg4a8eg8811g53d634e3a347"
 msgid "Domain Spells"
-msgstr ""
+msgstr "권역 주문"
 
 #. key = Shared_Passive_DraconicAncestry_Black_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1590
@@ -20208,7 +20232,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2353
 msgctxt "hb6713776g8f9eg4570g94ecgb5b26ff73299"
 msgid "Holy Rebuke"
-msgstr ""
+msgstr "거룩한 질책"
 
 #. key = Shared_Passive_HordeBreaker_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1009
@@ -21308,7 +21332,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1107
 msgctxt "h549cca93gf9e4g4525gbc17g7d7e8a6159c7"
 msgid "Battleaxe Proficiency"
-msgstr ""
+msgstr "배틀액스 숙련"
 
 #. key = Shared_Passive_Proficiency_Clubs_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1037
@@ -21322,7 +21346,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1114
 msgctxt "h12fb52b7g1f12g431bgb0f7g18df6273a49d"
 msgid "Club Proficiency"
-msgstr ""
+msgstr "곤봉 숙련"
 
 #. key = Shared_Passive_Proficiency_Daggers_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1044
@@ -21336,7 +21360,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1121
 msgctxt "he7aa1a00g9956g4657gbbf8g616fe6b1237d"
 msgid "Dagger Proficiency"
-msgstr ""
+msgstr "단검 숙련"
 
 #. key = Shared_Passive_Proficiency_Flails_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1359
@@ -21350,7 +21374,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1366
 msgctxt "h80c4fdf9g9b87g4a73g9b8ag466f132131f2"
 msgid "Flail Proficiency"
-msgstr ""
+msgstr "도리깨 숙련"
 
 #. key = Shared_Passive_Proficiency_Glaives_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1051
@@ -21364,7 +21388,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1128
 msgctxt "h57b64413gadddg4086gb1a4g473d77bb3baa"
 msgid "Glaive Proficiency"
-msgstr ""
+msgstr "글레이브 숙련"
 
 #. key = Shared_Passive_Proficiency_Greataxe_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1373
@@ -21378,7 +21402,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1380
 msgctxt "h40d67badg658fg462dgad72g9b59514cee62"
 msgid "Greataxe Proficiency"
-msgstr ""
+msgstr "그레이트액스 숙련"
 
 #. key = Shared_Passive_Proficiency_Greatclub_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1366
@@ -21392,7 +21416,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1373
 msgctxt "h4a784569g46ebg47a8gab7fg1bcf8d97e5a1"
 msgid "Greatclub Proficiency"
-msgstr ""
+msgstr "대형곤봉 숙련"
 
 #. key = Shared_Passive_Proficiency_Greatswords_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1058
@@ -21406,7 +21430,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1135
 msgctxt "h53f7d040g8facg4a7eg91b9gfebf9e63ef7d"
 msgid "Greatsword Proficiency"
-msgstr ""
+msgstr "대검 숙련"
 
 #. key = Shared_Passive_Proficiency_Halberds_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1380
@@ -21420,7 +21444,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1387
 msgctxt "h9b4d0424g4f1cg4f2fg91d5g21b6e19f0a80"
 msgid "Halberd Proficiency"
-msgstr ""
+msgstr "할버드 숙련"
 
 #. key = Shared_Passive_Proficiency_HandCrossbows_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1065
@@ -21434,7 +21458,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1142
 msgctxt "hf2c74269g996ag4314gbb4bg26d95475f3ab"
 msgid "Hand Crossbow Proficiency"
-msgstr ""
+msgstr "손쇠뇌 숙련"
 
 #. key = Shared_Passive_Proficiency_Handaxes_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1072
@@ -21448,7 +21472,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1149
 msgctxt "h357eb3a4gc5deg43begb854g10d6a256305c"
 msgid "Handaxe Proficiency"
-msgstr ""
+msgstr "손도끼 숙련"
 
 #. key = Shared_Passive_Proficiency_HeavyCrossbows_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1079
@@ -21462,7 +21486,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1156
 msgctxt "h2f3efd76gbf53g42acg8df7gc02255a60b5a"
 msgid "Heavy Crossbow Proficiency"
-msgstr ""
+msgstr "중쇠뇌 숙련"
 
 #. key = Shared_Passive_Proficiency_Javelins_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1086
@@ -21476,7 +21500,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1163
 msgctxt "h7da43727g99d3g4ca2ga333gd3c2f2f88213"
 msgid "Javelin Proficiency"
-msgstr ""
+msgstr "재블린 숙련"
 
 #. key = Shared_Passive_Proficiency_LightCrossbows_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1093
@@ -21490,7 +21514,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1170
 msgctxt "haf26ce43g14aag49fcga549g23d7e928c421"
 msgid "Light Crossbow Proficiency"
-msgstr ""
+msgstr "경쇠뇌 숙련"
 
 #. key = Shared_Passive_Proficiency_LightHammers_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1100
@@ -21518,7 +21542,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1184
 msgctxt "h3a7b439fg15fdg457fg97ccg6df6ed73f143"
 msgid "Longbow Proficiency"
-msgstr ""
+msgstr "장궁 숙련"
 
 #. key = Shared_Passive_Proficiency_Longswords_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1114
@@ -21532,7 +21556,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1191
 msgctxt "h65f0fbe9g0933g44degbf2dgb0b78b9f3907"
 msgid "Longsword Proficiency"
-msgstr ""
+msgstr "롱소드 숙련"
 
 #. key = Shared_Passive_Proficiency_Maces_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1121
@@ -21546,7 +21570,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1198
 msgctxt "h4f6cb088gdedcg4668g8671g7194ae6f4438"
 msgid "Mace Proficiency"
-msgstr ""
+msgstr "메이스 숙련"
 
 #. key = Shared_Passive_Proficiency_Mauls_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1387
@@ -21560,7 +21584,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1394
 msgctxt "h3965ace0gc9ceg482bg804bg7e8eed68ecdc"
 msgid "Maul Proficiency"
-msgstr ""
+msgstr "몰 숙련"
 
 #. key = Shared_Passive_Proficiency_Morningstars_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1394
@@ -21574,7 +21598,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1401
 msgctxt "h611f85cbg244bg4448gbfcbg7f675166cadb"
 msgid "Morningstar Proficiency"
-msgstr ""
+msgstr "모닝스타 숙련"
 
 #. key = Shared_Passive_Proficiency_Pikes_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1401
@@ -21602,7 +21626,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1205
 msgctxt "h463a60edgf991g42cag994fg19efd932650b"
 msgid "Quarterstaff Proficiency"
-msgstr ""
+msgstr "쿼터스태프 숙련"
 
 #. key = Shared_Passive_Proficiency_Rapiers_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1135
@@ -21616,7 +21640,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1212
 msgctxt "h6ce5a73dgd5b3g4d54gab01g4d24c69ed7d3"
 msgid "Rapier Proficiency"
-msgstr ""
+msgstr "레이피어 숙련"
 
 #. key = Shared_Passive_Proficiency_Scimitars_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1142
@@ -21630,7 +21654,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1219
 msgctxt "h6d935802g598eg44c4g8355ga70d9c273201"
 msgid "Scimitar Proficiency"
-msgstr ""
+msgstr "시미터 숙련"
 
 #. key = Shared_Passive_Proficiency_Shortbows_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1149
@@ -21644,7 +21668,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1226
 msgctxt "hd7bde58cga7d4g4771gb477g35ebbff2794b"
 msgid "Shortbow Proficiency"
-msgstr ""
+msgstr "단궁 숙련"
 
 #. key = Shared_Passive_Proficiency_Shortswords_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1156
@@ -21658,7 +21682,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1233
 msgctxt "h80d9cabbg6e5cg4025g8d01g7b7854ebf330"
 msgid "Shortsword Proficiency"
-msgstr ""
+msgstr "숏소드 숙련"
 
 #. key = Shared_Passive_Proficiency_Sickles_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1163
@@ -21686,7 +21710,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1247
 msgctxt "hcbc92e98ga601g44d0gbe92g9d9ebc0c4c15"
 msgid "Spear Proficiency"
-msgstr ""
+msgstr "창 숙련"
 
 #. key = Shared_Passive_Proficiency_Tridents_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1408
@@ -21700,7 +21724,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1415
 msgctxt "hf920fc9cgc9ebg4b07ga9d7gdc5963a9068a"
 msgid "Trident Proficiency"
-msgstr ""
+msgstr "삼지창 숙련"
 
 #. key = Shared_Passive_Proficiency_Warhammers_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1177
@@ -21714,7 +21738,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1254
 msgctxt "h75468d45g9983g4848gbfa9gad9a8c7c8804"
 msgid "Warhammer Proficiency"
-msgstr ""
+msgstr "워해머 숙련"
 
 #. key = Shared_Passive_Proficiency_Warpicks_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1415
@@ -22002,13 +22026,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2465
 msgctxt "h1b863c66gf759g4073gb716g0254f07b4a0a"
 msgid "Divine Smite"
-msgstr ""
+msgstr "신성한 강타"
 
 #. key = Shared_Passive_Smite_Divine_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2458
 msgctxt "ha3b33e18g5e44g4a9cg9dd5g1723ac7f0eb3"
 msgid "Divine Smite"
-msgstr ""
+msgstr "신성한 강타"
 
 #. key = Shared_Passive_Smite_Divine_Toggle_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2290
@@ -22020,12 +22044,16 @@ msgid ""
 "available <LSTag Tooltip=\"SpellSlot\">spell slot</LSTag> will be used to "
 "maximise damage."
 msgstr ""
+"근접 무기 공격으로 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>를 적중시키면 자동으로 <LSTag "
+"Type=\"Spell\" Tooltip=\"Target_Smite_Divine\">신성한 강타</LSTag>를 시전합니다. "
+"<br><Br>가능한 한 최대의 피해를 입히기 위해 가장 높은 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</"
+"LSTag>이 사용됩니다."
 
 #. key = Shared_Passive_Smite_Divine_Toggle_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2346
 msgctxt "he8928749gd3b2g4ce1gbf23gf284d275bf1b"
 msgid "Divine Smite on Critical Hit"
-msgstr ""
+msgstr "치명타 시 신성한 강타"
 
 #. key = Shared_Passive_SpiderFallResistance_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1471
@@ -22133,7 +22161,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:778
 msgctxt "hae3d7f66g3a4ag43d8g8103g4fcf9ec4f584"
 msgid "You can see in the dark up to [1]."
-msgstr ""
+msgstr "어둠 속에서도 [1] 앞까지 볼 수 있습니다."
 
 #. key = Shared_Passive_SuperiorDarkvision_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:778
@@ -22638,7 +22666,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:736
 msgctxt "h98e9574dg00c9g4792g9767g5e509c4214ec"
 msgid "Arcana Proficiency"
-msgstr ""
+msgstr "비전 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_107_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:708
@@ -22777,7 +22805,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:771
 msgctxt "hae8be2f3ge703g4de9gb6a5gec812104e828"
 msgid "Warlock Spell Slots"
-msgstr ""
+msgstr "워락 주문 슬롯"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_119_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:848
@@ -23065,7 +23093,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:85
 msgctxt "hd54b782dga4c8g4389g9318g823413758c8b"
 msgid "Life Domain"
-msgstr ""
+msgstr "생명 권역"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_140_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:883
@@ -23161,7 +23189,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:92
 msgctxt "h6954b056g9dbbg492cga6fbge371a0fd9e49"
 msgid "Light Domain"
-msgstr ""
+msgstr "광휘 권역"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_150_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1457
@@ -23182,12 +23210,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"AnimalHandling\">Animal Handling</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"AnimalHandling\">동물 조련</LSTag>과 관련된 굴림을 할 때마다 <LSTag "
+"Tooltip=\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_151_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:925
 msgctxt "h770dd634gdacag48c7gaeefg691d6ae452f6"
 msgid "Animal Handling Proficiency"
-msgstr ""
+msgstr "동물 조련 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_152_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:932
@@ -23196,6 +23226,8 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"SleightOfHand\">Sleight of Hand</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"SleightOfHand\">손재주</LSTag>와 관련된 굴림을 할 때 마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_152_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:932
@@ -23210,12 +23242,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Survival\">Survival</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Survival\">생존</LSTag>과 관련된 굴림을 할 때 마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_153_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:939
 msgctxt "hcfb4412bg8084g4123gacb7g3c2e697c0a98"
 msgid "Survival Proficiency"
-msgstr ""
+msgstr "생존 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_15_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:358
@@ -23229,7 +23263,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:99
 msgctxt "he0a53372ga2c8g4e3bg8b8ag6ceac4636538"
 msgid "Trickery Domain"
-msgstr ""
+msgstr "기만 권역"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_162_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:946
@@ -23517,7 +23551,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1065
 msgctxt "h7d2602b6ga337g4572g8dc0g46ffdafac50c"
 msgid "Greatclub Proficiency"
-msgstr ""
+msgstr "대형곤봉 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_198_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1072
@@ -23531,7 +23565,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1072
 msgctxt "h430e3181g49dcg48c0g98bdg6a3cdd8a2a22"
 msgid "Greataxe Proficiency"
-msgstr ""
+msgstr "대형도끼 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_199_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1079
@@ -23545,7 +23579,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1079
 msgctxt "h322e848fg4f28g463agb1ffg79f674c1e7d9"
 msgid "Halberd Proficiency"
-msgstr ""
+msgstr "할버드 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_19_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:428
@@ -23586,7 +23620,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1086
 msgctxt "h72c39ce3g6d33g4d9fgbce0ga8a14ad5fee3"
 msgid "Maul Proficiency"
-msgstr ""
+msgstr "몰 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_201_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1093
@@ -23600,7 +23634,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1093
 msgctxt "he44f0baagf9edg4ff0gb2e2ge98937780f52"
 msgid "Morningstar Proficiency"
-msgstr ""
+msgstr "모닝스타 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_202_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1100
@@ -23614,7 +23648,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1100
 msgctxt "h35f25cd5g5f48g439bg8194g084ebafed99c"
 msgid "Pike Proficiency"
-msgstr ""
+msgstr "파이크 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_203_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1107
@@ -23628,7 +23662,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1107
 msgctxt "he779aa20g0646g471dga6b0gf44fe664c174"
 msgid "Trident Proficiency"
-msgstr ""
+msgstr "삼지창 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_204_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1114
@@ -23710,12 +23744,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Stealth\">Stealth</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Stealth\">은신</LSTag>과 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_230_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1128
 msgctxt "h378e6737g3f53g4625gbbd8gbdcfad316d93"
 msgid "Stealth Proficiency"
-msgstr ""
+msgstr "은신 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_231_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1135
@@ -23724,12 +23760,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Religion\">Religion</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Religion\">종교</LSTag>와 관련된 굴림을 할때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_231_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1135
 msgctxt "h7f10db57g6038g4e1bg925dgd5f4401b7215"
 msgid "Religion Proficiency"
-msgstr ""
+msgstr "종교 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_232_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1142
@@ -23738,12 +23776,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Persuasion\">Persuasion</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Persuasion\">설득</LSTag>과 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_232_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1142
 msgctxt "h25c3ba4agb0b1g4190gade8g41ca217cb477"
 msgid "Persuasion Proficiency"
-msgstr ""
+msgstr "설득 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_233_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1149
@@ -23752,12 +23792,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Performance\">Performance</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Performance\">공연</LSTag>과 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_233_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1149
 msgctxt "h8c4c4dfdgcd7fg45f4ga400g695a93991a74"
 msgid "Performance Proficiency"
-msgstr ""
+msgstr "공연 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_234_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1156
@@ -23766,12 +23808,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Perception\">Perception</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Perception\">기만</LSTag>과 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_234_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1156
 msgctxt "ha5c9d2fdg4278g4d4egae2cg0e19f002ddfe"
 msgid "Perception Proficiency"
-msgstr ""
+msgstr "지각 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_235_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1163
@@ -23780,12 +23824,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Nature\">Nature</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Nature\">자연</LSTag>과 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_235_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1163
 msgctxt "h47fa246eg97c5g467aga28eg42ccd14b3ad9"
 msgid "Nature Proficiency"
-msgstr ""
+msgstr "자연 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_236_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1170
@@ -23794,12 +23840,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Medicine\">Medicine</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Medicine\">의학</LSTag>과 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_236_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1170
 msgctxt "h488c7a3bg7d99g4537g9a15gf49eca2931c2"
 msgid "Medicine Proficiency"
-msgstr ""
+msgstr "의학 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_237_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1177
@@ -23808,12 +23856,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Investigation\">Investigation</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Investigation\">조사</LSTag>와 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_237_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1177
 msgctxt "hbcfb2291gef12g4d1dga12agf99da0d4deb4"
 msgid "Investigation Proficiency"
-msgstr ""
+msgstr "조사 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_238_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1184
@@ -23822,12 +23872,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Intimidation\">Intimidation</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Intimidation\">위협</LSTag>과 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_238_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1184
 msgctxt "he271ca40gaaf6g4f39gbdafg03d3e9758d68"
 msgid "Intimidation Proficiency"
-msgstr ""
+msgstr "위협 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_239_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1191
@@ -23836,12 +23888,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Insight\">Insight</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Insight\">통찰</LSTag>과 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_239_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1191
 msgctxt "hc7cc4db1gf8b2g4189gb6e8gc83b2dbfabc7"
 msgid "Insight Proficiency"
-msgstr ""
+msgstr "통찰 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_23_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:470
@@ -23864,12 +23918,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"History\">History</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"History\">역사</LSTag>와 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_240_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1198
 msgctxt "h471df237g053cg42ebg9b11g79ae63aa8afb"
 msgid "History Proficiency"
-msgstr ""
+msgstr "역사 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_241_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1205
@@ -23878,12 +23934,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Deception\">Deception</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Deception\">기만</LSTag>과 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_241_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1205
 msgctxt "he2452f19g2c3ag4cbag9139gdc52235e248f"
 msgid "Deception Proficiency"
-msgstr ""
+msgstr "기만 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_242_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1212
@@ -23892,12 +23950,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Athletics\">Athletics</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Athletics\">운동</LSTag>과 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_242_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1212
 msgctxt "h27741c1agb092g4f22ga1fegc82200cc8abc"
 msgid "Athletics Proficiency"
-msgstr ""
+msgstr "운동 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_243_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1219
@@ -23906,12 +23966,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Arcana\">Arcana</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Arcana\">비전</LSTag>과 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_243_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1219
 msgctxt "h974ac395g7cc6g4e7cg8637g3c40c644dff3"
 msgid "Arcana Proficiency"
-msgstr ""
+msgstr "비전 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_244_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1226
@@ -23920,12 +23982,14 @@ msgid ""
 "Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
 "any roll made with <LSTag Tooltip=\"Acrobatics\">Acrobatics</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Acrobatics\">곡예</LSTag>와 관련된 굴림을 할 때마다 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_244_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1226
 msgctxt "he51e9588g5c26g43b6gb890gbb06dd2172a8"
 msgid "Acrobatics Proficiency"
-msgstr ""
+msgstr "곡예 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_245_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1233
@@ -25039,7 +25103,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:407
 msgctxt "hb469455cg4965g4110gb0edga7db2aaa659d"
 msgid "Battleaxe Proficiency"
-msgstr "배틀액스 숙련"
+msgstr "전투도끼 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_61_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:141
@@ -25053,7 +25117,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:414
 msgctxt "hbe7999e5gbbe5g401ag967cg0bd16a30ad27"
 msgid "Club Proficiency"
-msgstr ""
+msgstr "곤봉 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_62_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:148
@@ -25069,7 +25133,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:421
 msgctxt "h0192dfc2gadb8g4ddbg97ffg77af72081992"
 msgid "Dagger Proficiency"
-msgstr "대거 숙련"
+msgstr "단검 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_63_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:155
@@ -25117,7 +25181,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:442
 msgctxt "h99e402dagd16fg4da9ga8a2g568523fef610"
 msgid "Greatsword Proficiency"
-msgstr "그레이트소드 숙련"
+msgstr "대검 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_66_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:176
@@ -25414,7 +25478,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:561
 msgctxt "hab859063gdc58g4df8gac99g8d643ade9b24"
 msgid "Sickle Proficiency"
-msgstr ""
+msgstr "낫 숙련"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_83_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:295
@@ -25733,7 +25797,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:337
 msgctxt "h4f0df7e5gfb31g4e39g86a1g20fbe8e342f9"
 msgid "Arrow of Aberration Slaying"
-msgstr ""
+msgstr "괴이체 살육의 화살"
 
 #. key = Shared_Projectile_ArrowOfAcid_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:498
@@ -25871,7 +25935,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:379
 msgctxt "h328ef0b4g654dg4fccgab3egc271a2a3fbd2"
 msgid "Arrow of Fey Slaying"
-msgstr ""
+msgstr "페이 살육의 화살"
 
 #. key = Shared_Projectile_ArrowOfFiendSlaying_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:736
@@ -25949,7 +26013,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:288
 msgctxt "h917d3a0fg8867g4de2gaae2g6d8ece07363c"
 msgid "Arrow of Lightning"
-msgstr ""
+msgstr "번개의 화살"
 
 #. key = Shared_Projectile_ArrowOfMonstrositySlaying_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:834
@@ -26812,7 +26876,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:659
 msgctxt "h125be5ecg5c57g4001gadfagcb1c5ca5ee06"
 msgid "Flight"
-msgstr ""
+msgstr "비행"
 
 #. key = Shared_Projectile_Jump_Spider_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:484
@@ -27242,7 +27306,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:869
 msgctxt "h5eef3fdegad6fg40eag93ecg14c601fe5bd3"
 msgid "Branding Smite (Ranged)"
-msgstr ""
+msgstr "낙인의 강타 (원거리)"
 
 #. key = Shared_Projectile_SneakAttack_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:36
@@ -27792,13 +27856,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayName.lsx:239
 msgctxt "hbcbf719cga4bfg4eb9g9a9cgc735b667347d"
 msgid "Fiend"
-msgstr ""
+msgstr "마족"
 
 #. key = Shared_Races_New_Stat_22_DisplayType
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:372
 msgctxt "h52360168g522ag4f17gb460gcecf733259dd"
 msgid "Fiend"
-msgstr ""
+msgstr "마족"
 
 #. key = Shared_Races_New_Stat_23_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:246
@@ -28271,7 +28335,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayName.lsx:316
 msgctxt "h4df29dd5g81a4g4725g8785g0db76d9d0f03"
 msgid "Mind Flayer"
-msgstr ""
+msgstr "마인드 플레이어"
 
 #. key = Shared_Races_New_Stat_44_DisplayType
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:316
@@ -28951,7 +29015,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:519
 msgctxt "hb814f006g59e3g498dg81e0g4c36376e5891"
 msgid "Fiend"
-msgstr ""
+msgstr "마족"
 
 #. key = Shared_Races_New_Stat_77_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:540
@@ -28965,13 +29029,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayName.lsx:540
 msgctxt "h21c89011gf627g4f86g82aagca234b5835e4"
 msgid "Imp"
-msgstr ""
+msgstr "임프"
 
 #. key = Shared_Races_New_Stat_77_DisplayType
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:526
 msgctxt "hcad69065g8054g442dg9f6cg6c30784d2b0f"
 msgid "Fiend"
-msgstr ""
+msgstr "마족"
 
 #. key = Shared_Races_New_Stat_78_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:547
@@ -28991,7 +29055,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:533
 msgctxt "h033e21dbg8c15g43c1ga526g92d964020eb8"
 msgid "Fiend"
-msgstr ""
+msgstr "마족"
 
 #. key = Shared_Races_New_Stat_79_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:554
@@ -29683,7 +29747,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:939
 msgctxt "hcd295291g7885g4073gae09ge965b053adee"
 msgid "Create Spell Slot"
-msgstr ""
+msgstr "주문 슬롯 생성"
 
 #. key = Shared_Shout_Dash_BonusAction_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:169
@@ -30057,12 +30121,14 @@ msgid ""
 ">Advantage</LSTag> on <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> "
 "against celestials, fiends, and undead."
 msgstr ""
+"영적 자각을 활용해 천족, 마족과 언데드를 공격할 때 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 "
+"<LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Shout_DivineSense_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1289
 msgctxt "h0b4a5a5eg640ag46f6ga23bg176a00faec23"
 msgid "Divine Sense"
-msgstr ""
+msgstr "신성한 감각"
 
 #. key = Shared_Shout_Dreadful_Aspect_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1086
@@ -30450,7 +30516,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:729
 msgctxt "ha3341df2g9635g4956g952egb7a2ee3366c4"
 msgid "Invisibility"
-msgstr ""
+msgstr "투명화"
 
 #. key = Shared_Shout_Leadership_Hobgoblin_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:260
@@ -30993,7 +31059,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:484
 msgctxt "h88189f48ga78cg4a13ga52fg9c789a31c49e"
 msgid "Shillelagh"
-msgstr ""
+msgstr "마력곤봉"
 
 #. key = Shared_Shout_SongOfRest_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:918
@@ -32053,7 +32119,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3522
 msgctxt "h4014f0eagc865g4cebgb21dg68127e7e1b65"
 msgid "Branding Smite"
-msgstr ""
+msgstr "낙인의 강타"
 
 #. key = Shared_Status_BOOST_BULLS_STRENGTH_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:421
@@ -32311,7 +32377,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3263
 msgctxt "h3ae7cfafg1cf5g44b6ga483g74c16290ddfa"
 msgid "Command: Approach"
-msgstr ""
+msgstr "명령: 접근"
 
 #. key = Shared_Status_BOOST_COMPELLED_DUEL_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2752
@@ -32698,7 +32764,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2738
 msgctxt "h675d5b9fg9552g44beg9fa5g9c7bd7863799"
 msgid "Lesser Toughness"
-msgstr ""
+msgstr "강도 : 약함"
 
 #. key = Shared_Status_BOOST_DEBUG_BLOOD_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2864
@@ -32797,7 +32863,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:652
 msgctxt "hfc31106bg03efg4083gb6a1g423c8b6852fd"
 msgid "Fiend"
-msgstr ""
+msgstr "마족"
 
 #. key = Shared_Status_BOOST_DETECTED_EVIL_GOOD_UNDEAD_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:554
@@ -32993,7 +33059,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3900
 msgctxt "h45c5fd3cg6142g4f4fg8379gb2720aa0fb04"
 msgid "Divine Sense"
-msgstr ""
+msgstr "신성한 감각"
 
 #. key = Shared_Status_BOOST_DRINK_ALCOHOL_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2220
@@ -33396,7 +33462,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2535
 msgctxt "he93298adg3d11g4488g97b4gfedddba36de9"
 msgid "Goodberry"
-msgstr ""
+msgstr "굿베리"
 
 #. key = Shared_Status_BOOST_FOOD_FRUIT_GRAPES_PURPLE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1919
@@ -33580,7 +33646,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3172
 msgctxt "h08166cc8g5846g432cgbdbfg289f214ce12a"
 msgid "Frightened"
-msgstr ""
+msgstr "공포"
 
 #. key = Shared_Status_BOOST_FROG_BUFOTOXIN_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1114
@@ -33803,7 +33869,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:778
 msgctxt "h9540ee6cg45d6g4d44g9165gd431ac43ca87"
 msgid "Guidance"
-msgstr ""
+msgstr "인도"
 
 #. key = Shared_Status_BOOST_GUIDING_BOLT_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:680
@@ -34131,7 +34197,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3914
 msgctxt "hbd2a51fag6d82g42b9g8b23g2d9f01ee3069"
 msgid "Holy Rebuke"
-msgstr ""
+msgstr "거룩한 질책"
 
 #. key = Shared_Status_BOOST_HORDE_BREAKER_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:708
@@ -34305,7 +34371,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:911
 msgctxt "h69e403e3g78bbg434eg8041g7a4fc50a0c00"
 msgid "Light"
-msgstr ""
+msgstr "빛"
 
 #. key = Shared_Status_BOOST_LIGHT_FLAME_BLADE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1709
@@ -36025,7 +36091,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3935
 msgctxt "ha2ac2d1ag3f78g486bgb77agde19d9daaf48"
 msgid "Sanctuary"
-msgstr ""
+msgstr "성역화"
 
 #. key = Shared_Status_BOOST_SEARING_SMITE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:925
@@ -36039,7 +36105,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1100
 msgctxt "ha8eb8677g44ceg4252gbcc7gb4dc6fa872d9"
 msgid "Searing Smite"
-msgstr ""
+msgstr "타오르는 강타"
 
 #. key = Shared_Status_BOOST_SENTINEL_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:932
@@ -36106,7 +36172,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1142
 msgctxt "h20a7843cg4e70g46d8g84e4g2b11a0e90705"
 msgid "Shillelagh"
-msgstr ""
+msgstr "마력곤봉"
 
 #. key = Shared_Status_BOOST_SHOCKED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:204
@@ -36157,7 +36223,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:974
 msgctxt "heb9742ddgf56eg49e8gafb8g74047f5b1826"
 msgid "Silence"
-msgstr ""
+msgstr "침묵"
 
 #. key = Shared_Status_BOOST_SILENCED_AURA_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1163
@@ -36495,7 +36561,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:155
 msgctxt "h879ff29fg2f53g4c7dga4a2gcc74ec2b5982"
 msgid "Surprised"
-msgstr ""
+msgstr "기습당함"
 
 #. key = Shared_Status_BOOST_SURVIVAL_INSTINCT_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:988
@@ -37247,7 +37313,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_FEAR_DisplayName.lsx:22
 msgctxt "h9dc570b1g06f6g4fa9g9721g6f60cdadcb48"
 msgid "Command: Flee"
-msgstr ""
+msgstr "명령: 도주"
 
 #. key = Shared_Status_FEAR_FEARED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_FEAR_Description.lsx:15
@@ -37303,7 +37369,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:134
 msgctxt "h4046d8bbgc2b7g46b1gb520ge9265ecb0683"
 msgid "Command: Halt"
-msgstr ""
+msgstr "명령: 정지"
 
 #. key = Shared_Status_INCAPACITATED_CONFUSION_RAY_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:85
@@ -37597,7 +37663,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_KNOCKED_DOWN_DisplayName.lsx:43
 msgctxt "h8b5ff8b0g8004g469ega49bg4e43e26ce422"
 msgid "Command: Grovel"
-msgstr ""
+msgstr "명령: 포복"
 
 #. key = Shared_Status_KNOCKED_DOWN_HIDEOUS_LAUGHTER_Description
 #: Shared/Public/Shared/Localization/Stats/Status_KNOCKED_DOWN_Description.lsx:22
@@ -38662,7 +38728,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2185
 msgctxt "hfec496d6g4fd4g44f9g80f4ge01f6bb15e13"
 msgid "Command: Approach"
-msgstr ""
+msgstr "명령: 접근"
 
 #. key = Shared_Target_Command_Container_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2248
@@ -38676,7 +38742,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2276
 msgctxt "h5b858a78g01b2g4d06ga486g12083a002a54"
 msgid "Command"
-msgstr ""
+msgstr "명령"
 
 #. key = Shared_Target_Command_Drop_2_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2185
@@ -38696,7 +38762,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2192
 msgctxt "h864f6f10gdc36g46a7g8dc4gf58deca43c59"
 msgid "Command: Drop"
-msgstr ""
+msgstr "명령: 투하"
 
 #. key = Shared_Target_Command_Flee_2_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2192
@@ -38715,7 +38781,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2199
 msgctxt "ha3578590gf6f5g48d3gafe0g8753a560b987"
 msgid "Command: Flee"
-msgstr ""
+msgstr "명령: 도주"
 
 #. key = Shared_Target_Command_Grovel_2_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2199
@@ -38737,7 +38803,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2206
 msgctxt "h688e52f7g7c0cg4e72ga96fg0a5af0b9bbb7"
 msgid "Command: Grovel"
-msgstr ""
+msgstr "명령: 포복"
 
 #. key = Shared_Target_Command_Halt_2_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2178
@@ -38759,7 +38825,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:484
 msgctxt "he94ac9a1g3bf8g4d3dg8665g15b7364845d1"
 msgid "Command: Halt"
-msgstr ""
+msgstr "명령: 정지"
 
 #. key = Shared_Target_CompelledDuel_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2122
@@ -39966,13 +40032,13 @@ msgctxt "hd8f1368egaf40g4e7cg9a1fge3094286c7e4"
 msgid ""
 "Conjure four magical berries for yourself or a companion. Creatures who eat "
 "a berry regain [1]."
-msgstr ""
+msgstr "자신 또는 동료를 위해 마법의 열매 네 개를 만들어냅니다. 이 베리를 섭취하면 [1] 만큼의 생명력을 회복합니다."
 
 #. key = Shared_Target_Goodberry_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:295
 msgctxt "h658f3b49g9e7dg4250ga252ge388ee8ba215"
 msgid "Goodberry"
-msgstr ""
+msgstr "굿베리"
 
 #. key = Shared_Target_Goodberry_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:197
@@ -39981,6 +40047,7 @@ msgid ""
 "The berries appear in the targeted creature's inventory and disappear after "
 "a <LSTag Tooltip=\"LongRest\">Long Rest</LSTag>."
 msgstr ""
+"베리는 대상 크리쳐의 인벤토리에 생성되며 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag> 전까지 유지됩니다."
 
 #. key = Shared_Target_Gore_DeepRothe_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1282
@@ -40054,7 +40121,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:302
 msgctxt "h3957297bgfba0g4683gb07cg8565d13fb4ab"
 msgid "Guidance"
-msgstr ""
+msgstr "인도"
 
 #. key = Shared_Target_Guidance_ShortDescription
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:8
@@ -40496,13 +40563,13 @@ msgctxt "h43b9bd02g20f5g4734gb8d4g27f829d90ec8"
 msgid ""
 "Call upon your Oath to grant an ally a vengeful aura that deals [1] to "
 "anyone who hits them with a melee attack."
-msgstr ""
+msgstr "맹세를 외쳐 아군에게 근접 공격이 적중하면 공격자에게 [1] 의 피해를 주는 복수의 오라를 부여합니다."
 
 #. key = Shared_Target_HolyRebuke_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2150
 msgctxt "h98a22f43g54dag44e2g813fg114101b546c2"
 msgid "Holy Rebuke"
-msgstr ""
+msgstr "거룩한 질책"
 
 #. key = Shared_Target_Hook_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1296
@@ -40694,7 +40761,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:337
 msgctxt "hcf22dcf2g26c6g4dffg98f8gc7c84f36124c"
 msgid "Invisibility"
-msgstr ""
+msgstr "투명화"
 
 #. key = Shared_Target_InvokeDuplicity_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:694
@@ -40808,7 +40875,7 @@ msgctxt "hbf2eb0b9ge7f0g459cgb387g194a37596a69"
 msgid ""
 "Use your blessed touch to heal a creature or cure it of all diseases and "
 "poisons."
-msgstr ""
+msgstr "축복받은 손길로 크리쳐를 치유하거나 모든 질병과 독을 치료할 수 있습니다."
 
 #. key = Shared_Target_LayOnHands_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2157
@@ -40832,13 +40899,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:365
 msgctxt "h3691c671gd321g4f64g9591g020d69232017"
 msgid "Remove one disease or condition afflicting a creature."
-msgstr ""
+msgstr "크리쳐에 적용된 질병이나 상태 하나를 제거합니다."
 
 #. key = Shared_Target_LesserRestoration_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:365
 msgctxt "h22bac5c4gd2a7g4e3bgb852gd61759c426c1"
 msgid "Lesser Restoration"
-msgstr ""
+msgstr "하급 회복"
 
 #. key = Shared_Target_Light_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:372
@@ -40850,7 +40917,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:372
 msgctxt "hb83c543fgb23eg42d4g883cg8481d25261e7"
 msgid "Light"
-msgstr ""
+msgstr "빛"
 
 #. key = Shared_Target_Longstrider_2_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1464
@@ -40904,13 +40971,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:715
 msgctxt "h66d1a314gd11fg4c49g9dc2g7ecaa5dd064f"
 msgid "Create a spectral hand that can manipulate and interact with objects."
-msgstr ""
+msgstr "손 모양의 영체를 만들어 물체를 조작하거나 상호작용 할 수 있습니다."
 
 #. key = Shared_Target_MageHand_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:729
 msgctxt "h446e0ad1gfd15g47a2gb144ge583b869f0f1"
 msgid "Mage Hand"
-msgstr ""
+msgstr "마법사의 손"
 
 #. key = Shared_Target_MageHand_GithyankiPsionics_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:722
@@ -40918,7 +40985,7 @@ msgctxt "hb5f49f20g846bg4f26gaf95g12a612d0547e"
 msgid ""
 "Create an invisible spectral hand that can manipulate and interact with "
 "objects."
-msgstr ""
+msgstr "투명한 손 모양의 영체를 만들어 물체를 조작하거나 상호작용할 수 있습니다."
 
 #. key = Shared_Target_MageHand_GithyankiPsionics_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:736
@@ -41218,7 +41285,7 @@ msgstr "크리처를 진정시킵니다. 해당 크리처는 이동할 수 없�
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1359
 msgctxt "hf0b8644cg77e7g459dgae2eg633206341353"
 msgid "Pacifying Spores"
-msgstr ""
+msgstr "진정시키는 포자"
 
 #. key = Shared_Target_PactOfTheChain_Imp_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:904
@@ -41785,13 +41852,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2143
 msgctxt "h3593ae09g5ec5g4751gb3cdg86acec7e3571"
 msgid "Ward yourself or an ally against enemy attacks."
-msgstr ""
+msgstr "적의 공격으로부터 본인이나 아군을 방호합니다."
 
 #. key = Shared_Target_Sanctuary_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2234
 msgctxt "h95f5d6a3ga4a7g4dadg9a30gdbdb21961493"
 msgid "Sanctuary"
-msgstr ""
+msgstr "성역화"
 
 #. key = Shared_Target_Sanctuary_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:414
@@ -41801,6 +41868,8 @@ msgid ""
 "targeted by enemy attacks. However, it can still take damage from spells "
 "that influence a larger area."
 msgstr ""
+"영향을 받은 개체는 다른 크리쳐를 공격하거나 해를 입히기 전까지는 적 공격의 대상이 될 수 없습니다. 하지만, 광역 효과를 가진 주문에 "
+"의한 피해는 입을 수 있습니다."
 
 #. key = Shared_Target_Scare_Quasit_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1401
@@ -41828,7 +41897,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1051
 msgctxt "hb26926acgf931g4400g9ccdgccde00ee2d5a"
 msgid "Shatter"
-msgstr ""
+msgstr "분쇄"
 
 #. key = Shared_Target_Shatter_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:162
@@ -41918,12 +41987,14 @@ msgid ""
 "\"SILENCED\">Silenced</LSTag> and <LSTag Tooltip=\"Immune\">Immune</LSTag> "
 "to Thunder damage."
 msgstr ""
+"방음 구체를 만들어 냅니다. 그 속에는 모두 <LSTag Type=\"Status\" Tooltip=\"SILENCED\">침묵</"
+"LSTag>상태가 적용되며 천둥 피해에 <LSTag Tooltip=\"Immune\">면역</LSTag>이 됩니다."
 
 #. key = Shared_Target_Silence_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1058
 msgctxt "h5d541e43g6725g4564gbc81gb1ff21141857"
 msgid "Silence"
-msgstr ""
+msgstr "침묵"
 
 #. key = Shared_Target_Slam_AdamantineGolem_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1499
@@ -42043,7 +42114,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2115
 msgctxt "h8df46bbbg30b8g491ag835dg009666ed95df"
 msgid "Branding Smite"
-msgstr ""
+msgstr "낙인의 강타"
 
 #. key = Shared_Target_Smite_Branding_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1702
@@ -42058,31 +42129,31 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1751
 msgctxt "h068874e5g9a88g407agb446g4ea55149367b"
 msgid "Branding Smite (Melee)"
-msgstr ""
+msgstr "낙인의 강타 (근접)"
 
 #. key = Shared_Target_Smite_Branding_ZarielTiefling_Container_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2122
 msgctxt "h7f04aa01g4fceg45bag8070g41a0bfd37755"
 msgid "Legacy of Avernus: Branding Smite"
-msgstr ""
+msgstr "아베르누스의 유산: 낙인의 강타"
 
 #. key = Shared_Target_Smite_Divine_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2045
 msgctxt "he9150fbcg1b55g49aegaa3egc4717c987024"
 msgid "Your weapon emanates divine might as you strike."
-msgstr ""
+msgstr "공격 시 무기가 신성한 힘을 발산합니다."
 
 #. key = Shared_Target_Smite_Divine_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2129
 msgctxt "h940c3156gad0fg4a92g8573gff26b0472ef2"
 msgid "Divine Smite"
-msgstr ""
+msgstr "신성한 강타"
 
 #. key = Shared_Target_Smite_Divine_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:400
 msgctxt "hff4e5b2cge3dbg4f06g8ce0gc6b5a780dc3e"
 msgid "Deals an additional [1] to fiends and undead."
-msgstr ""
+msgstr "마족과 언데드들에게 [1] 를 추가로 가합니다."
 
 #. key = Shared_Target_Smite_Searing_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:162
@@ -42092,18 +42163,20 @@ msgid ""
 "target with <LSTag Type=\"Status\" Tooltip=\"SEARING_SMITE\">Searing "
 "Smite</LSTag>."
 msgstr ""
+"적을 공격할 때 무기가 새하얗고 강렬한 불꽃을 내뿜으며, 대상에게 <LSTag Type=\"Status\" Tooltip="
+"\"SEARING_SMITE\">타오르는 강타</LSTag> 표식을 남깁니다."
 
 #. key = Shared_Target_Smite_Searing_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:162
 msgctxt "h34f9400ag765dg4854ga064g934f247033b5"
 msgid "Searing Smite"
-msgstr ""
+msgstr "타오르는 강타"
 
 #. key = Shared_Target_Smite_Searing_ZarielTiefling_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:169
 msgctxt "h8a417403g2d09g4cc7g8284gece97a4ce30c"
 msgid "Legacy of Avernus: Searing Smite"
-msgstr ""
+msgstr "아베르누스의 유산: 타오르는 강타"
 
 #. key = Shared_Target_Smite_Thunderous_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2052
@@ -42113,12 +42186,14 @@ msgid ""
 "and possibly knocking it <LSTag Type=\"Status\" Tooltip=\"PRONE\""
 ">Prone</LSTag>."
 msgstr ""
+"공격할 때 무기에서 천둥이 울리며, 대상을 [1] 만큼 밀어내고 <LSTag Type=\"Status\" Tooltip=\"PRONE\""
+">엎어짐</LSTag>상태로 만들 수 있습니다."
 
 #. key = Shared_Target_Smite_Thunderous_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2136
 msgctxt "hc501c354g0acfg4cf2ga8a8g68a571de054a"
 msgid "Thunderous Smite"
-msgstr ""
+msgstr "천둥 강타"
 
 #. key = Shared_Target_Smite_Wrathful_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2059
@@ -42127,12 +42202,14 @@ msgid ""
 "Your weapon absorbs your wrath as you strike, possibly <LSTag Type=\"Status\""
 " Tooltip=\"FRIGHTENED\">Frightening</LSTag> your target."
 msgstr ""
+"공격할 때 무기가 당신의 분노를 흡수하여, 공격 대상을 <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\""
+">공포</LSTag>에 빠뜨릴 수 있습니다."
 
 #. key = Shared_Target_Smite_Wrathful_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2143
 msgctxt "h9c4f50ecg9696g4163gb993gacf6212e1d1c"
 msgid "Wrathful Smite"
-msgstr ""
+msgstr "분노의 강타"
 
 #. key = Shared_Target_SneakAttack_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:169
@@ -42775,6 +42852,7 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Using this spell might turn "
 "targets hostile."
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 이 주문을 시전하면 대상이 적대적으로 변할 수도 있습니다."
 
 #. key = Shared_TooltipExtraTexts_New_Stat_13_Text
 #: Shared/Public/Shared/Localization/TooltipExtraTexts_Text.lsx:155
@@ -42848,7 +42926,7 @@ msgctxt "h09fa045ag6bc2g458bg8a09g48356d28ca20"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> No effect on undead and "
 "constructs."
-msgstr ""
+msgstr "<LSTag Type=\"Image\" Info=\"SoftWarning\"/>언데드나 구조물에는 효과가 없습니다."
 
 #. key = Shared_TooltipExtraTexts_New_Stat_23_Text
 #: Shared/Public/Shared/Localization/TooltipExtraTexts_Text.lsx:169
@@ -43076,6 +43154,7 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> No effect on corpses of "
 "constructs, plants, or aberrations."
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 구조물의 시체나 식물, 괴이체에게는 효과가 없습니다."
 
 #. key = Shared_TooltipExtraTexts_New_Stat_50_Text
 #: Shared/Public/Shared/Localization/TooltipExtraTexts_Text.lsx:358
