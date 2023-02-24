@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-02-23 05:52+0000\n"
+"PO-Revision-Date: 2023-02-24 06:52+0000\n"
 "Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -2035,7 +2035,7 @@ msgctxt "h67f8875eg9b72g442ag831cg6c703d20f893"
 msgid ""
 "When you heal another creature, it gains resistance against Bludgeoning, "
 "Piercing, and Slashing damage dealt by weapon attacks."
-msgstr "다른 크리처를 치료하게 되면, 대상은 무기 공격으로 받게 되는 부수기, 찌르기, 베기 피해에 저항을 얻게 됩니다."
+msgstr "다른 크리처를 치료하면, 대상은 무기 공격으로 받는 부수기, 찌르기, 베기 피해에 저항을 얻습니다."
 
 #. key = Gustav_Passive_DEN_HellridersPride_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:323
@@ -6902,7 +6902,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:36
 msgctxt "h822653b2g6b6ag4a0eg9f14ge8090e377640"
 msgid "Wild Shape: Cave Bear"
-msgstr ""
+msgstr "야생 형상: 동굴곰"
 
 #. key = Gustav_Status_POLYMORPHED_HAG_DISGUISE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:15
@@ -7542,13 +7542,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:134
 msgctxt "ha585d015g08f6g4c58ga0cdg5770377eb7e8"
 msgid "The number of times you can use your Wild Shape."
-msgstr ""
+msgstr "야생 형상을 취할 수 있는 횟수입니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_19_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:134
 msgctxt "h45705dcag8d68g4422gbc7bg84c727aaf1b7"
 msgid "Wild Shape Charge"
-msgstr ""
+msgstr "야생 형상 충전"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_1_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:15
@@ -13648,6 +13648,8 @@ msgid ""
 "animals. Mastery of Wild Shape allows them to transform into beasts from all "
 "over the Realms."
 msgstr ""
+"드루이드들은 자연 원소의 힘을 쏟아내며, 동물과 깊은 유대감을 갖습니다. 야생 형상을 수련하여 포가튼 렐름에 걸쳐 존재하는 다양한 종류의 "
+"야수로 변신할 수도 있습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_19_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:134
@@ -17367,7 +17369,7 @@ msgstr "배틀액스"
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:358
 msgctxt "hedd8fcd3g01e3g4872ga931ga8a2ce294a83"
 msgid "Belt"
-msgstr ""
+msgstr "허리띠"
 
 #. key = Shared_ItemProgressionNames_BrandingTool_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:302
@@ -17809,7 +17811,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:113
 msgctxt "h88677f76g9c89g4278gac0ag024112a44b87"
 msgid "Dismiss Wild Shape"
-msgstr ""
+msgstr "야생 형상 해제"
 
 #. key = Shared_ModalTutorials_New_Stat_15_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:113
@@ -19111,13 +19113,13 @@ msgctxt "h091e9dc6ge01fg487dg86d7gfef149aa445a"
 msgid ""
 "You can use your Wild Shape as a bonus action, rather than an <LSTag Tooltip="
 "\"Action\">action</LSTag>."
-msgstr ""
+msgstr "야생 형상을 <LSTag Tooltip=\"Action\">행동</LSTag> 대신 추가 행동을 소모해 시전할 수 있습니다."
 
 #. key = Shared_Passive_CombatWildShape_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:183
 msgctxt "h9f40b779ga5e6g4803g84bbg664e8cbc092e"
 msgid "Combat Wild Shape"
-msgstr ""
+msgstr "전투 야생 형상"
 
 #. key = Shared_Passive_CompanionsBond_Creature_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2199
@@ -23483,7 +23485,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1023
 msgctxt "h59f22f11gb3ceg4be1gbf74gab1b1daf495c"
 msgid "Wild Shape"
-msgstr ""
+msgstr "야생 형상"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_186_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1016
@@ -23497,7 +23499,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1016
 msgctxt "hc1c2eefagbd90g4942ga011g472aa3040d61"
 msgid "Combat Wild Shape"
-msgstr ""
+msgstr "전투 야생 형상"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_188_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1037
@@ -29097,7 +29099,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayName.lsx:547
 msgctxt "hc477e36cg1942g4c7fgbb70gb41c521bd083"
 msgid "Cambion"
-msgstr ""
+msgstr "캠비온"
 
 #. key = Shared_Races_New_Stat_78_DisplayType
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:533
@@ -30320,7 +30322,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:379
 msgctxt "h3b3917aagb11fg4270g8aa7gbdf9bd9f8841"
 msgid "Flame Blade"
-msgstr ""
+msgstr "화염 칼날"
 
 #. key = Shared_Shout_FlameBlade_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:22
@@ -31478,7 +31480,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:526
 msgctxt "h5dddcb30g1c17g4c76g8ba7g90fd1c075df1"
 msgid "Wild Shape: Badger"
-msgstr ""
+msgstr "야생 형상: 오소리"
 
 #. key = Shared_Shout_WildShape_Badger_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:50
@@ -31490,7 +31492,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:778
 msgctxt "hdb8fc4c3g03fag4218ga7d8ge66e2f98640b"
 msgid "Wild Shape: Badger"
-msgstr ""
+msgstr "야생 형상: 오소리"
 
 #. key = Shared_Shout_WildShape_Bear_Black_NPC_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:638
@@ -31502,7 +31504,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:792
 msgctxt "hbaf879e0g5fb3g4a5cg87afgcb228767a2d9"
 msgid "Wild Shape: Black Bear"
-msgstr ""
+msgstr "야생 형상: 흑곰"
 
 #. key = Shared_Shout_WildShape_Bear_Grey_NPC_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:645
@@ -31514,7 +31516,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:841
 msgctxt "h6cb87a4cg51a6g48deg8d95g14538ae4d7c7"
 msgid "Wild Shape: Grey Bear"
-msgstr ""
+msgstr "야생 형상: 회색곰"
 
 #. key = Shared_Shout_WildShape_Bear_NPC_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:631
@@ -31526,7 +31528,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:785
 msgctxt "h40eb9c2dg3f4ag4f5dga0f8g813860d0dfbc"
 msgid "Wild Shape: Bear"
-msgstr ""
+msgstr "야생 형상: 곰"
 
 #. key = Shared_Shout_WildShape_Bear_NPC_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:113
@@ -31546,7 +31548,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:533
 msgctxt "h4d0a0c74g0bcbg4429g96edga6c930c88c5e"
 msgid "Wild Shape: Bear"
-msgstr ""
+msgstr "야생 형상: 곰"
 
 #. key = Shared_Shout_WildShape_Bear_Polar_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:57
@@ -31558,7 +31560,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:799
 msgctxt "h4bdc5418gc5c0g4f52g9b7bg689946603eb4"
 msgid "Wild Shape: Polar Bear"
-msgstr ""
+msgstr "야생 형상: 북극곰"
 
 #. key = Shared_Shout_WildShape_Boar_NPC_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:652
@@ -31570,7 +31572,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:806
 msgctxt "h8e7fb2aeg2e61g4b5egbf77g61497e63b8eb"
 msgid "Wild Shape: Boar"
-msgstr ""
+msgstr "야생 형상: 맷돼지"
 
 #. key = Shared_Shout_WildShape_Boar_NPC_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:120
@@ -31590,7 +31592,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:540
 msgctxt "hfdcc3cd5g97bbg49d7ga5a9g0b7b2815a674"
 msgid "Wild Shape: Cat"
-msgstr ""
+msgstr "야생 형상: 고양이"
 
 #. key = Shared_Shout_WildShape_Cat_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:99
@@ -31647,6 +31649,8 @@ msgid ""
 "Expend <LSTag Tooltip=\"SpellSlot\">spell slots</LSTag> to regain <LSTag "
 "Tooltip=\"HitPoints\">hit points</LSTag> while in Wild Shape."
 msgstr ""
+"야생 형상 중에 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 사용하여 <LSTag Tooltip="
+"\"HitPoints\">체력</LSTag>을 회복합니다."
 
 #. key = Shared_Shout_WildShape_Combat_Heal_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:575
@@ -31667,7 +31671,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:547
 msgctxt "h66ecf0feg26f9g424ag8002g9f7a0f746d10"
 msgid "Wild Shape: Deep Rothé"
-msgstr ""
+msgstr "야생 형상: 지하 로테"
 
 #. key = Shared_Shout_WildShape_DeepRothe_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:64
@@ -31679,7 +31683,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:813
 msgctxt "hc76400ebg8016g4405g9c60ga06d7fc9b2ce"
 msgid "Wild Shape: Deep Rothé"
-msgstr ""
+msgstr "야생 형상: 지하 로테"
 
 #. key = Shared_Shout_WildShape_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:519
@@ -31691,19 +31695,19 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:533
 msgctxt "hc65b2257gb463g4568g8ba2gfa4aa1d710af"
 msgid "Dismiss your Wild Shape and change back to your original form."
-msgstr ""
+msgstr "야생 형상을 해제하고 원래의 형상으로 되돌아갑니다."
 
 #. key = Shared_Shout_WildShape_Dismiss_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:519
 msgctxt "h496eb8b3g1440g4fd8gbdb3g055cafcab785"
 msgid "Dismiss Wild Shape"
-msgstr ""
+msgstr "야생 형상 해제"
 
 #. key = Shared_Shout_WildShape_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:512
 msgctxt "hde7c0e66g9526g4e3bgb10cg1f7f82300b96"
 msgid "Wild Shape"
-msgstr ""
+msgstr "야생 형상"
 
 #. key = Shared_Shout_WildShape_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:43
@@ -31729,7 +31733,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:554
 msgctxt "h605796f1gbcb9g4bf2gb46dg2100cebc27a5"
 msgid "Wild Shape: Dire Raven"
-msgstr ""
+msgstr "야생 형상: 다이어 레이븐"
 
 #. key = Shared_Shout_WildShape_Raven_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:106
@@ -31749,7 +31753,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:561
 msgctxt "ha18a7b48g111ag4011gbd21gb7d6191ab5ba"
 msgid "Wild Shape: Spider"
-msgstr ""
+msgstr "야생 형상: 거미"
 
 #. key = Shared_Shout_WildShape_Spider_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:71
@@ -31761,7 +31765,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:820
 msgctxt "hab6130d4g415cg4724ga5dbg8b85741fb8b7"
 msgid "Wild Shape: Spider"
-msgstr ""
+msgstr "야생 형상: 거미"
 
 #. key = Shared_Shout_WildShape_Wolf_Dire_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:547
@@ -31771,12 +31775,15 @@ msgid ""
 "\"Shout_PackHowl_Wolf_Dire\">Incite</LSTag> allies and <LSTag Type=\"Spell\" "
 "Tooltip=\"Target_Bite_Wolf_Dire_Wildshape\">Imperil</LSTag> enemies."
 msgstr ""
+"다이어 울프의 형상을 취해, 아군을 <LSTag Type=\"Spell\" Tooltip=\"Shout_PackHowl_Wolf_Dire"
+"\">고무</LSTag>시키고 적들을 <LSTag Type=\"Spell\" Tooltip="
+"\"Target_Bite_Wolf_Dire_Wildshape\">위태롭게</LSTag> 만들 수 있습니다."
 
 #. key = Shared_Shout_WildShape_Wolf_Dire_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:568
 msgctxt "h90c01d74gf156g4626ga8cag30c6f8d775e3"
 msgid "Wild Shape: Wolf"
-msgstr ""
+msgstr "야생 형상: 늑대"
 
 #. key = Shared_Shout_WildShape_Wolf_Dire_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:78
@@ -31788,7 +31795,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:834
 msgctxt "hb94b6f9fge6e7g4216g9a9cg568336a7684c"
 msgid "Wild Shape: Dire Wolf"
-msgstr ""
+msgstr "야생 형상: 다이어 울프"
 
 #. key = Shared_Shout_WildShape_Wolf_NPC_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:659
@@ -31800,7 +31807,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:827
 msgctxt "h00d04dbcg49c6g4c28g90fdg1a2b3129dca0"
 msgid "Wild Shape: Wolf"
-msgstr ""
+msgstr "야생 형상: 늑대"
 
 #. key = Shared_Shout_WildShape_Wolf_NPC_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:127
@@ -33412,7 +33419,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:743
 msgctxt "h95474ef0gc4bfg47dbg80a2ge06835d0debd"
 msgid "Flame Blade"
-msgstr ""
+msgstr "화염 칼날"
 
 #. key = Shared_Status_BOOST_FLAMING_SPHERE_AURA_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1653
@@ -34436,7 +34443,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2563
 msgctxt "h27e396a4g33d8g4e5agaca7ge6fe2d471e1f"
 msgid "Flame Blade"
-msgstr ""
+msgstr "화염 칼날"
 
 #. key = Shared_Status_BOOST_LONGSTRIDER_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:757
@@ -37869,73 +37876,73 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:15
 msgctxt "hda548b4fga8f5g4551gb7ccgad0297d9313f"
 msgid "Wild Shape: Badger"
-msgstr ""
+msgstr "야생 형상: 오소리"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_BADGER_PLAYER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:78
 msgctxt "h9a4f12c4g5efbg4595g8defgec8267a85cd4"
 msgid "Wild Shape: Badger"
-msgstr ""
+msgstr "야생 형상: 오소리"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_BEAR_BLACK_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:148
 msgctxt "he169afb8gb218g4259gbdcfgc545fbe878f2"
 msgid "Wild Shape: Black Bear"
-msgstr ""
+msgstr "야생 형상: 흑곰"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_BEAR_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:22
 msgctxt "h8eff26e5gd048g4760ga580g413a1a3b2a5d"
 msgid "Wild Shape: Bear"
-msgstr ""
+msgstr "야생 형상: 곰"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_BEAR_GREY_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:183
 msgctxt "h56ce28ddg7281g4fb7ga1cdg5a32d7082942"
 msgid "Wild Shape: Grey Bear"
-msgstr ""
+msgstr "야생 형상: 회색곰"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_BEAR_POLAR_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:29
 msgctxt "h180d3571g437dg440dg8d0cgc4e9099eceb2"
 msgid "Wild Shape: Polar Bear"
-msgstr ""
+msgstr "야생 형상: 북극곰"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_BEAR_POLAR_PLAYER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:85
 msgctxt "hd97303feg2d2dg46c0ga976g1e93691f96e3"
 msgid "Wild Shape: Polar Bear"
-msgstr ""
+msgstr "야생 형상: 북극곰"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_BOAR_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:36
 msgctxt "h274a53c0g7292g4e3eg891cg48f21430ed66"
 msgid "Wild Shape: Boar"
-msgstr ""
+msgstr "야생 형상: 맷돼지"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_CAT_PLAYER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:155
 msgctxt "h890bd102gd64ag4bd7gaaa1g1a6ffe301672"
 msgid "Wild Shape: Cat"
-msgstr ""
+msgstr "야생 형상: 고양이"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_DEEP_ROTHE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:43
 msgctxt "h91d387abg39ddg4e7bg931bg8a0b160ba82b"
 msgid "Wild Shape: Deep Rothé"
-msgstr ""
+msgstr "야생 형상: 지하 로테"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_DEEP_ROTHE_PLAYER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:92
 msgctxt "h9c76a36ag0481g40f2g8100g1b8703ce6d84"
 msgid "Wild Shape: Deep Rothé"
-msgstr ""
+msgstr "야생 형상: 지하 로테"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_GIANT_SPIDER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:50
 msgctxt "h8b40a8f9g2b7eg4123ga082g2619472efc19"
 msgid "Wild Shape: Spider"
-msgstr ""
+msgstr "야생 형상: 거미"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_NPC_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:176
@@ -37947,43 +37954,43 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:57
 msgctxt "hd34d046cg16c8g41fdg9956g90999922fd84"
 msgid "Wild Shape: Rat"
-msgstr ""
+msgstr "야생 형상: 쥐"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_RAVEN_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:169
 msgctxt "hb2b9a229gb2e2g46cdga720g631437b4aca3"
 msgid "Wild Shape: Dire Raven"
-msgstr ""
+msgstr "야생 형상: 다이어 레이븐"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_RAVEN_PLAYER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:162
 msgctxt "h1e5be43dg6a6fg44c2g940cg1c6265f89889"
 msgid "Wild Shape: Dire Raven"
-msgstr ""
+msgstr "야생 형상: 다이어 레이븐"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_SPIDER_GIANT_PLAYER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:99
 msgctxt "hfed04419g2971g4026g8276g14e8e2c83fd5"
 msgid "Wild Shape: Giant Spider"
-msgstr ""
+msgstr "야생 형상: 거대 거미"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_WOLF_DIRE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:71
 msgctxt "h23ef2fe7g4136g4ba6g890ag44f63e0675bb"
 msgid "Wild Shape: Dire Wolf"
-msgstr ""
+msgstr "야생 형상: 다이어 울프"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_WOLF_DIRE_PLAYER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:106
 msgctxt "h38d611d9gb710g4f75gbf6dg72e90f49a121"
 msgid "Wild Shape: Dire Wolf"
-msgstr ""
+msgstr "야생 형상: 다이어 울프"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_WOLF_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:64
 msgctxt "h8aaa5a43g4acdg43e8gb34cg37956e57279e"
 msgid "Wild Shape: Wolf"
-msgstr ""
+msgstr "야생 형상: 늑대"
 
 #. key = Shared_Status_SNEAKING_SNEAKING_Description
 #: Shared/Public/Shared/Localization/Stats/Status_SNEAKING_Description.lsx:8
@@ -40903,7 +40910,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:715
 msgctxt "h861fb631gec7ag4b94ga559ga4c381588feb"
 msgid "Knock"
-msgstr ""
+msgstr "노크"
 
 #. key = Shared_Target_LayOnHands_BigHeal_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2178
@@ -43828,12 +43835,14 @@ msgid ""
 "by shooting your target from higher ground. Shooting from below gives you a -"
 "2 penalty."
 msgstr ""
+"고지대에서 공격하면 원거리 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +2 보너스를 얻습니다. "
+"저지대에서 공격하면 -2 만큼 페널티를 받습니다."
 
 #. key = Shared_Tutorials_New_Stat_28_DisplayTitle
 #: Shared/Public/Shared/Localization/Tutorials_DisplayTitle.lsx:169
 msgctxt "h293fc4e3g8db4g4b56ga5e6gaccdbf0be5da"
 msgid "High Ground Rules"
-msgstr ""
+msgstr "고지대 규칙"
 
 #. key = Shared_Tutorials_New_Stat_28_KeyboardDescription
 #: Shared/Public/Shared/Localization/Tutorials_KeyboardDescription.lsx:141
@@ -43843,6 +43852,8 @@ msgid ""
 "by shooting your target from higher ground. Shooting from below gives you a -"
 "2 penalty."
 msgstr ""
+"고지대에서 공격하면 원거리 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +2 보너스를 얻습니다. "
+"저지대에서 공격하면 -2 만큼 페널티를 받습니다."
 
 #. key = Shared_Tutorials_New_Stat_29_ControllerDescription
 #: Shared/Public/Shared/Localization/Tutorials_ControllerDescription.lsx:232
