@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-02-28 08:52+0000\n"
+"PO-Revision-Date: 2023-03-01 12:52+0000\n"
 "Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -4892,12 +4892,13 @@ msgid ""
 "friendly to you and your companions for 1 hour and obeys your commands for "
 "that duration."
 msgstr ""
+"무쇠 플라스크 안에 크리쳐가 담겨있습니다. 크리쳐가 풀려나면 1 시간 동안 당신과 동료들에게 우호적인 상태가 되어 명령을 따릅니다."
 
 #. key = Gustav_Status_BOOST_GLO_CAPTUREDINFLASK_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:162
 msgctxt "h222bf3ceg6011g4aadgbfc0g9286a62bc6a1"
 msgid "Flask Friend"
-msgstr ""
+msgstr "플라스크 속 친구"
 
 #. key = Gustav_Status_BOOST_GLO_DANGEROUSBOOK_MADNESS_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:505
@@ -4907,24 +4908,26 @@ msgid ""
 ">Disadvantage</LSTag> on Wisdom <LSTag Tooltip=\"AbilityCheck\""
 ">Checks</LSTag>."
 msgstr ""
+"어두운 속삭임이 크리쳐의 정신에 스며듭니다. 지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
+"<LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Gustav_Status_BOOST_GLO_DANGEROUSBOOK_MADNESS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:617
 msgctxt "h2d3d1030g1791g48b8g8e23g9e5e5040fc3a"
 msgid "Whisps of Madness"
-msgstr ""
+msgstr "광기의 속삭임"
 
 #. key = Gustav_Status_BOOST_GLO_DANGEROUSBOOK_MAJORMADNESS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:757
 msgctxt "he538e5e9g754dg4859g89acgfa4c21f22e3b"
 msgid "Baleful Knowledge"
-msgstr ""
+msgstr "불길한 지식"
 
 #. key = Gustav_Status_BOOST_GLO_INFERNALBOX_BOUNDEDTO_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:701
 msgctxt "ha7ff15caga226g49aega90agd0724dbd366c"
 msgid "This relic is bound to its current owner by a powerful aura."
-msgstr ""
+msgstr "이 유물은 강력한 오라로 현 주인에게 귀속되어 있습니다."
 
 #. key = Gustav_Status_BOOST_GLO_INFERNALBOX_BOUNDEDTO_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:848
@@ -4937,7 +4940,7 @@ msgstr "귀속됨"
 msgctxt "hd6ef1e7eg88e4g4e48g806bgfc4685b858ba"
 msgid ""
 "Infected with a mind flayer parasite. Transformation will soon be complete."
-msgstr ""
+msgstr "마인드 플레이어 기생충에 감염되었습니다. 변이가 곧 완료될 것입니다."
 
 #. key = Gustav_Status_BOOST_GLO_MINDFLAYER_TRANSFORMATION_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:36
@@ -4949,13 +4952,13 @@ msgstr "뇌변이"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:764
 msgctxt "h3741ab1eg04deg4ddcgb544g42dd985094f1"
 msgid "Shielded from the Voice of the Absolute."
-msgstr ""
+msgstr "절대자의 목소리로부터 보호받음."
 
 #. key = Gustav_Status_BOOST_GLO_ORPHEUS_PROTECTED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:911
 msgctxt "hc53aedecgb62fg4f7bga4edg05d8afd96642"
 msgid "Shielded"
-msgstr ""
+msgstr "보호받음"
 
 #. key = Gustav_Status_BOOST_GOB_CALMNESS_IN_PAIN_ACTIVE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:834
@@ -4965,12 +4968,14 @@ msgid ""
 "Tooltip=\"AttackRoll\">Attack Rolls</LSTag> and Wisdom <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"고통이 주는 명료함을 만끽합니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 지혜 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +2 보너스를 얻습니다."
 
 #. key = Gustav_Status_BOOST_GOB_CALMNESS_IN_PAIN_ACTIVE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:981
 msgctxt "h19ffc3b4g4d84g4e66gb2aegd8219d12c0d3"
 msgid "Basking in Loviatar's Love"
-msgstr ""
+msgstr "로비아타르의 사랑을 만끽함"
 
 #. key = Gustav_Status_BOOST_GOB_CALMNESS_IN_PAIN_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:827
@@ -4981,24 +4986,27 @@ msgid ""
 "\"AttackRoll\">Attack Rolls</LSTag> and Wisdom <LSTag Tooltip=\"SavingThrow\""
 ">Saving Throws</LSTag>."
 msgstr ""
+"고통은 명료함을 향한 길입니다. <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 30% 이하인 상태라면, "
+"<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 지혜 <LSTag Tooltip=\"SavingThrow"
+"\">내성 굴림</LSTag>에 +2 보너스를 얻습니다."
 
 #. key = Gustav_Status_BOOST_GOB_CALMNESS_IN_PAIN_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:974
 msgctxt "h80729873g86d9g4ddbga01egeebe788f1733"
 msgid "Loviatar's Love"
-msgstr ""
+msgstr "로비아타르의 사랑"
 
 #. key = Gustav_Status_BOOST_GOB_CHICKENCHASE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:267
 msgctxt "he6fd1e25g9e65g48d3gb260gf769238338d3"
 msgid "Engrossed in a game of Chicken Chase."
-msgstr ""
+msgstr "닭 쫓기 게임에 몰두 중입니다."
 
 #. key = Gustav_Status_BOOST_GOB_CHICKENCHASE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:386
 msgctxt "he31fa6ecg5c16g44bcg96b5gb9487fedce94"
 msgid "Chicken Chaser"
-msgstr ""
+msgstr "닭 추적자"
 
 #. key = Gustav_Status_BOOST_GOB_DROWCOM_BUFF_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:78
@@ -5008,12 +5016,14 @@ msgid ""
 "increased by [1], and its next weapon attack deals an additional [2]. This "
 "condition ends upon landing a successful weapon attack."
 msgstr ""
+"크리쳐의 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag> 가 [1] 만큼 증가하고, 다음 무기 공격이 "
+"[2] 를 추가로 입힙니다. 무기 공격이 적중하고 나면 이 효과가 제거됩니다."
 
 #. key = Gustav_Status_BOOST_GOB_DROWCOM_BUFF_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:176
 msgctxt "h90533913gbc44g40ffga3ccg1ce42a403130"
 msgid "Soul Branding"
-msgstr ""
+msgstr "영혼 낙인"
 
 #. key = Gustav_Status_BOOST_GOB_FESTIVITIES_DRUNK_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:71
@@ -5024,12 +5034,15 @@ msgid ""
 ">Disadvantage</LSTag> on Charisma and Dexterity <LSTag Tooltip=\"AbilityCheck"
 "\">Checks</LSTag>."
 msgstr ""
+"적당히 취해 모두가 눈치챌 정도입니다. <LSTag Tooltip=\"Strength\">근력</LSTag>이 2 만큼 증가하지만, "
+"매력과 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Gustav_Status_BOOST_GOB_FESTIVITIES_DRUNK_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:169
 msgctxt "hbada00b1g9b9bg4faagb18ege7dbeed2aea6"
 msgid "Slightly Drunk"
-msgstr ""
+msgstr "살짝 취함"
 
 #. key = Gustav_Status_BOOST_GOB_LOSTBALANCE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:211
@@ -5054,6 +5067,8 @@ msgid ""
 "Polma is enraged! <LSTag Tooltip=\"Strength\">Strength</LSTag> increased by "
 "4, <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> reduced by 2."
 msgstr ""
+"폴마가 격노 상태입니다! <LSTag Tooltip=\"Strength\">근력</LSTag>이 4 만큼 증가하고, <LSTag "
+"Tooltip=\"ArmourClass\">방어도</LSTag>가 2 만큼 감소했습니다."
 
 #. key = Gustav_Status_BOOST_GOB_OGRE_ENRAGE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:883
@@ -5074,24 +5089,26 @@ msgid ""
 "Offering their cries of pain without protection. Has a +4 bonus to "
 "Performance and Intimidation <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"보호받지 못한 고통의 외침에 응답합니다. 공연과 위협 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 +4 "
+"보너스를 얻었습니다."
 
 #. key = Gustav_Status_BOOST_GOB_PENITENT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:190
 msgctxt "hea2473c3g8db0g4e87g906egcbb09d7ac7cc"
 msgid "Ardent Apostle"
-msgstr ""
+msgstr "열성적인 사도"
 
 #. key = Gustav_Status_BOOST_GOB_PRIESTESS_ABSOLUTEWORD_BANE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1121
 msgctxt "h49f4db44gacc2g4cd6gb8f6g7dea62d52986"
 msgid "Word of the Absolute: Bane"
-msgstr ""
+msgstr "절대자의 진언: 억압"
 
 #. key = Gustav_Status_BOOST_GOB_PRIESTESS_ABSOLUTEWORD_SHIELD_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1135
 msgctxt "h9888f2b2gf68bg4546g8583g23682facdbe2"
 msgid "Word of the Absolute: Shield of Faith"
-msgstr ""
+msgstr "절대자의 진언: 신앙의 방패"
 
 #. key = Gustav_Status_BOOST_GOB_PRIESTESS_STATUE_DESTROY_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:190
@@ -5099,13 +5116,13 @@ msgctxt "hf8bb5a67g3a2ag4ae5g9abdgdc3b2d25f178"
 msgid ""
 "Priestess Gut draws on the Absolute's might to fell a great statue with her "
 "mind."
-msgstr ""
+msgstr "여사제 거트가 절대자의 힘을 빌려 생각만으로 거대한 조각상을 쓰러뜨립니다."
 
 #. key = Gustav_Status_BOOST_GOB_PRIESTESS_STATUE_DESTROY_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:288
 msgctxt "hd441b7f0gaa98g40bdg990cg1b1fd934a3bd"
 msgid "Telekinesis Effect"
-msgstr ""
+msgstr "염력 효과"
 
 #. key = Gustav_Status_BOOST_GOB_RECKLESS_ATTACK_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1226
@@ -5115,6 +5132,8 @@ msgid ""
 ">Disadvantage</LSTag> on its <LSTag Tooltip=\"AttackRoll\">Attack "
 "Roll</LSTag>."
 msgstr ""
+"이 고블린의 다음 공격은 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 갖습니다."
 
 #. key = Gustav_Status_BOOST_GOB_RECKLESS_ATTACK_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1450
@@ -5134,13 +5153,13 @@ msgctxt "h9fecd951g3f21g45d8gb773gd61a014b1391"
 msgid ""
 "Beer mixed with a deadly toxin courses through the character's veins, slowly "
 "killing it."
-msgstr ""
+msgstr "이 캐릭터의 혈관에 치명적인 독소가 섞인 맥주가 타고 흐르면서 천천히 죽어가고 있습니다."
 
 #. key = Gustav_Status_BOOST_GOB_SMALLPOISON_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:904
 msgctxt "h06231610gd122g4f0eg98b4g45a0d69ec279"
 msgid "Ingested Poisoned Beer"
-msgstr ""
+msgstr "독이 든 맥주 섭취"
 
 #. key = Gustav_Status_BOOST_GOB_TORTURED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:246
@@ -5149,25 +5168,27 @@ msgid ""
 "Has <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Constitution "
 "<LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Gustav_Status_BOOST_GOB_TORTURED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:358
 msgctxt "h02de2da3gf484g4100gb054g77a7f5d3572f"
 msgid "Tortured"
-msgstr ""
+msgstr "고문당함"
 
 #. key = Gustav_Status_BOOST_HAG_BROKEN_PROMISES_DRAWBACK_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:127
 msgctxt "h499b53b5gf1a4g47b1g9a00gdc6217def789"
 msgid ""
 "<LSTag Tooltip=\"Strength\">Strength</LSTag> is indefinitely reduced by 1."
-msgstr ""
+msgstr "<LSTag Tooltip=\"Strength\">근력</LSTag>이 영구적으로 1 만큼 감소했습니다."
 
 #. key = Gustav_Status_BOOST_HAG_BROKEN_PROMISES_DRAWBACK_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:225
 msgctxt "h41126ef4ga0aag4071gb62fg82b967ebe002"
 msgid "Broken Promises"
-msgstr ""
+msgstr "깨진 약속"
 
 #. key = Gustav_Status_BOOST_HAG_BROKEN_PROMISES_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:120
@@ -5176,48 +5197,50 @@ msgid ""
 "<LSTag Tooltip=\"Strength\">Strength</LSTag> is increased by 2 until the "
 "next Long Rest. Upon resting, Strength is indefinitely reduced by 1."
 msgstr ""
+"<LSTag Tooltip=\"Strength\">근력</LSTag>이 다음 긴 휴식 전까지 2 만큼 증가합니다. 휴식 이후, 근력이 "
+"영구적으로 1 만큼 감소합니다."
 
 #. key = Gustav_Status_BOOST_HAG_BROKEN_PROMISES_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:218
 msgctxt "h04b55cfcga122g4636gbd93g4db8858f71e4"
 msgid "Broken Promises"
-msgstr ""
+msgstr "깨진 약속"
 
 #. key = Gustav_Status_BOOST_HAG_CORPSEROOT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:554
 msgctxt "h163654d6gdfb6g49edg8d6dga0bcef7e6c76"
 msgid "Vines encase the corpse, holding it tightly in place."
-msgstr ""
+msgstr "덩굴이 시체를 뒤덮어 제자리에 고정하고 있습니다."
 
 #. key = Gustav_Status_BOOST_HAG_CORPSEROOT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:680
 msgctxt "h1231e4ffg5778g442ega614ga36cc0c405f9"
 msgid "Tied Down"
-msgstr ""
+msgstr "고정됨"
 
 #. key = Gustav_Status_BOOST_HAG_DETOX_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:610
 msgctxt "h5832a8eeg7b8bg4430gb5c4gee04f3ce49ed"
 msgid "Suddenly feeling a lot better."
-msgstr ""
+msgstr "갑자기 기분이 한결 나아졌습니다."
 
 #. key = Gustav_Status_BOOST_HAG_DETOX_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:736
 msgctxt "h60129d8cg182fg481ag8169gd8a018b2e3c6"
 msgid "Refreshed"
-msgstr ""
+msgstr "상쾌함"
 
 #. key = Gustav_Status_BOOST_HAG_DOUBLES_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:29
 msgctxt "h0acca4f9g9eaag41e1gafa8g26de96e3a606"
 msgid "Is this Ethel - or an illusion?"
-msgstr ""
+msgstr "이게 에텔일까요, 아니면 환영일까요?"
 
 #. key = Gustav_Status_BOOST_HAG_DOUBLES_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:78
 msgctxt "hb6865c88g2719g49d9gbed4geefe2146f052"
 msgid "Hag's Trickery"
-msgstr ""
+msgstr "마녀의 속임수"
 
 #. key = Gustav_Status_BOOST_HAG_FALTERING_WILL_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:134
@@ -5226,6 +5249,8 @@ msgid ""
 "<LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Wisdom <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag> until rest."
 msgstr ""
+"휴식하기 전까지 지혜 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 갖습니다."
 
 #. key = Gustav_Status_BOOST_HAG_FALTERING_WILL_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:232
@@ -5241,12 +5266,15 @@ msgid ""
 "on <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag> and <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag> using Strength."
 msgstr ""
+"점점 더 열이 납니다. 근력에 기반한 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</"
+"LSTag>을 갖습니다."
 
 #. key = Gustav_Status_BOOST_HAG_FEVER_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:701
 msgctxt "h6574cf88ge60eg42f3g8682gda7c3da24aa1"
 msgid "Feverish"
-msgstr ""
+msgstr "발열"
 
 #. key = Gustav_Status_BOOST_HAG_FILTHFEVER_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:582
@@ -5257,12 +5285,15 @@ msgid ""
 "\"AbilityCheck\">Ability Checks</LSTag> and <LSTag Tooltip=\"SavingThrow\""
 ">Saving Throws</LSTag> using Strength."
 msgstr ""
+"심각하게 열이 납니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 근력에 기반한 <LSTag "
+"Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
+"LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 갖습니다."
 
 #. key = Gustav_Status_BOOST_HAG_FILTHFEVER_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:708
 msgctxt "h11717155gbdb6g491ega9d0ga3a07a520528"
 msgid "Filth Fever"
-msgstr ""
+msgstr "불결한 발열"
 
 #. key = Gustav_Status_BOOST_HAG_FLESHROT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:603
@@ -5273,12 +5304,15 @@ msgid ""
 "\"SavingThrow\">Saving Throws</LSTag> using Charisma. Vulnerable to all "
 "damage."
 msgstr ""
+"살점이 썩어갑니다. 매력에 기반한 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</"
+"LSTag>을 갖습니다. 모든 종류의 피해에 취약합니다."
 
 #. key = Gustav_Status_BOOST_HAG_FLESHROT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:729
 msgctxt "hb1cf129eg9e8cg48dag949dg7c08522782e9"
 msgid "Flesh Rot"
-msgstr ""
+msgstr "살점 부패"
 
 #. key = Gustav_Status_BOOST_HAG_FORCEFIELD_1_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:533
@@ -5287,12 +5321,14 @@ msgid ""
 "Ethel disapproves, dearie. <LSTag Tooltip=\"Disadvantage\">Disadvantage</"
 "LSTag> on Wisdom <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"에텔이 못마땅하단다, 얘야. 지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag "
+"Tooltip=\"Disadvantage\">불리점</LSTag>을 갖습니다."
 
 #. key = Gustav_Status_BOOST_HAG_FORCEFIELD_1_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:659
 msgctxt "h8af9b96cgc23bg4d70ga9f2g52896bf2e3a6"
 msgid "Hands Off, Petal"
-msgstr ""
+msgstr "손 때렴, 꽃잎아"
 
 #. key = Gustav_Status_BOOST_HAG_FORCEFIELD_2_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:540
@@ -5302,12 +5338,15 @@ msgid ""
 "LSTag> on <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag> and <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag> using Wisdom."
 msgstr ""
+"에텔이 못마땅하단다, 얘야. 지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</"
+"LSTag>을 갖습니다."
 
 #. key = Gustav_Status_BOOST_HAG_FORCEFIELD_2_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:666
 msgctxt "h6dc5e3c4g14d2g4ecbg9ceeg257114a886e2"
 msgid "Hands Off, Petal"
-msgstr ""
+msgstr "손 때렴, 꽃잎아"
 
 #. key = Gustav_Status_BOOST_HAG_FORCEFIELD_3_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:547
@@ -5317,12 +5356,15 @@ msgid ""
 "LSTag> on <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag> and <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag> using Wisdom."
 msgstr ""
+"에텔이 못마땅하단다, 얘야. 지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</"
+"LSTag>을 갖습니다."
 
 #. key = Gustav_Status_BOOST_HAG_FORCEFIELD_3_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:673
 msgctxt "hf57007bagea96g4b54g82e3gc9ba88bf4651"
 msgid "Hands Off, Petal"
-msgstr ""
+msgstr "손 때렴, 꽃잎아"
 
 #. key = Gustav_Status_BOOST_HAG_HAGEYED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:428
@@ -5347,25 +5389,25 @@ msgstr "대가를 지불함"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:463
 msgctxt "h5ee10c12gf17cg4ba5g862cgd1d2bd176070"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_HAG_HAGPULSEAURA_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:596
 msgctxt "h59a7ddcag3f1eg4339g924age16c6ecf7a69"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_HAG_HAGPULSE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:470
 msgctxt "hdcd505f2g0fe2g4cbdga36egb520d626fe76"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_HAG_HAGPULSE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:603
 msgctxt "h326f68d6gd258g4e98ga354g63a6e4b51faa"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_HAG_HAIR_CHA_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:995
@@ -5379,46 +5421,46 @@ msgstr "에텔 이모의 털이 많은 머릿가죽을 섭취하자 당신의 �
 msgctxt "h9690240cg4e38g447fg8356g9e9225b5f085"
 msgid ""
 "Eating Ethel's hairy scalp has granted you a permanent boost to Constitution."
-msgstr ""
+msgstr "에텔 이모의 털이 많은 머릿가죽을 섭취하자 당신의 건강이 영구적으로 증가했습니다."
 
 #. key = Gustav_Status_BOOST_HAG_HAIR_DEX_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:967
 msgctxt "hfda19357gb087g4146gb31ag3f5dcac76ec7"
 msgid ""
 "Eating Ethel's hairy scalp has granted you a permanent boost to Dexterity."
-msgstr ""
+msgstr "에텔 이모의 털이 많은 머릿가죽을 섭취하자 당신의 민첩이 영구적으로 증가했습니다."
 
 #. key = Gustav_Status_BOOST_HAG_HAIR_INT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:981
 msgctxt "h5b09f26bgd9f6g4855g99b8g48a0e41e078f"
 msgid ""
 "Eating Ethel's hairy scalp has granted you a permanent boost to Intelligence."
-msgstr ""
+msgstr "에텔 이모의 털이 많은 머릿가죽을 섭취하자 당신의 지능이 영구적으로 증가했습니다."
 
 #. key = Gustav_Status_BOOST_HAG_HAIR_STR_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:400
 msgctxt "ha1a370c5g1cdfg4182ga187g35e56248120c"
 msgid ""
 "Eating Ethel's hairy scalp has granted you a permanent boost to Strength."
-msgstr ""
+msgstr "에텔 이모의 털이 많은 머릿가죽을 섭취하자 당신의 근력이 영구적으로 증가했습니다."
 
 #. key = Gustav_Status_BOOST_HAG_HAIR_STR_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:533
 msgctxt "h607490fegdb0eg4ddagb2e2gbcb781ecf42e"
 msgid "Auntie Ethel's Boon"
-msgstr ""
+msgstr "에텔 이모의 선물"
 
 #. key = Gustav_Status_BOOST_HAG_HAIR_WIS_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:988
 msgctxt "h63142092gb760g4d5fg92aag5cdfb85e97e7"
 msgid "Eating Ethel's hairy scalp has granted you a permanent boost to Wisdom."
-msgstr ""
+msgstr "에텔 이모의 털이 많은 머릿가죽을 섭취하자 당신의 지혜가 영구적으로 증가했습니다."
 
 #. key = Gustav_Status_BOOST_HAG_HEART_OF_STONE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:141
 msgctxt "ha4f6002dg6170g4604g969eg6a018ead01f0"
 msgid "Resistant to poison damage until rest."
-msgstr ""
+msgstr "휴식 전까지 독 피해에 저항을 얻습니다."
 
 #. key = Gustav_Status_BOOST_HAG_HEART_OF_STONE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:239
@@ -5430,7 +5472,7 @@ msgstr "돌의 심장"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:148
 msgctxt "hd76f0053gcf7cg4664ga8e8g1ac530af45d4"
 msgid "Hostile to all other creatures for the condition's duration."
-msgstr ""
+msgstr "상태가 지속되는 동안 다른 모든 크리쳐에게 적대적입니다."
 
 #. key = Gustav_Status_BOOST_HAG_INSANITYS_KISS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:246
@@ -5445,6 +5487,7 @@ msgid ""
 "<LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> is reduced by 2. Can't "
 "take Reactions."
 msgstr ""
+"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 2 만큼 감소했습니다. 반응 행동을 취할 수 없습니다."
 
 #. key = Gustav_Status_BOOST_HAG_LOST_TIME_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:253
@@ -5456,7 +5499,7 @@ msgstr "잃어버린 시간"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:162
 msgctxt "h1413056dgcfe0g4935gb8d5ga49d5c9656d9"
 msgid "<LSTag Tooltip=\"Wisdom\">Wisdom</LSTag> is indefinitely reduced by 1."
-msgstr ""
+msgstr "<LSTag Tooltip=\"Wisdom\">지혜</LSTag>가 영구적으로 1 만큼 감소했습니다."
 
 #. key = Gustav_Status_BOOST_HAG_LOVERS_AVARICE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:260
@@ -5469,13 +5512,13 @@ msgstr "사랑꾼의 탐욕"
 msgctxt "h93cad553gf2bfg40b0g8488gd49baa409114"
 msgid ""
 "Takes [1] every turn, and is vulnerable to Psychic damage for the duration."
-msgstr ""
+msgstr "매 턴 [1] 를 받고, 지속 시간 동안 정신 피해에 취약합니다."
 
 #. key = Gustav_Status_BOOST_HAG_MASKOFREGRET_DAMAGE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:624
 msgctxt "h98ad400fg605dg4d88g99ccg05ec0a3091e3"
 msgid "Curse of Regret"
-msgstr ""
+msgstr "후회의 저주"
 
 #. key = Gustav_Status_BOOST_HAG_MASKOFREGRET_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:414
@@ -5483,13 +5526,13 @@ msgctxt "h9b84bde2g098eg4c16g815dgd50793a67ae8"
 msgid ""
 "Takes [1] every turn, and is vulnerable to Psychic damage. Deal damage to "
 "remove this condition."
-msgstr ""
+msgstr "매 턴 [1] 를 받고, 지속 시간 동안 정신 피해에 취약합니다. 이 상태를 제거하려면 피해를 입혀야 합니다."
 
 #. key = Gustav_Status_BOOST_HAG_MASKOFREGRET_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:547
 msgctxt "hdd88e4f4gfde8g428ag8c7eg17ca35fa0132"
 msgid "Curse of Regret"
-msgstr ""
+msgstr "후회의 저주"
 
 #. key = Gustav_Status_BOOST_HAG_MASKOFSERVITUDE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:407
@@ -5498,24 +5541,25 @@ msgid ""
 "<LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> increased by 2. Regains "
 "[1] each turn."
 msgstr ""
+"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 2 만큼 증가했습니다. 매 턴 [1] 을 회복합니다."
 
 #. key = Gustav_Status_BOOST_HAG_MASKOFSERVITUDE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:540
 msgctxt "hfc7237e1gba2dg4844ga2f8g837507d63e10"
 msgid "Boon of Servitude"
-msgstr ""
+msgstr "예속의 은혜"
 
 #. key = Gustav_Status_BOOST_HAG_MASK_ADDUMMY_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:372
 msgctxt "hb7e4523egb8f2g420cgadc2gc308b1fa60c6"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_HAG_MASK_ADDUMMY_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:505
 msgctxt "hc532a519g3ef0g496fgbe8fgefdb367cdc66"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_HAG_MASK_CONTROLIMMUNE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1261
@@ -5523,13 +5567,13 @@ msgctxt "h5dd037fbg58c6g4484g83ffg372712b05602"
 msgid ""
 "Your Oath echoes in your mind, keeping Auntie Ethel's whispers at bay - for "
 "now."
-msgstr ""
+msgstr "당신의 맹세가 마음속에 울려 퍼져, 에텔 이모의 속삭임을 막아내고 있습니다. 지금까지는 말입니다."
 
 #. key = Gustav_Status_BOOST_HAG_MASK_CONTROLIMMUNE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1485
 msgctxt "h1a305903gc619g492egb124g15a9d1e9f87a"
 msgid "Voice of Reason"
-msgstr ""
+msgstr "이성의 목소리"
 
 #. key = Gustav_Status_BOOST_HAG_MASK_CONTROLLED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:365
@@ -5537,13 +5581,13 @@ msgctxt "hf554ca43g48e1g4d11g9976gadf743fe330d"
 msgid ""
 "Ethel has taken control. Condition lasts until mask is removed or "
 "spellcaster is dead."
-msgstr ""
+msgstr "에텔이 통제하고 있습니다. 주문을 시전한 크리쳐가 죽거나 가면이 제거될 때까지 상태가 지속됩니다."
 
 #. key = Gustav_Status_BOOST_HAG_MASK_CONTROLLED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:498
 msgctxt "hd79f854dga0c3g473dg9a73g9be04c42daab"
 msgid "Hag's Pawn"
-msgstr ""
+msgstr "에텔의 졸개"
 
 #. key = Gustav_Status_BOOST_HAG_MASK_CONTROLLED_NPC_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:638
@@ -5551,73 +5595,73 @@ msgctxt "hb1251641ga838g4446g9462g04bbe9aadbd4"
 msgid ""
 "Ethel has taken control. Condition lasts until mask is removed or "
 "spellcaster is dead."
-msgstr ""
+msgstr "에텔이 통제하고 있습니다. 주문을 시전한 크리쳐가 죽거나 가면이 제거될 때까지 상태가 지속됩니다."
 
 #. key = Gustav_Status_BOOST_HAG_MASK_CONTROLLED_NPC_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:771
 msgctxt "h23c74788gfa6eg4107g98ceg3867eaff8ab4"
 msgid "Hag's Pawn"
-msgstr ""
+msgstr "에텔의 졸개"
 
 #. key = Gustav_Status_BOOST_HAG_MASK_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:358
 msgctxt "h8d3281c1g4c70g4776ga6a5g4be90ef036b1"
 msgid "Tempted by Ethel's whispers."
-msgstr ""
+msgstr "에텔의 속삭임에 현혹되었습니다."
 
 #. key = Gustav_Status_BOOST_HAG_MASK_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:491
 msgctxt "h8fb5d2b8g62ccg41bbgae2agc0cc8dfe62e4"
 msgid "Ephemeral Whispers"
-msgstr ""
+msgstr "덧없는 속삭임"
 
 #. key = Gustav_Status_BOOST_HAG_MASK_HAGDEAD_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:386
 msgctxt "h0b06d766gc5ebg4b36g99d8g290b5b05f197"
 msgid "Can see objects hidden to the unaided eye."
-msgstr ""
+msgstr "육안으로 숨겨진 물체를 볼 수 있습니다."
 
 #. key = Gustav_Status_BOOST_HAG_MASK_HAGDEAD_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:519
 msgctxt "h6eca4a39ge5ebg47a6gb21dg221d62d57f33"
 msgid "Uncanny Sight"
-msgstr ""
+msgstr "기괴한 시력"
 
 #. key = Gustav_Status_BOOST_HAG_MASK_ILLUSION_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:379
 msgctxt "hd7478131g3b56g4275g86aega7e522931368"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_HAG_MASK_ILLUSION_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:512
 msgctxt "h660c5d51g0240g4055ga21cgceefaff95ef9"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_HAG_MASK_NPC_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:631
 msgctxt "ha74b2988ge795g4907ga73fg5a8236992e88"
 msgid "Tempted by Ethel's whispers."
-msgstr ""
+msgstr "에텔의 속삭임에 현혹되었습니다."
 
 #. key = Gustav_Status_BOOST_HAG_MASK_NPC_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:764
 msgctxt "hc6eaf239geabbg4f34gaf84g9afc130f9acd"
 msgid "Ephemeral Whispers"
-msgstr ""
+msgstr "덧없는 속삭임"
 
 #. key = Gustav_Status_BOOST_HAG_MOTHERS_LOATHING_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:113
 msgctxt "h098d641eg1360g41fbga199ge330ecc5bcae"
 msgid "Gains Bite until next Long Rest."
-msgstr ""
+msgstr "긴 휴식 전까지 물기 능력을 사용할 수 있습니다."
 
 #. key = Gustav_Status_BOOST_HAG_MOTHERS_LOATHING_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:211
 msgctxt "hd9729727ga378g464aga408gd9e8ddf1abdb"
 msgid "Mother's Loathing"
-msgstr ""
+msgstr "어미의 혐오"
 
 #. key = Gustav_Status_BOOST_HAG_RIGGEDZOMBIE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:778
@@ -5625,13 +5669,13 @@ msgctxt "hdc21f6afg5000g45a8ga2f9g09b7b2b57500"
 msgid ""
 "The zombie regards everyone around him with murderous intent, ready to "
 "attack any moment."
-msgstr ""
+msgstr "좀비는 주변의 모두를 살인적인 의도로 바라보며 언제든 공격할 준비가 되어 있습니다."
 
 #. key = Gustav_Status_BOOST_HAG_RIGGEDZOMBIE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:925
 msgctxt "hf3a13a80g3bc7g4c66ga9c7g670eb8c5124f"
 msgid "Murderous Intent"
-msgstr ""
+msgstr "살의"
 
 #. key = Gustav_Status_BOOST_HAG_ROT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:596
@@ -5641,60 +5685,63 @@ msgid ""
 "LSTag> on <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag> and <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag> using Charisma."
 msgstr ""
+"개복된 상처가 썩기 시작했습니다. 매력에 기반한 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 갖습니다."
 
 #. key = Gustav_Status_BOOST_HAG_ROT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:722
 msgctxt "hc2cac916g74c3g472cgbb52g88078ac8b1c2"
 msgid "Rotting"
-msgstr ""
+msgstr "부패"
 
 #. key = Gustav_Status_BOOST_HAG_SMALLCUT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:589
 msgctxt "hc2c8fcd5gf226g4e1ag8e74g0dbcb8be3089"
 msgid "Creature has recently cut itself."
-msgstr ""
+msgstr "크리쳐가 최근에 자상을 입었습니다."
 
 #. key = Gustav_Status_BOOST_HAG_SMALLCUT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:715
 msgctxt "h09abd685ga2b4g401cgb3eagb0f20e2e0306"
 msgid "Open Wound"
-msgstr ""
+msgstr "자상"
 
 #. key = Gustav_Status_BOOST_HAG_STILLBORN_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:169
 msgctxt "h20870268g1178g4531g9d49gcc5e85fefdcd"
 msgid "Bleeding from the inside. Suffers [1] at end of turn."
-msgstr ""
+msgstr "내출혈이 일어났습니다. 턴 종료시 [1] 를 입습니다."
 
 #. key = Gustav_Status_BOOST_HAG_STILLBORN_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:267
 msgctxt "hf87b11edg0a85g4b74g9658g0f2cabb56b91"
 msgid "Haemorrhaged"
-msgstr ""
+msgstr "출혈"
 
 #. key = Gustav_Status_BOOST_HAG_UPSETSTOMACH_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:568
 msgctxt "h0f257011g0b0ag434fg832bgc091ca6b1893"
 msgid "Something was off about that apple."
-msgstr ""
+msgstr "사과가 뭔가 잘못되었던 것 같습니다."
 
 #. key = Gustav_Status_BOOST_HAG_UPSETSTOMACH_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:694
 msgctxt "h58b0cb18g64e2g4f73gb76bgcbe8f1ab8062"
 msgid "Upset Stomach"
-msgstr ""
+msgstr "소화 불량"
 
 #. key = Gustav_Status_BOOST_HAG_WELL_BAD_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:344
 msgctxt "h09c67718g86e2g47abg9b69g8c7bfb650533"
 msgid "Vulnerable to Psychic and Acid damage until next Long Rest."
-msgstr ""
+msgstr "다음 긴 휴식 전까지 정신과 산성 피해에 취약합니다."
 
 #. key = Gustav_Status_BOOST_HAG_WELL_BAD_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:477
 msgctxt "h6a1092d0gad02g465egb335g175c25f2c89d"
 msgid "Nauseated"
-msgstr ""
+msgstr "메스꺼움"
 
 #. key = Gustav_Status_BOOST_HAG_WELL_GOOD_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:337
@@ -5702,26 +5749,26 @@ msgctxt "ha939a997g35c3g4327g9669gbb729b3124a4"
 msgid ""
 "<LSTag Tooltip=\"HitPoints\">Hit point</LSTag> maximum increased by 10 until "
 "the next Long Rest."
-msgstr ""
+msgstr "다음 긴 휴식 전까지 최대 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 10 만큼 증가했습니다."
 
 #. key = Gustav_Status_BOOST_HAG_WELL_GOOD_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:470
 msgctxt "h0b605d85g2b41g4ed0g8da4gcc420026fa11"
 msgid "Refreshed"
-msgstr ""
+msgstr "상쾌함"
 
 #. key = Gustav_Status_BOOST_HAG_WELL_WORSE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:351
 msgctxt "h0e543253g68deg47a0g8d6eg47e330b8c140"
 msgid ""
 "Overpowering, indescribable sickness. Vulnerable to most types of damage. "
-msgstr ""
+msgstr "압도적이고 형언할 수 없는 질병. 대부분의 피해 종류에 취약합니다. "
 
 #. key = Gustav_Status_BOOST_HAG_WELL_WORSE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:484
 msgctxt "h6e0ca0bfgdbd9g4c1fga89ag6e9769de9961"
 msgid "Sickened"
-msgstr ""
+msgstr "병듦"
 
 #. key = Gustav_Status_BOOST_HAG_WILTED_DREAMS_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:176
@@ -5729,49 +5776,49 @@ msgctxt "h5bbfc21bg52e2g432dg87e4g54dee971cf15"
 msgid ""
 "Something waits for the creature to sleep. It takes [1] during its next Long "
 "Rest."
-msgstr ""
+msgstr "뭔가가 크리쳐가 잠들기만을 기다리고 있습니다. 다음 긴 휴식 시 [1] 를 받습니다."
 
 #. key = Gustav_Status_BOOST_HAG_WILTED_DREAMS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:274
 msgctxt "h54a5c120g6defg4148g98b4gc19605430625"
 msgid "Wilted Dreams"
-msgstr ""
+msgstr "시든 꿈"
 
 #. key = Gustav_Status_BOOST_HALLUCINATION_SPORES_ANIMTEST_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:113
 msgctxt "h9f577ce8gce98g4287g9314gf37244d0f59e"
 msgid "Hallucination Spores"
-msgstr ""
+msgstr "환각 포자"
 
 #. key = Gustav_Status_BOOST_HOLD_PERSON_ANIMTEST_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:134
 msgctxt "h0fac78a1g5238g4cafgb2c9ged05b42d7581"
 msgid "Restrained"
-msgstr ""
+msgstr "구속"
 
 #. key = Gustav_Status_BOOST_KNOCKED_OUT_ANIMTEST_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:120
 msgctxt "h2f5c101dgb1b7g422fg990egcf27dc54949e"
 msgid "Knocked Out"
-msgstr ""
+msgstr "의식을 잃음"
 
 #. key = Gustav_Status_BOOST_LIE_DYING_ANIMTEST_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:15
 msgctxt "h5c37dee0g1698g4faag8de2ga131ac76503d"
 msgid "Dying"
-msgstr ""
+msgstr "빈사"
 
 #. key = Gustav_Status_BOOST_MAG_AC_BOOST_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:806
 msgctxt "hb2175f98g5478g4848gbb8ega407090d8472"
 msgid "<LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> increased by 1."
-msgstr ""
+msgstr "<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 1 만큼 증가했습니다."
 
 #. key = Gustav_Status_BOOST_MAG_AC_BOOST_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:953
 msgctxt "hba78a35cgdaeag4eedgbe3fg2e119d7c0558"
 msgid "Enhanced Armour Class"
-msgstr ""
+msgstr "강화된 방어도"
 
 #. key = Gustav_Status_BOOST_MAG_ATTACK_DEBUFF_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:932
@@ -5781,24 +5828,26 @@ msgid ""
 "1 penalty to <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> for every "
 "turn remaining."
 msgstr ""
+"끔찍한 타격을 받거나 강력한 금속에 부딪혀 회복중입니다. 효과가 지속되는 동안 <LSTag Tooltip=\"AttackRoll\">명중 "
+"굴림</LSTag>에 -1 만큼의 페널티를 부여받습니다."
 
 #. key = Gustav_Status_BOOST_MAG_ATTACK_DEBUFF_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1086
 msgctxt "hff445074g69fdg4e54g8243g0b1751dac7a0"
 msgid "Reeling"
-msgstr ""
+msgstr "현기증"
 
 #. key = Gustav_Status_BOOST_MAG_BONUS_ACTION_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:799
 msgctxt "hbac36a5fgc882g4cfbg9f24g83162aac3c57"
 msgid "Grants an additional bonus action on this turn."
-msgstr ""
+msgstr "이번 턴에 추가 행동을 하나 더 수행할 수 있습니다."
 
 #. key = Gustav_Status_BOOST_MAG_BONUS_ACTION_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:946
 msgctxt "h774d2034g260ag4415g811fge16ec53b3c81"
 msgid "Bonus Action"
-msgstr ""
+msgstr "추가 행동"
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_ABILITY_CHECK_BOOST_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1184
@@ -5808,12 +5857,14 @@ msgid ""
 "LSTag>, as long as they have <LSTag Type=\"Status\" Tooltip="
 "\"MAG_CHARGED_LIGHTNING\">Lightning Charges</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"MAG_CHARGED_LIGHTNING\">번개 충전</LSTag>이 유지되는 "
+"동안 근력과 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 +[1] 을 가집니다."
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_ABILITY_CHECK_BOOST_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1324
 msgctxt "h4891db97g9b30g4718g95b3g4c3d67b2938d"
 msgid "Charged Lightning"
-msgstr ""
+msgstr "충전된 번개"
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_AC_BONUS_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1135
@@ -5824,12 +5875,15 @@ msgid ""
 "<LSTag Type=\"Status\" Tooltip=\"MAG_CHARGED_LIGHTNING\">Lightning "
 "Charges</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"MAG_CHARGED_LIGHTNING\">번개 충전</LSTag>이 유지되는 "
+"동안 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>와 <LSTag Tooltip=\"SavingThrow\""
+">내성 굴림</LSTag>에 +[1] 을 가집니다."
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_AC_BONUS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1289
 msgctxt "h4871b471g84a3g4b3fga378gca15adf233d2"
 msgid "Sparkswall Armour"
-msgstr ""
+msgstr "번개벽 갑옷"
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_AURA_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1121
@@ -5838,6 +5892,8 @@ msgid ""
 "<LSTag Type=\"Status\" Tooltip=\"MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED\""
 ">Jolts</LSTag> nearby enemies."
 msgstr ""
+"근처의 적들에게 <LSTag Type=\"Status\" Tooltip="
+"\"MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED\">찌릿함</LSTag> 효과를 부여합니다."
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_AURA_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1268
@@ -5851,13 +5907,13 @@ msgctxt "h93cb7a7fg3511g4798g9c73gbcb0dbbb0047"
 msgid ""
 "Takes [1] each turn and can't take Reactions.<br><br>Removed upon leaving "
 "the Lightning Aura."
-msgstr ""
+msgstr "매 턴 [1] 를 받으며 반응 행동을 수행할 수 없습니다.<br><br>번개 오라에서 벗어나면 효과가 제거됩니다."
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_AURA_ELECTRIFIED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1275
 msgctxt "h40e129e2g326eg4fdbgbcb2gac49cd5afc30"
 msgid "Jolted"
-msgstr ""
+msgstr "찌릿함"
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1107
@@ -5868,12 +5924,15 @@ msgid ""
 "charges, they are consumed the next time you deal damage, and you deal an "
 "additional [4].<br><br>You lose 1 charge per turn. "
 msgstr ""
+"번개가 당신을 타고 흐릅니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1] 을 가지며 [2] "
+"를 추가로 입힙니다.<br><br>[3] 충전을 얻으면, 다음 번에 피해를 입힐 때 소모되며, [4] 를 추가로 "
+"입힙니다.<br><br>매 턴 충전량이 하나씩 감소합니다. "
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1247
 msgctxt "h9c3b0b3bge6d4g4991g91d4g1368d245f149"
 msgid "Lightning Charges"
-msgstr ""
+msgstr "번개 충전"
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_LIGHTNING_BLAST_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1142
@@ -5884,6 +5943,8 @@ msgid ""
 ">Lightning Charges</LSTag>. <br><br>On hit, all of your Lightning Charges "
 "are consumed."
 msgstr ""
+"다음 번개 주문이나 소마법이 잔여 <LSTag Type=\"Status\" Tooltip=\"MAG_CHARGED_LIGHTNING\""
+">번개 충전</LSTag> 만큼 추가 피해를 입힙니다. <br><br>적중 시, 남은 번개 충전이 모두 소모됩니다."
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_LIGHTNING_BLAST_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1303
@@ -5895,13 +5956,13 @@ msgstr "번개 충격"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:820
 msgctxt "h5c34dbc6gb1b9g4d98g9161ge74d9a8dfc43"
 msgid "An arcane flame that cannot be quenched."
-msgstr ""
+msgstr "꺼지지 않는 비전 불꽃입니다."
 
 #. key = Gustav_Status_BOOST_MAG_FIRE_ALWAYS_DIPPED_FIRE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:967
 msgctxt "h3ba1472bg4d07g434cgba91ge5f4f97e7e99"
 msgid "Ever-burning"
-msgstr ""
+msgstr "영원한 불꽃"
 
 #. key = Gustav_Status_BOOST_MAG_FIRE_RESISTANCE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1177
@@ -5909,7 +5970,7 @@ msgctxt "he7559790gb318g48aag84d3g7de5ddb8ae52"
 msgid ""
 "Has Resistance to Fire damage as long as you have 50% <LSTag Tooltip="
 "\"HitPoints\">hit points</LSTag> or less."
-msgstr ""
+msgstr "<LSTag Tooltip=\"HitPoints\">체력</LSTag>이 50% 이하인 상태면 화염 피해에 저항을 얻습니다."
 
 #. key = Gustav_Status_BOOST_MAG_FIRE_RESISTANCE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1352
@@ -5923,7 +5984,7 @@ msgctxt "h82aaebebgdeb0g45b1g9667g73823af73796"
 msgid ""
 "When taking Cold damage, takes an additional [1] per turn of Frostbite "
 "remaining."
-msgstr ""
+msgstr "냉기 피해를 받으면, 동상의 남은 지속 시간 만큼 추가로 [1] 를 입습니다."
 
 #. key = Gustav_Status_BOOST_MAG_INCREASED_DAMAGE_COLD_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1156
@@ -5939,6 +6000,8 @@ msgid ""
 "LSTag>, as long as you have 50% <LSTag Tooltip=\"HitPoints\">hit points</"
 "LSTag> or less."
 msgstr ""
+"<LSTag Tooltip=\"HitPoints\">체력</LSTag>이 50% 이하인 상태면 <LSTag Tooltip="
+"\"OpportunityAttack\">기회 공격</LSTag>을 유발하지 않습니다."
 
 #. key = Gustav_Status_BOOST_MAG_LOWHP_IGNORE_AOO_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:960
@@ -5954,12 +6017,14 @@ msgid ""
 "Speed</LSTag> increased by [1].<br><br>Removed when Restrained, "
 "Incapacitated, Prone or slowed down."
 msgstr ""
+"긴박함에 박차를 가합니다. <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 [1] 만큼 "
+"증가했습니다.<br><br>구속, 무력화, 엎어짐 또는 감속 상태를 부여받으면 제거됩니다."
 
 #. key = Gustav_Status_BOOST_MAG_MOMENTUM_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1198
 msgctxt "h2d9bbf02gea79g4197g9efegcb2615a3e82e"
 msgid "Momentum"
-msgstr ""
+msgstr "추진력"
 
 #. key = Gustav_Status_BOOST_MAG_PALADIN_PHYSICAL_RESISTANCE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1471
@@ -5975,6 +6040,9 @@ msgid ""
 "LSTag> from <LSTag Type=\"Passive\" Tooltip="
 "\"MAG_Paladin_SmiteSpellsSupport_Helmet_Passive\">Bolstering Smite</LSTag>."
 msgstr ""
+"<LSTag Type=\"Passive\" Tooltip="
+"\"MAG_Paladin_SmiteSpellsSupport_Helmet_Passive\">보강의 강타</LSTag>의 효과로 [1] 의 "
+"<LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 획득했습니다."
 
 #. key = Gustav_Status_BOOST_MAG_RAGE_LOWHP_VIOLENCE_TECHNICAL_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1100
@@ -5984,6 +6052,8 @@ msgid ""
 "\"HitPoints\">hit points</LSTag> or less, they gain <LSTag Type=\"Status\" "
 "Tooltip=\"MAG_VIOLENCE\">Wrath</LSTag> for 1 turn."
 msgstr ""
+"전투 중 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 50% 이하로 떨어지면, 1 턴 동안 <LSTag "
+"Type=\"Status\" Tooltip=\"MAG_VIOLENCE\">분노</LSTag> 효과를 얻습니다."
 
 #. key = Gustav_Status_BOOST_MAG_RAGE_LOWHP_VIOLENCE_TECHNICAL_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1226
@@ -5998,6 +6068,8 @@ msgid ""
 "Kept from death's door by a brief magical boost. Gained [1] <LSTag Tooltip="
 "\"TemporaryHitPoints\">temporary hit points</LSTag> ."
 msgstr ""
+"일시적인 마법의 효과로 죽음의 문턱에서 벗어났습니다. <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</"
+"LSTag>을 [1] 만큼 획득했습니다."
 
 #. key = Gustav_Status_BOOST_MAG_TEMPORARY_HP_3_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1072
@@ -6006,6 +6078,8 @@ msgid ""
 "Kept from death's door by a brief magical boost. Gained [1] <LSTag Tooltip="
 "\"TemporaryHitPoints\">temporary hit points</LSTag> ."
 msgstr ""
+"일시적인 마법의 효과로 죽음의 문턱에서 벗어났습니다. <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</"
+"LSTag>을 [1] 만큼 획득했습니다."
 
 #. key = Gustav_Status_BOOST_MAG_TEMPORARY_HP_8_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1079
@@ -6014,6 +6088,8 @@ msgid ""
 "Kept from death's door by a brief magical boost. Gained [1] <LSTag Tooltip="
 "\"TemporaryHitPoints\">temporary hit points</LSTag> ."
 msgstr ""
+"일시적인 마법의 효과로 죽음의 문턱에서 벗어났습니다. <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</"
+"LSTag>을 [1] 만큼 획득했습니다."
 
 #. key = Gustav_Status_BOOST_MAG_TEMPORARY_HP_BARDIC_INSPIRATION_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1205
@@ -6021,7 +6097,7 @@ msgctxt "h17e9d520g4a8cg42afg9e1bgcd2d2fcaeb54"
 msgid ""
 "Gained [1] <LSTag Tooltip=\"TemporaryHitPoints\">temporary hit points</"
 "LSTag> ."
-msgstr ""
+msgstr "<LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 [1] 만큼 획득했습니다."
 
 #. key = Gustav_Status_BOOST_MAG_TEMPORARY_HP_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:792
@@ -6030,12 +6106,14 @@ msgid ""
 "Kept from death's door by a brief magical boost. Gained [1] <LSTag Tooltip="
 "\"TemporaryHitPoints\">temporary hit point</LSTag>."
 msgstr ""
+"일시적인 마법의 효과로 죽음의 문턱에서 벗어났습니다. <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</"
+"LSTag>을 [1] 만큼 획득했습니다."
 
 #. key = Gustav_Status_BOOST_MAG_TEMPORARY_HP_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:939
 msgctxt "h748a3626g0884g4f9dg936fgbce0acc364a3"
 msgid "Temporary Hit Points"
-msgstr ""
+msgstr "임시 체력"
 
 #. key = Gustav_Status_BOOST_MAG_VIOLENCE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1093
@@ -6043,13 +6121,13 @@ msgctxt "h75d93606g8b1cg4cf9g9d7fga8ed5ac3f524"
 msgid ""
 "Adrenaline courses through your veins. <br><br>You have a +1 bonus to melee "
 "damage."
-msgstr ""
+msgstr "혈관을 따라 아드레날린이 흐릅니다. <br><br>근접 공격 피해에 +1 보너스를 얻습니다."
 
 #. key = Gustav_Status_BOOST_MAG_VIOLENCE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1219
 msgctxt "h39f37b67g23e4g41fcg9357g9fd3e4a2e0a3"
 msgid "Wrath"
-msgstr ""
+msgstr "분노"
 
 #. key = Gustav_Status_BOOST_MAG_WEAPON_COATED_WITH_POISON_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1401
@@ -6061,37 +6139,37 @@ msgstr "맹독성 복수"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:239
 msgctxt "ha1696794gc4e4g4329g9c90g667419eda986"
 msgid "Gale exudes Necrotic energy. Creature takes [1] every turn. "
-msgstr ""
+msgstr "게일이 괴저 에너지를 내뿜습니다. 크리쳐가 매 턴 [1] 를 입습니다. "
 
 #. key = Gustav_Status_BOOST_ORI_GALE_AURANECROSIS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:344
 msgctxt "hdd2b9de7g11f6g483dgad05ged441f035c7b"
 msgid "Necrosis"
-msgstr ""
+msgstr "괴사"
 
 #. key = Gustav_Status_BOOST_ORI_GALE_NECROTICAURA_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:232
 msgctxt "h0ddd79bbg8ac7g499aga857g7244721b0e1b"
 msgid "Gale exudes Necrotic energy. Nearby creatures take [1] every turn. "
-msgstr ""
+msgstr "게일이 괴저 에너지를 내뿜습니다. 근방의 크리쳐들이 매 턴 [1] 를 입습니다. "
 
 #. key = Gustav_Status_BOOST_ORI_GALE_NECROTICAURA_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:337
 msgctxt "hcd68fbb0g18dbg4f4fgb4dfg9a6ff0af3735"
 msgid "Necrotic Aura"
-msgstr ""
+msgstr "괴저 오라"
 
 #. key = Gustav_Status_BOOST_ORI_WYLL_CONTACTCAMBION_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:274
 msgctxt "h46c29203g9f37g42f7g877fgbf5c2d89a1aa"
 msgid "Wyll must contact Mizora."
-msgstr ""
+msgstr "윌은 미조라와 접촉해야 합니다."
 
 #. key = Gustav_Status_BOOST_ORI_WYLL_CONTACTCAMBION_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:393
 msgctxt "h05e4bb66g0d2ag4791g9a8egb7b885c2e5a1"
 msgid "Contact Mizora"
-msgstr ""
+msgstr "미조라와 접촉"
 
 #. key = Gustav_Status_BOOST_OUT_CRAWLINGFEVER_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:85
@@ -6102,24 +6180,27 @@ msgid ""
 "\"AbilityCheck\">Ability Checks</LSTag>. Fever may be transmitted to up to "
 "10 others. "
 msgstr ""
+"전염성 열병에 시달리며 하루 이내에 치료받지 못하면 사망합니다. 모든 <LSTag Tooltip=\"AbilityCheck\">판정</"
+"LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다. 열병은 최대 10 명의 대상에게 "
+"전이될 수 있습니다. "
 
 #. key = Gustav_Status_BOOST_OUT_CRAWLINGFEVER_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:183
 msgctxt "h4bde35eag7791g4754gbed6g7ecc0ea86a79"
 msgid "Crawling Fever"
-msgstr ""
+msgstr "엄습하는 열병"
 
 #. key = Gustav_Status_BOOST_PLA_BLOODFEST_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:64
 msgctxt "hf3d983a0g5d27g4955g8915g23c04db5f237"
 msgid "By devouring a corpse, creature has gained an extra bonus action."
-msgstr ""
+msgstr "시체를 포식해, 크리쳐가 추가 행동을 얻었습니다."
 
 #. key = Gustav_Status_BOOST_PLA_BLOODFEST_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:155
 msgctxt "hb009a902g0beeg4fc3gb4f4g5fcaee228daf"
 msgid "Bloodfest"
-msgstr ""
+msgstr "피 탐식"
 
 #. key = Gustav_Status_BOOST_PLA_FLINDITEM_BLESSING_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:624
@@ -6130,12 +6211,15 @@ msgid ""
 "turn the affected entity <LSTag Type=\"Status\" Tooltip=\"MADNESS\""
 ">Mad</LSTag>."
 msgstr ""
+"폭력에 대한 욕망에 빠져들었습니다. <br><Br><LSTag Type=\"Passive\" Tooltip="
+"\"PLA_ConflictedFlind_Flail_Broken_Passive\">이노그의 선물</LSTag>에 영향을 받는 개체를 "
+"<LSTag Type=\"Status\" Tooltip=\"MADNESS\">광기</LSTag>에 빠뜨리지 않습니다."
 
 #. key = Gustav_Status_BOOST_PLA_FLINDITEM_BLESSING_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:750
 msgctxt "h879a24ddgde85g4915gb34bgaad387675c52"
 msgid "Yeenoghu's Blessing"
-msgstr ""
+msgstr "이노그의 축복"
 
 #. key = Gustav_Status_BOOST_PLA_FLINDITEM_HUNGER_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:617
@@ -6145,6 +6229,8 @@ msgid ""
 " Tooltip=\"MADNESS\">Mad</LSTag> if it doesn't deal damage to an enemy by "
 "the end of its turn."
 msgstr ""
+"살육에 굶주렸습니다. <br><br>영향을 받은 개체는 매 턴이 끝나기 전까지 적에게 피해를 입히지 않으면 <LSTag Type="
+"\"Status\" Tooltip=\"MADNESS\">광기</LSTag>에 빠질 수 있습니다."
 
 #. key = Gustav_Status_BOOST_PLA_FLINDITEM_HUNGER_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:743
@@ -6161,18 +6247,21 @@ msgid ""
 ">Advantage</LSTag>, and it suffers <LSTag Tooltip=\"Disadvantage\""
 ">Disadvantage</LSTag> on Attack Rolls."
 msgstr ""
+"화염과 연기가 크리쳐의 시야를 방해합니다. 대상을 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>은 "
+"<LSTag Tooltip=\"Advantage\">이점</LSTag>을 가지며, 대상은 명중 굴림에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Gustav_Status_BOOST_PLA_SUFFOCATING_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:785
 msgctxt "hf716d31dgcfddg49fegb28cgc6bad5bd55f9"
 msgid "Blinded"
-msgstr ""
+msgstr "실명"
 
 #. key = Gustav_Status_BOOST_PLA_ZHENTSPOTTER_SIGHT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:841
 msgctxt "h60f31bc7g1e14g448eg9268g18f27cde2d5b"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_SHORT_REST_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:330
@@ -6182,12 +6271,14 @@ msgid ""
 "\"HitPoints\">hit points</LSTag>. Warlocks also restore their <LSTag Tooltip="
 "\"WarlockSpellSlot\">spell slots</LSTag>."
 msgstr ""
+"하루에 두 번, 짧은 휴식을 취해 <LSTag Tooltip=\"HitPoints\">체력</LSTag>을 회복할 수 있습니다. 워락들은 "
+"<LSTag Tooltip=\"WarlockSpellSlot\">주문 슬롯</LSTag>도 회복합니다."
 
 #. key = Gustav_Status_BOOST_SHORT_REST_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:463
 msgctxt "haad8d4d4g203eg4f0dgbebfg33d0beb140be"
 msgid "Short Rest"
-msgstr ""
+msgstr "짧은 휴식"
 
 #. key = Gustav_Status_BOOST_SLEEPING_ANIMTEST_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:148
@@ -6199,37 +6290,37 @@ msgstr "수면"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:141
 msgctxt "hb1c04d0bgcb55g4e6ag8f02g8535dac84652"
 msgid "Stunned"
-msgstr ""
+msgstr "기절"
 
 #. key = Gustav_Status_BOOST_SURRENDERED_ANIMTEST_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:127
 msgctxt "ha927f7d4g1c1ag4e60gbd7eg2141a191334e"
 msgid "Surrendered"
-msgstr ""
+msgstr "항복함"
 
 #. key = Gustav_Status_BOOST_TADPOLED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:15
 msgctxt "hc17b70a7ge709g4e20ga05dg5aef037281f9"
 msgid "Infected with a mind flayer parasite."
-msgstr ""
+msgstr "마인드 플레이어 기생충에 감염되었습니다."
 
 #. key = Gustav_Status_BOOST_TADPOLED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:22
 msgctxt "hdd266aefg04dbg45b1g80deg384ddc51b973"
 msgid "Tainted"
-msgstr ""
+msgstr "오염됨"
 
 #. key = Gustav_Status_BOOST_TUT_JOY_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:400
 msgctxt "h128bdad3g496dg4e90gb734g38e6603a8223"
 msgid "Eldritch Bliss"
-msgstr ""
+msgstr "섬뜩한 환희"
 
 #. key = Gustav_Status_BOOST_TUT_LAB_MADNESS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:407
 msgctxt "h4ac8219ag9261g4fdbg9eb8g85b05fa98628"
 msgid "Eldritch Madness"
-msgstr ""
+msgstr "섬뜩한 광기"
 
 #. key = Gustav_Status_BOOST_TUT_NEWBORN_INTDEV_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:561
@@ -6240,6 +6331,9 @@ msgid ""
 "Tooltip=\"ArmourClass\">Armour Class</LSTag> and <LSTag Tooltip=\"HitPoints\""
 ">hit points</LSTag>, and cannot take reactions."
 msgstr ""
+"자세를 바로잡고 있습니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 갖고, <LSTag Tooltip=\"ArmourClass\">방어도</"
+"LSTag>와 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 감소했으며, 반응 행동을 취할 수 없습니다."
 
 #. key = Gustav_Status_BOOST_TUT_NEWBORN_INTDEV_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:687
@@ -6254,24 +6348,25 @@ msgid ""
 "Exposure to lava has caused Grym's adamantine body to soften.<br><br>Can now "
 "be affected by certain damage types and is vulnerable to Bludgeoning damage."
 msgstr ""
+"용암에 노출되어 그림의 아다만틴 신체가 부드러워졌습니다.<br><br>이제 특정 피해 종류에 영향을 받으며 부수기 피해에 취약합니다."
 
 #. key = Gustav_Status_BOOST_UND_ADAMANTINEGOLEM_SUPERHEATED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:988
 msgctxt "h1c86e758g0b8dg49e9ga5b6g87479b0e9d22"
 msgid "Superheated"
-msgstr ""
+msgstr "과열됨"
 
 #. key = Gustav_Status_BOOST_UND_ADAMANTINE_EQUIPPED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:785
 msgctxt "h51ae1386g84b7g4786g8712g35445f1b0faa"
 msgid "Wearing equipment that degenerates if exposed to sunlight."
-msgstr ""
+msgstr "햇빛에 노출되면 변색하는 장비를 착용 중입니다."
 
 #. key = Gustav_Status_BOOST_UND_ADAMANTINE_EQUIPPED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:932
 msgctxt "h9ddea6e9g10cbg483bg823bg76c512e7b133"
 msgid "Sunlight Sensitive Equipment"
-msgstr ""
+msgstr "햇빛에 민감한 장비"
 
 #. key = Gustav_Status_BOOST_UND_ADMANTINEGOLEM_TAUNT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:848
@@ -6279,37 +6374,37 @@ msgctxt "ha97b1fa0g5c93g474eg8e62g666225de0dfa"
 msgid ""
 "You have drawn Grym's ire. <br> Grym will attempt to attack this creature if "
 "possible."
-msgstr ""
+msgstr "그림의 화를 돋웠습니다. <br> 그림은 가능하다면 이 크리쳐를 공격할 것입니다."
 
 #. key = Gustav_Status_BOOST_UND_ADMANTINEGOLEM_TAUNT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:995
 msgctxt "h1681e0d9gf3f5g4a53gb066ge35fdb174ba9"
 msgid "Prime Target"
-msgstr ""
+msgstr "최우선 목표"
 
 #. key = Gustav_Status_BOOST_UND_ADMANTINEGOLEM_TAUNT_HELPER_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1044
 msgctxt "he3c1ec8fg9974g4e50gaa78g5958c195eb3f"
 msgid "Grym has locked on to a new target."
-msgstr ""
+msgstr "그림이 새로운 목표를 찾았습니다."
 
 #. key = Gustav_Status_BOOST_UND_ADMANTINEGOLEM_TAUNT_HELPER_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1009
 msgctxt "h41ac002bgcb52g40adga76dge9b29ef00b0d"
 msgid "Threat Assessment"
-msgstr ""
+msgstr "위협 판단"
 
 #. key = Gustav_Status_BOOST_UND_ANCIENTSUSSURTREEANTIMAGIC_AURA_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:99
 msgctxt "hfd6a82b5g9da0g4dcfga8d9gee67398a6e2a"
 msgid "Sussur blooms nullify nearby magic."
-msgstr ""
+msgstr "수서르 꽃은 주변의 마법을 무효화합니다."
 
 #. key = Gustav_Status_BOOST_UND_ANCIENTSUSSURTREEANTIMAGIC_AURA_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:197
 msgctxt "h5a7885bcg7a17g4e59gb16dgc9a329a9dc2d"
 msgid "Sussur Antimagic Field"
-msgstr ""
+msgstr "수서르 대마법 지대"
 
 #. key = Gustav_Status_BOOST_UND_AVATAROFBOOOAL_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:477
@@ -6318,12 +6413,14 @@ msgid ""
 "The sight of a kuo-toa servant dying fills BOOOAL with bloodlust.  It "
 "regains [1] when it kills a creature and can attack three times."
 msgstr ""
+"쿠오토아 하수인이 죽는 모습이 부알을 피의 욕망으로 들끓게 만듭니다.  크리쳐를 죽이면 [1] 을 회복하고 공격을 세 번까지 할 수 "
+"있습니다."
 
 #. key = Gustav_Status_BOOST_UND_AVATAROFBOOOAL_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:610
 msgctxt "hb66dcc96g50a9g47d5ga444gf75fa84d7384"
 msgid "Avatar of BOOOAL"
-msgstr ""
+msgstr "부알의 화신"
 
 #. key = Gustav_Status_BOOST_UND_BLESS_STAFF_MYSTRA_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:673
@@ -6333,6 +6430,8 @@ msgid ""
 "Weapon <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag>, and an additional "
 "2d4 to Spell Attack Rolls."
 msgstr ""
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>과 무기 <LSTag Tooltip=\"AttackRoll"
+"\">명중 굴림</LSTag>에 1d4 , 그리고 주문 명중 굴림에 2d4 가 추가됩니다."
 
 #. key = Gustav_Status_BOOST_UND_BLESS_STAFF_MYSTRA_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:799
@@ -6348,12 +6447,15 @@ msgid ""
 "<LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag>, and <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 <LSTag Tooltip=\"AbilityCheck\""
+">능력치 판정</LSTag>, 그리고 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +1d6 보너스를 "
+"얻습니다."
 
 #. key = Gustav_Status_BOOST_UND_BLISS_SPORES_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:827
 msgctxt "h016b9c1fgf2b9g4492gac53g154052395ab6"
 msgid "Bliss Spores"
-msgstr ""
+msgstr "환희의 포자"
 
 #. key = Gustav_Status_BOOST_UND_BOOOALBLESSING_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:449
@@ -6363,6 +6465,9 @@ msgid ""
 "\">Attack Rolls</LSTag> against <LSTag Type=\"Status\" Tooltip=\"BLEEDING\""
 ">Bleeding</LSTag> creatures, as long as there are kuo-toa to worship BOOOAL."
 msgstr ""
+"부알을 섬길 쿠오토아가 존재하는 한 <LSTag Type=\"Status\" Tooltip=\"BLEEDING\">출혈</LSTag> "
+"상태의 크리쳐를 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Gustav_Status_BOOST_UND_BOOOALBLESSING_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:582
@@ -6379,12 +6484,15 @@ msgid ""
 "Tooltip=\"BLEEDING\">Bleeding</LSTag> creatures, as long as there are kuo-"
 "toa to worship BOOOAL."
 msgstr ""
+"부알을 섬길 쿠오토아가 존재하는 한 착용자는 <LSTag Type=\"Status\" Tooltip=\"BLEEDING\">출혈</"
+"LSTag> 상태의 크리쳐를 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Gustav_Status_BOOST_UND_BOOOALGIFT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:568
 msgctxt "h9626d720gffd1g45e9g9f71gbbff57279c93"
 msgid "BOOOAL's Blessing"
-msgstr ""
+msgstr "부알의 축복"
 
 #. key = Gustav_Status_BOOST_UND_BOOOALSERVANT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:456
@@ -6393,6 +6501,7 @@ msgid ""
 "Chance to apply <LSTag Type=\"Status\" Tooltip=\"BLEEDING\">Bleeding</LSTag> "
 "to targets."
 msgstr ""
+"대상에게 <LSTag Type=\"Status\" Tooltip=\"BLEEDING\">출혈</LSTag>을 부여할 확률이 있습니다."
 
 #. key = Gustav_Status_BOOST_UND_BOOOALSERVANT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:589
@@ -6409,30 +6518,33 @@ msgid ""
 "<LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag> have a greater chance "
 "of succeeding."
 msgstr ""
+"글럿의 하모니가 고양감을 불러일으킵니다. <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>, "
+"<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, 그리고 <LSTag Tooltip=\"SavingThrow"
+"\">내성 굴림</LSTag>의 성공 확률이 크게 증가했습니다."
 
 #. key = Gustav_Status_BOOST_UND_BROODINGSOVEREIGN_INSPIRATION_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:645
 msgctxt "h25d56234gcb9cg4b0ag8eeag955f069db541"
 msgid "Brooding Inspiration"
-msgstr ""
+msgstr "음침한 고취"
 
 #. key = Gustav_Status_BOOST_UND_BULETTE_BURROWTRAIL_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:638
 msgctxt "h6ad80210g08c2g49bfgab9ag4a9a838512a6"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_UND_BULETTE_DESPAWNTIMER_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:631
 msgctxt "h612470cbg42f5g40c5g82a5ga0e98227df1a"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_UND_BULETTE_SPAWNTIMER_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:456
 msgctxt "hbf684453g96d0g41e2ga059g786bb9c43d73"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_BOOST_UND_FEARFULROTHE_AGITATED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1030
@@ -6442,12 +6554,14 @@ msgid ""
 "Has <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on <LSTag Tooltip="
 "\"AttackRoll\">Attack Rolls</LSTag>."
 msgstr ""
+"로테가 불안감과 두려움에 휩싸였습니다. 조금만 겁을 먹어도 공격할 것입니다. <LSTag Tooltip=\"AttackRoll\">명중 "
+"굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가지고 있습니다."
 
 #. key = Gustav_Status_BOOST_UND_FEARFULROTHE_AGITATED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1163
 msgctxt "hd0e7b197g08a7g43f0ga290g8b469c4984f2"
 msgid "Agitated"
-msgstr ""
+msgstr "흥분함"
 
 #. key = Gustav_Status_BOOST_UND_HARDWORK_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1051
@@ -6455,7 +6569,7 @@ msgctxt "h415e9ec1g598fg4daega99bgfd2f478adb19"
 msgid ""
 "Deals an additional [1] to Shattered targets when attacking them with Deep "
 "Delver."
-msgstr ""
+msgstr "지하 탐색자로 산산조각난 대상을 공격하면 [1] 를 추가로 입힙니다."
 
 #. key = Gustav_Status_BOOST_UND_HARDWORK_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1177
@@ -6469,13 +6583,13 @@ msgctxt "hf56bdf15g8bd3g481eg8806g60762d54d3d8"
 msgid ""
 "Imbued with the gnawing exhaustion of endless labour. <br><br>Receives an "
 "additional [1] when struck by the war pick Deep Delver."
-msgstr ""
+msgstr "끝없는 노동의 피로감에 휩싸였습니다. <br><br>지하 탐색자로 공격당하면 추가로 [1] 를 입습니다."
 
 #. key = Gustav_Status_BOOST_UND_HARDWORK_TARGET_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1184
 msgctxt "hd3e6f494g9a0dg4b2bgb567g8a757c73d1f9"
 msgid "Shattered"
-msgstr ""
+msgstr "산산조각남"
 
 #. key = Gustav_Status_BOOST_UND_INJUREDGNOME_DUERGARANTIDOTE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:960
@@ -6485,48 +6599,51 @@ msgid ""
 "\"SavingThrow\">Saving Throws</LSTag> against being Poisoned and <LSTag "
 "Tooltip=\"Resistant\">Resistance</LSTag> to Poison damage."
 msgstr ""
+"중독 상태에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 가지며 독 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 "
+"가집니다."
 
 #. key = Gustav_Status_BOOST_UND_INJUREDGNOME_DUERGARANTIDOTE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1114
 msgctxt "h810da48bgc6a4g46e1gaa40g3ff1a82f7669"
 msgid "Duergar Antidote"
-msgstr ""
+msgstr "듀에르가 해독제"
 
 #. key = Gustav_Status_BOOST_UND_INVIGORATED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:57
 msgctxt "h9bca0f1cg2831g4bb0g91aeg936d58f275b5"
 msgid "Feeling spry. Jump distance doubled."
-msgstr ""
+msgstr "기분이 상쾌합니다. 도약 거리가 두 배로 늘어났습니다."
 
 #. key = Gustav_Status_BOOST_UND_INVIGORATED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:106
 msgctxt "hdfd3d31dg69feg464agab63ge8e196f18427"
 msgid "Invigorated"
-msgstr ""
+msgstr "활력넘침"
 
 #. key = Gustav_Status_BOOST_UND_INVIGORATINGSPORES_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:43
 msgctxt "h7f9b9955gcae1g4da1gb158g2d1aa63ac93b"
 msgid "Feeling spry. Jump distance doubled."
-msgstr ""
+msgstr "기분이 상쾌합니다. 도약 거리가 두 배로 늘어났습니다."
 
 #. key = Gustav_Status_BOOST_UND_INVIGORATINGSPORES_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:92
 msgctxt "h9f2cb83cg168cg4c01gbd00gf8dd3a792237"
 msgid "Invigorated"
-msgstr ""
+msgstr "활력넘침"
 
 #. key = Gustav_Status_BOOST_UND_LAVABUBBLE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:897
 msgctxt "ha7e07755gae3bg496cg9bf5g91f26ecde127"
 msgid "This bubble is near to bursting."
-msgstr ""
+msgstr "방울이 터지기 직전입니다."
 
 #. key = Gustav_Status_BOOST_UND_LAVABUBBLE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1051
 msgctxt "h3012b5a5gaa1bg4d08g8870ge717d2a71816"
 msgid "Ready to Burst"
-msgstr ""
+msgstr "파열 임박"
 
 #. key = Gustav_Status_BOOST_UND_MONKAMULET_ELEMENTALDISTURBANCE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:890
@@ -6534,13 +6651,13 @@ msgctxt "ha4e00ad0g744cg41b4g99d9g5112ed84bb0d"
 msgid ""
 "The presence of this creature disturbs nearby lava, making it bubble and "
 "explode."
-msgstr ""
+msgstr "이 크리쳐의 존재감이 주변의 용암을 교란시켜 거품을 일으키고 폭발하게 합니다."
 
 #. key = Gustav_Status_BOOST_UND_MONKAMULET_ELEMENTALDISTURBANCE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1044
 msgctxt "hdb89b1b1g26b2g448bgb7cdg4734acd45f87"
 msgid "Magmatic Disturbance"
-msgstr ""
+msgstr "마그마 교란"
 
 #. key = Gustav_Status_BOOST_UND_MONKAMULET_HAUNTED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:694
@@ -6550,12 +6667,14 @@ msgid ""
 "vibrant. Must succeed a Wisdom <LSTag Tooltip=\"SavingThrow\">Saving Throw</"
 "LSTag> when using the amulet's power, or become Hysterical."
 msgstr ""
+"목걸이의 기운이 요동쳐, 주변 모든 것들이 조금 더 역동적으로 느껴집니다. 이 목걸이의 힘을 사용하면 지혜 <LSTag Tooltip="
+"\"SavingThrow\">내성 굴림</LSTag>을 통과해야 하며, 실패 시 히스테리 효과를 적용받습니다."
 
 #. key = Gustav_Status_BOOST_UND_MONKAMULET_HAUNTED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:834
 msgctxt "h8977e340gd9e3g4403gba90ge5b69a250a0a"
 msgid "High Spirits"
-msgstr ""
+msgstr "조증"
 
 #. key = Gustav_Status_BOOST_UND_MYCONIDAMULET_EVIL_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:939
@@ -6565,12 +6684,14 @@ msgid ""
 "doubt in any who listens. <br><br>Has a +2 bonus on Intimidation <LSTag "
 "Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"군주의 포자가 성대에 침투하여 듣는 이들에게 공포와 의심을 심어줍니다. <br><br>위협 <LSTag Tooltip="
+"\"AbilityCheck\">판정</LSTag>에 +2 보너스를 갖습니다."
 
 #. key = Gustav_Status_BOOST_UND_MYCONIDAMULET_EVIL_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1093
 msgctxt "h3b51f32bgf2f6g4f14gab1dgaef621afc4e9"
 msgid "Tyrant Tongue"
-msgstr ""
+msgstr "폭군의 혀"
 
 #. key = Gustav_Status_BOOST_UND_MYCONIDAMULET_GOOD_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:946
@@ -6580,12 +6701,14 @@ msgid ""
 "authority. <br><br>Has a +2 bonus on Persuasion <LSTag Tooltip=\"AbilityCheck"
 "\">Checks</LSTag>."
 msgstr ""
+"군주의 포자가 성대에 침투하여 그의 목소리가 권위로 울려퍼지게 만듭니다. <br><br>설득 <LSTag Tooltip="
+"\"AbilityCheck\">판정</LSTag>에 +2 보너스를 갖습니다."
 
 #. key = Gustav_Status_BOOST_UND_MYCONIDAMULET_GOOD_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1100
 msgctxt "h65ade673g96a6g44c1gbca8g7244fa07a1e3"
 msgid "Voice of the Circle"
-msgstr ""
+msgstr "서클의 목소리"
 
 #. key = Gustav_Status_BOOST_UND_NERE_COERCION_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:904
@@ -6593,13 +6716,13 @@ msgctxt "h253c9a1bgee17g49e1ga3a9g76e5efc105ff"
 msgid ""
 "Forced to fight for Nere and takes [1] each turn.<br><br>Ends upon taking "
 "any non-Psychic damage."
-msgstr ""
+msgstr "의지와 상관없이 니어를 위해 싸우며 매 턴 [1] 를 입습니다.<br><br>정신 이외의 피해를 입으면 효과가 종료됩니다."
 
 #. key = Gustav_Status_BOOST_UND_NERE_COERCION_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1058
 msgctxt "hf354b046ge668g41d6g8d7egd85bafbb2b67"
 msgid "Coerced"
-msgstr ""
+msgstr "지배됨"
 
 #. key = Gustav_Status_BOOST_UND_NERE_SHIELDOFSCREAMS_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:883
@@ -6622,13 +6745,13 @@ msgstr "비명의 방패"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1191
 msgctxt "ha15fdcdagd449g4232g892eg1b3e3bc92325"
 msgid "Suffused with the cries of dead souls. Deals an additional [1]."
-msgstr ""
+msgstr "죽은 영혼들의 울부짖음으로 가득합니다. [1] 를 추가로 입힙니다."
 
 #. key = Gustav_Status_BOOST_UND_NERE_SWORD_PSYCHIC_DAMAGE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1415
 msgctxt "h22bfa6bdg38edg4080g836ag14c860d96f06"
 msgid "Weeping"
-msgstr ""
+msgstr "비탄"
 
 #. key = Gustav_Status_BOOST_UND_NOBLESTALK_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1268
@@ -6636,7 +6759,7 @@ msgctxt "h89395279g7460g4248gb02egda578d5c3e0d"
 msgid ""
 "Restores a creature to full health and removes all conditions that "
 "negatively affect it."
-msgstr ""
+msgstr "크리쳐의 체력을 모두 회복하며 부정적인 효과를 모두 제거합니다."
 
 #. key = Gustav_Status_BOOST_UND_NOBLESTALK_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:820
@@ -6670,20 +6793,20 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:575
 msgctxt "h84546800g9e16g4cf6g92d2g19b6c5ac5be7"
 msgid "Dazed"
-msgstr ""
+msgstr "멍해짐"
 
 #. key = Gustav_Status_BOOST_UND_SOVEREIGNKEY_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:862
 msgctxt "h88d51499gef96g438fg8fefg6d456f0b665b"
 msgid ""
 "Protected from the myconids' mushroom traps by the Sovereign's spore sac."
-msgstr ""
+msgstr "군주의 포자 주머니에 의해 마이코니드 버섯 함정으로부터 보호받고 있습니다."
 
 #. key = Gustav_Status_BOOST_UND_SOVEREIGNKEY_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1016
 msgctxt "hb7c24ee3g7223g4b02g9e41g54349a79650c"
 msgid "Sovereign's Protection"
-msgstr ""
+msgstr "군주의 보호"
 
 #. key = Gustav_Status_BOOST_UND_SPECTATOR_CHARMED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:680
@@ -6691,25 +6814,25 @@ msgctxt "h63d6411ege12fg45e1ga23fg2bffb771d28d"
 msgid ""
 "A feeble enchantment prevents this creature from attacking the spectator. "
 "Any damage could break it..."
-msgstr ""
+msgstr "미약한 마법이 이 크리쳐가 스펙테이터를 공격하는 것을 막고 있습니다. 조금의 손상도 마법을 깨뜨릴 수 있습니다..."
 
 #. key = Gustav_Status_BOOST_UND_SPECTATOR_CHARMED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:806
 msgctxt "h026a1e68g1348g404bg9339gb1a41246e6c0"
 msgid "Spectator's Charm"
-msgstr ""
+msgstr "스펙테이터의 매혹"
 
 #. key = Gustav_Status_BOOST_UND_SPORECLOUD_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:50
 msgctxt "h6ca727ccg10b3g4de5gb58bg4154121e08fa"
 msgid "The mushroom exudes a mist of refreshing spores."
-msgstr ""
+msgstr "버섯이 상쾌한 포자 안개를 내뿜습니다."
 
 #. key = Gustav_Status_BOOST_UND_SPORECLOUD_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:99
 msgctxt "h852b24fdgd738g4e87g9399g91eb37764112"
 msgid "Spore Emanation"
-msgstr ""
+msgstr "포자 발산"
 
 #. key = Gustav_Status_BOOST_UND_STRENGTH_CHAIR_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:253
@@ -6717,13 +6840,13 @@ msgctxt "h2ec2950cgfcb3g42ceg9211ga7160956e9f7"
 msgid ""
 "The mountains quake! <LSTag Tooltip=\"Strength\">Strength</LSTag> increased "
 "to 21."
-msgstr ""
+msgstr "산이 흔들립니다! <LSTag Tooltip=\"Strength\">근력</LSTag>이 21 로 증가합니다."
 
 #. key = Gustav_Status_BOOST_UND_STRENGTH_CHAIR_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:372
 msgctxt "hc2814879gae0bg408bgb48cgf419354de68c"
 msgid "Hill Giant's Might"
-msgstr ""
+msgstr "언덕 거인의 힘"
 
 #. key = Gustav_Status_BOOST_UND_SUSSURTREEANTIMAGIC_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:750
@@ -6731,19 +6854,19 @@ msgctxt "hf1b22bc7ga778g4d8cgb49eg28bfeb47dae6"
 msgid ""
 "A sussur tree flower is draining the character of its magical energy, "
 "preventing it from casting spells."
-msgstr ""
+msgstr "수서르 꽃이 이 캐릭터의 마법 에너지를 고갈시켜 주문 시전을 막고 있습니다."
 
 #. key = Gustav_Status_BOOST_UND_SUSSURTREEANTIMAGIC_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:897
 msgctxt "h75b76299gce08g4801ga9f6g7da4aa22ecf1"
 msgid "Sussur Flower Antimagic Field"
-msgstr ""
+msgstr "수서르 꽃 대마법 지대"
 
 #. key = Gustav_Status_BOOST_UNI_MERREGONMASK_AURA_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1142
 msgctxt "h3f2e9a25gaca1g4dc8g9834g466a9474c40a"
 msgid "Merregon Mask Aura"
-msgstr ""
+msgstr "메레곤 가면 오라"
 
 #. key = Gustav_Status_BOOST_UNI_MERREGONMASK_EFFECT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1016
@@ -6754,25 +6877,27 @@ msgid ""
 "merregon's mask, Strength increases by 1 and Intelligence, Wisdom, and "
 "Charisma decrease by 1 per nearby mask."
 msgstr ""
+"당신은 오직 싸우기 위해 태어난, 개성이나 개인 의지 따위 존재하지 않는 하나의 군단입니다.<br><br>메레곤의 가면을 쓴 크리쳐가 "
+"[1] 이내에 존재하면, 주변의 가면 하나마다 근력이 1 만큼 증가하며, 지능, 지혜와 카리스마는 1 씩 감소합니다."
 
 #. key = Gustav_Status_BOOST_UNI_MERREGONMASK_EFFECT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1149
 msgctxt "h5a35f25dg8278g491fgacb5gbda6a986d57f"
 msgid "Infernal Legion"
-msgstr ""
+msgstr "지옥의 군단"
 
 #. key = Gustav_Status_BOOST_WPN_HALBERD_AUTOMATON_LIGHTNING_DAMAGE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1198
 msgctxt "h6211231dge12fg40e0gb1bdg49a59b42b91c"
 msgid ""
 "Blue lightning flits across the halberd's surface. Deals an additional [1]."
-msgstr ""
+msgstr "할버드의 표면을 따라 푸른색 번개가 흐릅니다. [1] 를 추가로 입힙니다."
 
 #. key = Gustav_Status_BOOST_WPN_HALBERD_AUTOMATON_LIGHTNING_DAMAGE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1422
 msgctxt "ha8c8943bg6c6dg44c3g93d1g6ad135fadaae"
 msgid "Galvanic Currents"
-msgstr ""
+msgstr "짜릿한 전류"
 
 #. key = Gustav_Status_DOWNED_HAG_DOWNED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_DOWNED_DisplayName.lsx:8
@@ -6784,25 +6909,25 @@ msgstr "쓰러짐"
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_DisplayName.lsx:22
 msgctxt "hedf24974g4d4dg45b0gb197g4729b7de7bec"
 msgid "Furious"
-msgstr ""
+msgstr "분노함"
 
 #. key = Gustav_Status_EFFECT_DEN_HARPYMEAL_DROWNING_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_DisplayName.lsx:29
 msgctxt "hc5ca1423gc847g4abcg926eg9c4d6286e0f7"
 msgid "Drowning"
-msgstr ""
+msgstr "익사중"
 
 #. key = Gustav_Status_EFFECT_DEN_HARPYMEAL_TIMER_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_DisplayName.lsx:8
 msgctxt "had9ccd73g577bg4be9g8745gb009aa253d79"
 msgid "Harpy's Prelude"
-msgstr ""
+msgstr "하피의 전주곡"
 
 #. key = Gustav_Status_EFFECT_DEN_THIEFLINGS_TIMER_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_DisplayName.lsx:15
 msgctxt "hfd0fecb7g1b2fg449ag9cdegad4f96bd4988"
 msgid "Thieves' Hideout"
-msgstr ""
+msgstr "도둑의 은신처"
 
 #. key = Gustav_Status_EFFECT_GB_FUGITIVE_DEN_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_Description.lsx:78
@@ -6810,7 +6935,7 @@ msgctxt "hff62cb56g48a0g412eg9680g9298a92bb721"
 msgid ""
 "Recently escaped from the grove's prison. Local guards will arrest this "
 "character on sight."
-msgstr ""
+msgstr "최근에 숲의 감옥에서 탈출했습니다. 지역 경비대에 발각되면 즉시 체포됩니다."
 
 #. key = Gustav_Status_EFFECT_GB_FUGITIVE_GOB_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_Description.lsx:85
@@ -6818,31 +6943,31 @@ msgctxt "hb76993f4ga313g4fd6g94d7g2755251fe1bc"
 msgid ""
 "Recently escaped from the goblin camp's prison. Local guards will arrest "
 "this character on sight."
-msgstr ""
+msgstr "최근에 고블린 야영지의 감옥에서 탈출했습니다. 지역 경비대에 발각되면 즉시 체포됩니다."
 
 #. key = Gustav_Status_EFFECT_GLO_CURSEDIRONFLASK_GLOW_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_Description.lsx:29
 msgctxt "h721a588bgc682g42bdg975eg753d0c3aeffe"
 msgid "The flask radiates a curious energy."
-msgstr ""
+msgstr "플라스크가 흥미로운 에너지를 내뿜습니다."
 
 #. key = Gustav_Status_EFFECT_GLO_CURSEDIRONFLASK_GLOW_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_DisplayName.lsx:64
 msgctxt "h2082a92fgbe4bg43a6ga3fcg8c2a796c7225"
 msgid "Glowing Flask"
-msgstr ""
+msgstr "빛나는 플라스크"
 
 #. key = Gustav_Status_EFFECT_GOB_WARPAINT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_Description.lsx:15
 msgctxt "h6c622e2cg215cg4b57g9482g9bed3f4f0c16"
 msgid "Decorated with worg dung."
-msgstr ""
+msgstr "워그 똥으로 장식되었습니다."
 
 #. key = Gustav_Status_EFFECT_GOB_WARPAINT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_DisplayName.lsx:36
 msgctxt "h4adf8298g89ecg44e0g9730gbaa011910139"
 msgid "War Paint"
-msgstr ""
+msgstr "워 페인트"
 
 #. key = Gustav_Status_EFFECT_PLA_YEENOGHU_HUNGER_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_Description.lsx:22
@@ -6850,7 +6975,7 @@ msgctxt "h0b7f72f6geb19g48fdg9a2dgc02cbab92275"
 msgid ""
 "Bloated with the spoils of slaughter, but still hungry - a gnoll is growing "
 "in the hyena's belly."
-msgstr ""
+msgstr "살육의 전리품으로 배가 부풀었지만 여전히 배고픈 하이에나의 뱃속에서 놀이 자라고 있습니다."
 
 #. key = Gustav_Status_EFFECT_PLA_YEENOGHU_HUNGER_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_DisplayName.lsx:50
@@ -6862,31 +6987,31 @@ msgstr "이노그의 허기"
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_DisplayName.lsx:57
 msgctxt "h49a70c5dg3693g4a27gbc19gde828fccf74e"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Gustav_Status_EFFECT_UND_SPORES_SCATTER_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_Description.lsx:36
 msgctxt "h5213fb5cgd416g4980g908ag0ef2a6f4b124"
 msgid "These spores are about to scatter and disappear."
-msgstr ""
+msgstr "이 포자들은 흩어져 사라지기 직전입니다."
 
 #. key = Gustav_Status_EFFECT_UND_SPORES_SCATTER_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_EFFECT_DisplayName.lsx:71
 msgctxt "h5bb744e4g35a4g4316g940cgb5c8284ff01b"
 msgid "Scattering Spores"
-msgstr ""
+msgstr "흩어지는 포자"
 
 #. key = Gustav_Status_FEAR_HAG_FORCEFIELD_FEAR_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_FEAR_Description.lsx:15
 msgctxt "h46c246e3ge6edg4c2bgaf96geb45065e5fa7"
 msgid "Shouldn't have done that, petal. Frightened."
-msgstr ""
+msgstr "그러지 말았어야 했어, 꽃잎아. 겁먹었구나."
 
 #. key = Gustav_Status_FEAR_HAG_FORCEFIELD_FEAR_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_FEAR_DisplayName.lsx:15
 msgctxt "hc8820586gf1bag4b2aga445g07994a63c33f"
 msgid "Foolish Little Pup"
-msgstr ""
+msgstr "어리석은 강아지"
 
 #. key = Gustav_Status_FEAR_HAG_MISSING_PETS_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_FEAR_Description.lsx:8
@@ -6897,6 +7022,9 @@ msgid ""
 "\"AbilityCheck\">Ability Checks</LSTag> and <LSTag Tooltip=\"AttackRoll\""
 ">Attack Rolls</LSTag>."
 msgstr ""
+"환영 거미가 크리쳐의 몸을 기어니며 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 <LSTag "
+"Tooltip=\"AbilityCheck\">능력치 판정</LSTag>을 방해해 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 부여합니다."
 
 #. key = Gustav_Status_FEAR_HAG_MISSING_PETS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_FEAR_DisplayName.lsx:8
@@ -6918,7 +7046,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:155
 msgctxt "h6e506331gd0fcg4a53g8384ga62a6fdcbaaa"
 msgid "Unconscious"
-msgstr ""
+msgstr "의식불명"
 
 #. key = Gustav_Status_INCAPACITATED_DEN_KNOCKEDOUT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:57
@@ -6934,103 +7062,103 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:57
 msgctxt "hd48d34f1g88c5g4b2bgbe51g749b2de1e048"
 msgid "Knocked Out"
-msgstr ""
+msgstr "의식을 잃음"
 
 #. key = Gustav_Status_INCAPACITATED_FOR_TIEDTOWINDMILL_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:8
 msgctxt "hd22b9863gb6c6g4472ga4ffg2359e4bc0f70"
 msgid "Tied to a windmill and unable to move."
-msgstr ""
+msgstr "풍차에 묶여 움직일 수 없습니다."
 
 #. key = Gustav_Status_INCAPACITATED_FOR_TIEDTOWINDMILL_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:8
 msgctxt "hfd339c43g7457g4b9bga542g66e9a789f60f"
 msgid "Tied Up"
-msgstr ""
+msgstr "묶임"
 
 #. key = Gustav_Status_INCAPACITATED_GOB_GOBLINPRIEST_CHAINS_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:127
 msgctxt "h8d5da0ddgcfedg412cga9fag082f1a77bc02"
 msgid "Chained to the ground with iron shackles."
-msgstr ""
+msgstr "무쇠 족쇄로 땅에 구속되어 있습니다."
 
 #. key = Gustav_Status_INCAPACITATED_GOB_GOBLINPRIEST_CHAINS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:141
 msgctxt "h226daba0gdf02g4f2agb86bg941dd9f2813a"
 msgid "Shackled"
-msgstr ""
+msgstr "구속됨"
 
 #. key = Gustav_Status_INCAPACITATED_GOB_TIEDTOTORTURERACK_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:22
 msgctxt "hb12b8304g45dag4491ga24bg3ed34a535c21"
 msgid "Shackled to a torture rack and unable to move."
-msgstr ""
+msgstr "고문대에 구속되어 움직일 수 없습니다."
 
 #. key = Gustav_Status_INCAPACITATED_GOB_TIEDTOTORTURERACK_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:22
 msgctxt "hf2472ab5gcea9g46d6ga328g694455d9534c"
 msgid "Restrained"
-msgstr ""
+msgstr "구속됨"
 
 #. key = Gustav_Status_INCAPACITATED_GOB_TIEDTOTORTURERACK_TORTURED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:64
 msgctxt "h6a099e64g49c0g4d82g925eg83ffce4b8cb5"
 msgid "Shackled to a torture rack. Unable to move and in severe pain."
-msgstr ""
+msgstr "고문대에 구속되어 있습니다. 움직일 수 없으며 엄청난 고통에 시달리고 있습니다."
 
 #. key = Gustav_Status_INCAPACITATED_GOB_TIEDTOTORTURERACK_TORTURED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:64
 msgctxt "hc2e92e48g03f3g4d3agb709g24fe63911aae"
 msgid "Restrained"
-msgstr ""
+msgstr "구속됨"
 
 #. key = Gustav_Status_INCAPACITATED_HAG_VICTIM2_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:43
 msgctxt "h8729a74fg80ffg4dbfgb29dg4ba50c984b0b"
 msgid "A headless corpse preserved through esoteric magic."
-msgstr ""
+msgstr "난해한 마법으로 보존된 머리 없는 시체입니다."
 
 #. key = Gustav_Status_INCAPACITATED_HAG_VICTIM2_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:43
 msgctxt "h43abbfc0g691ag4be9g85ceg2c2c503fbd7e"
 msgid "Stasis"
-msgstr ""
+msgstr "정지"
 
 #. key = Gustav_Status_INCAPACITATED_PLA_DYINGHYENA_BLOATED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:106
 msgctxt "hd87a9c71gacfcg484dg971cg43c53ae705d5"
 msgid "Restrained due to sickness and bloat."
-msgstr ""
+msgstr "병균과 염증으로 인해 구속되었습니다."
 
 #. key = Gustav_Status_INCAPACITATED_PLA_DYINGHYENA_BLOATED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:106
 msgctxt "hf315ce5egc040g4d68g971bg926a69372f2f"
 msgid "Bloated"
-msgstr ""
+msgstr "부풀어오름"
 
 #. key = Gustav_Status_INCAPACITATED_PLA_PINNEDUNDERBEAM_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:15
 msgctxt "hb425f601g7c7ag4576gbaadg1206a6ca460d"
 msgid "Pinned under a beam."
-msgstr ""
+msgstr "대들보 아래에 깔렸습니다."
 
 #. key = Gustav_Status_INCAPACITATED_PLA_PINNEDUNDERBEAM_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:15
 msgctxt "h7636b520g1adeg46a9gbeefg08ff5c0a9f14"
 msgid "Pinned"
-msgstr ""
+msgstr "짓눌림"
 
 #. key = Gustav_Status_INCAPACITATED_PLA_TIEDTOCHAIR_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:50
 msgctxt "hd537810fga402g4a8dg8dacgc6acdd8ea8c7"
 msgid "Restrained"
-msgstr ""
+msgstr "구속됨"
 
 #. key = Gustav_Status_INCAPACITATED_TUT_SAPPED_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:36
 msgctxt "h9801ee93gf062g4562gb324g64ec73fcbead"
 msgid "Target has been psionically drained."
-msgstr ""
+msgstr "대상의 정신력이 고갈되었습니다."
 
 #. key = Gustav_Status_INCAPACITATED_TUT_SAPPED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:36
@@ -7042,7 +7170,7 @@ msgstr "혼절당함"
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:29
 msgctxt "h7ce77304ga7c5g4a94g93e7ge15b659bed04"
 msgid "Target cannot move or speak."
-msgstr ""
+msgstr "대상은 움직이거나 말을 할 수 없습니다."
 
 #. key = Gustav_Status_INCAPACITATED_TUT_UNDEROPERATION_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:29
@@ -7054,73 +7182,73 @@ msgstr "수술중"
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:120
 msgctxt "hc3cb1908ga9c6g4679g897bg676c9fef9c5c"
 msgid "A rare poison has sickened the victim."
-msgstr ""
+msgstr "희귀한 독에 중독되었습니다."
 
 #. key = Gustav_Status_INCAPACITATED_UND_INJUREDGNOME_POISONED_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:120
 msgctxt "ha09fde32gd0fcg4c2egbbefga04e40ed4494"
 msgid "Duergar Poison"
-msgstr ""
+msgstr "듀에르가 맹독"
 
 #. key = Gustav_Status_INCAPACITATED_UND_SPECTATOR_PETRIFIED_001_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:71
 msgctxt "h215bbe88g9014g41a9g81b3g93a237b7fc5b"
 msgid "Petrified by unknown magic."
-msgstr ""
+msgstr "정체불명의 마법으로 석화되었습니다."
 
 #. key = Gustav_Status_INCAPACITATED_UND_SPECTATOR_PETRIFIED_001_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:71
 msgctxt "hac2bd4a7geadbg43e5gb1c4gdcf9e37d34af"
 msgid "Petrified"
-msgstr ""
+msgstr "석화됨"
 
 #. key = Gustav_Status_INCAPACITATED_UND_SPECTATOR_PETRIFIED_002_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:78
 msgctxt "hff1b31a8g9847g42ffg8173g3b32c80966c2"
 msgid "Petrified by unknown magic."
-msgstr ""
+msgstr "정체불명의 마법으로 석화되었습니다."
 
 #. key = Gustav_Status_INCAPACITATED_UND_SPECTATOR_PETRIFIED_002_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:78
 msgctxt "h339cadeeg82bfg4ffegac38g459361b9fd66"
 msgid "Petrified"
-msgstr ""
+msgstr "석화됨"
 
 #. key = Gustav_Status_INCAPACITATED_UND_SPECTATOR_PETRIFIED_003_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:85
 msgctxt "h5b520279gfd9fg4c53g804eg87dcfc322c25"
 msgid "Petrified by unknown magic."
-msgstr ""
+msgstr "정체불명의 마법으로 석화되었습니다."
 
 #. key = Gustav_Status_INCAPACITATED_UND_SPECTATOR_PETRIFIED_003_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:85
 msgctxt "h6fe51c0egbc12g44a6ga919ge7f2966c6d42"
 msgid "Petrified"
-msgstr ""
+msgstr "석화됨"
 
 #. key = Gustav_Status_INCAPACITATED_UND_SPECTATOR_PETRIFIED_004_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:92
 msgctxt "h8291803fge068g404bgaf15g476b8979cb8a"
 msgid "Petrified by unknown magic."
-msgstr ""
+msgstr "정체불명의 마법으로 석화되었습니다."
 
 #. key = Gustav_Status_INCAPACITATED_UND_SPECTATOR_PETRIFIED_004_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:92
 msgctxt "hf7d9a0cdg6137g4c1ag9e53g0136c9e138ec"
 msgid "Petrified"
-msgstr ""
+msgstr "석화됨"
 
 #. key = Gustav_Status_INCAPACITATED_UND_SPECTATOR_PETRIFIED_005_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_Description.lsx:99
 msgctxt "h82327406gd154g4df1g8a01gd800adb0ab3b"
 msgid "Petrified by unknown magic."
-msgstr ""
+msgstr "정체불명의 마법으로 석화되었습니다."
 
 #. key = Gustav_Status_INCAPACITATED_UND_SPECTATOR_PETRIFIED_005_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:99
 msgctxt "h25050929g6f74g4854gba65gafb25ca78a8a"
 msgid "Petrified"
-msgstr ""
+msgstr "석화됨"
 
 #. key = Gustav_Status_KNOCKED_DOWN_UND_MONKAMULET_MADNESS_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_KNOCKED_DOWN_Description.lsx:8
@@ -7128,13 +7256,13 @@ msgctxt "h122ea6acg91ddg40d0gbad0ga1946471c4a1"
 msgid ""
 "Knocked Prone out of sheer elation. Sides splitting, lungs gasping for air - "
 "you're enjoying yourself, aren't you?"
-msgstr ""
+msgstr "기쁨에 겨워 쓰러졌습니다. 옆구리가 찢어질 듯이 아프고, 숨이 턱 막힐 듯이 가쁜 숨을 몰아쉬며 즐거워하고 있지 않나요?"
 
 #. key = Gustav_Status_KNOCKED_DOWN_UND_MONKAMULET_MADNESS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_KNOCKED_DOWN_DisplayName.lsx:8
 msgctxt "hd3d1feb1g1bd4g443fg8a19gc43d7382affc"
 msgid "Hysterical"
-msgstr ""
+msgstr "히스테리"
 
 #. key = Gustav_Status_POLYMORPHED_GOB_WolfPens_WILDSHAPE_BEAR_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:36
@@ -7146,7 +7274,7 @@ msgstr "야생 형상: 동굴곰"
 #: Gustav/Public/Gustav/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:15
 msgctxt "h15e4b9f3gd316g4c9dga295gb928f6a68a2a"
 msgid "Human Form"
-msgstr ""
+msgstr "인간 형상"
 
 #. key = Gustav_Status_POLYMORPHED_HAG_DISGUISE_MAYRINA_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_POLYMORPHED_Description.lsx:15
@@ -7164,7 +7292,7 @@ msgstr "EMPTY"
 #: Gustav/Public/Gustav/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:8
 msgctxt "h7988009fg7d9eg4802g8509g5c077e7adf75"
 msgid "Pig Form"
-msgstr ""
+msgstr "돼지 형상"
 
 #. key = Gustav_Status_POLYMORPHED_ORI_ASTARION_HIDDEN_RACE_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_POLYMORPHED_Description.lsx:22
@@ -7206,57 +7334,57 @@ msgstr "EMPTY"
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:120
 msgctxt "h5ec4b428g854eg494cgb9c3gd0c8648f34c0"
 msgid "Bite a target."
-msgstr ""
+msgstr "대상을 뭅니다."
 
 #. key = Gustav_Target_Bite_MothersLoathing_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:155
 msgctxt "h94118a36ga153g4141ga739g781284040ed6"
 msgid "Bite"
-msgstr ""
+msgstr "물기"
 
 #. key = Gustav_Target_DEN_Apprentice_DaggerOfShar_Spell_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:50
 msgctxt "h603fc6f9gf91cg410fg9f98g0ed3775bd06a"
 msgid "Create a cloud of darkness while you attack."
-msgstr ""
+msgstr "공격하는 동안 어둠의 구름을 만들어냅니다."
 
 #. key = Gustav_Target_DEN_Apprentice_DaggerOfShar_Spell_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:57
 msgctxt "hc2ebebdag5f0cg452egab5bg91de816a330e"
 msgid "Edge of Darkness"
-msgstr ""
+msgstr "어둠의 칼날"
 
 #. key = Gustav_Target_DEN_Entangle_Staff_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:169
 msgctxt "h37e76ae4g5865g422cg9058g5288286181ce"
 msgid "Faithwarden's Vines"
-msgstr ""
+msgstr "믿음지기의 덩굴"
 
 #. key = Gustav_Target_DEN_TheRiteOfThorns_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:127
 msgctxt "h07985f4cgbb05g4815gac0cge04e69ab9807"
 msgid ""
 "Perform a sacred ritual to completely conceal a place with thorny vines."
-msgstr ""
+msgstr "신성한 의식을 수행해 가시투성이 덩굴로 한 장소를 완전히 봉인합니다."
 
 #. key = Gustav_Target_DEN_TheRiteOfThorns_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:148
 msgctxt "hd0b886ffg84c0g4faega457g58bfc243b224"
 msgid "Rite of Thorns"
-msgstr ""
+msgstr "가시의 의식"
 
 #. key = Gustav_Target_FOR_SpiderQueen_HatchEggs_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:57
 msgctxt "h75d48227g7b85g4db4gb96bgb050e9dae918"
 msgid ""
 "The spider matriarch calls on her brood, causing her nearby eggs to hatch."
-msgstr ""
+msgstr "거미 여왕이 자신의 군락을 불러, 주변의 알들이 부화하고 있습니다."
 
 #. key = Gustav_Target_FOR_SpiderQueen_HatchEggs_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:71
 msgctxt "hf56d5a57gc9eag4a6bgb452gf9abda07e67f"
 msgid "Matriarch's Call"
-msgstr ""
+msgstr "거미 여왕의 부름"
 
 #. key = Gustav_Target_GOB_CureWounds_SeluneAmulet_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:113
@@ -7265,12 +7393,14 @@ msgid ""
 "An ally you touch regains hit points, but possibly falls <LSTag Type=\"Status"
 "\" Tooltip=\"SLEEP\">Asleep</LSTag>."
 msgstr ""
+"자신이 접촉하는 아군은 체력을 회복하지만, <LSTag Type=\"Status\" Tooltip=\"SLEEP\">수면</LSTag> "
+"상태에 빠질 수 있습니다."
 
 #. key = Gustav_Target_GOB_CureWounds_SeluneAmulet_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:141
 msgctxt "h3ff6156fg53c5g4993g8a4cg06656bae243d"
 msgid "Selûne's Dream"
-msgstr ""
+msgstr "셀루네의 꿈"
 
 #. key = Gustav_Target_GOB_DrowCommander_Buff_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:22
@@ -7285,7 +7415,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:29
 msgctxt "h19af5bb6g8975g4f4ega971g055a0c476dcf"
 msgid "Soul Branding"
-msgstr ""
+msgstr "영혼 낙인"
 
 #. key = Gustav_Target_GOB_DrowCommander_Buff_ExtraDescription
 #: Gustav/Public/Gustav/Localization/Target_ExtraDescription.lsx:22
@@ -7403,7 +7533,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:78
 msgctxt "h037c2c47ge13fg43d9g9a2ag2b6e23e11898"
 msgid "Boon of Servitude"
-msgstr ""
+msgstr "예속의 은혜"
 
 #. key = Gustav_Target_HAG_MaskOfTerror_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:78
@@ -7470,7 +7600,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:183
 msgctxt "hd5fbd06fgc8d3g43e7ga8efgbfd66773daad"
 msgid "Tyrant Tongue"
-msgstr ""
+msgstr "폭군의 혀"
 
 #. key = Gustav_Target_UND_MyconidAmulet_Good_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:155
@@ -7499,7 +7629,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:162
 msgctxt "h6a487477g2150g46edg9c89g2245d15777b3"
 msgid "Bliss Spores"
-msgstr ""
+msgstr "환희의 포자"
 
 #. key = Gustav_Target_UND_Myconid_UseBarrelStalk_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:99
@@ -18124,7 +18254,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:134
 msgctxt "h43888573g5bc5g4235g8f21g81194913bcc4"
 msgid "Short Rest"
-msgstr ""
+msgstr "짧은 휴식"
 
 #. key = Shared_ModalTutorials_New_Stat_18_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:134
@@ -27866,7 +27996,7 @@ msgstr "인간"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:8
 msgctxt "h5bf4968ag4d6ag46c9g8a3egc58025834681"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_10_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:127
@@ -27908,7 +28038,7 @@ msgstr "기스양키"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:190
 msgctxt "hba994478g862fg4b07g8e36ge70da3403004"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_12_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:155
@@ -27928,7 +28058,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:197
 msgctxt "h36828e08gf2ebg430agaab3g1bdfa2c3901d"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_13_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:183
@@ -28085,7 +28215,7 @@ msgstr "엘프"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:15
 msgctxt "hf0e6dafdg9b8eg4500ga8b7g92a249870b74"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_20_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:169
@@ -28105,7 +28235,7 @@ msgstr "놀"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:218
 msgctxt "h52fda02age532g4281gbd2fg237fd3c551d0"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_21_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:232
@@ -28205,7 +28335,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:64
 msgctxt "h9191d6d0gfd49g4a89g90b6g32024298a88c"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_26_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:113
@@ -28225,7 +28355,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:148
 msgctxt "h24cff450ge876g4705gbd70g2d88ab460bea"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_27_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:260
@@ -28265,7 +28395,7 @@ msgstr "우드 엘프"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:29
 msgctxt "h7892694cg6623g4e91gb4c8gceee9b159a98"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_29_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:141
@@ -28285,7 +28415,7 @@ msgstr "메피스토펠레스 티플링"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:176
 msgctxt "h5cd37314ge0acg4a5cg9c10gae8e9fb7a339"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_2_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:43
@@ -28306,7 +28436,7 @@ msgstr "드로우"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:36
 msgctxt "h103f5388gc7d6g4bafgab72gb9776b33c6e4"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_30_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:267
@@ -28369,7 +28499,7 @@ msgstr "하이 엘프"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:22
 msgctxt "h21d2a510gde97g4094ga8bdg0382b2559b5a"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_33_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:120
@@ -28390,7 +28520,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:155
 msgctxt "h93a084b3g2608g462cg8a79geb5adbe3603a"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_34_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:134
@@ -28412,7 +28542,7 @@ msgstr "아스모데우스 티플링"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:169
 msgctxt "ha4f06f17gab8fg4632g9343g7558f62c8d9c"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_35_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:8
@@ -28426,7 +28556,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayName.lsx:8
 msgctxt "h2e43ea54ga31bg467bg8364g327659ea1986"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_36_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:176
@@ -28447,7 +28577,7 @@ msgstr "늑대인간"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:225
 msgctxt "hba8f8b2bg9402g45a7gba10g0fac9b9a5cd1"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_37_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:162
@@ -28465,7 +28595,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:204
 msgctxt "haf9d66deg6514g4c48g963eg8b922992b02d"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_38_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:64
@@ -28486,7 +28616,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:71
 msgctxt "h56de40a5g3b35g4b7bg8c9agff05daa3085d"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_39_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:281
@@ -28526,7 +28656,7 @@ msgstr "드워프"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:57
 msgctxt "hdc8affd6gda07g4da5g9caeg0afde76fb3d3"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_40_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:288
@@ -28605,7 +28735,7 @@ msgstr "버그베어"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:211
 msgctxt "h4bf2116bgac4ag4a0ag8b19g7ab5c87d86c9"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_44_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:316
@@ -28749,7 +28879,7 @@ msgstr "듀에르가"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:78
 msgctxt "h55b2fe7eg0a4bg4748ga88bg13d6dd2360dc"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_50_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:358
@@ -28769,7 +28899,7 @@ msgstr "자리엘 티플링"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:183
 msgctxt "h96ce4839ga179g4e8cg934eg5a05d096431a"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_51_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:365
@@ -28809,7 +28939,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:232
 msgctxt "hdb4719cdg0dd9g40a7ga68fga462426c473d"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_53_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:372
@@ -28829,7 +28959,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:92
 msgctxt "h9a3317a1g6557g4985g800ag4878890d2eff"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_54_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:379
@@ -28850,7 +28980,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:99
 msgctxt "hce12a8ddg81a1g4a3cg95b0g4bdf22379277"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_55_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:386
@@ -28872,7 +29002,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:43
 msgctxt "hdfce2159g6ca3g428dgbac6g5f60b1f1d336"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_56_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:393
@@ -28892,7 +29022,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:50
 msgctxt "hb58d7ec6g1685g4650gae86g585c8acfb19c"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_58_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:400
@@ -28952,7 +29082,7 @@ msgstr "하프 엘프"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:85
 msgctxt "hd175aae2g3f9bg4f83g86ecg047ab0d9ee17"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_60_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:456
@@ -29046,7 +29176,7 @@ msgstr "하이 엘프"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:491
 msgctxt "h6338a413gf403g49f2g9165gd79a4e4a58b8"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_65_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:414
@@ -29159,7 +29289,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:106
 msgctxt "h693a08f8g7528g40c1g822fg7b9de0ed23c3"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_70_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:491
@@ -29180,7 +29310,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:134
 msgctxt "hd9dc440ag601ag4f1fgba09g95681d056fc2"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_71_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:498
@@ -29200,7 +29330,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:120
 msgctxt "hd8fcfc55g2478g411agbc33g16962dfd2648"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_72_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:505
@@ -29383,7 +29513,7 @@ msgstr "노움"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:113
 msgctxt "he8920a7dg77b2g4ea5gba38g7d3b6b927755"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_8_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:99
@@ -29403,7 +29533,7 @@ msgstr "딥 노움"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:127
 msgctxt "h7d58642eg5816g421bg912dg5f611f9d9622"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = Shared_Races_New_Stat_9_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:106
@@ -29423,7 +29553,7 @@ msgstr "하플링"
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:141
 msgctxt "hb5e7d179g4953g41aeg85deg16830004a520"
 msgid "Humanoid"
-msgstr ""
+msgstr "인간형"
 
 #. key = ReadyCheck_EbonLake
 #: Shared/Public/Shared/Localization/ReadyChecks_Descriptions.lsx:64
@@ -32365,7 +32495,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:330
 msgctxt "h61169861gae88g4aadgb0degc3c1cc0e0885"
 msgid "Blinded"
-msgstr ""
+msgstr "실명"
 
 #. key = Shared_Status_BOOST_BLINDNESS_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:337
@@ -33016,7 +33146,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2815
 msgctxt "hb09abe6dg84e3g4b5eg8667gfa17587f27bc"
 msgid "Dazed"
-msgstr ""
+msgstr "멍해짐"
 
 #. key = Shared_Status_BOOST_DEBRIS_THRESHOLD_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1863
@@ -37889,7 +38019,7 @@ msgstr "이동할 수 없고 행동, 추가 행동, 반응 행동을 취할 수 
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:43
 msgctxt "h9bb4ea57g5174g47d4g942ag4baa6e2a4c0c"
 msgid "Stunned"
-msgstr ""
+msgstr "기절"
 
 #. key = Shared_Status_INCAPACITATED_SURRENDERED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:15
@@ -37901,7 +38031,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:15
 msgctxt "hb7a59f84gc40ag49d1gbe3ag35c51685ee13"
 msgid "Surrendered"
-msgstr ""
+msgstr "항복함"
 
 #. key = Shared_Status_INVISIBLE_INVISIBILITY_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INVISIBLE_Description.lsx:15
@@ -38774,7 +38904,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1149
 msgctxt "he178b3c5gf349g4a29gbd9cg862ce1549bef"
 msgid "Bloodfest"
-msgstr ""
+msgstr "피 탐식"
 
 #. key = Shared_Target_BloodLust_RedCap_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1149
