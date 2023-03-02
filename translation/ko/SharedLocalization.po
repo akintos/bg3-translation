@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-01 12:52+0000\n"
+"PO-Revision-Date: 2023-03-02 15:52+0000\n"
 "Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -4314,8 +4314,8 @@ msgid ""
 "Recite your Oath to regain 1 <LSTag Type=\"ActionResource\" Tooltip="
 "\"ChannelOath\">Channel Oath Charge</LSTag>."
 msgstr ""
-"맹세를 외워 <LSTag Type=\"ActionResource\" Tooltip=\"ChannelOath\">맹세 선언 횟수</"
-"LSTag>를 1 회 재충전합니다."
+"맹세를 외워 <LSTag Type=\"ActionResource\" Tooltip=\"ChannelOath\">맹세 선언 충전</"
+"LSTag>을 1 회 재충전합니다."
 
 #. key = Gustav_Shout_MAG_Restore_ChannelDivinity_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Shout_DisplayName.lsx:197
@@ -7410,6 +7410,8 @@ msgid ""
 "\"MovementSpeed\">Movement Speed</LSTag> increases by [1] and its next "
 "attack deals an additional [2]."
 msgstr ""
+"크리쳐에게 절대자의 화염을 불어넣습니다. 대상의 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 "
+"[1] 만큼 증가하며 다음 공격은 [2] 를 추가로 가합니다."
 
 #. key = Gustav_Target_GOB_DrowCommander_Buff_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:29
@@ -7421,7 +7423,7 @@ msgstr "영혼 낙인"
 #: Gustav/Public/Gustav/Localization/Target_ExtraDescription.lsx:22
 msgctxt "hb120f476g3e84g4f4egb274g90f5fa9faa1a"
 msgid "This condition ends upon landing a successful attack."
-msgstr ""
+msgstr "공격을 적중하고 나면 이 상태가 만료됩니다."
 
 #. key = Gustav_Target_GOB_GoblinKing_ForceAttack_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:36
@@ -7429,31 +7431,31 @@ msgctxt "h6ee94622gc529g4f32g9172g499ea23d4b06"
 msgid ""
 "A surge of divine energy accompanies your swing and possibly pushes the "
 "target back [1]."
-msgstr ""
+msgstr "휘두르는 힘에 신성한 에너지가 솟구쳐 대상을 [1] 만큼 뒤로 밀어냅니다."
 
 #. key = Gustav_Target_GOB_GoblinKing_ForceAttack_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:43
 msgctxt "haa999686g6e2ag484bg9fb3g17eef400bd5a"
 msgid "Absolute Power"
-msgstr ""
+msgstr "절대적인 힘"
 
 #. key = Gustav_Target_GOB_PainPriest_WeaponAttack_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:64
 msgctxt "hb2ee3d9ega9b3g4c90g9f89g429a2cfedadd"
 msgid "Agony's Caress"
-msgstr ""
+msgstr "고통의 포옹"
 
 #. key = Gustav_Target_GOB_Priestess_AbsolutesWord_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:162
 msgctxt "h11a5a2d3ge17ag4b44gb50egb08ef740bd72"
 msgid "The Absolute shields her faithful and curses her enemies!"
-msgstr ""
+msgstr "절대자가 그녀의 신봉자를 보호하고 적들에게는 저주를 내립니다!"
 
 #. key = Gustav_Target_GOB_Priestess_AbsolutesWord_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:197
 msgctxt "h12220f5cg438eg45f1g9c52g29cab64a48e6"
 msgid "The Word of the Absolute"
-msgstr ""
+msgstr "절대자의 진언"
 
 #. key = Gustav_Target_GOB_Priestess_AbsolutesWord_ExtraDescription
 #: Gustav/Public/Gustav/Localization/Target_ExtraDescription.lsx:8
@@ -7464,48 +7466,51 @@ msgid ""
 "\">Attack Rolls</LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throws</LSTag>."
 msgstr ""
+"낙인이 찍힌 대상은 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +2 보너스를 받습니다. 불신자들은 "
+"<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 <LSTag Tooltip=\"SavingThrow\""
+">내성 굴림</LSTag>에 -1d4 페널티를 받습니다."
 
 #. key = Gustav_Target_GOB_Priestess_Telekinesis_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:29
 msgctxt "hc40ef94ag3331g41c3gbc37gcea8bad47b4e"
 msgid "Use telekinesis to pull targets closer."
-msgstr ""
+msgstr "염동력을 사용해 목표물들을 가까이 당겨옵니다."
 
 #. key = Gustav_Target_GOB_Priestess_Telekinesis_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:36
 msgctxt "hba6ef465gea4dg4bbfga868g8cbb0a20f719"
 msgid "The Absolute's Hand"
-msgstr ""
+msgstr "절대자의 손"
 
 #. key = Gustav_Target_GOB_Priestess_Telekinesis_Pull_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:106
 msgctxt "hc175ca5ag9a03g4d83gbbc9g8d5bf48dcad3"
 msgid "Use telekinesis to pull targets closer."
-msgstr ""
+msgstr "염동력을 사용해 목표물들을 가까이 당겨옵니다."
 
 #. key = Gustav_Target_GOB_Priestess_Telekinesis_Pull_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:127
 msgctxt "he888b29dg2454g4a82g9858ge56d98dfb664"
 msgid "The Absolute's Hand"
-msgstr ""
+msgstr "절대자의 손"
 
 #. key = Gustav_Target_HAG_ClearIllusion_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:8
 msgctxt "h6de4cb43gb8e8g4f27g8080gd4e98f215169"
 msgid "Break Illusion"
-msgstr ""
+msgstr "환영 해제"
 
 #. key = Gustav_Target_HAG_Hagspawn_SummonHusband_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:8
 msgctxt "he9887639ga4fag4729g830fgdfc8abedfc9c"
 msgid "Summon the remains of Mayrina's husband."
-msgstr ""
+msgstr "메이리나의 남편이었던 흉물을 소환합니다."
 
 #. key = Gustav_Target_HAG_Hagspawn_SummonHusband_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:15
 msgctxt "h00a8ac56g2b5cg435ag8527g069c4813dcf6"
 msgid "Second Marriage"
-msgstr ""
+msgstr "재혼"
 
 #. key = Gustav_Target_HAG_MaskOfRegret_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:71
@@ -7514,12 +7519,14 @@ msgid ""
 "Curse a creature with regret. It takes [1] every turn, and becomes <LSTag "
 "Tooltip=\"Vulnerable\">Vulnerable</LSTag> to Psychic damage."
 msgstr ""
+"크리쳐가 후회로 고통받도록 저주를 내립니다. 대상은 매 턴 [1] 를 입으며, 정신 피해에 <LSTag Tooltip="
+"\"Vulnerable\">취약</LSTag>해집니다."
 
 #. key = Gustav_Target_HAG_MaskOfRegret_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:99
 msgctxt "h125c10e8gcf22g46fagb8f7gb8be870e11f4"
 msgid "Curse of Regret"
-msgstr ""
+msgstr "후회의 저주"
 
 #. key = Gustav_Target_HAG_MaskOfServitude_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:64
@@ -7528,6 +7535,8 @@ msgid ""
 "Bask in Ethel's boons. You regain [1] each turn, and your <LSTag Tooltip="
 "\"ArmourClass\">Armour Class</LSTag> increases by 2."
 msgstr ""
+"에텔의 은혜를 입습니다. 매 턴 [1] 을 회복하며, <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 2 "
+"만큼 증가합니다."
 
 #. key = Gustav_Target_HAG_MaskOfServitude_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:78
@@ -7542,24 +7551,26 @@ msgid ""
 "Strike terror into a creature's heart and <LSTag Type=\"Status\" Tooltip="
 "\"FRIGHTENED\">Frighten</LSTag> it."
 msgstr ""
+"크리쳐의 심장에 절망을 심어 <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\">공포</LSTag> 상태로 "
+"만듭니다."
 
 #. key = Gustav_Target_HAG_MaskOfTerror_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:92
 msgctxt "h9fc8e7d5gdb69g4324gbf8fgb648a6b7066c"
 msgid "Curse of Terror"
-msgstr ""
+msgstr "공포의 저주"
 
 #. key = Gustav_Target_HAG_MaskOfVengeance_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:85
 msgctxt "he80cb46ag72abg490cga94dg954b02d56888"
 msgid "Lace your attack with all the vengeance hidden within you."
-msgstr ""
+msgstr "내면의 복수심을 엮어 일격을 가합니다."
 
 #. key = Gustav_Target_HAG_MaskOfVengeance_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:85
 msgctxt "h2acfbc1eg90f9g4afaga8ccg5e21a8b131e2"
 msgid "Vengeful Strike"
-msgstr ""
+msgstr "복수의 일격"
 
 #. key = Gustav_Target_HAG_ProtectionFromEvilAndGood_Amulet_ExtraDescription
 #: Gustav/Public/Gustav/Localization/Target_ExtraDescription.lsx:15
@@ -7569,24 +7580,26 @@ msgid ""
 "these creatures attack it, they do so with <LSTag Tooltip=\"Disadvantage\""
 ">Disadvantage</LSTag>."
 msgstr ""
+"대상은 해당 종류의 적에게 매혹, 공포나 홀림 상태를 부여받지 않으며, 해당 크리쳐들이 공격할 때, <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 갖습니다."
 
 #. key = Gustav_Target_HAG_SinisterStrike_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:106
 msgctxt "h9f330113g89d2g4ba4g930egdec5f7c0fbcc"
 msgid "Sinister Strike"
-msgstr ""
+msgstr "사악한 일격"
 
 #. key = Gustav_Target_PLA_ShieldOfFaith_SwordOfJustice_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:134
 msgctxt "hd7783e45g875bg4fdcg8f8dg23da9241b8fa"
 msgid "Tyr's Protection"
-msgstr ""
+msgstr "티르의 보호"
 
 #. key = Gustav_Target_PLA_ShieldOfFaith_SwordOfJustice_ExtraDescription
 #: Gustav/Public/Gustav/Localization/Target_ExtraDescription.lsx:36
 msgctxt "h41ca1011gcb80g4bd8g8986gb5c13fe963ad"
 msgid "Spell ends when the Sword of Justice is unequipped."
-msgstr ""
+msgstr "정의의 검을 장착 해제하면 주문이 만료됩니다."
 
 #. key = Gustav_Target_UND_MyconidAmulet_Evil_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:148
@@ -7594,7 +7607,7 @@ msgctxt "hd3d74bb4g16e4g4318ga7c8g17ae023ceae5"
 msgid ""
 "Grant an ally a +2 bonus on Intimidation <LSTag Tooltip=\"AbilityCheck\""
 ">Checks</LSTag>."
-msgstr ""
+msgstr "아군 하나의 위협 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 +2 보너스를 부여합니다."
 
 #. key = Gustav_Target_UND_MyconidAmulet_Evil_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:183
@@ -7608,13 +7621,13 @@ msgctxt "haf36c03ag272ag4e9agaa71g148fcc1b04c6"
 msgid ""
 "Grant an ally a +2 bonus on Persuasion <LSTag Tooltip=\"AbilityCheck\""
 ">Checks</LSTag>."
-msgstr ""
+msgstr "아군 하나의 설득 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 +2 보너스를 부여합니다."
 
 #. key = Gustav_Target_UND_MyconidAmulet_Good_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:190
 msgctxt "h5a0b372cgbe53g4fb9gaa45gf83584d379f4"
 msgid "Voice of the Circle"
-msgstr ""
+msgstr "서클의 목소리"
 
 #. key = Gustav_Target_UND_MyconidSovereign_BlissSpores_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:134
@@ -7624,6 +7637,9 @@ msgid ""
 "LSTag>, <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag>, and <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"아군 하나의 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip="
+"\"AbilityCheck\">능력치 판정</LSTag>, 그리고 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
+"LSTag>에 +[1] 보너스를 부여합니다."
 
 #. key = Gustav_Target_UND_MyconidSovereign_BlissSpores_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:162
@@ -7635,7 +7651,7 @@ msgstr "환희의 포자"
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:99
 msgctxt "h70291d82g9767g4326g84a9gbd2859bc44f9"
 msgid "Open a barrelstalk to release noxious fumes that deal [1] per turn."
-msgstr ""
+msgstr "통줄기를 열어 부식성 연기를 발산해 매 턴 [1] 를 입힙니다."
 
 #. key = Gustav_Target_UND_Myconid_UseBarrelStalk_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:120
@@ -7649,13 +7665,13 @@ msgctxt "hf96b90b4g2c0fg44e4g8b7dgbe6ccf15cb86"
 msgid ""
 "Invade an enemy's mind and force them to join your side. They also take [1] "
 "immediately, and [2] per turn."
-msgstr ""
+msgstr "적의 정신에 침투에 당신의 편에서 싸우도록 강제합니다. 또한 대상은 즉시 [1] 를 입으며, 매 턴 [2] 를 입습니다."
 
 #. key = Gustav_Target_UND_Nere_Coercion_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:176
 msgctxt "h7d602f64g92f5g42aeg9083g61f23cc866b9"
 msgid "Wicked Coercion"
-msgstr ""
+msgstr "부정한 강압"
 
 #. key = Gustav_Target_UND_Spectator_UnpetrifyingRay_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:92
@@ -7664,12 +7680,14 @@ msgid ""
 "Turn a <LSTag Type=\"Status\" Tooltip=\"PETRIFIED\">Petrified</LSTag> "
 "creature back to its organic form."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"PETRIFIED\">석화</LSTag>된 크리쳐를 유기체 형태로 "
+"되돌려놓습니다."
 
 #. key = Gustav_Target_UND_Spectator_UnpetrifyingRay_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:113
 msgctxt "h52c55ea9gd2a2g4630g8d7agbe4cf1381855"
 msgid "Unpetrification Ray"
-msgstr ""
+msgstr "석화 해제 광선"
 
 #. key = Gustav_Target_VampireBite_Astarion_Description
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:43
@@ -7680,12 +7698,16 @@ msgid ""
 "LSTag> or you are <LSTag Type=\"Status\" Tooltip=\"SNEAKING\">Hiding</"
 "LSTag>. "
 msgstr ""
+"살아있는 크리쳐의 피를 흡수해 체력을 회복합니다. 대상이 <LSTag Type=\"Status\" Tooltip=\"SLEEPING\""
+">수면</LSTag> 중이거나 당신이 <LSTag Type=\"Status\" Tooltip=\"SNEAKING\">숨은</LSTag> "
+"상태가 아니라면, 대상은 [1] 를 입습니다. "
 
 #. key = Gustav_Target_VampireBite_Astarion_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:50
+#, fuzzy
 msgctxt "ha0c0a87dg784eg42b5gb7e3g7d95db807872"
 msgid "Vampire Bite"
-msgstr ""
+msgstr "뱀파이어 깨물기"
 
 #. key = Gustav_Target_VampireBite_Astarion_ExtraDescription
 #: Gustav/Public/Gustav/Localization/Target_ExtraDescription.lsx:29
@@ -7696,6 +7718,9 @@ msgid ""
 "\" Tooltip=\"ASTARION_WEAK\">Bloodless</LSTag>.<br><br>Biting a creature "
 "does not break stealth."
 msgstr ""
+"대상이 인간형이라면, 당신은 <LSTag Type=\"Status\" Tooltip=\"ASTARION_HAPPY\">행복함</"
+"LSTag> 효과를, 대상은 <LSTag Type=\"Status\" Tooltip=\"ASTARION_WEAK\">빈혈</LSTag> "
+"효과를 얻습니다.<br><br>크리쳐를 깨물어도 은신은 해제되지 않습니다."
 
 #. key = Gustav_Voices_New_Stat_0_DisplayName
 #: Gustav/Public/Gustav/Localization/Voices_DisplayName.lsx:8
@@ -7707,31 +7732,31 @@ msgstr "음성 2"
 #: Gustav/Public/Gustav/Localization/Voices_DisplayName.lsx:36
 msgctxt "h7d3cd70agb2c0g4379g97beg014892991d7f"
 msgid "Voice of Gale"
-msgstr ""
+msgstr "게일의 음성"
 
 #. key = Gustav_Voices_New_Stat_11_DisplayName
 #: Gustav/Public/Gustav/Localization/Voices_DisplayName.lsx:43
 msgctxt "hb4f7ed9egfae5g455fga53cg4838b6656567"
 msgid "Voice of Shadowheart"
-msgstr "섀도하트의 목소리"
+msgstr "섀도하트의 음성"
 
 #. key = Gustav_Voices_New_Stat_12_DisplayName
 #: Gustav/Public/Gustav/Localization/Voices_DisplayName.lsx:50
 msgctxt "h08e069a5g515cg469fga7adgae8977580f58"
 msgid "Voice of Wyll"
-msgstr ""
+msgstr "윌의 음성"
 
 #. key = Gustav_Voices_New_Stat_1_DisplayName
 #: Gustav/Public/Gustav/Localization/Voices_DisplayName.lsx:15
 msgctxt "h6b109ab7g3544g49c4g87c1gdd17527eef6e"
 msgid "Voice 1"
-msgstr ""
+msgstr "음성 1"
 
 #. key = Gustav_Voices_New_Stat_8_DisplayName
 #: Gustav/Public/Gustav/Localization/Voices_DisplayName.lsx:22
 msgctxt "h6527bf7bg2cfcg4b2egb69dg8da052bb4527"
 msgid "Voice of Astarion"
-msgstr ""
+msgstr "아스타리온의 음성"
 
 #. key = Gustav_Voices_New_Stat_9_DisplayName
 #: Gustav/Public/Gustav/Localization/Voices_DisplayName.lsx:29
@@ -7745,19 +7770,19 @@ msgctxt "hbe1683d3g7b84g4b86gb703g29f0a5797a98"
 msgid ""
 "The smoke in the room ignites, causing an explosion that pushes away "
 "creatures and objects."
-msgstr ""
+msgstr "방 안의 연기에 불이 붙어, 폭발이 일어나 크리쳐와 물체들을 밀어냅니다."
 
 #. key = Gustav_Zone_PLA_StuckHalfElf_Backdraft_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Zone_DisplayName.lsx:15
 msgctxt "h1b76c674gcf23g4319g9f74gbbcf810c6785"
 msgid "Backdraft"
-msgstr ""
+msgstr "역기류"
 
 #. key = Gustav_Zone_PLA_StuckHalfElf_Backdraft_ExtraDescription
 #: Gustav/Public/Gustav/Localization/Zone_ExtraDescription.lsx:8
 msgctxt "ha52bcb96g0431g4a63gbe15g85d81a07558d"
 msgid "On a successful save, creatures only take half the Fire damage."
-msgstr ""
+msgstr "내성 굴림에 성공하면, 크리쳐는 절반의 화염 피해만 입습니다."
 
 #. key = Gustav_Zone_UNI_SuperheavyWeapon_Spell_Description
 #: Gustav/Public/Gustav/Localization/Stats/Zone_Description.lsx:22
@@ -7767,18 +7792,20 @@ msgid ""
 "become <LSTag Type=\"Status\" Tooltip=\"GOB_LOSTBALANCE\">Off "
 "Balanced</LSTag>."
 msgstr ""
+"온 힘을 다해 무기를 휘두릅니다. 여러 대상을 공격할 수 있지만, 공격 후 <LSTag Type=\"Status\" Tooltip="
+"\"GOB_LOSTBALANCE\">불균형</LSTag> 효과가 적용됩니다."
 
 #. key = Gustav_Zone_UNI_SuperheavyWeapon_Spell_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Zone_DisplayName.lsx:22
 msgctxt "h859fb575gfd33g499bg9ad5g707019a61d9e"
 msgid "Gargantuan Cleave"
-msgstr ""
+msgstr "거인의 회전베기"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_0_Error
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Error.lsx:8
 msgctxt "hea9d4496g788ag4a57gb9degb995324381b7"
 msgid "Out of Actions"
-msgstr ""
+msgstr "행동이 부족함"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_10_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:78
@@ -7788,12 +7815,14 @@ msgid ""
 "spent to augment spells or access higher level <LSTag Tooltip=\"SpellSlot\""
 ">spell slots</LSTag>."
 msgstr ""
+"소서리 포인트는 소서러의 힘에 있어서 중요한 요소입니다. 포인트를 소모해 주문을 증대시키거나, 더 높은 레벨의 <LSTag Tooltip="
+"\"SpellSlot\">주문 슬</LSTag>을 이용할 수 있습니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_10_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:78
 msgctxt "hb4557cd6g4b5bg494fgbaeag88df26416060"
 msgid "Sorcery Point(s)"
-msgstr ""
+msgstr "소서리 포인트"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_11_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:85
@@ -7802,30 +7831,31 @@ msgid ""
 "Inspiration Points can be spent to reroll <LSTag Tooltip=\"AbilityCheck\""
 ">Ability Checks</LSTag>."
 msgstr ""
+"영감 점수를 사용해 <LSTag Tooltip=\"AbilityCheck\">능력치 검사</LSTag> 결과를 다시 굴릴 수 있습니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_11_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:85
 msgctxt "h4bb11720g5d2ag400cg8bcbga7de3c2d0e3b"
 msgid "Inspiration Point"
-msgstr ""
+msgstr "영감 점수"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_12_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:99
 msgctxt "h75c91d5ag36c4g487agaf22g825e264b97e7"
 msgid "Used to cast Beholder Rays."
-msgstr ""
+msgstr "비홀더 광선을 시전하기 위해 사용됩니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_12_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:99
 msgctxt "hc46a8ab4gc97eg44e5gafaegf8b2f2340069"
 msgid "Eyestalk Action"
-msgstr ""
+msgstr "눈자루 행동"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_13_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:92
 msgctxt "h66f463f4gb6e6g4a39gba08g89d375d3c976"
 msgid "Used to cast Warlock spells."
-msgstr ""
+msgstr "워락 주문을 시전하기 위해 사용됩니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_13_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:92
@@ -7839,13 +7869,13 @@ msgctxt "h61f81fefg8405g4ac1g8bcbgb60766ec1d8a"
 msgid ""
 "Hit points represent how much damage you can take before you are <LSTag "
 "Tooltip=\"Downed\">Downed</LSTag>."
-msgstr ""
+msgstr "체력은 <LSTag Tooltip=\"Downed\">쓰러지기</LSTag> 전까지 받을 수 있는 피해를 나타냅니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_14_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:106
 msgctxt "hf9c0c9cbg6271g4959gb9d0g141ad19b1d6a"
 msgid "Hit Dice"
-msgstr ""
+msgstr "체력 주사위"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_15_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:113
@@ -7854,12 +7884,13 @@ msgid ""
 "Used for the AI to attack a second time, or do various moves throughout the "
 "game. Unavailable to the player."
 msgstr ""
+"AI 가 두 번째로 공격하기 위해 사용하거나, 게임에 걸쳐 다양한 역활을 수행하기 위해 사용합니다. 플레이어는 이용할 수 없습니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_15_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:113
 msgctxt "h87712f0eg2dbbg4211g82fbg2f4dbb1f6450"
 msgid "Additional Action"
-msgstr ""
+msgstr "부가 행동"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_16_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:120
@@ -7871,6 +7902,10 @@ msgid ""
 "You can regain Short Rests by taking a <LSTag Tooltip=\"LongRest\">Long "
 "Rest</LSTag> and using <LSTag Tooltip=\"CampSupplies\">camp supplies</LSTag>."
 msgstr ""
+"짧은 휴식을 취하면 <LSTag Tooltip=\"HitPoints\">체력</LSTag>을 일부분 복원합니다.\n"
+"\n"
+"<LSTag Tooltip=\"CampSupplies\">야영 물자</LSTag>을 소모해 <LSTag Tooltip=\"LongRest"
+"\">긴 휴식</LSTag>을 취하는 것으로 짧은 휴식을 복구할 수 있습니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_16_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:120
@@ -7885,12 +7920,14 @@ msgid ""
 "The number and level of <LSTag Tooltip=\"SpellSlot\">spell slots</LSTag> the "
 "Arcane Recovery action can restore."
 msgstr ""
+"비전 복원 행동을 사용해 복구할 수 있는 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>의 개수와 레벨을 "
+"나타냅니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_17_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:127
 msgctxt "h675a67b7g1cc1g4b9ag9536gf42e0b6a4a17"
 msgid "Arcane Recovery Charge"
-msgstr ""
+msgstr "비전 복원 횟수"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_18_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:141
@@ -7899,12 +7936,13 @@ msgid ""
 "The number and level of <LSTag Tooltip=\"SpellSlot\">spell slots</LSTag> the "
 "Natural Recovery feature can restore."
 msgstr ""
+"자연 복원 요소로 복구할 수 있는 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>의 개수와 레벨을 나타냅니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_18_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:141
 msgctxt "hffaccf0ag0569g4b24gb7bfg470a9169ad4c"
 msgid "Natural Recovery Charge"
-msgstr ""
+msgstr "자연 복원 횟수"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_19_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:134
@@ -7932,30 +7970,32 @@ msgid ""
 "\"SpellSlot\">spell slot</LSTag>. They can only be used outside of Turn-"
 "Based Mode and combat."
 msgstr ""
+"의식 점수를 사용해 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소모하지 않고 특정 주문들을 시전할 수 "
+"있습니다. 턴 기반 모드와 전투 중에는 사용할 수 없습니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_20_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:148
 msgctxt "h3cc5d2a8g781eg4ccbg8793gf48599e0086d"
 msgid "Ritual Points"
-msgstr ""
+msgstr "의식 점수"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_22_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:162
 msgctxt "h054d7417g8e5dg4e3ag83fdga6d9e2de4bab"
 msgid "Whether or not you can use your Tides of Chaos."
-msgstr ""
+msgstr "혼돈의 파도를 사용할 수 있는지 여부입니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_22_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:162
 msgctxt "h907d7df1gad07g417agaa01gee71c256fa1c"
 msgid "Tides of Chaos Charge"
-msgstr ""
+msgstr "혼돈의 파도 충전"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_23_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:169
 msgctxt "h3b200ec7g3cccg4310gb14cg73cf184d4a66"
 msgid "Used to cast Lay on Hands."
-msgstr ""
+msgstr "안수 치료를 시전하기 위해 사용됩니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_23_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:169
@@ -7969,13 +8009,13 @@ msgctxt "he6aacd07g6f67g4579ga565g05ee25f8199f"
 msgid ""
 "The number of times you can draw upon the strength of your Oath to power "
 "your actions."
-msgstr ""
+msgstr "맹세의 힘을 끌어내 행동을 강화할 수 있는 횟수입니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_24_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:176
 msgctxt "hf8f63addg6eeeg48e3g9b7fg902ebcca694d"
 msgid "Channel Oath Charge"
-msgstr ""
+msgstr "맹세 선언 충전"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_2_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:22
@@ -7985,18 +8025,20 @@ msgid ""
 "LSTag>, occur in response to another creature's <LSTag Tooltip=\"Action\""
 ">action</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"OpportunityAttack\">기회 공격</LSTag>과 같은 반응 행동은, 다른 크리쳐의 "
+"<LSTag Tooltip=\"Action\">행동</LSTag>에 대응해 발생합니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_2_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:22
 msgctxt "h43f4dbfeg0d62g49eegbecagad62630e032d"
 msgid "Reaction"
-msgstr ""
+msgstr "반응 행동"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_3_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:29
 msgctxt "hc76c8721g97e6g4d63gb106g1ab1dba11266"
 msgid "Movement Speed determines how far you can move per turn."
-msgstr ""
+msgstr "이동 속도는 한 턴에 이동할 수 있는 거리를 나타냅니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_3_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:29
@@ -8020,13 +8062,13 @@ msgstr "주문 슬롯"
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:43
 msgctxt "h7c96e7d6gdce7g41bagaaf0g832519ac3a5f"
 msgid "The number of times you can enter a Rage."
-msgstr ""
+msgstr "격노 상태에 돌입할 수 있는 횟수를 나타냅니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_5_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:43
 msgctxt "h9ab8a586ge792g408bg9402g233b81003b14"
 msgid "Rage Charge"
-msgstr ""
+msgstr "격노 충전"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_6_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:50
@@ -8034,25 +8076,25 @@ msgctxt "he1b259deg721cg4656g9c2fged20baed2a48"
 msgid ""
 "Through stirring words and music, bards can inspire allies or augment their "
 "own attacks."
-msgstr ""
+msgstr "바드는 고무시키는 시와 음악으로 아군에게 고양감을 불어넣거나 자신의 공격을 강화할 수 있습니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_6_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:50
 msgctxt "hbf9b8ebeg34e7g46f4gbb65gaa18b1a0f4ef"
 msgid "Bardic Inspiration"
-msgstr ""
+msgstr "바드의 격려"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_7_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:57
 msgctxt "hdfa5c2e4ge64ag4e66g8c04gd211d1e1762f"
 msgid "The number of times you can channel your divine powers."
-msgstr ""
+msgstr "신성한 힘을 시전할 수 있는 횟수를 나타냅니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_7_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:57
 msgctxt "h2830ddb0g6112g4557gb701gaaa65998837b"
 msgid "Channel Divinity"
-msgstr ""
+msgstr "신성력 전달"
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_8_Description
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_Description.lsx:64
@@ -8072,7 +8114,7 @@ msgstr "우월성 주사위"
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:71
 msgctxt "h3c3818aeg5928g4c31ga564gb0a36e0beaba"
 msgid "Ki Point(s)"
-msgstr ""
+msgstr "기 포인트"
 
 #. key = Shared_Backgrounds_New_Stat_0_Description
 #: Shared/Public/Shared/Localization/Backgrounds_Description.lsx:8
@@ -8082,7 +8124,7 @@ msgid ""
 "to profit from it. Bending the truth and turning allies against each other "
 "will lead to greater success down the road."
 msgstr ""
-"당신은 조작의 전문가이며 늘상 과장하며 이를 통해 이익을 얻는 것을 좋아합니다. 진실을 왜곡하고 아군을 서로 적으로 돌리는 것이 앞으로 "
+"당신은 조작의 전문가이며 늘상 과장하고 이를 통해 이익을 얻는 것을 좋아합니다. 진실을 왜곡하고 아군을 서로 적으로 돌리는 것이 앞으로 "
 "더 큰 성공으로 이어질 것입니다."
 
 #. key = Shared_Backgrounds_New_Stat_0_DisplayName
@@ -8261,43 +8303,43 @@ msgstr "부랑아"
 #: Shared/Public/Shared/Localization/CharacterCreationAccessorySets_DisplayName.lsx:8
 msgctxt "h3fcb824bge4d5g4196gaa92g2b2121042ede"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 #. key = Shared_CharacterCreationAccessorySets_New_Stat_1_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAccessorySets_DisplayName.lsx:15
 msgctxt "hd2255c5eg5d74g4ddag9842gdbb70c738dbe"
 msgid "Bear Piercings"
-msgstr ""
+msgstr "곰 피어싱"
 
 #. key = Shared_CharacterCreationAccessorySets_New_Stat_2_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAccessorySets_DisplayName.lsx:22
 msgctxt "h2f1e11b7gdcd7g4942g84b5g14e19c84b076"
 msgid "Eagle Piercings"
-msgstr ""
+msgstr "독수리 피어싱"
 
 #. key = Shared_CharacterCreationAccessorySets_New_Stat_3_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAccessorySets_DisplayName.lsx:29
 msgctxt "h8d1918aeg70d0g45ecg9b99g4a4df010b46d"
 msgid "Wolf Piercings"
-msgstr ""
+msgstr "늑대 피어싱"
 
 #. key = Shared_CharacterCreationAccessorySets_New_Stat_4_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAccessorySets_DisplayName.lsx:36
 msgctxt "h45f4b7bbg4e12g418eg9859g3d93fd630002"
 msgid "Tiger Piercings"
-msgstr ""
+msgstr "호랑이 피어싱"
 
 #. key = Shared_CharacterCreationAccessorySets_New_Stat_5_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAccessorySets_DisplayName.lsx:43
 msgctxt "h547b477eg07c7g46b8gbe0egfb7692c57152"
 msgid "Elk Piercings"
-msgstr ""
+msgstr "엘크 피어싱"
 
 #. key = Shared_CharacterCreationAccessorySets_New_Stat_6_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAccessorySets_DisplayName.lsx:50
 msgctxt "h1d4221a4g064bg4c29g8919g6123e49378fd"
 msgid "Ortheus Piercings"
-msgstr ""
+msgstr "오르테우스 피어싱"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_0_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:8
@@ -8465,169 +8507,169 @@ msgstr "문신 16"
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:246
 msgctxt "hb57510f4g1909g4e00gbf94g394df93683d0"
 msgid "No Scales"
-msgstr ""
+msgstr "비늘 없음"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_35_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:253
 msgctxt "h40e1e116g8219g4377g89e9g271b3af1ac22"
 msgid "Scales 1"
-msgstr ""
+msgstr "비늘 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_36_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:267
 msgctxt "h045bf682gf2e0g4843g8173g4ab9cc49c06e"
 msgid "Black 1"
-msgstr ""
+msgstr "흑색 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_37_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:274
 msgctxt "h06d47641g3b54g433fg96abg0435c801d4a7"
 msgid "Blue 1"
-msgstr ""
+msgstr "청색 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_38_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:281
 msgctxt "h8c864046g4e2ag4a86g9996g0d2825d9e58b"
 msgid "Brass 1"
-msgstr ""
+msgstr "황동색 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_39_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:288
 msgctxt "h779370beg4bb3g4411g878cga87db0c2cee9"
 msgid "Bronze 1"
-msgstr ""
+msgstr "청동색 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_3_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:29
 msgctxt "hd35e603dg7974g43ffg8606gb4e853834285"
 msgid "Tattoo 4"
-msgstr ""
+msgstr "문신 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_40_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:295
 msgctxt "h5521570eg521bg4472gba82gdccd518d1dc2"
 msgid "Copper 1"
-msgstr ""
+msgstr "구리색 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_41_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:302
 msgctxt "h65e34eaag3934g4c73g89b9g3f4c11e0f3fc"
 msgid "Gold 1"
-msgstr ""
+msgstr "황금색 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_42_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:309
 msgctxt "he04c10ecgd470g4511gb748g8d327df89bb3"
 msgid "Green 1"
-msgstr ""
+msgstr "녹색 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_43_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:316
 msgctxt "h46cc2c46g756bg4681g8d4fgce3f453efb13"
 msgid "Red 1"
-msgstr ""
+msgstr "적색 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_44_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:323
 msgctxt "hffa97e4ag7fc8g41d0g90e6g2ad534c5c0b2"
 msgid "Silver 1"
-msgstr ""
+msgstr "은색 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_45_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:260
 msgctxt "ha38e0cddg01ebg4fe8g9019g679e17d43461"
 msgid "Scales 2"
-msgstr ""
+msgstr "비늘 2"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_46_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:330
 msgctxt "hf1981637g8ef6g4d7cga91fg67cfeba4057a"
 msgid "White 1"
-msgstr ""
+msgstr "백색 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_47_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:337
 msgctxt "hdaef71f6gedafg4186g8bd6g22542e311872"
 msgid "Scales 3"
-msgstr ""
+msgstr "비늘 3"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_48_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:344
 msgctxt "h25dfd414gce49g4dfdg8251g367cd34ab9d2"
 msgid "Black 2"
-msgstr ""
+msgstr "흑색 2"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_49_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:351
 msgctxt "hc74c545bgaa11g4e5egba0bgc71f250ae817"
 msgid "Black 3"
-msgstr ""
+msgstr "흑색 3"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_4_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:36
 msgctxt "h38883ec7g9fe7g4c81g8d04g5b57bb39942a"
 msgid "Makeup 1"
-msgstr ""
+msgstr "화장 1"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_50_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:358
 msgctxt "h116c9d94g77bfg455fgb825ge784911e39be"
 msgid "Blue 2"
-msgstr ""
+msgstr "청색 2"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_51_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:365
 msgctxt "hfa912e53gda47g4f79g9216g440c2c84a00d"
 msgid "Black 4"
-msgstr ""
+msgstr "흑색 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_52_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:372
 msgctxt "hc054971ag49ccg4a7agb2b3g43ae476f368c"
 msgid "Black 5"
-msgstr ""
+msgstr "흑색 5"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_53_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:379
 msgctxt "hc48d0e76gc10bg4bf0g8c42g8a5e7f0d5793"
 msgid "Blue 3"
-msgstr ""
+msgstr "청색 3"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_54_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:386
 msgctxt "h3922986aga523g4d59g8b54g0b1c34aff215"
 msgid "Blue 4"
-msgstr ""
+msgstr "청색 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_55_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:393
 msgctxt "hadbfd634gc22dg47c1g8986g01a8c2ef63f8"
 msgid "Blue 5"
-msgstr ""
+msgstr "청색 5"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_56_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:400
 msgctxt "hc4d2e856g142eg46fag90a1g3dff47ce4c83"
 msgid "Brass 2"
-msgstr ""
+msgstr "황동색 2"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_57_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:407
 msgctxt "hfa6bac71g9be1g4335g8bfcgfd47c4a2eabf"
 msgid "Brass 3"
-msgstr ""
+msgstr "황동색 3"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_58_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:414
 msgctxt "hf95f7329g8695g46c5g8d60g3bfd85389838"
 msgid "Brass 4"
-msgstr ""
+msgstr "황동색 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_59_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:421
 msgctxt "h12e86045g1364g4d32ga2f7g9dcf8b3c94e2"
 msgid "Brass 5"
-msgstr ""
+msgstr "황동색 5"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_5_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:50
@@ -8639,61 +8681,61 @@ msgstr "화장 2"
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:428
 msgctxt "h3dd795a2g7c25g4ba5gbf55g6a657177cefb"
 msgid "Copper 2"
-msgstr ""
+msgstr "구리색 2"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_61_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:435
 msgctxt "h39d3ddf0gc9fdg40ccg8babgb95ee15dc4e4"
 msgid "Bronze 5"
-msgstr ""
+msgstr "청동색 5"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_62_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:442
 msgctxt "h8c4492bcgf4d6g4043g8b7ag5f5eb3f504a0"
 msgid "Bronze 2"
-msgstr ""
+msgstr "청동색 2"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_63_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:449
 msgctxt "h2d1ebfdfg0cc3g4302gb34cga93382424a43"
 msgid "Bronze 3"
-msgstr ""
+msgstr "청동색 3"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_64_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:456
 msgctxt "h90d84714gdd33g4d54g9232gae439da5498c"
 msgid "Bronze 4"
-msgstr ""
+msgstr "청동색 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_65_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:463
 msgctxt "h75298b09ge651g43e6g9989g5b134c9826fe"
 msgid "Copper 5"
-msgstr ""
+msgstr "구리색 5"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_66_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:470
 msgctxt "haf526accg534eg4d13gb11dga5980e22ee18"
 msgid "Copper 4"
-msgstr ""
+msgstr "구리색 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_67_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:477
 msgctxt "h8435b022g9e36g4fdfgb339g6116449fac4e"
 msgid "Copper 3"
-msgstr ""
+msgstr "구리색 3"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_68_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:484
 msgctxt "h2bb2dd31g127cg4f39g86e1gf6d5e6c862c1"
 msgid "Gold 2"
-msgstr ""
+msgstr "황금색 2"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_69_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:491
 msgctxt "h93db7c37gcabdg45bdgb0b7gae5c5cbc5ed8"
 msgid "Gold 5"
-msgstr ""
+msgstr "황금색 5"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_6_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:57
@@ -8705,61 +8747,61 @@ msgstr "화장 3"
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:498
 msgctxt "h566f4ec1ga39fg41c4g95e6gad1349825d9e"
 msgid "Gold 4"
-msgstr ""
+msgstr "황금색 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_71_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:505
 msgctxt "hd73019e2g7034g426eg8ce4g665d9c420fc8"
 msgid "Gold 3"
-msgstr ""
+msgstr "황금색 3"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_72_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:512
 msgctxt "h4b079fbcg1bc8g4466gbdddgb28d5049bfd6"
 msgid "White 2"
-msgstr ""
+msgstr "백색 2"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_73_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:519
 msgctxt "h50d40fb1ga4d8g4a99g800ag4f86f686036f"
 msgid "White 3"
-msgstr ""
+msgstr "백색 3"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_74_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:526
 msgctxt "hd3f48824g78a1g4756g91b8gb524a362b401"
 msgid "White 4"
-msgstr ""
+msgstr "백색 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_75_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:533
 msgctxt "hefddf77fg9faag4165g8d13gdaac2978e876"
 msgid "White 5"
-msgstr ""
+msgstr "백색 5"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_76_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:540
 msgctxt "h5709423cg54b8g461bg9da3g6a55470ba589"
 msgid "Green 2"
-msgstr ""
+msgstr "녹색 2"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_77_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:547
 msgctxt "h0adb7e5ag83b6g4567gb12bg1d05e8cc3058"
 msgid "Green 3"
-msgstr ""
+msgstr "녹색 3"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_78_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:554
 msgctxt "hadca160cga9a9g4d20g9a4dg22bbcdb15411"
 msgid "Green 4"
-msgstr ""
+msgstr "녹색 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_79_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:561
 msgctxt "h5c0f329eg505ag4156gab81g101d4a33642e"
 msgid "Green 5"
-msgstr ""
+msgstr "녹색 5"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_7_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:43
@@ -8771,61 +8813,61 @@ msgstr "화장 4"
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:568
 msgctxt "h01692a58g6006g49eeg9015gf21f9f1fbf72"
 msgid "Red 2"
-msgstr ""
+msgstr "적색 2"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_81_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:575
 msgctxt "h1019b287ga20ag448dg9d73g6333f23d8c8d"
 msgid "Red 3"
-msgstr ""
+msgstr "적색 3"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_82_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:582
 msgctxt "h88378a9dg9ae3g460agab98g1f7aeeec7c64"
 msgid "Red 4"
-msgstr ""
+msgstr "적색 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_83_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:589
 msgctxt "hac4e7514g7ec9g4209gb2b7gec03fd93d507"
 msgid "Red 5"
-msgstr ""
+msgstr "적색 5"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_84_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:596
 msgctxt "h4e4b4b34g04d3g42d6g9183g65f86bdd0174"
 msgid "Silver 2"
-msgstr ""
+msgstr "은색 2"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_85_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:603
 msgctxt "he155f73egc5c7g4037gb080g0cab34ca40c5"
 msgid "Silver 3"
-msgstr ""
+msgstr "은색 3"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_86_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:610
 msgctxt "he2e2c5d2g7a52g4ee4gae31gc5ec6bc14147"
 msgid "Silver 4"
-msgstr ""
+msgstr "은색 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_87_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:617
 msgctxt "h6485f3a1ga653g4aa9ga11ag285350c30c5a"
 msgid "Silver 5"
-msgstr ""
+msgstr "은색 5"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_88_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:624
 msgctxt "h5ea0820bgd9fag4954gb361gbf3f9d64b36c"
 msgid "Scales 4"
-msgstr ""
+msgstr "비늘 4"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_89_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:631
 msgctxt "h2d6d48ffg2791g45bbg93f0g650413902223"
 msgid "Default Hair Highlight"
-msgstr ""
+msgstr "기본 머리 하이라이트"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_8_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:64
@@ -8837,13 +8879,13 @@ msgstr "화장 5"
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:638
 msgctxt "hd1d4a656ga1a3g4591g91e8g275f6d530de5"
 msgid "Default Hair Greying"
-msgstr ""
+msgstr "기본 머리 탈색"
 
 #. key = Shared_CharacterCreationAppearanceMaterials_New_Stat_9_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceMaterials_DisplayName.lsx:71
 msgctxt "hb7db86b0g82a0g44e3g91c0gf96db0b43f09"
 msgid "Makeup 6"
-msgstr ""
+msgstr "화장 6"
 
 #. key = Shared_CharacterCreationAppearanceVisuals_New_Stat_0_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceVisuals_DisplayName.lsx:8
@@ -9605,7 +9647,7 @@ msgstr "섀도하트의 머리스타일"
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceVisuals_DisplayName.lsx:162
 msgctxt "h71f90d74ged76g4de7gaa29gc6204b263d73"
 msgid "Wyll Head"
-msgstr ""
+msgstr "윌 머리"
 
 #. key = Shared_CharacterCreationAppearanceVisuals_New_Stat_4_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceVisuals_DisplayName.lsx:36
@@ -9617,31 +9659,31 @@ msgstr "얼굴 3"
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceVisuals_DisplayName.lsx:169
 msgctxt "h728b72b9g60beg4c35g8b4bg4ba010a001a5"
 msgid "Wyll Hair"
-msgstr ""
+msgstr "윌 머리카락"
 
 #. key = Shared_CharacterCreationAppearanceVisuals_New_Stat_51_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceVisuals_DisplayName.lsx:176
 msgctxt "hc3959494g2ae9g464fgba0bg4e7748a5dbba"
 msgid "Astarion Head"
-msgstr ""
+msgstr "아스타리온 머리"
 
 #. key = Shared_CharacterCreationAppearanceVisuals_New_Stat_52_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceVisuals_DisplayName.lsx:183
 msgctxt "h386abe3fg6c8bg469bgb64bg8b81614bdff3"
 msgid "Astarion Hair"
-msgstr ""
+msgstr "아스타리온 머리카락"
 
 #. key = Shared_CharacterCreationAppearanceVisuals_New_Stat_53_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceVisuals_DisplayName.lsx:190
 msgctxt "hf3cd77aegaa9fg4c1ag9402g66a241954d0a"
 msgid "Lae'zel Head"
-msgstr ""
+msgstr "레이젤 머리"
 
 #. key = Shared_CharacterCreationAppearanceVisuals_New_Stat_54_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceVisuals_DisplayName.lsx:197
 msgctxt "h492440f6gdbbeg437dgad21g84f63dde196c"
 msgid "Lae'zel Hair"
-msgstr ""
+msgstr "레이젤 머리카락"
 
 #. key = Shared_CharacterCreationAppearanceVisuals_New_Stat_58_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationAppearanceVisuals_DisplayName.lsx:204
@@ -9821,469 +9863,469 @@ msgstr "얼굴 1"
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:15
 msgctxt "h3f459a3fg77d4g4a2fg895bgb21a0e66a9a0"
 msgid "Blue 1"
-msgstr ""
+msgstr "청색 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_10_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:85
 msgctxt "h5111aab4g42ebg40e9ga6afg94cd70967b98"
 msgid "Grey 2"
-msgstr ""
+msgstr "회색 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_11_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:22
 msgctxt "h8c91200agf2bbg4f7bg963cgb56e276f3570"
 msgid "Hazelnut 1 "
-msgstr ""
+msgstr "헤이즐넛 1 "
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_12_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:92
 msgctxt "hb622cf2cg131cg4ec5g85ccg60eccead5ea9"
 msgid "Hazelnut 2"
-msgstr ""
+msgstr "헤이즐넛 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_13_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:99
 msgctxt "h78c19a2dgf62fg4aeagbaf8ge273c26a8b0b"
 msgid "Hazelnut 3"
-msgstr ""
+msgstr "헤이즐넛 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_14_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:106
 msgctxt "h7c34fe62gbf91g4807gb725g37a764917fbe"
 msgid "Black 1"
-msgstr ""
+msgstr "흑색 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_15_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:113
 msgctxt "hfee61e90ge256g4b64gb6b2gc516f982c585"
 msgid "Black 2"
-msgstr ""
+msgstr "흑색 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_16_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:120
 msgctxt "h69df29cag42ecg47f5g952cg5402e2982645"
 msgid "Sapphire 2"
-msgstr ""
+msgstr "사파이어 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_17_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:127
 msgctxt "h2753d79dgc5b3g4720g8bd0g0861d13d240e"
 msgid "Purple 1"
-msgstr ""
+msgstr "자색 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_18_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:134
 msgctxt "h4cf6fbe7gb9eag46ecg92d2g026db686ef83"
 msgid "Purple 3"
-msgstr ""
+msgstr "자색 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_19_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:141
 msgctxt "hea202071g640cg420dg9c05g7cbccf904497"
 msgid "Purple 2"
-msgstr ""
+msgstr "자색 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_1_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:8
 msgctxt "h57ec9ff3gdb72g460bg92c7gaeaf9e123daa"
 msgid "Blue 2"
-msgstr ""
+msgstr "청색 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_20_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:148
 msgctxt "hd1d98f28geec5g453egaec9gdc219ab6ccc4"
 msgid "Red 1"
-msgstr ""
+msgstr "적색 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_21_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:155
 msgctxt "h43158ae5ge11dg4ec9ga3d3g67a68c98524d"
 msgid "Red 2"
-msgstr ""
+msgstr "적색 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_22_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:162
 msgctxt "h3fda504dg6b36g41e6ga015g7b0af211131d"
 msgid "Red 3"
-msgstr ""
+msgstr "적색 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_23_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:169
 msgctxt "h4fe517d3g7a91g4e62g82f2gf20167b9073b"
 msgid "White 1"
-msgstr ""
+msgstr "백색 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_24_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:176
 msgctxt "hdeeff028g8f7eg490ag905ag2bb842b9abbe"
 msgid "White 2"
-msgstr ""
+msgstr "백색 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_25_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:183
 msgctxt "h5fa56c5fg7d16g4de0gab09g443bb979632f"
 msgid "White 3"
-msgstr ""
+msgstr "백색 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_26_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:190
 msgctxt "he76f5250g4caag4f45gb088ge6d2f5ef1fe0"
 msgid "Solid Black"
-msgstr ""
+msgstr "무광 흑색"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_27_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:197
 msgctxt "h1824de18gba6bg4b89gaa0ag8041038b68e6"
 msgid "Elf Blue 1"
-msgstr ""
+msgstr "엘프 청색 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_28_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:204
 msgctxt "h7cc55663g5f48g461cgb394g7972fadcff59"
 msgid "Elf Autumn"
-msgstr ""
+msgstr "엘프 가을"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_29_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:211
 msgctxt "h21fd399agb324g4b62g96bbgb18b343560c8"
 msgid "Elf Spring"
-msgstr ""
+msgstr "엘프 봄"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_2_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:29
 msgctxt "habd9ca37g44f6g4e29g90d0g1540d68568a9"
 msgid "Blue 3 "
-msgstr ""
+msgstr "청색 3 "
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_30_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:218
 msgctxt "hd6ebe1d5g6a01g4291gaca4g8e05dbb32857"
 msgid "Elf Summer "
-msgstr ""
+msgstr "엘프 여름 "
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_31_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:225
 msgctxt "haab1f2f7g502eg47b7gb9f9ged59d32caa61"
 msgid "Elf Winter"
-msgstr ""
+msgstr "엘프 겨울"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_32_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:232
 msgctxt "h7dc539f2g6ca6g4594gb743g31a75e1506f6"
 msgid "Elf Gold 1"
-msgstr ""
+msgstr "엘프 황금 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_33_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:239
 msgctxt "h58151247g78a0g46c9ga6d1g0511f0250a9f"
 msgid "Elf Gold 2"
-msgstr ""
+msgstr "엘프 황금 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_34_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:246
 msgctxt "hf051edb8g10d9g4796g8f35g3da925337198"
 msgid "Elf Gold 3"
-msgstr ""
+msgstr "엘프 황금 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_35_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:253
 msgctxt "h8b0a886agd92fg421cgb4f4gb7e1b31a4eb7"
 msgid "Elf Green 1"
-msgstr ""
+msgstr "엘프 초록 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_36_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:260
 msgctxt "h17b6ef1eg1335g4901g84a8g94aaaf9a56a8"
 msgid "Elf Silver 1"
-msgstr ""
+msgstr "엘프 은 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_37_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:267
 msgctxt "h94274422gaf4fg40abg8481g350cb8446d26"
 msgid "Demonic Blue 1"
-msgstr ""
+msgstr "데모닉 파랑 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_38_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:274
 msgctxt "h1e64286dg1c0ag4600gba01ge1f9862e0c4d"
 msgid "Demonic Blue 2"
-msgstr ""
+msgstr "데모닉 파랑 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_39_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:281
 msgctxt "hc9bf6348g0c4bg46c1gb0d9gb10e75197da6"
 msgid "Demonic Purple 1"
-msgstr ""
+msgstr "데모닉 보라 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_3_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:36
 msgctxt "h19d290f0g4c96g4777g860egfd30d60b65a4"
 msgid "Brown 1"
-msgstr ""
+msgstr "갈색 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_40_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:288
 msgctxt "h303877b5g6ab2g48b5gb880g9225844938f1"
 msgid "Demonic Red 1"
-msgstr ""
+msgstr "데모닉 빨강 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_41_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:295
 msgctxt "hb8fe2528g64dfg40b6ga073g73773de603f6"
 msgid "Demonic Red 2"
-msgstr ""
+msgstr "데모닉 빨강 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_42_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:302
 msgctxt "hbe32eab6gc7a7g405fg8894g7a4e8833223e"
 msgid "Demonic Yellow 1"
-msgstr ""
+msgstr "데모닉 노랑 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_43_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:309
 msgctxt "he47d48b5gb5f5g4681ga9e5g589bea028211"
 msgid "Demonic Purple 2"
-msgstr ""
+msgstr "데모닉 보라 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_44_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:316
 msgctxt "h9d30b547g9a98g4f3cga3c5gc7b159bf9704"
 msgid "Demonic Green 1"
-msgstr ""
+msgstr "데모닉 초록 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_45_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:323
 msgctxt "hc3bcbebdg774bg4827g8f80g9180b27d7d3d"
 msgid "Demonic White 1"
-msgstr ""
+msgstr "데모닉 하양 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_46_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:330
 msgctxt "h9f3b49d4g61d1g4ec4ga996g64b1ca379e7c"
 msgid "Demonic White 2"
-msgstr ""
+msgstr "데모닉 하양 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_47_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:337
 msgctxt "ha637d3bfg8c6dg4d8cg8140g439886d3fd2e"
 msgid "Topaz 1"
-msgstr ""
+msgstr "토파즈 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_48_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:344
 msgctxt "haf2c2781gb682g41b9gbfe3gccdaec2e412f"
 msgid "Topaz 2"
-msgstr ""
+msgstr "토파즈 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_49_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:351
 msgctxt "h19e1fe57g18cfg4205g99c6ga54e3e2456f3"
 msgid "Topaz 3"
-msgstr ""
+msgstr "토파즈 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_4_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:43
 msgctxt "hf510fef4gd32eg4015g9277gab31fbc924ad"
 msgid "Brown 2"
-msgstr ""
+msgstr "갈색 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_50_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:358
 msgctxt "hc41dbedfg9be2g4b06gaf51gccc30b32f3f9"
 msgid "Topaz 4"
-msgstr ""
+msgstr "토파즈 4"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_51_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:365
 msgctxt "h69f1ca84g666bg4c20g8802g0ef04a197487"
 msgid "Emerald 1"
-msgstr ""
+msgstr "에메랄드 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_52_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:372
 msgctxt "h3b6225b7g406fg4265g872ag89464ad48157"
 msgid "Emerald 2"
-msgstr ""
+msgstr "에메랄드 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_53_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:379
 msgctxt "h3ffacb40g8895g4e84g9e3age3341e9ceda2"
 msgid "Emerald 3"
-msgstr ""
+msgstr "에메랄드 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_54_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:386
 msgctxt "hdc18555egbe1fg48c4gb962g07d3cf8c0b19"
 msgid "Obsidian 1"
-msgstr ""
+msgstr "흑요석 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_55_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:393
 msgctxt "h958ad801g2db0g455bgb649g8eca65372c66"
 msgid "Obsidian 2"
-msgstr ""
+msgstr "흑요석 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_56_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:400
 msgctxt "hd0ed90d3gca6cg488agbb33geb9db2823cb4"
 msgid "Opal 1"
-msgstr ""
+msgstr "오팔 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_57_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:407
 msgctxt "h3a4658ccgeb74g4308gb8e0g23a965263390"
 msgid "Opal 2"
-msgstr ""
+msgstr "오팔 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_58_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:414
 msgctxt "hc74f252cgdebdg4482ga3eeg962acde82ee3"
 msgid "Ruby 1"
-msgstr ""
+msgstr "루비 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_59_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:421
 msgctxt "h25991c73g7426g4213gb2b3g2c20162d703e"
 msgid "Ruby 2"
-msgstr ""
+msgstr "루비 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_5_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:50
 msgctxt "h79a59a86g9c02g47c5gb441g15f193feccbf"
 msgid "Brown 3"
-msgstr ""
+msgstr "갈색 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_60_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:428
 msgctxt "hcae20bcfg81dfg4034g942ag25cbc33cb643"
 msgid "Ruby 3"
-msgstr ""
+msgstr "루비 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_61_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:435
 msgctxt "h75af2094g40f4g467bg9120g311126b1c081"
 msgid "Sapphire 1"
-msgstr ""
+msgstr "사파이어 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_62_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:442
 msgctxt "ha89e5873g4c37g4072ga7begd90e546a387a"
 msgid "Sapphire 3"
-msgstr ""
+msgstr "사파이어 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_63_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:449
 msgctxt "h95de2ea5gf6b6g41f9g8e12gac021f6da7d9"
 msgid "Sapphire 4"
-msgstr ""
+msgstr "사파이어 4"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_64_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:456
 msgctxt "h532b236dge913g4098gb321g18141bef4ac8"
 msgid "Emerald 4"
-msgstr ""
+msgstr "에메랄드 4"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_65_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:463
 msgctxt "ha157bb2ag0a9ag4a9cgbe11gc2ba9fc75d9c"
 msgid "Topaz 5"
-msgstr ""
+msgstr "토파즈 5"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_66_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:561
 msgctxt "h1f1448fbg91a2g4506g882dg23aedc603d7b"
 msgid "Pink 1"
-msgstr ""
+msgstr "분홍색 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_67_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:568
 msgctxt "h8762f63eg408eg4abega35cgff9ca46f3323"
 msgid "Pink 2"
-msgstr ""
+msgstr "분홍색 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_68_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:575
 msgctxt "h0a7ccc52ga2d2g4328g9d5dg71c34994166b"
 msgid "Pink 3"
-msgstr ""
+msgstr "분홍색 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_6_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:57
 msgctxt "h70454d3bgd2d5g4c8fgb5a4g159438d2bcef"
 msgid "Green 1"
-msgstr ""
+msgstr "초록색 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_74_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:470
 msgctxt "h0b5e9646g216cg497cg92b3gb0beaf22c4bb"
 msgid "Elf Blue 2"
-msgstr ""
+msgstr "엘프 파랑 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_75_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:477
 msgctxt "h480a3bdeg4f89g43c5gb6e0g013a2372158b"
 msgid "Elf Blue 3"
-msgstr ""
+msgstr "엘프 파랑 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_76_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:484
 msgctxt "h012a667ag9f59g4749gb491g83db1233cffe"
 msgid "Elf Green 2"
-msgstr ""
+msgstr "엘프 초록 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_77_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:491
 msgctxt "h51bf846dg3ea5g4925gbe0eg7435fffb0da9"
 msgid "Elf Silver 2"
-msgstr ""
+msgstr "엘프 은 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_78_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:498
 msgctxt "h440fd5e3g0379g48d2ga10bgf27b5d593b84"
 msgid "Demonic Blue 3"
-msgstr ""
+msgstr "데모닉 파랑 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_79_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:505
 msgctxt "he00ec768gf829g4f1ag89a5gc7fb3a11c58a"
 msgid "Demonic Yellow 2"
-msgstr ""
+msgstr "데모닉 노랑 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_7_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:64
 msgctxt "h1facb7c1g1bffg4854g8a0fg5bee8e195b63"
 msgid "Green 2"
-msgstr ""
+msgstr "초록색 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_80_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:512
 msgctxt "h6734c530g75e3g4d8dgbceag614c283cac9c"
 msgid "Demonic Green 2"
-msgstr ""
+msgstr "데모닉 초록 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_81_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:519
 msgctxt "heaadc434gd760g4bf8gb977gea99b941c7e8"
 msgid "Demonic White 3"
-msgstr ""
+msgstr "데모닉 하양 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_82_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:526
 msgctxt "h8a6c783agee2eg4e76g9c25g230faa1b06da"
 msgid "Demonic White 4"
-msgstr ""
+msgstr "데모닉 하양 4"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_83_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:533
 msgctxt "hb008621fge708g46bagb036g3294829985b0"
 msgid "Demonic Black 1"
-msgstr ""
+msgstr "데모닉 검정 1"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_84_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:540
 msgctxt "hdf749973g919cg4efag9d98gf6e6680b72e1"
 msgid "Demonic Black 2"
-msgstr ""
+msgstr "데모닉 검정 2"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_85_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:547
@@ -13855,7 +13897,7 @@ msgctxt "he4f45c6cg4d0ag4907g8f09g4a8eb96f8eaf"
 msgid ""
 "Rangers are unrivalled scouts and trackers, honing a deep connection with "
 "nature in order to hunt their favoured prey."
-msgstr ""
+msgstr "레인저는 타의 추종을 불허하는 정찰자이자 추적자로, 자연과의 깊은 유대를 연마해 그들이 선호하는 표적을 사냥합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_0_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:50
@@ -13869,7 +13911,7 @@ msgctxt "hffe95a98g1b1fg4fdfg9094g8c86867e28ab"
 msgid ""
 "The Life domain is an aspect of many good deities, offering spells that "
 "protect and restore the mind, body, and soul."
-msgstr ""
+msgstr "생명 권역은 대부분의 선한 신들이 속한 영역으로, 정신, 신체, 그리고 영혼을 보호하고 복원하는 주문들을 제공합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_10_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:8
@@ -13881,7 +13923,7 @@ msgstr "생명 권역"
 #: Shared/Public/Shared/Localization/ClassDescriptions_ShortName.lsx:8
 msgctxt "hb47a2fb8g2ba6g4c42gb8edg9216a3087eb1"
 msgid "Life"
-msgstr ""
+msgstr "생명"
 
 #. key = Shared_ClassDescriptions_New_Stat_11_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:15
@@ -13889,7 +13931,7 @@ msgctxt "h491fa441gbf32g467dgb0b5gb3432e7d78d9"
 msgid ""
 "The Light domain is offered by deities of justice, majesty, and primordial "
 "flame, providing spells that dispel darkness and harm the undead."
-msgstr ""
+msgstr "빛 권역은 정의, 위엄, 그리고 태초의 불꽃을 관장하는 신들의 영역으로, 어둠을 밝히고 언데드를 해치는 주문들을 제공합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_11_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:15
@@ -13910,6 +13952,8 @@ msgid ""
 "With stealth, skill, and uncanny reflexes, rogues' versatility lets them get "
 "the upper hand in almost any situation."
 msgstr ""
+"로그는 은신 능력, 손놀림, 그리고 타의 추종을 불허하는 반사신경을 가지고 있어 거의 모든 상황에서 우위를 점할 수 있는 다재다능한 "
+"존재들입니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_12_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:71
@@ -13923,7 +13967,7 @@ msgctxt "h060da457g2dd1g47bcg8134gaa49da101992"
 msgid ""
 "Bound by a pact to an all-powerful patron, warlocks trade their loyalty for "
 "supernatural abilities and unique magic."
-msgstr ""
+msgstr "워락은 아주 강력한 후원자들과 계약으로 묶여 그들의 충성심을 대가로 초자연적인 능력과 특이한 마법을 사용합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_13_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:92
@@ -13937,13 +13981,13 @@ msgctxt "hecb0341bg3becg4816g9530gc9125e8f1b06"
 msgid ""
 "Arcane Tricksters are rogues with a clever touch of magic, using illusions "
 "and enchantments to keep their opponents on the back foot."
-msgstr ""
+msgstr "아케인 트릭스터는 기발한 마법을 구사하는 로그로, 환영계와 환혹계 마법을 활용해 상대의 뒤를 잡습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_14_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:85
 msgctxt "h30561afcgab43g4221gad1eg441f7cf91ef9"
 msgid "Arcane Trickster"
-msgstr ""
+msgstr "아케인 트릭스터"
 
 #. key = Shared_ClassDescriptions_New_Stat_15_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:78
@@ -13952,13 +13996,13 @@ msgid ""
 "Thieves use their skills in stealth and larceny to acquire whatever they "
 "wish, whether from a third story window or the depths of long-forgotten "
 "ruins."
-msgstr ""
+msgstr "시프는 그들의 은신과 절도 기술을 활용해 3층 창문에서든 오랫동안 잊힌 폐허의 깊은 곳에서든 원하는 것을 얻어냅니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_15_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:78
 msgctxt "h5f0c4c41gc718g4b5dg91d3gfec0303bbcc3"
 msgid "Thief"
-msgstr ""
+msgstr "시프"
 
 #. key = Shared_ClassDescriptions_New_Stat_16_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:99
@@ -13966,13 +14010,13 @@ msgctxt "h77ad8d20g255bg475egbfcfgf3a5ea0dc4d0"
 msgid ""
 "Warlocks in service to fiends work towards corrupting, destructive ends - "
 "intentionally or otherwise - and receive hellish blessings in turn."
-msgstr ""
+msgstr "악마를 섬기는 워락은 그들이 의도했든 그렇지 않든, 타락하고 파괴적인 목적을 위해 일하며, 그 대가로 지옥의 축복을 받습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_16_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:99
 msgctxt "h90e380a7g9f24g4ee6gb1a1g34eac5619afa"
 msgid "The Fiend"
-msgstr ""
+msgstr "악마"
 
 #. key = Shared_ClassDescriptions_New_Stat_17_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:106
@@ -13980,13 +14024,13 @@ msgctxt "hdaab7880g17afg4e6bg92a2gefb96ec722ca"
 msgid ""
 "Warlocks bound to eldritch beings in the Far Realms work towards inscrutable "
 "goals, gaining strange powers over entropy and the mind."
-msgstr ""
+msgstr "외우주의 엘드리치 존재들과 계약한 워락은 형언할 수 없는 목표를 위해 일하며, 엔트로피와 정신에 대한 기묘한 힘을 얻습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_17_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:106
 msgctxt "h7fd64569g90e0g4b80g8709g57bc86f29fdf"
 msgid "The Great Old One"
-msgstr ""
+msgstr "위대한 옛 존재"
 
 #. key = Shared_ClassDescriptions_New_Stat_18_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:22
@@ -13995,6 +14039,7 @@ msgid ""
 "A domain shared by wicked, chaotic, and mischievous deities alike, those who "
 "channel Trickery specialise in deception and illusion magic."
 msgstr ""
+"사악하고, 혼란스러우며, 장난기 많은 신들이 공유하는 권역으로, 기만의 힘을 사용하는 이들은 속임수와 환영계 마법을 전문적으로 사용합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_18_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:22
@@ -14006,7 +14051,7 @@ msgstr "기만 권역"
 #: Shared/Public/Shared/Localization/ClassDescriptions_ShortName.lsx:22
 msgctxt "h7726d242g89deg4527gbb84g4d565c0f9e2a"
 msgid "Trickery"
-msgstr ""
+msgstr "속임수"
 
 #. key = Shared_ClassDescriptions_New_Stat_19_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:148
@@ -14031,7 +14076,7 @@ msgctxt "h3a7fde7cgec48g4676ga129g7dadbdf4f3cb"
 msgid ""
 "Fighters have mastered the art of combat, wielding weapons with unmatched "
 "skill and wearing armour like a second skin."
-msgstr ""
+msgstr "파이터는 전투 기술의 달인들이며, 누구도 따를 바 없는 솜씨로 무기를 다루고 갑옷을 자기 몸처럼 입습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_1_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:29
