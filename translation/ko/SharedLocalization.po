@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-02 15:52+0000\n"
+"PO-Revision-Date: 2023-03-05 18:52+0000\n"
 "Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -14090,13 +14090,13 @@ msgctxt "h8b9c3fa4g3e32g4913gbbe9g0c33b209865f"
 msgid ""
 "Druids of this Circle connect to powerful magic that flows through the earth "
 "and binds all living things together. "
-msgstr ""
+msgstr "이 회합에 속한 드루이드는 대지를 관통하며 모든 생명체를 잇는 강력한 마법에 연결되어 있습니다. "
 
 #. key = Shared_ClassDescriptions_New_Stat_20_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:141
 msgctxt "ha9c297f0g9d10g4342gbc1eg39233f659d37"
 msgid "Circle of the Land"
-msgstr ""
+msgstr "대지의 회합"
 
 #. key = Shared_ClassDescriptions_New_Stat_21_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:141
@@ -14104,13 +14104,13 @@ msgctxt "hcd5ebe30g081fg4a7agba99g38d237697789"
 msgid ""
 "Druids sworn to the moon draw on its mercurial nature to transform into "
 "massive creatures and primal elementals."
-msgstr ""
+msgstr "달에 맹세한 드루이드는 달의 변화무쌍한 특성을 활용해 거대한 크리쳐와 원시 정령으로 변신할 수 있습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_21_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:148
 msgctxt "h282704e7g650dg4a64gbf0dgfb5b681f3be5"
 msgid "Circle of the Moon"
-msgstr ""
+msgstr "달의 회합"
 
 #. key = Shared_ClassDescriptions_New_Stat_22_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:155
@@ -14118,7 +14118,7 @@ msgctxt "h23997f5eg91f5g499bgac88gda4f6f2dfcc9"
 msgid ""
 "Sorcerers are natural spellcasters, drawing on inherent magic from a gift or "
 "bloodline."
-msgstr ""
+msgstr "소서러는 타고난 주문 시전자로, 핏줄로 이어받은 마법의 힘을 끌어냅니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_22_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:155
@@ -14131,13 +14131,13 @@ msgstr "소서러"
 msgctxt "h8653dfceg5163g42e3gb4c4g5acc4dd573c8"
 msgid ""
 "Your veins carry draconic magic, the result of a powerful dragon ancestor."
-msgstr ""
+msgstr "강력한 드래곤 조상의 영향으로 당신의 혈관에는 드래곤 마법이 타고 흐릅니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_23_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:162
 msgctxt "h25454982g837eg4451g88ddgf9ea0d89187f"
 msgid "Draconic Bloodline"
-msgstr ""
+msgstr "용의 혈통"
 
 #. key = Shared_ClassDescriptions_New_Stat_24_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:169
@@ -14145,13 +14145,13 @@ msgctxt "hedfe3092ga840g4e10gb962g092566a89852"
 msgid ""
 "Your powers come from ancient forces of chaos. They churn within you - "
 "waiting to burst free at any time."
-msgstr ""
+msgstr "당신의 힘은 고대의 혼돈 마력에서 기인합니다. 그 힘은 당신의 내면에서 꿈틀거리며 터져 나오기만을 기다리고 있습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_24_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:169
 msgctxt "h04ded653gcf76g4ad4gaa36g523db04a9487"
 msgid "Wild Magic"
-msgstr ""
+msgstr "와일드 매직"
 
 #. key = Shared_ClassDescriptions_New_Stat_25_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:176
@@ -14159,7 +14159,7 @@ msgctxt "hac77027cg6dd2g4e7ega824gfbdbc91b6f05"
 msgid ""
 "Clerics are representatives of the gods they worship, wielding potent divine "
 "magic for good or ill."
-msgstr ""
+msgstr "클리렉은 자신이 섬기는 신의 대리인으로, 선이나 악을 행하기 위해 강력한 신성 마법을 휘두릅니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_25_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:176
@@ -14175,11 +14175,12 @@ msgstr "권역 선택"
 
 #. key = Shared_ClassDescriptions_New_Stat_26_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:183
+#, fuzzy
 msgctxt "h3aa4b4a4g0076g4635gb363g7891e8f2e495"
 msgid ""
 "The strong embrace the wild that hides inside - keen instincts, primal "
 "physicality, and most of all, an unbridled, unquenchable rage."
-msgstr ""
+msgstr "강자란 예리한 본능, 원초적인 육체, 그리고 무엇보다도 채워지지도, 꺼지지도 않는 분노를 끌어안고 있는 자를 칭합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_26_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:183
@@ -14195,12 +14196,14 @@ msgid ""
 "slick with blood, as you thrill in the chaos of battle, heedless of your own "
 "well-being."
 msgstr ""
+"폭력은 수단이자 목적입니다. 걷잡을 수 없는 분노의 길을 따르며 피에 물들어 있는 당신은, 전투의 혼돈 속에서 황홀경을 맛보며 자신의 "
+"안녕 따위는 아랑곳하지 않습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_27_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:190
 msgctxt "hc337205dg93e1g4956g9924gb7d641b6e211"
 msgid "Berserker"
-msgstr ""
+msgstr "버서커"
 
 #. key = Shared_ClassDescriptions_New_Stat_28_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:197
@@ -14208,13 +14211,13 @@ msgctxt "h559c2233gf74fg4fcfg9408gadcb1cba6316"
 msgid ""
 "Your attunement with nature and its beasts inspires your rage, empowering "
 "you with supernatural might."
-msgstr ""
+msgstr "자연, 그리고 그 속의 야수들과 당신의 조화가 분노를 고조시키며 초자연적인 힘을 부여합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_28_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:197
 msgctxt "h71cf10b1gadf1g4be5gbe40g466322d942f4"
 msgid "Wildheart"
-msgstr ""
+msgstr "와일드하트"
 
 #. key = Shared_ClassDescriptions_New_Stat_29_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:211
@@ -14224,12 +14227,13 @@ msgid ""
 "peasants' tales, and use your gifts to hold both audiences and enemies "
 "spellbound."
 msgstr ""
+"당신은 아름다움과 진리를 추구하며, 학술 서적부터 농민들의 이야기까지 다양한 지식을 수집하고 재능을 활용해 청중과 적 모두를 매료시킵니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_29_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:211
 msgctxt "h279a572bg826ag49e3g9223g665c354e3de1"
 msgid "College of Lore"
-msgstr ""
+msgstr "전승 학파"
 
 #. key = Shared_ClassDescriptions_New_Stat_2_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:113
@@ -14237,7 +14241,7 @@ msgctxt "hbadeec08gaa48g44e8g9e12g8dcef3cb9b46"
 msgid ""
 "Wizards master the arcane by specialising in individual schools of magic, "
 "combining ancient spells with modern research."
-msgstr ""
+msgstr "위저드는 고대의 주문과 현대적 연구를 결합함으로써, 개별 마법 학파를 전문으로 삼아 비전에 통달합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_2_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:113
@@ -14251,13 +14255,13 @@ msgctxt "h76d3ad64g7e5cg412agac20g17c5e3cb57d0"
 msgid ""
 "You wander the land to witness and relate the deeds of the mighty, keeping "
 "alive the memory of heroes of the past and inspiring heroes of the future."
-msgstr ""
+msgstr "당신은 대륙을 돌아다니며 과거의 영웅을 기억하고 미래의 영웅에게 영감을 불어넣으며, 강자들의 업적을 목격하고 이야기를 전합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_30_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:218
 msgctxt "he43c3ee1gb725g4a47g902cg6727f52d77c6"
 msgid "College of Valour"
-msgstr ""
+msgstr "용맹 학파"
 
 #. key = Shared_ClassDescriptions_New_Stat_31_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:225
@@ -14265,13 +14269,13 @@ msgctxt "h7bd98082g8d1cg49b7gbdd9g5d45924e8d01"
 msgid ""
 "You fight on the side of light in the cosmic struggle against darkness to "
 "preserve the sanctity of life and the beauty of nature."
-msgstr ""
+msgstr "당신은 생명의 신성함과 자연의 아름다움을 지키기 위해 어둠에 맞서 싸우는 우주적 투쟁에서 빛의 편에서 싸우고 있습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_31_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:225
 msgctxt "h2a7352eag799cg44afgaf7cg1ad3e9fbbf42"
 msgid "Oath of the Ancients"
-msgstr ""
+msgstr "선조의 맹세"
 
 #. key = Shared_ClassDescriptions_New_Stat_32_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:232
@@ -14279,13 +14283,13 @@ msgctxt "h238b6cb3gdff0g4151gbd79g2af569925479"
 msgid ""
 "Following the ideal of the knight in shining armour, you act with honour and "
 "virtue to protect the weak and pursue the greater good."
-msgstr ""
+msgstr "당신은 빛나는 갑옷을 입은 기사의 이상적인 모습을 따라 명예와 미덕을 지키며 행동하고 약자를 보호하며 대의를 추구합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_32_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:232
 msgctxt "h07d494ebg069ag42a7g8fdfge1cb3672bac5"
 msgid "Oath of Devotion"
-msgstr ""
+msgstr "헌신의 맹세"
 
 #. key = Shared_ClassDescriptions_New_Stat_33_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:239
@@ -14293,13 +14297,13 @@ msgctxt "h565bd24cg663cg4506g9244g42b57c697ef1"
 msgid ""
 "You have set aside even your own purity to right wrongs and deliver justice "
 "to those who have committed the most grievous sins."
-msgstr ""
+msgstr "당신은 잘못을 바로잡고 가장 끔찍한 죄를 저지른 사람들에게 정의를 실현하기 위해 자신의 순수함마저 버렸습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_33_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:239
 msgctxt "h2362f41dg75e2g48c8g8ae6geb1c6e9129f5"
 msgid "Oath of Vengeance"
-msgstr ""
+msgstr "복수의 맹세"
 
 #. key = Shared_ClassDescriptions_New_Stat_34_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:246
@@ -14307,13 +14311,13 @@ msgctxt "h23db7ea6g6882g428bg9af2g50b797dba11b"
 msgid ""
 "You have broken your sacred Oath in pursuit of power and ambition. Only "
 "darkness remains to fuel you now."
-msgstr ""
+msgstr "당신은 권력과 야망을 좇아 신성한 맹세를 어겼습니다. 이제 당신에게 남은 힘은 어둠뿐입니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_34_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:246
 msgctxt "h1b152143g9aacg4821g8b1dg0a5c8c384b99"
 msgid "Oathbreaker"
-msgstr ""
+msgstr "맹세파기자"
 
 #. key = Shared_ClassDescriptions_New_Stat_35_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:253
@@ -14321,7 +14325,7 @@ msgctxt "h9fca63d9gfc1fg48c3g8ae9g01bbddae1ec3"
 msgid ""
 "Fuelled by the Oath you swore to uphold justice and righteousness, you are a "
 "beacon of hope in dark times."
-msgstr ""
+msgstr "정의와 공정함을 지키기 위해 선서한 맹약의 힘으로, 당신은 어두운 시기에 희망의 등불이 되어 빛납니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_35_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:253
@@ -14336,6 +14340,8 @@ msgid ""
 "You know music is more than a fancy - it is power. Through study and "
 "adventure, you have mastered song, speech, and the magic within."
 msgstr ""
+"당신은 음악이 그저 단순한 상상이 아니라 힘을 지니고 있다는 것을 알고 있습니다. 당신은 공부와 모험을 통해 노래와 연설, 그리고 "
+"그것들이 지닌 마법에 숙련되었습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_3_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:204
@@ -14349,13 +14355,13 @@ msgctxt "h2accac8fg28eeg4d85gb412g2f6f8ec2d756"
 msgid ""
 "Beast Masters bind themselves to an animal companion, sharing an intelligent "
 "bond that flourishes in and out of combat."
-msgstr ""
+msgstr "비스트 마스터는 그들의 동물 동료와 결속하여 전투 안팎에서 지능적인 유대를 나눕니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_4_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:57
 msgctxt "hd3d0e53ag76a8g4275g98b2g751f2c421b8a"
 msgid "Beast Master"
-msgstr ""
+msgstr "비스트 마스터"
 
 #. key = Shared_ClassDescriptions_New_Stat_5_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:64
@@ -14364,12 +14370,13 @@ msgid ""
 "Hunters seek the most dangerous prey in Faerûn, from ancient dragons to "
 "massive hordes of undead, and excel at slaying them all."
 msgstr ""
+"헌터는 고대의 드래곤에서부터 엄청난 수의 언데드 무리까지, 페이룬에서 가장 위험한 사냥감을 추적하며, 그것들을 살해하는 것에 탁월합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_5_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:64
 msgctxt "h2969047eg0207g40f8gb6dfg0b261003ebf2"
 msgid "Hunter"
-msgstr ""
+msgstr "헌터"
 
 #. key = Shared_ClassDescriptions_New_Stat_6_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:36
@@ -14377,13 +14384,13 @@ msgctxt "h7c7985f4g0ff2g4097ga2b5g220983d7561c"
 msgid ""
 "Battle Masters are paragons of tactical superiority, combining combat "
 "manoeuvres and experience in the field to dominate every fight."
-msgstr ""
+msgstr "배틀 마스터는 전술적 우월성의 대명사로, 전투 기동과 현장 경험을 결합하여 모든 전투에서 우위를 점할 수 있습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_6_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:36
 msgctxt "h2780bb92gd755g42bdg90e4g35ba06f48ac9"
 msgid "Battle Master"
-msgstr ""
+msgstr "배틀 마스터"
 
 #. key = Shared_ClassDescriptions_New_Stat_7_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:43
@@ -14391,13 +14398,13 @@ msgctxt "hb737d83fg2e33g4664g98a6g3c2381c29b0a"
 msgid ""
 "Eldritch Knights study magic to supplement their weaponry, allowing them to "
 "overcome resistance from the toughest foes."
-msgstr ""
+msgstr "엘드리치 나이트는 마법을 연구하여 무기를 보완해, 어떤 강력한 적의 저항일지라도 극복할 수 있습니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_7_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:43
 msgctxt "h96aff5ecga228g472eg9121gfaa39b44864e"
 msgid "Eldritch Knight"
-msgstr ""
+msgstr "엘드리치 나이트"
 
 #. key = Shared_ClassDescriptions_New_Stat_8_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:120
@@ -14405,13 +14412,13 @@ msgctxt "h5b05b200g4933g4807gbd1dgd39cade9e34b"
 msgid ""
 "Abjuration spells summon wards, banish enemies, and nullify magic, suitable "
 "for those who wish to defend themselves and others."
-msgstr ""
+msgstr "방호계 주문은 방어막을 소환하고, 적을 추방하며, 마법을 무효화하여 자신과 타인을 보호하고자 하는 이들에게 적합합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_8_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:120
 msgctxt "h90758993g0e2dg426fgb19dg2376b539acf9"
 msgid "Abjuration"
-msgstr ""
+msgstr "방호계"
 
 #. key = Shared_ClassDescriptions_New_Stat_9_Description
 #: Shared/Public/Shared/Localization/ClassDescriptions_Description.lsx:127
@@ -14419,37 +14426,37 @@ msgctxt "he03bcffeg9447g47cfgbe07g4ef50cb2606d"
 msgid ""
 "Evocation spells focus elemental energy into powerful attacks and "
 "enchantments. Those who specialise in this school are known as evokers."
-msgstr ""
+msgstr "방출계 주문은 원소 에너지를 집중해 강력한 공격과 마법을 사용합니다. 이 학파를 전문적으로 익힌 이들을 기원사라고 부릅니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_9_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:127
 msgctxt "h727905b8g38bdg4c23gb9dcgdf7dce904ee9"
 msgid "Evocation"
-msgstr ""
+msgstr "방출계"
 
 #. key = Shared_ColorDefinitions_New_Stat_0_DisplayName
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:8
 msgctxt "ha3051967g67a3g4b32g9dc5gb7c02d9bf83f"
 msgid "Light Blonde"
-msgstr ""
+msgstr "옅은 금발"
 
 #. key = Shared_ColorDefinitions_New_Stat_100_DisplayName
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:652
 msgctxt "h75e879eeg4653g471fgabf0g29c66855b17f"
 msgid "Teal 3"
-msgstr ""
+msgstr "틸 3"
 
 #. key = Shared_ColorDefinitions_New_Stat_101_DisplayName
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:659
 msgctxt "hcf0f9ab8g5320g4f61gae0bg78578e95d33a"
 msgid "Teal 4"
-msgstr ""
+msgstr "틸 4"
 
 #. key = Shared_ColorDefinitions_New_Stat_102_DisplayName
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:666
 msgctxt "h38a804a7g1debg4956gbc73ge35a25705117"
 msgid "Teal 5"
-msgstr ""
+msgstr "틸 5"
 
 #. key = Shared_ColorDefinitions_New_Stat_103_DisplayName
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:729
@@ -15673,55 +15680,55 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:701
 msgctxt "h65348db4ge95cg4723ga7fdgd780759c381d"
 msgid "Can't be Unconscious."
-msgstr ""
+msgstr "무의식 상태가 될 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_101_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:694
 msgctxt "h70364ad4gf2c1g4627gafdeg9c8f3d7929bc"
 msgid "Target must be affected by Horde Breaker."
-msgstr ""
+msgstr "대상이 무리 파괴자에 영향을 받은 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_102_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:708
 msgctxt "ha13932c4gadadg4a55g94ebgf10b00daceb5"
 msgid "Can't be Resurrected."
-msgstr ""
+msgstr "부활될 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_103_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:715
 msgctxt "h81b21266g1d00g4a28g9f4eg6259f3f96bf6"
 msgid "Target must be a playable character."
-msgstr ""
+msgstr "대상이 플레이할 수 있는 캐릭터여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_104_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:729
 msgctxt "h027be8a0gdd7bg415ega5aege774647a281a"
 msgid "Target must be a Plant."
-msgstr ""
+msgstr "대상이 식물이어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_105_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:736
 msgctxt "ha8519430g862bg45ccgb34cgfaf980430d21"
 msgid "Can't target Plants."
-msgstr ""
+msgstr "식물을 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_106_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:743
 msgctxt "hf45ffccag0e68g4bfaga132g85ef411ecee7"
 msgid "Target must be an Elemental."
-msgstr ""
+msgstr "대상이 정령이어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_107_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:750
 msgctxt "h6e46e4bcg6192g4408g84bfg8c6db4b7acbc"
 msgid "Can't target Elementals."
-msgstr ""
+msgstr "정령을 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_108_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:722
 msgctxt "h22911593g715dg439cga791g70f5a75a4fb1"
 msgid "Target must be Burning."
-msgstr ""
+msgstr "연소 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_109_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:757
@@ -15733,7 +15740,7 @@ msgstr "담글 수 있는 표면이어야합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:78
 msgctxt "h4fd959aag34e4g48d1g840bg959a98575c52"
 msgid "Target can't be a creature."
-msgstr ""
+msgstr "크리쳐를 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_110_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:764
@@ -15745,37 +15752,37 @@ msgstr "이 무기를 담글 수 없습니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:771
 msgctxt "h3564a7eagf6aag44fag9370g02f72aa038a5"
 msgid "Too heavy to Throw."
-msgstr ""
+msgstr "너무 무거워 던질 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_112_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:778
 msgctxt "h1c251b45g9d62g4027ga66bg1c51a138639e"
 msgid "Target can't have a Shield equipped."
-msgstr ""
+msgstr "대상은 방패를 착용할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_113_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:785
 msgctxt "h1401c110gbd6eg4391gba2cg5fcb5d4bb346"
 msgid "Target must have a Shield equipped."
-msgstr ""
+msgstr "대상이 방패를 착용한 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_114_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:792
 msgctxt "h5d78159fg397cg471cgb19cg1cbd0deb1a73"
 msgid "Requires Proficiency with [1]."
-msgstr ""
+msgstr "[1] 숙련도가 필요합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_115_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:806
 msgctxt "h82fc9efeg469eg4d31gbbb5g6f7f3760c5a8"
 msgid "Target must be flying creature."
-msgstr ""
+msgstr "비행중인 크리쳐를 대상으로 해야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_116_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:813
 msgctxt "h8d18fae7g17c0g44dcg91bfg6c85c0beb502"
 msgid "Can't target flying creatures."
-msgstr ""
+msgstr "비행중인 크리쳐를 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_117_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:799
@@ -15787,97 +15794,97 @@ msgstr "이번 차례에 질주 또는 철수를 사용했어야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:820
 msgctxt "hfcd0f83bge7e5g41a8ga94fgb37f8905418d"
 msgid "Target cannot be Prone."
-msgstr ""
+msgstr "대상은 엎어짐 상태가 될 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_119_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:827
 msgctxt "h71417665g4d79g45d6gaec7g46fde661a05a"
 msgid "Target must be Prone."
-msgstr ""
+msgstr "대상이 엎어짐 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_11_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:85
 msgctxt "h95fbeb3dg66c8g406dgbc4eg51289e080f8f"
 msgid "Target cannot be an inanimate entity."
-msgstr ""
+msgstr "생기 없는 개체를 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_120_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:841
 msgctxt "h8cdb7216g79b5g43afg9725ga1cccda1168c"
 msgid "Too heavy to pick up."
-msgstr ""
+msgstr "너무 무거워 들 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_121_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:834
 msgctxt "hd7ff8bd0ga5ddg42cbga116g7e4b5357f0b8"
 msgid "Must take a Short or Long Rest."
-msgstr ""
+msgstr "길거나 짧은 휴식을 취해야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_122_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:848
 msgctxt "h85ad14adgeecbg4bc9gb78cg724a843958d1"
 msgid "Must not have any Lightning Charges."
-msgstr ""
+msgstr "잔여 번개 충전이 없어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_123_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:855
 msgctxt "hbf5d075cg1e12g4009gaeb9geb15c3074b25"
 msgid "Not enough Lightning Charges."
-msgstr ""
+msgstr "번개 충전이 충분하지 않습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_124_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:862
 msgctxt "h11ef5637gdbf8g4b9ag867ag765b4b9c02a9"
 msgid "Lightning Aura already active."
-msgstr ""
+msgstr "번개 오라가 이미 활성화된 상태입니다."
 
 #. key = Shared_ConditionErrors_New_Stat_125_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:869
 msgctxt "h5572de04g9e23g4b82ga117g4b7645393340"
 msgid "Must have Lightning Aura."
-msgstr ""
+msgstr "번개 오라를 보유중이어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_126_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:876
 msgctxt "h767b7ca5gbebdg448cgb670gab168af45c1e"
 msgid "Too far above target."
-msgstr ""
+msgstr "대상이 너무 높이 있습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_127_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:883
 msgctxt "h1e36301cg610fg4c91g8f57ge60d633fb501"
 msgid "Must be at least [1] above target."
-msgstr ""
+msgstr "대상보다 최소 [1] 이상 높아야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_128_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:890
 msgctxt "h72dbeb23g53a0g4983g8796g38c7bb0a28ef"
 msgid "Cannot have Momentum."
-msgstr ""
+msgstr "추진력을 가질 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_129_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:897
 msgctxt "hdae4529bg33b8g4b30ga83bgf2247f69aa40"
 msgid "Must have Momentum."
-msgstr ""
+msgstr "추진력을 가지고 있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_12_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:92
 msgctxt "h5b4ebbbdg7528g4a8fgaebcgb1e4db8648df"
 msgid "Target can't be an ally."
-msgstr ""
+msgstr "아군을 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_130_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:904
 msgctxt "haac36bb2g2fbfg47f9g9755g84a1bc1f9e5b"
 msgid "Must be able to Attack."
-msgstr ""
+msgstr "공격할 수 있는 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_131_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:911
 msgctxt "h328e27e8g8a1ag4eddga437ga05a17986062"
 msgid "Cannot be Immobilised."
-msgstr ""
+msgstr "이동 불가에 면역입니다."
 
 #. key = Shared_ConditionErrors_New_Stat_132_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:918
@@ -15889,25 +15896,25 @@ msgstr "이번 차례에 질주를 사용했어야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:925
 msgctxt "h141af6e7g7d9eg4f3bgb185ge3f34dc34935"
 msgid "Can't be used as improvised weapon."
-msgstr ""
+msgstr "즉석 무기로 사용할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_134_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:932
 msgctxt "h919a43f8g2660g4734g8a1bg5386c902b345"
 msgid "Must be Enraged."
-msgstr ""
+msgstr "격노 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_135_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:939
 msgctxt "h7f45a608gd08cg4a83g9611g026bd321cfa2"
 msgid "Can't be used with equipped weapon."
-msgstr ""
+msgstr "착용한 무기로 인해 사용할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_136_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:946
 msgctxt "hf5facd39g9f7ag4f36gbeaeg17206140e3c8"
 msgid "Quarterstaff or Club required."
-msgstr ""
+msgstr "쿼터스태프나 곤봉이 필요합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_137_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:953
@@ -15937,7 +15944,7 @@ msgstr "대상은 아군이어야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:974
 msgctxt "hb2770a1bgcb84g4765ga619gc00a9d71e81c"
 msgid "You can't rest while your party is in combat."
-msgstr ""
+msgstr "일행이 전투 중일 때는 휴식을 취할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_141_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:981
@@ -15955,13 +15962,13 @@ msgstr "더 이상 짧은 휴식을 취할 수 없습니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:995
 msgctxt "ha56675c7ge2bbg4f3ag9392g975a68c712a3"
 msgid "You can't take a Short Rest while party members are Downed."
-msgstr ""
+msgstr "일행 중 쓰러진 동료가 있을 때는 짧은 휴식을 취할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_144_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1002
 msgctxt "he956a51bg2d8cg4872g844eg4e005f92cb94"
 msgid "Too heavy to pick up."
-msgstr ""
+msgstr "너무 무거워 들 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_145_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1009
@@ -15973,7 +15980,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1016
 msgctxt "h86209094g36fbg4c00g8fe2gc48348eb3e56"
 msgid "Blocked by Mind Shield"
-msgstr ""
+msgstr "정신 방패에 의해 차단됨"
 
 #. key = Shared_ConditionErrors_New_Stat_147_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1023
@@ -15985,13 +15992,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1030
 msgctxt "h4da1a468g2c6cg4be7ga70eg3b7b887deea8"
 msgid "Must have landed a Critical Hit."
-msgstr ""
+msgstr "치명타를 적중시켰어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_149_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1037
 msgctxt "h98bc9bc0g592fg4a40gbd5bg52ba84af3503"
 msgid "Requires proficiency with equipped weapon."
-msgstr ""
+msgstr "착용한 무기에 숙련된 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_14_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:106
@@ -16003,7 +16010,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1044
 msgctxt "h87fdfb03g263dg43cfgb675g43184b763640"
 msgid "Must be Invisible or Sneaking."
-msgstr ""
+msgstr "투명하거나 은신한 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_154_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1065
@@ -16015,43 +16022,43 @@ msgstr "대상의 레벨이 너무 높습니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1072
 msgctxt "hf026bbdagbe87g4081g95c0g1dcd26a12646"
 msgid "Undead is already being controlled."
-msgstr ""
+msgstr "이미 통제되고 있는 언데드입니다."
 
 #. key = Shared_ConditionErrors_New_Stat_156_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1079
 msgctxt "h2b768166gb911g4089g9af3g67d289ebee49"
 msgid "Target isn't Cursed."
-msgstr ""
+msgstr "대상이 저주에 걸리지 않았습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_157_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1086
 msgctxt "hbe494550gb6b6g4d1egb0d6g1b088bef3c93"
 msgid "Can't be Controlled."
-msgstr ""
+msgstr "대상을 조종할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_15_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:113
 msgctxt "h5ff03afag3d5cg46feg98c1g429237358882"
 msgid "Has: [1]."
-msgstr ""
+msgstr "보유중: [1]."
 
 #. key = Shared_ConditionErrors_New_Stat_16_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:120
 msgctxt "he73ec80eg65f4g4ea1gafb1g2a76ef2569a7"
 msgid "Target must be an enemy."
-msgstr ""
+msgstr "적을 대상으로 해야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_17_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:127
 msgctxt "h034dd054g192fg4b97gbc52ga5396d53ee8f"
 msgid "Target can't be an enemy."
-msgstr ""
+msgstr "적을 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_18_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:134
 msgctxt "hdf8accd0gcb9dg43d9gbdf3g743b2bbae80b"
 msgid "Target must be an item."
-msgstr ""
+msgstr "대상이 아이템이어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_19_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:141
@@ -16081,25 +16088,25 @@ msgstr "시체를 대상으로 지정할 수 없습니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:162
 msgctxt "hb728f279gf902g4ff9gb7f3g59da70aff9a2"
 msgid "Corpse too damaged."
-msgstr ""
+msgstr "시체가 너무 손상되었습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_23_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:169
 msgctxt "hf9599ab8g627eg4066g9505g3c8bc218b049"
 msgid "Corpse must be damaged."
-msgstr ""
+msgstr "시체가 손상된 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_24_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:176
 msgctxt "h8089bb28g7cc2g488dg8443gbafdc8216e5c"
 msgid "Target must be movable."
-msgstr ""
+msgstr "움직일 수 있는 대상이어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_25_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:183
 msgctxt "heb9f98bdg1132g4ceag8643g52cb1390fb32"
 msgid "Can't be movable."
-msgstr ""
+msgstr "이동시킬 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_26_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:190
@@ -16117,43 +16124,43 @@ msgstr "턴제 모드 상태에서는 불가능합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:204
 msgctxt "h110ece7cg5e92g46dfg8c85g7ea9a0d6abe2"
 msgid "Target must be Immobilised."
-msgstr ""
+msgstr "대상이 이동 불가 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_29_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:211
 msgctxt "h2ce51461ge21fg4bf2gaa5agea1bcf373ec5"
 msgid "Can't be Immobilised."
-msgstr ""
+msgstr "이동 불가에 빠질 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_2_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:8
 msgctxt "hdda88715g0f4fg49c1ga22dga11b80dcf8b9"
 msgid "Requires Concentration."
-msgstr ""
+msgstr "집중이 필요합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_30_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:218
 msgctxt "h510c16d4g47e6g4288ga058gc0c6fe56573d"
 msgid "Not enough space."
-msgstr ""
+msgstr "공간이 충분하지 않습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_31_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:225
 msgctxt "h4f2fbc24gf0bag4119g8f58g44a6ef1ca9c5"
 msgid "Targeted space must be occupied."
-msgstr ""
+msgstr "목표 지점이 선점되어 있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_32_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:232
 msgctxt "h3cf9e287gcb0bg43f4g9504g72922fd54120"
 msgid "Ally must be within [1]."
-msgstr ""
+msgstr "아군이 [1] 안에 있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_33_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:239
 msgctxt "h8c0a8f8bg8d19g4955gb6deg45ec0fa11b18"
 msgid "Ally can't be within [1]."
-msgstr ""
+msgstr "아군이 [1] 범위 안에 있을 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_34_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:246
@@ -16171,13 +16178,13 @@ msgstr "플레이어를 대상으로 삼을 수 없습니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:260
 msgctxt "h946e0f04ga4a1g40b2gb9fag25313894db37"
 msgid "Target must be a Summon."
-msgstr ""
+msgstr "소환수를 대상으로 해야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_37_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:267
 msgctxt "h0bba1360g0b66g4975g8a64g6701d3f7f8da"
 msgid "Target can't be a Summon."
-msgstr ""
+msgstr "소환수를 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_38_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:274
@@ -16189,55 +16196,55 @@ msgstr "대상은 방어구를 착용한 상태여야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:281
 msgctxt "h480a4115gfe7ag41b4gb18cg267d2e511ae5"
 msgid "Can't have armour equipped."
-msgstr ""
+msgstr "갑옷을 착용할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_3_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:15
 msgctxt "hefbbf3fag8a2eg4c81gb72cg893f1a238a7f"
 msgid "Can't be Concentrating."
-msgstr ""
+msgstr "집중할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_40_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:288
 msgctxt "hbf377eeage163g4c75gb72fgce3895cfef71"
 msgid "Can't have Advantage against target."
-msgstr ""
+msgstr "대상에게 이점을 가질 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_41_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:295
 msgctxt "hd1b25ae8gdabeg480bgb1cbg2d8e7d5f45a4"
 msgid "Must have Advantage against target."
-msgstr ""
+msgstr "대상에게 이점을 가지고 있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_42_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:302
 msgctxt "hf754cf16g7ed2g486cgba32gd469b31546ab"
 msgid "Can't have Disadvantage against target."
-msgstr ""
+msgstr "대상에게 불리점을 가질 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_43_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:309
 msgctxt "hc54f3ae4g2dfbg4204gb7eeg159a486e12bb"
 msgid "Must have Disadvantage against target."
-msgstr ""
+msgstr "대상에게 불리점을 가지고 있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_44_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:316
 msgctxt "h8b1ab755g2748g4809gbdc4ga8edfb2f0a56"
 msgid "Area cannot be Obscured."
-msgstr ""
+msgstr "영역이 가려질 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_45_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:323
 msgctxt "h853a6b0eg4dd1g4120g91f0gfeb6b88f7c73"
 msgid "Area must be Lightly or Heavily Obscured."
-msgstr ""
+msgstr "영역이 살짝, 또는 두껍게 가려진 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_46_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:330
 msgctxt "hd9e54f9ag713eg4c31g9fafg80c46feedc18"
 msgid "Area must be Lightly Obscured."
-msgstr ""
+msgstr "영역이 가볍게 살짝 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_47_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:337
@@ -16261,67 +16268,67 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:22
 msgctxt "h688e9d8ag55c9g41f8ga85bg4f527af26cb2"
 msgid "No target."
-msgstr ""
+msgstr "대상이 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_50_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:358
 msgctxt "h7a9496ffgb583g441aga6ccg457f74d5067b"
 msgid "Can't be more than [1] away."
-msgstr ""
+msgstr "[1] 이상 떨어져 있을 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_51_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:365
 msgctxt "h1b5793c2gd268g44e8g98e8g79c8f6e5e749"
 msgid "Must be at least [1] away."
-msgstr ""
+msgstr "최소 [1] 이상 떨어져 있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_52_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:372
 msgctxt "h0202b2f4gf39dg4f16gbfa1g9bfffa2cd7d1"
 msgid "Must be less than [1] away."
-msgstr ""
+msgstr "[1] 미만 거리에 있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_53_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:379
 msgctxt "hb636ade4g7852g4445g9e70gee45c6cac826"
 msgid "Must be more than [1] away."
-msgstr ""
+msgstr "[1] 이상 떨어져 있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_54_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:386
 msgctxt "hf2b5a016g7552g4deag9582ga210e132df73"
 msgid "Can't be metal."
-msgstr ""
+msgstr "금속을 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_55_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:393
 msgctxt "h86e11334g2cb6g485eg8145g6188c881e9d5"
 msgid "Target must be metal."
-msgstr ""
+msgstr "금속을 대상으로 해야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_56_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:400
 msgctxt "h2149181bg57f2g4f2fgb3c6g4332d5e58559"
 msgid "Can't have Metal Weapon."
-msgstr ""
+msgstr "금속 무기를 가지고 있을 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_57_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:407
 msgctxt "h198e52d2g4cc4g4bfbgaf0dg4f91c6cb7ea0"
 msgid "Metal Weapon needed."
-msgstr ""
+msgstr "금속 무기가 필요합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_58_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:414
 msgctxt "h2228c243gd7d8g40d9g8d48g076fc706f6a2"
 msgid "Can't have Metal Armour."
-msgstr ""
+msgstr "금속 갑옷을 가질 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_59_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:421
 msgctxt "h097d0d37g0eebg4d78gb613gb2810562e35b"
 msgid "Metal Armour needed."
-msgstr ""
+msgstr "금속 갑옷이 필요합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_5_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:29
@@ -16333,13 +16340,13 @@ msgstr "대상은 반드시 자기 자신이어야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:428
 msgctxt "hb4cc569cg9975g4968g98ecg36814300eb64"
 msgid "Intelligence must be [1] or less."
-msgstr ""
+msgstr "지능이 [1] 이하여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_61_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:435
 msgctxt "h3f9a5690g291dg4686g81eeg6834c90ad6b4"
 msgid "Intelligence must be [1] or more."
-msgstr ""
+msgstr "지능이 [1] 이상이어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_62_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:442
@@ -16351,79 +16358,80 @@ msgstr "밀치기엔 너무 무겁습니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:449
 msgctxt "h89f346e0g78ffg42c4ga992g62acbf11676b"
 msgid "Heat Metal must be active."
-msgstr ""
+msgstr "금속 가열이 활성화 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_64_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:456
 msgctxt "hd6089abagda32g47d3ga1f3ga3a992172401"
 msgid "Can't target Undead."
-msgstr ""
+msgstr "언데드를 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_65_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:463
 msgctxt "h4ac5257cg6c32g4cfeg80f1g37eec2ac3bed"
 msgid "Target must be Undead."
-msgstr ""
+msgstr "언데드를 대상으로 해야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_66_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:470
 msgctxt "h6084fadagbffcg454cg805dgb302b524e5c3"
 msgid "Can't target Constructs."
-msgstr ""
+msgstr "구조물을 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_67_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:477
 msgctxt "h8b927e93gcda3g41b3gaa04g3d0bda7a24a7"
 msgid "Target must be a Construct."
-msgstr ""
+msgstr "구조물을 대상으로 해야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_68_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:484
 msgctxt "h99860e24gc62bg4fb1g8ff9g16341f44cf31"
 msgid "Can't be Downed."
-msgstr ""
+msgstr "쓰러질 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_69_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:491
 msgctxt "he55aaa9bgca09g4a81gae08gdbf047cf66bf"
 msgid "Target must be Downed."
-msgstr ""
+msgstr "대상이 쓰러진 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_6_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:36
+#, fuzzy
 msgctxt "h821b71c4g8d6bg409dgac46ge67bbec248f0"
 msgid "Missing: [1]."
-msgstr ""
+msgstr "누락됨: [1]."
 
 #. key = Shared_ConditionErrors_New_Stat_70_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:498
 msgctxt "h1e537022gf660g4615g9bb5gc2d0dbcd35aa"
 msgid "Affected by Faerie Fire."
-msgstr ""
+msgstr "페어리 불꽃의 영향을 받고 있습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_71_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:505
 msgctxt "h1a8a6fa1gf31eg439bg9258gbf7877839ab0"
 msgid "Faerie Fire must be in effect."
-msgstr ""
+msgstr "페어리 불꽃의 효과를 받는 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_72_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:526
 msgctxt "hc6765e0dg1e93g4f56gb8dag6cc964a15dfd"
 msgid "Target can't be Threatened."
-msgstr ""
+msgstr "대상을 위협할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_73_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:512
 msgctxt "hd629ba1cgdcdcg444eg832dg6c617fa3ea13"
 msgid "Must Have a Helpable Condition."
-msgstr ""
+msgstr "도움을 받을 수 있는 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_74_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:519
 msgctxt "h8c6e64ceg9430g4dd1g83efg6df7d9ad1765"
 msgid "Target must be Threatened."
-msgstr ""
+msgstr "대상이 위협받고 있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_75_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:533
@@ -16453,79 +16461,79 @@ msgstr "대상에게 기생충이 있어야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:561
 msgctxt "hc448153cg5690g4101gbbc6g6235b0448e7c"
 msgid "Can't target Monstrosities."
-msgstr ""
+msgstr "괴물을 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_7_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:43
 msgctxt "h0005b404g6facg4574g9a8cg6de138cc2fd6"
 msgid "Target can't be Restrained."
-msgstr ""
+msgstr "구속될 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_80_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:568
 msgctxt "h452f64c0gb371g4531ga984gd38012c8f854"
 msgid "Target must be a Monstrosity."
-msgstr ""
+msgstr "괴물을 대상으로 해야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_81_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:575
 msgctxt "h9da11357gfda4g47c2gabd1gecf22afa6cb5"
 msgid "Can't target Beasts."
-msgstr ""
+msgstr "야수를 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_82_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:582
 msgctxt "hf48b2ef8g6cd0g4af6g96f3gd864374ccb41"
 msgid "Target must be a Beast."
-msgstr ""
+msgstr "야수를 대상으로 해야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_83_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:589
 msgctxt "hbcf561dbg836dg47c1g9ccbg399f6035f020"
 msgid "Can't target Fiends."
-msgstr ""
+msgstr "악마를 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_84_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:596
 msgctxt "h35326d04gf651g4654g948bgc206605ef066"
 msgid "Target must be a Fiend. "
-msgstr ""
+msgstr "악마를 대상으로 해야 합니다. "
 
 #. key = Shared_ConditionErrors_New_Stat_85_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:603
 msgctxt "h87af1ba5g7ba6g4e75g8797g6daf2b132b24"
 msgid "Can't target Fey."
-msgstr ""
+msgstr "페이를 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_86_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:610
 msgctxt "h028c9f98g3d98g4611g9df4g87b28d79ca22"
 msgid "Target must be Fey."
-msgstr ""
+msgstr "페이를 대상으로 해야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_89_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:617
 msgctxt "h07e045aag8eb8g42e8gb42eg591f768b64cc"
 msgid "Corpse can no longer speak."
-msgstr ""
+msgstr "시체와 더 이상 대화할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_8_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:50
 msgctxt "h2944e824g7a7bg48f5gb1c2g73d47b414302"
 msgid "Target must be Restrained."
-msgstr ""
+msgstr "대상이 구속된 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_90_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:624
 msgctxt "h262ebd61gf761g437bg8721gf1c1d4f688e8"
 msgid "Already affected by Crown of Madness."
-msgstr ""
+msgstr "이미 광기의 왕관의 영향을 받고 있습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_91_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:631
 msgctxt "h638b36cbg2334g4a0dgaa8cg9ab96ca6ce63"
 msgid "Crown of Madness must be in effect."
-msgstr ""
+msgstr "광기의 왕관에 효과를 받고 있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_92_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:638
@@ -16537,19 +16545,19 @@ msgstr "대상은 반드시 젖음 상태여야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:652
 msgctxt "h86e9a589gdcf7g48afg8112g99a2fb85b7df"
 msgid "Target must be affected by Witch Bolt."
-msgstr ""
+msgstr "대상이 주술 화살의 영향을 받고 있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_94_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:645
 msgctxt "hdc19c6bega8deg4b8ag98bag9de17d9ac609"
 msgid "Must be a water-based surface."
-msgstr ""
+msgstr "물에 관련된 표면이어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_95_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:666
 msgctxt "h3970301ege2aeg4cd2g8c8eg91dff01c439e"
 msgid "Must be locked."
-msgstr ""
+msgstr "잠겨있어야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_96_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:673
@@ -16561,25 +16569,25 @@ msgstr "이미 잠금 해제되어있습니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:659
 msgctxt "heb20b921g993ag45f9g8beag2ed9ea0fedab"
 msgid "Target must have a weapon in main hand."
-msgstr ""
+msgstr "대상이 주 손에 무기를 착용한 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_98_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:680
 msgctxt "h4d30702ag789ag4dd2g9030g0d6975894186"
 msgid "Can't wield a weapon in main hand."
-msgstr ""
+msgstr "주 손에 무기를 착용할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_99_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:687
 msgctxt "h4a37a667g6619g4303g9dbeg6a908ece9a47"
 msgid "Target must be Unconscious."
-msgstr ""
+msgstr "대상이 무의식 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_9_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:57
 msgctxt "he3a7c81eg7df0g4417g82f2g7a9876779e96"
 msgid "Must be wielding a Finesse weapon in main hand."
-msgstr ""
+msgstr "주 손에 기교 무기를 장착한 상태여야 합니다."
 
 #. key = CraftingStationsItemComboPreviewData_Anvil_Tooltip
 #: Shared/Public/Shared/Localization/ItemCombinations.lsx:8
@@ -16591,13 +16599,13 @@ msgstr "모루"
 #: Shared/Public/Shared/Localization/ItemCombinations.lsx:29
 msgctxt "hf085c64cg0c1eg4272gb51fg0bd46725ec83"
 msgid "Beehive"
-msgstr ""
+msgstr "벌집"
 
 #. key = CraftingStationsItemComboPreviewData_BoilingPot_Tooltip
 #: Shared/Public/Shared/Localization/ItemCombinations.lsx:36
 msgctxt "h70c96c14g835ag4069ga5cbg9dbd503c80d5"
 msgid "Boiling Pot"
-msgstr ""
+msgstr "끓는 솥"
 
 #. key = CraftingStationsItemComboPreviewData_Cauldron_Tooltip
 #: Shared/Public/Shared/Localization/ItemCombinations.lsx:57
@@ -16609,7 +16617,7 @@ msgstr "가마솥"
 #: Shared/Public/Shared/Localization/ItemCombinations.lsx:15
 msgctxt "hc6f337bagea3dg44d1g9e9fge5e49bcbf0db"
 msgid "Oven"
-msgstr ""
+msgstr "오븐"
 
 #. key = CraftingStationsItemComboPreviewData_SpinningWheel_Tooltip
 #: Shared/Public/Shared/Localization/ItemCombinations.lsx:43
@@ -16627,73 +16635,73 @@ msgstr "우물"
 #: Shared/Public/Shared/Localization/ItemCombinations.lsx:22
 msgctxt "h5a122598g32b0g4182g8debg6d9a7b46d669"
 msgid "Wetstone"
-msgstr ""
+msgstr "숫돌"
 
 #. key = Shared_DayRanges_New_Stat_0_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:8
 msgctxt "h99093661g592ag43f2g9765g26c61dd287ac"
 msgid "Deepwinter"
-msgstr ""
+msgstr "딥윈터"
 
 #. key = Shared_DayRanges_New_Stat_0_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:8
 msgctxt "h1388fbcfg2ef8g4c73g90f0g43f678295425"
 msgid "Hammer"
-msgstr "망치"
+msgstr "해머"
 
 #. key = Shared_DayRanges_New_Stat_10_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:78
 msgctxt "h42497c78g1569g46dbgb511g669c4ff695a9"
 msgid "Shieldmeet"
-msgstr ""
+msgstr "실드미트"
 
 #. key = Shared_DayRanges_New_Stat_10_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:78
 msgctxt "hfbfba27eg7b50g4166gae39g7cd525f11bcc"
 msgid "Shieldmeet"
-msgstr ""
+msgstr "실드미트"
 
 #. key = Shared_DayRanges_New_Stat_11_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:85
 msgctxt "hfd2a3509g788bg4914g8217g48dcc568e85a"
 msgid "Highsun"
-msgstr ""
+msgstr "하이선"
 
 #. key = Shared_DayRanges_New_Stat_11_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:85
 msgctxt "hf0b0c6d5gfc20g4591gbc13gc643bc860483"
 msgid "Eleasis"
-msgstr ""
+msgstr "엘레아시스"
 
 #. key = Shared_DayRanges_New_Stat_12_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:92
 msgctxt "h6c7e94ecg0877g44a7ga035g5508df43a8bd"
 msgid "The Fading"
-msgstr ""
+msgstr "더 페이딩"
 
 #. key = Shared_DayRanges_New_Stat_12_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:92
 msgctxt "h42a0d765gdb1bg46a5gb35eg74d2c2e4835e"
 msgid "Elient"
-msgstr ""
+msgstr "엘리언트"
 
 #. key = Shared_DayRanges_New_Stat_13_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:99
 msgctxt "h36745427g557eg4673g95abg33cbef49b52f"
 msgid "Highharvesttide"
-msgstr ""
+msgstr "하이하버사이드"
 
 #. key = Shared_DayRanges_New_Stat_13_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:99
 msgctxt "h5a03942dgdc6ag491bgae6ega90effe7242f"
 msgid "Highharvesttide"
-msgstr ""
+msgstr "하이하버사이드"
 
 #. key = Shared_DayRanges_New_Stat_14_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:106
 msgctxt "hffb00b6aga90ag4848gb66bga42b5b482ca9"
 msgid "Leaffall"
-msgstr ""
+msgstr "리프폴"
 
 #. key = Shared_DayRanges_New_Stat_14_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:106
@@ -16852,12 +16860,14 @@ msgid ""
 "Increase one Ability by 2, or two Abilities by 1. You can't increase an "
 "Ability above 20 using this feature."
 msgstr ""
+"능력치 하나를 2 만큼 올리거나, 두 개의 능력치를 각각 1 만큼 올립니다. 이 요소를 이용해서 능력치 하나를 20 보다 높게 올릴 수는 "
+"없습니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_0_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:8
 msgctxt "h758e5f63gaf43g4cb8g823fgfd38226d2ecd"
 msgid "Ability Improvement"
-msgstr ""
+msgstr "능력치 향상"
 
 #. key = Shared_FeatDescriptions_New_Stat_10_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:78
