@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-05 18:52+0000\n"
+"PO-Revision-Date: 2023-03-10 11:52+0000\n"
 "Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -2863,7 +2863,7 @@ msgstr "착용자의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 50% 이하�
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:463
 msgctxt "h60c7c367g27a1g4974ga2a1g9981f61131f3"
 msgid "Grit"
-msgstr "그릿"
+msgstr "투지"
 
 #. key = Gustav_Passive_MAG_LowHP_CounterOnDamage_Passive_Description
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:400
@@ -3275,9 +3275,9 @@ msgid ""
 ">Resistance</LSTag> against Bludgeoning, Piercing, and Slashing damage dealt "
 "by weapon attacks."
 msgstr ""
-"<LSTag Tooltip=\"HitPoints\">체력</LSTag>이 [1]% 이하 만큼 남은 대상에게 <LSTag Type="
-"\"Spell\" Tooltip=\"Target_LayOnHands\">안수 치료</LSTag>를 사용하면, 무기를 통한 부수기, "
-"찌르기와 베기 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 부여합니다."
+"<LSTag Tooltip=\"HitPoints\">체력</LSTag>이 [1]% 이하인 대상에게 <LSTag Type=\"Spell\" "
+"Tooltip=\"Target_LayOnHands\">안수 치료</LSTag>를 사용하면, 무기를 통한 부수기, 찌르기와 베기 피해에 "
+"<LSTag Tooltip=\"Resistant\">저항</LSTag>을 부여합니다."
 
 #. key = Gustav_Passive_MAG_Paladin_LayOnHandsSupport_Gloves_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:981
@@ -4334,7 +4334,7 @@ msgstr "<LSTag Type=\"Status\" Tooltip=\"INVISIBILITY\">투명</LSTag>한 상태
 #: Gustav/Public/Gustav/Localization/Stats/Shout_DisplayName.lsx:92
 msgctxt "hb8c6ea8ag8881g4d3ag94a7gffe121d98b1d"
 msgid "Shrouded in Shadow"
-msgstr "그림자에 숨음"
+msgstr "그림자 숨기"
 
 #. key = Gustav_Shout_UND_MonkAmulet_TalkToAmulet_Description
 #: Gustav/Public/Gustav/Localization/Stats/Shout_Description.lsx:141
@@ -8102,7 +8102,7 @@ msgctxt "h1d06df95g7f0ag4a3eg996ag2f7c94531a0f"
 msgid ""
 "Superiority dice are spent to empower Battle Master manoeuvres, improving "
 "proficiency in combat."
-msgstr "우월성 주사위는 배틀 마스터의 기동을 강화하여 전투에서 숙련도를 증가시킵니다."
+msgstr "우월성 주사위는 배틀 마스터의 전술을 강화하여 전투에서 숙련도를 증가시킵니다."
 
 #. key = Shared_ActionResourceDefinitions_New_Stat_8_DisplayName
 #: Shared/Public/Shared/Localization/ActionResourceDefinitions_DisplayName.lsx:64
@@ -14180,7 +14180,7 @@ msgctxt "h3aa4b4a4g0076g4635gb363g7891e8f2e495"
 msgid ""
 "The strong embrace the wild that hides inside - keen instincts, primal "
 "physicality, and most of all, an unbridled, unquenchable rage."
-msgstr "강자란 예리한 본능, 원초적인 육체, 그리고 무엇보다도 채워지지도, 꺼지지도 않는 분노를 끌어안고 있는 자를 칭합니다."
+msgstr "강자란 예리한 본능, 원초적인 육체, 그리고 무엇보다 채워지지도, 꺼지지도 않는 분노를 끌어안고 있는 자를 칭합니다."
 
 #. key = Shared_ClassDescriptions_New_Stat_26_DisplayName
 #: Shared/Public/Shared/Localization/ClassDescriptions_DisplayName.lsx:183
@@ -16878,12 +16878,15 @@ msgid ""
 "Dice after a <LSTag Tooltip=\"ShortRest\">Short</LSTag> or <LSTag Tooltip="
 "\"LongRest\">Long Rest</LSTag>."
 msgstr ""
+"배틀 마스터의 두 가지 전술을 배우고, 그에 따라 추가 우월성 주사위를 1 개 얻습니다. 우월성 주사위는 <LSTag Tooltip="
+"\"ShortRest\">Short</LSTag> or <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취한 "
+"뒤 재충전됩니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_10_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:78
 msgctxt "hfc6d8c58gfb0eg4514gbf27g05a428bc70fe"
 msgid "Martial Adept"
-msgstr ""
+msgstr "군사 전문가"
 
 #. key = Shared_FeatDescriptions_New_Stat_11_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:85
@@ -16894,12 +16897,15 @@ msgid ""
 "if you move after making a melee attack, you don't provoke <LSTag Tooltip="
 "\"OpportunityAttack\">Opportunity Attacks</LSTag> from your target."
 msgstr ""
+"<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 증가합니다. 질주 행동을 취하면, 험난한 지형에 "
+"의해 이동 속도가 느려지지 않습니다. 나아가, 근접 공격을 한 뒤 이동하면, 대상에게서 <LSTag Tooltip="
+"\"OpportunityAttack\">기회 공격</LSTag>을 유발하지 않습니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_11_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:85
 msgctxt "hb434e5e8g23c2g439eg9703g2ac8fc9616ea"
 msgid "Mobile"
-msgstr ""
+msgstr "기동성"
 
 #. key = Shared_FeatDescriptions_New_Stat_12_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:92
@@ -16910,12 +16916,15 @@ msgid ""
 ">Strength</LSTag> or <LSTag Tooltip=\"Dexterity\">Dexterity</LSTag> by 1, to "
 "a maximum of 20."
 msgstr ""
+"평갑과 방패에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고, <LSTag "
+"Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip=\"Dexterity\">민첩</LSTag>이 "
+"최대 20 이 될 때까지 1 만큼 상승합니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_12_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:92
 msgctxt "h59206840g58f3g4a32g80afg737175740ee5"
 msgid "Moderately Armoured"
-msgstr ""
+msgstr "적당히 무장함"
 
 #. key = Shared_FeatDescriptions_New_Stat_13_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:99
@@ -16930,12 +16939,17 @@ msgid ""
 "damage. On a successful save, you don't take any damage, even if you "
 "normally would."
 msgstr ""
+"방패를 착용하고 있으면 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +2 보너스를 얻습니다.\n"
+"\n"
+"주문에 의해 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>이 요구되면, 반응 행동을 사용해 방패로 "
+"몸을 보호해 그 효과의 피해를 약화할 수 있습니다. <br><br>내성 굴림이 실패한 경우, 절반의 피해만 받습니다. 성공한 경우, "
+"일반적으로 피해를 받을 때에도 전혀 피해를 입지 않습니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_13_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:99
 msgctxt "h8d63974fgdcb8g463fg8bedg7e8f1ceb9722"
 msgid "Shield Master"
-msgstr ""
+msgstr "방패 전문가"
 
 #. key = Shared_FeatDescriptions_New_Stat_14_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:106
@@ -16944,24 +16958,26 @@ msgid ""
 "You gain <LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> in 3 <LSTag "
 "Tooltip=\"Skill\">Skills</LSTag> of your choice."
 msgstr ""
+"선택한 3 가지 <LSTag Tooltip=\"Skill\">기술</LSTag>에 <LSTag Tooltip=\"Proficiency\""
+">숙련도</LSTag>를 얻습니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_14_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:106
 msgctxt "h9a80093agaa68g4543gbd90g4f003fbb5518"
 msgid "Skilled"
-msgstr ""
+msgstr "숙련됨"
 
 #. key = Shared_FeatDescriptions_New_Stat_15_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:113
 msgctxt "h03874726g6ebbg4d7cg9723ge342da628ef1"
 msgid "Hit point maximum increased by 2 for each level."
-msgstr ""
+msgstr "각 레벨 당 최대 체력이 2 씩 증가합니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_15_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:113
 msgctxt "h50b861bdg5897g416fg8310g535d08356712"
 msgid "Tough"
-msgstr ""
+msgstr "튼튼함"
 
 #. key = Shared_FeatDescriptions_New_Stat_16_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:120
@@ -16971,12 +16987,15 @@ msgid ""
 "\"Dexterity\">Dexterity</LSTag> by 1, to a maximum of 20, and gain <LSTag "
 "Tooltip=\"Proficiency\">Proficiency</LSTag> with four weapons of your choice."
 msgstr ""
+"최대 20 이 될 때까지, <LSTag Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip="
+"\"Dexterity\">민첩</LSTag>이 1 만큼 증가하고, 선택한 4 가지 무기에 <LSTag Tooltip="
+"\"Proficiency\">숙련</LSTag>을 얻습니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_16_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:120
 msgctxt "h6c2e19f1gcf94g4189g8a79gfc5f3062cccc"
 msgid "Weapon Master"
-msgstr ""
+msgstr "무기 전문가"
 
 #. key = Shared_FeatDescriptions_New_Stat_17_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:127
@@ -16988,12 +17007,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Wisdom."
 msgstr ""
+"드루이드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 지혜입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_17_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:127
 msgctxt "h520bba07g4665g4ef0gb7e0g2550a2cf7d35"
 msgid "Magic Initiate: Druid"
-msgstr ""
+msgstr "마법 입문: 드루이드"
 
 #. key = Shared_FeatDescriptions_New_Stat_18_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:134
@@ -17005,12 +17028,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Charisma."
 msgstr ""
+"소서러 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 매력입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_18_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:134
 msgctxt "h8ef56b7fg497fg4c6fgb6f0gf05820bafa4a"
 msgid "Magic Initiate: Sorcerer"
-msgstr ""
+msgstr "마법 입문: 소서러"
 
 #. key = Shared_FeatDescriptions_New_Stat_19_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:141
@@ -17020,12 +17047,14 @@ msgid ""
 "Proficiency</LSTag> and increase your <LSTag Tooltip=\"Charisma\">Charisma</"
 "LSTag> by 1, to a maximum of 20."
 msgstr ""
+"<LSTag Tooltip=\"MusicalInstrumentProficiency\">악기 숙련도</LSTag>를 얻고, <LSTag "
+"Tooltip=\"Charisma\">매력</LSTag>이 최대 20 이 될 때까지 1 만큼 증가합니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_19_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:141
 msgctxt "h0cfdeae1g9386g412dg9eccgbdcb60651f37"
 msgid "Performer"
-msgstr ""
+msgstr "공연자"
 
 #. key = Shared_FeatDescriptions_New_Stat_1_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:15
@@ -17035,12 +17064,14 @@ msgid ""
 "\"Dexterity\">Dexterity</LSTag> by 1, to a maximum of 20. When you are "
 "Prone, standing up uses less movement."
 msgstr ""
+"<LSTag Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip=\"Dexterity\">민첩</"
+"LSTag> 이 최대 20 이 될 때까지 1 만큼 증가합니다. 엎어진 뒤 일어날 때, 이동 속도가 덜 소모됩니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_1_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:15
 msgctxt "h860bd485g72b2g45b8gbad7g02e8f5acdd3e"
 msgid "Athlete"
-msgstr ""
+msgstr "운동선수"
 
 #. key = Shared_FeatDescriptions_New_Stat_20_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:148
@@ -17052,12 +17083,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Charisma."
 msgstr ""
+"바드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 매력입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_20_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:148
 msgctxt "h4dc7d85ag3aceg412bga8e6g07103b9d2f75"
 msgid "Magic Initiate: Bard"
-msgstr ""
+msgstr "마법 입문: 바드"
 
 #. key = Shared_FeatDescriptions_New_Stat_2_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:22
@@ -17069,12 +17104,15 @@ msgid ""
 "<LSTag Tooltip=\"Finesse\">Finesse Weapon</LSTag> with which you are <LSTag "
 "Tooltip=\"Proficiency\">Proficient</LSTag>."
 msgstr ""
+"근접 공격을 받으면, 반응 행동을 사용해 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>를 2 만큼 "
+"증가시켜, 공격을 빗나가게 할 수 있습니다.<br><br> 필요 조건: <LSTag Tooltip=\"Proficiency\">숙련된</"
+"LSTag> <LSTag Tooltip=\"Finesse\">기교 무기</LSTag>를 착용 중이어야 합니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_2_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:22
 msgctxt "h9f05bf25g42e6g4a3bg87f1g9a29eab42f46"
 msgid "Defensive Duellist"
-msgstr ""
+msgstr "방어적 결투가"
 
 #. key = Shared_FeatDescriptions_New_Stat_3_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:29
@@ -17084,6 +17122,8 @@ msgid ""
 "wielding a melee weapon in each hand. You can use two-weapon fighting even "
 "if your weapons aren't light."
 msgstr ""
+"각 손에 근접 무기를 착용 중이면 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +1 보너스를 얻습니다. "
+"경량 무기가 아니더라도 양손에 무기를 착용할 수 있습니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_3_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:29
@@ -17102,12 +17142,16 @@ msgid ""
 "Tooltip=\"Proficiency\">Proficient</LSTag> with, <LSTag Tooltip=\"AttackRoll"
 "\">Attack Rolls</LSTag> take a -5 penalty, but their damage increases by 10."
 msgstr ""
+"근접 무기 공격이 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중하거나 대상을 죽이면, 해당 턴에 "
+"추가 행동으로써 <LSTag Tooltip=\"MeleeWeaponAttack\">근접 무기 공격</LSTag>을 할 수 있습니다. "
+"<br><br><LSTag Tooltip=\"Proficiency\">숙련된</LSTag> 대형 근접 무기로 공격하는 경우, <LSTag "
+"Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 -5 페널티를 받지만, 피해량이 10 만큼 증가합니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_4_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:36
 msgctxt "hf41eb2bag6496g4187g994dg62b9cb959e29"
 msgid "Great Weapon Master"
-msgstr ""
+msgstr "대형 무기 전문가"
 
 #. key = Shared_FeatDescriptions_New_Stat_5_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:43
@@ -17117,12 +17161,14 @@ msgid ""
 "Heavy Armour and increase your <LSTag Tooltip=\"Strength\">Strength</LSTag> "
 "by 1, to a maximum of 20."
 msgstr ""
+"중갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고 최대 20 이 될 때까지 "
+"<LSTag Tooltip=\"Strength\">근력</LSTag>이 1 만큼 증가합니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_5_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:43
 msgctxt "h75a791a4g89d7g4796gaa53g2adad2b64396"
 msgid "Heavily Armoured"
-msgstr ""
+msgstr "단단히 무장함"
 
 #. key = Shared_FeatDescriptions_New_Stat_6_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:50
@@ -17132,12 +17178,14 @@ msgid ""
 "Light Armour and increase your <LSTag Tooltip=\"Strength\">Strength</LSTag> "
 "or <LSTag Tooltip=\"Dexterity\">Dexterity</LSTag> by 1, to a maximum of 20."
 msgstr ""
+"경갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고 최대 20 이 될 때까지 "
+"<LSTag Tooltip=\"Dexterity\">민첩</LSTag>이 1 만큼 증가합니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_6_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:50
 msgctxt "h5b629c28ga19fg4f46gb211g0bdef9937471"
 msgid "Lightly Armoured"
-msgstr ""
+msgstr "가볍게 무장함"
 
 #. key = Shared_FeatDescriptions_New_Stat_7_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:57
@@ -17149,12 +17197,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Wisdom."
 msgstr ""
+"클레릭 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 지혜입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_7_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:57
 msgctxt "h5870bec4g6420g4ea8ga493g5121992156c3"
 msgid "Magic Initiate: Cleric"
-msgstr ""
+msgstr "마법 입문: 클레릭"
 
 #. key = Shared_FeatDescriptions_New_Stat_8_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:64
@@ -17166,12 +17218,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Charisma."
 msgstr ""
+"워락 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 매력입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_8_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:64
 msgctxt "h91fa5d16gbd1dg464cg82cfg36e986f84f2e"
 msgid "Magic Initiate: Warlock"
-msgstr ""
+msgstr "마법 입문: 워락"
 
 #. key = Shared_FeatDescriptions_New_Stat_9_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:71
@@ -17183,12 +17239,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Intelligence."
 msgstr ""
+"위저드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 지능입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_9_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:71
 msgctxt "he084fbc0gb92fg4116gac6egf0b67d34e1e3"
 msgid "Magic Initiate: Wizard"
-msgstr ""
+msgstr "마법 입문: 위저드"
 
 #. key = GLO_WaypointDiscovered
 #: Shared/Public/Shared/Localization/OsirisStrings.lsx:8
