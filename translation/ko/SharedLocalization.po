@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-11 18:52+0000\n"
+"PO-Revision-Date: 2023-03-12 20:52+0000\n"
 "Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -18623,12 +18623,16 @@ msgid ""
 "LSTag>.<br><br>Alternatively, you can save your bardic inspiration for a "
 "future opportunity."
 msgstr ""
+"아군에게 격려받았습니다! 관련 패시브를 선택해 이 보너스를 어떻게 활용할지 결정하세요 - <LSTag Tooltip=\"AttackRoll"
+"\">명중 굴림</LSTag>, <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>, 또는 <LSTag "
+"Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 사용할 수 있습니다.<br><br>그 외에도, 다음 기회를 위해 "
+"바드의 격려를 아낄 수도 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_27_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:197
 msgctxt "h5b09d0d4g976fg4925g9b3ag0b0cea6eee1e"
 msgid "Bardic Inspiration"
-msgstr ""
+msgstr "바드의 격려"
 
 #. key = Shared_ModalTutorials_New_Stat_27_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:197
@@ -18641,6 +18645,10 @@ msgid ""
 "LSTag>.<br><br>Alternatively, you can save your bardic inspiration for a "
 "future opportunity."
 msgstr ""
+"아군에게 격려받았습니다! 관련 패시브를 선택해 이 보너스를 어떻게 활용할지 결정하세요 - <LSTag Tooltip=\"AttackRoll"
+"\">명중 굴림</LSTag>, <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>, 또는 <LSTag "
+"Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 사용할 수 있습니다.<br><br>그 외에도, 다음 기회를 위해 "
+"바드의 격려를 아낄 수도 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_28_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:204
@@ -19313,7 +19321,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2003
 msgctxt "h528aa4bcg3012g4adbgb0f0g722f1cc4a697"
 msgid "Bardic Inspiration"
-msgstr ""
+msgstr "바드의 격려"
 
 #. key = Shared_Passive_BardicInspiration_SavingThrow_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1975
@@ -32494,7 +32502,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3291
 msgctxt "ha17eddd6g8caag4e9cg9711g416567f45bc0"
 msgid "Bardic Inspiration"
-msgstr ""
+msgstr "바드의 격려"
 
 #. key = Shared_Status_BOOST_BARKSKIN_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:372
@@ -38633,7 +38641,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1702
 msgctxt "he811cf79gab9dg4fc3g908dg12f52b41e976"
 msgid "Bardic Inspiration"
-msgstr ""
+msgstr "바드의 격려"
 
 #. key = Shared_Target_BardicInspiration_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:337
@@ -44261,7 +44269,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Tutorials_DisplayTitle.lsx:127
 msgctxt "hcb86c1f8g804ag4872ga4f4g0eeb2492c786"
 msgid "Destructible Environment"
-msgstr ""
+msgstr "파괴할 수 있는 환경"
 
 #. key = Shared_Tutorials_New_Stat_25_KeyboardDescription
 #: Shared/Public/Shared/Localization/Tutorials_KeyboardDescription.lsx:99
@@ -44270,6 +44278,8 @@ msgid ""
 "Some parts of the environment are destructible. Press [IE_UICtrl] to target "
 "an object for attack. Some objects also take damage from spells and missiles."
 msgstr ""
+"환경 중 일부는 파괴될 수 있습니다. [IE_UICtrl] 키를 누른 채로 대상을 선택해 공격하세요. 일부 물체는 주문과 투사체로도 "
+"피해를 입습니다."
 
 #. key = Shared_Tutorials_New_Stat_26_ControllerDescription
 #: Shared/Public/Shared/Localization/Tutorials_ControllerDescription.lsx:127
