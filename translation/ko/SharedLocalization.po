@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-12 20:52+0000\n"
+"PO-Revision-Date: 2023-03-16 17:52+0000\n"
 "Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -17357,12 +17357,14 @@ msgid ""
 "and open mind, encouraging her followers to protect the home, hearth, and "
 "nature."
 msgstr ""
+"하플링 만신전의 어머니로서, 욘달라의 상냥함과 열린 마음은 널리 알려져 있으며, 그녀의 추종자들에게 집, 건강, 그리고 자연을 보호하라고 "
+"독려합니다."
 
 #. key = Shared_Gods_New_Stat_15_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:113
 msgctxt "hec41ff94g0b49g4645ga2beg3a76dc97b5a1"
 msgid "Yondalla"
-msgstr ""
+msgstr "욘달라"
 
 #. key = Shared_Gods_New_Stat_16_Description
 #: Shared/Public/Shared/Localization/Gods_Description.lsx:120
@@ -17378,7 +17380,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:120
 msgctxt "ha15af95fgaa38g488cg92abgdee86cc82487"
 msgid "Lolth"
-msgstr ""
+msgstr "롤쓰"
 
 #. key = Shared_Gods_New_Stat_17_Description
 #: Shared/Public/Shared/Localization/Gods_Description.lsx:127
@@ -17393,7 +17395,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:127
 msgctxt "h025d7ab2gb8ddg4c91gb8cfg4e3c258d2cef"
 msgid "Laduguer"
-msgstr ""
+msgstr "러더거"
 
 #. key = Shared_Gods_New_Stat_18_Description
 #: Shared/Public/Shared/Localization/Gods_Description.lsx:134
@@ -17402,6 +17404,8 @@ msgid ""
 "The Lich Queen is the sole respected leader of the githyanki. She encourages "
 "their worship and unquestioning devotion, essentially acting as a deity."
 msgstr ""
+"리치 여왕은 기스양키가 유일하게 존경하는 지도자입니다. 그녀는 그들의 숭배와 무조건적인 헌신을 요구하며, 마치 여신과도 같은 위치에 서 "
+"있습니다."
 
 #. key = Shared_Gods_New_Stat_18_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:134
@@ -17417,6 +17421,8 @@ msgid ""
 "The Dark Maiden desires balance between all races, and struggles against her "
 "mother Lolth's corrupt aims."
 msgstr ""
+"에일리스트레이는 선한 드로우와 아름다움, 노래, 그리고 자유의 여신입니다. 어둠의 처녀인 그녀는 모든 종족 간의 균형을 추구하며, "
+"어머니인 롤쓰의 타락한 목적에 맞서 싸우고 있습니다."
 
 #. key = Shared_Gods_New_Stat_19_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:141
@@ -17432,6 +17438,8 @@ msgid ""
 "over the heavens is constantly challenged by her sister Shar, who seeks to "
 "plunge the world into eternal shadow."
 msgstr ""
+"은의 여인은 달, 별, 그리고 길잡이를 관장합니다. 천상을 향한 그녀의 힘은 세계를 영원한 그림자로 덮으려 하는 그녀의 누이, 샤에게 "
+"항상 도전받고 있습니다."
 
 #. key = Shared_Gods_New_Stat_1_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:15
@@ -17462,6 +17470,8 @@ msgid ""
 "alongside Bhaal and Myrkul, but loathes them both for taking power he "
 "believes is rightfully his."
 msgstr ""
+"베인은 증오와 공포, 그리고 폭정의 화신입니다. 그는 바알, 머큘과 함께 신으로 승천했지만, 자신의 힘을 나누어 받았다고 믿어 그들을 "
+"증오합니다."
 
 #. key = Shared_Gods_New_Stat_21_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:155
@@ -17620,7 +17630,7 @@ msgstr "오그마"
 msgctxt "h843e9f50g1485g4d5dgbc14g6b21f6689a0a"
 msgid ""
 "Add a +[1] bonus to your <LSTag Tooltip=\"AttackRoll\">Attack Roll</LSTag>."
-msgstr ""
+msgstr "<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1] 보너스를 더합니다."
 
 #. key = Shared_Interrupt_Interrupt_BardicInspiration_Attack_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:8
@@ -17635,13 +17645,14 @@ msgid ""
 "You will expend your <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION\""
 ">Bardic Inspiration</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION\">바드의 격려</LSTag>가 소모됩니다."
 
 #. key = Shared_Interrupt_Interrupt_BardicInspiration_SavingThrow_Description
 #: Shared/Public/Shared/Localization/Interrupt_Description.lsx:15
 msgctxt "hb23ba16cgb6e1g4202gb629gdaed9614cb1b"
 msgid ""
 "Add a +[1] bonus to your <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag>."
-msgstr ""
+msgstr "<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +[1] 보너스를 더합니다."
 
 #. key = Shared_Interrupt_Interrupt_BardicInspiration_SavingThrow_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:15
@@ -17654,13 +17665,13 @@ msgstr ""
 msgctxt "hf2343393gc9ccg4783g8f26g4b757fd65e0b"
 msgid ""
 "Add a +[1] bonus to your <LSTag Tooltip=\"AttackRoll\">Attack Roll</LSTag>."
-msgstr ""
+msgstr "<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1] 보너스를 더합니다."
 
 #. key = Shared_Interrupt_Interrupt_CombatInspiration_Attack_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:22
 msgctxt "he474b8dfgb613g418agbdf8g20c70b50e1b2"
 msgid "Valiant Attack"
-msgstr ""
+msgstr "용맹한 공격"
 
 #. key = Shared_Interrupt_Interrupt_CombatInspiration_Attack_ExtraDescription
 #: Shared/Public/Shared/Localization/Interrupt_ExtraDescription.lsx:15
@@ -17669,18 +17680,20 @@ msgid ""
 "You will expend your <LSTag Type=\"Status\" Tooltip="
 "\"BARDIC_INSPIRATION_COMBAT\">Combat Inspiration</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION_COMBAT\">전투 격려</LSTag>가 "
+"소모됩니다."
 
 #. key = Shared_Interrupt_Interrupt_CombatInspiration_Damage_Description
 #: Shared/Public/Shared/Localization/Interrupt_Description.lsx:29
 msgctxt "h752b6036g1720g448eg85f1gd4c45a1d671b"
 msgid "Add an additional [1] damage to your weapon attack."
-msgstr ""
+msgstr "다음 무기 공격이 [1] 피해를 추가로 입힙니다."
 
 #. key = Shared_Interrupt_Interrupt_CombatInspiration_Damage_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:29
 msgctxt "haa3da5c0g3bc8g4fe1g870fgd137c96c4103"
 msgid "Valiant Damage"
-msgstr ""
+msgstr "용맹한 피해"
 
 #. key = Shared_Interrupt_Interrupt_CombatInspiration_SavingThrow_ArmorClass_Description
 #: Shared/Public/Shared/Localization/Interrupt_Description.lsx:36
@@ -17689,12 +17702,14 @@ msgid ""
 "Add a +[1] bonus to your <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag> "
 "or <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>과 <LSTag Tooltip=\"ArmourClass\""
+">방어도</LSTag>에 +[1] 보너스를 더합니다."
 
 #. key = Shared_Interrupt_Interrupt_CombatInspiration_SavingThrow_ArmorClass_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:36
 msgctxt "h7ab5fb1fg7bc8g4403gbe63g19b28d7b2bd3"
 msgid "Valiant Defence"
-msgstr ""
+msgstr "용맹한 방어"
 
 #. key = Shared_Interrupt_Interrupt_Counterspell_Description
 #: Shared/Public/Shared/Localization/Interrupt_Description.lsx:64
@@ -17702,13 +17717,13 @@ msgctxt "haa58fc9dge729g49ccga2bdgb382c61b3890"
 msgid ""
 "Interrupt a creature in the process of casting a spell and make the spell "
 "fail before it has any effect."
-msgstr ""
+msgstr "크리쳐의 주문 시전을 방해해 아무런 효과도 일으키지 못하고 실패하게 만듭니다."
 
 #. key = Shared_Interrupt_Interrupt_Counterspell_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:43
 msgctxt "h48686e1eg13fdg4ee5g8b51gb3eb602d599d"
 msgid "Counterspell"
-msgstr ""
+msgstr "주문차단"
 
 #. key = Shared_Interrupt_Interrupt_Counterspell_ExtraDescription
 #: Shared/Public/Shared/Localization/Interrupt_ExtraDescription.lsx:22
@@ -17716,13 +17731,13 @@ msgctxt "h89abaa37g2647g4e30g9aa1g64df260cf77e"
 msgid ""
 "The higher the level of the spell being cast, the harder it is to interrupt. "
 "You can always interrupt spells of Level 3 or lower."
-msgstr ""
+msgstr "높은 레벨의 주문일수록, 방해하기 힘들어집니다. 3레벨 이하의 주문은 언제나 방해할 수 있습니다."
 
 #. key = Shared_Interrupt_Interrupt_CuttingWords_Description
 #: Shared/Public/Shared/Localization/Interrupt_Description.lsx:71
 msgctxt "h3ab0da6aga36dg4861g906egff10a4c63cc8"
 msgid "Use your wit to distract a creature and sap its confidence."
-msgstr ""
+msgstr "재치를 발휘해 크리쳐의 주의를 분산시키고 주눅 들게 합니다."
 
 #. key = Shared_Interrupt_Interrupt_CuttingWords_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:71
@@ -17738,6 +17753,8 @@ msgid ""
 "LSTag>, <LSTag Tooltip=\"AbilityCheck\">Ability Check</LSTag> or damage "
 "dealt."
 msgstr ""
+"대상은 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip="
+"\"AbilityCheck\">능력치 판정</LSTag> 또는 피해량에 페널티를 [1] 만큼 받습니다."
 
 #. key = Shared_Interrupt_Interrupt_DefensiveDuelist_Description
 #: Shared/Public/Shared/Localization/Interrupt_Description.lsx:78
@@ -17746,12 +17763,13 @@ msgid ""
 "Increase your <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> by [1], "
 "possibly causing attacks to miss."
 msgstr ""
+"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>를 [1] 만큼 증가시켜, 공격을 회피할 수 있습니다."
 
 #. key = Shared_Interrupt_Interrupt_DefensiveDuelist_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:78
 msgctxt "h30c13848ga882g4694g80ceg12693886a1c2"
 msgid "Defensive Duellist"
-msgstr ""
+msgstr "방어적 결투가"
 
 #. key = Shared_Interrupt_Interrupt_GiantKiller_Description
 #: Shared/Public/Shared/Localization/Interrupt_Description.lsx:85
@@ -17759,13 +17777,13 @@ msgctxt "h6ea0cb08g396fg4385ga63bgec08609e6cdc"
 msgid ""
 "If a Large or bigger creature attacks you, you can retaliate with a melee "
 "attack."
-msgstr ""
+msgstr "대형 이상의 크리쳐가 자신을 공격하면, 근접 공격으로 응수할 수 있습니다."
 
 #. key = Shared_Interrupt_Interrupt_GiantKiller_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:85
 msgctxt "hbfd30a68g2d1ag4d86gb5f2g9ed3a33643eb"
 msgid "Giant Killer"
-msgstr ""
+msgstr "거인 살해자"
 
 #. key = Shared_Interrupt_Interrupt_HellishRebuke_AsmodeusTiefling_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:99
@@ -17779,7 +17797,7 @@ msgctxt "h9a9475cbg7c2dg4a23g99b3g436bdeaafb38"
 msgid ""
 "When you take damage, you can retaliate and surround your attacker in "
 "hellish flames that deal [1]."
-msgstr ""
+msgstr "자신이 피해를 입으면, 공격자에게 [1] 피해를 입히는 지옥의 화염으로 보복할 수 있습니다."
 
 #. key = Shared_Interrupt_Interrupt_HellishRebuke_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:92
@@ -17799,7 +17817,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:57
 msgctxt "h8206f7fbg6fa5g4ceeg9411gbbb7ec7e11e8"
 msgid "Riposte"
-msgstr ""
+msgstr "응수"
 
 #. key = Shared_Interrupt_Interrupt_Smite_Divine_Critical_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:50
@@ -17814,13 +17832,15 @@ msgid ""
 "Deals an additional [1] to fiends and undead.<br><br>This reaction only "
 "triggers when you land a <LSTag Tooltip=\"CriticalHit\">Critical Hit</LSTag>."
 msgstr ""
+"악마나 언데드에게 [1] 의 추가 피해를 입힙니다.<br><br>이 반응 행동은 <LSTag Tooltip=\"CriticalHit\""
+">치명타</LSTag>를 적중시킨 경우에만 발생합니다."
 
 #. key = Shared_Interrupt_Interrupt_Smite_Divine_Description
 #: Shared/Public/Shared/Localization/Interrupt_Description.lsx:57
 msgctxt "h905cec81g7e41g4b05gaaddg3d51678f3ecc"
 msgid ""
 "Your weapon emanates divine might as you strike, dealing an additional [1]. "
-msgstr ""
+msgstr "공격 시 무기가 신성한 힘을 발산하여 [1] 의 추가 피해를 입힙니다. "
 
 #. key = Shared_Interrupt_Interrupt_Smite_Divine_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:64
@@ -17835,18 +17855,20 @@ msgid ""
 "Deals an additional [1] to fiends and undead.<br><br>This reaction won't "
 "trigger on a <LSTag Tooltip=\"CriticalHit\">Critical Hit</LSTag>."
 msgstr ""
+"악마와 언드데에게 [1] 의 추가 피해를 입힙니다.<br><br>이 반응 행동은 <LSTag Tooltip=\"CriticalHit\""
+">치명타</LSTag>가 적중한 경우에는 발생하지 않습니다."
 
 #. key = Shared_ItemProgressionNames_Amulet_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:351
 msgctxt "h4bcf6fe5ga85dg4884g83aeg0132a17af90d"
 msgid "Amulet"
-msgstr ""
+msgstr "목걸이"
 
 #. key = Shared_ItemProgressionNames_Back_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:337
 msgctxt "h806228c6g0aebg4af3g8d3bg396b6357a19b"
 msgid "Cloak"
-msgstr ""
+msgstr "망토"
 
 #. key = Shared_ItemProgressionNames_Battleaxe_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:127
@@ -17864,7 +17886,7 @@ msgstr "허리띠"
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:302
 msgctxt "h7cc7adeag848fg491cga683g0faeaea082c3"
 msgid "Brand of the Absolute"
-msgstr ""
+msgstr "절대자의 표식"
 
 #. key = Shared_ItemProgressionNames_Breastplate_Body_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:309
@@ -17900,19 +17922,19 @@ msgstr "도리깨"
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:379
 msgctxt "h569c95c1g1344g484dg8426g7d58ed3c7c58"
 msgid "Flind Flail"
-msgstr ""
+msgstr "플린드 도리깨"
 
 #. key = Shared_ItemProgressionNames_Footwear_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:323
 msgctxt "h3c18b27agee7bg4cd9gb78bg0663193eb9b2"
 msgid "Boots"
-msgstr ""
+msgstr "장화"
 
 #. key = Shared_ItemProgressionNames_Giant Morningstar_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:372
 msgctxt "ha8110b16g83b7g45cag91e7g95c492e2438a"
 msgid "Giant Morningstar"
-msgstr ""
+msgstr "거인 모닝스타"
 
 #. key = Shared_ItemProgressionNames_Glaive_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:246
@@ -17924,31 +17946,31 @@ msgstr "글레이브"
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:316
 msgctxt "hbdd5b250g6d24g4c10ga3fagd907084d5478"
 msgid "Gloves"
-msgstr ""
+msgstr "장갑"
 
 #. key = Shared_ItemProgressionNames_Goblin Bow_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:295
 msgctxt "h6346f8dcg4c39g405egb7c1g93a7fa086056"
 msgid "Goblin Bow"
-msgstr ""
+msgstr "고블린 활"
 
 #. key = Shared_ItemProgressionNames_Goblin Mace_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:288
 msgctxt "he9c83985g849dg4081g8837g0e1c92d5fa67"
 msgid "Goblin Hammer"
-msgstr ""
+msgstr "고블린 망치"
 
 #. key = Shared_ItemProgressionNames_Goblin Pike_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:281
 msgctxt "h48c9f918gce07g4f5bgbe5dg7b2140837598"
 msgid "Goblin Pike"
-msgstr ""
+msgstr "고블린 파이크"
 
 #. key = Shared_ItemProgressionNames_Goblin Scimitar_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:274
 msgctxt "hd4b77732g56ceg4243g98c0g7a7e1938a438"
 msgid "Goblin Scimitar"
-msgstr ""
+msgstr "고블린 시미터"
 
 #. key = Shared_ItemProgressionNames_Goblin Shield_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:260
@@ -17960,31 +17982,31 @@ msgstr "고블린 방패"
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:267
 msgctxt "hcf3b5503g6fcdg4e64gaee8g82faa3768aac"
 msgid "Goblin Staff"
-msgstr ""
+msgstr "고블린 지팡이"
 
 #. key = Shared_ItemProgressionNames_Greataxe_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:141
 msgctxt "he9122f0dg2e94g4b5eg9c32g93e19909ea6a"
 msgid "Greataxe"
-msgstr ""
+msgstr "그레이트액스"
 
 #. key = Shared_ItemProgressionNames_Greatclub_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:29
 msgctxt "hcd3c6f1cg8a41g494ag8334g9b47a0963094"
 msgid "Greatclub"
-msgstr ""
+msgstr "대형곤봉"
 
 #. key = Shared_ItemProgressionNames_Greatsword_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:148
 msgctxt "h10c09815g7c86g495fgaf43gf18a897dc32d"
 msgid "Greatsword"
-msgstr ""
+msgstr "대검"
 
 #. key = Shared_ItemProgressionNames_Halberd_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:57
 msgctxt "h7faf65f2g781bg46d6ga6e9g183a66ed94ee"
 msgid "Halberd"
-msgstr ""
+msgstr "할버드"
 
 #. key = Shared_ItemProgressionNames_HandCrossbow_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:225
@@ -18086,7 +18108,7 @@ msgstr "레이피어"
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:344
 msgctxt "h6791041cgba62g4876g9fa5g635363ae4535"
 msgid "Ring"
-msgstr ""
+msgstr "반지"
 
 #. key = Shared_ItemProgressionNames_Scimitar_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:190
@@ -18140,7 +18162,7 @@ msgstr "횃불"
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:204
 msgctxt "h13e485d4g9b7eg42b8g8246g4c488c666015"
 msgid "Trident"
-msgstr ""
+msgstr "삼지창"
 
 #. key = Shared_ItemProgressionNames_WarPick_ItemName
 #: Shared/Public/Shared/Localization/ItemProgression.lsx:211
@@ -18160,13 +18182,13 @@ msgctxt "h7e0eb06dgcabeg4ddcg8545g87665473dd5d"
 msgid ""
 "Combat happens in turns. Each turn, characters can take an action and a "
 "bonus action, and move positions."
-msgstr ""
+msgstr "전투는 턴을 따라서 진행됩니다. 매 턴, 캐릭터는 위치를 이동하고, 행동과 추가 행동을 취할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_0_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:36
 msgctxt "hbee64a1agffb4g4d29g967ag314439a4293e"
 msgid "Combat Tutorial"
-msgstr ""
+msgstr "전투 튜토리얼"
 
 #. key = Shared_ModalTutorials_New_Stat_0_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:78
@@ -18174,7 +18196,7 @@ msgctxt "h1de39b0agaceag4cdcg8977gdf2cdb62bf2c"
 msgid ""
 "Combat happens in turns. Each turn, characters can take an action and a "
 "bonus action, and move positions."
-msgstr ""
+msgstr "전투는 턴을 따라서 진행됩니다. 매 턴, 캐릭터는 위치를 이동하고, 행동과 추가 행동을 취할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_10_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:71
@@ -18184,6 +18206,8 @@ msgid ""
 "darkvision don't need an external light source. Being able to see where "
 "others can't see will give you advantage in combat."
 msgstr ""
+"어두운 곳에서 시야를 확보하기 위해 횃불이나 주문을 이용해 광원을 만들 수 있습니다. 암흑시야를 지닌 크리쳐들은 외부 광원을 필요로하지 "
+"않습니다. 남들이 볼 수 없는 곳을 볼 수 있다면 전투에서 이점을 가져갈 수 있을 것입니다."
 
 #. key = Shared_ModalTutorials_New_Stat_10_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:78
@@ -18199,6 +18223,8 @@ msgid ""
 "darkvision don't need an external light source. Being able to see where "
 "others can't see will give you advantage in combat."
 msgstr ""
+"어두운 곳에서 시야를 확보하기 위해 횃불이나 주문을 이용해 광원을 만들 수 있습니다. 암흑시야를 지닌 크리쳐들은 외부 광원을 필요로하지 "
+"않습니다. 남들이 볼 수 없는 곳을 볼 수 있다면 전투에서 이점을 가져갈 수 있을 것입니다."
 
 #. key = Shared_ModalTutorials_New_Stat_11_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:85
@@ -18226,7 +18252,7 @@ msgstr "근처의 적에게는 근접 무기를 사용하고 멀리 떨어진 �
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:92
 msgctxt "h575fe099g2ff3g4213g9949g7c5f53d549a0"
 msgid "Hold [IE_UIEndTurn] to end your turn when you're ready."
-msgstr ""
+msgstr "차례를 마칠 준비가 되면 [IE_UIEndTurn] 을(를) 눌러 턴을 종료합니다."
 
 #. key = Shared_ModalTutorials_New_Stat_12_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:92
@@ -18270,12 +18296,14 @@ msgid ""
 "\"Inspiration\"/></LSTag> to redo a failed roll. Keep in mind Inspiration is "
 "rare."
 msgstr ""
+"<LSTag Tooltip=\"Inspiration\">영감<LSTag Type=\"Image\" Info=\"Inspiration\""
+"/></LSTag>을 사용해 실패한 굴림을 다시 시도할 수 있습니다. 하지만 영감은 희귀한 자원이라는 사실을 명심해야 합니다."
 
 #. key = Shared_ModalTutorials_New_Stat_14_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:106
 msgctxt "h46b2f8efg6881g4328gb2a5g38ecc001966b"
 msgid "Rerolling"
-msgstr ""
+msgstr "재시도"
 
 #. key = Shared_ModalTutorials_New_Stat_14_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:106
@@ -18285,6 +18313,9 @@ msgid ""
 "\"Inspiration\"/></LSTag> to redo a failed <LSTag Tooltip=\"AbilityCheck\""
 ">Ability Check</LSTag>. Keep in mind Inspiration is rare."
 msgstr ""
+"<LSTag Tooltip=\"Inspiration\">영감<LSTag Type=\"Image\" Info=\"Inspiration\""
+"/></LSTag>을 사용해 실패한 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>을 다시 시도할 수 "
+"있습니다. 하지만 영감은 희귀하다는 사실을 기억하십시오."
 
 #. key = Shared_ModalTutorials_New_Stat_15_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:113
@@ -18295,6 +18326,9 @@ msgid ""
 "return to your normal form. <br> <LSTag Type=\"Image\" Info="
 "\"DismissShapeshift\"/>"
 msgstr ""
+"당신은 야수의 형상을 취했습니다. <LSTag Type=\"Spell\" Tooltip=\"Shout_WildShape_Dismiss\""
+">야생 형상 해제</LSTag>를 통해 평소의 모습으로 돌아갈 수 있습니다. <br> <LSTag Type=\"Image\" Info="
+"\"DismissShapeshift\"/>"
 
 #. key = Shared_ModalTutorials_New_Stat_15_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:113
@@ -18311,6 +18345,9 @@ msgid ""
 "return to your normal form. <br> <LSTag Type=\"Image\" Info="
 "\"DismissShapeshift\"/>"
 msgstr ""
+"당신은 야수의 형상을 취했습니다. <LSTag Type=\"Spell\" Tooltip=\"Shout_WildShape_Dismiss\""
+">야생 형상 해제</LSTag>를 통해 평소의 모습으로 돌아갈 수 있습니다. <br> <LSTag Type=\"Image\" Info="
+"\"DismissShapeshift\"/>"
 
 #. key = Shared_ModalTutorials_New_Stat_16_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:120
@@ -18319,6 +18356,8 @@ msgid ""
 "A player character is Downed! Revert to your regular form or switch to "
 "another character, then heal them or use the Help action to get them back up."
 msgstr ""
+"플레이어의 캐릭터가 쓰려졌습니다! 평소의 형상으로 되돌아가거나 다른 캐릭터로 전환해 해당 캐릭터를 치유하거나 도와주기 행동을 이용해 "
+"일으켜 세울 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_16_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:120
@@ -18334,6 +18373,8 @@ msgid ""
 "another character, then heal them or use the Help action to get them back "
 "up.<br> <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
 msgstr ""
+"플레이어의 캐릭터가 쓰려졌습니다! 평소의 형상으로 되돌아가거나 다른 캐릭터로 전환해 해당 캐릭터를 치유하거나 도와주기 행동을 이용해 "
+"일으켜 세울 수 있습니다.<br> <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
 
 #. key = Shared_ModalTutorials_New_Stat_17_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:127
@@ -18342,6 +18383,7 @@ msgid ""
 "A player character is Downed! Switch to another character and heal them or "
 "use the Help action to get them back up."
 msgstr ""
+"플레이어의 캐릭터가 쓰려졌습니다! 다른 캐릭터로 전환해 해당 캐릭터를 치유하거나 도와주기 행동을 이용해 일으켜 세울 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_17_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:127
@@ -18357,6 +18399,8 @@ msgid ""
 "use the Help action to get them back up.<br> <LSTag Type=\"Image\" Info="
 "\"DownedHelp\"/>"
 msgstr ""
+"플레이어의 캐릭터가 쓰려졌습니다! 다른 캐릭터로 전환해 해당 캐릭터를 치유하거나 도와주기 행동을 이용해 일으켜 세울 수 있습니다.<br> "
+"<LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
 
 #. key = Shared_ModalTutorials_New_Stat_18_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:134
@@ -18370,6 +18414,11 @@ msgid ""
 "Tooltip=\"LongRest\">Long Rest</LSTag> and using <LSTag Tooltip="
 "\"CampSupplies\">camp supplies</LSTag>."
 msgstr ""
+"짧은 휴식을 취해 <LSTag Tooltip=\"HitPoints\">체력</LSTag>을 일부 복원할 수 있습니다. 또한 워락은 "
+"<LSTag Tooltip=\"WarlockSpellSlot\">주문 슬롯</LSTag>도 복구할 수 있습니다.\n"
+"\n"
+"짧은 휴식은 2번까지 취할 수 있습니다. <LSTag Tooltip=\"CampSupplies\">야영 물자</LSTag>를 사용해 "
+"<LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취하면 짧은 휴식 횟수를 복구할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_18_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:134
@@ -18389,6 +18438,11 @@ msgid ""
 "Tooltip=\"LongRest\">Long Rest</LSTag> and using <LSTag Tooltip="
 "\"CampSupplies\">camp supplies</LSTag>."
 msgstr ""
+"짧은 휴식을 취해 <LSTag Tooltip=\"HitPoints\">체력</LSTag>을 일부 복원할 수 있습니다. 또한 워락은 "
+"<LSTag Tooltip=\"WarlockSpellSlot\">주문 슬롯</LSTag>도 복구할 수 있습니다.\n"
+"\n"
+"짧은 휴식은 2번까지 취할 수 있습니다. <LSTag Tooltip=\"CampSupplies\">야영 물자</LSTag>를 사용해 "
+"<LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취하면 짧은 휴식 횟수를 복구할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_19_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:141
@@ -18396,13 +18450,13 @@ msgctxt "he6667f83g377ag49bega8f1gf5f6ea5d7206"
 msgid ""
 "You are Downed - take a <LSTag Tooltip=\"ShortRest\">Short Rest</LSTag> to "
 "heal."
-msgstr ""
+msgstr "당신은 쓰러졌습니다. <LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag>을 취해 회복할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_19_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:141
 msgctxt "h1adec9e3ge47dg4960gb915gb7c11dd6914f"
 msgid "Resting when Downed"
-msgstr ""
+msgstr "쓰러졌을 때 휴식하기"
 
 #. key = Shared_ModalTutorials_New_Stat_19_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:141
@@ -18410,7 +18464,7 @@ msgctxt "h7f4d8647gb31fg4566g93d4g81b34cc136db"
 msgid ""
 "You are Downed - take a <LSTag Tooltip=\"ShortRest\">Short Rest</LSTag> to "
 "heal."
-msgstr ""
+msgstr "당신은 쓰러졌습니다. <LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag>을 취해 회복할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_1_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:36
@@ -18418,7 +18472,7 @@ msgctxt "h08518207g5297g4a85g854fg511f941e8421"
 msgid ""
 "A player character is Downed! Heal them or use the Help action to get them "
 "back up."
-msgstr ""
+msgstr "플레이어 캐릭터가 쓰러졌습니다! 회복시키거나 도와주기 행동을 사용해 일으켜 세울 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_1_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:43
@@ -18433,6 +18487,8 @@ msgid ""
 "A player character is Downed! Heal them or use the Help action to get them "
 "back up.<br> <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
 msgstr ""
+"플레이어 캐릭터가 쓰러졌습니다! 회복시키거나 도와주기 행동을 사용해 일으켜 세울 수 있습니다.<br> <LSTag Type=\"Image"
+"\" Info=\"DownedHelp\"/>"
 
 #. key = Shared_ModalTutorials_New_Stat_20_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:148
@@ -18442,12 +18498,14 @@ msgid ""
 "<LSTag Tooltip=\"BackgroundGoals\">Background Goals</LSTag>. To see "
 "completed Background Goals, check your Journal."
 msgstr ""
+"<LSTag Tooltip=\"BackgroundGoals\">배경 목표</LSTag>를 완료해 영감<LSTag Type=\"Image\""
+" Info=\"Inspiration\"/>을 획득할 수 있습니다. 완료한 배경 목표를 확인하려면 일지를 확인하십시오."
 
 #. key = Shared_ModalTutorials_New_Stat_20_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:148
 msgctxt "hf59abd10g57e7g4b11g84aeg8046c769bdac"
 msgid "Inspiration Points"
-msgstr ""
+msgstr "영감 포인트"
 
 #. key = Shared_ModalTutorials_New_Stat_20_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:148
@@ -18458,6 +18516,9 @@ msgid ""
 "be gained by discovering and completing new Goals. To see previously "
 "completed Goals, check the Journal."
 msgstr ""
+"영감<LSTag Type=\"Image\" Info=\"Inspiration\"/>은 <LSTag Tooltip="
+"\"BackgroundGoals\">배경 목표</LSTag>를 통해 획득합니다. 새로운 목표를 발견하고 완료해 더 많은 영감을 획득할 수 "
+"있습니다. 이미 완료한 목표를 확인하려면, 일지를 확인하십시오."
 
 #. key = Shared_ModalTutorials_New_Stat_21_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:155
@@ -18466,12 +18527,14 @@ msgid ""
 "Hold [IE_PanelSelect] to open the selection screen and press [IE_ShortRest] "
 "to go to camp, restoring hit points and spell slots."
 msgstr ""
+"[IE_PanelSelect] 키를 눌러 선택 화면을 연 뒤 [IE_ShortRest] 키를 눌러 캠프로 이동해 체력과 주문 슬롯을 "
+"복원할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_21_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:155
 msgctxt "h05335aecg62a0g4ba3g99bagb551af262607"
 msgid "Long Rest"
-msgstr ""
+msgstr "긴 휴식"
 
 #. key = Shared_ModalTutorials_New_Stat_21_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:155
@@ -18485,6 +18548,12 @@ msgid ""
 "will only be restored up to half their maximum, and you won't regain any "
 "<LSTag Tooltip=\"ShortRest\">Short Rests</LSTag>."
 msgstr ""
+"모닥불 아이콘을 눌러 캠프로 이동해, <LSTag Tooltip=\"HitPoints\">체력</LSTag>과 <LSTag Tooltip="
+"\"SpellSlot\">주문 슬롯</LSTag>을 복원할 수 있습니다.\n"
+"\n"
+"온전한 휴식을 취하려면 <LSTag Tooltip=\"CampSupplies\">야영 물자</LSTag>가 필요합니다. 물자가 부족하면, "
+"체력과 주문 슬롯이 최대치의 절반 만큼만 복원되며, <LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag> 횟수가 "
+"전혀 복구되지 않습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_22_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:162
@@ -18524,13 +18593,13 @@ msgctxt "hca7a4d53gf3f4g4c69ga4fag6db145460056"
 msgid ""
 "You've gained the ability to twist spells to suit your needs. You can now "
 "enhance your spells by spending Sorcery Points."
-msgstr ""
+msgstr "주문을 자기 뜻에 따라 비틀어 사용할 수 있는 능력을 획득했습니다. 이제 소서리 포인트를 사용해 주문을 증강할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_23_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:169
 msgctxt "he306316cgf1adg4038ga5a8g13369920c55e"
 msgid "Metamagic"
-msgstr ""
+msgstr "메타매직"
 
 #. key = Shared_ModalTutorials_New_Stat_23_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:169
@@ -18538,7 +18607,7 @@ msgctxt "hffdd6ee0gf2c4g48f7ga0c2g52b9015ef9d8"
 msgid ""
 "You've gained the ability to twist spells to suit your needs. You can now "
 "enhance your spells by spending Sorcery Points."
-msgstr ""
+msgstr "주문을 자기 뜻에 따라 비틀어 사용할 수 있는 능력을 획득했습니다. 이제 소서리 포인트를 사용해 주문을 증강할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_24_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:176
@@ -18551,12 +18620,17 @@ msgid ""
 "triggers, the chance of triggering Wild Magic increases for the next spell "
 "of Level 1 or higher.<br><LSTag Type=\"Image\" Info=\"TidesOfChaos\"/>"
 msgstr ""
+"혼돈의 힘을 조작해 다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip="
+"\"AbilityCheck\">능력치 판정</LSTag>, 또는 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
+"LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻습니다.<br><br>혼돈의 파도가 발동되고 "
+"나면, 이후 시전하는 1레벨 이상의 주문에서 와일드 매직이 발생할 확률이 상승합니다.<br><LSTag Type=\"Image\" "
+"Info=\"TidesOfChaos\"/>"
 
 #. key = Shared_ModalTutorials_New_Stat_24_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:176
 msgctxt "hd841dc4ag5505g4a19ga9f6gf454fdd83fe5"
 msgid "Tides of Chaos"
-msgstr ""
+msgstr "혼돈의 파도"
 
 #. key = Shared_ModalTutorials_New_Stat_24_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:176
@@ -18569,6 +18643,11 @@ msgid ""
 "triggers, the chance of triggering Wild Magic increases for the next spell "
 "of Level 1 or higher.<br><LSTag Type=\"Image\" Info=\"TidesOfChaos\"/>"
 msgstr ""
+"혼돈의 힘을 조작해 다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip="
+"\"AbilityCheck\">능력치 판정</LSTag>, 또는 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
+"LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻습니다.<br><br>혼돈의 파도가 발동되고 "
+"나면, 이후 시전하는 1레벨 이상의 주문에서 와일드 매직이 발생할 확률이 상승합니다.<br><LSTag Type=\"Image\" "
+"Info=\"TidesOfChaos\"/>"
 
 #. key = Shared_ModalTutorials_New_Stat_25_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:183
@@ -18578,12 +18657,13 @@ msgid ""
 "are automatically moved to your personal chest. You can find this chest at "
 "any camp location."
 msgstr ""
+"새로운 야영지로 이동하면, 이전 야영지에 남아있는 모든 아이템이 자동으로 개인 상자로 이전됩니다. 이 상자는 야영지에서 찾을 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_25_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:183
 msgctxt "h6cec4503gf083g4660g9a7ag2741febf854a"
 msgid "Camp Cleanup"
-msgstr ""
+msgstr "야영지 정리"
 
 #. key = Shared_ModalTutorials_New_Stat_25_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:183
@@ -18593,24 +18673,26 @@ msgid ""
 "are automatically moved to your Traveller's Chest. <br><br>You can find this "
 "chest at any camp location."
 msgstr ""
+"새로운 야영지로 이동하면, 이전 야영지에 있던 물품들은 자동으로 여행자의 궤짝으로 이전됩니다. <br><br>이 상자는 모든 야영지에서 "
+"찾을 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_26_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:190
 msgctxt "h346242fdg2715g467eg86d8g20268abe9bfe"
 msgid "To keep Raging, you have to attack an enemy or take damage each turn."
-msgstr ""
+msgstr "격노 상태를 유지하려면, 매 턴 적을 공격하거나 피해를 입어야 합니다."
 
 #. key = Shared_ModalTutorials_New_Stat_26_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:190
 msgctxt "hb517845ag9920g431fgb83dg967cd707397b"
 msgid "Barbarian Rage"
-msgstr ""
+msgstr "바바리안의 격노"
 
 #. key = Shared_ModalTutorials_New_Stat_26_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:190
 msgctxt "hc177ff19g8cd8g421cgbe8ag1ada6f7d3e7f"
 msgid "To keep Raging, you have to attack an enemy or take damage each turn."
-msgstr ""
+msgstr "격노 상태를 유지하려면, 매 턴 적을 공격하거나 피해를 입어야 합니다."
 
 #. key = Shared_ModalTutorials_New_Stat_27_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:197
@@ -18658,6 +18740,8 @@ msgid ""
 "turn. You can choose whether they trigger automatically, or whether the game "
 "pauses for your input."
 msgstr ""
+"반응 행동은 자신의 차례 중이건 그 외의 상황이건 특정 상황에 대한 대응으로 발생합니다. 자동으로 반응하게 하거나, 게임이 일시 중지되어 "
+"직접 사용하도록 설정할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_28_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:204
@@ -18673,6 +18757,8 @@ msgid ""
 "turn. You can choose whether they trigger automatically, or whether the game "
 "pauses for your input."
 msgstr ""
+"반응 행동은 자신의 차례 중이건 그 외의 상황이건 특정 상황에 대한 대응으로 발생합니다. 자동으로 반응하게 하거나, 게임이 일시 중지되어 "
+"직접 사용하도록 설정할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_2_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:29
@@ -18680,13 +18766,13 @@ msgctxt "h65e7afdag4928g428bg8fc4g444cb4cfe93f"
 msgid ""
 "A character in your party is dead! Use a Scroll of Revivify to resurrect "
 "them."
-msgstr ""
+msgstr "파티의 캐릭터가 사망했습니다! 재활성화의 두루마리를 사용해 부활시킬 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_2_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:8
 msgctxt "hfd0497deg1d3ag4f56gaf75g94b2700a089f"
 msgid "Revivify"
-msgstr ""
+msgstr "재활성화"
 
 #. key = Shared_ModalTutorials_New_Stat_2_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:8
@@ -18694,7 +18780,7 @@ msgctxt "h078c0f47g128bg4deag9c80g5942314ec320"
 msgid ""
 "A character in your party is dead! Use a Scroll of Revivify to resurrect "
 "them."
-msgstr ""
+msgstr "파티의 캐릭터가 사망했습니다! 재활성화의 두루마리를 사용해 부활시킬 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_3_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:8
@@ -18709,12 +18795,19 @@ msgid ""
 "and spell slots will only be restored up to half their maximum, and you "
 "won't regain any <LSTag Tooltip=\"ShortRest\">Short Rests</LSTag>."
 msgstr ""
+"모닥불 아이콘을 눌러 하루를 마치고 야영지에서 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취해, "
+"<LSTag Tooltip=\"HitPoints\">체력</LSTag>과 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</"
+"LSTag>을 완전히 복원할 수 있습니다.\n"
+"\n"
+"긴 휴식을 취하려면, 야영지로 이동해 <LSTag Tooltip=\"CampSupplies\">야영 물자</LSTag>를 사용하면 "
+"됩니다. 물자가 부족하면, 체력과 주문 슬롯이 최대치의 절반 만큼만 복원되며, <LSTag Tooltip=\"ShortRest\">짧은 "
+"휴식</LSTag> 횟수가 전혀 복구되지 않습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_3_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:15
 msgctxt "h0aebf174g9ae7g4f8dgbd6agde82af2fa42f"
 msgid "Resting your party"
-msgstr ""
+msgstr "파티 휴식 취하기"
 
 #. key = Shared_ModalTutorials_New_Stat_3_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:15
@@ -18722,7 +18815,7 @@ msgctxt "h02a59735g1132g4062g848eg879cb6b94521"
 msgid ""
 "Use the campfire button to take a <LSTag Tooltip=\"LongRest\">Long Rest</"
 "LSTag> at your camp."
-msgstr ""
+msgstr "모닥불 아이콘을 눌러 야영지에서 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취합니다."
 
 #. key = Shared_ModalTutorials_New_Stat_4_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:15
@@ -18732,12 +18825,15 @@ msgid ""
 "\n"
 "You can access the level up menu by selecting a character's portrait."
 msgstr ""
+"충분한 경험치가 모여 레벨이 올랐습니다!\n"
+"\n"
+"캐릭터의 초상화를 선택해 레벨업 메뉴를 이용할 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_4_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:22
 msgctxt "hf1edec0dg6d7ag4d46g9aedg6c6bc604ba29"
 msgid "Levelling Up"
-msgstr ""
+msgstr "레벨업"
 
 #. key = Shared_ModalTutorials_New_Stat_4_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:22
@@ -18748,6 +18844,9 @@ msgid ""
 "Use this button to level up. If you have multiple party members, you can "
 "also use the arrow on the portraits in the party line."
 msgstr ""
+"충분한 경험치가 모여 레벨이 올랐습니다!\n"
+"\n"
+"이 버튼을 눌러 레벨업을 할 수 있습니다. 파티원이 여러 명이라면, 파티 창의 초상화에 있는 화살표를 눌러 레벨업을 할 수도 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_5_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:22
@@ -18758,6 +18857,9 @@ msgid ""
 "[IE_CharacterCreationRotateLeft] and [IE_CharacterCreationRotateRight] to "
 "split and group the party."
 msgstr ""
+"[IE_PartyManagement] 키를 눌러 파티 관리 창을 엽니다. [IE_UIMove] 키를 이용해 초상화를 선택하고 "
+"[IE_UIAccept] 키를 눌러 캐릭터를 조종합니다. [IE_CharacterCreationRotateLeft] 키와 "
+"[IE_CharacterCreationRotateRight] 키를 이용해 파티를 나누고 그룹으로 묶을 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_5_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:29
@@ -18803,12 +18905,14 @@ msgid ""
 "represent 6 seconds of real-time. This can be used to avoid traps and "
 "perils, or to use stealth."
 msgstr ""
+"턴 기반 모드로 돌입했습니다. 매 턴은 실제 세계에서 6 초를 나타냅니다. 이 모드를 이용해 함정과 위협을 피하거나, 은신하는데 활용할 "
+"수도 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_7_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:57
 msgctxt "h9366ce0bg73d2g432bg916bge92a6efba92a"
 msgid "Force Turn Base Mode"
-msgstr ""
+msgstr "강제 턴 기반 모드"
 
 #. key = Shared_ModalTutorials_New_Stat_7_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:50
@@ -18818,24 +18922,26 @@ msgid ""
 "represent 6 seconds of real-time. This can be used to avoid traps and "
 "perils, or to use stealth."
 msgstr ""
+"턴 기반 모드로 돌입했습니다. 매 턴은 실제 세계에서 6 초를 나타냅니다. 이 모드를 이용해 함정과 위협을 피하거나, 은신하는데 활용할 "
+"수도 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_8_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:57
 msgctxt "h46d9a071g1018g4464gb33fg9b29d52c38af"
 msgid "You have gained new power from your illithid tadpole!"
-msgstr ""
+msgstr "일리시드 기생충에게서 새로운 힘을 획득했습니다!"
 
 #. key = Shared_ModalTutorials_New_Stat_8_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:64
 msgctxt "h4d1b187cgbccag4f22g8fb7ga4f3045ec3e7"
 msgid "Illithid Powers"
-msgstr ""
+msgstr "일리시드 능력"
 
 #. key = Shared_ModalTutorials_New_Stat_8_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:57
 msgctxt "hd301d921g1b69g4bceg9fe4gc46d61f5f53f"
 msgid "You have gained new power from your illithid tadpole!"
-msgstr ""
+msgstr "일리시드 기생충에게서 새로운 힘을 획득했습니다!"
 
 #. key = Shared_ModalTutorials_New_Stat_9_ControllerDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_ControllerDescription.lsx:64
@@ -18843,13 +18949,13 @@ msgctxt "hd649c9b3gcafbg4e29g9959g73bfe032772e"
 msgid ""
 "Beware of gas pits, which spew surfaces or clouds. Cover them with "
 "sufficiently heavy objects."
-msgstr ""
+msgstr "표면이나 구름을 생성하는 가스 구덩이를 조심하십시오. 무거운 물체를 활용해 덮어버릴 수 있습니다."
 
 #. key = Shared_ModalTutorials_New_Stat_9_DisplayTitle
 #: Shared/Public/Shared/Localization/ModalTutorials_DisplayTitle.lsx:71
 msgctxt "h1c897c81g1d3fg4a79g99f2g30c7e2abcf19"
 msgid "Gas Pits"
-msgstr ""
+msgstr "가스 구덩이"
 
 #. key = Shared_ModalTutorials_New_Stat_9_KeyboardDescription
 #: Shared/Public/Shared/Localization/ModalTutorials_KeyboardDescription.lsx:64
@@ -18857,7 +18963,7 @@ msgctxt "h4d0a135cg1dc3g494egb350ge9b59cf12425"
 msgid ""
 "Beware of gas pits, which spew surfaces or clouds. Cover them with "
 "sufficiently heavy objects."
-msgstr ""
+msgstr "표면이나 구름을 생성하는 가스 구덩이를 조심하십시오. 무거운 물체를 활용해 덮어버릴 수 있습니다."
 
 #. key = Shared_Origins_New_Stat_0_Description
 #: Shared/Public/Shared/Localization/Origins_Description.lsx:8
@@ -18885,12 +18991,15 @@ msgid ""
 "LSTag> <LSTag Tooltip=\"AbilityModifier\">Modifier</LSTag> to the damage it "
 "deals, unless it is negative."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Projectile_EldritchBlast\">섬뜩한 작렬</LSTag>을 "
+"시전할 때, 피해량에 <LSTag Tooltip=\"Charisma\">매력</LSTag> <LSTag Tooltip="
+"\"AbilityModifier\">수정치</LSTag>를(음수가 아닌 경우) 더합니다."
 
 #. key = Shared_Passive_AgonizingBlast_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:148
 msgctxt "ha9cadfc2g5dbcg4e6bgb410gb25e02e77263"
 msgid "Agonising Blast"
-msgstr ""
+msgstr "고통스러운 작렬"
 
 #. key = Shared_Passive_AntimagicSusceptibility_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:925
@@ -18898,13 +19007,13 @@ msgctxt "h3f6ac710gc1dfg4955g9a4dga41bc1e247fc"
 msgid ""
 "Held together by the Weave itself, this armour is Incapacitated by antimagic "
 "fields."
-msgstr ""
+msgstr "위브 그 자체로 결속된 이 방어구는, 대마법 지대에 의해 무력화되었습니다."
 
 #. key = Shared_Passive_AntimagicSusceptibility_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:939
 msgctxt "h6238e83agbb8bg4cb9g9451g44cd107f164f"
 msgid "Antimagic Susceptibility"
-msgstr ""
+msgstr "대마법 취약성"
 
 #. key = Shared_Passive_ArcaneWard_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:477
@@ -18918,12 +19027,16 @@ msgid ""
 "Whenever you cast an Abjuration spell of Level 1 or higher, the ward regains "
 "a number of hit points equal to twice the level of the spell. "
 msgstr ""
+"하루에 한 번, 1레벨 이상의 방호계 주문을 시전할 때, 해당 주문의 일부를 이용해 다음 긴 휴식 전까지 유지되는 마법적 보호막을 생성할 "
+"수 있습니다. 해당 보호막은 최대 [1] 의 피해를 흡수해줍니다. 보호막의 <LSTag Tooltip=\"HitPoints\">체력</"
+"LSTag>이 0 아래로 떨어지면, 나머지 피해는 직접 입지만, 마법은 유지됩니다. 이후에도 1레벨 이상의 방호계 주문을 시전하면, "
+"보호막이 해당 주문 레벨의 두 배에 해당하는 수치의 체력을 회복합니다. "
 
 #. key = Shared_Passive_ArcaneWard_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:477
 msgctxt "h7bfd2340gd0f4g425fgb3e9gd2331d75c6ef"
 msgid "Arcane Ward"
-msgstr ""
+msgstr "비전 방호"
 
 #. key = Shared_Passive_ArmorOfAgathys_2_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1212
@@ -18931,13 +19044,13 @@ msgctxt "h3ed0be2ag35c3g4804gaf15g7484d531b05b"
 msgid ""
 "A spectral frost covers you and your gear. When a creature hits you with a "
 "melee attack, it takes [1]."
-msgstr ""
+msgstr "영적인 서리가 자신과 장비를 뒤덮습니다. 크리쳐가 당신을 근접 공격으로 타격하면, 대상은 [1] 를 입습니다."
 
 #. key = Shared_Passive_ArmorOfAgathys_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1289
 msgctxt "h2361dbc4ga5efg4361ga03eg63ed9f3ae6e1"
 msgid "Armour of Agathys"
-msgstr ""
+msgstr "아가티스의 갑주"
 
 #. key = Shared_Passive_ArmorOfAgathys_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:484
@@ -18945,13 +19058,13 @@ msgctxt "h0749c679gda4bg4fc7gaf23g66fdae9ca70c"
 msgid ""
 "A spectral frost covers you and your gear. When a creature hits you with a "
 "melee attack, it takes [1]."
-msgstr ""
+msgstr "영적인 서리가 자신과 장비를 뒤덮습니다. 크리쳐가 당신을 근접 공격으로 타격하면, 대상은 [1] 를 입습니다."
 
 #. key = Shared_Passive_ArmorOfAgathys_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:484
 msgctxt "hd0d5c5b6g213bg4a73g984egfeabf5d8f1f4"
 msgid "Armour of Agathys"
-msgstr ""
+msgstr "아가티스의 갑주"
 
 #. key = Shared_Passive_ArmorOfShadows_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:806
@@ -18959,13 +19072,13 @@ msgctxt "h34fca6b5g58d7g4daag9aabga3fca89709ff"
 msgid ""
 "You can cast Mage Armour on yourself at will, without expending a <LSTag "
 "Tooltip=\"SpellSlot\">spell slot</LSTag>."
-msgstr ""
+msgstr "<LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소모하지 않고 마법 갑주를 시전할 수 있습니다."
 
 #. key = Shared_Passive_ArmorOfShadows_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:806
 msgctxt "h60aeed1agd4b7g4bd0gb1a5g1a39ea20aa68"
 msgid "Armour of Shadows"
-msgstr ""
+msgstr "그림자 갑옷"
 
 #. key = Shared_Passive_ArmorOfShadows_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:57
@@ -18974,6 +19087,7 @@ msgid ""
 "Mage Armour increases your <LSTag Tooltip=\"ArmourClass\">Armour Class</"
 "LSTag> when you aren't wearing armour."
 msgstr ""
+"마법 갑주는 실제 갑옷을 입지 않은 경우 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>를 향상합니다."
 
 #. key = Shared_Passive_Athlete_PassiveBonuses_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:932
@@ -18982,30 +19096,32 @@ msgid ""
 "<LSTag Tooltip=\"Strength\">Strength</LSTag> or <LSTag Tooltip=\"Dexterity\""
 ">Dexterity</LSTag> score increases by 1, to a maximum of 20."
 msgstr ""
+"<LSTag Tooltip=\"Strength\">근력</LSTag>또는 <LSTag Tooltip=\"Dexterity\">민첩</"
+"LSTag>이 최대 20 될 때 까지 1 만큼 상승합니다."
 
 #. key = Shared_Passive_Athlete_PassiveBonuses_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:946
 msgctxt "hba904d55gb84bg47b1ga2e3g827f356cc122"
 msgid "Athlete"
-msgstr ""
+msgstr "운동선수"
 
 #. key = Shared_Passive_Athlete_StandUp_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:883
 msgctxt "h4b8451c4g75dbg48adgb3a2g10cfe99f8585"
 msgid "When you are Prone, standing up uses only [1] of your movement."
-msgstr ""
+msgstr "엎어짐 상태에서 일어날 때, 이동 속도가 [1] 만 소모됩니다."
 
 #. key = Shared_Passive_Athlete_StandUp_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:897
 msgctxt "h77609175g99f7g4e74g9911g20c6033d4b7d"
 msgid "Athlete: Standing Up"
-msgstr ""
+msgstr "운동 선수: 기상"
 
 #. key = Shared_Passive_AttackOfOpportunity_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:8
 msgctxt "hcc220960g681dg4db6g8cbag2c055807eed3"
 msgid "Automatically attack an enemy moving out of your reach."
-msgstr ""
+msgstr "자신의 범위에서 벗어나는 적을 자동으로 공격합니다."
 
 #. key = Shared_Passive_AttackOfOpportunity_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:8
@@ -19019,7 +19135,7 @@ msgctxt "h270d963bg1867g4a7ag8c43ge1b68021a28a"
 msgid ""
 "This is a Reaction. Toggle a reaction during your turn. It will "
 "automatically execute when needed."
-msgstr ""
+msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_Background_Acolyte_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1191
@@ -19257,13 +19373,13 @@ msgctxt "hd8bd4b9fg59a5g4295g9ab0g1915746c3a53"
 msgid ""
 "Add a +[1] bonus to your next <LSTag Tooltip=\"AbilityCheck\">Ability "
 "Check</LSTag>."
-msgstr ""
+msgstr "다음 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 +[1] 보너스를 더합니다."
 
 #. key = Shared_Passive_BardicInspiration_Ability_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2073
 msgctxt "h22af06bagd2d2g4b30ga1adg8e1cdfa85c72"
 msgid "Bardic Roll"
-msgstr ""
+msgstr "바드의 굴림"
 
 #. key = Shared_Passive_BardicInspiration_Ability_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:211
@@ -19272,6 +19388,8 @@ msgid ""
 "You expend your <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION\">Bardic "
 "Inspiration</LSTag> when the effect triggers."
 msgstr ""
+"효과가 발동되면 <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION\">바드의 영감</"
+"LSTag>이 소모됩니다."
 
 #. key = Shared_Passive_BardicInspiration_Ability_d8_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2388
@@ -19279,13 +19397,13 @@ msgctxt "h97e12495geba7g467fg8116g51be2c994492"
 msgid ""
 "Add a +[1] bonus to your next <LSTag Tooltip=\"AbilityCheck\">Ability "
 "Check</LSTag>."
-msgstr ""
+msgstr "다음 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 +[1] 보너스를 더합니다."
 
 #. key = Shared_Passive_BardicInspiration_Ability_d8_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2444
 msgctxt "h5b6f3236g47dcg433fg8babg2151e821310e"
 msgid "Bardic Roll"
-msgstr ""
+msgstr "바드의 굴림"
 
 #. key = Shared_Passive_BardicInspiration_Ability_d8_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:253
@@ -19294,6 +19412,8 @@ msgid ""
 "You expend your <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION\">Bardic "
 "Inspiration</LSTag> when the effect triggers."
 msgstr ""
+"효과가 발동되면 <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION\">바드의 영감</"
+"LSTag>이 소모됩니다."
 
 #. key = Shared_Passive_BardicInspiration_Attack_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2010
@@ -19301,13 +19421,13 @@ msgctxt "h14ab1cd9g7f73g4d03g9fe4g28f05d6a2194"
 msgid ""
 "Add a +[1] bonus to your next <LSTag Tooltip=\"AttackRoll\">Attack "
 "Roll</LSTag>."
-msgstr ""
+msgstr "다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1] 보너스를 더합니다."
 
 #. key = Shared_Passive_BardicInspiration_Attack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2066
 msgctxt "h6a73e0a6g821ag4edbgb82eg7420b18aa69d"
 msgid "Bardic Attack"
-msgstr ""
+msgstr "바드의 공격"
 
 #. key = Shared_Passive_BardicInspiration_Attack_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:204
@@ -19316,6 +19436,8 @@ msgid ""
 "You expend your <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION\">Bardic "
 "Inspiration</LSTag> when the effect triggers."
 msgstr ""
+"효과가 발동되면 <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION\">바드의 영감</"
+"LSTag>이 소모됩니다."
 
 #. key = Shared_Passive_BardicInspiration_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2003
@@ -19329,13 +19451,13 @@ msgctxt "hd5117b32g2017g4cddg8932g1da37bc4fb5d"
 msgid ""
 "Add a +[1] bonus to your next <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throw</LSTag>."
-msgstr ""
+msgstr "다음 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +[1] 보너스를 더합니다."
 
 #. key = Shared_Passive_BardicInspiration_SavingThrow_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2024
 msgctxt "haee93d11g7c91g47e8ga574gb2c1682f8083"
 msgid "Bardic Defence"
-msgstr ""
+msgstr "바드의 방어"
 
 #. key = Shared_Passive_BardicInspiration_SavingThrow_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:183
@@ -19344,6 +19466,8 @@ msgid ""
 "You expend your <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION\">Bardic "
 "Inspiration</LSTag> when the effect triggers."
 msgstr ""
+"효과가 발동되면 <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION\">바드의 영감</"
+"LSTag>이 소모됩니다."
 
 #. key = Shared_Passive_BardicInspiration_d8_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2374
@@ -19352,12 +19476,14 @@ msgid ""
 "The bonus gained from <LSTag Type=\"Spell\" Tooltip="
 "\"Target_BardicInspiration\">Bardic Inspiration</LSTag> increases to +[1]."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_BardicInspiration\">바드의 격려</LSTag>로 "
+"획득하는 보너스가 +[1] 로 증가합니다."
 
 #. key = Shared_Passive_BardicInspiration_d8_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2430
 msgctxt "hc7c96e5bgcb0bg4c21ga2bbg41e48d1e4fa2"
 msgid "Improved Bardic Inspiration"
-msgstr ""
+msgstr "개선된 바드의 격려"
 
 #. key = Shared_Passive_BeastSpeech_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:813
@@ -19365,13 +19491,13 @@ msgctxt "h38d70ae5gb1e1g404cgadb8g06ff8a69a694"
 msgid ""
 "You can cast Speak with Animals at will, without expending a <LSTag Tooltip="
 "\"SpellSlot\">spell slot</LSTag>."
-msgstr ""
+msgstr "<LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소비하지 않고 언제나 동물과 대화할 수 있습니다."
 
 #. key = Shared_Passive_BeastSpeech_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:813
 msgctxt "h7b5e42a7g8d67g4562ga300g7e02ca52a89b"
 msgid "Beast Speech"
-msgstr ""
+msgstr "짐승의 언어"
 
 #. key = Shared_Passive_BeguilingInfluence_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:169
@@ -19381,36 +19507,39 @@ msgid ""
 "\"Proficiency\">Proficiency</LSTag> in <LSTag Tooltip=\"Deception\""
 ">Deception</LSTag> and <LSTag Tooltip=\"Persuasion\">Persuasion</LSTag>."
 msgstr ""
+"후원자로부터 받은 황홀한 매력을 불러냅니다. <LSTag Tooltip=\"Deception\">기만</LSTag>과 <LSTag "
+"Tooltip=\"Persuasion\">설득</LSTag>에 <LSTag Tooltip=\"Proficiency\">숙련</"
+"LSTag>을 얻습니다."
 
 #. key = Shared_Passive_BeguilingInfluence_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:169
 msgctxt "h8fe60233g1d5ag4d03g857age0352b24a9c8"
 msgid "Beguiling Influence"
-msgstr ""
+msgstr "기만적인 영향력"
 
 #. key = Shared_Passive_Blindsight_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:22
 msgctxt "ha89ec053g5de0g441eg852bgb07606c71440"
 msgid "This creature can perceive its surroundings without relying on sight."
-msgstr ""
+msgstr "이 크리쳐는 시야 없이도 주변 상황을 판단할 수 있습니다."
 
 #. key = Shared_Passive_Blindsight_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:22
 msgctxt "hdab6770fg03dbg4217g8923ge01e8fd2f7bb"
 msgid "Blindsight"
-msgstr ""
+msgstr "맹시"
 
 #. key = Shared_Passive_BlockVerbalSpellcasting_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1506
 msgctxt "h76c4edcdg44f7g4721g8857g723febbea5a0"
 msgid "This creature can't speak or cast spells that have a vocal component."
-msgstr ""
+msgstr "이 크리쳐는 음성을 이용해 말하거나 주문을 시전할 수 없습니다."
 
 #. key = Shared_Passive_BlockVerbalSpellcasting_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1520
 msgctxt "h3a4d46f0g0fbbg44b6gb105g190de7733df6"
 msgid "Silent"
-msgstr ""
+msgstr "침묵"
 
 #. key = Shared_Passive_BloodThirsty_Redcap_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:869
@@ -19419,24 +19548,26 @@ msgid ""
 "Has <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on <LSTag Tooltip="
 "\"AttackRoll\">Attack Rolls</LSTag> made against Bleeding targets."
 msgstr ""
+"출혈 상태인 대상에 대한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Passive_BloodThirsty_Redcap_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:876
 msgctxt "h820e8b64g9a7dg41d5gb19eg2fac6cdc050b"
 msgid "Steeped in Slaughter"
-msgstr ""
+msgstr "살육에 젖음"
 
 #. key = Shared_Passive_Brute_Bugbear_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1527
 msgctxt "h05c7d373g806dg427cg9dd1g2e75371eed4e"
 msgid "Deals an extra 1d8 damage when attacking with a melee weapon."
-msgstr ""
+msgstr "근접 무기로 공격하면 1d8 의 추가 피해를 가합니다."
 
 #. key = Shared_Passive_Brute_Bugbear_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1541
 msgctxt "h7c99562cg5f12g470egb043gc4627bc5454a"
 msgid "Brute"
-msgstr ""
+msgstr "야성"
 
 #. key = Shared_Passive_BurningHide_HellBoar_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2346
@@ -19445,12 +19576,14 @@ msgid ""
 "When the hellsboar is hit with a melee attack, the attacker starts <LSTag "
 "Type=\"Status\" Tooltip=\"BURNING\">Burning</LSTag> for 3 turns."
 msgstr ""
+"헬스보어가 근접 공격을 받으면, 공격자는 3 턴 동안 <LSTag Type=\"Status\" Tooltip=\"BURNING\">연소</"
+"LSTag> 상태에 빠집니다."
 
 #. key = Shared_Passive_BurningHide_HellBoar_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2402
 msgctxt "h87dc0bd0g622ag438eg8bd8g41d27943ece1"
 msgid "Blazing Hide"
-msgstr ""
+msgstr "타오르는 가죽"
 
 #. key = Shared_Passive_ClarifiedMortality_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2087
@@ -19460,12 +19593,14 @@ msgid ""
 "a creature, that creature and any nearby enemies are <LSTag Type=\"Status\" "
 "Tooltip=\"FRIGHTENED\">Frightened</LSTag> until the end of their next turn."
 msgstr ""
+"크리쳐에게 <LSTag Tooltip=\"CriticalHit\">치명타/LSTag>를 가하면, 대상 크리쳐와 근처의 모든 적은 자신의 "
+"다음 턴 종료 시까지<LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\">공포</LSTag>에 질립니다."
 
 #. key = Shared_Passive_ClarifiedMortality_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2143
 msgctxt "h4c2db4c3g95b5g40acg84f0g06711edb632b"
 msgid "Mortal Reminder"
-msgstr ""
+msgstr "필멸의 기억"
 
 #. key = Shared_Passive_CollegeOfLore_Proficiency_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2059
@@ -19473,13 +19608,13 @@ msgctxt "hf232d3e3g0926g4d8bga86cg3a680ff04884"
 msgid ""
 "Gain <LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> in Arcana, "
 "Intimidation and Sleight of Hand."
-msgstr ""
+msgstr "비전, 위협, 그리고 손재주에 <LSTag Tooltip=\"Proficiency\">숙련도</LSTag>를 얻습니다."
 
 #. key = Shared_Passive_CollegeOfLore_Proficiency_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2115
 msgctxt "hfb7e7e63g81ddg4cabga6d7g3c494180d9fa"
 msgid "Additional Proficiencies"
-msgstr ""
+msgstr "추가 숙련도"
 
 #. key = Shared_Passive_ColossusSlayer_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:176
@@ -19487,13 +19622,13 @@ msgctxt "h20b19b1bg5da3g41d4g901bgd1d613fe8115"
 msgid ""
 "Once per turn, your weapon attack deals an extra 1d8 damage if the target is "
 "below its hit point maximum."
-msgstr ""
+msgstr "턴 당 한 번, 최대 체력 미만인 대상에게 공격할 때, 1d8 의 추가 무기 피해를 입힙니다."
 
 #. key = Shared_Passive_ColossusSlayer_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:176
 msgctxt "h4d476cb8gfa45g4f4cga9d1gd0b109e9f9a2"
 msgid "Colossus Slayer"
-msgstr ""
+msgstr "거상 학살자"
 
 #. key = Shared_Passive_CombatInspiration_Ability_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1968
@@ -19501,13 +19636,13 @@ msgctxt "hee79482dgd994g44d9g9701gff081730e822"
 msgid ""
 "Add a +[1] bonus to your next <LSTag Tooltip=\"AbilityCheck\">Ability "
 "Check</LSTag>."
-msgstr ""
+msgstr "다음 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 +[1] 보너스를 더합니다."
 
 #. key = Shared_Passive_CombatInspiration_Ability_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2017
 msgctxt "h9e3b46a1g170ag4dcdgac5ag7218283b3961"
 msgid "Valiant Roll"
-msgstr ""
+msgstr "용맹한 굴림"
 
 #. key = Shared_Passive_CombatInspiration_Ability_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:176
@@ -19516,6 +19651,8 @@ msgid ""
 "You expend your <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION_COMBAT\""
 ">Combat Inspiration</LSTag> when the effect triggers."
 msgstr ""
+"효과가 발동되면 <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION_COMBAT\">전투 격려</"
+"LSTag>가 소모됩니다."
 
 #. key = Shared_Passive_CombatInspiration_Ability_d8_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2381
@@ -19523,13 +19660,13 @@ msgctxt "had86657dg7eadg4dbdg855dg08a36842c9d5"
 msgid ""
 "Add a +[1] bonus to your next <LSTag Tooltip=\"AbilityCheck\">Ability "
 "Check</LSTag>."
-msgstr ""
+msgstr "다음 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 +[1] 보너스를 더합니다."
 
 #. key = Shared_Passive_CombatInspiration_Ability_d8_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2437
 msgctxt "h7bcdfc4fga0f3g42d0g9d1dgbedaaab3ef1f"
 msgid "Valiant Roll"
-msgstr ""
+msgstr "용맹한 굴림"
 
 #. key = Shared_Passive_CombatInspiration_Ability_d8_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:246
@@ -19538,6 +19675,8 @@ msgid ""
 "You expend your <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION_COMBAT\""
 ">Combat Inspiration</LSTag> when the effect triggers."
 msgstr ""
+"효과가 발동되면 <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION_COMBAT\">전투 격려</"
+"LSTag>가 소모됩니다."
 
 #. key = Shared_Passive_CombatInspiration_Attack_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2024
@@ -19545,13 +19684,13 @@ msgctxt "ha78131b9g1a24g4207g8fdbg0f57faa1dff4"
 msgid ""
 "Add a +[1] bonus to your next <LSTag Tooltip=\"AttackRoll\">Attack "
 "Roll</LSTag>."
-msgstr ""
+msgstr "다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1] 보너스를 더합니다."
 
 #. key = Shared_Passive_CombatInspiration_Attack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2080
 msgctxt "he91e0afdg628fg4c75g9c48g5f7ae56ea4f7"
 msgid "Valiant Attack"
-msgstr ""
+msgstr "용맹한 공격"
 
 #. key = Shared_Passive_CombatInspiration_Attack_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:218
@@ -19560,18 +19699,20 @@ msgid ""
 "You expend your <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION_COMBAT\""
 ">Combat Inspiration</LSTag> when the effect triggers."
 msgstr ""
+"효과가 발동되면 <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION_COMBAT\">전투 격려</"
+"LSTag>가 소모됩니다."
 
 #. key = Shared_Passive_CombatInspiration_Damage_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1989
 msgctxt "h5b799db4gfb17g4555gb318gc0cf5df7470b"
 msgid "Add an additional [1] damage to your next weapon attack."
-msgstr ""
+msgstr "다음 무기 공격에 [1] 피해량을 더합니다."
 
 #. key = Shared_Passive_CombatInspiration_Damage_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2038
 msgctxt "h8931b7e3gdd5bg4393g90c9g068913ea09b2"
 msgid "Valiant Damage"
-msgstr ""
+msgstr "용맹한 피해"
 
 #. key = Shared_Passive_CombatInspiration_Damage_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:197
@@ -19580,6 +19721,8 @@ msgid ""
 "You expend your <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION_COMBAT\""
 ">Combat Inspiration</LSTag> when the effect triggers."
 msgstr ""
+"효과가 발동되면 <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION_COMBAT\">전투 격려</"
+"LSTag>가 소모됩니다."
 
 #. key = Shared_Passive_CombatInspiration_SavingThrow_ArmorClass_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1982
@@ -19589,12 +19732,14 @@ msgid ""
 "LSTag>, or a [2] bonus to your <LSTag Tooltip=\"ArmourClass\">Armour Class</"
 "LSTag> for one attack."
 msgstr ""
+"다음 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +[1] 보너스를 더하거나, 한 차례의 공격에 "
+"대한 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 [2] 보너스를 더합니다."
 
 #. key = Shared_Passive_CombatInspiration_SavingThrow_ArmorClass_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2031
 msgctxt "h0c112306ga7ddg457egaa9fg12525b5559c1"
 msgid "Valiant Defence"
-msgstr ""
+msgstr "용맹한 방어"
 
 #. key = Shared_Passive_CombatInspiration_SavingThrow_ArmorClass_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:190
@@ -19603,6 +19748,8 @@ msgid ""
 "You expend your <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION_COMBAT\""
 ">Combat Inspiration</LSTag> when the effect triggers."
 msgstr ""
+"효과가 발동되면 <LSTag Type=\"Status\" Tooltip=\"BARDIC_INSPIRATION_COMBAT\">전투 격려</"
+"LSTag>가 소모됩니다."
 
 #. key = Shared_Passive_CombatWildShape_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:183
@@ -19626,12 +19773,14 @@ msgid ""
 "damage increase with the <LSTag Tooltip=\"ProficiencyBonus\">Proficiency "
 "Bonus</LSTag> of its ranger."
 msgstr ""
+"이 동료의 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>와 피해량은 주인 레인저의 <LSTag "
+"Tooltip=\"ProficiencyBonus\">숙련 보너스</LSTag>에 따라 결정됩니다."
 
 #. key = Shared_Passive_CompanionsBond_Creature_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2262
 msgctxt "h0caa271dg838fg43cfgbb0bg029e8fa4e67a"
 msgid "Companion's Bond"
-msgstr ""
+msgstr "동료의 결속"
 
 #. key = Shared_Passive_CompanionsBond_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2073
@@ -19641,30 +19790,32 @@ msgid ""
 "\"ProficiencyBonus\">Proficiency Bonus</LSTag> is added to its <LSTag "
 "Tooltip=\"ArmourClass\">Armour Class</LSTag> and damage rolls."
 msgstr ""
+"동료와의 유대가 강해집니다. 동료의 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>와 피해 굴림에 당신의 "
+"<LSTag Tooltip=\"ProficiencyBonus\">숙련 보너스</LSTag>가 더해집니다."
 
 #. key = Shared_Passive_CompanionsBond_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:190
 msgctxt "hba44c793g6778g4b1cg8efdga573fb95345b"
 msgid "Companion's Bond"
-msgstr ""
+msgstr "동료의 결속"
 
 #. key = Shared_Passive_Curse_ExtraDamage_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2472
 msgctxt "hbe6817a7g4bf0g484bgabd3gbc254df950d9"
 msgid "Bestow Curse: Additional Damage"
-msgstr ""
+msgstr "저주 부여: 추가 피해"
 
 #. key = Shared_Passive_CuttingWords_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2395
 msgctxt "h7d4579e9gf737g4c33gaeedg62447eb5960d"
 msgid "Use your wit to distract a creature and sap its confidence."
-msgstr ""
+msgstr "재치를 발휘해 크리쳐의 주의를 분산시키고 주눅 들게 합니다."
 
 #. key = Shared_Passive_CuttingWords_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2451
 msgctxt "h49c07b79gf256g4402ga846gf9a7c5318a0f"
 msgid "Cutting Words"
-msgstr ""
+msgstr "날카로운 독설"
 
 #. key = Shared_Passive_DangerSence_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1737
@@ -19675,12 +19826,14 @@ msgid ""
 "\"SavingThrow\">Saving Throws</LSTag> against traps, spells and surfaces. "
 "<br><br>To gain this benefit, you can't be Blinded or Incapacitated."
 msgstr ""
+"주변의 변화를 감지합니다.<br><br>함정, 주문과 표면에 대한 민첩 <LSTag Tooltip=\"SavingThrow\">내성 "
+"굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Passive_DangerSence_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1772
 msgctxt "h7fb337adg6d9dg4ad2ga701g665d55fa3f62"
 msgid "Danger Sense"
-msgstr ""
+msgstr "위험 감지"
 
 #. key = Shared_Passive_DarkDevotion_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:36
@@ -19689,12 +19842,14 @@ msgid ""
 "<LSTag Tooltip=\"Advantage\">Advantage</LSTag> on <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag> against being Charmed or Frightened."
 msgstr ""
+"매혹과 공포에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>."
 
 #. key = Shared_Passive_DarkDevotion_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:36
 msgctxt "h734f5f0bg712bg4e0fgb795g692d97d76a54"
 msgid "Dark Devotion"
-msgstr ""
+msgstr "암흑 헌신"
 
 #. key = Shared_Passive_DarkOnesBlessing_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:190
@@ -19702,13 +19857,13 @@ msgctxt "hf690b23dg039ag4befg90a1g18e279b05184"
 msgid ""
 "When you reduce a hostile creature to [1], this gift from your patron grants "
 "you [2]."
-msgstr ""
+msgstr "적대적인 크리쳐를 [1] 아래로 만들면, 후원자의 선물이 당신에게 [2] 을 부여합니다."
 
 #. key = Shared_Passive_DarkOnesBlessing_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:197
 msgctxt "hecba1ef0g88beg401bg869dg6de6ba5eba40"
 msgid "Dark One's Blessing"
-msgstr ""
+msgstr "어두운 것의 축복"
 
 #. key = Shared_Passive_Darkvision_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:43
@@ -19728,19 +19883,19 @@ msgctxt "h7696c355gc791g4affg89d9g7ed7f9646d8e"
 msgid ""
 "When the mephit dies, it explodes in a burst of lava that deals [1] to all "
 "creatures within [2]. "
-msgstr ""
+msgstr "메피트가 사망하면, 폭발하며 용암을 분출해 [2] 내의 모든 크리쳐에게 [1] 를 입힙니다. "
 
 #. key = Shared_Passive_DeathBurst_MagmaMephit_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1527
 msgctxt "h4dba5ce7g245cg4538ga356gf9af8b54aea4"
 msgid "Death Burst"
-msgstr ""
+msgstr "폭발하는 죽음"
 
 #. key = Shared_Passive_DeathBurst_MagmaMephit_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:162
 msgctxt "h6b91b26ege28eg4e21g9864g612e648b3226"
 msgid "On a successful save, the creatures still take half damage."
-msgstr ""
+msgstr "굴림에 성공한 경우에도, 크리쳐는 절반의 피해를 입습니다."
 
 #. key = Shared_Passive_DeathSavingThrows_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:64
@@ -19749,6 +19904,8 @@ msgid ""
 "If damage reduces you to 0 <LSTag Tooltip=\"HitPoints\">hit points</LSTag> "
 "and fails to kill you, you fall Unconscious until you regain hit points. "
 msgstr ""
+"피해를 받아 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 0 으로 떨어져도 사망하지 않으면, 체력을 회복할 "
+"때 까지 무의식 상태에 빠집니다. "
 
 #. key = Shared_Passive_DeathSavingThrows_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:64
@@ -19800,7 +19957,7 @@ msgctxt "hf5887bfeg68b8g4f7fg922cgf411e47c61ab"
 msgid ""
 "This is a Reaction. Toggle a reaction during your turn. It will "
 "automatically execute when needed."
-msgstr ""
+msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_DeflectMissiles_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:204
@@ -20448,7 +20605,7 @@ msgctxt "hedd0782bgaf38g4e37g856cg416677431eab"
 msgid ""
 "This is a Reaction. Toggle a reaction during your turn. It will "
 "automatically execute when needed."
-msgstr ""
+msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_FightingStyle_TwoWeaponFighting_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:337
@@ -20511,7 +20668,7 @@ msgctxt "he8eb5a5egae16g4444g9e06g78ac0d63b000"
 msgid ""
 "This is a Reaction. Toggle a reaction during your turn. It will "
 "automatically execute when needed."
-msgstr ""
+msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_GapingWound_Passive_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1709
@@ -20543,7 +20700,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:344
 msgctxt "hfc27ae6dga16cg4586gb3c2g610e815a82e5"
 msgid "Giant Killer"
-msgstr ""
+msgstr "거인 살해자"
 
 #. key = Shared_Passive_GiantKiller_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:29
@@ -20631,7 +20788,7 @@ msgctxt "he51ef4c9gd32cg4dc6g92b5g7acc9c0f029f"
 msgid ""
 "This is a Reaction. Toggle a reaction during your turn. It will "
 "automatically execute when needed."
-msgstr ""
+msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_Halfling_Brave_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:120
@@ -20707,6 +20864,8 @@ msgid ""
 "Reaction. Toggle a reaction during your turn. It will automatically execute "
 "when needed. "
 msgstr ""
+"굴림이 성공한 경우에도, 대상은 절반의 피해를 입습니다.  이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 "
+"있습니다. 필요한 경우 자동으로 반응할 것입니다. "
 
 #. key = Shared_Passive_HellishRebuke_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:491
@@ -20730,6 +20889,8 @@ msgid ""
 "Reaction. Toggle a reaction during your turn. It will automatically execute "
 "when needed."
 msgstr ""
+"굴림이 성공한 경우에도, 대상은 절반의 피해를 입습니다.  이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 "
+"있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_Hex_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:498
@@ -21744,7 +21905,7 @@ msgctxt "h3970db7dg3bacg4a71ga75cg8ebbd687d256"
 msgid ""
 "This is a Reaction. Toggle a reaction during your turn. It will "
 "automatically execute when needed."
-msgstr ""
+msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_PackTactics_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1429
@@ -22395,7 +22556,7 @@ msgctxt "h7cc63ecbg01d5g46a0gba6bg5d1139eb7823"
 msgid ""
 "This is a Reaction. Toggle a reaction during your turn. It will "
 "automatically execute when needed."
-msgstr ""
+msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_RockGnome_ArtificersLore_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2045
@@ -22483,7 +22644,7 @@ msgctxt "hff226ea2gb9e8g4331ga95dg2da27123f55b"
 msgid ""
 "This is a Reaction. Toggle a reaction during your turn. It will "
 "automatically execute when needed."
-msgstr ""
+msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_ShieldMaster_Block_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:701
@@ -22507,7 +22668,7 @@ msgctxt "hf2b24dccg9c4dg4a0cg907fgd1b884adf83a"
 msgid ""
 "This is a Reaction. Toggle a reaction during your turn. It will "
 "automatically execute when needed."
-msgstr ""
+msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_ShieldMaster_PassiveBonuses_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:988
@@ -22529,7 +22690,7 @@ msgctxt "h4910e86agb92ag4f9dga75bg6e1862f71203"
 msgid ""
 "This is a Reaction. Toggle a reaction during your turn. It will "
 "automatically execute when needed."
-msgstr ""
+msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_SignOfIllOmen_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2213
@@ -22994,7 +23155,7 @@ msgctxt "h59346dc2ga57ag4049gb299g9170b983ce70"
 msgid ""
 "This is a Reaction. Toggle a reaction during your turn. It will "
 "automatically execute when needed."
-msgstr ""
+msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화 할 수 있습니다. 필요한 경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_UndeadFortitude_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1765
@@ -23053,6 +23214,8 @@ msgid ""
 "Reaction. Toggle a reaction during your turn. It will automatically execute "
 "when needed."
 msgstr ""
+"실명될 수 없는 공격자는 이 능력에 면역입니다.  이것은 반응 행동입니다. 당신의 차례 동안 반응 행동을 활성화할 수 있습니다. 필요한 "
+"경우 자동으로 반응할 것입니다."
 
 #. key = Shared_Passive_Warding_Bond_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:526
@@ -26857,7 +27020,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:715
 msgctxt "h79ffbc48g5c5bg419cgb667g5fbc900dfc9d"
 msgid "Death Burst"
-msgstr ""
+msgstr "폭발하는 죽음"
 
 #. key = Shared_Projectile_Dipped_Fire_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:22
@@ -27531,7 +27694,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:547
 msgctxt "hcd5efc83g690bg474dga7b4gbfd66acf213f"
 msgid "Death Burst"
-msgstr ""
+msgstr "폭발하는 죽음"
 
 #. key = Shared_Projectile_MobileShooting_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:540
@@ -29556,7 +29719,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayName.lsx:533
 msgctxt "hfeb04579g9953g429fgbe08g1fb5730dd5a4"
 msgid "Hellsboar"
-msgstr "지옥멧돼지"
+msgstr "헬스보어"
 
 #. key = Shared_Races_New_Stat_76_DisplayType
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:519
@@ -29994,7 +30157,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:120
 msgctxt "h0cf9ffebga616g4e18g84aeg73adc4261808"
 msgid "Armour of Agathys"
-msgstr ""
+msgstr "아가티스의 갑주"
 
 #. key = Shared_Shout_ArmsOfHadar_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:190
@@ -32443,7 +32606,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:449
 msgctxt "h64dcbd26g749fg4648g8018g102e0f61d71e"
 msgid "Armour of Agathys"
-msgstr ""
+msgstr "아가티스의 갑주"
 
 #. key = Shared_Status_BOOST_ARMS_OF_HADAR_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:358
@@ -33235,7 +33398,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:561
 msgctxt "h5922f85agd9d9g4c11ga2e3g2cf9e8738803"
 msgid "Dark One's Blessing"
-msgstr ""
+msgstr "어두운 것의 축복"
 
 #. key = Shared_Status_BOOST_DASH_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:15
@@ -37774,13 +37937,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:43
 msgctxt "h4abc4cf7g675fg4ebcgac63g47ef89e95153"
 msgid "Agonising Blast"
-msgstr ""
+msgstr "고통스러운 작렬"
 
 #. key = Shared_Status_EFFECT_PASSIVE_ARMOR_OF_AGATHYS_ATTACKER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:57
 msgctxt "h75541ec9gc94dg4785g8014gb8b695bb9d30"
 msgid "Armour of Agathys"
-msgstr ""
+msgstr "아가티스의 갑주"
 
 #. key = Shared_Status_EFFECT_PASSIVE_BANE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:64
@@ -37798,7 +37961,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:78
 msgctxt "hacbdac87g0dc9g4772g93f3ge99c49e14915"
 msgid "Dark One's Blessing"
-msgstr ""
+msgstr "어두운 것의 축복"
 
 #. key = Shared_Status_EFFECT_PASSIVE_DEFENSIVE_DUELIST_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:176
@@ -39590,7 +39753,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1660
 msgctxt "h874c3e78gb424g40d9g9c7eg780447f96920"
 msgid "Use your wit to distract a creature and sap its confidence."
-msgstr ""
+msgstr "재치를 발휘해 크리쳐의 주의를 분산시키고 주눅 들게 합니다."
 
 #. key = Shared_Target_CuttingWords_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1716
