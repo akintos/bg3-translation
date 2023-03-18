@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-16 17:52+0000\n"
+"PO-Revision-Date: 2023-03-18 03:52+0000\n"
 "Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -17743,7 +17743,7 @@ msgstr "재치를 발휘해 크리쳐의 주의를 분산시키고 주눅 들게
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:71
 msgctxt "h04cd9c24g4e19g422bg983bge808593fb7c0"
 msgid "Cutting Words"
-msgstr ""
+msgstr "날카로운 독설"
 
 #. key = Shared_Interrupt_Interrupt_CuttingWords_ExtraDescription
 #: Shared/Public/Shared/Localization/Interrupt_ExtraDescription.lsx:29
@@ -17811,7 +17811,7 @@ msgctxt "h29c21e7bg1694g40bbg9ffdg7de76393c235"
 msgid ""
 "When a creature misses you with a melee attack, you can retaliate with a "
 "powerful attack that deals an additional 1d8 damage."
-msgstr ""
+msgstr "자신을 향한 크리쳐의 근접 공격이 빗나가면, 대상에게 강력한 공격으로 반격해 추가로 1d8 의 피해를 입힐 수 있습니다."
 
 #. key = Shared_Interrupt_Interrupt_Riposte_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:57
@@ -19252,7 +19252,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1065
 msgctxt "he541f6e3g9429g4816gaef4g4b098d1ae15b"
 msgid "Hermit"
-msgstr ""
+msgstr "은둔자"
 
 #. key = Shared_Passive_Background_Noble_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1254
@@ -19315,7 +19315,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1275
 msgctxt "ha5bd9430gf748g4657g89e6g2d4379ac4501"
 msgid "Sailor"
-msgstr ""
+msgstr "선원"
 
 #. key = Shared_Passive_Background_Soldier_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1275
@@ -19921,6 +19921,8 @@ msgid ""
 "LSTag>, you must make a Death Saving Throw to determine whether you creep "
 "closer to death or hang onto life."
 msgstr ""
+"<LSTag Tooltip=\"HitPoints\">체력</LSTag>이 0 인 상태에서 차례를 시작할 때마다, 죽음에 가까워졌는지, "
+"또는 생존에 매달릴 수 있는지 판별하기 위해 죽음 내성 굴림을 실행해야 합니다."
 
 #. key = Shared_Passive_DeepGnome_StoneCamouflage_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:799
@@ -19929,12 +19931,14 @@ msgid ""
 "You have <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on Stealth <LSTag "
 "Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"은신 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 가지고 있습니다."
 
 #. key = Shared_Passive_DeepGnome_StoneCamouflage_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:799
 msgctxt "hccfef235gab5fg4ecfg862dg2e3e13de0d89"
 msgid "Stone Camouflage"
-msgstr ""
+msgstr "바위 위장"
 
 #. key = Shared_Passive_DefensiveDuelist_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:547
@@ -19944,12 +19948,14 @@ msgid ""
 "your <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> by [1], possibly "
 "causing the attack to miss."
 msgstr ""
+"근접 공격을 당하면, 반응 행동을 사용해 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>를 [1] 만큼 "
+"증가시켜 공격이 빗나가게 할 수 있습니다."
 
 #. key = Shared_Passive_DefensiveDuelist_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:547
 msgctxt "h4ac5e779g24fbg4de3gbd04g81f25082caff"
 msgid "Defensive Duellist"
-msgstr ""
+msgstr "방어적 결투가"
 
 #. key = Shared_Passive_DefensiveDuelist_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:113
@@ -19963,7 +19969,7 @@ msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동�
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:204
 msgctxt "hb4b7c4f3g30dbg441fgbfd0gb4350f3fe06a"
 msgid "Deflect Missiles"
-msgstr ""
+msgstr "투사체 반사"
 
 #. key = Shared_Passive_DestroyUndead_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2185
@@ -19972,12 +19978,14 @@ msgid ""
 "When you successfully <LSTag Type=\"Spell\" Tooltip=\"Shout_TurnUndead\""
 ">Turn</LSTag> an undead creature, it also takes [1]."
 msgstr ""
+"언데드 크리쳐를 <LSTag Type=\"Spell\" Tooltip=\"Shout_TurnUndead\">되돌리는</LSTag>데 "
+"성공하면, 대상은 [1] 도 입습니다."
 
 #. key = Shared_Passive_DestroyUndead_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2248
 msgctxt "h612d80e3gbc67g4a30g85eagb42cc97f800f"
 msgid "Destroy Undead"
-msgstr ""
+msgstr "언데드 파괴"
 
 #. key = Shared_Passive_DevilsSight_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:204
@@ -19985,13 +19993,13 @@ msgctxt "h4290e9c1ga5abg4f18g8243g7410a1457f60"
 msgid ""
 "You can see normally in darkness, both magical and non-magical, to a "
 "distance of [1]."
-msgstr ""
+msgstr "어둠(마법적이든 일반적이든) 속에서도 최대 [1] 앞까지 볼 수 있습니다."
 
 #. key = Shared_Passive_DevilsSight_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:211
 msgctxt "h5ecedc36gdf68g4529g820fgfc9269eb9f52"
 msgid "Devil's Sight"
-msgstr ""
+msgstr "데블의 시야"
 
 #. key = Shared_Passive_DisarmingAttack_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1443
@@ -19999,13 +20007,13 @@ msgctxt "hb567e7abg48f7g4b73g96e3g7750ecb59f62"
 msgid ""
 "Spend a superiority die to make an attack that deals an additional 1d8 "
 "damage and possibly forces the target to drop the weapons they are holding."
-msgstr ""
+msgstr "우월성 주사위를 소모해 1d8 의 추가 피해를 주고 대상이 사용 중인 무기를 놓치게 할 수 있는 공격을 시도합니다."
 
 #. key = Shared_Passive_DisarmingAttack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1457
 msgctxt "ha21fd129ga099g435ag9297gc77a566a5901"
 msgid "Disarming Attack"
-msgstr ""
+msgstr "무장해제 공격"
 
 #. key = Shared_Passive_DiscipleOfLife_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:211
@@ -20015,25 +20023,27 @@ msgid ""
 "the target regains additional <LSTag Tooltip=\"HitPoints\">hit points</"
 "LSTag> equal to 2 + the Spell's level. "
 msgstr ""
+"당신의 헌신이 치유 주문을 강화합니다. 치유 주문을 시전하면, 대상은 주문의 레벨 +2 에 해당하는 <LSTag Tooltip="
+"\"HitPoints\">체력</LSTag>을 추가로 회복합니다. "
 
 #. key = Shared_Passive_DiscipleOfLife_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:218
 msgctxt "h67fe33fdg46c1g415bg95c6g20291e2c1ea8"
 msgid "Disciple of Life"
-msgstr ""
+msgstr "생명의 사도"
 
 #. key = Shared_Passive_DivineHealth_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:218
 msgctxt "h0b2d68c2gd4bdg4f9dg9288g7ab5b7b1cd42"
 msgid ""
 "The divine magic flowing within you prevents disease from affecting you."
-msgstr ""
+msgstr "내면에 흐르는 신성 마법이 질병을 막아줍니다."
 
 #. key = Shared_Passive_DivineHealth_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:225
 msgctxt "h31f1742cgc2c6g48dagab8eg0e206e7b679b"
 msgid "Divine Health"
-msgstr ""
+msgstr "신성한 체력"
 
 #. key = Shared_Passive_DomainSpells_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:225
@@ -20042,6 +20052,8 @@ msgid ""
 "You gain spells from your domain. They are <LSTag Tooltip=\"AlwaysPrepared\""
 ">Always Prepared</LSTag>."
 msgstr ""
+"당신은 권역에서 주문을 부여받습니다. 그 주문들은 <LSTag Tooltip=\"AlwaysPrepared\">항상 준비되어</"
+"LSTag> 있습니다."
 
 #. key = Shared_Passive_DomainSpells_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:232
@@ -20057,12 +20069,14 @@ msgid ""
 "Level 6, spells that deal Acid damage are more powerful, and you can become "
 "resistant to Acid damage."
 msgstr ""
+"당신의 드래곤 조상과 연관된 피해 종류는 산성입니다.<br><br>레벨 6에 도달하면, 산성 피해를 입히는 주문이 강화되고, 산성 피해에 "
+"저항을 얻을 수 있습니다."
 
 #. key = Shared_Passive_DraconicAncestry_Black_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1618
 msgctxt "h4ce8f1b2ga05eg462cg9504gadc7454da8d5"
 msgid "Draconic Ancestry: Black (Acid)"
-msgstr ""
+msgstr "드래곤 조상: 블랙 (산성)"
 
 #. key = Shared_Passive_DraconicAncestry_Blue_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1583
@@ -20072,12 +20086,14 @@ msgid ""
 "Level 6, spells that deal Lightning damage are more powerful, and you can "
 "become resistant to Lightning damage."
 msgstr ""
+"당신의 드래곤 조상과 연관된 피해 종류는 번개입니다.<br><br>레벨 6에 도달하면, 번개 피해를 입히는 주문이 강화되고, 번개 피해에 "
+"저항을 얻을 수 있습니다."
 
 #. key = Shared_Passive_DraconicAncestry_Blue_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1611
 msgctxt "hccfca3efg28ceg45e0gbe16gb2cb1436de71"
 msgid "Draconic Ancestry: Blue (Lightning)"
-msgstr ""
+msgstr "드래곤 조상: 블루 (번개)"
 
 #. key = Shared_Passive_DraconicAncestry_Brass_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1576
@@ -20087,12 +20103,14 @@ msgid ""
 "Level 6, spells that deal Fire damage are more powerful, and you can become "
 "resistant to Fire damage."
 msgstr ""
+"당신의 드래곤 조상과 연관된 피해 종류는 화염입니다.<br><br>레벨 6에 도달하면, 화염 피해를 입히는 주문이 강화되고, 화염 피해에 "
+"저항을 얻을 수 있습니다."
 
 #. key = Shared_Passive_DraconicAncestry_Brass_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1604
 msgctxt "hec621316g9df8g463egb886ga4b88f35ef71"
 msgid "Draconic Ancestry: Brass (Fire)"
-msgstr ""
+msgstr "드래곤 조상: 브라스 (화염)"
 
 #. key = Shared_Passive_DraconicAncestry_Bronze_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1569
@@ -20102,12 +20120,14 @@ msgid ""
 "Level 6, spells that deal Lightning damage are more powerful, and you can "
 "become resistant to Lightning damage."
 msgstr ""
+"당신의 드래곤 조상과 연관된 피해 종류는 번개입니다.<br><br>레벨 6에 도달하면, 번개 피해를 입히는 주문이 강화되고, 번개 피해에 "
+"저항을 얻을 수 있습니다."
 
 #. key = Shared_Passive_DraconicAncestry_Bronze_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1597
 msgctxt "h87576753g0f65g4837g8197g4d8a5c3d3438"
 msgid "Draconic Ancestry: Bronze (Lightning)"
-msgstr ""
+msgstr "드래곤 조상: 브론즈 (번개)"
 
 #. key = Shared_Passive_DraconicAncestry_Copper_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1597
@@ -20117,12 +20137,14 @@ msgid ""
 "Level 6, spells that deal Acid damage are more powerful, and you can become "
 "resistant to Acid damage."
 msgstr ""
+"당신의 드래곤 조상과 연관된 피해 종류는 산성입니다.<br><br>레벨 6에 도달하면, 산성 피해를 입히는 주문이 강화되고, 산성 피해에 "
+"저항을 얻을 수 있습니다."
 
 #. key = Shared_Passive_DraconicAncestry_Copper_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1625
 msgctxt "h7af63d37g3b73g49b9gb516gc3dd467a81da"
 msgid "Draconic Ancestry: Copper (Acid)"
-msgstr ""
+msgstr "드래곤 조상: 코퍼 (산성)"
 
 #. key = Shared_Passive_DraconicAncestry_Gold_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1604
@@ -20132,12 +20154,14 @@ msgid ""
 "Level 6, spells that deal Fire damage are more powerful, and you can become "
 "resistant to Fire damage."
 msgstr ""
+"당신의 드래곤 조상과 연관된 피해 종류는 화염입니다.<br><br>레벨 6에 도달하면, 화염 피해를 입히는 주문이 강화되고, 화염 피해에 "
+"저항을 얻을 수 있습니다."
 
 #. key = Shared_Passive_DraconicAncestry_Gold_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1632
 msgctxt "h953cf795g0166g4230g8ffdga0e109406b42"
 msgid "Draconic Ancestry: Gold (Fire)"
-msgstr ""
+msgstr "드래곤 조상: 골드 (화염)"
 
 #. key = Shared_Passive_DraconicAncestry_Green_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1611
@@ -20147,12 +20171,14 @@ msgid ""
 "Level 6, spells that deal Poison damage are more powerful, and you can "
 "become resistant to Poison damage."
 msgstr ""
+"당신의 드래곤 조상과 연관된 피해 종류는 독입니다.<br><br>레벨 6에 도달하면, 독 피해를 입히는 주문이 강화되고, 독 피해에 "
+"저항을 얻을 수 있습니다."
 
 #. key = Shared_Passive_DraconicAncestry_Green_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1639
 msgctxt "h495a89bdgc2b1g4b6egb3b4g92e43a3ac3a7"
 msgid "Draconic Ancestry: Green (Poison)"
-msgstr ""
+msgstr "드래곤 조상: 그린 (독)"
 
 #. key = Shared_Passive_DraconicAncestry_Red_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1618
@@ -20162,12 +20188,14 @@ msgid ""
 "Level 6, spells that deal Fire damage are more powerful, and you can become "
 "resistant to Fire damage."
 msgstr ""
+"당신의 드래곤 조상과 연관된 피해 종류는 화염입니다.<br><br>레벨 6에 도달하면, 화염 피해를 입히는 주문이 강화되고, 화염 피해에 "
+"저항을 얻을 수 있습니다."
 
 #. key = Shared_Passive_DraconicAncestry_Red_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1646
 msgctxt "h2a683ab8ga6beg4962ga2bfg78de4297f96d"
 msgid "Draconic Ancestry: Red (Fire)"
-msgstr ""
+msgstr "드래곤 조상: 레드 (화염)"
 
 #. key = Shared_Passive_DraconicAncestry_Silver_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1625
@@ -20177,12 +20205,14 @@ msgid ""
 "Level 6, spells that deal Cold damage are more powerful, and you can become "
 "resistant to Cold damage."
 msgstr ""
+"당신의 드래곤 조상과 연관된 피해 종류는 냉기입니다.<br><br>레벨 6에 도달하면, 냉기 피해를 입히는 주문이 강화되고, 냉기 피해에 "
+"저항을 얻을 수 있습니다."
 
 #. key = Shared_Passive_DraconicAncestry_Silver_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1653
 msgctxt "hcb00da68gf89fg4e0eg8442g5981d5ab4a8f"
 msgid "Draconic Ancestry: Silver (Cold)"
-msgstr ""
+msgstr "드래곤 조상: 실버 (냉기)"
 
 #. key = Shared_Passive_DraconicAncestry_White_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1632
@@ -20192,12 +20222,14 @@ msgid ""
 "Level 6, spells that deal Cold damage are more powerful, and you can become "
 "resistant to Cold damage."
 msgstr ""
+"당신의 드래곤 조상과 연관된 피해 종류는 냉기입니다.<br><br>레벨 6에 도달하면, 냉기 피해를 입히는 주문이 강화되고, 냉기 피해에 "
+"저항을 얻을 수 있습니다."
 
 #. key = Shared_Passive_DraconicAncestry_White_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1660
 msgctxt "h8cd25cb2gb122g4b9dga912gc88e44406e3f"
 msgid "Draconic Ancestry: White (Cold)"
-msgstr ""
+msgstr "드래곤 조상: 화이트 (냉기)"
 
 #. key = Shared_Passive_DraconicResilience_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1639
@@ -20206,12 +20238,14 @@ msgid ""
 "Dragon-like scales cover parts of your skin. When you aren't wearing armour, "
 "your base <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> is 13."
 msgstr ""
+"드래곤과 같은 비늘이 피부의 일부를 덮고 있습니다. 방어구를 입지 않은 경우, 기본 <LSTag Tooltip=\"ArmourClass\""
+">방어도</LSTag>는 13 입니다."
 
 #. key = Shared_Passive_DraconicResilience_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1667
 msgctxt "h2b56c3e6g3117g4d9dg84e3gff9843f2674f"
 msgid "Draconic Resilience"
-msgstr ""
+msgstr "드래곤의 탄력"
 
 #. key = Shared_Passive_Drow_DrowWeaponTraining_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:71
@@ -20220,12 +20254,13 @@ msgid ""
 "You have <LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> with the Rapier, "
 "Shortsword, and Hand Crossbow."
 msgstr ""
+"레이피어, 숏소드, 그리고 손쇠뇌에 <LSTag Tooltip=\"Proficiency\">숙련도</LSTag>를 가지고 있습니다."
 
 #. key = Shared_Passive_Drow_DrowWeaponTraining_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:71
 msgctxt "hbc15c7c5g8a76g49a5gb058g837c30189f67"
 msgid "Drow Weapon Training"
-msgstr ""
+msgstr "드로우 무기 훈련"
 
 #. key = Shared_Passive_DualWielder_BonusAC_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:554
@@ -20234,6 +20269,7 @@ msgid ""
 "You have a +1 bonus to <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> "
 "while you are wielding a melee weapon in each hand."
 msgstr ""
+"각 손에 근접 무기를 들고 있으면 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +1 보너스를 얻습니다."
 
 #. key = Shared_Passive_DualWielder_BonusAC_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:554
@@ -20263,18 +20299,20 @@ msgid ""
 "\"SavingThrow\">Saving Throws</LSTag> against illusions and against being "
 "Charmed or Paralysed."
 msgstr ""
+"환영과 매혹, 또는 마비에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Passive_Duergar_DuergarResilience_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1352
 msgctxt "h6b8f60e6g4dfcg41fcg9d5fgd25db41d2077"
 msgid "Duergar Resilience"
-msgstr ""
+msgstr "듀에르가의 탄력"
 
 #. key = Shared_Passive_Durable_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:960
 msgctxt "h52ed0302g36beg4fb2g917fgc1f62992fbd0"
 msgid "Durable"
-msgstr ""
+msgstr "강인함"
 
 #. key = Shared_Passive_Dwarf_DwarvenCombatTraining_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:78
@@ -20283,12 +20321,13 @@ msgid ""
 "You have <LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> with the "
 "Battleaxe, Handaxe, Light Hammer, and Warhammer."
 msgstr ""
+"배틀액스, 손도끼, 라이트해머, 그리고 워해머에 <LSTag Tooltip=\"Proficiency\">숙련</LSTag> 되어 있습니다."
 
 #. key = Shared_Passive_Dwarf_DwarvenCombatTraining_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:78
 msgctxt "h5a4b3bfbg1fe3g4476g9b98gac676ef4fa56"
 msgid "Dwarven Combat Training"
-msgstr ""
+msgstr "드워프식 전투 훈련"
 
 #. key = Shared_Passive_Dwarf_DwarvenResilience_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:99
@@ -20298,12 +20337,14 @@ msgid ""
 "\"SavingThrow\">Saving Throws</LSTag> against Poison, and you have "
 "Resistance against Poison damage."
 msgstr ""
+"독에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>과, 독 피해에 저항을 갖습니다."
 
 #. key = Shared_Passive_Dwarf_DwarvenResilience_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:99
 msgctxt "h209e8dc6g6c66g43f7g8d8eg8ac5f0cde60f"
 msgid "Dwarven Resilience"
-msgstr ""
+msgstr "드워프의 탄력"
 
 #. key = Shared_Passive_Elf_WeaponTraining_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:85
@@ -20311,13 +20352,13 @@ msgctxt "hf4854c28g7e44g4f6cg96b2g0695fdb50da4"
 msgid ""
 "You have <LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> with the "
 "Longsword, Shortsword, Shortbow, and Longbow."
-msgstr ""
+msgstr "롱소드, 숏소드, 단궁, 그리고 장궁에 <LSTag Tooltip=\"Proficiency\">숙련</LSTag>되어 있습니다."
 
 #. key = Shared_Passive_Elf_WeaponTraining_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:85
 msgctxt "h956e6d7bg1cdfg4eb8g8f9dgd642f0d11288"
 msgid "Elven Weapon Training"
-msgstr ""
+msgstr "엘프 무기 훈련"
 
 #. key = Shared_Passive_Expertise_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:232
@@ -23403,7 +23444,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:715
 msgctxt "h0dd4b839g464fg4860g8c40gb0fab7ea3090"
 msgid "Dwarven Resilience"
-msgstr ""
+msgstr "드워프의 탄력"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_10_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:456
@@ -33365,7 +33406,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3312
 msgctxt "h342194a3gfde6g4839gaf4ag60d57444236a"
 msgid "Cutting Words"
-msgstr ""
+msgstr "날카로운 독설"
 
 #. key = Shared_Status_BOOST_DANCING_LIGHTS_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2689
@@ -39759,7 +39800,7 @@ msgstr "재치를 발휘해 크리쳐의 주의를 분산시키고 주눅 들게
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1716
 msgctxt "hd35183deg195fg4f3dg911bg272294249b84"
 msgid "Cutting Words"
-msgstr ""
+msgstr "날카로운 독설"
 
 #. key = Shared_Target_CuttingWords_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:351
