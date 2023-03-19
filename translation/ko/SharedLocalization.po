@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-18 03:52+0000\n"
+"PO-Revision-Date: 2023-03-19 08:52+0000\n"
 "Last-Translator: 윤준혁 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -19310,6 +19310,8 @@ msgid ""
 "You are pushed by greed and wanderlust, ever curious, seeking hoards and "
 "wonders unknown. Finding secret treasures opens the path to new discoveries."
 msgstr ""
+"당신은 욕망과 방랑벽에 따라 행동하며, 언제나 호기심 많고, 알려지지 않은 신비를 찾아 떠돕니다. 숨겨진 보물을 찾는 것은 새로운 "
+"발견으로 이어지기 마련입니다."
 
 #. key = Shared_Passive_Background_Sailor_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1275
@@ -20374,32 +20376,32 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:239
 msgctxt "hcd7e5e59g7d86g42aagb34fg73501d1b86d2"
 msgid "Expertise"
-msgstr ""
+msgstr "전문"
 
 #. key = Shared_Passive_ExtraAttack_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:239
 msgctxt "he37249cfg5d71g499cg82d9gc369133f2066"
 msgid ""
 "Can make an additional free attack after making an unarmed or weapon attack."
-msgstr ""
+msgstr "비무장 또는 무기 공격을 가한 뒤 추가로 자유 공격을 할 수 있습니다."
 
 #. key = Shared_Passive_ExtraAttack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:246
 msgctxt "hcf90a672g10deg4b3egad4fg9094c6ac6224"
 msgid "Extra Attack"
-msgstr ""
+msgstr "추가 공격"
 
 #. key = Shared_Passive_FastHands_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:253
 msgctxt "h39a1435cg89ecg43efga4adgd2318a5173d1"
 msgid "Gain an additional bonus action."
-msgstr ""
+msgstr "추가 행동을 하나 더 얻습니다."
 
 #. key = Shared_Passive_FastHands_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:260
 msgctxt "h7e23914fg88ffg4b12ga778g1009c8f9f814"
 msgid "Fast Hands"
-msgstr ""
+msgstr "재빠른 손놀림"
 
 #. key = Shared_Passive_FastMovement_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2171
@@ -20408,12 +20410,14 @@ msgid ""
 "<LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> increased by [1] "
 "while not wearing Heavy Armour."
 msgstr ""
+"중갑을 입은 상태가 아니라면, <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 [1] 만큼 "
+"늘어납니다."
 
 #. key = Shared_Passive_FastMovement_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2234
 msgctxt "hca69519fg85a0g4a01gbf89g9ffb02318887"
 msgid "Fast Movement"
-msgstr ""
+msgstr "빠른 움직임"
 
 #. key = Shared_Passive_FavoredEnemy_BountyHunter_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:267
@@ -20431,7 +20435,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:267
 msgctxt "h58e99731gc268g4d20gbf9dg14edcfc6d89c"
 msgid "Bounty Hunter"
-msgstr ""
+msgstr "현상금 사냥꾼"
 
 #. key = Shared_Passive_FavoredEnemy_KeeperOfTheVeil_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:274
@@ -24048,13 +24052,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:960
 msgctxt "hb3655953g1ce5g489dga54cg809ea8ae167e"
 msgid "Gain an additional bonus action."
-msgstr ""
+msgstr "추가 행동을 하나 더 얻습니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_173_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:960
 msgctxt "h6c4bac51g3ad8g48e3g85f7gc1c2a0e206f9"
 msgid "Fast Hands"
-msgstr ""
+msgstr "재빠른 손놀림"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_174_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:967
@@ -30579,277 +30583,277 @@ msgstr "철수"
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:701
 msgctxt "h31d7b97fgbfdfg4b83g84c3gb867c5cd03fd"
 msgid "Nimble Escape"
-msgstr ""
+msgstr "날렵한 탈출"
 
 #. key = Shared_Shout_DisguiseSelf_Cancel_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:323
 msgctxt "h2a1b14cbgafd6g4137gb840g0b75809427cb"
 msgid "Dispel your disguise and revert to your original form."
-msgstr ""
+msgstr "위장을 해제하고 원래 모습으로 되돌아갑니다."
 
 #. key = Shared_Shout_DisguiseSelf_Cancel_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:351
 msgctxt "h1b3dfa09g5f88g48e2g8869gcf4076e0ed12"
 msgid "Dispel Disguise"
-msgstr ""
+msgstr "위장 해제"
 
 #. key = Shared_Shout_DisguiseSelf_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:99
 msgctxt "hcb9b29eagb321g4105g86aag3accb5ae1135"
 msgid "Magically change all aspects of your appearance."
-msgstr ""
+msgstr "마법으로 외형을 바꿉니다."
 
 #. key = Shared_Shout_DisguiseSelf_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:225
 msgctxt "hd55daa90gcf0eg4587g95a7g23066280b458"
 msgid "Disguise Self"
-msgstr ""
+msgstr "자기 위장"
 
 #. key = Shared_Shout_DisguiseSelf_Drow_Female_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:358
 msgctxt "h55b0d3d4g4d15g46f0gb616gaeafc09e99f7"
 msgid "Disguise yourself as a drow with a feminine body type."
-msgstr ""
+msgstr "여성의 몸을 지닌 드로우로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Drow_Female_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:253
 msgctxt "h3e50f066g600bg460fgba49g405a4d3ffd5a"
 msgid "Disguise Self: Femme Drow"
-msgstr ""
+msgstr "자기 위장: 드로우 여성"
 
 #. key = Shared_Shout_DisguiseSelf_Drow_Male_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:351
 msgctxt "h0023ad0eg5adag4580g8ffcg332aafa09f7c"
 msgid "Disguise yourself as a drow with a masculine body type."
-msgstr ""
+msgstr "남성의 몸을 지닌 드로우로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Drow_Male_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:246
 msgctxt "h21346f0dgbd5cg46b7gae73gd591f6655e32"
 msgid "Disguise Self: Masc Drow"
-msgstr ""
+msgstr "자기 위장: 드로우 남성"
 
 #. key = Shared_Shout_DisguiseSelf_Dwarf_Female_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:400
 msgctxt "he33636c3g003cg4ce9ga168g188053422b2a"
 msgid "Disguise yourself as a dwarf with a feminine body type."
-msgstr ""
+msgstr "여성의 몸을 지닌 드워프로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Dwarf_Female_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:295
 msgctxt "h3c8c6eecge427g4f21gb610ge552c348ded8"
 msgid "Disguise Self: Femme Dwarf"
-msgstr ""
+msgstr "자기 위장: 드워프 여성"
 
 #. key = Shared_Shout_DisguiseSelf_Dwarf_Male_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:393
 msgctxt "h4895517ag8128g4d34g87b4gf75aa7f341c0"
 msgid "Disguise yourself as a dwarf with a masculine body type."
-msgstr ""
+msgstr "남성의 몸을 지닌 드워프로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Dwarf_Male_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:288
 msgctxt "ha0890517g18a6g4733gb437g42b9b7c7faa4"
 msgid "Disguise Self: Masc Dwarf"
-msgstr ""
+msgstr "자기 위장: 드워프 남성"
 
 #. key = Shared_Shout_DisguiseSelf_Elf_Female_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:414
 msgctxt "h9c684e7bgb784g4239gbdb3g641db8699953"
 msgid "Disguise yourself as an elf with a feminine body type."
-msgstr ""
+msgstr "여성의 몸을 지닌 엘프로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Elf_Female_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:309
 msgctxt "ha618db3bg3347g48b8gb542g42e7fc87a395"
 msgid "Disguise Self: Femme Elf"
-msgstr ""
+msgstr "자기 위장: 엘프 여성"
 
 #. key = Shared_Shout_DisguiseSelf_Elf_Male_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:407
 msgctxt "h65ae2a12g999bg4c0bgae94g6980273088fc"
 msgid "Disguise yourself as an elf with a masculine body type."
-msgstr ""
+msgstr "남성의 몸을 지닌 엘프로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Elf_Male_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:302
 msgctxt "h0435a5e3ge5e5g4824gadc4gffdc4199121f"
 msgid "Disguise Self: Masc Elf"
-msgstr ""
+msgstr "자기 위장: 엘프 남성"
 
 #. key = Shared_Shout_DisguiseSelf_Githyanki_Female_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:386
 msgctxt "h15a250begd4c0g4c2bg85b2g16835612dc0a"
 msgid "Disguise yourself as a githyanki with a feminine body type."
-msgstr ""
+msgstr "여성의 몸을 지닌 기스양키로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Githyanki_Female_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:281
 msgctxt "h198481ebg8043g4cb1g8beag48a7af39fe05"
 msgid "Disguise Self: Femme Githyanki"
-msgstr ""
+msgstr "자기 위장: 기스양키 여성"
 
 #. key = Shared_Shout_DisguiseSelf_Githyanki_Male_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:379
 msgctxt "hd5017503gb77cg42d9g8410g793791d7ff10"
 msgid "Disguise yourself as a githyanki with a masculine body type."
-msgstr ""
+msgstr "남성의 몸을 지닌 기스양키로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Githyanki_Male_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:274
 msgctxt "h846e3041g7c73g4806gad43g9e74d887a5c4"
 msgid "Disguise Self: Masc Githyanki"
-msgstr ""
+msgstr "자기 위장: 기스양키 남성"
 
 #. key = Shared_Shout_DisguiseSelf_Gnome_Female_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:932
 msgctxt "hd4a5815cge42ag40b7gb3e5gae069e3454a3"
 msgid "Disguise yourself as a gnome with a feminine body type."
-msgstr ""
+msgstr "여성의 몸을 지닌 노움으로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Gnome_Female_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1163
 msgctxt "h80e3ae47g91eeg491fg8a21g30e06700c3fa"
 msgid "Disguise Self: Femme Gnome"
-msgstr ""
+msgstr "자기 위장: 노움 여성"
 
 #. key = Shared_Shout_DisguiseSelf_Gnome_Male_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:925
 msgctxt "h95131c18g03c5g4c5fga6f7g2066c20e6045"
 msgid "Disguise yourself as a gnome with a masculine body type."
-msgstr ""
+msgstr "남성의 몸을 지닌 노움으로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Gnome_Male_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1156
 msgctxt "h902c029agc96cg47fbgac7cgf4892dc2632e"
 msgid "Disguise Self: Masc Gnome"
-msgstr ""
+msgstr "자기 위장: 노움 남성"
 
 #. key = Shared_Shout_DisguiseSelf_HalfElf_Female_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:428
 msgctxt "h4d24a0cdg43a8g45bcgb3f5gd639fa9a0477"
 msgid "Disguise yourself as a half-elf with a feminine body type."
-msgstr ""
+msgstr "여성의 몸을 지닌 하프 엘프로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_HalfElf_Female_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:323
 msgctxt "h64046560gd3ceg47f8gac32g7a9615e54954"
 msgid "Disguise Self: Femme Half-Elf"
-msgstr ""
+msgstr "자기 위장: 하프엘프 여성"
 
 #. key = Shared_Shout_DisguiseSelf_HalfElf_Male_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:421
 msgctxt "hf6ab3778gc129g49c3g9cbag8dc49ffe241e"
 msgid "Disguise yourself as a half-elf with a masculine body type."
-msgstr ""
+msgstr "남성의 몸을 지닌 하프 엘프로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_HalfElf_Male_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:316
 msgctxt "hc10d3d93g97e5g4c4fga4fagcb66beb0d313"
 msgid "Disguise Self: Masc Half-Elf"
-msgstr ""
+msgstr "자기 위장: 하프 엘프 남성"
 
 #. key = Shared_Shout_DisguiseSelf_Halfling_Female_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:442
 msgctxt "h8f01c13bgd5eag4dc4g8877gcf7173366a79"
 msgid "Disguise yourself as a halfling with a feminine body type."
-msgstr ""
+msgstr "여성의 몸을 지닌 하플링으로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Halfling_Female_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:337
 msgctxt "h6a352488g3c99g4e51ga4f0gb324a4c7e400"
 msgid "Disguise Self: Femme Halfling"
-msgstr ""
+msgstr "자기 위장: 하플링 여성"
 
 #. key = Shared_Shout_DisguiseSelf_Halfling_Male_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:435
 msgctxt "h3fc4cacag8398g4069gba77g80d66beeab02"
 msgid "Disguise yourself as a halfling with a masculine body type."
-msgstr ""
+msgstr "남성의 몸을 지닌 하플링으로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Halfling_Male_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:330
 msgctxt "h4f741fdegc70fg493egaa98gc423796ce956"
 msgid "Disguise Self: Masc Halfling"
-msgstr ""
+msgstr "자기 위장: 하플링 남성"
 
 #. key = Shared_Shout_DisguiseSelf_Human_Female_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:372
 msgctxt "h20b06c15g72eeg4345gb98bgaf71c8af9e18"
 msgid "Disguise yourself as a human with a feminine body type."
-msgstr ""
+msgstr "여성의 몸을 지닌 인간으로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Human_Female_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:267
 msgctxt "h639024b9gf27dg4c88gb672gd244f76ddfaf"
 msgid "Disguise Self: Femme Human"
-msgstr ""
+msgstr "자기 위장: 인간 여성"
 
 #. key = Shared_Shout_DisguiseSelf_Human_Male_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:365
 msgctxt "h99a3401fgedc8g4b2fg8ac5gd276be5e05fb"
 msgid "Disguise yourself as a human with a masculine body type."
-msgstr ""
+msgstr "남성의 몸을 지닌 인간으로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Human_Male_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:260
 msgctxt "h992948b2gd3fag4254gbe83g29da2ce31da7"
 msgid "Disguise Self: Masc Human"
-msgstr ""
+msgstr "자기 위장: 인간 남성"
 
 #. key = Shared_Shout_DisguiseSelf_MaskOfManyFaces_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:344
 msgctxt "h4c3275c4g4dcag4bbdg8ff6gb1814eb825a9"
 msgid "Invocation: Disguise Self"
-msgstr ""
+msgstr "기원: 자기 위장"
 
 #. key = Shared_Shout_DisguiseSelf_Tiefling_Female_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:344
 msgctxt "he81de02bg0179g49d7g8c34g39a44fcbefa4"
 msgid "Disguise yourself as a tiefling with a feminine body type."
-msgstr ""
+msgstr "여성의 몸을 지닌 티플링으로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Tiefling_Female_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:239
 msgctxt "h20a29ea3g41fag4d83gb788geffc72e8e186"
 msgid "Disguise Self: Femme Tiefling"
-msgstr ""
+msgstr "자기 위장: 티플링 여성"
 
 #. key = Shared_Shout_DisguiseSelf_Tiefling_Male_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:337
 msgctxt "hbe072411gcda7g45e4g8d35g39d276270cb0"
 msgid "Disguise yourself as a tiefling with a masculine body type."
-msgstr ""
+msgstr "남성의 몸을 지닌 티플링으로 변장합니다."
 
 #. key = Shared_Shout_DisguiseSelf_Tiefling_Male_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:232
 msgctxt "h48782d39g2876g455bg8c41g89ff7982cbd0"
 msgid "Disguise Self: Masc Tiefling"
-msgstr ""
+msgstr "자기 위장: 티플링 남성"
 
 #. key = Shared_Shout_Dismiss_Self_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1044
 msgctxt "h5e11df5fge256g4252g8090gbfd9a070bfd7"
 msgid "Allow yourself to be dismissed from your summoner's service."
-msgstr ""
+msgstr "소환사와의 연결을 해제하고 사라집니다."
 
 #. key = Shared_Shout_Dismiss_Self_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1275
 msgctxt "h65d8b524ge98cg4002ga406gc2b82de78470"
 msgid "Dismiss Summon"
-msgstr ""
+msgstr "소환 해제"
 
 #. key = Shared_Shout_Distract_Cat_Summon_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:316
 msgctxt "hf8cacd07g776fg4b61gb694gfbcbd49448a4"
 msgid "Attract the attention of nearby creatures to draw them closer to you."
-msgstr ""
+msgstr "주변 크리쳐들의 관심을 끌어 가까이 오게 만듭니다."
 
 #. key = Shared_Shout_Distract_Cat_Summon_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:694
 msgctxt "h24e4566cg132ag4dbegb355g6140a0dba1ea"
 msgid "Meow"
-msgstr ""
+msgstr "야옹"
 
 #. key = Shared_Shout_DivineFavor_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1051
@@ -30857,13 +30861,14 @@ msgctxt "h62bc4600gf78fg4406g8ed5g3f5f6944b1cb"
 msgid ""
 "Your prayer empowers you with divine radiance. Your weapon attacks deal an "
 "additional [1]."
-msgstr ""
+msgstr "기도가 당신에게 신성한 광휘의 힘을 부여합니다. 무기 공격이 [1] 를 추가로 가합니다."
 
 #. key = Shared_Shout_DivineFavor_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1282
+#, fuzzy
 msgctxt "h0353392dgf561g4fc2g8849g8dcebde429a0"
 msgid "Divine Favour"
-msgstr ""
+msgstr "신성한 호의"
 
 #. key = Shared_Shout_DivineSense_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1058
@@ -30900,13 +30905,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:834
 msgctxt "hf316da37g19bdg4e20gb23cgb3e985d13765"
 msgid "Use a bonus action to end your Rage."
-msgstr ""
+msgstr "추가 행동을 사용해 격노 상태를 종료합니다."
 
 #. key = Shared_Shout_EndRage_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1058
 msgctxt "h29b9a0cfgfd5fg4b12g8841g46699268f191"
 msgid "End Rage"
-msgstr ""
+msgstr "격노 해제"
 
 #. key = Shared_Shout_EndlessRage_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:897
@@ -30915,12 +30920,14 @@ msgid ""
 "At the cost of your health, you intensify your attacks and prevent your "
 "<LSTag Type=\"Status\" Tooltip=\"RAGE\">Rage</LSTag> from ending early."
 msgstr ""
+"체력을 대가로, 공격을 강화하고 <LSTag Type=\"Status\" Tooltip=\"RAGE\">격노</LSTag> 상태가 일찍 "
+"종료되는 것을 방지합니다."
 
 #. key = Shared_Shout_EndlessRage_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1121
 msgctxt "h559e749fgd0f9g4e15g907ag1dc71948cab0"
 msgid "Endless Rage"
-msgstr ""
+msgstr "끝없는 격노"
 
 #. key = Shared_Shout_EndlessRage_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:141
@@ -30928,19 +30935,20 @@ msgctxt "he7f68ddbg15b6g4287ga417g34bed12890eb"
 msgid ""
 "While Raging, you deal an additional [1] with weapon attacks, but receive [2]"
 " each turn."
-msgstr ""
+msgstr "격노 상태인 동안, 무기 공격이 [1] 를 추가로 가하지만, 매 턴 [2] 를 입습니다."
 
 #. key = Shared_Shout_Enlarge_Duergar_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:477
 msgctxt "h956466a0g5edbg4f75g9effg0b3204e23e27"
 msgid "Grow in size to become stronger."
-msgstr ""
+msgstr "크기와 근력이 증가합니다."
 
 #. key = Shared_Shout_Enlarge_Duergar_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:708
+#, fuzzy
 msgctxt "hd73f38e6g03d1g47aega99eg97c05961a687"
 msgid "Enlarge"
-msgstr ""
+msgstr "거대화"
 
 #. key = Shared_Shout_Enlarge_Duergar_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:204
@@ -34735,7 +34743,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2542
 msgctxt "hbc61e946g04eeg4e7dg84b3g52e3afb1cc91"
 msgid "Heat Metal"
-msgstr ""
+msgstr "금속 가열"
 
 #. key = Shared_Status_BOOST_HEAT_METAL_REAPPLY_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1702
@@ -40930,19 +40938,19 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1961
 msgctxt "h8e53406dg221dg4fc3g8306g42ea9ecfdc69"
 msgid "Haste"
-msgstr ""
+msgstr "가속"
 
 #. key = Shared_Target_HealingWord_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:540
 msgctxt "h967767a3g9ccag42e6g8c1aga22ae18ad1f6"
 msgid "Heal a creature you can see."
-msgstr ""
+msgstr "시야 내의 크리쳐를 치유합니다."
 
 #. key = Shared_Target_HealingWord_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:554
 msgctxt "hb049d4afgac1cg4172gab68g5266b799b6f6"
 msgid "Healing Word"
-msgstr ""
+msgstr "치유의 말씀"
 
 #. key = Shared_Target_HeartStopper_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1506
@@ -40951,6 +40959,8 @@ msgid ""
 "Smash an enemy's chest in and possibly inflict <LSTag Type=\"Status\" "
 "Tooltip=\"CHEST_TRAUMA\">Chest Trauma</LSTag>."
 msgstr ""
+"적의 가슴을 박살 내 <LSTag Type=\"Status\" Tooltip=\"CHEST_TRAUMA\">흉부 외상</LSTag>을 "
+"입힙니다."
 
 #. key = Shared_Target_HeartStopper_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1562
@@ -40972,7 +40982,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:561
 msgctxt "hc6ad1333gd336g49f9g8f20g328ff5aff5ce"
 msgid "Heat Metal"
-msgstr ""
+msgstr "금속 가열"
 
 #. key = Shared_Target_HeatMetal_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:92
