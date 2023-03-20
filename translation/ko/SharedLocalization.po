@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-19 08:52+0000\n"
-"Last-Translator: 윤준혁 <nick0406@naver.com>\n"
+"PO-Revision-Date: 2023-03-20 09:52+0000\n"
+"Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
 "Language: ko\n"
@@ -30959,6 +30959,9 @@ msgid ""
 ">Saving Throws</LSTag> using Strength, and weapon attacks deal an additional "
 "1d4 damage."
 msgstr ""
+"근력을 이용한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>과 <LSTag Tooltip="
+"\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻고, "
+"무기 공격이 1d4 의 추가 피해를 줍니다."
 
 #. key = Shared_Shout_ExpeditiousRetreat_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:106
@@ -30967,30 +30970,32 @@ msgid ""
 "Gain <LSTag Type=\"Spell\" Tooltip=\"Shout_Dash\">Dash</LSTag> as a bonus "
 "action, allowing you to move at an incredible pace."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Shout_Dash\">질주</LSTag>를 추가 행동으로 얻어, 엄청난 속도로 "
+"이동할 수 있습니다."
 
 #. key = Shared_Shout_ExpeditiousRetreat_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:358
 msgctxt "hb7f46a14g8e35g40ebgb747g327c9f926e14"
 msgid "Expeditious Retreat"
-msgstr ""
+msgstr "신속한 퇴각"
 
 #. key = Shared_Shout_FalseLife_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:113
 msgctxt "h6a469040g927fg4012ga694ge8f3dc43577d"
 msgid "Bolster yourself with a necromantic facsimile of life to gain [1]."
-msgstr ""
+msgstr "자신을 강령술로 복제된 생명력으로 강화해 [1] 을 얻습니다."
 
 #. key = Shared_Shout_FalseLife_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:365
 msgctxt "h41067cc2g069fg4399g9eabg237a7799da34"
 msgid "False Life"
-msgstr ""
+msgstr "거짓된 삶"
 
 #. key = Shared_Shout_FalseLife_FiendishVigor_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:372
 msgctxt "h2b5512c3g5315g4b75gb5c4gcaf1fed13056"
 msgid "Invocation: False Life"
-msgstr ""
+msgstr "기원: 거짓된 삶"
 
 #. key = Shared_Shout_FeatherFall_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:204
@@ -30999,25 +31004,26 @@ msgid ""
 "Slow the rate of descent of allied creatures. They become <LSTag Tooltip="
 "\"Immune\">Immune</LSTag> to Falling damage."
 msgstr ""
+"아군 크리쳐가 천천히 낙하하게 만듭니다. 대상은 낙하 피해에 <LSTag Tooltip=\"Immune\">면</LSTag>이 됩니다."
 
 #. key = Shared_Shout_FeatherFall_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:617
 msgctxt "ha954c1d2g1153g4859g8aa5gfaa6970764a6"
 msgid "Feather Fall"
-msgstr ""
+msgstr "깃털 낙하"
 
 #. key = Shared_Shout_FerociousAppetite_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:841
 msgctxt "h79785427gff5ag40b9g9ecfg562e364b1d55"
 msgid ""
 "You are stronger than you think. Muster up your stamina to heal yourself."
-msgstr ""
+msgstr "당신은 생각보다 강합니다. 지구력을 모아 자신을 회복합니다."
 
 #. key = Shared_Shout_FerociousAppetite_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1065
 msgctxt "h01d138feg40abg44b9gad59ga6b51de42e07"
 msgid "Unrelenting Ferocity"
-msgstr ""
+msgstr "가차없는 흉포성"
 
 #. key = Shared_Shout_FlameBlade_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:120
@@ -31025,7 +31031,7 @@ msgctxt "ha4c12cf9g472fg47e4g8bfag79c9ab4e04e1"
 msgid ""
 "Conjure a flaming scimitar in your hand that deals [1] and sheds bright "
 "light in a [2] radius and dim light in a [3] radius. "
-msgstr ""
+msgstr "[1] 를 가하고 [2] 반경에 밝은 빛을, [3] 반경에 옅은 빛을 비추는 불타는 시미터를 생성합니다. "
 
 #. key = Shared_Shout_FlameBlade_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:379
@@ -31039,13 +31045,13 @@ msgctxt "h40e58602g2505g46a7g8b64geace684c4312"
 msgid ""
 "The blade can be unequipped and equipped again, but has to stay on the "
 "spellcaster's person."
-msgstr ""
+msgstr "칼날을 장비하거나 해제할 수 있지만, 언제나 주문을 시전한 사람이 소유해야 합니다."
 
 #. key = Shared_Shout_FlameBlade_MephistophelesTiefling_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1219
 msgctxt "hdbfa5347g9f7fg4c66gadfeg6ca794ea9ce7"
 msgid "Legacy of Cania: Flame Blade"
-msgstr ""
+msgstr "카니아의 유산: 화염 칼날"
 
 #. key = Shared_Shout_FullSwing_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:701
@@ -31054,12 +31060,14 @@ msgid ""
 "Spend [1] of your <LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> to "
 "deal an additional [2] with your Melee Weapon for the rest of the turn."
 msgstr ""
+"<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>를 [1] 만큼 소모해 남은 턴 동안 근접 무기에 [2]"
+" 를 추가합니다."
 
 #. key = Shared_Shout_FullSwing_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:897
 msgctxt "hdaa552fdgfa13g49bdgbc02g2b63b4757bac"
 msgid "Prepare"
-msgstr ""
+msgstr "준비"
 
 #. key = Shared_Shout_Fury_Gnoll_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:827
@@ -31067,37 +31075,37 @@ msgctxt "h23d48fe6g441cg408cga58ag369312c8fe31"
 msgid ""
 "Let the rage build within you. Once it overflows, you'll be able to attack "
 "multiple times per turn."
-msgstr ""
+msgstr "내면의 격노를 일깨웁니다. 분노가 넘쳐흐르면, 한 턴에 여러 번 공격할 수 있습니다."
 
 #. key = Shared_Shout_Fury_Gnoll_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1051
 msgctxt "h362d724dg77cfg42e2gb86cg7dd66a028484"
 msgid "Seething Fury"
-msgstr ""
+msgstr "끓어오르는 분노"
 
 #. key = Shared_Shout_GaseousForm_Dismiss_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1030
 msgctxt "h69f4ad3cga59dg4a82g8bb6g0d2c8e6fccf6"
 msgid "Dismiss your gaseous shape and turn back into your original form."
-msgstr ""
+msgstr "가스 형태를 해제하고 원래의 형상으로 되돌아갑니다."
 
 #. key = Shared_Shout_GaseousForm_Dismiss_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1254
 msgctxt "h2bada8cagd37dg48bdgbe76g6e8b86ffddca"
 msgid "Dismiss Gaseous Form"
-msgstr ""
+msgstr "가스 형상 해제"
 
 #. key = Shared_Shout_GoadingRoar_Bear_Summon_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:253
 msgctxt "h2d645859g28fbg43ecgb562g68a88fc9ed5b"
 msgid "Roar at nearby enemies to goad them into attacking you."
-msgstr ""
+msgstr "근처의 적들에게 고함을 질러 당신을 공격하게 만듭니다."
 
 #. key = Shared_Shout_GoadingRoar_Bear_Summon_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:715
 msgctxt "hd0467b10g17c5g47b5g959bg3a765850133c"
 msgid "Goading Roar"
-msgstr ""
+msgstr "우렁찬 표효"
 
 #. key = Shared_Shout_GoblinWarcry_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:491
@@ -31106,24 +31114,26 @@ msgid ""
 "Increase your <LSTag Tooltip=\"Strength\">Strength</LSTag> by 3, at the cost "
 "of decreasing your <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> by 1."
 msgstr ""
+"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>를 1 만큼 낮추는 대신, <LSTag Tooltip="
+"\"Strength\">근력</LSTag>이 3 만큼 증가합니다."
 
 #. key = Shared_Shout_GoblinWarcry_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:722
 msgctxt "h9a58b342g0424g4adcgb2bagd0b15f049090"
 msgid "Reckless Warcry"
-msgstr ""
+msgstr "무모한 전투의 함성"
 
 #. key = Shared_Shout_HealingRadiance_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1065
 msgctxt "h7792b966gf7b8g4a36g82a7g8357ae633290"
 msgid "Call upon your Oath to let nature heal all nearby allies."
-msgstr ""
+msgstr "맹세를 불러내 자연이 주변 아군을 치유하게 합니다."
 
 #. key = Shared_Shout_HealingRadiance_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1296
 msgctxt "hbab5946eg8740g4466g98a2g004ef00cfba3"
 msgid "Healing Radiance"
-msgstr ""
+msgstr "치유의 광휘"
 
 #. key = Shared_Shout_HealingRadiance_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:239
@@ -31131,19 +31141,19 @@ msgctxt "h73bec525g7ec9g452bg9e49g7d322d3cd106"
 msgid ""
 "Your allies immediately regain [1], and will regain another [1] at the start "
 "of your next turn."
-msgstr ""
+msgstr "아군들은 즉시 [1] 을 회복하고, 당신의 다음 턴이 시작될 때 다시 [1] 을 회복합니다."
 
 #. key = Shared_Shout_HealingRadiance_Heal_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1072
 msgctxt "haef27276g4dc7g4b58gaab7g4751b6ca8150"
 msgid "Call upon your Oath to let nature heal all nearby allies."
-msgstr ""
+msgstr "맹세를 불러내 자연이 주변 아군을 치유하게 합니다."
 
 #. key = Shared_Shout_HealingRadiance_Heal_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1303
 msgctxt "hf4676020g2946g43c6g9e46g49d0019e055d"
 msgid "Healing Radiance"
-msgstr ""
+msgstr "치유의 광휘"
 
 #. key = Shared_Shout_HealingRadiance_Heal_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:246
@@ -31151,19 +31161,19 @@ msgctxt "h5747e9e5ged8cg4187gb23cga0ddf0277017"
 msgid ""
 "Your allies immediately regain [1], and will regain another [1] at the start "
 "of your next turn."
-msgstr ""
+msgstr "아군들은 즉시 [1] 을 회복하고, 당신의 다음 턴이 시작될 때 다시 [1] 을 회복합니다."
 
 #. key = Shared_Shout_HealingWord_Mass_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1016
 msgctxt "h25e917a1g4d42g4837gab6fg424fca019500"
 msgid "Call out words of restoration to heal up to 6 creatures."
-msgstr ""
+msgstr "복원의 주문을 외쳐 최대 6 마리의 크리쳐를 치료합니다."
 
 #. key = Shared_Shout_HealingWord_Mass_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1240
 msgctxt "hd9ac7d48g618fg4f1fgb558g291b65671ea1"
 msgid "Mass Healing Word"
-msgstr ""
+msgstr "광역 치유의 단어"
 
 #. key = Shared_Shout_HellishRebuke_AsmodeusTiefling_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:855
@@ -31259,18 +31269,20 @@ msgid ""
 "Create a cloud of magical darkness and immediately attempt to <LSTag Type="
 "\"Spell\" Tooltip=\"Shout_Hide\">Hide</LSTag>. "
 msgstr ""
+"마법적 어둠의 구름을 생성하고 즉시 <LSTag Type=\"Spell\" Tooltip=\"Shout_Hide\">숨기</LSTag>를 "
+"시도합니다. "
 
 #. key = Shared_Shout_Inkblot_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:407
 msgctxt "h4a6bbad1g2b33g4007g9fbdgab45ea01bdb2"
 msgid "Inkblot"
-msgstr ""
+msgstr "잉크 얼룩"
 
 #. key = Shared_Shout_Invisibility_Imp_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:470
 msgctxt "h11c400b0ge585g4c68gb492g26b1fe49e5d1"
 msgid "Become Invisible."
-msgstr ""
+msgstr "투명해집니다."
 
 #. key = Shared_Shout_Invisibility_Imp_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:729
@@ -31284,13 +31296,13 @@ msgctxt "he0de2effgf009g4b8dgb45fg09c0263b41bb"
 msgid ""
 "Bolster nearby allies with a supernatural resolve. Their attacks deal an "
 "additional [1]."
-msgstr ""
+msgstr "근처의 아군을 초자연적인 결의로 강화합니다. 그들의 공격이 추가로 [1] 를 가합니다."
 
 #. key = Shared_Shout_Leadership_Hobgoblin_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:736
 msgctxt "ha5fe3331gf593g4a3bg8b72g0afb6acc741a"
 msgid "Leadership"
-msgstr ""
+msgstr "리더쉽"
 
 #. key = Shared_Shout_LuringSong_Harpy_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:498
@@ -31299,12 +31311,14 @@ msgid ""
 "Charm nearby creatures with a magical melody to <LSTag Type=\"Status\" "
 "Tooltip=\"LURING_SONG\">Lure</LSTag> them to you."
 msgstr ""
+"마법의 멜로디로 근처의 크리쳐들이 가까이 오도록 <LSTag Type=\"Status\" Tooltip=\"LURING_SONG\""
+">유혹</LSTag>합니다."
 
 #. key = Shared_Shout_LuringSong_Harpy_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:743
 msgctxt "hc81c3697g25b2g4f41g921fg40419a723363"
 msgid "Luring Song"
-msgstr ""
+msgstr "유혹의 노래"
 
 #. key = Shared_Shout_MageArmor_ArmorOfShadows_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:134
@@ -31313,12 +31327,13 @@ msgid ""
 "Protective shadows surround you. They increase your <LSTag Tooltip="
 "\"ArmourClass\">Armour Class</LSTag> by 3."
 msgstr ""
+"보호하는 그림자가 당신을 에워쌉니다. <LSTag Tooltip=\"ArmourClass\">방어도</LSTag> 3 만큼 증가합니다."
 
 #. key = Shared_Shout_MageArmor_ArmorOfShadows_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:414
 msgctxt "h9bbec5adg4d8cg4dc3g9f33g9ae3458794fb"
 msgid "Invocation: Armour of Shadows"
-msgstr ""
+msgstr "기원: 그림자 갑주"
 
 #. key = Shared_Shout_MirrorImage_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:141
@@ -31328,43 +31343,45 @@ msgid ""
 "duplicate increases your <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> "
 "by 3."
 msgstr ""
+"공격자의 주의를 돌리는 3개의 환영 분신을 생성합니다. 각 분신 마다 <LSTag Tooltip=\"ArmourClass\">방어도</"
+"LSTag>가 3 만큼 증가합니다."
 
 #. key = Shared_Shout_MirrorImage_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:421
 msgctxt "h72b46baeg6aebg441dg8353g88a660c5321c"
 msgid "Mirror Image"
-msgstr ""
+msgstr "거울상"
 
 #. key = Shared_Shout_MirrorImage_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:29
 msgctxt "heae67680g762fg492agbb87g7506fb6bf21d"
 msgid ""
 "Whenever you successfully evade an attack, one of the duplicates disappears."
-msgstr ""
+msgstr "공격을 회피할 때마다, 분신이 하나씩 사라집니다."
 
 #. key = Shared_Shout_NaturalRecovery_1_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:512
 msgctxt "h6292783eg5cdag4e8dg80d6g936362b3a0aa"
 msgid "Recover a Level [1] <LSTag Tooltip=\"SpellSlot\">spell slot</LSTag>."
-msgstr ""
+msgstr "[1] 레벨 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 회복합니다."
 
 #. key = Shared_Shout_NaturalRecovery_1_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:435
 msgctxt "hd090ddebg2366g4fe8g84bbgac8315160073"
 msgid "Natural Recovery: Level 1"
-msgstr ""
+msgstr "자연 회복: 1 레벨"
 
 #. key = Shared_Shout_NaturalRecovery_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:442
 msgctxt "h61313336g57afg4959ga864gae5765003147"
 msgid "Natural Recovery: Level 2"
-msgstr ""
+msgstr "자연 회복: 2 레벨"
 
 #. key = Shared_Shout_NaturalRecovery_3_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1268
 msgctxt "h0aa0e619gd2b3g44f0g8810g1e5315327edd"
 msgid "Natural Recovery: Level 3"
-msgstr ""
+msgstr "자연 회복: 3 레벨"
 
 #. key = Shared_Shout_NaturalRecovery_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:505
@@ -31372,13 +31389,13 @@ msgctxt "he86b7199g37bfg4552g9b46ge855d82b3593"
 msgid ""
 "You can replenish expended <LSTag Tooltip=\"SpellSlot\">spell slots</LSTag> "
 "while out of combat."
-msgstr ""
+msgstr "전투 중이 아닐 때, 소모된 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 보충할 수 있습니다."
 
 #. key = Shared_Shout_NaturalRecovery_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:428
 msgctxt "h17002d15gd024g41f7ga17bg49b42c867b42"
 msgid "Natural Recovery"
-msgstr ""
+msgstr "자연 회복"
 
 #. key = Shared_Shout_OneWithShadows_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1009
@@ -31387,12 +31404,13 @@ msgid ""
 "Vanish into the darkness and become <LSTag Type=\"Status\" Tooltip="
 "\"INVISIBLE\">Invisible</LSTag>."
 msgstr ""
+"어둠 속으로 사라져 <LSTag Type=\"Status\" Tooltip=\"INVISIBLE\">투명</LSTag>해 집니다."
 
 #. key = Shared_Shout_OneWithShadows_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1233
 msgctxt "h3d20ec6fg8315g4cd1g9e78gb8c677bcb351"
 msgid "One with Shadows"
-msgstr ""
+msgstr "그림자 속으로"
 
 #. key = Shared_Shout_PackHowl_Barbarian_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:911
@@ -31400,13 +31418,13 @@ msgctxt "hdc0ca278g7840g4ae7gb8fag9b792f46cc43"
 msgid ""
 "Stir your allies' fervour. Each ally within earshot can move an additional "
 "[1] during their next turn."
-msgstr ""
+msgstr "아군들의 열정을 북돋습니다. 사정거리 내의 아군은 다음 턴에 추가로 [1] 만큼 이동할 수 있습니다."
 
 #. key = Shared_Shout_PackHowl_Barbarian_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1142
 msgctxt "hcb2b874eg1a16g43e5g943dg7f3ff7a61129"
 msgid "Inciting Howl"
-msgstr ""
+msgstr "고무적인 포효"
 
 #. key = Shared_Shout_PackHowl_Wolf_Dire_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:582
@@ -31414,13 +31432,13 @@ msgctxt "h066f9046g920dg44c6ga2f4g95569edddd09"
 msgid ""
 "Gather your pack. Each ally within earshot can move an additional [1] during "
 "their next turn."
-msgstr ""
+msgstr "무리를 모읍니다. 사정거리 내의 아군은 그들의 다음 턴에 추가로 [1] 만큼 이동할 수 있습니다."
 
 #. key = Shared_Shout_PackHowl_Wolf_Dire_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:750
 msgctxt "h5cc82965gdad6g4f67g9461gbd13f2badd6d"
 msgid "Inciting Howl"
-msgstr ""
+msgstr "고무적인 포효"
 
 #. key = Shared_Shout_PassWithoutTrace_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:211
@@ -31430,36 +31448,39 @@ msgid ""
 "companions a +10 bonus to Stealth <LSTag Tooltip=\"AbilityCheck\""
 ">Checks</LSTag>."
 msgstr ""
+"그림자와 적막의 장막을 불러내 자신과 근처의 동료들의 은신 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
+"+10 보너스를 부여합니다."
 
 #. key = Shared_Shout_PassWithoutTrace_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:624
+#, fuzzy
 msgctxt "h2b6ab85cg8d21g4c23g895eg6b8a61fdabab"
 msgid "Pass Without Trace"
-msgstr ""
+msgstr "흔적도 없이"
 
 #. key = Shared_Shout_PrayerOfHealing_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:218
 msgctxt "h382f3dc6ga6a4g4afdgab57ga58653f736f9"
 msgid "Heal all allies you can see."
-msgstr ""
+msgstr "시야 내의 모든 아군을 치유합니다."
 
 #. key = Shared_Shout_PrayerOfHealing_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:631
 msgctxt "hf94be341gafa8g455dgaa74g66168a9721a4"
 msgid "Prayer of Healing"
-msgstr ""
+msgstr "치유의 기도"
 
 #. key = Shared_Shout_PreserveLife_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:225
 msgctxt "h4104b247g7085g45dbgba71g8734585d95cf"
 msgid "Evoke a healing energy that restores your allies"
-msgstr ""
+msgstr "아군을 복원하는 치유의 에너지를 기원합니다"
 
 #. key = Shared_Shout_PreserveLife_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:638
 msgctxt "h58347e3dg4eb2g4ed1g9537g4f361e1644db"
 msgid "Preserve Life"
-msgstr ""
+msgstr "생명 보존"
 
 #. key = Shared_Shout_ProduceFlame_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:148
@@ -31467,25 +31488,25 @@ msgctxt "hbc3e6f17g63f2g461eg9454g5115c0d2ece3"
 msgid ""
 "A flickering flame appears in your hand. It sheds bright light in a [1] "
 "radius and deals [2] when thrown."
-msgstr ""
+msgstr "손에 불안정한 불길이 나타납니다. [1] 반경을 밝게 비추며, 던지면 [2] 를 가합니다."
 
 #. key = Shared_Shout_ProduceFlame_Dismiss_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:155
 msgctxt "h3cded52eg9330g4c80g8f18g5f0074153a52"
 msgid "Douse the conjured flame in your hand."
-msgstr ""
+msgstr "손에 든 불길을 끕니다."
 
 #. key = Shared_Shout_ProduceFlame_Dismiss_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:456
 msgctxt "ha026fd7bg4999g44f2g9772gbfcfaf95e43e"
 msgid "Produce Flame: Dismiss"
-msgstr ""
+msgstr "불꽃 생성: 해제"
 
 #. key = Shared_Shout_ProduceFlame_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:449
 msgctxt "hfd755f83gdef4g4c34g9b6fg44ab3fd26c96"
 msgid "Produce Flame"
-msgstr ""
+msgstr "불꽃 생성"
 
 #. key = Shared_Shout_ProduceFlame_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:36
@@ -31495,6 +31516,8 @@ msgid ""
 "Tooltip=\"Action\">action</LSTag>. Extinguishing or throwing it on "
 "subsequent turns costs an action."
 msgstr ""
+"생성된 즉시 불꽃을 던지면 <LSTag Tooltip=\"Action\">행동</LSTag>이 사용되지 않습니다. 생성된 턴 이후 끄거나 "
+"던지려면 행동이 필요합니다."
 
 #. key = Shared_Shout_RadianceOfTheDawn_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:232
@@ -31502,19 +31525,19 @@ msgctxt "h2179aa2ag353bg47bfga4f3gb07ae4d9e190"
 msgid ""
 "Harness the sun's divine power to dispel any magical darkness and harm "
 "nearby enemies."
-msgstr ""
+msgstr "태양의 신성한 에너지를 이용해 모든 마법적 어둠을 해제하고 근처의 적에게 해를 입힙니다."
 
 #. key = Shared_Shout_RadianceOfTheDawn_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:645
 msgctxt "h80e416d2g85efg490eg9ce6g6434bd0d5da9"
 msgid "Radiance of the Dawn"
-msgstr ""
+msgstr "여명의 광휘"
 
 #. key = Shared_Shout_RadianceOfTheDawn_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:85
 msgctxt "hfd245a26g1d44g486fga0c7g9ba1f2f2b891"
 msgid "Doesn't affect creatures that have total cover from you."
-msgstr ""
+msgstr "완전히 가려진 크리쳐는 영향을 받지 않습니다."
 
 #. key = Shared_Shout_Rage_Boar_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1037
@@ -31522,7 +31545,7 @@ msgctxt "h8b1beab6gb827g44b5g897dge9e13ed4a680"
 msgid ""
 "Go into a frenzy, increasing your size and becoming stronger through raw "
 "anger."
-msgstr ""
+msgstr "광란에 빠져, 크기가 커지고 원초적인 분노를 통해 강해집니다."
 
 #. key = Shared_Shout_Rage_Boar_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:232
@@ -31535,18 +31558,23 @@ msgid ""
 "Throws</LSTag>.<br><br>You can use <LSTag Type=\"Spell\" Tooltip="
 "\"Target_FrenziedStrike_Boar\">Frenzied Strike</LSTag>."
 msgstr ""
+"격노상태 동안, 근접 공격이 [1] 를 추가로 입힙니다. <br><br>물리 피해에 <LSTag Tooltip=\"Resistant\""
+">저항</LSTag>을 얻고, 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</"
+"LSTag>을 얻습니다.<br><br><LSTag Type=\"Spell\" Tooltip="
+"\"Target_FrenziedStrike_Boar\">광란의 일격</LSTag>을 사용할 수 있습니다."
 
 #. key = Shared_Shout_Rage_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:848
 msgctxt "h0758d09cgc5abg4ea7g8e0bg3ecc90844352"
 msgid "Release your unbridled fury to become stronger and more robust."
-msgstr ""
+msgstr "억제되지 않은 분노를 해방해 더욱 강해지고 튼튼해집니다."
 
 #. key = Shared_Shout_Rage_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1072
 msgctxt "hd0473bcfg9145g41d2gad13g8bc78ce6d718"
 msgid "Rage"
-msgstr ""
+msgstr "격노"
 
 #. key = Shared_Shout_Rage_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:134
@@ -31558,6 +31586,9 @@ msgid ""
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag>. "
 msgstr ""
+"격노 상태 동안, 근접 및 즉석 무기를 사용하거나 물체를 던지면 [1] 를 추가로 입힙니다.<br><br>또한 물리 피해에 저항을 얻고, "
+"근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag Tooltip=\"SavingThrow\""
+">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다. "
 
 #. key = Shared_Shout_Rage_Frenzy_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:855
@@ -31566,12 +31597,14 @@ msgid ""
 "Your <LSTag Type=\"Status\" Tooltip=\"RAGE\">Rage</LSTag> turns into a "
 "frenzy as you release your unquenchable bloodlust."
 msgstr ""
+"채울 수 없는 피의 욕망으로 인해 <LSTag Type=\"Status\" Tooltip=\"RAGE\">격노</LSTag>가 광란으로 "
+"바뀝니다."
 
 #. key = Shared_Shout_Rage_Frenzy_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1079
 msgctxt "hb3a638fagbfdcg466dg93dcg3003db2a946a"
 msgid "Frenzy"
-msgstr ""
+msgstr "광란"
 
 #. key = Shared_Shout_Rage_Frenzy_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:148
@@ -31583,6 +31616,10 @@ msgid ""
 "Type=\"Spell\" Tooltip=\"Throw_ImprovisedWeaponBerserker\">Improvised Weapon "
 "Attack</LSTag> as a bonus action."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_FrenziedStrike\">광란의 일격</LSTag>과 "
+"<LSTag Type=\"Spell\" Tooltip=\"Throw_FrenziedThrow\">분노의 던지기</LSTag> 능력을 "
+"얻었습니다. 또한 <LSTag Type=\"Spell\" Tooltip=\"Throw_ImprovisedWeaponBerserker\""
+">즉석 무기 공격</LSTag>을 추가 행동으로 수행할 수 있습니다."
 
 #. key = Shared_Shout_Rage_Totem_Bear_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:862
@@ -31591,12 +31628,13 @@ msgid ""
 "Enter a <LSTag Type=\"Status\" Tooltip=\"RAGE\">Rage</LSTag> that makes you "
 "tough enough to stand up to any punishment."
 msgstr ""
+"어떤 형벌에도 견딜 수 있는 <LSTag Type=\"Status\" Tooltip=\"RAGE\">격노</LSTag> 상태에 돌입합니다."
 
 #. key = Shared_Shout_Rage_Totem_Bear_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1086
 msgctxt "h7056f3edg3197g40b0g9a17g6f3dd5109a13"
 msgid "Rage: Bear Heart"
-msgstr ""
+msgstr "격노: 곰의 심장"
 
 #. key = Shared_Shout_Rage_Totem_Bear_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:169
@@ -31606,6 +31644,8 @@ msgid ""
 ">Unrelenting Ferocity</LSTag>, and have Resistance to all damage except "
 "psychic damage."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Shout_FerociousAppetite\">가차없는 흉포함</LSTag>을 "
+"시전할 수 있고, 정신 피해 이외의 모든 피해에 저항을 얻습니다."
 
 #. key = Shared_Shout_Rage_Totem_Eagle_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:869
@@ -31614,12 +31654,14 @@ msgid ""
 "Enter a <LSTag Type=\"Status\" Tooltip=\"RAGE\">Rage</LSTag> that makes you "
 "near untouchable. "
 msgstr ""
+"거의 범접 불가로 만들어 주는 <LSTag Type=\"Status\" Tooltip=\"RAGE\">격노</LSTag> 상태에 "
+"돌입합니다. "
 
 #. key = Shared_Shout_Rage_Totem_Eagle_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1093
 msgctxt "hfdbcceb4g9eb7g4a79g9bf3g0b2fda24b93e"
 msgid "Rage: Eagle Heart"
-msgstr ""
+msgstr "격노: 독수리의 심장"
 
 #. key = Shared_Shout_Rage_Totem_Eagle_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:176
@@ -31631,6 +31673,10 @@ msgid ""
 "Attacks</LSTag> against you, and you can use <LSTag Type=\"Spell\" Tooltip="
 "\"Shout_Dash\">Dash</LSTag> as a bonus action."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Projectile_DivingStrike\">낙하 일격</LSTag>을 사용할 "
+"수 있습니다.<br><br>또한 적들은 당신을 향한 <LSTag Tooltip=\"OpportunityAttack\">기회 공격</"
+"LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가지며, <LSTag Type=\"Spell"
+"\" Tooltip=\"Shout_Dash\">질주</LSTag>를 추가 행동으로 이용할 수 있습니다."
 
 #. key = Shared_Shout_Rage_Totem_Elk_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:876
@@ -31639,12 +31685,13 @@ msgid ""
 "Enter a <LSTag Type=\"Status\" Tooltip=\"RAGE\">Rage</LSTag> that grants you "
 "extraordinary swiftness."
 msgstr ""
+"엄청난 신속성을 부여해주는 <LSTag Type=\"Status\" Tooltip=\"RAGE\">격노</LSTag> 상태에 돌입합니다."
 
 #. key = Shared_Shout_Rage_Totem_Elk_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1100
 msgctxt "h374b9a42g0806g40edg8c5dg672f002728c0"
 msgid "Rage: Elk Heart"
-msgstr ""
+msgstr "격노: 엘크의 심장"
 
 #. key = Shared_Shout_Rage_Totem_Elk_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:183
@@ -31654,6 +31701,8 @@ msgid ""
 "Stampede</LSTag>, and your <LSTag Tooltip=\"MovementSpeed\">Movement Speed</"
 "LSTag> increases by [1]. "
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Rush_Primal_Stampede\">원시 쇄도</LSTag>를 사용할 수 "
+"있고, <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 [1] 만큼 증가합니다. "
 
 #. key = Shared_Shout_Rage_Totem_Tiger_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:883
@@ -31662,12 +31711,13 @@ msgid ""
 "Enter a <LSTag Type=\"Status\" Tooltip=\"RAGE\">Rage</LSTag> that empowers "
 "your leaps."
 msgstr ""
+"도약력을 강화해주는 <LSTag Type=\"Status\" Tooltip=\"RAGE\">격노</LSTag> 상태에 돌입합니다."
 
 #. key = Shared_Shout_Rage_Totem_Tiger_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1107
 msgctxt "h3c7be02eg8a51g4495gbff4g1acb39894bbc"
 msgid "Rage: Tiger Heart"
-msgstr ""
+msgstr "격노: 호랑이의 심장"
 
 #. key = Shared_Shout_Rage_Totem_Tiger_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:190
@@ -31676,6 +31726,8 @@ msgid ""
 "You can use <LSTag Type=\"Spell\" Tooltip=\"Zone_TigersBloodlust\">Tiger's "
 "Bloodlust</LSTag>, and your jump distance increases by [1]."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Zone_TigersBloodlust\">호랑이의 충동</LSTag>을 사용할 "
+"수 있으며, 도약 거리가 [1] 만큼 증가합니다."
 
 #. key = Shared_Shout_Rage_Totem_Wolf_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:890
@@ -31684,12 +31736,13 @@ msgid ""
 "Enter a <LSTag Type=\"Status\" Tooltip=\"RAGE\">Rage</LSTag> so inciting it "
 "spurs on your allies."
 msgstr ""
+"주변의 아군을 고무시키는 <LSTag Type=\"Status\" Tooltip=\"RAGE\">격노</LSTag> 상태에 돌입합니다."
 
 #. key = Shared_Shout_Rage_Totem_Wolf_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1114
 msgctxt "h1ba96df1gc4bag48e5gb23bgb11b92cdd48a"
 msgid "Rage: Wolf Heart"
-msgstr ""
+msgstr "격노: 늑대의 심장"
 
 #. key = Shared_Shout_Rage_Totem_Wolf_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:197
@@ -31700,6 +31753,9 @@ msgid ""
 ">Advantage</LSTag> on melee <LSTag Tooltip=\"AttackRoll\">Attack Rolls</"
 "LSTag> against enemies within [1] of you."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Shout_PackHowl_Barbarian\">고무시키는 울부짖음</"
+"LSTag>을 사용할 수 있으며, 아군이 당신의 [1] 내의 적에게 가하는 근접 <LSTag Tooltip=\"AttackRoll\""
+">명중 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Shout_Reckless_Minotaur_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:484
@@ -31709,24 +31765,26 @@ msgid ""
 "\"AttackRoll\">Attack Rolls</LSTag>. Attackers also gain Advantage on Attack "
 "Rolls against you."
 msgstr ""
+"<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 가집니다. 당신을 공격하는 대상 또한 명중 굴림에 이점을 갖습니다."
 
 #. key = Shared_Shout_Reckless_Minotaur_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:757
 msgctxt "hd2057539gbc0eg47cbgb24fg3a18f6cb95a9"
 msgid "Reckless Roar"
-msgstr ""
+msgstr "무모한 포효"
 
 #. key = Shared_Shout_Reduce_Duergar_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:687
 msgctxt "h8afc1ad3gcbfbg460eg9c44g19897b1030c2"
 msgid "Shrink in size to become harder to hit but slightly weaker."
-msgstr ""
+msgstr "크기를 줄여 공격에 적중당하기 어려워지지만, 살짝 약해집니다."
 
 #. key = Shared_Shout_Reduce_Duergar_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:876
 msgctxt "h332598b3g05f7g4bf9gaa5eg4d01a43d04be"
 msgid "Reduce"
-msgstr ""
+msgstr "축소"
 
 #. key = Shared_Shout_Reduce_Duergar_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:92
@@ -31738,6 +31796,10 @@ msgid ""
 "\"SavingThrow\">Saving Throws</LSTag> using Strength, and your weapons deal "
 "1d4 less damage (minimum of 1 damage)."
 msgstr ""
+"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 5 만큼 증가하지만, <LSTag Tooltip="
+"\"AbilityCheck\">능력치 판정</LSTag>과 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
+"LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가지며, 무기 공격 피해량이 1d4 만큼 "
+"피해를 덜 입힙니다(최소 1의 피해)."
 
 #. key = Shared_Shout_ReflectiveShell_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:281
@@ -31745,13 +31807,13 @@ msgctxt "h1fe02456g5ddfg4030ga1e0gc2ed7951d0b3"
 msgid ""
 "A protective shell envelops you. It reflects any projectiles targeted at you "
 "back to their point of origin."
-msgstr ""
+msgstr "보호하는 껍질이 자신을 감쌉니다. 자신에게 향하는 모든 투사체를 발사된 지점으로 반사합니다."
 
 #. key = Shared_Shout_ReflectiveShell_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:463
 msgctxt "h351ee99fgfc77g4237gabacg6fad286784c4"
 msgid "Reflective Shell"
-msgstr ""
+msgstr "반사하는 껍질"
 
 #. key = Shared_Shout_RegainHP_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:162
@@ -31814,6 +31876,9 @@ msgid ""
 "and uses your <LSTag Tooltip=\"SpellcastingAbilityModifier\">Spellcasting "
 "Ability</LSTag> for <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag>."
 msgstr ""
+"자신의 지팡이나 곤봉을 자연의 힘으로 감쌉니다. 대상은 마법적으로 변해, [1] 를 입히고, <LSTag Tooltip="
+"\"SpellcastingAbilityModifier\">주문시전 능력치</LSTag>를 <LSTag Tooltip=\"AttackRoll"
+"\">명중 굴림</LSTag>으로 이용합니다."
 
 #. key = Shared_Shout_Shillelagh_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:484
@@ -31828,18 +31893,20 @@ msgid ""
 "Use your craft to soothe. You and your allies are revitalised as though you "
 "would have taken a <LSTag Tooltip=\"ShortRest\">Short Rest</LSTag>."
 msgstr ""
+"기교를 부려 마음을 달랩니다. 자신과 아군은 마치 <LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag>을 취한 듯 "
+"활력을 되찾습니다."
 
 #. key = Shared_Shout_SongOfRest_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1149
 msgctxt "h6664033bge8b7g48c8g8fc6g18986baa0bae"
 msgid "Song of Rest"
-msgstr ""
+msgstr "휴식의 노래"
 
 #. key = Shared_Shout_SpeakWithAnimals_BeastSpeech_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:498
 msgctxt "h797e3d2fgac2fg4a17gab59g7dea2e9f9cb8"
 msgid "Invocation: Speak with Animals"
-msgstr ""
+msgstr "기원: 동물 언어"
 
 #. key = Shared_Shout_SpeakWithAnimals_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:176
@@ -31861,18 +31928,20 @@ msgid ""
 "take [1] or [2] per turn, and their <LSTag Tooltip=\"MovementSpeed\""
 ">Movement Speed</LSTag> is halved."
 msgstr ""
+"영혼들을 불러내 주변 영역을 보호합니다.<br><br>근처의 적은 매 턴 [1] 또는 [2] 를 입으며, <LSTag Tooltip="
+"\"MovementSpeed\">이동 속도</LSTag>가 절반으로 줄어듭니다."
 
 #. key = Shared_Shout_SpiritGuardians_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1226
 msgctxt "h6a2d3c90g162bg4eb6g9e1dg8ecb8e4365fa"
 msgid "Spirit Guardians"
-msgstr ""
+msgstr "혼령 수호자"
 
 #. key = Shared_Shout_SpiritGuardians_Necrotic_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:995
 msgctxt "hb97d5064g4062g4f54gaaa0gd6e67eb3bba6"
 msgid "Call forth spirits to protect the area around you."
-msgstr ""
+msgstr "영혼들을 불러내 주변 영역을 보호합니다."
 
 #. key = Shared_Shout_SpiritGuardians_Necrotic_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:218
@@ -31881,12 +31950,14 @@ msgid ""
 "Nearby enemies take [1] per turn, and their <LSTag Tooltip=\"MovementSpeed\""
 ">Movement Speed</LSTag> is halved."
 msgstr ""
+"근처의 적은 매 턴 [1] 를 입으며, <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 "
+"줄어듭니다."
 
 #. key = Shared_Shout_SpiritGuardians_Radiant_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1002
 msgctxt "h4b1e9786g99cdg4c8bg88e7g351d70681e55"
 msgid "Call forth spirits to protect the area around you."
-msgstr ""
+msgstr "영혼들을 불러내 주변 영역을 보호합니다."
 
 #. key = Shared_Shout_SpiritGuardians_Radiant_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:225
@@ -31895,19 +31966,21 @@ msgid ""
 "Nearby enemies take [1] per turn, and their <LSTag Tooltip=\"MovementSpeed\""
 ">Movement Speed</LSTag> is halved."
 msgstr ""
+"근처의 적은 매 턴 [1] 를 입으며, <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 "
+"줄어듭니다."
 
 #. key = Shared_Shout_StaticOverdrive_Automaton_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:309
 msgctxt "haebd3b95g5e41g4d86g825dg38047306da99"
 msgid ""
 "Emanate a static discharge that buffs nearby constructs and hurts all others."
-msgstr ""
+msgstr "정전기를 방출해 근처의 구조물을 강화하고 다른 모두에게 피해를 입힙니다."
 
 #. key = Shared_Shout_StaticOverdrive_Automaton_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:764
 msgctxt "h1fc6c0bbg4cf4g4ac7g8e8dgbe7ead417b34"
 msgid "Static Overdrive"
-msgstr ""
+msgstr "정전기 과부하"
 
 #. key = Shared_Shout_StaticOverdrive_Automaton_ExtraDescription
 #: Shared/Public/Shared/Localization/Shout_ExtraDescription.lsx:211
@@ -31915,7 +31988,7 @@ msgctxt "h88a2f4aaged70g4abagb605g7384962e672d"
 msgid ""
 "Nearby constructs deal an additional [2] to weapon attacks. All others take "
 "[1] per turn and can't take reactions."
-msgstr ""
+msgstr "근처의 구조물은 무기 피해에 [2] 가 추가됩니다. 다른 모두는 매 턴 [1] 를 입으며 반응 행동을 수행할 수 없습니다."
 
 #. key = Shared_Shout_SteadyRanged_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:708
@@ -31925,12 +31998,14 @@ msgid ""
 "For the rest of your turn, roll ranged damage twice and use the highest "
 "result."
 msgstr ""
+"<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>를 [1] 만큼 소모합니다. 이번 턴, 원거리 피해 "
+"굴림을 하는 경우, 두 번 굴려 그중 높은 결과를 선택합니다."
 
 #. key = Shared_Shout_SteadyRanged_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:890
 msgctxt "ha07074c0gf103g42ffg8e82gf2e599cf32fd"
 msgid "Brace (Ranged)"
-msgstr ""
+msgstr "대비 (원거리)"
 
 #. key = Shared_Shout_Steady_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:694
@@ -31940,12 +32015,14 @@ msgid ""
 "For the rest of your turn, roll melee damage twice and use the highest "
 "result."
 msgstr ""
+"<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>를 [1] 만큼 소모합니다. 이번 턴, 근접 피해 "
+"굴림을 하는 경우, 두 번 굴려 그중 높은 결과를 선택합니다."
 
 #. key = Shared_Shout_Steady_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:883
 msgctxt "hb5fad65fg4751g45d2gb3f1ga6ed5085c68e"
 msgid "Brace (Melee)"
-msgstr ""
+msgstr "대비 (근접)"
 
 #. key = Shared_Shout_Stomp_AdamantineGolem_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:673
@@ -31954,12 +32031,14 @@ msgid ""
 "Stomp the ground to cause a massive shockwave and knock nearby creatures "
 "<LSTag Type=\"Status\" Tooltip=\"PRONE\">Prone</LSTag>."
 msgstr ""
+"땅을 밟아 거대한 충격파를 발산해 근처의 크리쳐를 넘어뜨리며 <LSTag Type=\"Status\" Tooltip=\"PRONE\""
+">엎어짐</LSTag> 상태로 만듭니다."
 
 #. key = Shared_Shout_Stomp_AdamantineGolem_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:862
 msgctxt "h7b59dec2g26bcg490fg949bgacc43bcb8c54"
 msgid "Quake"
-msgstr ""
+msgstr "지진"
 
 #. key = Shared_Shout_SuddenRush_Gnoll_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:267
@@ -31968,12 +32047,15 @@ msgid ""
 "Increase your <LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> by [1]"
 ". Moving no longer provokes Opportunity Attacks."
 msgstr ""
+"<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 [1] 증가합니다. 움직임이 더 이상 기회 공격을 "
+"유발하지 않습니다."
 
 #. key = Shared_Shout_SuddenRush_Gnoll_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:771
+#, fuzzy
 msgctxt "h7ab2a30dg4b56g4fa6g8a20gff3783b5eb82"
 msgid "Sudden Rush"
-msgstr ""
+msgstr "돌발 쇄도"
 
 #. key = Shared_Shout_Thaumaturgy_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:288
@@ -31983,6 +32065,8 @@ msgid ""
 "\"Advantage\">Advantage</LSTag> on Intimidation and Performance <LSTag "
 "Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"위협과 공연 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Advantage"
+"\">이점</LSTag>을 부여하는 초자연적인 힘의 표식을 나타냅니다."
 
 #. key = Shared_Shout_Thaumaturgy_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:505
@@ -33979,7 +34063,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:694
 msgctxt "h729b40b3gcf6eg4b43g9108g7db5db7b3877"
 msgid "Expeditious Retreat"
-msgstr ""
+msgstr "신속한 퇴각"
 
 #. key = Shared_Status_BOOST_EXPLOSIVE_RUNES_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2633
@@ -34065,7 +34149,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:715
 msgctxt "h831c2782g1cdfg4dd3gb834gbeb143bb3b69"
 msgid "Feather Fall"
-msgstr ""
+msgstr "깃털 낙하"
 
 #. key = Shared_Status_BOOST_FIGHTING_STYLE_PROTECTION_AURA_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:624
@@ -34505,7 +34589,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3032
 msgctxt "h4235e17fg5dffg4fadgb95dg38e572f7c9e5"
 msgid "Seething Fury"
-msgstr ""
+msgstr "끓어오르는 분노"
 
 #. key = Shared_Status_BOOST_GNOLL_BREWING_RAGE_UNLOCK_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2052
@@ -35362,7 +35446,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:981
 msgctxt "h20226a2cgb45eg4981gbd2dg9b27a77e4221"
 msgid "Mirror Image"
-msgstr ""
+msgstr "거울상"
 
 #. key = Shared_Status_BOOST_MIRROR_IMAGE_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:988
@@ -40950,7 +41034,7 @@ msgstr "시야 내의 크리쳐를 치유합니다."
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:554
 msgctxt "hb049d4afgac1cg4172gab68g5266b799b6f6"
 msgid "Healing Word"
-msgstr "치유의 말씀"
+msgstr "치유의 단어"
 
 #. key = Shared_Target_HeartStopper_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1506
