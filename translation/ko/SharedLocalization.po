@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-20 09:52+0000\n"
+"PO-Revision-Date: 2023-03-21 17:52+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -16905,7 +16905,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:85
 msgctxt "hb434e5e8g23c2g439eg9703g2ac8fc9616ea"
 msgid "Mobile"
-msgstr "기동성"
+msgstr "기동"
 
 #. key = Shared_FeatDescriptions_New_Stat_12_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:92
@@ -20430,6 +20430,11 @@ msgid ""
 "\"Disadvantage\">Disadvantage</LSTag> on their <LSTag Tooltip=\"SavingThrow\""
 ">Saving Throw</LSTag>."
 msgstr ""
+"조사에 <LSTag Tooltip=\"Proficiency\">숙련도</LSTag>를 얻습니다. 올가미 공격(<LSTag Type="
+"\"Spell\" Tooltip=\"Projectile_EnsnaringStrike\">원거리</LSTag> 또는 <LSTag Type="
+"\"Spell\" Tooltip=\"Target_EnsnaringStrike\">근접</LSTag> 모두)으로 공격하는 대상은 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Passive_FavoredEnemy_BountyHunter_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:267
@@ -20447,12 +20452,15 @@ msgid ""
 "protection against aberrations, celestials, elementals, fey, fiends, and "
 "undead."
 msgstr ""
+"다른 존재의 차원에서 온 크리쳐들을 사냥하는 데 특화되어 있습니다. <LSTag Tooltip=\"Arcana\">비전</LSTag>에 "
+"<LSTag Tooltip=\"Proficiency\">숙련</LSTag>되어 있으며, 괴이체, 정령, 페이, 악마, 그리고 언데드로부터 "
+"보호를 부여하는 악과 선으로부터의 보호를 시전할 수 있습니다."
 
 #. key = Shared_Passive_FavoredEnemy_KeeperOfTheVeil_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:274
 msgctxt "h2a1b2e4ege840g45d6gb47cga52a440ccdab"
 msgid "Keeper of the Veil"
-msgstr ""
+msgstr "장막의 수호자"
 
 #. key = Shared_Passive_FavoredEnemy_MageBreaker_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:281
@@ -20466,6 +20474,11 @@ msgid ""
 "<LSTag Tooltip=\"SpellcastingAbilityModifier\">Spellcasting Ability</LSTag> "
 "for this spell. "
 msgstr ""
+"당신은 그동안 수많은 주문시전자를 상대해 왔습니다. <LSTag Tooltip=\"Arcana\">비전</LSTag> <LSTag "
+"Tooltip=\"Proficiency\">숙련</LSTag>과 크리쳐를 상대로 <LSTag Tooltip=\"AttackRoll\""
+">명중 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 갖게 해주는 진실의 일격 "
+"<LSTag Tooltip=\"Cantrip\">소마법</LSTag>을 얻습니다. 이 주문은 지혜를 <LSTag Tooltip="
+"\"SpellcastingAbilityModifier\">주문시전 능력치</LSTag>로 사용합니다. "
 
 #. key = Shared_Passive_FavoredEnemy_MageBreaker_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:281
@@ -20511,13 +20524,13 @@ msgstr ""
 msgctxt "hb2cd1c68g7269g4564ga1c5g6eaf8658d33d"
 msgid ""
 "Due to their natural feline grace, cats are Resistant to Falling damage."
-msgstr ""
+msgstr "고양잇과의 자연적인 능력으로, 고양이들은 낙하 피해에 면역을 갖습니다."
 
 #. key = Shared_Passive_FelineFall_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1989
 msgctxt "h18fc96d1g4ba5g41c4g9509g87d94d508e21"
 msgid "Feline Fall"
-msgstr ""
+msgstr "고양이 낙하"
 
 #. key = Shared_Passive_FeyAncestry_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:92
@@ -20543,12 +20556,14 @@ msgid ""
 "Protected by the blood of their fiendish ancestors, cambions have a +[1] "
 "bonus to their <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag>."
 msgstr ""
+"악마족 선조들의 피로 보호받아, 캠비온은 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +[1] 보너스를 "
+"가집니다."
 
 #. key = Shared_Passive_FiendishBlessing_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2136
 msgctxt "h047e59f7g5687g49f4g80b6g1ce0d0204670"
 msgid "Fiendish Blessing"
-msgstr ""
+msgstr "악마의 축복"
 
 #. key = Shared_Passive_FiendishVigor_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:820
@@ -20578,13 +20593,13 @@ msgctxt "hf110b916g69b5g42cdg847bg3110b1fa5526"
 msgid ""
 "You gain a +2 bonus to <LSTag Tooltip=\"RangedWeaponAttack\">Ranged Weapon "
 "Attacks</LSTag>."
-msgstr ""
+msgstr "<LSTag Tooltip=\"RangedWeaponAttack\">원거리 무기 공격</LSTag>에 +2 보너스를 얻습니다."
 
 #. key = Shared_Passive_FightingStyle_Archery_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:302
 msgctxt "haec5fe24g2e93g491bg9297gc2147c5f8151"
 msgid "Archery"
-msgstr ""
+msgstr "궁술"
 
 #. key = Shared_Passive_FightingStyle_Defense_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:309
@@ -20592,13 +20607,13 @@ msgctxt "h43f1380bg9d7bg40bdgbfdcgf385d442fa2a"
 msgid ""
 "You gain a +1 bonus to <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> "
 "while wearing armour."
-msgstr ""
+msgstr "갑옷을 입고 있으면 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +1 보너스를 얻습니다."
 
 #. key = Shared_Passive_FightingStyle_Defense_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:309
 msgctxt "ha8cfd62bgcb97g4b32gb36bg9fc65547ae68"
 msgid "Defence"
-msgstr ""
+msgstr "방어"
 
 #. key = Shared_Passive_FightingStyle_Dueling_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:316
@@ -20608,12 +20623,14 @@ msgid ""
 "hand, you gain a +2 bonus to damage rolls with that weapon, increasing your "
 "chance to do heavy damage."
 msgstr ""
+"한쪽 손에 무기를 착용하고 나머지 손에는 아무것도 들고 있지 않으면, 그 무기로 가하는 공격의 피해 굴림에 +2 보너스를 얻어 더욱 큰 "
+"피해를 가할 수 있습니다."
 
 #. key = Shared_Passive_FightingStyle_Dueling_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:316
 msgctxt "hb0f001e9g05d8g4f13g8ee0g76e6d6cc0dbd"
 msgid "Duelling"
-msgstr ""
+msgstr "결투"
 
 #. key = Shared_Passive_FightingStyle_GreatWeaponFighting_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:323
@@ -20622,12 +20639,14 @@ msgid ""
 "When you roll a 1 or 2 on a damage die for an attack with a <LSTag Tooltip="
 "\"TwoHanded\">Two-Handed</LSTag> melee weapon, that die is rerolled once."
 msgstr ""
+"<LSTag Tooltip=\"TwoHanded\">양손</LSTag> 근접 무기로 공격할 때 1 또는 2 를 굴리면, 다시 한번 굴릴 "
+"수 있습니다."
 
 #. key = Shared_Passive_FightingStyle_GreatWeaponFighting_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:323
 msgctxt "h6b5da5e9g524cg40a1g8043g6f973cec9773"
 msgid "Great Weapon Fighting"
-msgstr ""
+msgstr "대형 무기 전투"
 
 #. key = Shared_Passive_FightingStyle_Protection_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:330
@@ -20637,6 +20656,8 @@ msgid ""
 "LSTag> on an enemy who attacks one of your allies when you are within [1]. "
 "You must be able to see the enemy."
 msgstr ""
+"방패를 지니고 있으면, 자신 근처 [1] 내에 있는 아군을 공격하는 적은 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 갖습니다. 그 적이 시야 내에 있어야 합니다."
 
 #. key = Shared_Passive_FightingStyle_Protection_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:330
@@ -20659,12 +20680,14 @@ msgid ""
 "When you make an off-hand attack, you can add your <LSTag Tooltip="
 "\"AbilityModifier\">Ability Modifier</LSTag> to the damage of the attack."
 msgstr ""
+"보조 무기 공격을 가할 때, 자신의 <LSTag Tooltip=\"AbilityModifier\">능력치 수정치</LSTag>를 피해량에 "
+"더할 수 있습니다."
 
 #. key = Shared_Passive_FightingStyle_TwoWeaponFighting_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:337
 msgctxt "hdcfca7a2ga47fg4ea3g956ag264e0810b8ba"
 msgid "Two-Weapon Fighting"
-msgstr ""
+msgstr "양손 무기 전투"
 
 #. key = Shared_Passive_FlamingSphere_State_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1422
@@ -20672,13 +20695,13 @@ msgctxt "h0c9f773agfe28g4520gbbdag9a240767244f"
 msgid ""
 "When the sphere is ablaze, it leaves behind a fire surface and deals [1] to "
 "nearby creatures and objects."
-msgstr ""
+msgstr "구체가 불타고 있으면, 불꽃 표면을 남겨 근처의 크리쳐와 물체에 [1] 를 가합니다."
 
 #. key = Shared_Passive_FlamingSphere_State_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1429
 msgctxt "hbf621122g7c63g4ae3g85f3g637ad25cc737"
 msgid "Ablaze"
-msgstr ""
+msgstr "불길에 휩싸임"
 
 #. key = Shared_Passive_FontOfInspiration_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2178
@@ -20688,24 +20711,27 @@ msgid ""
 "\"BardicInspiration\">Bardic Inspiration</LSTag> after a <LSTag Tooltip="
 "\"LongRest\">Long</LSTag> or <LSTag Tooltip=\"ShortRest\">Short Rest</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"LongRest\">긴</LSTag> 또는 <LSTag Tooltip=\"ShortRest\">짧은 휴식</"
+"LSTag>을 취하고 나면 <LSTag Type=\"ActionResource\" Tooltip=\"BardicInspiration\""
+">바드의 격려</LSTag>가 모두 충전됩니다."
 
 #. key = Shared_Passive_FontOfInspiration_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2241
 msgctxt "hb117050dg0016g4833g87f0g8d614082da8d"
 msgid "Font of Inspiration"
-msgstr ""
+msgstr "영감의 샘"
 
 #. key = Shared_Passive_FullSwing_Passive_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1716
 msgctxt "h37f8464fg36e3g4fa3g927ag2e5995f28de6"
 msgid "Deal an additional [1] with melee attacks."
-msgstr ""
+msgstr "근접 공격이 [1] 를 추가로 가합니다."
 
 #. key = Shared_Passive_FullSwing_Passive_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1576
 msgctxt "h231bab7cg6576g4ff8g8b1bg6dd26756c296"
 msgid "Prepared"
-msgstr ""
+msgstr "준비됨"
 
 #. key = Shared_Passive_FullSwing_Passive_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:141
@@ -20719,19 +20745,19 @@ msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동�
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1709
 msgctxt "h64706031g9dd0g45f2gb085gac54f2858230"
 msgid "Attacks against this creature deal an additional [1]."
-msgstr ""
+msgstr "이 크리쳐를 향한 공격은 [1] 를 추가로 가합니다."
 
 #. key = Shared_Passive_GapingWound_Passive_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1562
 msgctxt "h0df4bbfeg2e17g442bga43dg602eccff89c5"
 msgid "Gaping Wounds"
-msgstr ""
+msgstr "벌어진 상처"
 
 #. key = Shared_Passive_GapingWound_Passive_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:155
 msgctxt "h4952fe52g2eaeg4cf9g9c14g17900a256f1f"
 msgid "Removed by healing."
-msgstr ""
+msgstr "치유를 통해 제거됨."
 
 #. key = Shared_Passive_GiantKiller_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:344
@@ -20739,7 +20765,7 @@ msgctxt "hfc11470egcd0eg4905gbc5egfd8889755d9f"
 msgid ""
 "If a Large or bigger creature attacks you, you can use your reaction to make "
 "a melee attack."
-msgstr ""
+msgstr "대형 이상의 크리쳐가 자신을 공격하면, 반응 행동을 사용해 근접 공격을 가할 수 있습니다."
 
 #. key = Shared_Passive_GiantKiller_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:344
@@ -20753,7 +20779,7 @@ msgctxt "h6beb14d3g4ce8g4605g9d67g7e0f45d091d2"
 msgid ""
 "Prerequisite: You must be able to see the creature, and it must be within [1]"
 " of you. "
-msgstr ""
+msgstr "필요 조건: 크리쳐가 시야 내에 있어야 하며, [1] 내의 거리에 있어야 합니다. "
 
 #. key = Shared_Passive_Gith_MartialProdigy_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:106
@@ -20764,12 +20790,15 @@ msgid ""
 "<LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> with the Shortsword, "
 "Longsword, and Greatsword."
 msgstr ""
+"일생에 걸친 끊임없는 훈련의 결과로 경갑과 평갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</"
+"LSTag>을 가지고 있으며, 숏소드, 롱소드, 그리고 대검에 <LSTag Tooltip=\"Proficiency\">숙련</"
+"LSTag>되어 있습니다."
 
 #. key = Shared_Passive_Gith_MartialProdigy_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:106
 msgctxt "h65148781ga78eg4045ga130gb0052296002c"
 msgid "Martial Prodigy"
-msgstr ""
+msgstr "군사 영재"
 
 #. key = Shared_Passive_Gnome_Cunning_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:785
@@ -20778,24 +20807,26 @@ msgid ""
 "You have <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on Intelligence, "
 "Wisdom, and Charisma <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"지능, 지혜, 그리고 매력 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 가지고 있습니다."
 
 #. key = Shared_Passive_Gnome_Cunning_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:785
 msgctxt "ha4872802g354cg41ebg8850g3a67df05844d"
 msgid "Gnome Cunning"
-msgstr ""
+msgstr "노움의 교활함"
 
 #. key = Shared_Passive_Gnome_Speed_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:792
 msgctxt "h449a9210g2f38g4a33gb335g5d1f847fca7d"
 msgid "Your <LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> is [1]."
-msgstr ""
+msgstr "당신의 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>는 [1] 입니다."
 
 #. key = Shared_Passive_Gnome_Speed_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:792
 msgctxt "h6d097e64g2af3g4f2dgb15dgdcbf5f7fb7ec"
 msgid "Shortened Stride"
-msgstr ""
+msgstr "짧은 발걸음"
 
 #. key = Shared_Passive_GreatWeaponMaster_BonusAttack_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:561
@@ -20941,13 +20972,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:498
 msgctxt "hbd1d3f55gcbe2g4f06g89b7g728da1c554f8"
 msgid "Attacking the target of your Hex spell deals an extra [1]."
-msgstr ""
+msgstr "주박 주문의 대상을 공격하면 [1] 를 추가로 가합니다."
 
 #. key = Shared_Passive_Hex_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:498
 msgctxt "hb2f4068ege203g4a24gb0c1gf12d35954986"
 msgid "Hex"
-msgstr ""
+msgstr "주박"
 
 #. key = Shared_Passive_HolyRebuke_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2297
@@ -20955,7 +20986,7 @@ msgctxt "hdd1f026cg8dcfg4b0dg950bg5b88099cabab"
 msgid ""
 "Affected entity is surrounded by a vengeful aura that deals [1] to anyone "
 "who hits it with a melee attack."
-msgstr ""
+msgstr "효과를 받은 대상은 복수심의 오라로 둘러싸여, 대상에게 근접 공격을 가하는 모두에게 [1] 를 가합니다."
 
 #. key = Shared_Passive_HolyRebuke_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2353
@@ -20969,13 +21000,13 @@ msgctxt "h2ad75116g5840g449cg83d6geac4697f474d"
 msgid ""
 "Target two creatures standing close to each other, attacking them in quick "
 "succession."
-msgstr ""
+msgstr "근접한 두 크리쳐를 재빠르게 연속 타격합니다."
 
 #. key = Shared_Passive_HordeBreaker_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1023
 msgctxt "h116ba0c1g51dfg46dbg9f47g8558d9af5422"
 msgid "Horde Breaker"
-msgstr ""
+msgstr "무리 파괴자"
 
 #. key = Shared_Passive_HuntersMark_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:505
@@ -20987,19 +21018,19 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:505
 msgctxt "h60e7c307g97bag4739gabb2g23296582836f"
 msgid "Hunter's Mark"
-msgstr ""
+msgstr "사냥꾼의 징표"
 
 #. key = Shared_Passive_ImmuneToDisarm_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1499
 msgctxt "h3f3a72f1g14b9g4a67gbc12g429e57f20f66"
 msgid "Creature can't be disarmed."
-msgstr ""
+msgstr "이 크리쳐는 무장 해제될 수 없습니다."
 
 #. key = Shared_Passive_ImmuneToDisarm_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1513
 msgctxt "h2f4bf880gece3g456eg9b4fg18d1e95ded25"
 msgid "Permanently Armed"
-msgstr ""
+msgstr "영구히 무장함"
 
 #. key = Shared_Passive_JackOfAllTrades_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2003
@@ -21030,12 +21061,14 @@ msgid ""
 "Gain <LSTag Type=\"Spell\" Tooltip=\"Target_SleetStorm\">Sleet Storm</LSTag> "
 "and <LSTag Type=\"Spell\" Tooltip=\"Target_Haste\">Haste</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_SleetStorm\">진눈깨비 폭풍</LSTag>과 <LSTag "
+"Type=\"Spell\" Tooltip=\"Target_Haste\">가속</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Arctic_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2178
 msgctxt "h76ed546bgc04ag4431ga41agbb83a1a15704"
 msgid "Arctic"
-msgstr ""
+msgstr "매서운 추위"
 
 #. key = Shared_Passive_Land_Arctic_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1289
@@ -21045,12 +21078,14 @@ msgid ""
 "and <LSTag Type=\"Spell\" Tooltip=\"Target_SpikeGrowth\">Spike "
 "Growth</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_HoldPerson\">인간형 포박</LSTag>과 <LSTag "
+"Type=\"Spell\" Tooltip=\"Target_SpikeGrowth\">가시 성장</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Arctic_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1296
 msgctxt "he27f637cg9efdg4b7bga058g1917bd3ee841"
 msgid "Arctic"
-msgstr ""
+msgstr "매서운 추위"
 
 #. key = Shared_Passive_Land_BonusCantrip_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:351
@@ -21058,13 +21093,13 @@ msgctxt "h3eb53f42g222cg442dg8a10gdba12f0e5cc1"
 msgid ""
 "Learn one additional Druid <LSTag Tooltip=\"Cantrip\">cantrip</LSTag> of "
 "your choice."
-msgstr ""
+msgstr "드루이드 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 하나를 선택해 배웁니다."
 
 #. key = Shared_Passive_Land_BonusCantrip_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:351
 msgctxt "h3b8f846dg29d9g4addga3bdgeb349282d4c6"
 msgid "Bonus Cantrip"
-msgstr ""
+msgstr "추가 소마법"
 
 #. key = Shared_Passive_Land_Coast_2_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2206
@@ -21074,12 +21109,14 @@ msgid ""
 "and <LSTag Type=\"Spell\" Tooltip=\"Target_CallLightning\">Call "
 "Lightning</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_SleetStorm\">진눈깨비 폭풍</LSTag>과 <LSTag "
+"Type=\"Spell\" Tooltip=\"Target_CallLightning\">번개</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Coast_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2185
 msgctxt "hd902e241g1286g4287g8b35g031397715773"
 msgid "Coast"
-msgstr ""
+msgstr "해안"
 
 #. key = Shared_Passive_Land_Coast_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1338
@@ -21089,12 +21126,14 @@ msgid ""
 "LSTag> and <LSTag Type=\"Spell\" Tooltip=\"Target_MistyStep\">Misty "
 "Step</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Shout_MirrorImage\">거울상</LSTag>과 <LSTag Type="
+"\"Spell\" Tooltip=\"Target_MistyStep\">안개 걸음</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Coast_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1345
 msgctxt "hba91e52dg0b4bg4068ga51bg9e06242bc5a1"
 msgid "Coast"
-msgstr ""
+msgstr "해안"
 
 #. key = Shared_Passive_Land_Desert_2_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2129
@@ -21104,12 +21143,15 @@ msgid ""
 "Energy</LSTag> and <LSTag Type=\"Spell\" Tooltip=\"Target_HypnoticPattern\""
 ">Hypnotic Pattern</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_CallLightning\">에너지로부터의 보호</LSTag>와 "
+"<LSTag Type=\"Spell\" Tooltip=\"Target_HypnoticPattern\">최면 무늬</LSTag> 주문을 "
+"얻습니다."
 
 #. key = Shared_Passive_Land_Desert_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2192
 msgctxt "h9c8afca8gbb2ag4c65ga8b8gc9790714d96d"
 msgid "Desert"
-msgstr ""
+msgstr "사막"
 
 #. key = Shared_Passive_Land_Desert_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1331
@@ -21118,12 +21160,14 @@ msgid ""
 "Gain <LSTag Type=\"Spell\" Tooltip=\"Shout_Blur\">Blur</LSTag> and <LSTag "
 "Type=\"Spell\" Tooltip=\"Target_Silence\">Silence</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Shout_Blur\">흐릿해지기</LSTag>와 <LSTag Type="
+"\"Spell\" Tooltip=\"Target_Silence\">침묵</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Desert_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1338
 msgctxt "ha2dc129fg97f9g4b34gbbd7g1e1518e6887b"
 msgid "Desert"
-msgstr ""
+msgstr "사막"
 
 #. key = Shared_Passive_Land_Forest_2_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2136
@@ -21133,12 +21177,14 @@ msgid ""
 "LSTag> and <LSTag Type=\"Spell\" Tooltip=\"Target_HoldPerson\">Plant "
 "Growth</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_HoldPerson\">번개</LSTag>와 <LSTag Type="
+"\"Spell\" Tooltip=\"Target_HoldPerson\">식물 성장</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Forest_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2199
 msgctxt "h4106a7c4gbe90g486agacbeg08d746f83222"
 msgid "Forest"
-msgstr ""
+msgstr "숲"
 
 #. key = Shared_Passive_Land_Forest_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1324
@@ -21147,12 +21193,14 @@ msgid ""
 "Gain <LSTag Type=\"Spell\" Tooltip=\"Target_Barkskin\">Barkskin</LSTag> and "
 "<LSTag Type=\"Spell\" Tooltip=\"Target_HoldPerson\">Hold Person</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_Barkskin\">나무 껍질</LSTag>과 <LSTag Type="
+"\"Spell\" Tooltip=\"Target_HoldPerson\">인간형 포박</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Forest_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1331
 msgctxt "h9181da4cgebd8g4dd0gaa0eg72e0c0d16feb"
 msgid "Forest"
-msgstr ""
+msgstr "숲"
 
 #. key = Shared_Passive_Land_Grassland_2_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2143
@@ -21161,12 +21209,14 @@ msgid ""
 "Gain <LSTag Type=\"Spell\" Tooltip=\"Target_Daylight\">Daylight</LSTag> and "
 "<LSTag Type=\"Spell\" Tooltip=\"Target_Haste\">Haste</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_Daylight\">일광</LSTag>과 <LSTag Type="
+"\"Spell\" Tooltip=\"Target_Haste\">가속</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Grassland_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2206
 msgctxt "hd9796fd6g0060g4995gbdd7gb0b9926cde3e"
 msgid "Grassland"
-msgstr ""
+msgstr "초원"
 
 #. key = Shared_Passive_Land_Grassland_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1317
@@ -21176,12 +21226,14 @@ msgid ""
 "LSTag> and <LSTag Type=\"Spell\" Tooltip=\"Shout_PassWithoutTrace\">Pass "
 "Without Trace</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_Invisibility\">투명화</LSTag>와 <LSTag "
+"Type=\"Spell\" Tooltip=\"Shout_PassWithoutTrace\">흔적도 없이</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Grassland_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1324
 msgctxt "ha67b9790g9078g492fga1f1gd50b9286ba0e"
 msgid "Grassland"
-msgstr ""
+msgstr "초원"
 
 #. key = Shared_Passive_Land_Mountain_2_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2150
@@ -21190,12 +21242,14 @@ msgid ""
 "Gain <LSTag Type=\"Spell\" Tooltip=\"Target_CallLightning\">Call Lightning</"
 "LSTag> and <LSTag Type=\"Spell\" Tooltip=\"Target_Fly\">Fly</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_CallLightning\">번개</LSTag>와 <LSTag "
+"Type=\"Spell\" Tooltip=\"Target_Fly\">비행</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Mountain_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2213
 msgctxt "h579e8fe9ge213g4f0agaaa1gd4b03c92becd"
 msgid "Mountain"
-msgstr ""
+msgstr "산"
 
 #. key = Shared_Passive_Land_Mountain_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1310
@@ -21205,12 +21259,14 @@ msgid ""
 "LSTag> and <LSTag Type=\"Spell\" Tooltip=\"Target_SpikeGrowth\">Spike "
 "Growth</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Shout_MirrorImage\">거울상</LSTag>과 <LSTag Type="
+"\"Spell\" Tooltip=\"Target_SpikeGrowth\">가시 성장</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Mountain_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1317
 msgctxt "h26f17fd1g8a2ag48e4g9357g339f4ae943d5"
 msgid "Mountain"
-msgstr ""
+msgstr "산"
 
 #. key = Shared_Passive_Land_Swamp_2_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2157
@@ -21220,12 +21276,14 @@ msgid ""
 "LSTag> and <LSTag Type=\"Spell\" Tooltip=\"Target_VampiricTouch\">Vampiric "
 "Touch</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_StinkingCloud\">악취 구름</LSTag>과 <LSTag "
+"Type=\"Spell\" Tooltip=\"Target_VampiricTouch\">흡혈의 손아귀</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Swamp_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2220
 msgctxt "hf55de614gadf9g42f3g928bgc86d6b6b82bd"
 msgid "Swamp"
-msgstr ""
+msgstr "늪"
 
 #. key = Shared_Passive_Land_Swamp_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1303
@@ -21235,12 +21293,14 @@ msgid ""
 "Arrow</LSTag> and <LSTag Type=\"Spell\" Tooltip=\"Target_Darkness\""
 ">Darkness</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Projectile_AcidArrow\">멜프의 산성 화살</LSTag>과 "
+"<LSTag Type=\"Spell\" Tooltip=\"Target_Darkness\">어둠</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Swamp_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1310
 msgctxt "hfe85ccb1g792dg48f1g8591g6077e22b3def"
 msgid "Swamp"
-msgstr ""
+msgstr "늪"
 
 #. key = Shared_Passive_Land_Underdark_2_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2164
@@ -21250,12 +21310,14 @@ msgid ""
 "LSTag> and <LSTag Type=\"Spell\" Tooltip=\"Target_StinkingCloud\">Stinking "
 "Cloud</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_GaseousForm\">가스 형상</LSTag>과 LSTag "
+"Type=\"Spell\" Tooltip=\"Target_StinkingCloud\">악취 구름</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Underdark_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2227
 msgctxt "h8fa94005gb97cg4586g8fd8g5d1fad496a6f"
 msgid "Underdark"
-msgstr ""
+msgstr "언더다크"
 
 #. key = Shared_Passive_Land_Underdark_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1296
@@ -21264,12 +21326,14 @@ msgid ""
 "Gain <LSTag Type=\"Spell\" Tooltip=\"Target_Web\">Web</LSTag> and <LSTag "
 "Type=\"Spell\" Tooltip=\"Target_MistyStep\">Misty Step</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_Web\">거미줄</LSTag>과 <LSTag Type=\"Spell"
+"\" Tooltip=\"Target_MistyStep\">안개 걸음</LSTag> 주문을 얻습니다."
 
 #. key = Shared_Passive_Land_Underdark_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1303
 msgctxt "hf9a0339ag2259g4c83g9a5bg27f8ec3959e0"
 msgid "Underdark"
-msgstr ""
+msgstr "언더다크"
 
 #. key = Shared_Passive_Light_BonusCantrip_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:358
@@ -21277,13 +21341,13 @@ msgctxt "h2e72c90fg9fdcg4bbeg883ag574b9d85b0c8"
 msgid ""
 "You gain the Light <LSTag Tooltip=\"Cantrip\">cantrip</LSTag>. You can "
 "infuse an object with an aura of light."
-msgstr ""
+msgstr "빛 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>을 얻습니다. 물체에 빛의 오라를 부여할 수 있습니다."
 
 #. key = Shared_Passive_Light_BonusCantrip_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:358
 msgctxt "hc94daccag7b6fg4151gb01egefc1667d672f"
 msgid "Light: Bonus Cantrip"
-msgstr ""
+msgstr "빛: 추가 소마법"
 
 #. key = Shared_Passive_LightlyArmored_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:960
@@ -21291,13 +21355,13 @@ msgctxt "h93762a30g66b3g4832gbf74ga7ba9930ea8c"
 msgid ""
 "You have <LSTag Tooltip=\"ArmourProficiency\">Armour Proficiency</LSTag> "
 "with Light Armour."
-msgstr ""
+msgstr "경갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 가집니다."
 
 #. key = Shared_Passive_LightlyArmored_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:974
 msgctxt "h866b6355g682cg4415g8048gd8097dde30a6"
 msgid "Lightly Armoured"
-msgstr ""
+msgstr "가볍게 무장함"
 
 #. key = Shared_Passive_MageHandLegerdemain_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:365
@@ -21305,13 +21369,13 @@ msgctxt "he00b504fg9f72g41abg8546g5c8a27a34a8f"
 msgid ""
 "When you cast Mage Hand, the spectral hand is invisible and can carry out "
 "additional tasks."
-msgstr ""
+msgstr "마법사의 손을 시전하면, 그 영체 손은 투명해지며 추가 임무를 수행할 수 있습니다."
 
 #. key = Shared_Passive_MageHandLegerdemain_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:365
 msgctxt "hb60c0bf0gb057g486cgbe5cg0b037bb9874c"
 msgid "Mage Hand Legerdemain"
-msgstr ""
+msgstr "마법사의 손 손재주"
 
 #. key = Shared_Passive_MageHandLegerdemain_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:78
@@ -21320,6 +21384,7 @@ msgid ""
 "Your mage hand can stow away or retrieve objects carried by other creatures "
 "and use thieves' tools at range."
 msgstr ""
+"자신의 마법사의 손이 이제 다른 크리쳐가 지닌 물체를 되찾거나 이동시킬 수 있으며, 범위 내에 도둑의 도구를 사용할 수 있습니다."
 
 #. key = Shared_Passive_MagicInitiate_Bard_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2031
@@ -21331,12 +21396,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Charisma."
 msgstr ""
+"바드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 매력입니다."
 
 #. key = Shared_Passive_MagicInitiate_Bard_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2087
 msgctxt "hc2d4ebd5gbdd6g4a6dg968egc6fc890029f8"
 msgid "Magic Initiate: Bard"
-msgstr ""
+msgstr "마법 입문: 바드"
 
 #. key = Shared_Passive_MagicInitiate_Cleric_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1450
@@ -21348,12 +21417,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Wisdom."
 msgstr ""
+"클레릭 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 지혜입니다."
 
 #. key = Shared_Passive_MagicInitiate_Cleric_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1464
 msgctxt "hb45d2631ge580g4458gb4c3g3fbdde8d97cf"
 msgid "Magic Initiate: Cleric"
-msgstr ""
+msgstr "마법 입문: 클레릭"
 
 #. key = Shared_Passive_MagicInitiate_Druid_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1555
@@ -21365,12 +21438,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Wisdom."
 msgstr ""
+"드루이드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 지혜입니다."
 
 #. key = Shared_Passive_MagicInitiate_Druid_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1583
 msgctxt "hebbf153agc810g492eg9131ge9dd91f85ec0"
 msgid "Magic Initiate: Druid"
-msgstr ""
+msgstr "마법 입문: 드루이드"
 
 #. key = Shared_Passive_MagicInitiate_Sorcerer_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1562
@@ -21382,12 +21459,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Charisma."
 msgstr ""
+"소서러 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 매력입니다."
 
 #. key = Shared_Passive_MagicInitiate_Sorcerer_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1590
 msgctxt "he5861e24gfb36g480bg9e3dg16a176fd9162"
 msgid "Magic Initiate: Sorcerer"
-msgstr ""
+msgstr "마법 입문: 소서러"
 
 #. key = Shared_Passive_MagicInitiate_Warlock_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1464
@@ -21399,12 +21480,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Charisma."
 msgstr ""
+"워락 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 매력입니다."
 
 #. key = Shared_Passive_MagicInitiate_Warlock_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1478
 msgctxt "h77de5b99g94ffg49c1gaebdgb0b991842b24"
 msgid "Magic Initiate: Warlock"
-msgstr ""
+msgstr "마법 입문: 워락"
 
 #. key = Shared_Passive_MagicInitiate_Wizard_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1457
@@ -21416,12 +21501,16 @@ msgid ""
 "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
 "spells is Intelligence."
 msgstr ""
+"위저드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문의 <LSTag Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</"
+"LSTag>는 모두 지능입니다."
 
 #. key = Shared_Passive_MagicInitiate_Wizard_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1471
 msgctxt "h02a9497eg703cg40edg9469gd538dab475e1"
 msgid "Magic Initiate: Wizard"
-msgstr ""
+msgstr "마법 입문: 위저드"
 
 #. key = Shared_Passive_MagicResistance_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1478
@@ -21431,24 +21520,26 @@ msgid ""
 "\"SavingThrow\">Saving Throws</LSTag> against Spells and other magical "
 "effects."
 msgstr ""
+"주문이나 다른 마법 효과에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Passive_MagicResistance_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1492
 msgctxt "h35cb3cb1g3a14g46c4gb690g24bb2f8f981c"
 msgid "Magic Resistance"
-msgstr ""
+msgstr "마법 저항"
 
 #. key = Shared_Passive_MartialAdept_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:967
 msgctxt "hd448f4e5gce55g4f53ga907gb94bc9cf8bd7"
 msgid "You receive 1 (additional) superiority die."
-msgstr ""
+msgstr "우월성 주사위 1 개를 추가로 받습니다."
 
 #. key = Shared_Passive_MartialAdept_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:981
 msgctxt "h42546f3agada8g4171g96dcg0976b82c4421"
 msgid "Martial Adept"
-msgstr ""
+msgstr "군사 전문가"
 
 #. key = Shared_Passive_MartialAdvantage_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1485
@@ -21458,12 +21549,14 @@ msgid ""
 "hits with a weapon attack. The hobgoblin must have an ally who is within [1] "
 "of the target and isn't Incapacitated."
 msgstr ""
+"턴 당 한번, 홉고블린은 무기 공격 범위 내에 있는 크리쳐에게 2d6 의 추가 피해를 가할 수 있습니다. 홉고블린 주변 [1] 내에 "
+"무력화되지 않은 아군이 존재해야 합니다."
 
 #. key = Shared_Passive_MartialAdvantage_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1499
 msgctxt "h579c4854g5d33g44a4ga2d7ga83cc2feb350"
 msgid "Martial Advantage"
-msgstr ""
+msgstr "군사 이점"
 
 #. key = Shared_Passive_MaskOfManyFaces_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:827
@@ -21471,13 +21564,13 @@ msgctxt "h0f1d1b78g3785g4a3egabd0g96327531d8a5"
 msgid ""
 "You can cast Disguise Self at will, without expending a <LSTag Tooltip="
 "\"SpellSlot\">spell slot</LSTag>."
-msgstr ""
+msgstr "<LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소모하지 않고 자기 위장을 시전할 수 있습니다."
 
 #. key = Shared_Passive_MaskOfManyFaces_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:827
 msgctxt "hab409a1bg808bg46ddg973cgbd75721be32d"
 msgid "Mask of Many Faces"
-msgstr ""
+msgstr "수많은 얼굴의 가면"
 
 #. key = Shared_Passive_MenacingAttack_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:855
@@ -21487,12 +21580,14 @@ msgid ""
 "damage and possibly <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\">Frightens</"
 "LSTag> the target."
 msgstr ""
+"우월성 주사위를 소모해 1d8 의 추가 피해를 입히고 <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\""
+">공포</LSTag> 상태를 부여할 수 있는 공격을 가합니다."
 
 #. key = Shared_Passive_MenacingAttack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:855
 msgctxt "h0fb5eb87ga21fg430fgb5d9gd335ca4aaaa6"
 msgid "Menacing Attack"
-msgstr ""
+msgstr "위협의 일격"
 
 #. key = Shared_Passive_Metamagic_Careful_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1646
@@ -21502,12 +21597,14 @@ msgid ""
 "LSTag> against spells that require them. <br><br>Costs [1] Sorcery Point per "
 "spell."
 msgstr ""
+"아군은 필요한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 자동으로 성공합니다. <br><br>주문 "
+"당 소서리 포인트가 [1] 개 필요합니다."
 
 #. key = Shared_Passive_Metamagic_Careful_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1674
 msgctxt "hc4758e5dg1f1dg424agadb4gc491239fcc29"
 msgid "Metamagic: Careful Spell"
-msgstr ""
+msgstr "메타매직: 주문 세심화"
 
 #. key = Shared_Passive_Metamagic_Distant_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1653
@@ -21516,12 +21613,14 @@ msgid ""
 "Increase the range of spells by 50%. Melee spells get a range of [3]"
 ".<br><br>Costs [1] Sorcery Point per spell."
 msgstr ""
+"주문의 사정 거리가 50% 증가합니다. 근접 주문은 [3] 의 사정 거리를 가집니다.<br><br>주문 당 소서리 포인트가 [1] 개 "
+"필요합니다."
 
 #. key = Shared_Passive_Metamagic_Distant_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1681
 msgctxt "h012601ccgea72g43b0g91b2g572f03bbb6d4"
 msgid "Metamagic: Distant Spell"
-msgstr ""
+msgstr "메타매직: 주문 원거리화"
 
 #. key = Shared_Passive_Metamagic_Extended_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1660
@@ -21530,12 +21629,13 @@ msgid ""
 "Double the duration of Conditions, summons, and surfaces caused by spells. "
 "<br><br>Costs [1] Sorcery Point per spell."
 msgstr ""
+"주문으로 인한 상태, 소환, 그리고 표면의 지속 시간을 두 배로 늘립니다. <br><br>주문 당 소서리 포인트가 [1] 개 필요합니다."
 
 #. key = Shared_Passive_Metamagic_Extended_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1688
 msgctxt "h96ae89c4g5df4g4052g8aa6gc5e668e13cdf"
 msgid "Metamagic: Extended Spell"
-msgstr ""
+msgstr "메타매직: 주문 연장화"
 
 #. key = Shared_Passive_Metamagic_Heightened_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1667
@@ -21545,12 +21645,15 @@ msgid ""
 "LSTag> have <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on their "
 "first Saving Throw. <br><br>Costs [1] Sorcery Points per spell."
 msgstr ""
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>을 요구하는 주문에 대한 첫 번째 내성 굴림에 <LSTag "
+"Tooltip=\"Disadvantage\">불리점</LSTag>을 가지도록 합니다. <br><br>주문 당 소서리 포인트가 [1] 개 "
+"필요합니다."
 
 #. key = Shared_Passive_Metamagic_Heightened_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1695
 msgctxt "h23774168gb8fbg45c1g9e1ag62d9a4ccb9bd"
 msgid "Metamagic: Heightened Spell"
-msgstr ""
+msgstr "메타매직: 주문 고도화"
 
 #. key = Shared_Passive_Metamagic_Quickened_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1674
@@ -21558,13 +21661,13 @@ msgctxt "hc94b3484g2ddcg4479g81bbgf237ca981795"
 msgid ""
 "Spells that cost an action cost a bonus action instead. <br><br>Costs [1] "
 "Sorcery Points per spell."
-msgstr ""
+msgstr "행동을 소모하는 주문이 대신 추가 행동을 소모합니다. <br><br>주문 당 소서리 포인트가 [1] 개 필요합니다."
 
 #. key = Shared_Passive_Metamagic_Quickened_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1702
 msgctxt "h2a4fba9dg0b06g4e44ga7b4gbd11d93de433"
 msgid "Metamagic: Quickened Spell"
-msgstr ""
+msgstr "메타매직: 주문 신속화"
 
 #. key = Shared_Passive_Metamagic_Subtle_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1681
@@ -21572,13 +21675,13 @@ msgctxt "h8a8eecf4g22ddg45f0ga601g761c17d002e0"
 msgid ""
 "You can cast spells while Silenced. <br><br>Costs [1] Sorcery Point per "
 "spell."
-msgstr ""
+msgstr "침묵 상태에서도 주문을 시전할 수 있습니다. <br><br>주문 당 소서리 포인트가 [1] 개 필요합니다."
 
 #. key = Shared_Passive_Metamagic_Subtle_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1709
 msgctxt "habc7fd18gb0f1g437eg9bb5g58240269b7ef"
 msgid "Metamagic: Subtle Spell"
-msgstr ""
+msgstr "메타매직: 주문 미묘화"
 
 #. key = Shared_Passive_Metamagic_Twinned_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1688
@@ -21589,12 +21692,15 @@ msgid ""
 ">spell slot</LSTag> level used. <LSTag Tooltip=\"Cantrip\">Cantrips</LSTag> "
 "also cost 1 Sorcery Point."
 msgstr ""
+"하나의 대상만을 지정하는 주문이 추가 크리쳐를 대상으로 하도록 만듭니다.<br><br>사용된 <LSTag Tooltip="
+"\"SpellSlot\">주문 슬롯</LSTag> 당 소서리 포인트 하나가 소모됩니다. <LSTag Tooltip=\"Cantrip\""
+">소마법</LSTag>도 소서리 포인트를 하나 소모합니다."
 
 #. key = Shared_Passive_Metamagic_Twinned_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1716
 msgctxt "h8c9f627fgff0ag4f0bgab3dg2f1e75e85e4b"
 msgid "Metamagic: Twinned Spell"
-msgstr ""
+msgstr "메타매직: 주문 이중화"
 
 #. key = Shared_Passive_Metamagic_Twinned_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:148
@@ -21602,7 +21708,7 @@ msgctxt "h7f172d6cg6359g4158gb711gcd159662cc53"
 msgid ""
 "For spells that don't shoot a projectile, the targets need to be close "
 "enough together."
-msgstr ""
+msgstr "투사체를 발사하지 않은 주문의 경우, 대상들은 서로 충분히 가까이에 있어야 합니다."
 
 #. key = Shared_Passive_Mobile_CounterAttackOfOpportunity_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:631
@@ -21611,43 +21717,45 @@ msgid ""
 "If you move after making a melee attack, you don't provoke <LSTag Tooltip="
 "\"OpportunityAttack\">Opportunity Attack</LSTag> from your target."
 msgstr ""
+"근접 공격을 가한 뒤 움직이면, 대상에게서 <LSTag Tooltip=\"OpportunityAttack\">기회 공격</LSTag>을 "
+"유발하지 않습니다."
 
 #. key = Shared_Passive_Mobile_CounterAttackOfOpportunity_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:631
 msgctxt "hf2a4da83gd74fg4a70g90adg3370e3fc610a"
 msgid "Mobile: Evade Opportunity Attack"
-msgstr ""
+msgstr "기동: 기회 공격 회피"
 
 #. key = Shared_Passive_Mobile_CounterAttackOfOpportunity_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:22
 msgctxt "had05dc1fga914g4137gb059gcecfcce6a601"
 msgid "This effect still works if your attack misses."
-msgstr ""
+msgstr "대상을 빗맞혀도 이 효과는 유효합니다."
 
 #. key = Shared_Passive_Mobile_DashAcrossDifficultTerrain_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:638
 msgctxt "hba2fb532gfa0fg4f6fgb8dcg75df3eaa63dd"
 msgid "When you use the Dash action, difficult terrain doesn't slow you down."
-msgstr ""
+msgstr "질주 행동을 사용하면, 험난한 지형의 영향을 받지 않습니다."
 
 #. key = Shared_Passive_Mobile_DashAcrossDifficultTerrain_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:638
 msgctxt "hca3cd55agaffeg4033gab8dg66627af1db89"
 msgid "Mobile: Evade Difficult Terrain"
-msgstr ""
+msgstr "기동: 험난한 지형 회피"
 
 #. key = Shared_Passive_Mobile_PassiveBonuses_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:974
 msgctxt "h3b532c4dg43beg476egb187g3cb1d1a2cb7c"
 msgid ""
 "Your <LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> increases by [1]"
-msgstr ""
+msgstr "<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 [1] 증가합니다"
 
 #. key = Shared_Passive_Mobile_PassiveBonuses_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:988
 msgctxt "h0c538acfgb124g4607ga1e1gd0fbf858788e"
 msgid "Mobile"
-msgstr ""
+msgstr "기동"
 
 #. key = Shared_Passive_ModeratelyArmored_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:981
@@ -21655,19 +21763,19 @@ msgctxt "h20014732g0400g4e54ga7c4g76fc99c787db"
 msgid ""
 "You have <LSTag Tooltip=\"ArmourProficiency\">Armour Proficiency</LSTag> "
 "with Medium Armour and shields."
-msgstr ""
+msgstr "평갑과 방패에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련도</LSTag>를 가지고 있습니다."
 
 #. key = Shared_Passive_ModeratelyArmored_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:995
 msgctxt "hc7ec371fg6a1cg4468g920ag28f3059635f3"
 msgid "Moderately Armoured"
-msgstr ""
+msgstr "적당히 무장함"
 
 #. key = Shared_Passive_Moonbeam_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1436
 msgctxt "h2c9de2e8g2666g47f9gad34gf020654f8aa4"
 msgid "Moonbeam"
-msgstr ""
+msgstr "달빛 광선"
 
 #. key = Shared_Passive_MountainDwarf_DwarvenArmorTraining_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:127
@@ -21675,13 +21783,13 @@ msgctxt "hd01d182cgddd4g4961g893dg963a25a4078c"
 msgid ""
 "You have <LSTag Tooltip=\"ArmourProficiency\">Armour Proficiency</LSTag> "
 "with Light and Medium Armour."
-msgstr ""
+msgstr "경갑과 평갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 가지고 있습니다."
 
 #. key = Shared_Passive_MountainDwarf_DwarvenArmorTraining_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:127
 msgctxt "hce2a1955g89f1g4c75g958cgec1a242bdee7"
 msgid "Dwarven Armour Training"
-msgstr ""
+msgstr "드워프 방어구 훈련"
 
 #. key = Shared_Passive_Multiattack_Automaton_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1856
@@ -21801,7 +21909,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:379
 msgctxt "h8d34027dge682g429dg9599gedc9af18ba10"
 msgid "Beast Tamer"
-msgstr ""
+msgstr "야수 조련사"
 
 #. key = Shared_Passive_NaturalExplorer_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:372
@@ -21817,7 +21925,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:372
 msgctxt "hda94f5afgbb4fg4639g9824gf20ab3f065a0"
 msgid "Natural Explorer"
-msgstr ""
+msgstr "자연 탐험가"
 
 #. key = Shared_Passive_NaturalExplorer_ExpertClimber_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:386
@@ -21831,7 +21939,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:386
 msgctxt "h18cc8f03gccc9g4e8fg99edg784bcf15d771"
 msgid "Expert Climber"
-msgstr ""
+msgstr "등반 전문가"
 
 #. key = Shared_Passive_NaturalExplorer_UrbanTracker_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:393
@@ -21846,7 +21954,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:393
 msgctxt "h7d086c25g0425g45bfgb207g11b9f1f86daf"
 msgid "Urban Tracker"
-msgstr ""
+msgstr "도심 추적자"
 
 #. key = Shared_Passive_NaturalExplorer_WastelandWander_Cold_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:890
@@ -21899,24 +22007,27 @@ msgid ""
 "Must be unarmed or using a melee weapon. Doesn't work on undead and "
 "constructs."
 msgstr ""
+"대상을 죽이는 대신 정신을 잃게 만듭니다.\n"
+"\n"
+"비무장 상태거나 근접 무기를 사용하고 있어야 합니다. 언데드나 구조물에는 사용할 수 없습니다."
 
 #. key = Shared_Passive_NonLethal_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1506
 msgctxt "haa5dbcd2gaf52g4258g90d8g517922ac8294"
 msgid "Toggle Non-Lethal Attacks"
-msgstr ""
+msgstr "비살상 공격 활성화"
 
 #. key = Shared_Passive_OgreCurse_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:512
 msgctxt "ha069dc19gadb2g4483g9929gc3e79fd1791e"
 msgid "Damage is increased by 1d6."
-msgstr ""
+msgstr "피해가 1d6 만큼 증가합니다."
 
 #. key = Shared_Passive_OgreCurse_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:512
 msgctxt "hc400f3fbgb1a2g4b2dga908g24aa688e09c4"
 msgid "Ogre's Mark"
-msgstr ""
+msgstr "오우거의 표식"
 
 #. key = Shared_Passive_OneWithShadows_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2220
@@ -21925,24 +22036,26 @@ msgid ""
 "You learn how to cast <LSTag Type=\"Spell\" Tooltip=\"Shout_OneWithShadows\""
 ">One with Shadows</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Shout_OneWithShadows\">그림자 속으로</LSTag> 주문을 "
+"배웁니다."
 
 #. key = Shared_Passive_OneWithShadows_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2276
 msgctxt "h642c317bg2cacg49dagbf72g747067910c4a"
 msgid "One with Shadows"
-msgstr ""
+msgstr "그림자 속으로"
 
 #. key = Shared_Passive_Overwhelm_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1548
 msgctxt "hee4cc52cg793cg4dc6g81fbgead2a4da91b5"
 msgid "When you miss an attack, deal [1] anyway."
-msgstr ""
+msgstr "공격이 빗나가도, [1] 피해를 줍니다."
 
 #. key = Shared_Passive_Overwhelm_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1569
 msgctxt "h141b89fdgbd46g44a4g8b6fg39a9c72a3bed"
 msgid "Tenacity"
-msgstr ""
+msgstr "집념"
 
 #. key = Shared_Passive_Overwhelm_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:134
@@ -23493,7 +23606,7 @@ msgctxt "h7f4e5da4geec5g4e11ga4ddg007d60e27d74"
 msgid ""
 "You gain a +1 bonus to <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> "
 "while wearing armour."
-msgstr ""
+msgstr "갑옷을 입고 있으면 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +1 보너스를 얻습니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_114_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:750
@@ -23578,7 +23691,7 @@ msgctxt "h70d546fdgc6f1g4f5egbcc6g89c8773e6f26"
 msgid ""
 "You gain a +2 bonus to <LSTag Tooltip=\"RangedWeaponAttack\">Ranged Weapon "
 "Attacks</LSTag>."
-msgstr ""
+msgstr "<LSTag Tooltip=\"RangedWeaponAttack\">원거리 무기 공격</LSTag>에 +2 보너스를 얻습니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_122_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:785
@@ -34549,7 +34662,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2794
 msgctxt "h6c59bf1dg68d1g42baga2d0gda475d321741"
 msgid "Gaping Wounds"
-msgstr ""
+msgstr "벌어진 상처"
 
 #. key = Shared_Status_BOOST_GNOLL_AURABLOODTHIRST_AURA_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1135
@@ -35118,7 +35231,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:876
 msgctxt "h0046ecf9g38dbg4597gb751g9874c99ca176"
 msgid "Hunter's Mark"
-msgstr ""
+msgstr "사냥꾼의 징표"
 
 #. key = Shared_Status_BOOST_HUNTERS_MARK_REAPPLY_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:729
@@ -35501,7 +35614,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2514
 msgctxt "h884e9694g454dg4b19g9341g0351dcfffad0"
 msgid "Moonbeam"
-msgstr ""
+msgstr "달빛 광선"
 
 #. key = Shared_Status_BOOST_MOONBEAM_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1667
@@ -35515,7 +35628,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2521
 msgctxt "heb1d42dfgaad2g4ca6gabf7g83b101791226"
 msgid "Moonbeam"
-msgstr ""
+msgstr "달빛 광선"
 
 #. key = Shared_Status_BOOST_NATURES_WRATH_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3963
@@ -41529,7 +41642,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:694
 msgctxt "he0912b6fge4b5g4b8fgbc26ge67f24b680d1"
 msgid "Hunter's Mark"
-msgstr ""
+msgstr "사냥꾼의 징표"
 
 #. key = Shared_Target_HuntersMark_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:120
@@ -41977,7 +42090,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:904
 msgctxt "h70789e65gb000g45bega1a2gfe106d0aa51b"
 msgid "Moonbeam"
-msgstr ""
+msgstr "달빛 광선"
 
 #. key = Shared_Target_Moonbeam_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:148
