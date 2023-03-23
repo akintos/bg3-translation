@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-22 20:52+0000\n"
+"PO-Revision-Date: 2023-03-23 23:52+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -25392,24 +25392,28 @@ msgid ""
 "Heavy Armour impedes your <LSTag Type=\"Spell\" Tooltip=\"Shout_Rage\""
 ">Rage</LSTag>."
 msgstr ""
+"당신의 신체는 어떤 방어구 만큼이나 튼튼합니다. 방어구를 입지 않은 상태면, <LSTag Tooltip=\"ArmourClass\""
+">방어도</LSTag>에 건강 <LSTag Tooltip=\"AbilityModifier\">수정치</LSTag>를 "
+"더합니다.<br><br>중갑을 착용하면 <LSTag Type=\"Spell\" Tooltip=\"Shout_Rage\">격노</"
+"LSTag>가 방해받습니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_272_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1331
 msgctxt "h62fb454ag2abfg4fbdga710gf9e9aeb05bdf"
 msgid "Unarmoured Defence"
-msgstr ""
+msgstr "비무장 방어"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_273_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1338
 msgctxt "h50416111g8a61g4659g823fg88107fbfb336"
 msgid "You can now Rage more times per Long Rest."
-msgstr ""
+msgstr "긴 휴식 당 격노 횟수가 증가합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_273_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1338
 msgctxt "h4c613264gb411g4c6egb997g838c863cb977"
 msgid "Additional Rage Charge"
-msgstr ""
+msgstr "추가 격노 충전"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_274_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1345
@@ -25418,6 +25422,8 @@ msgid ""
 "The strong embrace the wild that hides inside - keen instincts, primal "
 "physicality, and most of all, an unbridled, unquenchable rage."
 msgstr ""
+"강한 자들은 내면에 숨어있는 야성을 받아들입니다. 그 야성은 예리한 본능과 원시적인 육체, 그리고 무엇보다도 채울 수 없는, 구속에서 "
+"해방된 격노입니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_274_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1345
@@ -25429,26 +25435,26 @@ msgstr "바바리안"
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1352
 msgctxt "h1aeb7efagdb50g467eg90b1gfac8015275d2"
 msgid "You can change your Bestial Heart selection."
-msgstr ""
+msgstr "야수의 심장 선택을 변경할 수 있습니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_277_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1352
 msgctxt "h165c3793gdf26g4952g89cfgcb2c5d1324ae"
 msgid "Change Bestial Heart"
-msgstr ""
+msgstr "야수의 심장 변경"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_278_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1359
 msgctxt "h7c18a1a0g9906g4c20gb3a4gb0130128574d"
 msgid ""
 "Choose your Bestial Heart. You can change your Heart whenever you level up."
-msgstr ""
+msgstr "야수의 심장을 선택합니다. 레벨업을 할 때마다 선택을 변경할 수 있습니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_278_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1359
 msgctxt "h757146a1g8d6bg4752gbf41gabee1a1cdf19"
 msgid "Bestial Heart"
-msgstr ""
+msgstr "야수의 심장"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_27_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:498
@@ -25460,6 +25466,9 @@ msgid ""
 "be found seeking allies from all over Faerûn, aiming to settle their "
 "conflict with Lolth - and each other - by any means necessary."
 msgstr ""
+"드로우는 두 엘프 신, 코렐론 라레시안과 롤쓰 사이의 고대 분쟁의 결과로 탄생했습니다. 롤쓰의 배신으로 인해 드로우들은 언더다크로 "
+"향했으며, 또다시 두 개의 분파로 나뉘어 싸우고 있습니다. 셀다린 드로우는 페이룬 전역에서 동료를 찾는 모습으로 자주 목격되며, 어떤 "
+"수단을 써서라도 롤쓰 드로우와의 분쟁을 끝맺으려 하고 있습니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_27_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:176
@@ -25473,13 +25482,13 @@ msgctxt "h943be7a1g3d0fg4a8fg8a81g8505b92e61e8"
 msgid ""
 "Halves the cost to learn Evocation spells from Spell Scrolls. Learning these "
 "spells will only cost 25g per spell level."
-msgstr ""
+msgstr "주문 두루마리로 방출계 마법을 배우는 비용이 절반으로 줄어듭니다. 주문 레벨 당 25g 만이 소모됩니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_280_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1373
 msgctxt "hbe777276gf90bg422ag8b53gd95a2e35a302"
 msgid "Evocation Savant"
-msgstr ""
+msgstr "방출계 전공"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_281_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1366
@@ -25487,13 +25496,13 @@ msgctxt "hcc147fb4gd2ceg42feg93c5g1343986cd0d2"
 msgid ""
 "Halves the cost to learn Abjuration spells from Spell Scrolls. Learning "
 "these spells will only cost 25g per spell level."
-msgstr ""
+msgstr "주문 두루마리로 방호계 마법을 배우는 비용이 절반으로 줄어듭니다. 주문 레벨 당 25g 만이 소모됩니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_281_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1366
 msgctxt "hbdc36e7cg1203g4c4bgb66bg6e446cd5bf73"
 msgid "Abjuration Savant"
-msgstr ""
+msgstr "방호계 전공"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_282_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1387
@@ -25516,7 +25525,7 @@ msgid ""
 "Pick the instrument you'd like to use. It will influence the soundscape when "
 "you cast spells, and can be changed later by equipping a different "
 "instrument."
-msgstr ""
+msgstr "원하는 악기를 고릅니다. 주문을 시전할 때 흘러나오는 음악에 영향을 미치며, 언제든지 다른 악기를 착용해 변경할 수 있습니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_283_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1387
@@ -25537,6 +25546,7 @@ msgid ""
 "Rock gnomes are the most common to see on Faerûn's surface, named as such "
 "for their hardiness and affinity for metal."
 msgstr ""
+"바위 노움들은 파에룬의 지상 세계에서 가장 흔히 볼 수 있는 노움입니다. 튼튼한 신체와 금속에 대한 애착 때문에 바위 노움이라 불리웁니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_285_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1401
@@ -25552,6 +25562,8 @@ msgid ""
 "rare sight in Faerûn. They master magic and craftsmanship in their distant, "
 "idyllic groves."
 msgstr ""
+"사촌들보다도 키가 더 작고, 두 배는 더 은둔적인 숲 노움들은 페이룬에서 보기 드뭅니다. 이들은 머나먼 곳의 목가적인 숲에서 살며 마법과 "
+"손재주를 익힙니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_286_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1408
@@ -25567,12 +25579,13 @@ msgid ""
 "peasants' tales, and use your gifts to hold both audiences and enemies "
 "spellbound."
 msgstr ""
+"당신은 아름다움과 진리를 추구하며, 학술 서적부터 농민들의 이야기까지 다양한 지식을 수집하고 재능을 활용해 청중과 적 모두를 매료시킵니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_287_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1429
 msgctxt "hb229a8d0g7aedg4d19g8722gf0c00bbe585b"
 msgid "College of Lore"
-msgstr ""
+msgstr "전승 학파"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_288_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1415
@@ -25615,6 +25628,7 @@ msgid ""
 "Gold dwarves are known for their confidence and keen intuition. The culture "
 "of their Deep Kingdom values family, ritual, and fine craftsmanship."
 msgstr ""
+"황금 드워프들은 그들의 자신감과 날카로운 직감으로 유명합니다. 그들의 지하 왕국 문화는 가족, 의식, 그리고 장인 정신을 중요히 여깁니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_28_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:183
@@ -25628,13 +25642,13 @@ msgctxt "hd5e5a2d0g8503g4520gbf91gdf8654f43525"
 msgid ""
 "You wander the land to witness and relate the deeds of the mighty, keeping "
 "alive the memory of heroes of the past and inspiring heroes of the future."
-msgstr ""
+msgstr "당신은 대륙을 돌아다니며 과거의 영웅을 기억하고 미래의 영웅에게 영감을 불어넣으며, 강자들의 업적을 목격하고 이야기를 전합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_290_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1436
 msgctxt "h4c0fc0dcg0921g420bg8bcbg5ea3d678ca43"
 msgid "College of Valour"
-msgstr ""
+msgstr "용맹 학파"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_292_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1492
@@ -30068,7 +30082,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Races_DisplayName.lsx:498
 msgctxt "hb161f3d2g8c1bg474ag9ebegb2f71d1e3ed5"
 msgid "Rock Gnome"
-msgstr ""
+msgstr "바위 노움"
 
 #. key = Shared_Races_New_Stat_71_DisplayType
 #: Shared/Public/Shared/Localization/Races_DisplayType.lsx:120
