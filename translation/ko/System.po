@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-19 08:52+0000\n"
-"Last-Translator: DARE <aji709901@gmail.com>\n"
+"PO-Revision-Date: 2023-03-26 01:52+0000\n"
+"Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/system/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2626,7 +2626,7 @@ msgid ""
 "\"SpellSlot\">spell slots</LSTag> up to half their maximum, and you won't "
 "regain any <LSTag Tooltip=\"ShortRest\">Short Rests</LSTag>."
 msgstr ""
-"캠프로 가시겠습니까? 오늘 하루가 마무리됩니다.\n"
+"야영지로 가시겠습니까? 오늘 하루가 마무리됩니다.\n"
 "\n"
 "보유한 <LSTag Tooltip=\"CampSupplies\">야영 물자</LSTag>가 충분하지 않습니다. <LSTag Tooltip="
 "\"LongRest\">긴 휴식</LSTag>을 취해도 <LSTag Tooltip=\"HitPoints\">체력</LSTag> 과 "
@@ -4118,7 +4118,7 @@ msgstr "숨음"
 
 msgctxt "h1791dcc9g5662g48begb48fg621f6da5b1d6"
 msgid "Incapacitated"
-msgstr "마비"
+msgstr "무력화"
 
 msgctxt "h3739559fg64acg42c3g893cg6fb341570556"
 msgid "Polymorphed"
@@ -4366,7 +4366,7 @@ msgstr "상태"
 
 msgctxt "h409bfd42g2257g4cb8gb3fbgedcb8adecaed"
 msgid "Custom Stats"
-msgstr ""
+msgstr "커스텀 능력치"
 
 msgctxt "h05b70904gcb10g4cc2gb11dg568de6d30657"
 msgid "Very Low"
@@ -5074,9 +5074,10 @@ msgctxt "h64611302g200fg43cdgb03age051b8cc2675"
 msgid "Throwable Items"
 msgstr "투척 아이템"
 
+#, fuzzy
 msgctxt "h68159f66gab24g4e53g99f5gf63d8ee4064c"
 msgid "Martial [1]"
-msgstr ""
+msgstr "군사 [1]"
 
 msgctxt "hcfd8cf93g9aacg4114ga2c8g9b3d6e045ed1"
 msgid "Your party has been defeated..."
@@ -5128,15 +5129,15 @@ msgstr "[1] 아이템 획득."
 
 msgctxt "h09991bf3g4649g417cgbb11g6e5073c42e6f"
 msgid "You've unearthed [1] new mysterious clues."
-msgstr ""
+msgstr "[1] 개의 새로운 비밀 단서를 발굴했습니다."
 
 msgctxt "hcb2d3ad7g9255g4153g8c4ega19202eec37f"
 msgid "You've solved [1] mysteries!"
-msgstr ""
+msgstr "[1] 개의 수수께끼를 풀었습니다!"
 
 msgctxt "h80987fe1ga39eg4609g8e41g34468e99392c"
 msgid "The Mystery Deepens"
-msgstr ""
+msgstr "수수께끼가 깊어집니다"
 
 msgctxt "hdc14fc8dgb21ag4a3cg9bfbg48bf7fa35c1d"
 msgid "A Mystery Resolved"
@@ -5232,7 +5233,7 @@ msgstr "휴식 중에는 턴제 모드를 사용할 수 없습니다."
 
 msgctxt "hbef3c357gc786g4cbdga4ccg819f8782b3fe"
 msgid "All team members are incapacitated."
-msgstr "모든 동료들이 전투불능 상태입니다."
+msgstr "모든 동료들이 무력화 상태입니다."
 
 msgctxt "hc60c4dd2g1c07g41dbga509ge5e2c540b010"
 msgid "Cannot memorise or forget spells during combat."
@@ -5379,11 +5380,11 @@ msgstr "모든 강조 색상"
 
 msgctxt "hf9b80a67geb60g426cg82dcg19e1af9bab9b"
 msgid "Greying Intensity"
-msgstr ""
+msgstr "회색 강도"
 
 msgctxt "h65511779g30f0g4d65g981dg8e075efac0d4"
 msgid "All Greying Tones"
-msgstr ""
+msgstr "모든 회색 톤"
 
 msgctxt "h95f7bb65gd02dg4e1fg814fg9c97df4a8ce2"
 msgid "Tattoo Intensity"
@@ -5654,11 +5655,11 @@ msgstr "자신"
 
 msgctxt "h43e75198g8c80g48caga967g1942e6104735"
 msgid "[1] was caught in a trap that dealt [2]."
-msgstr "[1]: 함정에 걸림. [2] 피해."
+msgstr "[1]: 함정에 걸림. [2]."
 
 msgctxt "hfa8d22b9g865ag421eg9eb6ga85d4182ade2"
 msgid "[1] was hit for [2] by a surface"
-msgstr "[1]: 지면에 의해 [2] 피해"
+msgstr "[1]: 지면에 의해 [2]"
 
 msgctxt "h3062f257g933ag42dag9208gf306b6813def"
 msgid "[1] took [2] (redirected from [3])."
@@ -5666,7 +5667,7 @@ msgstr ""
 
 msgctxt "h0afee276g72ccg4df7g859bg41ce4854de34"
 msgid "[1] received [2] from falling."
-msgstr ""
+msgstr "[1]: 낙하로 인해 [2] 입음."
 
 msgctxt "h833d5265gcb25g42c9gbadcga9880f5ed6b4"
 msgid "[1] was crushed by [2] for [3]."
@@ -5680,9 +5681,10 @@ msgctxt "hcc81dcbeg85b0g47e5g971cg09e64a2169b3"
 msgid "[1] is immune to [2]."
 msgstr "[2] 에 대해 면역: [1]."
 
+#, fuzzy
 msgctxt "h7dd469edg5564g447fgbf70g37881d6f1538"
 msgid "[1] took no damage because of [2]."
-msgstr ""
+msgstr "[1]: [2] 으(로) 인해 피해를 받지 않음."
 
 msgctxt "hbbf23a87gee3eg4bcagafa7g32036f00a6a3"
 msgid "[1] took no damage."
@@ -5696,9 +5698,10 @@ msgctxt "hc98543e9ge1edg400cgb6edg017ee536e926"
 msgid "[1]% of [2]"
 msgstr "[2]의 [1]%"
 
+#, fuzzy
 msgctxt "h24ea933ag629cg4911gbdbcg4e23c252b842"
 msgid "[1] = [2] (Mitigated [3] ([4]))"
-msgstr ""
+msgstr "[1] = [2] (경감시킴 [3] ([4]))"
 
 msgctxt "h7667788fgd7c9g4300g9f8cg49b41179209e"
 msgid "[1] = [2]"
@@ -5712,9 +5715,10 @@ msgctxt "hd015dbb3g8c8bg44a3gb536gd5ba451cfcfc"
 msgid "[1] from [2] = [3]"
 msgstr ""
 
+#, fuzzy
 msgctxt "hfff0db5bg47b3g456egb5e7gd43b5216d743"
 msgid "Crushing Damage"
-msgstr ""
+msgstr "짓밟힘 피해"
 
 msgctxt "h6586c098gfb12g4811g9f9agafb3c2a92266"
 msgid "Damage reduced to [1] to spare the target."
@@ -5734,7 +5738,7 @@ msgstr "[1] [2] [3] 발사체."
 
 msgctxt "h0b7f696bg11a9g4058g97f6gb86badd41f1d"
 msgid "An arrow from [1] [2] [3]."
-msgstr ""
+msgstr "[1] [2] [3] 화살."
 
 msgctxt "h59207a6ag35d0g4e29gb266g9b9fd15f3263"
 msgid "[1] [2] [3]."
@@ -6621,11 +6625,11 @@ msgstr "지도"
 
 msgctxt "h5f98cc13g6fa1g40c1gbb92ge6012557b912"
 msgid "Any"
-msgstr ""
+msgstr "모두"
 
 msgctxt "h84224121g6612g49fcg91acgcbbcbe2c8b7e"
 msgid "Party Level"
-msgstr ""
+msgstr "파티 레벨"
 
 msgctxt "h6d05feb9ga430g4353ga72dg71473a5932be"
 msgid "Finding lobbies..."
@@ -6637,11 +6641,11 @@ msgstr "네트워크 초기화 실패"
 
 msgctxt "h86c228cdgcc8ag41c4gbc82gca73fb79adeb"
 msgid "No lobbies found"
-msgstr ""
+msgstr "로비를 찾지 못했습니다"
 
 msgctxt "hda41d6cbgef77g49a5ga17bg8eebb29f9e70"
 msgid "Connecting to game failed"
-msgstr ""
+msgstr "게임 연결 실패"
 
 msgctxt "he7fc4e6eg5bf4g43e3g9bdbgf0f8ac939e35"
 msgid "Not connected to the [1] servers"
@@ -6653,27 +6657,31 @@ msgstr "연결 중..."
 
 msgctxt "ha97325f0gd05bg4042gadeag74bca50090dd"
 msgid "Some changes will not take effect until the game is restarted."
-msgstr ""
+msgstr "특정 변경점들은 게임을 재시작할 때까지 적용되지 않습니다."
 
 msgctxt "hbe20c832g6632g4d8dg924eg34e3ec19ef65"
 msgid "Restart required."
 msgstr "재시작 필요함."
 
+#, fuzzy
 msgctxt "hcd8f30b5g33a6g434ag8487gd4a707bb8b9f"
 msgid "Saved!"
-msgstr ""
+msgstr "내성 굴림 성공!"
 
+#, fuzzy
 msgctxt "hd4ce7ddegff56g46e8gafffg3799ab07017b"
 msgid "Save Failed!"
-msgstr ""
+msgstr "내성 굴림 실패!"
 
+#, fuzzy
 msgctxt "h9f93d44fgb444g4313g8994g04f42e955043"
 msgid "[1] Successful"
-msgstr ""
+msgstr "[1] 성공"
 
+#, fuzzy
 msgctxt "h729dd654gc93bg4b23g81efg4623a785b5cd"
 msgid "[1] Failed"
-msgstr ""
+msgstr "[1] 실패"
 
 msgctxt "h5cd2014agc2bdg4169ga53fgf63bc0c1d7f2"
 msgid "Initiative: [1]"
