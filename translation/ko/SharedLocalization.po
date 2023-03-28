@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-27 05:52+0000\n"
+"PO-Revision-Date: 2023-03-28 19:52+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -24233,10 +24233,9 @@ msgstr "특정 크리쳐의 전략과 능력을 연구해 다양한 상황에서
 
 #. key = Shared_ProgressionDescriptions_New_Stat_146_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:911
-#, fuzzy
 msgctxt "hf2b9266dg21b3g4650gb829g4186e0b230fd"
 msgid "Favoured Enemy"
-msgstr "선호하는 적"
+msgstr "숙적"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_147_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:918
@@ -27644,7 +27643,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:106
 msgctxt "h0815830cg95c0g415fgb8ffg29de79684881"
 msgid "Ensnaring Strike (Ranged)"
-msgstr "옭아매는 일격 (원거리)"
+msgstr "올가미 공격 (원거리)"
 
 #. key = Shared_Projectile_Explosion_Trap_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:974
@@ -32771,7 +32770,7 @@ msgid ""
 "and <LSTag Type=\"Status\" Tooltip=\"BLINDED\">Blinds</LSTag> creatures "
 "within."
 msgstr ""
-"주위에 두꺼운 안개 구름을 생성합니다. 안개 구름은 시야를 완전히 가리며 안쪽의 크리쳐를 <LSTag Type=\"Status\" "
+"주위에 두꺼운 안개 구름을 생성합니다. 안개 구름은 시야를 짙게 가리며 안쪽의 크리쳐를 <LSTag Type=\"Status\" "
 "Tooltip=\"BLINDED\">실명</LSTag> 상태로 만듭니다."
 
 #. key = Shared_Shout_WildMagic_Fog_DisplayName
@@ -33915,7 +33914,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3886
 msgctxt "ha37b2c1cgd5fbg441dgbcc2gecc4082fca74"
 msgid "Compelled Duel"
-msgstr "결투 신청"
+msgstr "결투 명령"
 
 #. key = Shared_Status_BOOST_COMPREHEND_LANGUAGES_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:442
@@ -38754,6 +38753,10 @@ msgid ""
 "\"DIFFICULT_TERRAIN\">Difficult Terrain</LSTag>, and creatures within are "
 "<LSTag Type=\"Status\" Tooltip=\"BLINDED\">Blinded</LSTag>."
 msgstr ""
+"알 수 없는 공포로 가득한 차가운 어둠의 구체입니다.<br><br>이 지역에서 턴을 시작하는 크리쳐는 [1] 를 입습니다. 이 지역에서 "
+"턴을 종료하는 크리쳐는 [2] 를 입을 수 있습니다.<br><br>구체 내부는 <LSTag Type=\"Status\" Tooltip="
+"\"DIFFICULT_TERRAIN\">험난한 지형</LSTag>이며, 내부의 크리쳐는 <LSTag Type=\"Status\" "
+"Tooltip=\"BLINDED\">실명</LSTag> 상태입니다."
 
 #. key = Shared_Status_BOOST_VOID_AURA_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3655
@@ -38765,7 +38768,7 @@ msgstr "하다르의 허기"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2521
 msgctxt "h75a5068agdd18g40a5g9e8dg04ae2fe0f11f"
 msgid "Takes [1] as milky, otherwordly tentacles rub against them."
-msgstr ""
+msgstr "유백색 기묘한 촉수가 문지르며 [1] 를 가합니다."
 
 #. key = Shared_Status_BOOST_VOID_END_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3669
@@ -38784,6 +38787,10 @@ msgid ""
 "<LSTag Type=\"Status\" Tooltip=\"DIFFICULT_TERRAIN\">Difficult "
 "Terrain</LSTag>."
 msgstr ""
+"알 수 없는 공포로 가득한, 별들 사이의 공허로 통하는 차원문 근처에 서 있습니다.<br><br>턴 시작 시 [1] 를 입고, 턴 종료 "
+"시에도 지역을 벗어나지 않으면 [2] 를 입을 수 있습니다.<br><br><LSTag Type=\"Status\" Tooltip="
+"\"BLINDED\">실명</LSTag> 상태가 되며, 해당 지역은 <LSTag Type=\"Status\" Tooltip="
+"\"DIFFICULT_TERRAIN\">험난한 지형</LSTag>입니다."
 
 #. key = Shared_Status_BOOST_VOID_START_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3662
@@ -38798,12 +38805,14 @@ msgid ""
 "Spellcaster has <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on <LSTag "
 "Tooltip=\"AttackRoll\">Attack Rolls</LSTag> against the affected entity."
 msgstr ""
+"주문시전자는 영향을 받은 개체에 대한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_VOW_OF_ENMITY_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3977
 msgctxt "h7b73e4a1g6cd8g429dgad3ag2e92d10c3730"
 msgid "Vow of Enmity"
-msgstr ""
+msgstr "증오의 서약"
 
 #. key = Shared_Status_BOOST_WARDING_FLARE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1023
@@ -38811,31 +38820,31 @@ msgctxt "h4a5e8156g19c7g4499gbda6g2723297c1ca0"
 msgid ""
 "The next attack against this creature has <LSTag Tooltip=\"Disadvantage\""
 ">Disadvantage</LSTag>."
-msgstr ""
+msgstr "해당 크리쳐를 향한 다음 공격은 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_WARDING_FLARE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1219
 msgctxt "heced0459g06a3g4ddfg9ef2g66999a2d865d"
 msgid "Warding Flare"
-msgstr ""
+msgstr "방호의 불길"
 
 #. key = Shared_Status_BOOST_WARDING_FLARE_TOGGLE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1226
 msgctxt "hfa036fbcg1fecg44f2g8073gcae866382f38"
 msgid "Warding Flare"
-msgstr ""
+msgstr "방호의 불길"
 
 #. key = Shared_Status_BOOST_WARMAGIC_GITHYANKI_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2857
 msgctxt "h763f49c2ga631g47ecg83f2gfe4c6800d080"
 msgid "Can make a weapon attack using a bonus action."
-msgstr ""
+msgstr "추가 행동으로 무기 공격을 수행할 수 있습니다."
 
 #. key = Shared_Status_BOOST_WARMAGIC_GITHYANKI_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:4005
 msgctxt "hc610e572gb42ag40adgacb8gb7826e9bb3e4"
 msgid "Githyanki War Magic"
-msgstr ""
+msgstr "기스양키 전쟁 마법"
 
 #. key = Shared_Status_BOOST_WEB_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:211
@@ -38847,24 +38856,28 @@ msgid ""
 "also has Disadvantage on Dexterity <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throws</LSTag>."
 msgstr ""
+"움직일 수 없습니다. 해당 크리쳐를 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>은 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>을 가지는 반면, 자신의 공격 굴림은 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 가집니다. 또한 민첩 <LSTag Tooltip=\"SavingThrow\">내성 "
+"굴림</LSTag>에도 불리점을 가집니다."
 
 #. key = Shared_Status_BOOST_WEB_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:288
 msgctxt "hc457b5e0gc836g46bbgae87g98aa55d11b97"
 msgid "Enwebbed"
-msgstr ""
+msgstr "거미줄에 묶임"
 
 #. key = Shared_Status_BOOST_WEB_IMMUNE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:218
 msgctxt "h75524ac3gc220g43adgad93ge72680b857f4"
 msgid "Enwebbed recently."
-msgstr ""
+msgstr "최근에 거미줄에 묶였습니다."
 
 #. key = Shared_Status_BOOST_WEB_IMMUNE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:295
 msgctxt "hdbe288cagbca9g4ce2g8d4fg380c0bdbcb16"
 msgid "Enwebbed"
-msgstr ""
+msgstr "거미줄에 묶임"
 
 #. key = Shared_Status_BOOST_WEB_WALKER_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:225
@@ -38873,12 +38886,14 @@ msgid ""
 "Enemy creatures have <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on "
 "<LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> against this creature."
 msgstr ""
+"해당 크리쳐에게 적대적인 크리쳐는 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_WEB_WALKER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:302
 msgctxt "h44a95f13g67d2g4dceg9bb8g3eebea3a06fb"
 msgid "Web Walker"
-msgstr ""
+msgstr "거미줄 활보자"
 
 #. key = Shared_Status_BOOST_WET_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:232
@@ -38886,25 +38901,25 @@ msgctxt "had8f6c7eg128bg42f0g9d4ag1a5c18f4b9c9"
 msgid ""
 "Prevented from burning. Resistant to Fire damage but Vulnerable to Lightning "
 "and Cold damage."
-msgstr ""
+msgstr "불에 타지 않습니다. 화염 피해에 저항을 가지지만 번개와 냉기 피해에는 취약합니다."
 
 #. key = Shared_Status_BOOST_WET_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:309
 msgctxt "h5cd8c5eag6a04g43a7g8ff2g5e97ca0200f0"
 msgid "Wet"
-msgstr ""
+msgstr "축축함"
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_BURNING_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1968
 msgctxt "hd712de8bgb148g4127g80a4g34ca1530b64b"
 msgid "Takes [1] at the start of each turn."
-msgstr ""
+msgstr "매 턴 시작 시 [1] 를 입습니다."
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_BURNING_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2948
 msgctxt "h5185dea0gbd36g4eabg9346g6ffcb6a72cb2"
 msgid "Wild Magic: Burning"
-msgstr ""
+msgstr "와일드 매직: 연소"
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_ENCHANT_CHARACTER_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2038
@@ -38913,6 +38928,8 @@ msgid ""
 "The next attack with this weapon is a <LSTag Tooltip=\"CriticalHit\""
 ">Critical Hit</LSTag> and deals an additional [1]."
 msgstr ""
+"이 무기를 이용한 다음 공격은 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중하며 추가로 [1] 를 "
+"가합니다."
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_ENCHANT_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1982
@@ -38921,12 +38938,14 @@ msgid ""
 "The next attack with your main weapon is a <LSTag Tooltip=\"CriticalHit\""
 ">Critical Hit</LSTag> and deals an additional [1]."
 msgstr ""
+"주무기를 이용한 다음 공격은 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중하며 추가로 [1] 를 "
+"가합니다."
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_ENCHANT_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2962
 msgctxt "h8b5f56ebge831g4a7bgbfcdg40a278e50aed"
 msgid "Wild Magic: Enchant Weapons"
-msgstr ""
+msgstr "와일드 매직: 무기 마법부여"
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_HEAL_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1996
@@ -38935,12 +38954,14 @@ msgid ""
 "Your spells of Level 1 and higher heal all creatures in a [1] radius for [2] "
 "per <LSTag Tooltip=\"SpellSlot\">spell slot</LSTag> level."
 msgstr ""
+"1 레벨 이상의 모든 주문이 [1] 반경의 모든 크리쳐를 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag> "
+"레벨 당 [2] 만큼 회복합니다."
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_HEAL_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2976
 msgctxt "hbcfe4beagf682g45eega19agb472d345f7bf"
 msgid "Wild Magic: Explosive Healing"
-msgstr ""
+msgstr "와일드 매직: 폭발성 회복"
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_SORCERY_POINTS_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1989
@@ -38949,12 +38970,14 @@ msgid ""
 "Each spell you cast restores Sorcery Points equal to its <LSTag Tooltip="
 "\"SpellSlot\">spell slot</LSTag> level."
 msgstr ""
+"시전하는 모든 주문이 해당 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag> 레벨과 동일한 수치 만큼 소서리 "
+"포인트를 회복합니다."
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_SORCERY_POINTS_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2969
 msgctxt "h645fda44g09ecg43a9ga471g1dfd564e1e21"
 msgid "Wild Magic: Sorcery Points"
-msgstr ""
+msgstr "와일드 매직: 소서리 포인트"
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_SWAP_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2003
@@ -38962,68 +38985,70 @@ msgctxt "h456d0b39gf734g4afbgbce4g2213a6e1dffe"
 msgid ""
 "Casting a spell or <LSTag Tooltip=\"Cantrip\">cantrip</LSTag> makes you "
 "switch positions with a targeted creature."
-msgstr ""
+msgstr "주문이나 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>을 시전하면 그 대상과 위치를 바꿉니다."
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_SWAP_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2983
 msgctxt "h3c58adc5g9004g420fg9faag2ec417a8c289"
 msgid "Wild Magic: Swap"
-msgstr ""
+msgstr "와일드 매직: 변위"
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_TELEPORT_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1975
 msgctxt "h357fdd8fg4c61g4a8ag9b80gd4959fc7952f"
 msgid "Can use a bonus action to teleport up to [1]."
-msgstr ""
+msgstr "추가 행동으로 [1] 거리까지 순간이동할 수 있습니다."
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_TELEPORT_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2955
 msgctxt "h675ffbceg783fg4b5bga0d8g07420f6a46c4"
 msgid "Wild Magic: Teleport"
-msgstr ""
+msgstr "와일드 매직: 순간이동"
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_TURN_MAGIC_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1961
 msgctxt "hce158de0g7c44g4146gaf59gf1ca8b0894a6"
 msgid "At the start of each turn, triggers a random magical effect."
-msgstr ""
+msgstr "매 턴 시작 시, 무작위 마법 효과를 발동합니다."
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_TURN_MAGIC_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2941
 msgctxt "h713022c0g5f67g4114ga05eg0c09d7445052"
 msgid "Wild Magic: Turn Magic"
-msgstr ""
+msgstr "와일드 매직: 돌림 마법"
 
 #. key = Shared_Status_BOOST_WITCH_BOLT_OWNER_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1030
+#, fuzzy
 msgctxt "h15d4de85ga056g43c2g928bg17546b4191d0"
 msgid "Unlocked Witch Bolt: Activate"
-msgstr ""
+msgstr "잠금 해제된 주술 화살: 활성화"
 
 #. key = Shared_Status_BOOST_WITCH_BOLT_OWNER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1233
+#, fuzzy
 msgctxt "hf6bafad6ga4ceg4964gb087gaed6f56fb99c"
 msgid "Witch Bolt Owner"
-msgstr ""
+msgstr "주술 화살 소유자"
 
 #. key = Shared_Status_BOOST_WOOD_WOAD_REGENERATION_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1471
 msgctxt "h2a6478d4g4854g4b19g9ce5gebdcd273e0d1"
 msgid ""
 "The wood woad regains [1] if it starts its turn in a Twisting Vines surface."
-msgstr ""
+msgstr "우드 워드가 뒤틀린 덩굴 표면 위에서 턴을 시작하면 [1] 을 회복합니다."
 
 #. key = Shared_Status_BOOST_WOOD_WOAD_REGENERATION_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2374
 msgctxt "hfc3a39fege9deg47c4g9d58gcc8871d723ec"
 msgid "Regeneration"
-msgstr ""
+msgstr "재생"
 
 #. key = Shared_Status_BOOST_WRAITHS_EMBRACE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1261
 msgctxt "hf4dc0ebdgabfcg4c5ag985cg23b7f7b57722"
 msgid "Cannot regain <LSTag Tooltip=\"HitPoints\">hit points</LSTag>."
-msgstr ""
+msgstr "<LSTag Tooltip=\"HitPoints\">체력</LSTag>을 회복할 수 없습니다."
 
 #. key = Shared_Status_BOOST_WRAITHS_EMBRACE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1485
@@ -39049,7 +39074,7 @@ msgstr "갓 태어난 좀비"
 #: Shared/Public/Shared/Localization/Stats/Status_DEACTIVATED_Description.lsx:8
 msgctxt "ha8616cf9gc838g4a0dga211g1b29d1a1f95c"
 msgid "Character is deactivated."
-msgstr ""
+msgstr "캐릭터가 비활성화되었습니다."
 
 #. key = Shared_Status_DEACTIVATED_DEACTIVATED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_DEACTIVATED_DisplayName.lsx:8
@@ -39075,44 +39100,44 @@ msgctxt "hc495dde6g53a9g4ea3ga02cg849240042739"
 msgid ""
 "This paladin has control over an undead creature. The creature will follow "
 "them and attack their enemies."
-msgstr ""
+msgstr "팔라딘이 언데드 크리쳐를 통제하고 있습니다. 크리쳐는 그를 따를 것이며 적을 함께 공격할 것입니다."
 
 #. key = Shared_Status_EFFECT_CONTROL_UNDEAD_OWNER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:260
 msgctxt "h53077ebbg843eg4fadga972g63ac4d459a49"
 msgid "Controlling Undead"
-msgstr ""
+msgstr "언데드 통제중"
 
 #. key = Shared_Status_EFFECT_EXPLODE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:22
 msgctxt "hb20152afg1ffdg41e3gb1c1ge56ab2f7b892"
 msgid "Explode"
-msgstr ""
+msgstr "폭발"
 
 #. key = Shared_Status_EFFECT_GB_FUGITIVE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_Description.lsx:22
 msgctxt "hd61dfb4ag1d05g4aceg8841g9c5165ea18da"
 msgid ""
 "Recently escaped from prison. Guards will arrest this character on sight."
-msgstr ""
+msgstr "최근에 감옥에서 탈출했습니다. 경비들이 이 캐릭터를 보는 순간 체포할 것입니다."
 
 #. key = Shared_Status_EFFECT_GB_FUGITIVE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:29
 msgctxt "h5299dab1g14f0g43bcg8cb1gba883bad1677"
 msgid "Fugitive"
-msgstr ""
+msgstr "탈옥수"
 
 #. key = Shared_Status_EFFECT_GB_GUARDKILLER_Description
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_Description.lsx:36
 msgctxt "h7ca8abbagf593g4043g9e1fg1a31aca78df2"
 msgid "Wanted for killing a guard. Allied guards will attack on sight."
-msgstr ""
+msgstr "경비대를 죽여 수배되었습니다. 동료 경비들을 만나는 순간 공격당할 것입니다."
 
 #. key = Shared_Status_EFFECT_GB_GUARDKILLER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:155
 msgctxt "ha686248bg819bg48f1g8064g6e8705936851"
 msgid "Enemy of Justice"
-msgstr ""
+msgstr "정의의 적"
 
 #. key = Shared_Status_EFFECT_GB_GUARDKILLER_WITNESS_Description
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_Description.lsx:29
@@ -39120,19 +39145,19 @@ msgctxt "h2854ee7fg6f05g49b3ga80fgfd570f5f498f"
 msgid ""
 "Witnessed the murder of a guard and will report to other guards as soon as "
 "possible."
-msgstr ""
+msgstr "경비대가 살해되는 것을 목격했으며 최대한 빨리 다른 경비대에게 보고할 것입니다."
 
 #. key = Shared_Status_EFFECT_GB_GUARDKILLER_WITNESS_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:148
 msgctxt "h1ba04984gf0abg489ega28dgc51f926d2317"
 msgid "Witness"
-msgstr ""
+msgstr "목격자"
 
 #. key = Shared_Status_EFFECT_ITEM_PUZ_DRUID_RUNE_ACTIVATED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:183
 msgctxt "hf578d810g0b47g4c51g9403g2436b05af044"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Shared_Status_EFFECT_PASSIVE_AGONIZING_BLAST_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:43
@@ -39150,13 +39175,13 @@ msgstr "아가티스의 갑주"
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:64
 msgctxt "h6683044agb8ecg4149gad9bg06a288bd973c"
 msgid "Bane"
-msgstr ""
+msgstr "억압"
 
 #. key = Shared_Status_EFFECT_PASSIVE_BLESS_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:71
 msgctxt "h590f317fg92fcg464bga6efg77ed8fe53e4b"
 msgid "Bless"
-msgstr ""
+msgstr "축복"
 
 #. key = Shared_Status_EFFECT_PASSIVE_DARK_ONES_BLESSING_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:78
@@ -39168,19 +39193,19 @@ msgstr "어두운 것의 축복"
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:176
 msgctxt "hfbc96220gdb07g4ff7gbb33g3c8cc40a1cf7"
 msgid "Defensive Duellist"
-msgstr ""
+msgstr "방어적 결투가"
 
 #. key = Shared_Status_EFFECT_PASSIVE_DISCIPLE_OF_LIFE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:85
 msgctxt "he1d9ad3dgd63bg460dg8f78g52812230929f"
 msgid "Disciple of Life"
-msgstr ""
+msgstr "생명의 사도"
 
 #. key = Shared_Status_EFFECT_PASSIVE_HEX_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:99
 msgctxt "h8a4c5f27g33d6g46bdg9983ge2f8829fa457"
 msgid "Hex"
-msgstr ""
+msgstr "주박"
 
 #. key = Shared_Status_EFFECT_PASSIVE_TRUE_STRIKE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:120
@@ -39192,19 +39217,19 @@ msgstr "진실의 일격"
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:127
 msgctxt "hf8438356gd79ag46fegaea9gabdebf2f4d74"
 msgid "Warding Flare"
-msgstr ""
+msgstr "방호의 불길"
 
 #. key = Shared_Status_EFFECT_REFLECTION_Description
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_Description.lsx:8
 msgctxt "habbcb5cfg8e2dg4b9dg869eg98a6f6610fa3"
 msgid "A party member has something to say."
-msgstr ""
+msgstr "파티 일행이 할 말이 있는 것 같습니다."
 
 #. key = Shared_Status_EFFECT_REFLECTION_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:8
 msgctxt "hff69f73dgf748g4079g9ed9g87ab138900e8"
 msgid "Reflection"
-msgstr ""
+msgstr "반사"
 
 #. key = Shared_Status_EFFECT_WITCH_BOLT_Description
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_Description.lsx:15
@@ -39212,7 +39237,7 @@ msgctxt "h919c207cg5860g40bcg8309g803cf3eef0af"
 msgid ""
 "The spellcaster can activate the arc linking it to this creature to "
 "automatically deal 1d12 Lightning damage."
-msgstr ""
+msgstr "주문시전자가 줄기를 다시 활성화해 자동으로 1d12 번개 피해를 입힐 수 있습니다."
 
 #. key = Shared_Status_EFFECT_WITCH_BOLT_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_EFFECT_DisplayName.lsx:15
@@ -39226,7 +39251,7 @@ msgctxt "h655a79fdg6a09g4fd5g8bf8gf4fc425ce4ee"
 msgid ""
 "Affected entity has to move as far away from the spellcaster by the fastest "
 "available means and can't do anything else."
-msgstr ""
+msgstr "영향을 받은 개체는 주문시전자에게서 최대한 빠르게 멀어지며 다른 행동을 취할 수 없습니다."
 
 #. key = Shared_Status_FEAR_COMMAND_FLEE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_FEAR_DisplayName.lsx:22
@@ -39243,12 +39268,15 @@ msgid ""
 ">Attack Rolls</LSTag>. Must run from the source of its fear, and can't take "
 "any additional actions."
 msgstr ""
+"<LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>과 <LSTag Tooltip=\"AttackRoll\""
+">명중 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다. 두려움의 "
+"대상에게서 멀리 달아나며, 그 이외의 행동은 할 수 없습니다."
 
 #. key = Shared_Status_FEAR_FEARED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_FEAR_DisplayName.lsx:15
 msgctxt "h0ccc63c5g0843g495bg962fg32a4eb78df70"
 msgid "Fearful"
-msgstr ""
+msgstr "두려움"
 
 #. key = Shared_Status_FEAR_TURNED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_FEAR_Description.lsx:8
@@ -39259,30 +39287,33 @@ msgid ""
 "<LSTag Type=\"Spell\" Tooltip=\"Shout_Dash\">Dash</LSTag>, or try to escape "
 "an effect that prevents movement.<br><br>Ends upon taking damage."
 msgstr ""
+"영향을 받은 개체는 자신을 퇴치한 크리쳐에게서 멀어져야 합니다.<br><br>행동, 추가 행동, 또는 반응 행동 모두를 수행할 수 없으며 "
+"<LSTag Type=\"Spell\" Tooltip=\"Shout_Dash\">질주</LSTag>, 또는 움직임을 제약하는 효과에 "
+"대항하기 위한 수단 만을 사용할 수 있습니다.<br><br>피해를 받으면 종료됩니다."
 
 #. key = Shared_Status_FEAR_TURNED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_FEAR_DisplayName.lsx:8
 msgctxt "he853484fg25d4g4cecga473g6c2f9a634579"
 msgid "Turned"
-msgstr ""
+msgstr "퇴치됨"
 
 #. key = Shared_Status_HEAL_HEAL_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_HEAL_DisplayName.lsx:8
 msgctxt "h7437226fg8ac0g4b49gb3eeg96bb2965f2fa"
 msgid "Healing"
-msgstr ""
+msgstr "치유"
 
 #. key = Shared_Status_HEAL_RESURRECT_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_HEAL_DisplayName.lsx:15
 msgctxt "hf6d39c86gd32cg4433ga52dg4058c7ea1737"
 msgid "Resurrected"
-msgstr ""
+msgstr "부활됨"
 
 #. key = Shared_Status_INCAPACITATED_COMMAND_HALT_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:134
 msgctxt "h5f131307g6a1fg4009gb3fdgdf1467f6eef2"
 msgid "Cannot move or take actions, bonus actions, or reactions."
-msgstr ""
+msgstr "행동, 추가 행동, 또는 반응 행동을 취하거나 움직일 수 없습니다."
 
 #. key = Shared_Status_INCAPACITATED_COMMAND_HALT_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:134
@@ -39296,7 +39327,7 @@ msgctxt "h4173dc84g1ce1g4ad2g9d40gc069cb66f43e"
 msgid ""
 "Confused creatures can't control their actions and wander around without "
 "direction."
-msgstr ""
+msgstr "혼란스러운 크리쳐는 자신의 행동을 조절할 수 없으며, 무작위 방향으로 걸어갑니다."
 
 #. key = Shared_Status_INCAPACITATED_CONFUSION_RAY_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:92
@@ -39316,7 +39347,7 @@ msgstr "저주로 인해 내려진 공포에 굴복했습니다. 이동할 수 �
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:141
 msgctxt "h193cd1a2g25c0g4152g9fb4g70453c6663cb"
 msgid "Cursed: Filled with Dread"
-msgstr ""
+msgstr "저주: 두려움으로 가득 참"
 
 #. key = Shared_Status_INCAPACITATED_ENTOMBED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:113
@@ -39325,12 +39356,13 @@ msgid ""
 "Trapped in a spider's web. Can't move or take actions, bonus actions, or "
 "reactions.<br><br>The condition ends upon taking damage."
 msgstr ""
+"거미줄에 갇혔습니다. 움직이거나 행동, 추가 행동, 또는 반응 행동을 취할 수 없습니다.<br><br>피해를 받으면 상태가 종료됩니다."
 
 #. key = Shared_Status_INCAPACITATED_ENTOMBED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:113
 msgctxt "h9b4059cdg4b17g419egbe15gdeef6902d857"
 msgid "Entombed"
-msgstr ""
+msgstr "파묻힘"
 
 #. key = Shared_Status_INCAPACITATED_FEIGN_DEATH_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:99
@@ -39341,18 +39373,21 @@ msgid ""
 "and disease and poison no longer have any effect.<br><br>Removed when <LSTag "
 "Type=\"Spell\" Tooltip=\"Target_Help\">Helped</LSTag>."
 msgstr ""
+"마법적 혼수상태에 깊게 빠져 죽음을 흉내 내고 있습니다.<br><br>정신 피해를 제외한 모든 피해 유형에 <LSTag Tooltip="
+"\"Resistant\">저항</LSTag>을 가지며, 질병 또는 독소의 효과를 받지 않습니다.<br><br><LSTag Type="
+"\"Spell\" Tooltip=\"Target_Help\">도움</LSTag>을 받으면 제거됩니다."
 
 #. key = Shared_Status_INCAPACITATED_FEIGN_DEATH_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:99
 msgctxt "h21877e01g7e89g4d77g8f98gddbdc29056e1"
 msgid "Feigning Death"
-msgstr ""
+msgstr "죽음 가장"
 
 #. key = Shared_Status_INCAPACITATED_FROZEN_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:29
 msgctxt "hdb2fc03egbac3g4142g9972gf2291d9db39d"
 msgid "Frozen"
-msgstr ""
+msgstr "빙결"
 
 #. key = Shared_Status_INCAPACITATED_HALLUCINATION_SPORES_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:71
@@ -39363,12 +39398,15 @@ msgid ""
 "LSTag>, wanders around uncontrollably, and can't take <LSTag Tooltip=\"Action"
 "\">actions</LSTag> or reactions."
 msgstr ""
+"환각을 보고 있습니다. <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 가지고, 무작위 방향으로 돌아다니며, <LSTag Tooltip=\"Action\""
+">행동 </LSTag>또는 반응 행동을 할 수 없습니다."
 
 #. key = Shared_Status_INCAPACITATED_HALLUCINATION_SPORES_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:64
 msgctxt "h9a8de172g43f8g47b9g9077gde02c935c522"
 msgid "Hallucinating"
-msgstr ""
+msgstr "환각"
 
 #. key = Shared_Status_INCAPACITATED_HASTE_LETHARGY_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:57
@@ -39385,7 +39423,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:78
 msgctxt "hf2177bbeg4e6cg4084gbea5gf16531708c4c"
 msgid "Lethargic"
-msgstr ""
+msgstr "무기력"
 
 #. key = Shared_Status_INCAPACITATED_HOLD_PERSON_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:64
@@ -39395,12 +39433,14 @@ msgid ""
 "\"SavingThrow\">Saving Throw</LSTag>. On a successful save, the Condition is "
 "removed."
 msgstr ""
+"마비되었습니다. 매 턴 종료 시, 지혜 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>을 수행합니다. "
+"굴림에 성공하면, 상태가 제거됩니다."
 
 #. key = Shared_Status_INCAPACITATED_HOLD_PERSON_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:22
 msgctxt "h4610a9c8g1b5bg4eacgba74gc6d4a22be869"
 msgid "Hold Person"
-msgstr ""
+msgstr "인간형 포박"
 
 #. key = Shared_Status_INCAPACITATED_HYPNOTIC_PATTERN_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:106
@@ -39410,12 +39450,14 @@ msgid ""
 "taking damage or when <LSTag Type=\"Spell\" Tooltip=\"Target_Help\""
 ">Helped</LSTag>."
 msgstr ""
+"움직이거나 행동, 추가 행동, 또는 반응 행동을 수행할 수 없습니다. <br><br>피해를 입거나 <LSTag Type=\"Spell\" "
+"Tooltip=\"Target_Help\">도움</LSTag>을 받으면 제거됩니다."
 
 #. key = Shared_Status_INCAPACITATED_HYPNOTIC_PATTERN_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:106
 msgctxt "h794977bag3041g49b7g9c5aga289b65b3008"
 msgid "Hypnotised"
-msgstr ""
+msgstr "최면"
 
 #. key = Shared_Status_INCAPACITATED_KNOCKED_OUT_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:8
@@ -39431,13 +39473,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:8
 msgctxt "hb56f1ec1gf725g4a31gaa13gcf1c295b853d"
 msgid "Knocked Out"
-msgstr ""
+msgstr "의식을 잃음"
 
 #. key = Shared_Status_INCAPACITATED_LIE_DYING_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:57
 msgctxt "h31122027ga88eg4eccg8c6bg8938accdbe10"
 msgid "Dying"
-msgstr ""
+msgstr "빈사"
 
 #. key = Shared_Status_INCAPACITATED_PACIFYING_SPORES_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:78
@@ -39449,7 +39491,7 @@ msgstr "무력화 되었습니다. 이동할 수 없고 행동, 추가 행동, �
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:85
 msgctxt "he156eebege648g4294g894cgf3b7da763f60"
 msgid "Pacified"
-msgstr ""
+msgstr "진정"
 
 #. key = Shared_Status_INCAPACITATED_PARALYZED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:50
@@ -39461,7 +39503,7 @@ msgstr "이동할 수 없고 행동, 추가 행동, 반응 행동을 취할 수 
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:71
 msgctxt "h615e3474g181eg497cg896eg9efbe5677c92"
 msgid "Paralysed"
-msgstr ""
+msgstr "마비"
 
 #. key = Shared_Status_INCAPACITATED_PARALYZED_SPECTATOR_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:92
@@ -39480,7 +39522,7 @@ msgstr "돌이 되었습니다. 이동할 수 없고 행동, 추가 행동, 반�
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:36
 msgctxt "h379c1982g64e9g48d8gbd09g3850cdd24c22"
 msgid "Petrified"
-msgstr ""
+msgstr "석화됨"
 
 #. key = Shared_Status_INCAPACITATED_SLEEPING_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:43
@@ -39495,6 +39537,11 @@ msgid ""
 "by taking damage or when <LSTag Type=\"Spell\" Tooltip=\"Target_Help\""
 ">Helped</LSTag>."
 msgstr ""
+"수면 중인 크리쳐는 움직이거나 행동할 수 없습니다.<br><br>또한, 해당 크리쳐는 자동으로 근력과 민첩 <LSTag Tooltip="
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하고, 대상을 향한 <LSTag Tooltip=\"AttackRoll\">명중 "
+"굴림</LSTag>은 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가지며, [1] 내의 적의 공격이 적중하면 "
+"모두 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>가 됩니다. <br><br>피해를 입거나 <LSTag "
+"Type=\"Spell\" Tooltip=\"Target_Help\">도움</LSTag>을 받으면 제거됩니다."
 
 #. key = Shared_Status_INCAPACITATED_SLEEPING_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:50
@@ -39518,7 +39565,7 @@ msgstr "기절"
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_Description.lsx:15
 msgctxt "hf8f7c67bg8df2g459dg8d8fgec36d6615989"
 msgid "Creature has surrendered."
-msgstr ""
+msgstr "크리쳐가 굴복했습니다."
 
 #. key = Shared_Status_INCAPACITATED_SURRENDERED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INCAPACITATED_DisplayName.lsx:15
@@ -39536,12 +39583,15 @@ msgid ""
 "early if the invisible entity attacks, casts another spell, takes an action, "
 "or takes damage."
 msgstr ""
+"<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 가지며 적의 명중 굴림에는 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 "
+"부여합니다. <br><Br>투명화된 개체가 공격하거나, 다른 주문을 시전하거나, 행동을 취하거나, 피해를 입으면 상태가 일찍 종료됩니다."
 
 #. key = Shared_Status_INVISIBLE_INVISIBILITY_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INVISIBLE_DisplayName.lsx:15
 msgctxt "h8d8bf77cg9365g4f6eg920ag4ee1d1cdcfbd"
 msgid "Invisible"
-msgstr ""
+msgstr "투명"
 
 #. key = Shared_Status_INVISIBLE_INVISIBLE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_INVISIBLE_Description.lsx:8
@@ -39553,12 +39603,15 @@ msgid ""
 "early if the invisible entity attacks, casts another spell, takes an action, "
 "or takes damage."
 msgstr ""
+"<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 가지며 적의 명중 굴림에는 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 "
+"부여합니다. <br><Br>투명화된 개체가 공격하거나, 다른 주문을 시전하거나, 행동을 취하거나, 피해를 입으면 상태가 일찍 종료됩니다."
 
 #. key = Shared_Status_INVISIBLE_INVISIBLE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_INVISIBLE_DisplayName.lsx:8
 msgctxt "hfbb59857g081eg4da0gbcf0gaa2432cd7a28"
 msgid "Invisible"
-msgstr ""
+msgstr "투명"
 
 #. key = Shared_Status_KNOCKED_DOWN_COMMAND_GROVEL_Description
 #: Shared/Public/Shared/Localization/Stats/Status_KNOCKED_DOWN_Description.lsx:36
@@ -39604,19 +39657,19 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_KNOCKED_DOWN_DisplayName.lsx:22
 msgctxt "hb18da1a5gff82g4024g9705g6f4aebde3363"
 msgid "Hideous Laughter"
-msgstr ""
+msgstr "끔찍한 웃음"
 
 #. key = Shared_Status_KNOCKED_DOWN_KNOCKED_DOWN_Description
 #: Shared/Public/Shared/Localization/Stats/Status_KNOCKED_DOWN_Description.lsx:15
 msgctxt "h298b5d12g6aa4g4a9fgb2c4g414954e99490"
 msgid "Character is knocked down and cannot act."
-msgstr ""
+msgstr "캐릭터가 넘어져 행동을 취할 수 없습니다."
 
 #. key = Shared_Status_KNOCKED_DOWN_KNOCKED_DOWN_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_KNOCKED_DOWN_DisplayName.lsx:15
 msgctxt "hfba6780fgc9e9g4271g8b98g46884bf56443"
 msgid "Knocked Down"
-msgstr ""
+msgstr "넘어짐"
 
 #. key = Shared_Status_KNOCKED_DOWN_PRONE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_KNOCKED_DOWN_Description.lsx:8
@@ -39652,25 +39705,25 @@ msgstr "충격파"
 #: Shared/Public/Shared/Localization/Stats/Status_KNOCKED_DOWN_Description.lsx:29
 msgctxt "h708122bfg9e3ag4fecga3d2g9f577ab262d5"
 msgid "Character is unconscious."
-msgstr ""
+msgstr "캐릭터가 의식불명 상태에 빠졌습니다."
 
 #. key = Shared_Status_KNOCKED_DOWN_UNCONSCIOUS_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_KNOCKED_DOWN_DisplayName.lsx:29
 msgctxt "he648fc45g6082g461cgb940g128699ad2b30"
 msgid "Unconscious"
-msgstr ""
+msgstr "의식불명"
 
 #. key = Shared_Status_POLYMORPHED_ABERRANT_SHAPE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:8
 msgctxt "h5b85afacg7f2ag4f1dgbcd0g38eef781cb24"
 msgid "Aberrant Shape"
-msgstr ""
+msgstr "괴이한 형상"
 
 #. key = Shared_Status_POLYMORPHED_ALTER_SELF_DROW_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:120
 msgctxt "hce73f32eg58dbg4cc2g8e03g8b4c4726a73b"
 msgid "Drow Form"
-msgstr ""
+msgstr "드로우 형상"
 
 #. key = Shared_Status_POLYMORPHED_DEAD_WILL_O_WISP_Description
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_Description.lsx:22
@@ -39678,25 +39731,25 @@ msgctxt "hcb712106geee9g4e30ga968g47b704068b96"
 msgid ""
 "While this companion's body is gone, their soul lingers on and can be used "
 "to resurrect them."
-msgstr ""
+msgstr "비록 동료의 신체는 사라졌지만, 그 영혼은 남아 있어 이를 통해 부활시킬 수 있습니다."
 
 #. key = Shared_Status_POLYMORPHED_DEAD_WILL_O_WISP_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:190
 msgctxt "hbd1b024eg3737g4dfag85b3g2ff9333bdca2"
 msgid "Soul Echo"
-msgstr ""
+msgstr "영혼 메아리"
 
 #. key = Shared_Status_POLYMORPHED_DISGUISE_SELF_TIEFLING_MALE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_Description.lsx:8
 msgctxt "haaa21742gad59g4e25g8687g2265bcce179c"
 msgid "Appearance is entirely changed."
-msgstr ""
+msgstr "외형이 완전히 바뀌었습니다."
 
 #. key = Shared_Status_POLYMORPHED_DISGUISE_SELF_TIEFLING_MALE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:113
 msgctxt "hcbe71694g9436g4eebga502gc96a336d74d2"
 msgid "Disguise Self"
-msgstr ""
+msgstr "자기 위장"
 
 #. key = Shared_Status_POLYMORPHED_GASEOUS_FORM_Description
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_Description.lsx:29
@@ -39708,18 +39761,22 @@ msgid ""
 "\"SavingThrow\">Saving Throws</LSTag>, and is tiny in size.<br><br>Can't "
 "attack, cast spells, or talk. "
 msgstr ""
+"안개 구름으로 변신했습니다.<br><br>모든 피해 유형에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 "
+"가지고, 건강, 민첩과 근력 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 가지며, 소형으로 취급됩니다.<br><br>공격, 주문 시전, 또는 대화를 할 수 "
+"없습니다. "
 
 #. key = Shared_Status_POLYMORPHED_GASEOUS_FORM_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:197
 msgctxt "hb245b5f0gab6fg4a4cgbf62g80326dc2dfb3"
 msgid "Gaseous Form"
-msgstr ""
+msgstr "가스 형상"
 
 #. key = Shared_Status_POLYMORPHED_POTION_OF_SHRINKING_Description
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_Description.lsx:15
 msgctxt "h47d85ef5g20acg496bg95f4gc01406ee1afd"
 msgid "Size reduced for one minute."
-msgstr ""
+msgstr "1 분 동안 크기가 줄어듭니다."
 
 #. key = Shared_Status_POLYMORPHED_POTION_OF_SHRINKING_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:134
@@ -39731,7 +39788,7 @@ msgstr "축소의 물약"
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:141
 msgctxt "hf3819c45gdc8dg48dbg95b7g79e9572b6d30"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_BADGER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:15
@@ -39809,7 +39866,7 @@ msgstr "야생 형상: 거미"
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:176
 msgctxt "hdd48fee7g5d60g4a9dga06fgb7b87aab83be"
 msgid "EMPTY"
-msgstr ""
+msgstr "EMPTY"
 
 #. key = Shared_Status_POLYMORPHED_WILDSHAPE_RAT_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_POLYMORPHED_DisplayName.lsx:57
@@ -39861,72 +39918,74 @@ msgid ""
 "Tooltip=\"Advantage\">Advantage</LSTag> on all <LSTag Tooltip=\"AttackRoll\""
 ">Attack Rolls</LSTag>."
 msgstr ""
+"적의 시야 범위를 지나지 않으면 들키지 않습니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 "
+"<LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Status_SNEAKING_SNEAKING_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_SNEAKING_DisplayName.lsx:8
 msgctxt "h41e20c69g16b4g4081g913eg7cd8a183bcb4"
 msgid "Hiding"
-msgstr ""
+msgstr "숨음"
 
 #. key = Shared_Target_AnimalFriendship_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:435
 msgctxt "hd15e09ecgf934g4095g91d7g7bfd8f51104d"
 msgid "Charm a beast and convince it not to attack you."
-msgstr ""
+msgstr "야수를 매혹해 자신을 공격하지 않도록 만듭니다."
 
 #. key = Shared_Target_AnimalFriendship_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:435
 msgctxt "he9379e7fgb429g4b20g8836g44d5741d7be1"
 msgid "Animal Friendship"
-msgstr ""
+msgstr "동물의 친구"
 
 #. key = Shared_Target_AnimateDead_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1709
 msgctxt "h80a04053gcf68g44afgab5bg5ad5a05a0969"
 msgid "Animate a corpse to create an undead servant while not in combat."
-msgstr ""
+msgstr "전투 중이 아닐 때 시체에 생기를 불어넣어 언데드 하수인을 생성합니다."
 
 #. key = Shared_Target_AnimateDead_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1758
 msgctxt "h142f3203g1c23g4848g9cffgd6bce15b3e12"
 msgid "Animate Dead"
-msgstr ""
+msgstr "시체 되살리기"
 
 #. key = Shared_Target_AnimateDead_NPC_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1471
 msgctxt "hd72ba7d0g8551g4c39g83d7g993ba414fc6e"
 msgid "Animate a pile of bones or a corpse to serve you."
-msgstr ""
+msgstr "뼈무더기나 시체에 생기를 불어넣어 자신을 따르게 합니다."
 
 #. key = Shared_Target_AnimateDead_NPC_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1527
 msgctxt "h199ffcadg1070g40f1gb6fbg68992210073c"
 msgid "Animate Dead"
-msgstr ""
+msgstr "시체 되살리기"
 
 #. key = Shared_Target_AnimateDead_Skeleton_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1716
 msgctxt "hd318647eg6e50g44e3gb377gabe8d52b16ee"
 msgid "Create a skeleton that specialises in ranged combat."
-msgstr ""
+msgstr "원거리 공격에 특화된 해골을 만듭니다."
 
 #. key = Shared_Target_AnimateDead_Skeleton_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1765
 msgctxt "hc4717e28g2a6bg4b98gbffdg32cac36f5712"
 msgid "Animate Dead: Skeleton"
-msgstr ""
+msgstr "시체 되살리기: 해골"
 
 #. key = Shared_Target_AnimateDead_Zombie_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1723
 msgctxt "h6ff1bbadg50f2g4538g8b8bg9ef821785683"
 msgid "Create a zombie that specialises in melee combat."
-msgstr ""
+msgstr "근접 전투에 특화된 좀비를 생성합니다."
 
 #. key = Shared_Target_AnimateDead_Zombie_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1772
 msgctxt "h8142e3d2g1a6eg4d91gb958g4e299f57b93b"
 msgid "Animate Dead: Zombie"
-msgstr ""
+msgstr "시체 되살리기: 좀비"
 
 #. key = Shared_Target_AnimatingSpores_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1058
@@ -39934,13 +39993,13 @@ msgctxt "ha60a7c3ag8b2fg4216gb9edgd84feab37c59"
 msgid ""
 "Release spores at a corpse to animate it as a spore servant under your "
 "command. "
-msgstr ""
+msgstr "시체에 포자를 통해 생기를 불어넣어 명령을 따르는 포자 하수인을 생성합니다. "
 
 #. key = Shared_Target_AnimatingSpores_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1086
 msgctxt "hcf4a0bb2g9d26g4d3bg97bcg8b9a79d67cd6"
 msgid "Animating Spores"
-msgstr ""
+msgstr "포자 되살리기"
 
 #. key = Shared_Target_Bane_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:442
@@ -39950,12 +40009,14 @@ msgid ""
 "\"AttackRoll\">Attack Rolls</LSTag> and <LSTag Tooltip=\"SavingThrow\""
 ">Saving Throws</LSTag>."
 msgstr ""
+"최대 [2] 명의 크리쳐를 대상으로 삼습니다. 대상은 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 -[1] 페널티를 부여받습니다."
 
 #. key = Shared_Target_Bane_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:442
 msgctxt "hb9417301ga5c4g46f6ga704g5476a6a24fe0"
 msgid "Bane"
-msgstr ""
+msgstr "억압"
 
 #. key = Shared_Target_Bane_ShortDescription
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:29
@@ -39963,26 +40024,26 @@ msgctxt "hc2dfa865g27d7g4463gb8e1ga163cc1bebc3"
 msgid ""
 "Target up to [1] creatures. Their chance to hit decreases, and they become "
 "worse at evading some spells and attacks."
-msgstr ""
+msgstr "최대 [1] 명의 크리쳐를 대상으로 삼습니다. 대상의 피격 확률이 상승하며, 특정 주문과 공격을 회피하기 어려워집니다."
 
 #. key = Shared_Target_Bane_ThiefOfFiveFates_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:449
 msgctxt "h43641a93g1462g4efag8163g96c96bfcca9a"
 msgid "Invocation: Bane"
-msgstr ""
+msgstr "기원: 억압"
 
 #. key = Shared_Target_BardicInspiration_Combat_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1653
 msgctxt "h69581877gf9c5g4250g8ff7g491e83e34177"
 msgid ""
 "Inspire an ally with your valour to go above and beyond their capabilities."
-msgstr ""
+msgstr "자신의 용기로 아군에게 고양감을 심어줘 그들의 한계를 뛰어넘게 해줍니다."
 
 #. key = Shared_Target_BardicInspiration_Combat_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1709
 msgctxt "h25beb4b1ge268g4d1dg9440g62bfc37e5266"
 msgid "Combat Inspiration"
-msgstr ""
+msgstr "전투 격려"
 
 #. key = Shared_Target_BardicInspiration_Combat_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:344
@@ -39994,12 +40055,16 @@ msgid ""
 "choose to add a +[1] bonus to the damage their next weapon attack deals, or "
 "to their <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> for one attack."
 msgstr ""
+"다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip=\"AbilityCheck"
+"\">능력치 판정</LSTag>, 또는 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +[1] "
+"보너스를 더할 수 있습니다. <br><br>또한 다음 무기 공격 또는, 한 번의 공격에 대해 <LSTag Tooltip="
+"\"ArmourClass\">방어도</LSTag> 에 +[1] 보너스를 더할 수 있습니다."
 
 #. key = Shared_Target_BardicInspiration_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1646
 msgctxt "hb2e60320g20ebg4a60gb572g098b49a5c544"
 msgid "Inspire an ally to go beyond their capabilities with your performance. "
-msgstr ""
+msgstr "멋진 공연으로 아군 한 명이 자신의 한계를 뛰어넘도록 고무합니다. "
 
 #. key = Shared_Target_BardicInspiration_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1702
@@ -40015,6 +40080,9 @@ msgid ""
 "Roll</LSTag>, <LSTag Tooltip=\"AbilityCheck\">Ability Check</LSTag>, or "
 "<LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag>."
 msgstr ""
+"다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip=\"AbilityCheck"
+"\">능력치 판정</LSTag>, 또는 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +[1] "
+"보너스를 더할 수 있습니다."
 
 #. key = Shared_Target_Barkskin_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:204
@@ -40023,12 +40091,13 @@ msgid ""
 "Touch a willing creature to toughen its skin and increase its <LSTag Tooltip="
 "\"ArmourClass\">Armour Class</LSTag> up to 16."
 msgstr ""
+"크리쳐에 접촉해 피부를 강화하여 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>를 16 으로 증가시킵니다."
 
 #. key = Shared_Target_Barkskin_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:211
 msgctxt "h7184d499g1008g4665g8f46gcef29202e902"
 msgid "Barkskin"
-msgstr ""
+msgstr "나무껍질"
 
 #. key = Shared_Target_Bash_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:85
@@ -40037,24 +40106,25 @@ msgid ""
 "Bash your shield against a target to knock it <LSTag Type=\"Status\" Tooltip="
 "\"PRONE\">Prone</LSTag>."
 msgstr ""
+"방패로 대상을 강타해 <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎어짐</LSTag> 상태로 만듭니다."
 
 #. key = Shared_Target_Bash_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:85
 msgctxt "hcda66a1fgc07bg428ega1e6g1492143c9d7d"
 msgid "Bash"
-msgstr ""
+msgstr "강타"
 
 #. key = Shared_Target_Beak_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1065
 msgctxt "h30d70086ge8dfg45f3g8b62ged3bfcb0650e"
 msgid "Peck at a target."
-msgstr ""
+msgstr "대상을 쫍니다."
 
 #. key = Shared_Target_Beak_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1093
 msgctxt "he9d8e2dfgcab7g4b56g9e6bg0d641c1b5b04"
 msgid "Beak Attack"
-msgstr ""
+msgstr "부리 공격"
 
 #. key = Shared_Target_BestowCurse_Ability_Charisma_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1786
@@ -40064,12 +40134,15 @@ msgid ""
 ">Disadvantage</LSTag> on Charisma <LSTag Tooltip=\"AbilityCheck\">Checks</"
 "LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"손길로 크리쳐에게 저주를 내립니다. 대상은 매력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Target_BestowCurse_Ability_Charisma_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1835
 msgctxt "h88231031g6f5dg4ea9g85d1gbc291a0bc16d"
 msgid "Bestow Curse: Charisma Disadvantage"
-msgstr ""
+msgstr "저주 부여: 매력 불리점"
 
 #. key = Shared_Target_BestowCurse_Ability_Constitution_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1765
@@ -40079,12 +40152,15 @@ msgid ""
 ">Disadvantage</LSTag> on Constitution <LSTag Tooltip=\"AbilityCheck\""
 ">Checks</LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"손길로 크리쳐에게 저주를 내립니다. 대상은 건강 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Target_BestowCurse_Ability_Constitution_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1814
 msgctxt "hb377ae53g1458g4af9ga900gfc60b222e0a8"
 msgid "Bestow Curse: Constitution Disadvantage"
-msgstr ""
+msgstr "저주 부여: 건강 불리점"
 
 #. key = Shared_Target_BestowCurse_Ability_Dexterity_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1758
@@ -40094,12 +40170,15 @@ msgid ""
 ">Disadvantage</LSTag> on Dexterity <LSTag Tooltip=\"AbilityCheck\">Checks</"
 "LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"손길로 크리쳐에게 저주를 내립니다. 대상은 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Target_BestowCurse_Ability_Dexterity_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1807
 msgctxt "hf0ae7cc2g04fcg415dg9c0cge4035a952e8d"
 msgid "Bestow Curse: Dexterity Disadvantage"
-msgstr ""
+msgstr "저주 부여: 민첩 불리점"
 
 #. key = Shared_Target_BestowCurse_Ability_Intelligence_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1772
@@ -40109,12 +40188,15 @@ msgid ""
 ">Disadvantage</LSTag> on Intelligence <LSTag Tooltip=\"AbilityCheck\""
 ">Checks</LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"손길로 크리쳐에게 저주를 내립니다. 대상은 지능 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Target_BestowCurse_Ability_Intelligence_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1821
 msgctxt "heade4100g7f83g437fg9665g56bcecad3be0"
 msgid "Bestow Curse: Intelligence Disadvantage"
-msgstr ""
+msgstr "저주 부여: 지능 불리점"
 
 #. key = Shared_Target_BestowCurse_Ability_Strength_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1751
@@ -40124,12 +40206,15 @@ msgid ""
 ">Disadvantage</LSTag> on Strength <LSTag Tooltip=\"AbilityCheck\">Checks</"
 "LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"손길로 크리쳐에게 저주를 내립니다. 대상은 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Target_BestowCurse_Ability_Strength_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1800
 msgctxt "h847c8776gf121g48f6g9d3fg65ec1b04f267"
 msgid "Bestow Curse: Strength Disadvantage"
-msgstr ""
+msgstr "저주 부여: 근력 불리점"
 
 #. key = Shared_Target_BestowCurse_Ability_Wisdom_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1779
@@ -40139,12 +40224,15 @@ msgid ""
 ">Disadvantage</LSTag> on Wisdom <LSTag Tooltip=\"AbilityCheck\">Checks</"
 "LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"손길로 크리쳐에게 저주를 내립니다. 대상은 지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Target_BestowCurse_Ability_Wisdom_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1828
 msgctxt "h4c28b84egcaf2g4903g865eg05003b984a29"
 msgid "Bestow Curse: Wisdom Disadvantage"
-msgstr ""
+msgstr "저주 부여: 지혜 불리점"
 
 #. key = Shared_Target_BestowCurse_Attack_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1793
@@ -40154,24 +40242,26 @@ msgid ""
 ">Disadvantage</LSTag> on <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> "
 "against you."
 msgstr ""
+"손길로 크리쳐에게 저주를 내립니다. 대상은 당신을 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 "
+"<LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Target_BestowCurse_Attack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1842
 msgctxt "hee1ad87dg6f2ag469fgb83bg6610bde14095"
 msgid "Bestow Curse: Attack Disadvantage"
-msgstr ""
+msgstr "저주 부여: 명중 불리점"
 
 #. key = Shared_Target_BestowCurse_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1744
 msgctxt "h06e352fbgf48dg4652gbc65gbd5eb6ec2b89"
 msgid "Curse a creature with your touch."
-msgstr ""
+msgstr "손길로 크리쳐에게 저주를 내립니다."
 
 #. key = Shared_Target_BestowCurse_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1793
 msgctxt "hd26109ecg32abg4f76ga7a3gd995e04addbf"
 msgid "Bestow Curse"
-msgstr ""
+msgstr "저주 부여"
 
 #. key = Shared_Target_BestowCurse_ExtraDamage_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1800
@@ -40179,13 +40269,13 @@ msgctxt "h2c58f9ebga313g47ffgbe6dgb8a67db0cd8c"
 msgid ""
 "Curse a creature with your touch. Your attacks and spells deal an additional "
 "[1] to the target."
-msgstr ""
+msgstr "손길로 크리쳐에게 저주를 내립니다. 대상을 향한 자신의 공격과 주문은 [1] 를 추가로 가합니다."
 
 #. key = Shared_Target_BestowCurse_ExtraDamage_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1849
 msgctxt "h504a8312gf614g46a7gbfcfg9d95eb64b2bb"
 msgid "Bestow Curse: Additional Damage"
-msgstr ""
+msgstr "저주 부여: 추가 피해"
 
 #. key = Shared_Target_BestowCurse_SkipTurn_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1807
@@ -40193,31 +40283,31 @@ msgctxt "hb1c1ad8fg363ag48d3g9720g0d15c1ea36d7"
 msgid ""
 "Curse a creature with your touch. It fills with dread, possibly skipping its "
 "turn."
-msgstr ""
+msgstr "손길로 크리쳐에게 저주를 내립니다. 대상은 두려움으로 가득 차 본인의 턴을 건너뛸 수도 있습니다."
 
 #. key = Shared_Target_BestowCurse_SkipTurn_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1856
 msgctxt "h86a84923g3d41g4038gae1eg827699acc83b"
 msgid "Bestow Curse: Dread"
-msgstr ""
+msgstr "저주 부여: 두려움"
 
 #. key = Shared_Target_Bite_Bulette_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1079
 msgctxt "h0fb03eb2g9802g4452ga838gf9c45799108e"
 msgid "Bite a target and possibly push it back [1]."
-msgstr ""
+msgstr "대상을 물어 [1] 멀리 밀어낼 수 있습니다."
 
 #. key = Shared_Target_Bite_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1072
 msgctxt "h00cdf585g3af2g4d9fg8c80gefabb5ea1c1a"
 msgid "Bite a target."
-msgstr ""
+msgstr "대상을 뭅니다."
 
 #. key = Shared_Target_Bite_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1100
 msgctxt "h7d861186gcc5bg4fffgbac6gfca9fb4a27e3"
 msgid "Bite"
-msgstr ""
+msgstr "물기"
 
 #. key = Shared_Target_Bite_GiantSpider_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1086
@@ -40226,42 +40316,43 @@ msgid ""
 "Bite a target and possibly <LSTag Type=\"Status\" Tooltip=\"POISONED\""
 ">Poison</LSTag> it."
 msgstr ""
+"대상을 물어 <LSTag Type=\"Status\" Tooltip=\"POISONED\">중독</LSTag> 상태로 만들 수 있습니다."
 
 #. key = Shared_Target_Bite_GiantSpider_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1107
 msgctxt "h47c2879cg3724g4181g92a4gd5a20e570d62"
 msgid "Venomous Bite"
-msgstr ""
+msgstr "맹독 이빨"
 
 #. key = Shared_Target_Bite_Gnoll_Fang_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1107
 msgctxt "hf230d3eeg86c9g41c5g8a6agbfb431165558"
 msgid "Bite a target. "
-msgstr ""
+msgstr "대상을 뭅니다. "
 
 #. key = Shared_Target_Bite_Gnoll_Fang_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1121
 msgctxt "ha86fe589gf68dg4c99gb1f4g7024d059a6a5"
 msgid "Demonic Bite"
-msgstr ""
+msgstr "악마의 이빨"
 
 #. key = Shared_Target_Bite_Gnoll_Fang_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:330
 msgctxt "h670c8dacg7454g4981g8fd3g74d415f12041"
 msgid "Deals [1] and possibly exudes a demonic energy that deals [2]."
-msgstr ""
+msgstr "[1] 을 가하고 [2] 를 가하는 악마적 에너지를 불어넣을 수 있습니다."
 
 #. key = Shared_Target_Bite_Mimic_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1569
 msgctxt "h3c00869fga5c9g4696g935cgea358117331e"
 msgid "Bite a target and possibly swallow its weapon."
-msgstr ""
+msgstr "대상을 물어 사용 중인 무기를 삼켜버릴 수 있습니다."
 
 #. key = Shared_Target_Bite_Mimic_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1625
 msgctxt "hcd6b5e83gb22fg4c8eg93aegb0cc17a2d713"
 msgid "Bite"
-msgstr ""
+msgstr "물기"
 
 #. key = Shared_Target_Bite_PhaseSpider_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1093
@@ -40270,18 +40361,19 @@ msgid ""
 "Bite a target to and possibly <LSTag Type=\"Status\" Tooltip=\"POISONED\""
 ">Poison</LSTag> it."
 msgstr ""
+"대상을 물어 <LSTag Type=\"Status\" Tooltip=\"POISONED\">중독</LSTag> 상태로 만들 수 있습니다."
 
 #. key = Shared_Target_Bite_PhaseSpider_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:176
 msgctxt "h183358d8g94fdg4940g82cdg96791ac2c5ed"
 msgid "Deals [1] and [2], and possibly injects a venom that deals [3]."
-msgstr ""
+msgstr "[1] 과 [2] 를 가하고, [3] 를 가하는 독소를 주입할 수 있습니다."
 
 #. key = Shared_Target_Bite_PhaseSpider_Queen_ExtraAttack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1114
 msgctxt "h27cb2863g1d72g4f30g959eg648ab7c1188c"
 msgid "Venomous Bite (Multiattack)"
-msgstr ""
+msgstr "맹독 이빨 (다중공격)"
 
 #. key = Shared_Target_Bite_Rat_Summon_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1114
@@ -40289,25 +40381,25 @@ msgctxt "h1d55ea42ga4bdg4da5g9a26gafcdb4035a2b"
 msgid ""
 "Bite a creature and <LSTag Type=\"Status\" Tooltip=\"RAT_INFECTED\">Infect</"
 "LSTag> it."
-msgstr ""
+msgstr "크리쳐를 물어 <LSTag Type=\"Status\" Tooltip=\"RAT_INFECTED\">감염</LSTag>시킵니다."
 
 #. key = Shared_Target_Bite_Rat_Summon_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1128
 msgctxt "h0b56ac5bgab28g4e37g8629gb827140b1ee7"
 msgid "Infectuous Bite"
-msgstr ""
+msgstr "감염성 이빨"
 
 #. key = Shared_Target_Bite_TinySpider_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1100
 msgctxt "h7e3de481g7fcag4d13g953bgcd9ca73846fc"
 msgid "Bite a target. "
-msgstr ""
+msgstr "대상을 뭅니다. "
 
 #. key = Shared_Target_Bite_TinySpider_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:323
 msgctxt "h8fa923ccge465g49b8g833cgeddd0954dbf6"
 msgid "Deals [1] and possibly deals an additional [2]."
-msgstr ""
+msgstr "[1] 를 가하고 추가로 [2] 를 가할 수 있습니다."
 
 #. key = Shared_Target_Bite_Wolf_Dire_Wildshape_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1128
@@ -40317,12 +40409,14 @@ msgid ""
 "against the target from within [1] will be a <LSTag Tooltip=\"CriticalHit\""
 ">Critical Hit</LSTag>."
 msgstr ""
+"대상을 햘퀴어 주의를 분산시킵니다. 공격이 적중하면, 대상 [1] 내에서 가하는 다음 공격은 <LSTag Tooltip="
+"\"CriticalHit\">치명타</LSTag>가 됩니다."
 
 #. key = Shared_Target_Bite_Wolf_Dire_Wildshape_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1135
 msgctxt "h83163ccdg4921g44d0g9254g940cc93262e5"
 msgid "Exposing Bite"
-msgstr ""
+msgstr "노출시키는 이빨"
 
 #. key = Shared_Target_Bite_Wolf_Summon_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1121
@@ -40331,12 +40425,14 @@ msgid ""
 "Lunge at a target to bite it and possibly knock it <LSTag Type=\"Status\" "
 "Tooltip=\"PRONE\">Prone</LSTag>."
 msgstr ""
+"대상에게 달려든 뒤 물고 넘어뜨려 <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎어짐</LSTag> 상태로 "
+"만들 수 있습니다."
 
 #. key = Shared_Target_Bite_Wolf_Summon_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1534
 msgctxt "h89071fadga71eg4e74gb33agcc8869efdda4"
 msgid "Lunging Bite"
-msgstr ""
+msgstr "달려드는 이빨"
 
 #. key = Shared_Target_Bless_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:449
@@ -40346,12 +40442,14 @@ msgid ""
 "\"AttackRoll\">Attack Rolls</LSTag> and <LSTag Tooltip=\"SavingThrow\""
 ">Saving Throws</LSTag>."
 msgstr ""
+"최대 [2] 명의 크리쳐에게 축복을 내립니다. 그들은 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +[1] 보너스를 얻습니다."
 
 #. key = Shared_Target_Bless_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:456
 msgctxt "h5e4879efge133g47eaga38bg2a15c73284f4"
 msgid "Bless"
-msgstr ""
+msgstr "축복"
 
 #. key = Shared_Target_Bless_ShortDescription
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:22
@@ -40359,7 +40457,7 @@ msgctxt "hddd62583gca51g45ebgad95gf7452d979820"
 msgid ""
 "Bless up to [1] creatures. Their chance to hit increases, and they become "
 "better at evading some spells and attacks."
-msgstr ""
+msgstr "최대 [1] 명의 크리쳐를 축복합니다. 그들의 명중률이 상승하고, 주문이나 공격을 회피할 확률이 증가합니다."
 
 #. key = Shared_Target_BlessingOfTheTrickster_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:211
@@ -40368,30 +40466,32 @@ msgid ""
 "Grant another creature <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on "
 "Stealth <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"다른 크리쳐의 은신 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_BlessingOfTheTrickster_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:218
 msgctxt "hae3fe1d9geac1g4c8bga1ceg4c711da0beba"
 msgid "Blessing of the Trickster"
-msgstr ""
+msgstr "트릭스터의 축복"
 
 #. key = Shared_Target_Blindness_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:456
 msgctxt "h95893af3ge140g42bagbea4ga049ca36db45"
 msgid "Magically blind an enemy creature."
-msgstr ""
+msgstr "적대적 크리쳐를 실명시킵니다."
 
 #. key = Shared_Target_Blindness_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:463
 msgctxt "h20eb5d03g4ecag4090g87c8gb62579a95526"
 msgid "Blindness"
-msgstr ""
+msgstr "실명"
 
 #. key = Shared_Target_BloodFest_Gnoll_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1142
 msgctxt "h84e6c72bgc32bg4ecbgb9b1g0f50f039191f"
 msgid "Gorge on a corpse of the fallen to regain hit points."
-msgstr ""
+msgstr "시체를 탐닉해 체력을 회복합니다."
 
 #. key = Shared_Target_BloodFest_Gnoll_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1149
@@ -40406,12 +40506,14 @@ msgid ""
 "The redcap's bloodthirsty cries fill one of its allies with bloodlust. It "
 "heals when it kills a creature and can attack three times."
 msgstr ""
+"레드캡의 피에 굶주린 울음소리가 아군 한 명을 피에 대한 욕망으로 가득 채웁니다. 크리쳐 처치하면 생명력을 회복하고 세 번 공격할 수 "
+"있습니다."
 
 #. key = Shared_Target_BloodLust_RedCap_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1156
 msgctxt "hcf04671cg7917g4bdagb60dgf5a428066401"
 msgid "Bloodlust"
-msgstr ""
+msgstr "피의 욕망"
 
 #. key = Shared_Target_Bufotoxin_Frog_Summon_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1135
@@ -40421,24 +40523,26 @@ msgid ""
 ">Disadvantage</LSTag> on its Dexterity <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throws</LSTag>."
 msgstr ""
+"크리쳐에게 접촉해 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 부여할 수 있습니다."
 
 #. key = Shared_Target_Bufotoxin_Frog_Summon_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1142
 msgctxt "h332ebd03gf269g41bbgbf1eg109c4f58b293"
 msgid "Bufotoxin"
-msgstr ""
+msgstr "두꺼비 독"
 
 #. key = Shared_Target_Burrow_Bulette_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1163
 msgctxt "hf4245efegf8b4g48bcgb492g5a74e4ecfe7a"
 msgid "Burrow into the ground to escape combat and recover hit points."
-msgstr ""
+msgstr "땅 속으로 파고들어 전투에서 벗어나고 체력을 회복합니다."
 
 #. key = Shared_Target_Burrow_Bulette_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1170
 msgctxt "h3604b9c7g2e0cg44b0g88dcgb19cbedd16f3"
 msgid "Burrow"
-msgstr ""
+msgstr "땅굴"
 
 #. key = Shared_Target_Burrow_GiantBadger_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1156
@@ -40447,24 +40551,26 @@ msgid ""
 "Burrow into the ground and emerge at the target position, possibly knocking "
 "nearby creatures <LSTag Type=\"Status\" Tooltip=\"PRONE\">Prone</LSTag>."
 msgstr ""
+"땅 속으로 파고든 뒤 목표 지점에서 솟아나며, 근처의 크리쳐를 넘어뜨려 <LSTag Type=\"Status\" Tooltip="
+"\"PRONE\">엎어짐</LSTag> 상태로 만들 수 있습니다."
 
 #. key = Shared_Target_Burrow_GiantBadger_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1163
 msgctxt "h7eb6cea8gada7g465fga9a1g333c157f6e77"
 msgid "Burrow"
-msgstr ""
+msgstr "땅굴"
 
 #. key = Shared_Target_CallLightning_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1814
 msgctxt "h8ad2e147ge1d6g4ff9gb18fg7292e28e36a5"
 msgid "Call down lightning to hit all targets within range."
-msgstr ""
+msgstr "번개를 불러내 범위 내의 대상을 맞춥니다."
 
 #. key = Shared_Target_CallLightning_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1863
 msgctxt "hefdeeb64g42d0g4766g9b48g25a2e70e1edb"
 msgid "Call Lightning"
-msgstr ""
+msgstr "번개"
 
 #. key = Shared_Target_CallLightning_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:372
@@ -40473,18 +40579,19 @@ msgid ""
 "Each turn, you can call down lightning again without expending a <LSTag "
 "Tooltip=\"SpellSlot\">spell slot</LSTag>."
 msgstr ""
+"매 턴, <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소모하지 않고 번개를 다시 불러낼 수 있습니다."
 
 #. key = Shared_Target_CallLightning_LightningBolt_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1821
 msgctxt "hfefb3451ge37ag4468g837cga796cb7f474e"
 msgid "Call down more lightning to hit all targets within range."
-msgstr ""
+msgstr "번개를 더 불러내 범위 내의 대상을 공격합니다."
 
 #. key = Shared_Target_CallLightning_LightningBolt_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1870
 msgctxt "ha146eb5ag6e36g46f2gb246g0a593a7557f4"
 msgid "Activate Call Lightning"
-msgstr ""
+msgstr "번개 활성화"
 
 #. key = Shared_Target_CalmEmotions_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:960
@@ -40494,12 +40601,15 @@ msgid ""
 "<LSTag Type=\"Status\" Tooltip=\"CHARMED\">Charmed</LSTag> or <LSTag Type="
 "\"Status\" Tooltip=\"FRIGHTENED\">Frightened</LSTag>."
 msgstr ""
+"범위 내의 감정을 가라앉혀, 모든 인간형 크리쳐에게 <LSTag Type=\"Status\" Tooltip=\"CHARMED\">매혹</"
+"LSTag>과 <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\">공포</LSTag> 효과에 면역을 "
+"부여합니다."
 
 #. key = Shared_Target_CalmEmotions_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:981
 msgctxt "h82a2f0abgb3e1g4fa4g9f6dg794254e389df"
 msgid "Calm Emotions"
-msgstr ""
+msgstr "차분한 감정"
 
 #. key = Shared_Target_Charger_Push_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:197
@@ -40507,7 +40617,7 @@ msgctxt "hc3e0b100gf849g41f1g9813g42d6aa230132"
 msgid ""
 "Shove a creature as a bonus action. Your shove distance increases to [2] if "
 "you move at least [1] in a straight line before taking this action."
-msgstr ""
+msgstr "추가 행동으로 크리쳐를 밀칩니다. 이 행동을 하기 전에 최소 [1] 를 직선으로 이동했다면 밀치기 거리가 [2] 로 증가합니다."
 
 #. key = Shared_Target_CharmPerson_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:463
@@ -40518,12 +40628,15 @@ msgid ""
 "Tooltip=\"AbilityCheck\">Ability Checks</LSTag> in dialogue and prevent it "
 "from attacking."
 msgstr ""
+"인간형 크리쳐를 마법으로 <LSTag Type=\"Status\" Tooltip=\"CHARMED\">매혹</LSTag>해 대화 중 "
+"<LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 얻고 공격 당하는 것을 방지합니다."
 
 #. key = Shared_Target_CharmPerson_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:470
 msgctxt "hc3df2c93gdd42g4c64g82faga4c5cd24f049"
 msgid "Charm Person"
-msgstr ""
+msgstr "인간형 매혹"
 
 #. key = Shared_Target_CharmPerson_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:57
@@ -40533,6 +40646,8 @@ msgid ""
 "LSTag> against being Charmed.<br><br>When the spell ends, the target might "
 "accuse you of Charming them."
 msgstr ""
+"적들이 매혹에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 이점을 가지고 "
+"있습니다.<br><br>주문의 효과가 종료되면, 대상이 자신을 매혹한 것에 대해서 해명을 요구할 것입니다."
 
 #. key = Shared_Target_ChillTouch_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:470
@@ -40557,61 +40672,61 @@ msgstr "싸늘한 손길"
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1170
 msgctxt "h361b0b7fg98cdg4040g84bcg818772c52383"
 msgid "Lash out with deadly claws."
-msgstr ""
+msgstr "치명적인 발톱으로 공격합니다."
 
 #. key = Shared_Target_Claws_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1177
 msgctxt "h39829445g2dc1g47f7g95a7ga65d84e8c81d"
 msgid "Claws"
-msgstr ""
+msgstr "발톱"
 
 #. key = Shared_Target_Claws_GiantBadger_Wildshape_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1177
 msgctxt "h8972b8a8g71ddg4675g8f9agf016e0841267"
 msgid "Lash out with deadly claws and possibly push the target back [1]."
-msgstr ""
+msgstr "치명적인 발톱으로 공격해 대상을 [1] 멀리 밀어낼 수 있습니다."
 
 #. key = Shared_Target_Claws_IntellectDevourer_Weakened_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1184
 msgctxt "h561aa07fg1a70g42fcg94b4gdbd347556295"
 msgid "Lash out with weakened claws."
-msgstr ""
+msgstr "약한 발톱으로 공격합니다."
 
 #. key = Shared_Target_Claws_IntellectDevourer_Weakened_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1184
 msgctxt "h229cf040g8294g4e0cg9881g30a4ef80f530"
 msgid "Weak Claws"
-msgstr ""
+msgstr "약한 발톱"
 
 #. key = Shared_Target_Claws_Mephit_Mud_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1191
 msgctxt "h23f62224g97dag4bd4g90d0gb65c8214997d"
 msgid "Lash out with deadly fists."
-msgstr ""
+msgstr "치명적인 주먹으로 타격합니다."
 
 #. key = Shared_Target_Claws_Mephit_Mud_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1191
 msgctxt "h3c6db3dcg742dg4a05gac85gb373197a6a04"
 msgid "Punch"
-msgstr ""
+msgstr "주먹질"
 
 #. key = Shared_Target_Claws_Owlbear_Cub_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1205
 msgctxt "haa6ae052g3020g4ea4gbd7dgb900846c42ca"
 msgid "Lash out with your tiny but deadly paws."
-msgstr ""
+msgstr "작지만 치명적인 발로 공격합니다."
 
 #. key = Shared_Target_Claws_Owlbear_Cub_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1198
 msgctxt "h940288a4gcf82g4af4gbb58g664bbe5812eb"
 msgid "Tiny Claws"
-msgstr ""
+msgstr "조그만 발톱"
 
 #. key = Shared_Target_Claws_Owlbear_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1198
 msgctxt "hef927ed3g0886g4793gbdc3g81335fbc33d4"
 msgid "Lash out with deadly claws and push the target back [1]."
-msgstr ""
+msgstr "치명적인 발톱으로 공격해 대상을 [1] 멀리 밀어낼 수 있습니다."
 
 #. key = Shared_Target_Claws_Scarecrow_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1212
@@ -40620,12 +40735,14 @@ msgid ""
 "Lash out with deadly claws and possibly <LSTag Type=\"Status\" Tooltip="
 "\"FRIGHTENED\">Frighten</LSTag> the target."
 msgstr ""
+"치명적인 발톱으로 공격해 대상을 <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\">공포</LSTag>에 "
+"빠뜨릴 수 있습니다."
 
 #. key = Shared_Target_CloudOfDaggers_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1604
 msgctxt "h7dbc2201g83acg42e2ga54ag735be7d3b736"
 msgid "Conjure a cloud of spinning daggers that attack anyone inside."
-msgstr ""
+msgstr "내부의 모두를 공격하는 단검으로 이루어진 구름을 생성합니다."
 
 #. key = Shared_Target_CloudOfDaggers_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1667
@@ -40638,13 +40755,13 @@ msgstr "단검의 구름"
 msgctxt "h1fbd3e09g4aefg4ba0ga9e5g3da85c9bbbe3"
 msgid ""
 "Command [1] creatures to move towards you on their turn and do nothing else."
-msgstr ""
+msgstr "[1] 명의 크리쳐에게 명령을 내려 자신의 턴 동안 당신에게 다가오는 것 외에는 어떤 것도 할 수 없도록 합니다."
 
 #. key = Shared_Target_Command_Approach_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2094
 msgctxt "hc2b91e00ge882g4d4fgb997g06e026ade156"
 msgid "Command a creature to move towards you on its turn and do nothing else."
-msgstr ""
+msgstr "크리쳐에게 명령을 내려 자신의 턴 동안 당신에게 다가오는 것 외에는 어떤 것도 할 수 없도록 합니다."
 
 #. key = Shared_Target_Command_Approach_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2185
@@ -40658,7 +40775,7 @@ msgctxt "hd9d6c3acgb442g4021gada0g753481101238"
 msgid ""
 "Command a creature to flee, move closer, freeze, drop to the ground or drop "
 "their weapon."
-msgstr ""
+msgstr "크리쳐에게 도망치거나, 가까이 다가오거나, 멈추거나, 바닥에 엎드리거나, 무기를 떨어뜨리도록 명령을 내립니다."
 
 #. key = Shared_Target_Command_Container_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2276
@@ -40671,14 +40788,14 @@ msgstr "명령"
 msgctxt "hdaa7ade7gbd76g4783gbd17g73ff42ba6347"
 msgid ""
 "Command [1] creatures to drop their weapon on their turn and do nothing else."
-msgstr ""
+msgstr "[1] 명의 크리쳐에게 명령을 내려 자신의 턴 동안 무기를 떨어뜨리는 것 외에는 어떤 것도 할 수 없도록 합니다."
 
 #. key = Shared_Target_Command_Drop_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2101
 msgctxt "hff6f912eg65d3g4932gad06geaacd108f665"
 msgid ""
 "Command a creature to drop their weapon on its turn and do nothing else."
-msgstr ""
+msgstr "크리쳐에게 명령을 내려 자신의 턴 동안 무기를 떨어뜨리는 것 외에는 어떤 것도 할 수 없도록 합니다."
 
 #. key = Shared_Target_Command_Drop_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2192
@@ -40691,13 +40808,13 @@ msgstr "명령: 투하"
 msgctxt "h4800b412g6108g4e28gb2a6ga0ede4f0cdf4"
 msgid ""
 "Command [1] creatures to flee from you on their turn and do nothing else."
-msgstr ""
+msgstr "[1] 명의 크리쳐에게 명령을 내려 당신에게서 도망치는 것 외에는 어떤 것도 할 수 없도록 합니다."
 
 #. key = Shared_Target_Command_Flee_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2108
 msgctxt "he6ae9f1fga7f6g41abgbe71g646ee1e28247"
 msgid "Command a creature to flee from you on its turn and do nothing else."
-msgstr ""
+msgstr "크리쳐에게 명령을 내려 당신에게서 도망치는 것 외에는 어떤 것도 할 수 없도록 합니다."
 
 #. key = Shared_Target_Command_Flee_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2199
@@ -40712,6 +40829,8 @@ msgid ""
 "Command [1] creatures to fall <LSTag Type=\"Status\" Tooltip=\"PRONE\""
 ">Prone</LSTag> on their turn."
 msgstr ""
+"[1] 명의 크리쳐에게 명령을 내려 <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎드리는</LSTag>것 "
+"외에는 어떤 것도 할 수 없도록 합니다."
 
 #. key = Shared_Target_Command_Grovel_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2115
@@ -40720,6 +40839,8 @@ msgid ""
 "Command a creature to fall <LSTag Type=\"Status\" Tooltip=\"PRONE\">Prone</"
 "LSTag> on its turn."
 msgstr ""
+"크리쳐에게 명령을 내려 <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎드리는</LSTag>것 외에는 어떤 "
+"것도 할 수 없도록 합니다."
 
 #. key = Shared_Target_Command_Grovel_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2206
@@ -40733,7 +40854,7 @@ msgctxt "h301fd8fag5e57g41fega342g6e4c918ea1de"
 msgid ""
 "Command [1] creatures to halt, preventing them from moving or taking "
 "actions, bonus actions, or reactions."
-msgstr ""
+msgstr "[1] 명의 크리쳐에게 명령을 내려 움직이거나, 행동, 추가 행동, 또는 반응 행동을 할 수 없도록 합니다."
 
 #. key = Shared_Target_Command_Halt_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:477
@@ -40741,7 +40862,7 @@ msgctxt "h621d477cg6c94g4963ga6c1g9ebcf4ee85bd"
 msgid ""
 "Command a creature to halt, preventing it from moving or taking actions, "
 "bonus actions, or reactions."
-msgstr ""
+msgstr "크리쳐에게 명령을 내려 움직이거나, 행동, 추가 행동, 또는 반응 행동을 할 수 없도록 합니다."
 
 #. key = Shared_Target_Command_Halt_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:484
@@ -40753,13 +40874,13 @@ msgstr "명령: 정지"
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2122
 msgctxt "h5b1aff19g6818g4e3cga665g9a4e1402918e"
 msgid "Use a divine command to compel an enemy to attack only you."
-msgstr ""
+msgstr "신성한 명령을 내려 적이 당신만을 공격하도록 강제합니다."
 
 #. key = Shared_Target_CompelledDuel_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2213
 msgctxt "hb2ed1ef6gcf13g47b1g9cfag7d93095c0f82"
 msgid "Compelled Duel"
-msgstr ""
+msgstr "결투 명령"
 
 #. key = Shared_Target_CompelledDuel_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:428
@@ -40768,6 +40889,8 @@ msgid ""
 "The target gains <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on "
 "<LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> against anyone but you."
 msgstr ""
+"대상은 당신을 제외한 모두에 대한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Target_ConcussiveSmash_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1562
@@ -40776,12 +40899,14 @@ msgid ""
 "Hit an enemy with all your might and possibly <LSTag Type=\"Status\" Tooltip="
 "\"DAZED\">Daze</LSTag> them."
 msgstr ""
+"온 힘을 다해 적을 타격해 <LSTag Type=\"Status\" Tooltip=\"DAZED\">멍해짐</LSTag> 상태로 만들 수 "
+"있습니다."
 
 #. key = Shared_Target_ConcussiveSmash_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1618
 msgctxt "hea5b28c1gbeb4g4879gb80dgc9bd4b784efc"
 msgid "Concussive Smash"
-msgstr ""
+msgstr "뇌진탕 펀치"
 
 #. key = Shared_Target_ConfusionRay_Spectator_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1380
@@ -40790,30 +40915,32 @@ msgid ""
 "Shoot an eye ray that <LSTag Type=\"Status\" Tooltip=\"CONFUSION_RAY\""
 ">Confuses</LSTag> its target."
 msgstr ""
+"눈에서 광선을 발사해 대상을 <LSTag Type=\"Status\" Tooltip=\"CONFUSION_RAY\">혼란</LSTag> "
+"상태로 만듭니다."
 
 #. key = Shared_Target_ConfusionRay_Spectator_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1380
 msgctxt "h9e78729fg4209g49edgb096gd14e63e8266a"
 msgid "Confusion Ray"
-msgstr ""
+msgstr "혼란 광선"
 
 #. key = Shared_Target_ControlUndead_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2129
 msgctxt "h7c01bf17g01deg4907gb001g8280ca511db6"
 msgid "Use the power of your Oath to gain control over an undead creature."
-msgstr ""
+msgstr "맹세의 힘을 이용해 언데드 크리쳐를 조종합니다."
 
 #. key = Shared_Target_ControlUndead_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2220
 msgctxt "ha612b54dg48c5g45cegbe8fg273c791e5a41"
 msgid "Control Undead"
-msgstr ""
+msgstr "언데드 통제"
 
 #. key = Shared_Target_ControlUndead_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:407
 msgctxt "h5b95709egbdd9g46d1g9f7eg85519f6dcaea"
 msgid "The undead will follow you around and attack your enemies."
-msgstr ""
+msgstr "언데드는 당신을 따라다니며 적을 함께 공격할 것입니다."
 
 #. key = Shared_Target_Counterspell_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2234
@@ -40821,13 +40948,13 @@ msgctxt "h4626b545gb292g41e2gac8dgedf05aa09b61"
 msgid ""
 "Interrupt a creature in the process of casting a spell, making it fail so it "
 "has no effect."
-msgstr ""
+msgstr "크리쳐의 주문 시전을 방해해 실패하도록 만듭니다."
 
 #. key = Shared_Target_Counterspell_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2269
 msgctxt "hc438efbcgedbag41e9gb01egade042468a55"
 msgid "Counterspell"
-msgstr ""
+msgstr "주문차단"
 
 #. key = Shared_Target_Counterspell_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:449
@@ -40835,32 +40962,32 @@ msgctxt "h7c71b34cg1f19g4d37g8fc9g327efa648941"
 msgid ""
 "The higher the level of the spell being cast, the harder it is to interrupt. "
 "You can always interrupt spells of 3rd level or lower."
-msgstr ""
+msgstr "시전하는 주문의 레벨이 높을수록 방해하기가 더 어렵습니다. 3 레벨 이하의 주문은 언제나 차단할 수 있습니다."
 
 #. key = Shared_Target_CreateDestroyWater_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:974
 msgctxt "h0ef72cb2ge73eg4227g83d7g8f784c1a8692"
 msgid "Choose to call forth rain or destroy a water-based surface."
-msgstr ""
+msgstr "비를 내리거나 물 표면을 제거합니다."
 
 #. key = Shared_Target_CreateDestroyWater_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:995
 msgctxt "h8926e52cg44f7g4c16gb614g7247ce64d91e"
 msgid "Create or Destroy Water"
-msgstr ""
+msgstr "물 생성 또는 제거"
 
 #. key = Shared_Target_CreateWater_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:967
 msgctxt "h3525bae6g3964g45f3g97efge38d23d42bf4"
 msgid ""
 "Call forth rain. It extinguishes exposed flames and forms a water surface."
-msgstr ""
+msgstr "비가 내리도록 합니다. 불꽃을 제거하고 물 표면을 생성합니다."
 
 #. key = Shared_Target_CreateWater_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:988
 msgctxt "hb838a346g3b86g4769gac2dg5903b60e46ea"
 msgid "Create Water"
-msgstr ""
+msgstr "물 생성"
 
 #. key = Shared_Target_CripplingPinch_Crab_Summon_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1240
@@ -40869,12 +40996,14 @@ msgid ""
 "Attack a creature's feet and inflict <LSTag Type=\"Status\" Tooltip="
 "\"CRAB_PINCHED\">Pinched</LSTag>."
 msgstr ""
+"크리쳐의 발을 공격해 <LSTag Type=\"Status\" Tooltip=\"CRAB_PINCHED\">꼬집힘</LSTag> 상태를 "
+"적용합니다."
 
 #. key = Shared_Target_CripplingPinch_Crab_Summon_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1226
 msgctxt "hfa9ea4b6g8d1eg41a0gb716g05eb054cdcac"
 msgid "Crippling Pinch"
-msgstr ""
+msgstr "발 꼬집기"
 
 #. key = Shared_Target_CripplingStrike_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1520
@@ -40883,18 +41012,20 @@ msgid ""
 "Swing at an enemy's legs and possibly <LSTag Type=\"Status\" Tooltip="
 "\"CRIPPLED\">Cripple</LSTag> them."
 msgstr ""
+"적의 다리를 타격해 <LSTag Type=\"Status\" Tooltip=\"CRIPPLED\">절름발이</LSTag> 상태로 만들 수 "
+"있습니다."
 
 #. key = Shared_Target_CripplingStrike_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1576
 msgctxt "h8fad3ac3gf816g4c2agbd76gbbcc61598a91"
 msgid "Crippling Strike"
-msgstr ""
+msgstr "발목 타격"
 
 #. key = Shared_Target_CripplingStrike_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:232
 msgctxt "h8e344402g5cc9g4430g8343g1364ef5a48f9"
 msgid "Flying creatures can't be Crippled."
-msgstr ""
+msgstr "비행 능력이 있는 크리쳐는 절름발이 상태에 면역입니다."
 
 #. key = Shared_Target_CrownOfMadness_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1590
@@ -40902,25 +41033,25 @@ msgctxt "hadf3e255g0814g479bgb392gc0d3416ddd8f"
 msgid ""
 "Instil madness in a humanoid enemy, making them attack the creature closest "
 "to them (other than you), even if it's allied."
-msgstr ""
+msgstr "인간형 적에게 광기를 불어넣어, 피아를 구분하지 않고 가장 가까이 있는 크리쳐를(당신은 예외입니다) 공격하게 만듭니다."
 
 #. key = Shared_Target_CrownOfMadness_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1653
 msgctxt "hb10b0cb7gb39fg4b0fg9dffg6bd124b23dbc"
 msgid "Crown of Madness"
-msgstr ""
+msgstr "광기의 왕관"
 
 #. key = Shared_Target_CureWounds_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:218
 msgctxt "h2f60bd3fg2adbg49e8gae4bgd6758a67a547"
 msgid "Touch a creature to heal it."
-msgstr ""
+msgstr "크리쳐에게 접촉해 치유합니다."
 
 #. key = Shared_Target_CureWounds_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:225
 msgctxt "h9ba64edbge50ag4346gaf0egae2bfd63c7ac"
 msgid "Cure Wounds"
-msgstr ""
+msgstr "상처 치료"
 
 #. key = Shared_Target_Curse_Gnoll_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1219
@@ -40928,13 +41059,13 @@ msgctxt "h270a3cbag5b1ag40a9g900agb9845a55a6fe"
 msgid ""
 "Numb a creature's soul and offer it to Yeenoghu to prevent it from taking "
 "bonus actions or reactions."
-msgstr ""
+msgstr "크리쳐의 영혼을 무뎌지게 하고 이노그에게 바쳐 추가 행동이나 반응 행동을 취할 수 없도록 합니다."
 
 #. key = Shared_Target_Curse_Gnoll_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1205
 msgctxt "hbb87ab9agdd0fg427fga15egb62bbc303b67"
 msgid "Soul Offering"
-msgstr ""
+msgstr "영혼 공양"
 
 #. key = Shared_Target_Curse_Ogre_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1226
@@ -40942,13 +41073,13 @@ msgctxt "h611b79afg92ddg43c9g9bd5ga5905f67dd7a"
 msgid ""
 "Lump designates a new nemesis. Each object thrown at the target by an ogre "
 "deals an additional [1]."
-msgstr ""
+msgstr "럼프가 새로운 숙적을 지정합니다. 오우거가 대상에게 던지는 모든 물체는 [1] 를 추가로 가합니다."
 
 #. key = Shared_Target_Curse_Ogre_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1212
 msgctxt "hb4e8db17g84f9g43begba89g3f58a22c410e"
 msgid "Lump's Command"
-msgstr ""
+msgstr "럼프의 명령"
 
 #. key = Shared_Target_CuttingWords_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1660
@@ -40970,12 +41101,14 @@ msgid ""
 "LSTag>, <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag>, and damage "
 "dealt until the start of your next turn."
 msgstr ""
+"대상은 당신의 다음 턴 시작 전까지 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag "
+"Tooltip=\"AbilityCheck\">능력치 판정</LSTag>, 그리고 가하는 피해에 [1] 페널티를 가집니다."
 
 #. key = Shared_Target_DancingLights_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:484
 msgctxt "h239cf118g09c9g46f1g99a1gc0ec4b11a6c6"
 msgid "Create wisps of light that illuminate a [1] radius."
-msgstr "빛을 내뿜는 위습을 생성해 [1] 반경만큼을 밝힙니다."
+msgstr "빛을 내뿜는 위습을 생성해 [1] 반경을 비춥니다."
 
 #. key = Shared_Target_DancingLights_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:491
@@ -40990,6 +41123,8 @@ msgid ""
 "Create a cloud of magical darkness that Heavily Obscures and <LSTag Type="
 "\"Status\" Tooltip=\"BLINDED\">Blinds</LSTag> creatures within. "
 msgstr ""
+"지역을 짙게 가리고 내부의 크리쳐를 <LSTag Type=\"Status\" Tooltip=\"BLINDED\">실명</LSTag>시키는 "
+"마법적 어둠을 생성합니다. "
 
 #. key = Shared_Target_Darkness_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1002
@@ -41001,13 +41136,13 @@ msgstr "어둠"
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:316
 msgctxt "hd3758dbcgb2fdg4a24ga98bg2d75a8afb5bd"
 msgid "Creatures cannot make ranged attacks into or out of the darkness."
-msgstr ""
+msgstr "어둠 속에 있는 크리쳐는 원거리 공격을 하거나 당할 수 없습니다."
 
 #. key = Shared_Target_Darkvision_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:225
 msgctxt "he1d1154bg4fdag4e31ga6c2gd0ebf8bd0305"
 msgid "Grant a creature the ability to see in the dark out to a range of [1]."
-msgstr ""
+msgstr "크리쳐에게 어둠 속에서도 [1] 거리를 볼 수 있는 능력을 부여합니다."
 
 #. key = Shared_Target_Darkvision_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:232
@@ -41021,25 +41156,25 @@ msgctxt "h17b14a9bg9cb5g4667ga676gb128a690d2fa"
 msgid ""
 "Enchant an item to shine like the sun or summon a sphere of sunlight that "
 "dispels all darkness around it."
-msgstr ""
+msgstr "아이템에 마법을 부여해 태양과도 같이 밝게 빛나도록 만들거나 주변의 어둠을 해제하는 태양 빛 구체를 생성합니다."
 
 #. key = Shared_Target_Daylight_Container_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2108
 msgctxt "h635fd469g1961g498bg9c10g8b824732d7f4"
 msgid "Daylight"
-msgstr ""
+msgstr "일광"
 
 #. key = Shared_Target_Daylight_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1828
 msgctxt "h4b6342a2g97e4g4b22ga193g625448493974"
 msgid "Summon a sphere of sunlight that dispels all darkness around it."
-msgstr ""
+msgstr "주변의 어둠을 제거하는 태양 빛 구체를 생성합니다."
 
 #. key = Shared_Target_Daylight_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1877
 msgctxt "hcaab619bgf507g4cfag9f6eg2b4a9d509857"
 msgid "Daylight: Sphere"
-msgstr ""
+msgstr "일광: 구체"
 
 #. key = Shared_Target_Daylight_Enchantment_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2031
@@ -41047,13 +41182,13 @@ msgctxt "hff94a9f8g6d58g415cg946fg5258af6e20e5"
 msgid ""
 "Enchant an item or weapon to shine with the light of the sun and dispel all "
 "darkness around it."
-msgstr ""
+msgstr "아이템에 마법을 부여해 태양처럼 빛나게 만들고 주변의 어둠을 제거합니다."
 
 #. key = Shared_Target_Daylight_Enchantment_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2101
 msgctxt "he78f808dg77dfg424cgbd2dg52dbc1e3a5d5"
 msgid "Daylight: Enchant Item"
-msgstr ""
+msgstr "알광: 마법 부여"
 
 #. key = Shared_Target_DestroyWater_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:988
@@ -41061,13 +41196,13 @@ msgctxt "hae637f3egc652g4e07gb53fg4c3fae8ed29c"
 msgid ""
 "Cause water-based surfaces (such as water, steam, ice, blood, and poison) to "
 "vanish."
-msgstr ""
+msgstr "물 기반의 표면(물, 증기, 얼음, 피, 그리고 독성과 같은)을 제거합니다."
 
 #. key = Shared_Target_DestroyWater_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1009
 msgctxt "h68130415g8eb7g41fbgb451g0156f6bb144f"
 msgid "Destroy Water"
-msgstr ""
+msgstr "물 제거"
 
 #. key = Shared_Target_DevourIntellect_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1233
@@ -41078,12 +41213,15 @@ msgid ""
 "\" Tooltip=\"STUNNED\">Stunned</LSTag>. Otherwise, its Intelligence is "
 "reduced by 11."
 msgstr ""
+"크리쳐의 정신을 섭취합니다. 대상의 <LSTag Tooltip=\"Intelligence\">지능</LSTag>이 4 미만이라면, 대상은 "
+"피해를 입고 <LSTag Type=\"Status\" Tooltip=\"STUNNED\">기절합니다</LSTag>. 그렇지 않은 경우, "
+"지능이 11 로 감소합니다."
 
 #. key = Shared_Target_DevourIntellect_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1219
 msgctxt "h67017d0eg765dg4b5bg8bf8g8e05d57a4cca"
 msgid "Devour Intellect"
-msgstr ""
+msgstr "지성 포식"
 
 #. key = Shared_Target_Dig_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1632
@@ -41095,7 +41233,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1688
 msgctxt "hbd8184c9g706dg46cbg910dg1031f761b38e"
 msgid "Dig"
-msgstr ""
+msgstr "파기"
 
 #. key = Shared_Target_Dip_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:491
@@ -41119,13 +41257,13 @@ msgstr "양손에 무기를 착용한 상태라면, 둘 다 담급니다."
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:22
 msgctxt "hcb68c02cg8111g4f36g924fgc61039aeb188"
 msgid "Fire Melee Weapon Attack"
-msgstr ""
+msgstr "화염 근접 무기 공격"
 
 #. key = Shared_Target_Dipped_Poison_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:29
 msgctxt "h0cc2d738gfd4dg49f1g8b93g21aed4851a5b"
 msgid "Poison Melee Weapon Attack"
-msgstr ""
+msgstr "독성 근접 무기 공격"
 
 #. key = Shared_Target_DisarmingAttack_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:92
@@ -41133,13 +41271,13 @@ msgctxt "h29e8a3f7g106fg4b2bg9e32ga959590fa0c9"
 msgid ""
 "Focus your attack on your foe's hands and possibly force them to drop the "
 "weapons they are holding."
-msgstr ""
+msgstr "적의 손을 노려 그들이 쥐고 있는 무기를 떨어뜨리게 할 수 있습니다."
 
 #. key = Shared_Target_DisarmingAttack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:92
 msgctxt "h256cf588g2a77g4790g9b3bg2508f0f6ffc3"
 msgid "Disarming Attack (Melee)"
-msgstr ""
+msgstr "무장 해제 공격 (근접)"
 
 #. key = Shared_Target_DissonantWhispers_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:498
@@ -41148,12 +41286,14 @@ msgid ""
 "Whisper a discordant melody to a creature and <LSTag Type=\"Status\" Tooltip="
 "\"FRIGHTENED\">Frighten</LSTag> it."
 msgstr ""
+"크리쳐에게 불협화음의 선율을 속삭여 <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\">공포</"
+"LSTag>에 빠뜨립니다."
 
 #. key = Shared_Target_DissonantWhispers_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:505
 msgctxt "h21d26c53g94c8g4f53ga031gc5f01f2156f8"
 msgid "Dissonant Whispers"
-msgstr ""
+msgstr "음산한 속삭임"
 
 #. key = Shared_Target_DistractingStrike_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:99
@@ -41172,7 +41312,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:99
 msgctxt "h63449380gb480g42f8g9873g0813f22f5d41"
 msgid "Distracting Strike (Melee)"
-msgstr ""
+msgstr "교란의 일격 (근접)"
 
 #. key = Shared_Target_EnhanceAbility_3_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:246
@@ -41182,6 +41322,9 @@ msgid ""
 "\"Advantage\">Advantage</LSTag> on <LSTag Tooltip=\"AbilityCheck\">Ability "
 "Checks</LSTag> with a chosen <LSTag Tooltip=\"Abilities\">Ability</LSTag>."
 msgstr ""
+"최대 두 명의 아군에게 마법을 부여합니다. 그들은 선택한 <LSTag Tooltip=\"Abilities\">능력</LSTag>을 이용한 "
+"<LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 얻습니다."
 
 #. key = Shared_Target_EnhanceAbility_3_ShortDescription
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:64
@@ -41189,7 +41332,7 @@ msgctxt "h8cfaf0a8gcccdg455cg8077g09799605cc97"
 msgid ""
 "Bestow a magical enhancement upon two allies. They become better at using a "
 "chosen Ability."
-msgstr ""
+msgstr "최대 두 명의 아군에게 마법을 부여합니다. 그들은 선택한 능력을 이용하는 데에 더 익숙해집니다."
 
 #. key = Shared_Target_EnhanceAbility_BearsEndurance_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:253
@@ -41198,18 +41341,20 @@ msgid ""
 "Creature gains <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on "
 "Constitution <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and gains [1]."
 msgstr ""
+"건강 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>과 [1] 을 얻습니다."
 
 #. key = Shared_Target_EnhanceAbility_BearsEndurance_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:253
 msgctxt "h244fe61dg4da5g4e5dg83d6g61830130c589"
 msgid "Bear's Endurance"
-msgstr ""
+msgstr "곰의 인내력"
 
 #. key = Shared_Target_EnhanceAbility_BearsEndurance_ShortDescription
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:71
 msgctxt "hca724293ge6a7g480ag9593g73fb01b84b73"
 msgid "Enhance certain actions using Constitution and give the ally [1]."
-msgstr ""
+msgstr "건강을 이용한 특정 행동을 강화하고 해당 아군에게 [1] 을 줍니다."
 
 #. key = Shared_Target_EnhanceAbility_BullsStrength_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:260
@@ -41219,18 +41364,20 @@ msgid ""
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>, and its <LSTag Tooltip="
 "\"CarryWeight\">Weight Limit</LSTag> is doubled."
 msgstr ""
+"근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 얻고, <LSTag Tooltip=\"CarryWeight\">무게 한도</LSTag>가 두 배로 증가합니다."
 
 #. key = Shared_Target_EnhanceAbility_BullsStrength_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:260
 msgctxt "hb9bf3103g3fffg4630gb73bg160037e2cb5f"
 msgid "Bull's Strength"
-msgstr ""
+msgstr "황소의 힘"
 
 #. key = Shared_Target_EnhanceAbility_BullsStrength_ShortDescription
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:78
 msgctxt "ha4d6cf25g1a49g4f84g90c2g2a82a4d8c091"
 msgid "Enhance certain actions using Strength."
-msgstr ""
+msgstr "근력을 이용한 특정 행동들을 강화합니다."
 
 #. key = Shared_Target_EnhanceAbility_CatsGrace_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:267
@@ -41240,18 +41387,20 @@ msgid ""
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and only takes half damage "
 "from falling."
 msgstr ""
+"민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 얻고 낙하 피해가 절반으로 줄어듭니다."
 
 #. key = Shared_Target_EnhanceAbility_CatsGrace_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:267
 msgctxt "h4364b7acgead1g4a5bg9a83g62b9b071ae82"
 msgid "Cat's Grace"
-msgstr ""
+msgstr "고양이의 보은"
 
 #. key = Shared_Target_EnhanceAbility_CatsGrace_ShortDescription
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:85
 msgctxt "h8a4da9a8gb421g4ce8g85fbg634f655ca3b8"
 msgid "Enhance certain actions using Dexterity."
-msgstr ""
+msgstr "민첩을 이용한 특정 행동들이 강화됩니다."
 
 #. key = Shared_Target_EnhanceAbility_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:239
@@ -41261,12 +41410,15 @@ msgid ""
 "\"Advantage\">Advantage</LSTag> on <LSTag Tooltip=\"AbilityCheck\">Ability "
 "Checks</LSTag> with a chosen <LSTag Tooltip=\"Abilities\">Ability</LSTag>."
 msgstr ""
+"아군에게 마법을 부여합니다. 대상은 선택한 <LSTag Tooltip=\"Abilities\">능력</LSTag>을 이용한 <LSTag "
+"Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</"
+"LSTag>을 얻습니다."
 
 #. key = Shared_Target_EnhanceAbility_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:246
 msgctxt "hb96346d0gcce3g4e34gb211geae8f98a3de0"
 msgid "Enhance Ability"
-msgstr ""
+msgstr "능력 강화"
 
 #. key = Shared_Target_EnhanceAbility_EaglesSplendor_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:274
@@ -41275,18 +41427,20 @@ msgid ""
 "Creature gains <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on Charisma "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"매력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 얻습니다."
 
 #. key = Shared_Target_EnhanceAbility_EaglesSplendor_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:274
 msgctxt "h1531b8efg7312g4f11g92d2g26a762d79c63"
 msgid "Eagle's Splendour"
-msgstr ""
+msgstr "독수리의 장려함"
 
 #. key = Shared_Target_EnhanceAbility_EaglesSplendor_ShortDescription
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:92
 msgctxt "h51539345ge85bg4f9ag9f9cgd44c68faf736"
 msgid "Enhance certain actions using Charisma."
-msgstr ""
+msgstr "매력을 이용한 특정 능력들이 강화됩니다."
 
 #. key = Shared_Target_EnhanceAbility_FoxsCunning_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:281
@@ -41295,18 +41449,20 @@ msgid ""
 "Creature gains <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on "
 "Intelligence <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"지능 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 얻습니다."
 
 #. key = Shared_Target_EnhanceAbility_FoxsCunning_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:281
 msgctxt "h6072ca70geaafg45c1g91d9g156fef0642f3"
 msgid "Fox's Cunning"
-msgstr ""
+msgstr "여우의 교활함"
 
 #. key = Shared_Target_EnhanceAbility_FoxsCunning_ShortDescription
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:99
 msgctxt "h53d17043g6658g4952g979fgb2fd16889f57"
 msgid "Enhance certain actions using Intelligence."
-msgstr ""
+msgstr "지능을 이용한 특정 행동들이 강화됩니다."
 
 #. key = Shared_Target_EnhanceAbility_OwlsWisdom_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:288
@@ -41315,18 +41471,20 @@ msgid ""
 "Creature gains <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on Wisdom "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 얻습니다."
 
 #. key = Shared_Target_EnhanceAbility_OwlsWisdom_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:288
 msgctxt "h72611d15g9131g49e7ga158g4441febcf870"
 msgid "Owl's Wisdom"
-msgstr ""
+msgstr "올빼미의 지혜"
 
 #. key = Shared_Target_EnhanceAbility_OwlsWisdom_ShortDescription
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:106
 msgctxt "h2f636b98g18bbg476dg826fg560de0849b9e"
 msgid "Enhance certain actions using Wisdom."
-msgstr ""
+msgstr "지혜를 이용한 특정 행동들이 강화됩니다."
 
 #. key = Shared_Target_EnhanceAbility_ShortDescription
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:57
@@ -41334,7 +41492,7 @@ msgctxt "hcaecf304g9d27g4742g9c0bg99197d0b4415"
 msgid ""
 "Bestow a magical enhancement upon an ally. They become better at using a "
 "chosen Ability."
-msgstr ""
+msgstr "아군에게 마법을 부여합니다. 대상은 선택된 능력이 강화됩니다."
 
 #. key = Shared_Target_EnlargeReduce_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1611
@@ -41344,24 +41502,26 @@ msgid ""
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"크리쳐의 크기를 조절해 대상의 무기 피해와 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 영향을 끼칩니다."
 
 #. key = Shared_Target_EnlargeReduce_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:512
 msgctxt "h654c75bagd3a5g4f56g96b1g5b0fcd961705"
 msgid "Enlarge/Reduce"
-msgstr ""
+msgstr "거대화/축소"
 
 #. key = Shared_Target_Enlarge_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:505
 msgctxt "h6ac94998gf7f1g424bgb6a4g99e4fd91de09"
 msgid "Make a creature larger and strengthen it. "
-msgstr ""
+msgstr "크리쳐의 크기를 키우고 근력을 강화합니다. "
 
 #. key = Shared_Target_Enlarge_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:519
 msgctxt "h7fd3d5fcge994g4665g95aagc1bcfac08e3a"
 msgid "Enlarge"
-msgstr ""
+msgstr "거대화"
 
 #. key = Shared_Target_Enlarge_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:64
@@ -41372,6 +41532,9 @@ msgid ""
 ">Strength</LSTag> <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"대상의 무장, 그리고 비무장 공격이 [1] 를 추가로 가하며 <LSTag Tooltip=\"Strength\">근력</LSTag> "
+"<LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag Tooltip=\"SavingThrow\""
+">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Target_EnsnaringStrike_2_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2220
@@ -41380,6 +41543,8 @@ msgid ""
 "Your attack summons thorny vines that possibly <LSTag Type=\"Status\" "
 "Tooltip=\"ENSNARING_STRIKE_2\">Ensnare</LSTag> your target."
 msgstr ""
+"공격 시 가시 박힌 덩굴이 소환되어 대상을 <LSTag Type=\"Status\" Tooltip=\"ENSNARING_STRIKE_2\""
+">덫에</LSTag> 빠뜨릴 수 있습니다."
 
 #. key = Shared_Target_EnsnaringStrike_3_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2227
@@ -41388,6 +41553,8 @@ msgid ""
 "Your attack summons thorny vines that possibly <LSTag Type=\"Status\" "
 "Tooltip=\"ENSNARING_STRIKE_3\">Ensnare</LSTag> your target."
 msgstr ""
+"공격 시 가시 박힌 덩굴이 소환되어 대상을 <LSTag Type=\"Status\" Tooltip=\"ENSNARING_STRIKE_2\""
+">덫에</LSTag> 빠뜨릴 수 있습니다."
 
 #. key = Shared_Target_EnsnaringStrike_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:106
@@ -41396,12 +41563,14 @@ msgid ""
 "Your attack summons thorny vines that possibly <LSTag Type=\"Status\" "
 "Tooltip=\"ENSNARING_STRIKE\">Ensnare</LSTag> your target."
 msgstr ""
+"공격 시 가시 박힌 덩굴이 소환되어 대상을 <LSTag Type=\"Status\" Tooltip=\"ENSNARING_STRIKE_2\""
+">덫에</LSTag> 빠뜨릴 수 있습니다."
 
 #. key = Shared_Target_EnsnaringStrike_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:106
 msgctxt "heac6a8e1g6248g4146g8901g3651a219b8dc"
 msgid "Ensnaring Strike (Melee)"
-msgstr ""
+msgstr "올가미 공격 (근접)"
 
 #. key = Shared_Target_Entangle_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:995
@@ -41410,12 +41579,14 @@ msgid ""
 "Vines sprout from the ground, slowing creatures within and possibly <LSTag "
 "Type=\"Status\" Tooltip=\"ENSNARED_VINES\">Entangling</LSTag> them."
 msgstr ""
+"땅에서 덩굴이 자라나며, 그 위의 크리쳐를 둔화시키고 <LSTag Type=\"Status\" Tooltip=\"ENSNARED_VINES"
+"\">뒤얽히게</LSTag> 할 수 있습니다."
 
 #. key = Shared_Target_Entangle_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1016
 msgctxt "h76ec04fag3c64g4982g8578gb59f69e57925"
 msgid "Entangle"
-msgstr ""
+msgstr "뒤얽기"
 
 #. key = Shared_Target_Entomb_Spider_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2017
@@ -41423,67 +41594,68 @@ msgctxt "h1aad3e58gc805g4ffeg8b03ge9b40dbf38f8"
 msgid ""
 "Trap an enemy in your web to <LSTag Type=\"Status\" Tooltip=\"ENTOMBED\""
 ">Entomb</LSTag> it."
-msgstr ""
+msgstr "적을 거미줄로 감싸 <LSTag Type=\"Status\" Tooltip=\"ENTOMBED\">파묻</LSTag>습니다."
 
 #. key = Shared_Target_Entomb_Spider_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2087
 msgctxt "h0db780d1g1bf4g4975ga3d8g09215803ff86"
 msgid "Entomb"
-msgstr ""
+msgstr "파묻기"
 
 #. key = Shared_Target_EtherealJaunt_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1240
+#, fuzzy
 msgctxt "h5d2ea6c9gc620g4b8cga052g852ebcde5a0c"
 msgid "Ethereal Jaunt"
-msgstr ""
+msgstr "천상 여정"
 
 #. key = Shared_Target_Exhale_Fire_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:512
 msgctxt "h79868432g39a1g4e31gb093g6fc7adb3ad53"
 msgid "Engulf a target in flames that deal [1]."
-msgstr ""
+msgstr "대상을 불길로 감싸 [1] 를 가합니다."
 
 #. key = Shared_Target_Exhale_Fire_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:526
 msgctxt "hb0416ae7gbb31g4589ga89bg74c720048944"
 msgid "Exhale Fire"
-msgstr ""
+msgstr "화염 숨결"
 
 #. key = Shared_Target_Exhale_Fire_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:71
 msgctxt "h23fe589ag4bc8g40edgbb84gada1ed17f3df"
 msgid "On a successful save, the target still takes half damage."
-msgstr ""
+msgstr "내성 굴림에 성공한 경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Target_ExtraAttack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1247
 msgctxt "h6a67f505g3a8fg4842g8056gb1d2c0542020"
 msgid "Main Hand Attack (Multiattack)"
-msgstr ""
+msgstr "주무기 공격 (다중공격)"
 
 #. key = Shared_Target_ExtraAttack_Minotaur_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1261
 msgctxt "hfd3fe279g633eg4ec6ga660g0a7763cb5b31"
 msgid "Gore (Multiattack)"
-msgstr ""
+msgstr "들이받기 (다중공격)"
 
 #. key = Shared_Target_ExtraAttack_Unarmed_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1254
 msgctxt "h7b29edb8g5ad2g4953ga512g3098f5ce7d83"
 msgid "Main Hand Attack (Multiattack)"
-msgstr ""
+msgstr "주무기 공격 (다중공격)"
 
 #. key = Shared_Target_ExtractBrain_Mindflayer_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1625
 msgctxt "hdccfcac3g7a8dg45e8gb683g9ffc48c4a1c7"
 msgid "Try to extract the brain of a Stunned or Unconscious creature."
-msgstr ""
+msgstr "기절이나 무의식 상태인 크리쳐의 뇌를 추출합니다."
 
 #. key = Shared_Target_ExtractBrain_Mindflayer_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1681
 msgctxt "hdc7aef70g430bg453bg8572g8834a2364262"
 msgid "Extract Brain"
-msgstr ""
+msgstr "뇌 추출"
 
 #. key = Shared_Target_FaerieFire_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1002
@@ -41493,18 +41665,20 @@ msgid ""
 "<LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> against them have <LSTag "
 "Tooltip=\"Advantage\">Advantage</LSTag>."
 msgstr ""
+"여러 대상을 오색 빛으로 감쌉니다. 대상이 밝게 표시되며 받는 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag> <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Target_FaerieFire_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1023
 msgctxt "hef55384egdbdeg4ebdg9f40gd1fbc89dc3c3"
 msgid "Faerie Fire"
-msgstr ""
+msgstr "페어리 불꽃"
 
 #. key = Shared_Target_FaerieFire_DrowMagic_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1030
 msgctxt "h23bd588cgd54dg41edgb561g4d02ddcd844e"
 msgid "Drow Magic: Faerie Fire"
-msgstr ""
+msgstr "드로우 마법: 페어리 불꽃"
 
 #. key = Shared_Target_FearRay_Spectator_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1387
@@ -41513,24 +41687,25 @@ msgid ""
 "Shoot an eye ray that <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\""
 ">Frightens</LSTag> its target."
 msgstr ""
+"안광을 쏴 대상을 <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\">공포</LSTag>에 빠뜨립니다."
 
 #. key = Shared_Target_FearRay_Spectator_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1387
 msgctxt "he3c73709gd2a7g4d10g891bg171742cd0079"
 msgid "Fear Ray"
-msgstr ""
+msgstr "공포 광선"
 
 #. key = Shared_Target_FeignDeath_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1835
 msgctxt "h32679351gcb25g44e2gaa36g30482fbf5819"
 msgid "Put an ally in a protective, magical coma deep enough to imitate death."
-msgstr ""
+msgstr "아군을 깊은 마법적 혼수상태에 빠뜨려 죽음을 가장합니다."
 
 #. key = Shared_Target_FeignDeath_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1884
 msgctxt "h0692dfc0g0d43g4f25g8d68g1716bc329cb7"
 msgid "Feign Death"
-msgstr ""
+msgstr "죽음 가장"
 
 #. key = Shared_Target_FeignDeath_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:379
@@ -41540,6 +41715,8 @@ msgid ""
 "damage except psychic damage, and disease and poison no longer have any "
 "effect."
 msgstr ""
+"해당 아군은 정신 피해를 제외한 모든 피해 유형에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 얻고, 질병과 "
+"독성 상태를 무시합니다."
 
 #. key = Shared_Target_FindFamiliar_Cat_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:848
@@ -41548,12 +41725,14 @@ msgid ""
 "Summon a familiar with the form of a cat that can <LSTag Type=\"Spell\" "
 "Tooltip=\"Shout_Distract_Cat_Summon\">Meow</LSTag> to distract your enemies."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Shout_Distract_Cat_Summon\">야옹</LSTag>을 사용해 "
+"적의 주의를 분산시킬 수 있는 고양이 형상의 패밀리어를 소환합니다."
 
 #. key = Shared_Target_FindFamiliar_Cat_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:862
 msgctxt "h3a15041bga873g4f1cgb45eg7774bac4a109"
 msgid "Find Familiar: Cat"
-msgstr ""
+msgstr "패밀리어 찾기: 고양이"
 
 #. key = Shared_Target_FindFamiliar_Crab_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:855
@@ -41563,12 +41742,14 @@ msgid ""
 "<LSTag Type=\"Spell\" Tooltip=\"Target_CripplingPinch_Crab_Summon\""
 ">Crippling Pinch</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_CripplingPinch_Crab_Summon\">발 꼬집기</"
+"LSTag>를 사용해 적을 둔화시킬 수 있는 게 형상의 패밀리어를 소환합니다."
 
 #. key = Shared_Target_FindFamiliar_Crab_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:869
 msgctxt "h9db7d430gea4ag42abg92c0gf2f646e967f1"
 msgid "Find Familiar: Crab"
-msgstr ""
+msgstr "패밀리어 찾기: 게"
 
 #. key = Shared_Target_FindFamiliar_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:841
@@ -41576,13 +41757,13 @@ msgctxt "h90a8893dg8023g4be2gbcd2gfa1857d7c23f"
 msgid ""
 "Gain the service of a familiar, a fey spirit that takes an animal form of "
 "your choosing."
-msgstr ""
+msgstr "원하는 형상의 동물 형태를 띌 수 있고 당신을 따르는 페이 영혼인 패밀리어를 얻습니다."
 
 #. key = Shared_Target_FindFamiliar_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:855
 msgctxt "h7cdde2cagd199g498bg8ae1gf693a97f57cc"
 msgid "Find Familiar"
-msgstr ""
+msgstr "패밀리어 찾기"
 
 #. key = Shared_Target_FindFamiliar_Frog_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:862
@@ -41592,12 +41773,14 @@ msgid ""
 "\"Spell\" Tooltip=\"Target_Bufotoxin_Frog_Summon\">Bufotoxin</LSTag> to "
 "enemies."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_Bufotoxin_Frog_Summon\">두꺼비 독</"
+"LSTag>을 퍼뜨릴 수 있는 개구리 형상의 패밀리어를 소환합니다."
 
 #. key = Shared_Target_FindFamiliar_Frog_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:876
 msgctxt "h17e6ae06g0e2eg43cfga2feg7a59d317dca8"
 msgid "Find Familiar: Frog"
-msgstr ""
+msgstr "패밀리어 찾기: 개구리"
 
 #. key = Shared_Target_FindFamiliar_Rat_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:869
@@ -41607,12 +41790,14 @@ msgid ""
 "<LSTag Type=\"Spell\" Tooltip=\"Target_Bite_Rat_Summon\">Infectious "
 "Bite</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Target_Bufotoxin_Frog_Summon\">전염성 이빨</"
+"LSTag>을 이용해 질병을 퍼뜨릴 수 있는 쥐 형상의 패밀리어를 소환합니다."
 
 #. key = Shared_Target_FindFamiliar_Rat_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:883
 msgctxt "hacf2a45bg24ebg4a3ega2b1gc157a1b738d2"
 msgid "Find Familiar: Rat"
-msgstr ""
+msgstr "패밀리어 찾기: 쥐"
 
 #. key = Shared_Target_FindFamiliar_Raven_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:876
@@ -41622,12 +41807,15 @@ msgid ""
 "Tooltip=\"Target_RendVision_RavenFamiliar_Summon\">Blind</LSTag> enemies "
 "with its beak."
 msgstr ""
+"부리를 이용해 적을 <LSTag Type=\"Spell\" Tooltip="
+"\"Target_RendVision_RavenFamiliar_Summon\">실명</LSTag>시킬 수 있는 까마귀 형상의 패밀리어를 "
+"소환합니다."
 
 #. key = Shared_Target_FindFamiliar_Raven_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:890
 msgctxt "h6f341008gfad0g4868g817eg856bada1bff8"
 msgid "Find Familiar: Raven"
-msgstr ""
+msgstr "패밀리어 찾기: 까마귀"
 
 #. key = Shared_Target_FindFamiliar_Spider_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:883
@@ -41636,24 +41824,26 @@ msgid ""
 "Summon a familiar with the form of a spider with a poisonous <LSTag Type="
 "\"Spell\" Tooltip=\"Target_Bite_TinySpider_Familiar\">Bite</LSTag>."
 msgstr ""
+"독성 <LSTag Type=\"Spell\" Tooltip=\"Target_Bite_TinySpider_Familiar\">깨물기</"
+"LSTag>를 사용할 수 있는 거미 형상의 패밀리어를 소환합니다."
 
 #. key = Shared_Target_FindFamiliar_Spider_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:897
 msgctxt "h815497e1g3067g4b9egb505ge1ee8e3f7aab"
 msgid "Find Familiar: Spider"
-msgstr ""
+msgstr "패밀리어 찾기: 거미"
 
 #. key = Shared_Target_Fist_Myconid_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1247
 msgctxt "h3883a7e3g05d3g485cgbad9gcce24ddff3e2"
 msgid "Lash out with a fungal hand."
-msgstr ""
+msgstr "균류 주먹으로 펀치를 날립니다."
 
 #. key = Shared_Target_Fist_Myconid_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1268
 msgctxt "h22fe979bg5f78g4142gabfegc3f2c7657d06"
 msgid "Fist"
-msgstr ""
+msgstr "주먹질"
 
 #. key = Shared_Target_Flail_Gnoll_Madness_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1254
@@ -41662,12 +41852,14 @@ msgid ""
 "Strike a creature with the Flail of Dread Skulls and possibly drive it "
 "<LSTag Type=\"Status\" Tooltip=\"MADNESS\">Mad</LSTag>."
 msgstr ""
+"공포의 해골 도리깨로 크리쳐를 타격해 <LSTag Type=\"Status\" Tooltip=\"MADNESS\">광기</LSTag>에 "
+"빠뜨릴 수 있습니다."
 
 #. key = Shared_Target_Flail_Gnoll_Madness_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1275
 msgctxt "h9b996db4g2528g4348ga51dg341953f6ed60"
 msgid "Flail of Madness"
-msgstr ""
+msgstr "광기의 도리깨"
 
 #. key = Shared_Target_Flail_Gnoll_Pain_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1261
@@ -41675,13 +41867,13 @@ msgctxt "h97b52a01g4779g42d4gb8d6gcd426bfd11de"
 msgid ""
 "Strike a creature with the Flail of Dread Skulls to influct as much pain as "
 "possible."
-msgstr ""
+msgstr "공포의 해골 도리깨로 크리쳐를 공격해 가능한 많은 피해를 가합니다."
 
 #. key = Shared_Target_Flail_Gnoll_Pain_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1282
 msgctxt "hfe45b740g112cg4addga99cg4009d5978578"
 msgid "Flail of Pain"
-msgstr ""
+msgstr "고통의 도리깨"
 
 #. key = Shared_Target_Flail_Gnoll_Paralysis_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1268
@@ -41690,18 +41882,20 @@ msgid ""
 "Strike a creature with the Flail of Dread Skulls and possibly <LSTag Type="
 "\"Status\" Tooltip=\"PARALYZED\">Paralyse</LSTag> it."
 msgstr ""
+"공포의 해골 도리깨로 크리쳐를 공격해 <LSTag Type=\"Status\" Tooltip=\"PARALYZED\">마비</"
+"LSTag>시킬 수 있습니다."
 
 #. key = Shared_Target_Flail_Gnoll_Paralysis_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1289
 msgctxt "h64ec3b35ged5eg48e5gbe5eged5b3eaf3560"
 msgid "Flail of Paralysis"
-msgstr ""
+msgstr "마비의 도리깨"
 
 #. key = Shared_Target_FlamingSphere_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:834
 msgctxt "h8a0d587cgc27ag46b7g97ffg10ee6c71cc81"
 msgid "Summon a flaming sphere that damages nearby enemies and objects."
-msgstr ""
+msgstr "불타는 구체를 소환해 주변의 적과 물체에 피해를 입힙니다."
 
 #. key = Shared_Target_FlamingSphere_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:848
@@ -41715,44 +41909,44 @@ msgctxt "he325ec34g94f5g4bf7ga31cg5ecd084a9463"
 msgid ""
 "The sphere sheds bright light in a [1] radius, and dim light for an "
 "additional [1]. "
-msgstr ""
+msgstr "구체는 [1] 반경에 밝은 빛을 비추고, [1] 더 먼 곳에는 희미한 빛을 비춥니다. "
 
 #. key = Shared_Target_FlamingSphere_Move_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:519
 msgctxt "h57a8332dg198eg471dg81dfg096a69271f6f"
 msgid ""
 "Use the caster's bonus action to move the sphere and unlock its Ram attack."
-msgstr ""
+msgstr "시전자의 추가 행동을 사용해 구체를 움직이고 충각 공격을 사용할 수 있습니다."
 
 #. key = Shared_Target_FlamingSphere_Move_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:533
 msgctxt "h1d4ee146g8b94g4ee1g9991gba4f033c7cb2"
 msgid "Move Sphere"
-msgstr ""
+msgstr "구체 이동"
 
 #. key = Shared_Target_FlamingSphere_Move_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:78
 msgctxt "h428b4e95g8a6fg48a6ga804gfa0360f74fdc"
 msgid "Prerequisite: caster must have a bonus action available."
-msgstr ""
+msgstr "필요 조건: 시전자가 추가 행동을 사용할 수 있어야 합니다."
 
 #. key = Shared_Target_FlamingSphere_Ram_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:526
 msgctxt "h26423b41g1d19g4de1g8e78g4a47aa884268"
 msgid "Slam into an enemy creature or object to deal [1]."
-msgstr ""
+msgstr "적 크리쳐나 물체에 달려들어 [1] 를 가합니다."
 
 #. key = Shared_Target_FlamingSphere_Ram_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:540
 msgctxt "hb2fe1c32g4892g4cdfgabc3gbea05f500163"
 msgid "Ram"
-msgstr ""
+msgstr "충각 공격"
 
 #. key = Shared_Target_FlamingSphere_Ram_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:85
 msgctxt "hcb933390g800dg41b2g8dfcg90f47bcbaa3f"
 msgid "On a successful save, the target still takes half damage."
-msgstr ""
+msgstr "내성 굴림에 성공한 경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Target_Flurry_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:113
@@ -41760,13 +41954,13 @@ msgctxt "h42ec3583g1a04g4f66gb506g1d933bba2bc9"
 msgid ""
 "Attack a creature with both the weapon in your main hand and the one in your "
 "off-hand."
-msgstr ""
+msgstr "주무기와 보조무기로 동시에 크리쳐를 공격합니다."
 
 #. key = Shared_Target_Flurry_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:113
 msgctxt "h240af782g99f6g4cbdg8575gfd57f57cbebc"
 msgid "Flurry"
-msgstr ""
+msgstr "폭풍"
 
 #. key = Shared_Target_Fly_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1842
@@ -41775,12 +41969,14 @@ msgid ""
 "Bestow the ability to <LSTag Type=\"Spell\" Tooltip=\"Projectile_Fly\">Fly</"
 "LSTag> upon yourself or an ally."
 msgstr ""
+"자신과 아군에게 <LSTag Type=\"Spell\" Tooltip=\"Projectile_Fly\">비행</LSTag> 능력을 "
+"부여합니다."
 
 #. key = Shared_Target_Fly_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1891
 msgctxt "hdba1a68dgeb21g4c5dg8a21g64be6dfae0ea"
 msgid "Fly"
-msgstr ""
+msgstr "비행"
 
 #. key = Shared_Target_FogCloud_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1009
@@ -41789,42 +41985,44 @@ msgid ""
 "Create a cloud of dense fog that Heavily Obscures and <LSTag Type=\"Status\" "
 "Tooltip=\"BLINDED\">Blinds</LSTag> creatures within. "
 msgstr ""
+"지역을 짙게 가리며 안쪽의 크리쳐를 <LSTag Type=\"Status\" Tooltip=\"BLINDED\">실명</"
+"LSTag>시킵니다. "
 
 #. key = Shared_Target_FogCloud_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1037
 msgctxt "h104bcca2g2b4bg48b5g881eged1304347914"
 msgid "Fog Cloud"
-msgstr ""
+msgstr "안개 구름"
 
 #. key = Shared_Target_FogCloud_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:155
 msgctxt "he79d78bcg1fcdg407dgb73dgf1dc7db9d478"
 msgid "Creatures cannot make ranged attacks into or out of the darkness."
-msgstr ""
+msgstr "어둠 속에 있는 크리쳐는 원거리 공격을 하거나 당할 수 없습니다."
 
 #. key = Shared_Target_FrenziedStrike_Boar_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2010
 msgctxt "h5fa3756bgc945g4d08ga574gbfe75a58bf59"
 msgid "Gore an enemy while in a fit of rage."
-msgstr ""
+msgstr "격노에 휩싸인 상태에서 적을 들이받습니다."
 
 #. key = Shared_Target_FrenziedStrike_Boar_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2080
 msgctxt "h57e0c864gcc19g4ebdg8855g6610dbcf4c67"
 msgid "Frenzied Strike"
-msgstr ""
+msgstr "광란의 일격"
 
 #. key = Shared_Target_FrenziedStrike_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1618
 msgctxt "h7cff444dga20bg4ecbg8807g7fe34851fbe3"
 msgid "As a bonus action, make a melee attack with your equipped weapon."
-msgstr ""
+msgstr "착용한 무기를 이용해 추가 행동으로 근접 공격을 가합니다."
 
 #. key = Shared_Target_FrenziedStrike_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1674
 msgctxt "hdb57a06dg2feag4f96g9a53g029621bdc59c"
 msgid "Frenzied Strike"
-msgstr ""
+msgstr "광란의 일격"
 
 #. key = Shared_Target_Friends_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:533
@@ -41855,13 +42053,13 @@ msgstr "주문의 효과가 끝나면, 대상은 자신이 마법에 걸렸었�
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1849
 msgctxt "h0b98d9b2g9dd4g40b0g9cd7g3164e5903e24"
 msgid "Transform yourself or an ally into a cloud of mist to avoid attacks."
-msgstr ""
+msgstr "자기 자신 또는 아군을 안개 구름으로 변신시켜 공격을 회피합니다."
 
 #. key = Shared_Target_GaseousForm_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1898
 msgctxt "h44585d58gfba7g4acfgb5ffg76b55f7f155e"
 msgid "Gaseous Form"
-msgstr ""
+msgstr "가스 형상"
 
 #. key = Shared_Target_GaseousForm_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:365
@@ -41872,6 +42070,9 @@ msgid ""
 "Constitution, Dexterity, and Strength <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throws</LSTag>, and becomes tiny in size. "
 msgstr ""
+"대상은 모든 피해 유형에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 가지며, 건강, 민첩, 그리고 근력 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 얻고, 소형 크기로 취급됩니다. "
 
 #. key = Shared_Target_GlyphOfWarding_Acid_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1863
@@ -41879,19 +42080,19 @@ msgctxt "h178cf239g866ag458cg9f3ag76dd905bedc7"
 msgid ""
 "The glyphs explode and hurt everyone within range when stepped on by an "
 "enemy."
-msgstr ""
+msgstr "적이 밟으면 문자가 폭발하여 범위 내의 모두에게 피해를 입힙니다."
 
 #. key = Shared_Target_GlyphOfWarding_Acid_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1912
 msgctxt "hd17a83d3g1cf9g47d3g8bc3ge9ea4dd47a53"
 msgid "Glyph of Warding: Acid"
-msgstr ""
+msgstr "수호의 문자: 산"
 
 #. key = Shared_Target_GlyphOfWarding_Cold_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1919
 msgctxt "h90b107b3g84e8g4299g8d66g59a7fbf99715"
 msgid "Glyph of Warding: Cold"
-msgstr ""
+msgstr "수호의 문자: 냉기"
 
 #. key = Shared_Target_GlyphOfWarding_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1856
@@ -41899,7 +42100,7 @@ msgctxt "h6f36f3c9g7bb0g404fgbf7egd7f83853458d"
 msgid ""
 "Inscribe a circle of arcane glyphs on the ground that trigger a magical "
 "effect when stepped on by an enemy."
-msgstr ""
+msgstr "적이 밟으면 마법 효과를 발동하는 비전 문자를 바닥에 새겨 넣습니다."
 
 #. key = Shared_Target_GlyphOfWarding_Detonation_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1870
@@ -41907,31 +42108,31 @@ msgctxt "h8ffb6217g65fcg417cg9352gec510f7db43f"
 msgid ""
 "The glyphs emit a gust of wind that pushes back everyone within range when "
 "stepped on by an enemy."
-msgstr ""
+msgstr "적이 문자를 밟으면 돌풍을 내뿜어 범위 안에 있는 모두를 밀어냅니다."
 
 #. key = Shared_Target_GlyphOfWarding_Detonation_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1947
 msgctxt "h738c6f92gc71ag49b1g843eg8d6abb75b019"
 msgid "Glyph of Warding: Detonation"
-msgstr ""
+msgstr "수호의 문자: 폭발"
 
 #. key = Shared_Target_GlyphOfWarding_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1905
 msgctxt "h9a8d4bfcg859fg49c2g94c9ged72f4d1bfc5"
 msgid "Glyph of Warding"
-msgstr ""
+msgstr "수호의 문자"
 
 #. key = Shared_Target_GlyphOfWarding_Fire_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1926
 msgctxt "h41abec79g1231g4786g950aga505846fb88a"
 msgid "Glyph of Warding: Fire"
-msgstr ""
+msgstr "수호의 문자: 불"
 
 #. key = Shared_Target_GlyphOfWarding_Lightning_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1933
 msgctxt "haf59f742gfe29g49b1g96f6g6bbcf6ac4aca"
 msgid "Glyph of Warding: Lightning"
-msgstr ""
+msgstr "수호의 문자: 번개"
 
 #. key = Shared_Target_GlyphOfWarding_Sleep_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1877
@@ -41940,18 +42141,20 @@ msgid ""
 "The glyphs emit a soothing magic that puts everyone within range to <LSTag "
 "Type=\"Status\" Tooltip=\"SLEEP\">Sleep</LSTag> when stepped on by an enemy."
 msgstr ""
+"적이 밟으면 문자가 위안의 마법을 발산해 범위 내의 모두를 <LSTag Type=\"Status\" Tooltip=\"SLEEP\""
+">잠재웁니다</LSTag>."
 
 #. key = Shared_Target_GlyphOfWarding_Sleep_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1954
 msgctxt "ha65506f2g9a17g48fdga7f2g64f9080025e8"
 msgid "Glyph of Warding: Sleep"
-msgstr ""
+msgstr "수호의 문자: 수면"
 
 #. key = Shared_Target_GlyphOfWarding_Thunder_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1940
 msgctxt "h820b0c03gb2e3g4e06gb672gc5097abfb138"
 msgid "Glyph of Warding: Thunder"
-msgstr ""
+msgstr "수호의 문자: 천둥"
 
 #. key = Shared_Target_Goodberry_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:295
@@ -41980,13 +42183,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1282
 msgctxt "h80efc73bgfa6cg4a6bg9e68g6f4b0a4a2aaa"
 msgid "Impale a target. "
-msgstr ""
+msgstr "대상을 꿰뚫습니다. "
 
 #. key = Shared_Target_Gore_DeepRothe_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1303
 msgctxt "h0a64066eg7dbbg46c7g8c8cg08c2790cc85c"
 msgid "Gore"
-msgstr ""
+msgstr "들이받기"
 
 #. key = Shared_Target_Gore_DeepRothe_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:267
@@ -41997,18 +42200,22 @@ msgid ""
 "\"DEBRIS_THRESHOLD\">Medium</LSTag>, or <LSTag Type=\"Status\" Tooltip="
 "\"DEBRIS_THRESHOLD_GREATER\">Greater Toughness</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"DEBRIS_THRESHOLD_LESSER\">약함</LSTag>LSTag "
+"Type=\"Status\" Tooltip=\"DEBRIS_THRESHOLD\">중간</LSTag>, 또는 <LSTag Type="
+"\"Status\" Tooltip=\"DEBRIS_THRESHOLD_GREATER\">단단함</LSTag> 강도를 지닌 대상에게 [1] "
+"를 추가로 가합니다."
 
 #. key = Shared_Target_Gore_Minotaur_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1275
 msgctxt "h5b8cbe67g8d00g47a4g9683g92b204cbbcbb"
 msgid "Impale a target and push it back [1]."
-msgstr ""
+msgstr "대상을 꿰뚫고 [1] 멀리 밀어냅니다."
 
 #. key = Shared_Target_Gore_Minotaur_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1296
 msgctxt "h29c81b8agb103g46beg8d27ga9ad658e5a6b"
 msgid "Gore"
-msgstr ""
+msgstr "들이받기"
 
 #. key = Shared_Target_Grease_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1016
@@ -42017,6 +42224,8 @@ msgid ""
 "Cover the ground in grease, slowing creatures within and possibly making "
 "them fall <LSTag Type=\"Status\" Tooltip=\"PRONE\">Prone</LSTag>."
 msgstr ""
+"바닥을 기름으로 뒤덮어 범위 내의 크리쳐를 둔화시키고 <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎어짐</"
+"LSTag> 상태로 만들 수 있습니다."
 
 #. key = Shared_Target_Grease_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1044
@@ -42028,13 +42237,13 @@ msgstr "기름"
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:120
 msgctxt "hc0fbb025g37dbg4f3eg96d8g12f45e569e50"
 msgid "As a bonus action, make a melee attack with your equipped weapon."
-msgstr ""
+msgstr "착용한 무기를 이용해 추가 행동으로 근접 공격을 가합니다."
 
 #. key = Shared_Target_GreatWeaponMaster_BonusAttack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:120
 msgctxt "h8b230e78ge8f3g4eceg9758g3baec3796c51"
 msgid "Great Weapon Master: Bonus Attack"
-msgstr ""
+msgstr "대형 무기 전문가: 추가 공격"
 
 #. key = Shared_Target_Guidance_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:302
@@ -42043,6 +42252,8 @@ msgid ""
 "Bestow guidance upon an ally. They gain a +1d4 bonus to <LSTag Tooltip="
 "\"AbilityCheck\">Ability Checks</LSTag>."
 msgstr ""
+"아군에게 인도를 부여합니다. 대상은 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 +1d4 "
+"보너스를 얻습니다."
 
 #. key = Shared_Target_Guidance_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:302
@@ -42056,7 +42267,7 @@ msgctxt "hef7fcdbegfdd3g4d29gb31dgd9cf99efca6c"
 msgid ""
 "Magically help an ally succeed in their endeavours. <br>Helpful during "
 "dialogues and exploration."
-msgstr ""
+msgstr "아군에게 마법을 부여해 여정에 도움을 줍니다. <br>대화나 탐색에 유용합니다."
 
 #. key = Shared_Target_HallucinationSpores_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1289
@@ -42064,13 +42275,13 @@ msgctxt "h3f2d2f77gd061g4ac7g8df8g70dc05e45bd3"
 msgid ""
 "Bestow hallucinations on a humanoid creature to make it wander around "
 "uncontrollably."
-msgstr ""
+msgstr "인간형 생명체가 환각을 보도록 만들어 무작위 방향으로 돌아다니게 합니다."
 
 #. key = Shared_Target_HallucinationSpores_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1310
 msgctxt "hd52867a2gddbbg4c13g9e2egc2186685b1d7"
 msgid "Hallucination Spores"
-msgstr ""
+msgstr "환각 포자"
 
 #. key = Shared_Target_HallucinationSpores_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:183
@@ -42080,6 +42291,8 @@ msgid ""
 "<LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag> and can't take "
 "actions, bonus actions, or reactions."
 msgstr ""
+"<LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 가지며 행동, 추가 행동, 또는 반응 행동을 수행할 수 없습니다."
 
 #. key = Shared_Target_Haste_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1884
@@ -42088,6 +42301,8 @@ msgid ""
 "Target yourself or an ally to become <LSTag Type=\"Status\" Tooltip=\"HASTE\""
 ">Hastened</LSTag>."
 msgstr ""
+"자기 자신 또는 아군을 지정해 <LSTag Type=\"Status\" Tooltip=\"HASTE\">가속</LSTag> 효과를 "
+"부여합니다."
 
 #. key = Shared_Target_Haste_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1961
@@ -42121,7 +42336,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1562
 msgctxt "he5a1a17dgecfeg4e94gbe80g3ec7cec359b8"
 msgid "Heartstopper"
-msgstr ""
+msgstr "심장 마비"
 
 #. key = Shared_Target_HeatMetal_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:547
@@ -42132,6 +42347,9 @@ msgid ""
 ">Disadvantage</LSTag> on <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> "
 "and <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag>."
 msgstr ""
+"금속제 무기나 갑옷을 빨갛게 달아오르게 만들어 그에 닿는 크리쳐가 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag>과 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 가지도록 합니다."
 
 #. key = Shared_Target_HeatMetal_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:561
@@ -42148,6 +42366,8 @@ msgid ""
 "use a bonus action on subsequent turns to deal another [1] and force the "
 "creature to let go or receive Disadvantage."
 msgstr ""
+"크리쳐가 금속 방어구만을 입고 있다면, 항상 불리점을 부여받습니다.<br><br>크리쳐가 여전히 금속에 접촉하고 있다면, 해당 턴에 추가 "
+"행동을 사용해 [1] 를 다시 입힌 뒤 강제로 금속에서 떨어지도록 만들거나 불리점을 부여할 수 있습니다."
 
 #. key = Shared_Target_HeatMetal_Reapply_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:554
@@ -42158,25 +42378,28 @@ msgid ""
 "<LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> and <LSTag Tooltip="
 "\"AbilityCheck\">Ability Checks</LSTag>."
 msgstr ""
+"금속을 가열해 접촉 중인 크리쳐가 금속을 놓치도록 만들거나, <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag>과 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_HeatMetal_Reapply_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:568
 msgctxt "ha2ab42f5gfd7bg4716g963fg17956107e253"
 msgid "Heat Metal: Reapply Damage"
-msgstr ""
+msgstr "금속 가열: 피해 재적용"
 
 #. key = Shared_Target_HellishRebuke_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:561
 msgctxt "hcf1c0532gd0afg439eg8683g05080783d38a"
 msgid ""
 "As a reaction to taking damage, you surround your attacker in hellish flames."
-msgstr ""
+msgstr "피해를 받으면, 반응 행동으로 공격자를 지옥의 화염으로 뒤덮을 수 있습니다."
 
 #. key = Shared_Target_HellishRebuke_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:575
 msgctxt "h11ee1075g0231g4694g9786g88edadd35741"
 msgid "Hellish Rebuke"
-msgstr ""
+msgstr "지옥의 책망"
 
 #. key = Shared_Target_Help_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:316
@@ -42208,6 +42431,8 @@ msgid ""
 "Type=\"Status\" Tooltip=\"FRIGHTENED\">Frightened</LSTag> and gain [1] each "
 "turn."
 msgstr ""
+"2 명의 크리쳐에게 용기와 체력을 불어넣습니다. 대상은 <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\""
+">공포</LSTag>에 면역을 얻으며 매 턴 [1] 을 얻습니다."
 
 #. key = Shared_Target_Heroism_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1639
@@ -42217,12 +42442,14 @@ msgid ""
 "be <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\">Frightened</LSTag> and "
 "gains [1] each turn."
 msgstr ""
+"자기 자신 또는 아군에게 용기와 체력을 불어넣습니다. 대상은 <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED"
+"\">공포</LSTag>에 면역을 얻으며 매 턴 [1] 을 얻습니다."
 
 #. key = Shared_Target_Heroism_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1695
 msgctxt "hd7d3711fgd2f1g43fdg9f53g3da8a8b31067"
 msgid "Heroism"
-msgstr ""
+msgstr "영웅심"
 
 #. key = Shared_Target_Hex_Charisma_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:610
@@ -42231,12 +42458,14 @@ msgid ""
 "Impart <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Charisma "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"매력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Charisma_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:624
 msgctxt "h43481d52gfc13g4d6aga148gcc85ffc53936"
 msgid "Hex (Charisma)"
-msgstr ""
+msgstr "주박 (매력)"
 
 #. key = Shared_Target_Hex_Constitution_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:589
@@ -42245,12 +42474,14 @@ msgid ""
 "Impart <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Constitution "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"건강 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Constitution_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:603
 msgctxt "h74ae9d82ge60dg49bdga62cg8bb70f792365"
 msgid "Hex (Constitution)"
-msgstr ""
+msgstr "주박 (건강)"
 
 #. key = Shared_Target_Hex_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:568
@@ -42261,6 +42492,9 @@ msgid ""
 "Tooltip=\"AbilityCheck\">Ability Checks</LSTag> with an <LSTag Tooltip="
 "\"Abilities\">Ability</LSTag> of your choosing."
 msgstr ""
+"크리쳐에게 저주를 내려 자신이 공격할 때마다 추가 피해를 주고 선택한 <LSTag Tooltip=\"Abilities\">능력치</"
+"LSTag>에 기반한 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Dexterity_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:582
@@ -42269,18 +42503,20 @@ msgid ""
 "Impart <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Dexterity "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Dexterity_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:596
 msgctxt "h098b7d5dge7bbg4958g889eg2324c964cd81"
 msgid "Hex (Dexterity)"
-msgstr ""
+msgstr "주박 (민첩)"
 
 #. key = Shared_Target_Hex_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:582
 msgctxt "heb47bc26gcd09g429cg97f6g21791a883edf"
 msgid "Hex"
-msgstr ""
+msgstr "주박"
 
 #. key = Shared_Target_Hex_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:253
@@ -42289,6 +42525,8 @@ msgid ""
 "If the target dies before the spell ends, you can Hex a new creature without "
 "expending a <LSTag Tooltip=\"SpellSlot\">spell slot</LSTag>."
 msgstr ""
+"주문의 효과가 만료되기 전에 대상이 사망하면, <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소모하지 "
+"않고 새로운 대상에게 주박을 걸 수 있습니다."
 
 #. key = Shared_Target_Hex_Intelligence_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:596
@@ -42297,12 +42535,14 @@ msgid ""
 "Impart <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Intelligence "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"지능 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Intelligence_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:610
 msgctxt "h1c9b14f3gd72eg4ab6ga127gf81caba6a6e5"
 msgid "Hex (Intelligence)"
-msgstr ""
+msgstr "주박 (지능)"
 
 #. key = Shared_Target_Hex_Reapply_Charisma_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:659
@@ -42311,12 +42551,14 @@ msgid ""
 "Impart <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Charisma "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"매력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Reapply_Charisma_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:673
 msgctxt "hd1d8c7f3gfe8cg4b0fg8aceg0dfa3ed58ef7"
 msgid "Reapply Hex (Charisma)"
-msgstr ""
+msgstr "주박 재적용 (매력)"
 
 #. key = Shared_Target_Hex_Reapply_Constitution_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:638
@@ -42325,12 +42567,14 @@ msgid ""
 "Impart <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Constitution "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"건강 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Reapply_Constitution_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:652
 msgctxt "h80380a58gadd4g42aagaf05g5537fdb1213a"
 msgid "Reapply Hex (Constitution)"
-msgstr ""
+msgstr "주박 재적용 (건강)"
 
 #. key = Shared_Target_Hex_Reapply_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:617
@@ -42339,6 +42583,7 @@ msgid ""
 "Curse a new creature without expending an extra <LSTag Tooltip=\"SpellSlot\""
 ">spell slot</LSTag>."
 msgstr ""
+"추가 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소모하지 않고 새로운 크리쳐에게 저주를 내립니다."
 
 #. key = Shared_Target_Hex_Reapply_Dexterity_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:631
@@ -42347,18 +42592,20 @@ msgid ""
 "Imparts <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Dexterity "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Reapply_Dexterity_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:645
 msgctxt "h73781beeg393ag4368ga0afg1f95d6e88168"
 msgid "Reapply Hex (Dexterity)"
-msgstr ""
+msgstr "주박 재적용 (민첩)"
 
 #. key = Shared_Target_Hex_Reapply_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:631
 msgctxt "h602510e1g046eg41c0g999fg8235d034c55b"
 msgid "Reapply Hex"
-msgstr ""
+msgstr "주박 재적용"
 
 #. key = Shared_Target_Hex_Reapply_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:99
@@ -42369,6 +42616,9 @@ msgid ""
 "\"AbilityCheck\">Ability Checks</LSTag> with an <LSTag Tooltip=\"Ability\""
 ">Ability</LSTag> of your choosing."
 msgstr ""
+"저주에 걸린 크리쳐는 당신이 공격할 떄마다 추가 피해를 입으며 선택한 <LSTag Tooltip=\"Ability\">능력치</"
+"LSTag>에 기반한 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Target_Hex_Reapply_Intelligence_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:645
@@ -42377,12 +42627,14 @@ msgid ""
 "Impart <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Intelligence "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"지능 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Reapply_Intelligence_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:659
 msgctxt "hf47867bag6358g4c61g8ec2g2e8bd7d81df3"
 msgid "Reapply Hex (Intelligence)"
-msgstr ""
+msgstr "주박 재적용 (지능)"
 
 #. key = Shared_Target_Hex_Reapply_Strength_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:624
@@ -42391,12 +42643,14 @@ msgid ""
 "Impart <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Strength "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Reapply_Strength_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:638
 msgctxt "h1bf25e3bg198fg465bgb0ebg3de4703d3492"
 msgid "Reapply Hex (Strength)"
-msgstr ""
+msgstr "주박 재적용 (근력)"
 
 #. key = Shared_Target_Hex_Reapply_Wisdom_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:652
@@ -42405,12 +42659,14 @@ msgid ""
 "Impart <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Wisdom <LSTag "
 "Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Reapply_Wisdom_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:666
 msgctxt "hf753df50gcf68g45afgb0e8g0f7509571cdc"
 msgid "Reapply Hex (Wisdom)"
-msgstr ""
+msgstr "주박 재적용 (지혜)"
 
 #. key = Shared_Target_Hex_Strength_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:575
@@ -42419,12 +42675,14 @@ msgid ""
 "Impart <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Strength "
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Strength_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:589
 msgctxt "h2c21b4f1g103ag411fg827eg36d1b1e7c918"
 msgid "Hex (Strength)"
-msgstr ""
+msgstr "주박 (근력)"
 
 #. key = Shared_Target_Hex_Wisdom_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:603
@@ -42433,12 +42691,14 @@ msgid ""
 "Impart <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Wisdom <LSTag "
 "Tooltip=\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Disadvantage"
+"\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_Hex_Wisdom_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:617
 msgctxt "he81190acgd68cg4e88gb806g30a4d5f62b89"
 msgid "Hex (Wisdom)"
-msgstr ""
+msgstr "주박 (지혜)"
 
 #. key = Shared_Target_HideousLaughter_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:666
@@ -42447,12 +42707,14 @@ msgid ""
 "Inflict a creature with fits of laughter, leaving it <LSTag Type=\"Status\" "
 "Tooltip=\"PRONE\">Prone</LSTag> without the ability to get up."
 msgstr ""
+"크리쳐의 웃음을 유발해 <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎어짐</LSTag> 상태로 만들고 "
+"일어날 수 없게 합니다."
 
 #. key = Shared_Target_HideousLaughter_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:680
 msgctxt "ha3b5d082g1a4cg4944ga411g1392db96da95"
 msgid "Tasha's Hideous Laughter"
-msgstr ""
+msgstr "타샤의 끔찍한 웃음"
 
 #. key = Shared_Target_HinderingSmash_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1513
@@ -42478,13 +42740,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:673
 msgctxt "hcd87bb08g774ag4881g8194g3aac50e64f70"
 msgid "Paralyse a humanoid creature, making it unable to move or act."
-msgstr ""
+msgstr "인간형 크리쳐를 마비시겨, 움직이거나 행동을 취할 수 없게 합니다."
 
 #. key = Shared_Target_HoldPerson_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:687
 msgctxt "h3f38a5afg839cg41eagb34bgc40e7ccdde7a"
 msgid "Hold Person"
-msgstr ""
+msgstr "인간형 포박"
 
 #. key = Shared_Target_HolyRebuke_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2066
@@ -42507,6 +42769,8 @@ msgid ""
 "Lash out at a target and possibly push it back [1] and make it <LSTag Type="
 "\"Status\" Tooltip=\"BLEEDING\">Bleed</LSTag>."
 msgstr ""
+"대상에게 돌진해 [1] 멀리 밀어내고 <LSTag Type=\"Status\" Tooltip=\"BLEEDING\">출혈</LSTag> "
+"상태를 부여할 수 있습니다."
 
 #. key = Shared_Target_Hook_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1324
@@ -42520,31 +42784,31 @@ msgctxt "h4a5c145dgd1adg4034ga26bg8781dcb9fbd4"
 msgid ""
 "Target two creatures standing close to each other. Attack the first creature "
 "and open up the second for a follow-up strike."
-msgstr ""
+msgstr "서로 가까이 있는 두 명의 크리쳐를 선택합니다. 첫 번째 대상을 공격한 뒤 두 번째 대상에 대한 후속 공격을 준비합니다."
 
 #. key = Shared_Target_HordeBreaker_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:43
 msgctxt "h22e88128g36c8g4cedgbad1g942fe6401a75"
 msgid "Horde Breaker (Melee)"
-msgstr ""
+msgstr "무리 파괴자 (근접)"
 
 #. key = Shared_Target_HordeBreaker_Free_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:50
 msgctxt "ha3ee49d9gbfc8g427ag83e9g5d4f2dc9c427"
 msgid "Follow up on your horde breaker with a second attack."
-msgstr ""
+msgstr "무리 파괴자의 후속 공격을 가합니다."
 
 #. key = Shared_Target_HordeBreaker_Free_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:50
 msgctxt "h77402d73g1d0fg4787g8e5bg7d3e041005e9"
 msgid "Horde Breaker Follow-Up (Melee)"
-msgstr ""
+msgstr "후속 무리 파괴자 (근접)"
 
 #. key = Shared_Target_HordeBreaker_Free_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:15
 msgctxt "h0e7f274bgf43cg4d3cgb5b9gdff10d0213cf"
 msgid "Target must be within [1] of your first victim."
-msgstr ""
+msgstr "대상은 첫 번째 대상 [1] 내에 있어야 합니다."
 
 #. key = Shared_Target_HorrificVisage_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1583
@@ -42552,25 +42816,25 @@ msgctxt "he2341cb2gd1b1g4e4egb369gebaf1cd062ef"
 msgid ""
 "Release the Eldritch magic within you to terrify a creature with your "
 "twisted powers and regain [1] Sorcery Points."
-msgstr ""
+msgstr "내면의 엘드리치 마법을 발산해 크리쳐를 두려움에 떨게 만들고 소서리 포인트를 [1] 회복합니다."
 
 #. key = Shared_Target_HorrificVisage_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1646
 msgctxt "had4908b6g9022g48ddg9db4g40e5d876222e"
 msgid "Horrific Visage"
-msgstr ""
+msgstr "끔찍한 얼굴"
 
 #. key = Shared_Target_HorrificVisage_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:113
 msgctxt "h318c5e3bg6681g4e22ga74fg91b5f1d2e8bd"
 msgid "The creature takes another [1] per turn."
-msgstr ""
+msgstr "크리쳐는 다시 매 턴 [1] 를 입습니다."
 
 #. key = Shared_Target_HungerOfHadar_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1891
 msgctxt "hfff92e93g7210g4d4aga082g2776bf534305"
 msgid "Create a sphere of cold blackness, teeming with unknown horrors."
-msgstr ""
+msgstr "알 수 없는 공포로 가득 찬 차가운 어둠의 구체를 생성합니다."
 
 #. key = Shared_Target_HungerOfHadar_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1968
@@ -42587,6 +42851,10 @@ msgid ""
 " Tooltip=\"DIFFICULT_TERRAIN\">Difficult Terrain</LSTag> and creatures "
 "within are <LSTag Type=\"Status\" Tooltip=\"BLINDED\">Blinded</LSTag>."
 msgstr ""
+"이 지역에서 턴을 시작하는 크리쳐는 [1] 를 입습니다. 이 지역에서 턴을 끝마치는 크리쳐는 [2] 를 입을 수 "
+"있습니다.<br><br>해당 지역은 <LSTag Type=\"Status\" Tooltip=\"DIFFICULT_TERRAIN\">험난한 "
+"지형</LSTag>으로 취급되며 내부의 크리쳐는 <LSTag Type=\"Status\" Tooltip=\"BLINDED\""
+">실명</LSTag>됩니다."
 
 #. key = Shared_Target_HuntersMark_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:680
@@ -42594,7 +42862,7 @@ msgctxt "hbf18c5f4g3952g4e08gaeb6ga9785601dd2c"
 msgid ""
 "Mark a creature as your quarry to deal an additional [1] whenever you hit it "
 "with a weapon attack. "
-msgstr ""
+msgstr "크리쳐에게 사냥감 표식을 남겨 무기로 공격할 때마다 [1] 를 추가로 가합니다. "
 
 #. key = Shared_Target_HuntersMark_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:694
@@ -42609,6 +42877,8 @@ msgid ""
 "If the target dies before the spell ends, you can mark a new creature "
 "without expending a <LSTag Tooltip=\"SpellSlot\">spell slot</LSTag>."
 msgstr ""
+"주문의 효과가 종료되기 전에 대상이 사망하면, <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 다시 "
+"소모하지 않고 다른 대상에게 새로운 표식을 남길 수 있습니다."
 
 #. key = Shared_Target_HuntersMark_Reapply_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:687
@@ -42618,12 +42888,14 @@ msgid ""
 "LSTag> to a new creature without using a <LSTag Tooltip=\"SpellSlot\">spell "
 "slot</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소모하지 않고 새로운 크리쳐에게 <LSTag Type="
+"\"Status\" Tooltip=\"HUNTERS_MARK\">사냥꾼의 징표</LSTag>를 새깁니다."
 
 #. key = Shared_Target_HuntersMark_Reapply_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:701
 msgctxt "h5886f018g4ae4g433bg934cgc9f91504e54d"
 msgid "Reapply Hunter's Mark"
-msgstr ""
+msgstr "사냥꾼의 징표 재적용"
 
 #. key = Shared_Target_HypnoticPattern_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1989
@@ -42633,24 +42905,26 @@ msgid ""
 "\"HYPNOTIC_PATTERN\">Hypnotises</LSTag> all creatures within the area that "
 "can see the pattern. "
 msgstr ""
+"뒤틀린 색 패턴을 생성해 그를 볼 수 있는 모든 크리쳐를 <LSTag Type=\"Status\" Tooltip="
+"\"HYPNOTIC_PATTERN\">최면</LSTag>에 빠뜨립니다. "
 
 #. key = Shared_Target_HypnoticPattern_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2066
 msgctxt "had1ccd22g91e2g4935g9bedg54c2336f9d5d"
 msgid "Hypnotic Pattern"
-msgstr ""
+msgstr "최면 무늬"
 
 #. key = Shared_Target_Identify_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:323
 msgctxt "h2331def4gcc6eg443egb96cg439d19ba0a91"
 msgid "Identify magical items, including whether or not they are cursed."
-msgstr ""
+msgstr "마법 아이템을 식별합니다(저주받은 물건도 포함합니다)."
 
 #. key = Shared_Target_Identify_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:323
 msgctxt "h523d72d5gfb8cg4665gbe33g56f8b6f51fe4"
 msgid "Identify"
-msgstr ""
+msgstr "식별"
 
 #. key = Shared_Target_InfectiousBite_Wolf_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2024
@@ -42659,24 +42933,26 @@ msgid ""
 "Bite a target and possibly turn it <LSTag Type=\"Status\" Tooltip="
 "\"INFECTIOUS_BITE_WOLF\">Septic</LSTag>."
 msgstr ""
+"대상을 물어 <LSTag Type=\"Status\" Tooltip=\"INFECTIOUS_BITE_WOLF\">패혈증</LSTag>을 "
+"유발합니다."
 
 #. key = Shared_Target_InfectiousBite_Wolf_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2094
 msgctxt "hc3e57b1bg2fc2g4e92g8a7cg1d304966e75d"
 msgid "Infectious Bite"
-msgstr ""
+msgstr "감염성 이빨"
 
 #. key = Shared_Target_InflictWounds_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:330
 msgctxt "hc944713cga286g447agafe2g475b57108860"
 msgid "Putrefy a creature with the necrotic energy filling your hands."
-msgstr ""
+msgstr "괴저 에너지로 가득한 손길로 적을 부패시킵니다."
 
 #. key = Shared_Target_InflictWounds_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:330
 msgctxt "h2d858107g039dg4845gb4f1gf0d7c3b10451"
 msgid "Inflict Wounds"
-msgstr ""
+msgstr "상처 가해"
 
 #. key = Shared_Target_Invisibility_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:337
@@ -42685,6 +42961,8 @@ msgid ""
 "Touch a creature to turn it <LSTag Type=\"Status\" Tooltip=\"INVISIBILITY\""
 ">Invisible</LSTag>."
 msgstr ""
+"크리쳐에게 접촉해 <LSTag Type=\"Status\" Tooltip=\"INVISIBILITY\">투명</LSTag> 상태로 "
+"만듭니다."
 
 #. key = Shared_Target_Invisibility_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:337
@@ -42696,22 +42974,25 @@ msgstr "투명화"
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:694
 msgctxt "h768a46b7gbf9dg4892gb3d6gd70eae8ecde6"
 msgid "Summon an illusion to distract your enemies. "
-msgstr ""
+msgstr "적의 주의를 분산하는 환영을 소환합니다. "
 
 #. key = Shared_Target_InvokeDuplicity_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:708
 msgctxt "h17dee741g25fdg4d3eg9887g60135b600eea"
 msgid "Invoke Duplicity"
-msgstr ""
+msgstr "복제 생성"
 
 #. key = Shared_Target_InvokeDuplicity_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:106
+#, fuzzy
 msgctxt "h9dfe3750gc247g4acag9f19gd3240edc1718"
 msgid ""
 "You and your allies receive <LSTag Tooltip=\"Advantage\">Advantage</LSTag> "
 "on <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> against a creature if "
 "both the attacker and the creature are within [1] of the illusion."
 msgstr ""
+"자신과 아군은 적과 본인이 환영과 [1] 내에 있으면 그 적을 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Target_IronboundPursuit_RedCap_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1303
@@ -42720,18 +43001,20 @@ msgid ""
 "Launch a flying kick that pushes the target back [1] and knocks it <LSTag "
 "Type=\"Status\" Tooltip=\"PRONE\">Prone</LSTag>."
 msgstr ""
+"날라차기를 시도해 대상을 [1] 멀리 밀어내고 <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎어짐</"
+"LSTag> 상태로 만듭니다."
 
 #. key = Shared_Target_IronboundPursuit_RedCap_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1331
 msgctxt "hc20d42c4g3613g44e2g94c7g96f8341bd434"
 msgid "Ironbound Pursuit"
-msgstr ""
+msgstr "끝없는 추격"
 
 #. key = Shared_Target_Jump_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:344
 msgctxt "he6b827afg3224g4283g8d78g07b8c063043f"
 msgid "Touch a creature to triple its jumping distance."
-msgstr ""
+msgstr "크리쳐에게 접촉해 도약 거리를 세 배로 증가시킵니다."
 
 #. key = Shared_Target_Jump_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:344
@@ -42743,19 +43026,19 @@ msgstr "도약"
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1520
 msgctxt "h389d6768g3049g4bf2g911cg8a7fc9de7a5d"
 msgid "Githyanki Psionics: Jump"
-msgstr ""
+msgstr "기스양키 사이오닉: 도약"
 
 #. key = Shared_Target_KnockOut_Person_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:351
 msgctxt "h35596984gab29g48e1ga2d2g9375aa75ff6d"
 msgid "Make a non-lethal attack against a creature. "
-msgstr ""
+msgstr "크리쳐에게 비살상 공격을 가합니다. "
 
 #. key = Shared_Target_KnockOut_Person_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:351
 msgctxt "h408501c5gbeabg4b1fgaa73g0e157131d47e"
 msgid "Knock Unconscious"
-msgstr ""
+msgstr "비살상 공격"
 
 #. key = Shared_Target_KnockOut_Person_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:29
@@ -42765,12 +43048,15 @@ msgid ""
 "\"KNOCKED_OUT\">Knock it Out</LSTag> instead. <br><br>Knocking companions "
 "unconscious will <LSTag Tooltip=\"Downed\">Down</LSTag> them."
 msgstr ""
+"크리쳐를 살해할만한 피해를 주는 경우, 대신 <LSTag Type=\"Status\" Tooltip=\"KNOCKED_OUT\">의식을 "
+"잃게</LSTag> 만듭니다. <br><br>동료의 의식을 잃게 만들면 <LSTag Tooltip=\"Downed\">쓰러질</"
+"LSTag> 것입니다."
 
 #. key = Shared_Target_Knock_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:701
 msgctxt "h0a0a67b7gba2cg48b0g85d4gb7d402cd1cc5"
 msgid "Unlock an object that is held shut by a mundane lock."
-msgstr ""
+msgstr "평범한 자물쇠로 잠긴 물체를 엽니다."
 
 #. key = Shared_Target_Knock_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:715
@@ -42782,7 +43068,7 @@ msgstr "노크"
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2178
 msgctxt "h77c5cd2bg1ffbg4f2bg9e6fge2f5b5b2f687"
 msgid "Lay on Hands: Greater Healing"
-msgstr ""
+msgstr "안수 치료: 상급 치유"
 
 #. key = Shared_Target_LayOnHands_Cure_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2080
@@ -42790,13 +43076,13 @@ msgctxt "hc5c1a0dfgabe9g4c1bgbd8dg8cf1d148bf27"
 msgid ""
 "Imbue your hands with divine power to cure all diseases and poisons "
 "affecting a creature."
-msgstr ""
+msgstr "신성한 힘이 담긴 손길로 크리쳐에 적용된 모든 질병과 독 효과를 치료합니다."
 
 #. key = Shared_Target_LayOnHands_Cure_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2164
 msgctxt "h84f7b18eg4548g4b9bg82b0gbe90954f66b5"
 msgid "Lay on Hands: Cure"
-msgstr ""
+msgstr "안수 치료: 치료"
 
 #. key = Shared_Target_LayOnHands_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2073
@@ -42816,13 +43102,13 @@ msgstr "안수 치료"
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2087
 msgctxt "hae864256g28abg4753gb730g8650d592e226"
 msgid "Imbue your hands with divine power to heal an ally."
-msgstr ""
+msgstr "신성한 힘이 담긴 손길로 아군을 치유합니다."
 
 #. key = Shared_Target_LayOnHands_SmallHeal_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2171
 msgctxt "h13826709gf888g4a58gbd2eg44c87eb0a527"
 msgid "Lay on Hands: Lesser Healing"
-msgstr ""
+msgstr "안수 치료: 하급 치유"
 
 #. key = Shared_Target_LesserRestoration_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:365
@@ -42855,12 +43141,14 @@ msgid ""
 "Touch 2 creatures to increase their <LSTag Tooltip=\"MovementSpeed\""
 ">Movement Speed</LSTag> by [1]."
 msgstr ""
+"2 명의 크리쳐에게 접촉해 대상의 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>를 [1] "
+"증가시킵니다."
 
 #. key = Shared_Target_Longstrider_3_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1996
 msgctxt "haf5d5563g225bg4451ga91eg1769e27170e3"
 msgid "Touch three creatures to increase their speed by [1]."
-msgstr ""
+msgstr "3 명의 크리쳐에게 접촉해 대상의 속도를 [1] 증가시킵니다."
 
 #. key = Shared_Target_Longstrider_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:379
@@ -42868,25 +43156,25 @@ msgctxt "hbb50b5dag6de5g4156g8a48g293ffb89cddc"
 msgid ""
 "Touch a creature to increase its <LSTag Tooltip=\"MovementSpeed\">Movement "
 "Speed</LSTag> by [1]."
-msgstr ""
+msgstr "크리쳐에게 접촉해 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>를 [1] 증가시킵니다."
 
 #. key = Shared_Target_Longstrider_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:379
 msgctxt "he462a36agb78fg41bfgad51g80a8fd1a6067"
 msgid "Longstrider"
-msgstr ""
+msgstr "활보"
 
 #. key = Shared_Target_MageArmor_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:386
 msgctxt "h499d78f8g9a2dg4585gb538g012050907f5c"
 msgid "Surround an unarmoured creature in a protective magical force."
-msgstr ""
+msgstr "갑옷을 입지 않은 크리쳐를 마법의 힘으로 보호합니다."
 
 #. key = Shared_Target_MageArmor_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:386
 msgctxt "h85010296g10afg4baagbabeg4a6e624d82e3"
 msgid "Mage Armour"
-msgstr ""
+msgstr "마법 갑주"
 
 #. key = Shared_Target_MageArmor_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:36
@@ -42894,7 +43182,7 @@ msgctxt "h4d276a05g6d8ag4fb3g84d4g24f09f278452"
 msgid ""
 "Its <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> increases to 13 + "
 "its Dexterity modifier."
-msgstr ""
+msgstr "<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 13 + 대상의 민첩 수정치로 설정됩니다."
 
 #. key = Shared_Target_MageHand_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:715
@@ -42920,19 +43208,19 @@ msgstr "투명한 손 모양의 영체를 만들어 물체를 조작하거나 �
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:736
 msgctxt "hd70c07ebg0f4dg437fgb650gde04a68a0d54"
 msgid "Githyanki Psionics: Mage Hand"
-msgstr ""
+msgstr "기스양키 사이오닉: 마법사의 손"
 
 #. key = Shared_Target_MagicClub_WoodWoad_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1310
 msgctxt "h71c26b92g290dg4e43gb379g9fba06d77fcc"
 msgid "Let your magic seep into your club while you attack."
-msgstr ""
+msgstr "공격하는 동안 곤봉에 마법이 스며들게 합니다."
 
 #. key = Shared_Target_MagicClub_WoodWoad_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1338
 msgctxt "h5583f383g161ag43e8ga116gb9b0aa1beabf"
 msgid "Magic Club"
-msgstr ""
+msgstr "마법 곤봉"
 
 #. key = Shared_Target_MagicWeapon_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1898
@@ -42969,24 +43257,26 @@ msgid ""
 "Make a formidable attack and possibly <LSTag Type=\"Status\" Tooltip="
 "\"FRIGHTENED\">Frighten</LSTag> your target."
 msgstr ""
+"가공할 일격을 날려 대상을 <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\">공포</LSTag>에 빠뜨릴 "
+"수 있습니다."
 
 #. key = Shared_Target_MenacingAttack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:127
 msgctxt "h1d9f969cg3a00g4692gb889g30308b8f0520"
 msgid "Menacing Attack (Melee)"
-msgstr ""
+msgstr "위협의 일격 (근접)"
 
 #. key = Shared_Target_MindMastery_Duergar_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1492
 msgctxt "h3a6f55a9g96f9g48b3g8385gc8a7d373fa68"
 msgid "Cause an enemy to make a weapon attack against one of its allies."
-msgstr ""
+msgstr "적이 자신의 아군 한 명에게 무기 공격을 가하도록 만듭니다."
 
 #. key = Shared_Target_MindMastery_Duergar_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1555
 msgctxt "h11afa05eg0939g4128g8dc5g7ec6bb1f21c6"
 msgid "Mind Mastery"
-msgstr ""
+msgstr "정신 통달"
 
 #. key = Shared_Target_MindSpike_MindMaster_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1485
@@ -42996,12 +43286,14 @@ msgid ""
 ">Disadvantage</LSTag> on Wisdom <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throws</LSTag>."
 msgstr ""
+"적의 정신에 침투해 지혜 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_MindSpike_NPC_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1548
 msgctxt "he1232b82g3097g40e0ga8b6gc0eb57fbfd71"
 msgid "Mind Spike"
-msgstr ""
+msgstr "정신 쐐기"
 
 #. key = Shared_Target_MinorIllusion_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:729
@@ -43028,13 +43320,13 @@ msgstr "이 주문을 시전하면서 은신을 유지할 수 있습니다."
 msgctxt "hc724a06agbd46g40e5gbdb0gbf6721f1bc8d"
 msgid ""
 "Surrounded by silver mist, you teleport to an unoccupied space you can see."
-msgstr ""
+msgstr "은빛 안개로 둘러싸인 채로, 시야 내의 빈 공간으로 순간이동합니다."
 
 #. key = Shared_Target_MistyStep_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:750
 msgctxt "h3b2b5d8agc531g4cb9g98b4g63c0e56320a9"
 msgid "Misty Step"
-msgstr ""
+msgstr "안개 걸음"
 
 #. key = Shared_Target_Moonbeam_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:890
@@ -43042,7 +43334,7 @@ msgctxt "h300e27a5g7a0bg4a3fg800dg03941fc68a61"
 msgid ""
 "Call down a silvery beam of pale light that damages any creature that enters "
 "the beam or starts its turn in the light."
-msgstr ""
+msgstr "은빛 광선을 소환해 해당 지역으로 들어오는 크리쳐와 그 지역에서 턴을 시작하는 크리쳐에게 피해를 입힙니다."
 
 #. key = Shared_Target_Moonbeam_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:904
@@ -43054,19 +43346,19 @@ msgstr "달빛 광선"
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:148
 msgctxt "h4b48ae4bg27bbg4f1eg8d03ga23a96417b22"
 msgid "You can use an action to move the beam [1]."
-msgstr ""
+msgstr "행동을 사용해 광선을 [1] 만큼 이동할 수 있습니다."
 
 #. key = Shared_Target_Moonbeam_Move_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:897
 msgctxt "hfc7ff423gc4e2g408fg8cccg19a80c0e74dd"
 msgid "Move the beam of moonlight up to [1]."
-msgstr ""
+msgstr "달빛 광선을 [1] 만큼 이동합니다."
 
 #. key = Shared_Target_Moonbeam_Move_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:911
 msgctxt "h36e2a927gf15ag4658ga62bgf006aa01c079"
 msgid "Move Moonbeam"
-msgstr ""
+msgstr "달빛 광선 이동"
 
 #. key = Shared_Target_Moonbeam_Move_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:309
@@ -43074,19 +43366,19 @@ msgctxt "h4a46eaa8g3e93g4787g81bcgd2c40a330fce"
 msgid ""
 "The beam of light damages any creature that enters the beam or starts its "
 "turn in the light."
-msgstr ""
+msgstr "광선은 그곳에 들어오는 크리쳐나 턴을 시작하는 크리쳐에게 피해를 가합니다."
 
 #. key = Shared_Target_Multiattack_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1317
 msgctxt "ha9b9fdb7g7a57g401eg8d69g407c54d455a1"
 msgid "Aim multiple attacks at a target."
-msgstr ""
+msgstr "대상에게 다중공격을 조준합니다."
 
 #. key = Shared_Target_Multiattack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1345
 msgctxt "hc33bfabagc64bg45e5gb2b0g5e13299b14ad"
 msgid "Multiattack"
-msgstr ""
+msgstr "다중공격"
 
 #. key = Shared_Target_Multiattack_Ettercap_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1324
