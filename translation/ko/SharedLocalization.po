@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-03-30 02:52+0000\n"
+"PO-Revision-Date: 2023-03-31 14:52+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -1139,9 +1139,10 @@ msgstr "매티스의 반지를 가져가서 존경 받기."
 
 #. key = Gustav_BackgroundGoals_New_Stat_49_Title
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Title.lsx:323
+#, fuzzy
 msgctxt "h3b195bb8g9f45g4ce1g988dge50628fbf020"
 msgid "Made You Look"
-msgstr ""
+msgstr "봤지?"
 
 #. key = Gustav_BackgroundGoals_New_Stat_4_Description
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Description.lsx:981
@@ -5144,9 +5145,10 @@ msgstr "난폭한 광란"
 
 #. key = Gustav_Status_BOOST_GOB_ROASTINGDWARF_CONSUME_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:351
+#, fuzzy
 msgctxt "h5eec287dg8b67g4f20g9530g3c7ccbd39e64"
 msgid "Meat Sweats"
-msgstr ""
+msgstr "육즙"
 
 #. key = Gustav_Status_BOOST_GOB_SMALLPOISON_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:757
@@ -44752,7 +44754,7 @@ msgstr "대상의 정신에 침투해 방어를 흩트려놓습니다."
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:2255
 msgctxt "h7bc43a8cg9c8eg4c17gbb2dgc7c7b613a5a3"
 msgid "Fracture Psyche"
-msgstr "정신 분열"
+msgstr "정신 균열"
 
 #. key = Shared_Target_TAD_Imperil_ExtraDescription
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:435
@@ -46467,7 +46469,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Tutorials_DisplayTitle.lsx:197
 msgctxt "h85be2be2gbf0ag42ffgb849g04aef054117f"
 msgid "Stealth"
-msgstr "잠행"
+msgstr "은신"
 
 #. key = Shared_Tutorials_New_Stat_6_KeyboardDescription
 #: Shared/Public/Shared/Localization/Tutorials_KeyboardDescription.lsx:169
@@ -46688,7 +46690,7 @@ msgstr "화염 숨결"
 #: Shared/Public/Shared/Localization/Zone_ExtraDescription.lsx:22
 msgctxt "h3d12e9afg9f1bg4e6fg9079ge917f1b54872"
 msgid "On a successful save, targets still take half damage."
-msgstr ""
+msgstr "대상이 내성 굴림에 성공해도, 절반의 피해를 입습니다."
 
 #. key = Shared_Zone_Mephit_MudBreath_Description
 #: Shared/Public/Shared/Localization/Stats/Zone_Description.lsx:36
@@ -46697,12 +46699,14 @@ msgid ""
 "Belch viscid mud at a creature to <LSTag Type=\"Status\" Tooltip="
 "\"MEPHIT_MUD_RESTRAINED\">Restrain</LSTag> it."
 msgstr ""
+"크리쳐에게 끈적한 진흙을 뱉어 <LSTag Type=\"Status\" Tooltip=\"MEPHIT_MUD_RESTRAINED\""
+">구속</LSTag>합니다."
 
 #. key = Shared_Zone_Mephit_MudBreath_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Zone_DisplayName.lsx:43
 msgctxt "h18cca570ga496g4815gb8c9g088cd80be86b"
 msgid "Mud Breath"
-msgstr ""
+msgstr "진흙 숨결"
 
 #. key = Shared_Zone_Mephit_MudBreath_ExtraDescription
 #: Shared/Public/Shared/Localization/Zone_ExtraDescription.lsx:15
@@ -46714,6 +46718,10 @@ msgid ""
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag> have <LSTag Tooltip="
 "\"Disadvantage\">Disadvantage</LSTag>."
 msgstr ""
+"구속된 크리쳐는 움직일 수 없습니다. 대상을 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>은 "
+"<LSTag Tooltip=\"Advantage\">이점</LSTag>을 가지는 반면, 대상의 공격 굴림과 민첩 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>은 <LSTag Tooltip=\"Disadvantage\">불리점</"
+"LSTag>을 가집니다."
 
 #. key = Shared_Zone_MindBlast_MindFlayer_Description
 #: Shared/Public/Shared/Localization/Stats/Zone_Description.lsx:43
@@ -46722,12 +46730,14 @@ msgid ""
 "Emit a wave of psychic energy at multiple targets and possibly <LSTag Type="
 "\"Status\" Tooltip=\"STUNNED\">Stun</LSTag> them."
 msgstr ""
+"여러 대상에게 정신 에너지의 파도를 날려 일정 확률로 <LSTag Type=\"Status\" Tooltip=\"STUNNED\""
+">기절</LSTag>시킵니다."
 
 #. key = Shared_Zone_MindBlast_MindFlayer_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Zone_DisplayName.lsx:50
 msgctxt "h27282233g52efg40b3gb198ge7b6c0ac2147"
 msgid "Mind Blast"
-msgstr ""
+msgstr "정신 분열"
 
 #. key = Shared_Zone_MindBlast_MindFlayer_ExtraDescription
 #: Shared/Public/Shared/Localization/Zone_ExtraDescription.lsx:8
@@ -46735,7 +46745,7 @@ msgctxt "hc56e2bd0g5826g49d0g9d5egf3e0f7f8d724"
 msgid ""
 "Stunned creatures can't move or act. They can try and shake off the effect "
 "at the end of each turn."
-msgstr ""
+msgstr "기절한 크리쳐는 움직이거나 행동할 수 없습니다. 각 턴이 끝날 때마다 효과를 떨쳐내려고 시도할 수 있습니다."
 
 #. key = Shared_Zone_Thunderwave_Description
 #: Shared/Public/Shared/Localization/Stats/Zone_Description.lsx:29
@@ -46758,9 +46768,11 @@ msgid ""
 "Lash out to attack up to [1] enemies at once and make them <LSTag Type="
 "\"Status\" Tooltip=\"BLEEDING\">Bleed</LSTag>."
 msgstr ""
+"최대 [1] 명의 적에게 한번에 달려들어 <LSTag Type=\"Status\" Tooltip=\"BLEEDING\">출혈</"
+"LSTag> 효과를 부여합니다."
 
 #. key = Shared_Zone_TigersBloodlust_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Zone_DisplayName.lsx:64
 msgctxt "h1064dcf2g1e22g47acg9f9eg178dcd945f57"
 msgid "Tiger's Bloodlust"
-msgstr ""
+msgstr "호랑이의 충동"
