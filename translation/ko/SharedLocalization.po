@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-04-07 10:52+0000\n"
-"Last-Translator: 로켓 <nick0406@naver.com>\n"
+"PO-Revision-Date: 2023-04-09 09:38+0000\n"
+"Last-Translator: OSI <sein4510@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
 "Language: ko\n"
@@ -1256,7 +1256,7 @@ msgstr "새로운 시야"
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Description.lsx:400
 msgctxt "hc946a0c3g79bfg46e3g8bfbg00315229b5ab"
 msgid "Trade with someone who has High approval of you."
-msgstr "찬성도가 높은 사람과 거래하기."
+msgstr "호감도가 높은 사람과 거래하기."
 
 #. key = Gustav_BackgroundGoals_New_Stat_58_Title
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Title.lsx:400
@@ -1436,7 +1436,7 @@ msgstr "재주 많은 남자"
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Description.lsx:484
 msgctxt "hf75d8ad8g677cg4516g87e7g5f41123e8087"
 msgid "Reach a High level of approval with a companion."
-msgstr "동료와 높은 찬성도를 달성하기."
+msgstr "동료와 높은 호감도를 달성하기."
 
 #. key = Gustav_BackgroundGoals_New_Stat_71_Title
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Title.lsx:484
@@ -10345,25 +10345,25 @@ msgstr ""
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:71
 msgctxt "h08310426g7ae3g4195g8747g6b3cb7a23a79"
 msgid "Green 3"
-msgstr ""
+msgstr "녹색 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_9_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:78
 msgctxt "h109f7c88g2f31g4aaag9460g5d20c81a3161"
 msgid "Grey 1"
-msgstr ""
+msgstr "회색 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_0_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:8
 msgctxt "ha6f498ebg3111g4b59g8e2fge452ebdbbc54"
 msgid "Blonde 1"
-msgstr ""
+msgstr "금발 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_100_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:708
 msgctxt "hc291b29fgb1d8g4b1eg9e36g12b782eb803e"
 msgid "Orange 6"
-msgstr ""
+msgstr "주황색 6"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_101_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:715
@@ -10375,7 +10375,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:722
 msgctxt "h1243edd3g4afeg4d5ag81b1g18b15ea55df3"
 msgid "Pink 6"
-msgstr ""
+msgstr "분홍색 6"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_103_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:729
@@ -10387,7 +10387,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:736
 msgctxt "h9b23765bgc264g4c29ga2d2g7736d9b5fabd"
 msgid "Purple 6"
-msgstr ""
+msgstr "자색 6"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_105_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:743
@@ -10399,7 +10399,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:750
 msgctxt "hf19d5aeag8e5ag409cg93bcg9b298691a884"
 msgid "Yellow 6"
-msgstr ""
+msgstr "노란색 6"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_107_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:757
@@ -10411,7 +10411,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:764
 msgctxt "h9940e451g9411g4f61ga029g8985c38e21f9"
 msgid "Blue 6"
-msgstr ""
+msgstr "청색 6"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_109_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:771
@@ -10423,7 +10423,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:85
 msgctxt "he4da48f9ge2b9g46fdga90ag275dba6b8449"
 msgid "Brown 2"
-msgstr ""
+msgstr "갈색 2"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_110_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:778
@@ -10435,97 +10435,97 @@ msgstr ""
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:785
 msgctxt "h52704d39g4f1cg43ffg9cd3g061b272c0dd9"
 msgid "Brown Gold 1"
-msgstr ""
+msgstr "브라운 골드 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_112_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:792
 msgctxt "h1f6f132cg3d5eg4b8eg9d14g9c59b795787e"
 msgid "Brown Gold 2"
-msgstr ""
+msgstr "브라운 골드 2"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_113_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:799
 msgctxt "hee9ebeddg8639g4a9fgb3ccg1f47ad5e01e6"
 msgid "Brown Gold 3"
-msgstr ""
+msgstr "브라운 골드 3"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_114_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:806
 msgctxt "h6c5476ecg05c3g4f70g8bb2gb2ac369da9d9"
 msgid "Brown Gold 4"
-msgstr ""
+msgstr "브라운 골드 4"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_115_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:813
 msgctxt "h3637142bg5863g4cb8g865fge6b09e7684f3"
 msgid "Brown Gold 5"
-msgstr ""
+msgstr "브라운 골드 5"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_116_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:820
 msgctxt "h33b943a7g2f02g4538g87cfga82c48680ef8"
 msgid "Brown Red 1"
-msgstr ""
+msgstr "브라운 레드 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_117_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:827
 msgctxt "h1e034b41g5edfg4dabgb2b1g4f4ced5585cf"
 msgid "Brown Red 2"
-msgstr ""
+msgstr "브라운 레드 2"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_118_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:834
 msgctxt "hefb79f80gc993g4c24g961fg2aeb81c16f6c"
 msgid "Brown Red 3"
-msgstr ""
+msgstr "브라운 레드 3"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_119_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:841
 msgctxt "h81847571ge9b7g4f1fgb34cg724407d09c99"
 msgid "Brown Red 4"
-msgstr ""
+msgstr "브라운 레드 4"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_11_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:92
 msgctxt "h56f544e7g5562g4067gb6f0g221356001065"
 msgid "Brown 3"
-msgstr ""
+msgstr "갈색 3"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_120_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:848
 msgctxt "he70299fag6458g4376g8301g9858aa106b64"
 msgid "Brown Red 5"
-msgstr ""
+msgstr "브라운 레드 5"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_12_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:99
 msgctxt "h85f064d0gd25ag41e7g9248g57758660cec0"
 msgid "Brown 4"
-msgstr ""
+msgstr "갈색 4"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_13_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:106
 msgctxt "hf7443927gc4bcg4272g8294g904dd9c15458"
 msgid "Auburn Brown 1"
-msgstr ""
+msgstr "오번 브라운 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_14_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:113
 msgctxt "hb0708f4fg26c3g4a4agb790gbeb0a378a91e"
 msgid "Auburn Brown 2"
-msgstr ""
+msgstr "오번 브라운 2"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_15_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:120
 msgctxt "h80a707b6gbaadg4af7g9ad2gffdca9c0975f"
 msgid "Auburn Brown 3"
-msgstr ""
+msgstr "오번 브라운 3"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_16_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:127
 msgctxt "h83b2387fgc757g4d36ga505g97c73ca377f1"
 msgid "Auburn Brown 4"
-msgstr ""
+msgstr "오번 브라운 4"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_17_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:134
