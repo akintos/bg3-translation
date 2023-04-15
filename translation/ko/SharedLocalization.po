@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-04-13 13:52+0000\n"
-"Last-Translator: 로켓 <nick0406@naver.com>\n"
+"PO-Revision-Date: 2023-04-15 17:52+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
 "Language: ko\n"
@@ -1990,7 +1990,7 @@ msgstr "파멸의 서기관"
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:57
 msgctxt "hd8f5f6fcg96fdg45b1g852fg7bf7850812f2"
 msgid "Deals an additional [1] if the target is not standing in sunlight."
-msgstr "태양빛 아래에 있지 아니한 대상에 대해 [1]의 피해를 추가로 줍니다."
+msgstr "태양빛 아래에 있지 아니한 대상에 대해 [1]를 추가로 줍니다."
 
 #. key = Gustav_Passive_DEN_Apprentice_DaggerOfShar_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:64
@@ -2007,7 +2007,7 @@ msgid ""
 "\"SLEEPING\">Sleeping</LSTag>."
 msgstr ""
 "<LSTag Type=\"Status\" Tooltip=\"KNOCKED_OUT\">의식을 잃은</LSTag> 또는 <LSTag Type="
-"\"Status\" Tooltip=\"SLEEPING\">수면</LSTag> 상태의 적에게 [1] 를 추가로 입힙니다."
+"\"Status\" Tooltip=\"SLEEPING\">수면</LSTag> 상태의 적에게 [1]를 추가로 입힙니다."
 
 #. key = Gustav_Passive_DEN_CapturedGoblin_MurderDagger_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:967
@@ -2031,7 +2031,7 @@ msgstr "믿음지기의 발걸음"
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:260
 msgctxt "hab162327gcbbeg4848ga84bga6a3031d6a7b"
 msgid "The wielder takes [1] whenever they deal damage using this blade."
-msgstr "이 칼날로 피해를 입힐 때마다, 착용자가 [1]의 피해를 입습니다."
+msgstr "이 칼날로 피해를 입힐 때마다, 착용자가 [1]를 입습니다."
 
 #. key = Gustav_Passive_DEN_HalsinBlade_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:274
@@ -2128,7 +2128,7 @@ msgctxt "h22462226g80fbg4260ga505gb3ad5859b449"
 msgid ""
 "Undead creatures that hit the wearer receive [1]. Beasts that hit the wearer "
 "deal an additional [1]."
-msgstr "착용자를 공격하는 언데드 크리쳐는 [1] 를 입습니다. 착용자를 공격하는 야수는 [1] 를 추가로 가합니다."
+msgstr "착용자를 공격하는 언데드 크리쳐는 [1]를 입습니다. 착용자를 공격하는 야수는 [1]를 추가로 가합니다."
 
 #. key = Gustav_Passive_FOR_OwlbearCubs_Armor_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:92
@@ -2142,7 +2142,7 @@ msgctxt "hc38ef374g8d19g47d5g80d3g0bc2665dd615"
 msgid ""
 "When the wearer casts a spell that deals Poison damage, it deals an "
 "additional [1]."
-msgstr "착용자가 독 피해를 가하는 주문을 시전하면, 피해량에 [1] 를 더합니다."
+msgstr "착용자가 독 피해를 가하는 주문을 시전하면, 피해량에 [1]를 더합니다."
 
 #. key = Gustav_Passive_FOR_SpiderQueen_Robe_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:330
@@ -2156,7 +2156,7 @@ msgctxt "hd25e7a3bg3808g444cga89fg461418d40823"
 msgid ""
 "Chance to Blind target. Deals an additional [1] to certain creatures that "
 "sport multiple sets of eyes."
-msgstr "대상을 실명시킬 확률이 있습니다. 여러 쌍의 눈을 가진 특정 크리처에게는 [1] 를 추가로 입힙니다."
+msgstr "대상을 실명시킬 확률이 있습니다. 여러 쌍의 눈을 가진 특정 크리처에게는 [1]를 추가로 입힙니다."
 
 #. key = Gustav_Passive_FOR_TrueSoul_SpearPassive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:43
@@ -2236,9 +2236,9 @@ msgid ""
 "target. If the attacker still has 25% or more <LSTag Tooltip=\"HitPoints\""
 ">hit points</LSTag>, they take [1] themselves."
 msgstr ""
-"대상에게 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 1d4 의 페널티를 가할 가능성이 있습니다. 공격자가 25% 이상의 <LSTag "
-"Tooltip=\"HitPoints\">체력</LSTag>을 가지고 있으면, 본인이 [1] 를 입습니다."
+"일정 확률로 대상에게 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 <LSTag Tooltip="
+"\"SavingThrow\">내성 굴림</LSTag>에 1d4 의 페널티를 부여합니다. 공격자가 25% 이상의 <LSTag Tooltip="
+"\"HitPoints\">체력</LSTag>을 가지고 있으면, 본인이 [1]를 입습니다."
 
 #. key = Gustav_Passive_GOB_PainPriest_Axe_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:36
@@ -2281,7 +2281,7 @@ msgctxt "hcaf53a49g1b9fg4927gab6eg66dde0f89725"
 msgid ""
 "Grants resistance to Necrotic damage. Deals an additional [1] to nearby "
 "targets, including the wielder."
-msgstr "괴저 피해에 저항을 얻습니다. 착용자를 포함한 주변의 대상에게 [1] 를 추가로 가합니다."
+msgstr "괴저 피해에 저항을 얻습니다. 착용자를 포함한 주변의 대상에게 [1]를 추가로 가합니다."
 
 #. key = Gustav_Passive_GOB_PainPriest_Scourge_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:281
@@ -2312,7 +2312,7 @@ msgid ""
 "When the wearer has less than 25% of their <LSTag Tooltip=\"HitPoints\">hit "
 "points</LSTag> left and deals damage, they regain [1]."
 msgstr ""
-"착용자가 25% 이하의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 남았을 때 피해를 가하면, [1] 만큼 "
+"착용자가 25% 이하의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 남았을 때 피해를 가하면, [1]을 "
 "회복합니다."
 
 #. key = Gustav_Passive_GOB_Priest_Amulet_Passive_DisplayName
@@ -2422,7 +2422,7 @@ msgid ""
 "succumb to Madness for two turns."
 msgstr ""
 "적이 개구리에게 근접 공격을 가했을 때 건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 실패하면, "
-"두턴 동안 광기에 휩싸입니다."
+"2턴 동안 광기에 휩싸입니다."
 
 #. key = Gustav_Passive_HAG_KillerFrogReaction_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:162
@@ -2457,7 +2457,7 @@ msgid ""
 "Creature gains an extra reaction. When attacked, the creature can use a "
 "reaction to counterattack with Vengeful Strike, dealing [1] and [2]."
 msgstr ""
-"추가 반응 행동을 얻습니다. 공격당했을 때, 반응 행동을 사용해 반격하여 복수의 일격을 가할 수 있으며, [1] 과 [2] 를 가합니다."
+"추가 반응 행동을 얻습니다. 공격당했을 때, 반응 행동을 사용해 반격하여 복수의 일격을 가할 수 있으며, [1]과 [2]를 가합니다."
 
 #. key = Gustav_Passive_HAG_MaskOfVengeance_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:169
@@ -2490,7 +2490,7 @@ msgid ""
 "\"Target_BardicInspiration\">Bardic Inspiration</LSTag>, you gain [1]."
 msgstr ""
 "<LSTag Type=\"Spell\" Tooltip=\"Target_BardicInspiration\">바드의 격려</LSTag>를 "
-"사용해 아군을 고무시키면, 추가로 본인이 [1] 을 얻습니다."
+"사용해 아군을 고무시키면, 추가로 본인이 [1]을 얻습니다."
 
 #. key = Gustav_Passive_MAG_BardicInspiration_TempHP_Armor_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:946
@@ -2658,7 +2658,7 @@ msgid ""
 "The wearer can't be <LSTag Type=\"Status\" Tooltip=\"SHOCKED_SURFACE\""
 ">Electrocuted</LSTag>."
 msgstr ""
-"착용자는 <LSTag Type=\"Status\" Tooltip=\"SHOCKED_SURFACE\">감전</LSTag>에 면역이 됩니다."
+"착용자는 <LSTag Type=\"Status\" Tooltip=\"SHOCKED_SURFACE\">감전</LSTag>에 면역을 얻습니다."
 
 #. key = Gustav_Passive_MAG_ChargedLightning_Resistance_Ring_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:827
@@ -2676,7 +2676,7 @@ msgid ""
 "hit points disappear if the wearer runs out of Lightning Charges."
 msgstr ""
 "착용자가 <LSTag Type=\"Status\" Tooltip=\"MAG_CHARGED_LIGHTNING\">번개 충전</LSTag>을 "
-"얻으면, 또한 <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 [1] 만큼 얻습니다. "
+"얻으면, 또한 <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 [1] 얻습니다. "
 "<br><br>번개 충전이 바닥나면 임시 체력도 사라집니다."
 
 #. key = Gustav_Passive_MAG_ChargedLightning_TempHP_Helmet_Passive_DisplayName
@@ -2749,7 +2749,7 @@ msgstr "불꽃의 순환"
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:575
 msgctxt "h4c557879g3069g4d79gb276g9c441e08965d"
 msgid "Deals an additional [1] to Burning targets."
-msgstr "연소 상태인 대상에게 [1] 를 추가로 입힙니다."
+msgstr "연소 상태인 대상에게 [1]를 추가로 입힙니다."
 
 #. key = Gustav_Passive_MAG_Fire_IncreasePiercingDamageToBurning_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:589
@@ -2761,7 +2761,7 @@ msgstr "산 채로 불태워지다"
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:477
 msgctxt "h2e700f64g9b47g4043g97a8gbbddc9b0d85e"
 msgid "Deals an additional [1] to Burning targets."
-msgstr "연소 상태인 대상에게 [1] 를 추가로 입힙니다."
+msgstr "연소 상태인 대상에게 [1]를 추가로 입힙니다."
 
 #. key = Gustav_Passive_MAG_Fire_IncreaseSlashingDamageToBurning_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:484
@@ -2773,7 +2773,7 @@ msgstr "산 채로 불태워지다"
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:351
 msgctxt "h5e632809g6912g421agaca5g0ea10e320bb6"
 msgid "When dealing Fire damage, the wearer deals an additional [1]."
-msgstr "착용자가 화염 피해를 입힐 때, 추가로 [1] 를 입힙니다."
+msgstr "착용자가 화염 피해를 입힐 때, 추가로 [1]를 입힙니다."
 
 #. key = Gustav_Passive_MAG_Fire_IncreasedDamage_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:358
@@ -2815,7 +2815,7 @@ msgstr "맹독성 복수"
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:421
 msgctxt "h19bec3dage4f2g4123g90b6gc1c099d03d95"
 msgid "When healing another, the wearer regains [1]."
-msgstr "착용자가 다른 이를 회복하면, 본인은 [1] 을 회복합니다."
+msgstr "착용자가 다른 이를 회복하면, 본인은 [1]을 회복합니다."
 
 #. key = Gustav_Passive_MAG_Healer_HealSelf_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:428
@@ -2845,7 +2845,7 @@ msgctxt "h4a2ef5bdgffbfg4fe3gb001gcc938c9c12d6"
 msgid ""
 "When taking Cold damage, take an additional [1] per turn of Frostbite "
 "remaining."
-msgstr "냉기 피해를 입을 때, 동상이 남아 있으면 추가로 [1] 를 입습니다."
+msgstr "냉기 피해를 입을 때, 동상이 남아 있으면 추가로 [1]를 입습니다."
 
 #. key = Gustav_Passive_MAG_INCREASED_DAMAGE_COLD_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:659
@@ -2875,7 +2875,7 @@ msgid ""
 "less and is damaged by a melee attack, they deal [1] to the attacker."
 msgstr ""
 "착용자의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 50% 이하인 상태에서 근접 공격을 받으면, 공격자에게 "
-"[1] 를 입힙니다."
+"[1]를 입힙니다."
 
 #. key = Gustav_Passive_MAG_LowHP_CounterOnDamage_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:407
@@ -2907,7 +2907,7 @@ msgid ""
 "When the wielder has 50% <LSTag Tooltip=\"HitPoints\">hit points</LSTag> or "
 "less, they deal an additional [1]."
 msgstr ""
-"착용자의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 50% 이하인 상태면, 공격 시 [1] 를 추가로 "
+"착용자의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 50% 이하인 상태면, 공격 시 [1]를 추가로 "
 "입힙니다."
 
 #. key = Gustav_Passive_MAG_LowHP_IncreaseDamagePsychic_Passive_DisplayName
@@ -2923,7 +2923,7 @@ msgid ""
 "When the wielder has 50% <LSTag Tooltip=\"HitPoints\">hit points</LSTag> or "
 "less, they deal an additional [1]."
 msgstr ""
-"착용자의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 50% 이하인 상태면, 공격 시 [1] 를 추가로 "
+"착용자의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 50% 이하인 상태면, 공격 시 [1]를 추가로 "
 "입힙니다."
 
 #. key = Gustav_Passive_MAG_LowHP_IncreaseDamagePsychic_Ranged_Passive_DisplayName
@@ -2939,7 +2939,7 @@ msgid ""
 "When the wielder has 50% <LSTag Tooltip=\"HitPoints\">hit points</LSTag> or "
 "less, they deal an additional [1]."
 msgstr ""
-"착용자의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 50% 이하인 상태면, 공격 시 [1] 를 추가로 "
+"착용자의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 50% 이하인 상태면, 공격 시 [1]를 추가로 "
 "입힙니다."
 
 #. key = Gustav_Passive_MAG_LowHP_IncreaseDamage_Passive_DisplayName
@@ -2972,7 +2972,7 @@ msgid ""
 "Non-<LSTag Tooltip=\"Cantrip\">Cantrip</LSTag> spells deal an additional [1] "
 "damage when the wearer drops to half their hit points or lower."
 msgstr ""
-"착용자의 체력이 절반 이하인 상태면, <LSTag Tooltip=\"Cantrip\">소마법</LSTag>을 제외한 주문이 [1] 를 "
+"착용자의 체력이 절반 이하인 상태면, <LSTag Tooltip=\"Cantrip\">소마법</LSTag>을 제외한 주문이 [1]를 "
 "추가로 입힙니다."
 
 #. key = Gustav_Passive_MAG_LowHP_IncreasedSpellDamage_Passive_DisplayName
@@ -3155,7 +3155,7 @@ msgid ""
 "LSTag>, they deal [1] in a [2] radius upon landing."
 msgstr ""
 "착용자가 <LSTag Type=\"Spell\" Tooltip=\"Projectile_Jump\">도약</LSTag>을 수행하면, 착지 "
-"지점의 [2] 반경에 [1] 를 입힙니다."
+"지점의 [2] 반경에 [1]를 입힙니다."
 
 #. key = Gustav_Passive_MAG_Mobility_ExplosionOnJump_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:715
@@ -3331,8 +3331,8 @@ msgid ""
 ">End their Rage</LSTag>, they gain [1] <LSTag Tooltip=\"TemporaryHitPoints\""
 ">temporary hit points</LSTag>."
 msgstr ""
-"착용자가 <LSTag Type=\"Spell\" Tooltip=\"Shout_EndRage\">격노 상태를 종료</LSTag>하면, "
-"<LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 [1] 만큼 얻습니다."
+"착용자가 <LSTag Type=\"Spell\" Tooltip=\"Shout_EndRage\">격노 상태를 종료</LSTag>하면, [1]"
+"의 <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 얻습니다."
 
 #. key = Gustav_Passive_MAG_Rage_TempHPOnExit_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:743
@@ -3415,8 +3415,8 @@ msgid ""
 "go <LSTag Type=\"Status\" Tooltip=\"MADNESS\">Mad</LSTag> they don't "
 "continue hitting an enemy each turn."
 msgstr ""
-"이 무기를 사용해 적에게 공격을 적중시키면 [1] 을 회복합니다. 하지만 매 턴 공격을 적중시키지 못하면 일정 확률로 <LSTag "
-"Type=\"Status\" Tooltip=\"MADNESS\">광기</LSTag>에 휩싸입니다."
+"이 무기를 사용해 적에게 공격을 적중시키면 [1]을 회복합니다. 하지만 매 턴 공격을 적중시키지 못하면 일정 확률로 <LSTag Type="
+"\"Status\" Tooltip=\"MADNESS\">광기</LSTag>에 휩싸입니다."
 
 #. key = Gustav_Passive_PLA_ConflictedFlind_Flail_Broken_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:211
@@ -3540,7 +3540,7 @@ msgstr "충격 폭발"
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:232
 msgctxt "h756389c9g6148g4fa7g90fbg449a3fac7dbc"
 msgid "Deals an additional [1] to Plants, Insects or Small creatures."
-msgstr "식물, 곤충이나 소형 크리쳐에게 [1] 를 추가로 입힙니다."
+msgstr "식물, 곤충이나 소형 크리쳐에게 [1]를 추가로 입힙니다."
 
 #. key = Gustav_Passive_UND_DuergarRaft_PestKillerAxe_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:246
@@ -3554,7 +3554,7 @@ msgctxt "he0491531g77dbg4a48g98e5gf9276ee9b0c3"
 msgid ""
 "Deals an additional [1] to targets that still have all their <LSTag Tooltip="
 "\"HitPoints\">hit points</LSTag>."
-msgstr "<LSTag Tooltip=\"HitPoints\">체력</LSTag>이 가득 찬 대상에게 [1] 를 추가로 입힙니다."
+msgstr "<LSTag Tooltip=\"HitPoints\">체력</LSTag>이 가득 찬 대상에게 [1]를 추가로 입힙니다."
 
 #. key = Gustav_Passive_UND_Duergar_ShortswordOfFirstBlood_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:232
@@ -3578,7 +3578,7 @@ msgstr "깊이 파고들기"
 #: Gustav/Public/Gustav/Localization/Passive_ExtraDescription.lsx:78
 msgctxt "hb9f21d80g8c2fg4d6fg9d5bgc52d12692f8e"
 msgid "Deep Delver deals an additional [1] against shattered targets."
-msgstr "지하 탐색자는 산산조각난 대상에게 추가로 [1] 를 입힙니다."
+msgstr "지하 탐색자는 산산조각난 대상에게 추가로 [1]를 입힙니다."
 
 #. key = Gustav_Passive_UND_Justiciar_ChainShirt_Magic_Passive_Description
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:652
@@ -3586,7 +3586,7 @@ msgctxt "hcf3cba39gf657g4779g96a8g25eb9eb23aad"
 msgid ""
 "While Obscured by shadow, the wearer deals [1] to attackers that hit them "
 "with a melee attack."
-msgstr "그림자에 가려진 동안, 착용자는 근접 공격으로 본인을 공격한 대상에게 [1] 를 입힙니다."
+msgstr "그림자에 가려진 동안, 착용자는 근접 공격으로 본인을 공격한 대상에게 [1]를 입힙니다."
 
 #. key = Gustav_Passive_UND_Justiciar_ChainShirt_Magic_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:666
@@ -3601,7 +3601,7 @@ msgid ""
 "While Obscured by shadow, the wearer gains +[1] to <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag> when attacked."
 msgstr ""
-"그림자에 가려진 동안, 착용자는 피격 시 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +[1] 를 "
+"그림자에 가려진 동안, 착용자는 피격 시 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +[1]를 "
 "얻습니다."
 
 #. key = Gustav_Passive_UND_Justiciar_Helmet_Magic_Passive_DisplayName
@@ -3631,7 +3631,7 @@ msgid ""
 "Nere with a melee attack."
 msgstr ""
 "적들의 비명으로 보호 받고 있습니다.<br><br><LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 3 만큼 "
-"증가했으며, 근접 공격으로 니어를 공격하면 [1] 를 입습니다."
+"증가했으며, 근접 공격으로 니어를 공격하면 [1]를 입습니다."
 
 #. key = Gustav_Passive_UND_Nere_ShieldOfScreams_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:547
@@ -3649,7 +3649,7 @@ msgstr "대상에게 출혈 효과를 부여할 확률이 있습니다."
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:260
 msgctxt "h69a93df7gb480g4bc7ga31dg3abd4c96d4fb"
 msgid "BOOOAL's Faithful"
-msgstr "<b>부알</b>의 충실한 신도"
+msgstr "부알의 충실한 신도"
 
 #. key = Gustav_Passive_UND_SocietyOfBrilliance_DarkvisionRing_Passive_Description
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:855
@@ -4372,7 +4372,7 @@ msgid ""
 "anyone who hits you with a melee attack takes [1]."
 msgstr ""
 "<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 3 만큼 증가하며, 근접 공격을 적중시키는 모든 대상에게 "
-"[1] 를 입힙니다."
+"[1]를 입힙니다."
 
 #. key = Gustav_Shout_UND_Phase1_AdamantineGolem_Description
 #: Gustav/Public/Gustav/Localization/Stats/Shout_Description.lsx:148
@@ -4819,7 +4819,7 @@ msgctxt "hbd3e3524g1cc1g40aeg801cgac87359279cf"
 msgid ""
 "A protective shield surrounds the chest, dealing [1] to any heretics that "
 "touch it."
-msgstr "보호막이 궤짝을 둘러싸고 있어 이단자가 만지면 [1] 를 입힙니다."
+msgstr "보호막이 궤짝을 둘러싸고 있어 이단자가 만지면 [1]를 입힙니다."
 
 #. key = Gustav_Status_BOOST_FOR_SELUNESTASH_CHESTSEAL_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:526
@@ -5019,7 +5019,7 @@ msgid ""
 "condition ends upon landing a successful weapon attack."
 msgstr ""
 "크리쳐의 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag> 가 [1] 만큼 증가하고, 다음 무기 공격이 "
-"[2] 를 추가로 입힙니다. 무기 공격이 적중하고 나면 이 효과가 제거됩니다."
+"[2]를 추가로 입힙니다. 무기 공격이 적중하고 나면 이 효과가 제거됩니다."
 
 #. key = Gustav_Status_BOOST_GOB_DROWCOM_BUFF_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:176
@@ -5544,7 +5544,7 @@ msgid ""
 "<LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> increased by 2. Regains "
 "[1] each turn."
 msgstr ""
-"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 2 만큼 증가했습니다. 매 턴 [1] 을 회복합니다."
+"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 2 만큼 증가했습니다. 매 턴 [1]을 회복합니다."
 
 #. key = Gustav_Status_BOOST_HAG_MASKOFSERVITUDE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:540
@@ -5927,9 +5927,9 @@ msgid ""
 "charges, they are consumed the next time you deal damage, and you deal an "
 "additional [4].<br><br>You lose 1 charge per turn. "
 msgstr ""
-"번개가 당신을 타고 흐릅니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1] 을 가지며 [2] "
-"를 추가로 입힙니다.<br><br>[3] 충전을 얻으면, 다음 번에 피해를 입힐 때 소모되며, [4] 를 추가로 "
-"입힙니다.<br><br>매 턴 충전량이 하나씩 감소합니다. "
+"번개가 당신을 타고 흐릅니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1]을 가지며 [2]를 "
+"추가로 입힙니다.<br><br>[3] 충전을 얻으면, 다음 번에 피해를 입힐 때 소모되며, [4] 를 추가로 입힙니다.<br><br>매 "
+"턴 충전량이 하나씩 감소합니다. "
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1247
@@ -6572,7 +6572,7 @@ msgctxt "h415e9ec1g598fg4daega99bgfd2f478adb19"
 msgid ""
 "Deals an additional [1] to Shattered targets when attacking them with Deep "
 "Delver."
-msgstr "지하 탐색자로 산산조각난 대상을 공격하면 [1] 를 추가로 입힙니다."
+msgstr "지하 탐색자로 산산조각난 대상을 공격하면 [1]를 추가로 입힙니다."
 
 #. key = Gustav_Status_BOOST_UND_HARDWORK_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1177
@@ -6736,7 +6736,7 @@ msgid ""
 "Nere with a melee attack."
 msgstr ""
 "적들의 비명으로 보호 받고 있습니다.<br><br><LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 3 만큼 "
-"증가했으며, 근접 공격으로 니어를 공격하면 [1] 를 입습니다."
+"증가했으며, 근접 공격으로 니어를 공격하면 [1]를 입습니다."
 
 #. key = Gustav_Status_BOOST_UND_NERE_SHIELDOFSCREAMS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1037
@@ -6748,7 +6748,7 @@ msgstr "비명의 방패"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:1191
 msgctxt "ha15fdcdagd449g4232g892eg1b3e3bc92325"
 msgid "Suffused with the cries of dead souls. Deals an additional [1]."
-msgstr "죽은 영혼들의 울부짖음으로 가득합니다. [1] 를 추가로 입힙니다."
+msgstr "죽은 영혼들의 울부짖음으로 가득합니다. [1]를 추가로 입힙니다."
 
 #. key = Gustav_Status_BOOST_UND_NERE_SWORD_PSYCHIC_DAMAGE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1415
@@ -6894,7 +6894,7 @@ msgstr "지옥의 군단"
 msgctxt "h6211231dge12fg40e0gb1bdg49a59b42b91c"
 msgid ""
 "Blue lightning flits across the halberd's surface. Deals an additional [1]."
-msgstr "할버드의 표면을 따라 푸른색 번개가 흐릅니다. [1] 를 추가로 입힙니다."
+msgstr "할버드의 표면을 따라 푸른색 번개가 흐릅니다. [1]를 추가로 입힙니다."
 
 #. key = Gustav_Status_BOOST_WPN_HALBERD_AUTOMATON_LIGHTNING_DAMAGE_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1422
@@ -7414,7 +7414,7 @@ msgid ""
 "attack deals an additional [2]."
 msgstr ""
 "크리쳐에게 절대자의 화염을 불어넣습니다. 대상의 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 "
-"[1] 만큼 증가하며 다음 공격은 [2] 를 추가로 가합니다."
+"[1] 만큼 증가하며 다음 공격은 [2]를 추가로 가합니다."
 
 #. key = Gustav_Target_GOB_DrowCommander_Buff_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:29
@@ -7538,7 +7538,7 @@ msgid ""
 "Bask in Ethel's boons. You regain [1] each turn, and your <LSTag Tooltip="
 "\"ArmourClass\">Armour Class</LSTag> increases by 2."
 msgstr ""
-"에텔의 은혜를 입습니다. 매 턴 [1] 을 회복하며, <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 2 "
+"에텔의 은혜를 입습니다. 매 턴 [1]을 회복하며, <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 2 "
 "만큼 증가합니다."
 
 #. key = Gustav_Target_HAG_MaskOfServitude_DisplayName
@@ -7654,7 +7654,7 @@ msgstr "환희의 포자"
 #: Gustav/Public/Gustav/Localization/Stats/Target_Description.lsx:99
 msgctxt "h70291d82g9767g4326g84a9gbd2859bc44f9"
 msgid "Open a barrelstalk to release noxious fumes that deal [1] per turn."
-msgstr "통줄기를 열어 부식성 연기를 발산해 매 턴 [1] 를 입힙니다."
+msgstr "통줄기를 열어 부식성 연기를 발산해 매 턴 [1]를 입힙니다."
 
 #. key = Gustav_Target_UND_Myconid_UseBarrelStalk_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:120
@@ -7703,7 +7703,7 @@ msgid ""
 msgstr ""
 "살아있는 크리쳐의 피를 흡수해 체력을 회복합니다. 대상이 <LSTag Type=\"Status\" Tooltip=\"SLEEPING\""
 ">수면</LSTag> 중이거나 당신이 <LSTag Type=\"Status\" Tooltip=\"SNEAKING\">숨은</LSTag> "
-"상태가 아니라면, 대상은 [1] 를 입습니다. "
+"상태가 아니라면, 대상은 [1]를 입습니다. "
 
 #. key = Gustav_Target_VampireBite_Astarion_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:50
@@ -17834,7 +17834,7 @@ msgid ""
 "Deals an additional [1] to fiends and undead.<br><br>This reaction only "
 "triggers when you land a <LSTag Tooltip=\"CriticalHit\">Critical Hit</LSTag>."
 msgstr ""
-"악마나 언데드에게 [1] 의 추가 피해를 입힙니다.<br><br>이 반응 행동은 <LSTag Tooltip=\"CriticalHit\""
+"악마나 언데드에게 [1]의 추가 피해를 입힙니다.<br><br>이 반응 행동은 <LSTag Tooltip=\"CriticalHit\""
 ">치명타</LSTag>를 적중시킨 경우에만 발생합니다."
 
 #. key = Shared_Interrupt_Interrupt_Smite_Divine_Description
@@ -17842,7 +17842,7 @@ msgstr ""
 msgctxt "h905cec81g7e41g4b05gaaddg3d51678f3ecc"
 msgid ""
 "Your weapon emanates divine might as you strike, dealing an additional [1]. "
-msgstr "공격 시 무기가 신성한 힘을 발산하여 [1] 의 추가 피해를 입힙니다. "
+msgstr "공격 시 무기가 신성한 힘을 발산하여 [1]를 추가로 가합니다. "
 
 #. key = Shared_Interrupt_Interrupt_Smite_Divine_DisplayName
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:64
@@ -17857,7 +17857,7 @@ msgid ""
 "Deals an additional [1] to fiends and undead.<br><br>This reaction won't "
 "trigger on a <LSTag Tooltip=\"CriticalHit\">Critical Hit</LSTag>."
 msgstr ""
-"악마와 언드데에게 [1] 의 추가 피해를 입힙니다.<br><br>이 반응 행동은 <LSTag Tooltip=\"CriticalHit\""
+"악마와 언드데에게 [1]의 추가 피해를 입힙니다.<br><br>이 반응 행동은 <LSTag Tooltip=\"CriticalHit\""
 ">치명타</LSTag>가 적중한 경우에는 발생하지 않습니다."
 
 #. key = Shared_ItemProgressionNames_Amulet_ItemName
@@ -18975,7 +18975,7 @@ msgid ""
 "Everything changes when you awaken imprisoned on an alien ship. Perhaps your "
 "time has finally come."
 msgstr ""
-"당신은 항상 본인에게 더 큰 부름이 있다고 느꼇지만, 아직 그 결실을 보지는 못했습니다. 외계 우주선에 갇혀 깨어나면 모든 것이 바뀔 "
+"당신은 항상 본인에게 더 큰 부름이 있다고 느꼈지만, 아직 그 결실을 보지는 못했습니다. 외계 우주선에 갇힌 채 깨어나면 모든 것이 바뀔 "
 "것입니다. 아마도 당신의 때가 마침내 찾아왔는지도 모르겠습니다."
 
 #. key = Shared_Origins_New_Stat_0_DisplayName
@@ -19046,7 +19046,7 @@ msgctxt "h3ed0be2ag35c3g4804gaf15g7484d531b05b"
 msgid ""
 "A spectral frost covers you and your gear. When a creature hits you with a "
 "melee attack, it takes [1]."
-msgstr "영적인 서리가 자신과 장비를 뒤덮습니다. 크리쳐가 당신을 근접 공격으로 타격하면, 대상은 [1] 를 입습니다."
+msgstr "영적인 서리가 자신과 장비를 뒤덮습니다. 크리쳐가 당신을 근접 공격으로 타격하면, 대상은 [1]를 입습니다."
 
 #. key = Shared_Passive_ArmorOfAgathys_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1289
@@ -19060,7 +19060,7 @@ msgctxt "h0749c679gda4bg4fc7gaf23g66fdae9ca70c"
 msgid ""
 "A spectral frost covers you and your gear. When a creature hits you with a "
 "melee attack, it takes [1]."
-msgstr "영적인 서리가 자신과 장비를 뒤덮습니다. 크리쳐가 당신을 근접 공격으로 타격하면, 대상은 [1] 를 입습니다."
+msgstr "영적인 서리가 자신과 장비를 뒤덮습니다. 크리쳐가 당신을 근접 공격으로 타격하면, 대상은 [1]를 입습니다."
 
 #. key = Shared_Passive_ArmorOfAgathys_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:484
@@ -19861,7 +19861,7 @@ msgctxt "hf690b23dg039ag4befg90a1g18e279b05184"
 msgid ""
 "When you reduce a hostile creature to [1], this gift from your patron grants "
 "you [2]."
-msgstr "적대적인 크리쳐를 [1] 아래로 만들면, 후원자의 선물이 당신에게 [2] 을 부여합니다."
+msgstr "적대적인 크리쳐를 [1] 아래로 만들면, 후원자의 선물이 당신에게 [2]을 부여합니다."
 
 #. key = Shared_Passive_DarkOnesBlessing_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:197
@@ -19887,7 +19887,7 @@ msgctxt "h7696c355gc791g4affg89d9g7ed7f9646d8e"
 msgid ""
 "When the mephit dies, it explodes in a burst of lava that deals [1] to all "
 "creatures within [2]. "
-msgstr "메피트가 사망하면, 폭발하며 용암을 분출해 [2] 내의 모든 크리쳐에게 [1] 를 입힙니다. "
+msgstr "메피트가 사망하면, 폭발하며 용암을 분출해 [2] 내의 모든 크리쳐에게 [1]를 입힙니다. "
 
 #. key = Shared_Passive_DeathBurst_MagmaMephit_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1527
@@ -20708,7 +20708,7 @@ msgctxt "h0c9f773agfe28g4520gbbdag9a240767244f"
 msgid ""
 "When the sphere is ablaze, it leaves behind a fire surface and deals [1] to "
 "nearby creatures and objects."
-msgstr "구체가 불타고 있으면, 불꽃 표면을 남겨 근처의 크리쳐와 물체에 [1] 를 가합니다."
+msgstr "구체가 불타고 있으면, 불꽃 표면을 남겨 근처의 크리쳐와 물체에 [1]를 가합니다."
 
 #. key = Shared_Passive_FlamingSphere_State_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1429
@@ -20738,7 +20738,7 @@ msgstr "영감의 샘"
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1716
 msgctxt "h37f8464fg36e3g4fa3g927ag2e5995f28de6"
 msgid "Deal an additional [1] with melee attacks."
-msgstr "근접 공격이 [1] 를 추가로 가합니다."
+msgstr "근접 공격이 [1]를 추가로 가합니다."
 
 #. key = Shared_Passive_FullSwing_Passive_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1576
@@ -20758,7 +20758,7 @@ msgstr "이것은 반응 행동입니다. 당신의 차례 동안 반응 행동�
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1709
 msgctxt "h64706031g9dd0g45f2gb085gac54f2858230"
 msgid "Attacks against this creature deal an additional [1]."
-msgstr "이 크리쳐를 향한 공격은 [1] 를 추가로 가합니다."
+msgstr "이 크리쳐를 향한 공격은 [1]를 추가로 가합니다."
 
 #. key = Shared_Passive_GapingWound_Passive_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1562
@@ -20949,7 +20949,7 @@ msgctxt "h8c8867a1g83bfg4624gb187g35102984fd7a"
 msgid ""
 "The next time you take damage, you use your reaction to surround your "
 "attacker in hellish flames that deal [1]."
-msgstr "다음번에 피해를 받으면, 반응 행동을 사용해 공격자를 지옥의 불길로 휘감아 [1] 를 가합니다."
+msgstr "다음번에 피해를 받으면, 반응 행동을 사용해 공격자를 지옥의 불길로 휘감아 [1]를 가합니다."
 
 #. key = Shared_Passive_HellishRebuke_2_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1016
@@ -20974,7 +20974,7 @@ msgctxt "hcfbe8760g8a9eg4c44gbee7g3fe6bedaf98c"
 msgid ""
 "The next time you take damage, you use your reaction to surround your "
 "attacker in hellish flames that deal [1]."
-msgstr "다음번에 피해를 받으면, 반응 행동을 사용해 공격자를 지옥의 불길로 휘감아 [1] 를 가합니다."
+msgstr "다음번에 피해를 받으면, 반응 행동을 사용해 공격자를 지옥의 불길로 휘감아 [1]를 가합니다."
 
 #. key = Shared_Passive_HellishRebuke_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:491
@@ -20997,7 +20997,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:498
 msgctxt "hbd1d3f55gcbe2g4f06g89b7g728da1c554f8"
 msgid "Attacking the target of your Hex spell deals an extra [1]."
-msgstr "주박 주문의 대상을 공격하면 [1] 를 추가로 가합니다."
+msgstr "주박 주문의 대상을 공격하면 [1]를 추가로 가합니다."
 
 #. key = Shared_Passive_Hex_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:498
@@ -21011,7 +21011,7 @@ msgctxt "hdd1f026cg8dcfg4b0dg950bg5b88099cabab"
 msgid ""
 "Affected entity is surrounded by a vengeful aura that deals [1] to anyone "
 "who hits it with a melee attack."
-msgstr "효과를 받은 대상은 복수심의 오라로 둘러싸여, 대상에게 근접 공격을 가하는 모두에게 [1] 를 가합니다."
+msgstr "효과를 받은 대상은 복수심의 오라로 둘러싸여, 대상에게 근접 공격을 가하는 모두에게 [1]를 가합니다."
 
 #. key = Shared_Passive_HolyRebuke_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2353
@@ -21037,7 +21037,7 @@ msgstr "무리 파괴자"
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:505
 msgctxt "h1d582117g48f0g40d0gba67g3f2b3b9bacdc"
 msgid "When you attack your quarry, you deal an additional [1]."
-msgstr "표적을 공격할 때, [1] 를 추가로 가합니다."
+msgstr "표적을 공격할 때, [1]를 추가로 가합니다."
 
 #. key = Shared_Passive_HuntersMark_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:505
@@ -22106,7 +22106,7 @@ msgstr "그림자 속으로"
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1548
 msgctxt "hee4cc52cg793cg4dc6g81fbgead2a4da91b5"
 msgid "When you miss an attack, deal [1] anyway."
-msgstr "공격이 빗나가도, [1] 피해를 줍니다."
+msgstr "공격이 빗나가도, [1]를 입힙니다."
 
 #. key = Shared_Passive_Overwhelm_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1569
@@ -22772,7 +22772,7 @@ msgctxt "h44009683g4d91g4f6ag938bg3fab7be211a9"
 msgid ""
 "Expend a superiority die to bolster the resolve of a friendly creature. It "
 "gains an additional [1]."
-msgstr "우월성 주사위를 소모해 아군 크리쳐의 결의를 다집니다. 대상은 [1] 을 얻습니다."
+msgstr "우월성 주사위를 소모해 아군 크리쳐의 결의를 다집니다. 대상은 [1]을 얻습니다."
 
 #. key = Shared_Passive_Rally_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:841
@@ -23070,7 +23070,7 @@ msgid ""
 "the infestation spreads to all nearby creatures.<br><br>Removed by fire or "
 "acid.<br>Doesn't harm ettercaps or spiders."
 msgstr ""
-"자그마한 거미들이 기어 다니며 매 턴 [1] 과 [2] 를 가합니다.<br><br>근접 공격에 적중 당하면, 공격자도 전염됩니다. 대상이 "
+"자그마한 거미들이 기어 다니며 매 턴 [1]와 [2]를 가합니다.<br><br>근접 공격에 적중 당하면, 공격자도 전염됩니다. 대상이 "
 "사망하면, 근처의 모든 크리쳐에게 전염됩니다.<br><br>화염이나 산성에 의해 제거됩니다. <br>에터캡이나 거미는 피해를 입지 "
 "않습니다."
 
@@ -23085,7 +23085,7 @@ msgstr "감염됨"
 msgctxt "h9da7eb4cg964fg4437gacf4g8279584055bf"
 msgid ""
 "Deal [1] to attackers if they are within the Aura of the Static Discharge."
-msgstr "공격자가 정전기 방출 범위 내에 있으면 [1] 를 가합니다."
+msgstr "공격자가 정전기 방출 범위 내에 있으면 [1]를 가합니다."
 
 #. key = Shared_Passive_StaticDischarge_Aura_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1450
@@ -23373,7 +23373,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 11 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Passive_Toxin_Basic_Passive_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2311
@@ -23390,7 +23390,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 19 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Passive_Toxin_SerpentVenom_Passive_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2269
@@ -23401,7 +23401,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 15 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Passive_Toxin_Wyvern_Passive_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:2276
@@ -23412,7 +23412,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 15 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Passive_TripAttack_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1023
@@ -23608,7 +23608,7 @@ msgid ""
 ">spell slots</LSTag> to heal yourself. You regain [1] per spell slot level."
 msgstr ""
 "동물 형상인 동안, 추가 행동으로 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소모해 스스로를 치유할 "
-"수 있습니다. 주문 슬롯 레벨 당 [1] 을 회복합니다."
+"수 있습니다. 주문 슬롯 레벨 당 [1]을 회복합니다."
 
 #. key = Shared_Passive_WildShape_Combat_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1359
@@ -23621,7 +23621,7 @@ msgstr "달의 은총"
 msgctxt "hd16cfed1g0f3dg4841g8888g3c7e7a4a6013"
 msgid ""
 "In the wood woad's hand, a common club becomes magical and deals [1] extra.  "
-msgstr "우드 워드의 손에 들어가면 일반적인 곤봉이 마법적으로 변하며 [1] 를 추가로 가합니다.  "
+msgstr "우드 워드의 손에 들어가면 일반적인 곤봉이 마법적으로 변하며 [1]를 추가로 가합니다.  "
 
 #. key = Shared_Passive_WoodWoad_MagicClub_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2122
@@ -26949,7 +26949,7 @@ msgstr "멜프의 산성 화살"
 #: Shared/Public/Shared/Localization/Projectile_ExtraDescription.lsx:15
 msgctxt "h9182a66bgbcd6g4327g9fafg8071a5ff79b5"
 msgid "Deals [1] immediately and [2] at the end of the target's turn."
-msgstr "즉시 [1] 를 가하고 대상의 턴이 끝날 때 [2] 를 가합니다."
+msgstr "즉시 [1]를 가하고 대상의 턴이 끝날 때 [2]를 가합니다."
 
 #. key = Shared_Projectile_AcidSplash_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:253
@@ -27887,7 +27887,7 @@ msgctxt "h7cec23e8gddefg4f5ega8efg0a93a7ae64b8"
 msgid ""
 "The thorns deal [1] to the target and shatter, dealing an additional [2] to "
 "the target and surrounding creatures."
-msgstr "가시들은 대상에게 [1] 를 입히고 산산히 조각나, 대상과 주변의 크리쳐들에게 [2] 를 가합니다."
+msgstr "가시들은 대상에게 [1]를 입히고 산산히 조각나, 대상과 주변의 크리쳐들에게 [2]를 가합니다."
 
 #. key = Shared_Projectile_HamstringShot_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:526
@@ -28163,19 +28163,19 @@ msgstr "공중 부양"
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:190
 msgctxt "h42b61403g5667g4646g9e86g3d507e3e18c6"
 msgid "Create 4 darts of magical force, each dealing [1] to its target."
-msgstr "목표물에 각 각 [1] 를 가하는 마법의 힘이 담긴 4 개의 투사체를 생성합니다."
+msgstr "목표물에 각자 [1]를 가하는 마법의 힘이 담긴 4 개의 투사체를 생성합니다."
 
 #. key = Shared_Projectile_MagicMissile_3_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:197
 msgctxt "h7975ebd3g4434g4a46ga49bgcf1a0335e46b"
 msgid "Create 5 darts of magical force, each dealing [1] to its target."
-msgstr "목표물에 각 각 [1] 를 가하는 마법의 힘이 담긴 5 개의 투사체를 생성합니다."
+msgstr "목표물에 각자 [1]를 가하는 마법의 힘이 담긴 5 개의 투사체를 생성합니다."
 
 #. key = Shared_Projectile_MagicMissile_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:183
 msgctxt "h2c2809afg17f9g4dc1g9424g75bc6cf60c69"
 msgid "Create 3 darts of magical force, each dealing [1] to its target."
-msgstr "목표물에 각 각 [1] 를 가하는 마법의 힘이 담긴 3 개의 투사체를 생성합니다."
+msgstr "목표물에 각자 [1]를 가하는 마법의 힘이 담긴 3 개의 투사체를 생성합니다."
 
 #. key = Shared_Projectile_MagicMissile_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:183
@@ -28187,7 +28187,7 @@ msgstr "마법 화살"
 #: Shared/Public/Shared/Localization/Projectile_ExtraDescription.lsx:78
 msgctxt "h1fd9c1b1g3a8eg4c53g925bgc0e434763a34"
 msgid "The darts always hit their target."
-msgstr "투사체는 무조건 대상에게 적중합니다."
+msgstr "투사체는 반드시 대상에게 적중합니다."
 
 #. key = Shared_Projectile_MainHandAttack_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:8
@@ -28346,7 +28346,7 @@ msgstr "독 분사"
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:862
 msgctxt "h700b538fg15c8g4c1ag9a06g9524bcee6c2f"
 msgid "Coat your active weapon with a poison that inflicts an additional [1]."
-msgstr "현재 사용 중인 무기에 독을 발라 공격 시 [1] 를 추가로 입힙니다."
+msgstr "현재 사용 중인 무기에 독을 발라 공격 시 [1]를 추가로 입힙니다."
 
 #. key = Shared_Projectile_Potion_Destroy_Resistance_Acid_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:869
@@ -28525,13 +28525,13 @@ msgstr "바위"
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:946
 msgctxt "hfd3a7652gc2dfg468fg9362g9d2552322059"
 msgid "Hurl 4 rays of fire. Each ray deals [1]."
-msgstr "화염 광선 4 개를 쏩니다. 각 광선은 [1] 를 입힙니다."
+msgstr "화염 광선 4 개를 쏩니다. 각 광선은 [1]를 입힙니다."
 
 #. key = Shared_Projectile_ScorchingRay_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:246
 msgctxt "h8683be5fg3434g4e62g8027g3275339e7735"
 msgid "Hurl 3 rays of fire. Each ray deals [1]."
-msgstr "화염 광선 3 개를 쏩니다. 각 광선은 [1] 를 입힙니다."
+msgstr "화염 광선 3 개를 쏩니다. 각 광선은 [1]를 입힙니다."
 
 #. key = Shared_Projectile_ScorchingRay_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:232
@@ -28832,7 +28832,7 @@ msgstr "주술 화살"
 msgctxt "hb565a8bdg3fdbg4bf8gbb6fg0f8ea9156958"
 msgid ""
 "Each turn, you can activate the arc to automatically deal an additional [1]."
-msgstr "매 턴, 줄기를 활성화하여 자동으로 [1] 를 추가로 입힐 수 있습니다."
+msgstr "매 턴, 줄기를 활성화하여 자동으로 [1]를 추가로 입힐 수 있습니다."
 
 #. key = Shared_Races_New_Stat_0_Description
 #: Shared/Public/Shared/Localization/Races_Description.lsx:15
@@ -30775,7 +30775,7 @@ msgctxt "hcaf426e9g30c3g4e69gbc81gb14099a0a134"
 msgid ""
 "A spectral frost covers you. Gain [1] and deal [2] to any creature that hits "
 "you with a melee attack."
-msgstr "영적인 서리가 자신과 장비를 뒤덮습니다. [1] 을 얻으며 크리쳐가 당신을 근접 공격으로 타격하면, 대상은 [2] 를 입습니다."
+msgstr "영적인 서리가 자신과 장비를 뒤덮습니다. [1]을 얻으며 크리쳐가 당신을 근접 공격으로 타격하면, 대상은 [2]를 입습니다."
 
 #. key = Shared_Shout_ArmorOfAgathys_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:120
@@ -31448,7 +31448,7 @@ msgctxt "h62bc4600gf78fg4406g8ed5g3f5f6944b1cb"
 msgid ""
 "Your prayer empowers you with divine radiance. Your weapon attacks deal an "
 "additional [1]."
-msgstr "기도가 당신에게 신성한 광휘의 힘을 부여합니다. 무기 공격이 [1] 를 추가로 가합니다."
+msgstr "기도가 당신에게 신성한 광휘의 힘을 부여합니다. 무기 공격이 [1]를 추가로 가합니다."
 
 #. key = Shared_Shout_DivineFavor_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1282
@@ -31573,7 +31573,7 @@ msgstr "신속한 퇴각"
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:113
 msgctxt "h6a469040g927fg4012ga694ge8f3dc43577d"
 msgid "Bolster yourself with a necromantic facsimile of life to gain [1]."
-msgstr "자신을 강령술로 복제된 생명력으로 강화해 [1] 을 얻습니다."
+msgstr "자신을 강령술로 복제된 생명력으로 강화해 [1]을 얻습니다."
 
 #. key = Shared_Shout_FalseLife_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:365
@@ -31651,7 +31651,7 @@ msgid ""
 "deal an additional [2] with your Melee Weapon for the rest of the turn."
 msgstr ""
 "<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>를 [1] 만큼 소모해 남은 턴 동안 근접 무기에 [2]"
-" 를 추가합니다."
+"를 추가합니다."
 
 #. key = Shared_Shout_FullSwing_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:897
@@ -31731,7 +31731,7 @@ msgctxt "h73bec525g7ec9g452bg9e49g7d322d3cd106"
 msgid ""
 "Your allies immediately regain [1], and will regain another [1] at the start "
 "of your next turn."
-msgstr "아군들은 즉시 [1] 을 회복하고, 당신의 다음 턴이 시작될 때 다시 [1] 을 회복합니다."
+msgstr "아군들은 즉시 [1]을 회복하고, 당신의 다음 턴이 시작될 때 다시 [1]을 회복합니다."
 
 #. key = Shared_Shout_HealingRadiance_Heal_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1072
@@ -31751,13 +31751,13 @@ msgctxt "h5747e9e5ged8cg4187gb23cga0ddf0277017"
 msgid ""
 "Your allies immediately regain [1], and will regain another [1] at the start "
 "of your next turn."
-msgstr "아군들은 즉시 [1] 을 회복하고, 당신의 다음 턴이 시작될 때 다시 [1] 을 회복합니다."
+msgstr "아군들은 즉시 [1]을 회복하고, 당신의 다음 턴이 시작될 때 다시 [1]을 회복합니다."
 
 #. key = Shared_Shout_HealingWord_Mass_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:1016
 msgctxt "h25e917a1g4d42g4837gab6fg424fca019500"
 msgid "Call out words of restoration to heal up to 6 creatures."
-msgstr "복원의 주문을 외쳐 최대 6 마리의 크리쳐를 치료합니다."
+msgstr "복원의 주문을 외쳐 최대 6 명의 크리쳐를 치료합니다."
 
 #. key = Shared_Shout_HealingWord_Mass_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1240
@@ -31888,7 +31888,7 @@ msgctxt "he0de2effgf009g4b8dgb45fg09c0263b41bb"
 msgid ""
 "Bolster nearby allies with a supernatural resolve. Their attacks deal an "
 "additional [1]."
-msgstr "근처의 아군을 초자연적인 결의로 강화합니다. 그들의 공격이 추가로 [1] 를 가합니다."
+msgstr "근처의 아군을 초자연적인 결의로 강화합니다. 그들의 공격이 추가로 [1]를 가합니다."
 
 #. key = Shared_Shout_Leadership_Hobgoblin_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:736
@@ -32080,7 +32080,7 @@ msgctxt "hbc3e6f17g63f2g461eg9454g5115c0d2ece3"
 msgid ""
 "A flickering flame appears in your hand. It sheds bright light in a [1] "
 "radius and deals [2] when thrown."
-msgstr "손에 불안정한 불길이 나타납니다. [1] 반경을 밝게 비추며, 던지면 [2] 를 가합니다."
+msgstr "손에 불안정한 불길이 나타납니다. [1] 반경을 밝게 비추며, 던지면 [2]를 가합니다."
 
 #. key = Shared_Shout_ProduceFlame_Dismiss_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:155
@@ -32150,7 +32150,7 @@ msgid ""
 "Throws</LSTag>.<br><br>You can use <LSTag Type=\"Spell\" Tooltip="
 "\"Target_FrenziedStrike_Boar\">Frenzied Strike</LSTag>."
 msgstr ""
-"격노상태 동안, 근접 공격이 [1] 를 추가로 입힙니다. <br><br>물리 피해에 <LSTag Tooltip=\"Resistant\""
+"격노 상태 동안, 근접 공격이 [1]를 추가로 입힙니다. <br><br>물리 피해에 <LSTag Tooltip=\"Resistant\""
 ">저항</LSTag>을 얻고, 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag "
 "Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</"
 "LSTag>을 얻습니다.<br><br><LSTag Type=\"Spell\" Tooltip="
@@ -32178,7 +32178,7 @@ msgid ""
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag>. "
 msgstr ""
-"격노 상태 동안, 근접 및 즉석 무기를 사용하거나 물체를 던지면 [1] 를 추가로 입힙니다.<br><br>또한 물리 피해에 저항을 얻고, "
+"격노 상태 동안, 근접 및 즉석 무기를 사용하거나 물체를 던지면 [1]를 추가로 입힙니다.<br><br>또한 물리 피해에 저항을 얻고, "
 "근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag Tooltip=\"SavingThrow\""
 ">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다. "
 
@@ -32468,7 +32468,7 @@ msgid ""
 "and uses your <LSTag Tooltip=\"SpellcastingAbilityModifier\">Spellcasting "
 "Ability</LSTag> for <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag>."
 msgstr ""
-"자신의 지팡이나 곤봉을 자연의 힘으로 감쌉니다. 대상은 마법적으로 변해, [1] 를 입히고, <LSTag Tooltip="
+"자신의 지팡이나 곤봉을 자연의 힘으로 감쌉니다. 대상은 마법적으로 변해, [1]를 입히고, <LSTag Tooltip="
 "\"SpellcastingAbilityModifier\">주문시전 능력치</LSTag>를 <LSTag Tooltip=\"AttackRoll"
 "\">명중 굴림</LSTag>으로 이용합니다."
 
@@ -32759,7 +32759,7 @@ msgid ""
 "additional [2]."
 msgstr ""
 "[1] 내의 각 크리쳐가 지닌 주무기에 마법이 부여됩니다. 다음 공격은 <LSTag Tooltip=\"CriticalHit\">치명타</"
-"LSTag>로 적중하며 [2] 를 추가로 가합니다."
+"LSTag>로 적중하며 [2]를 추가로 가합니다."
 
 #. key = Shared_Shout_WildMagic_Enchant_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1002
@@ -33272,7 +33272,7 @@ msgstr "<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>를 2 만큼 떨어뜨�
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:204
 msgctxt "h56c56f38g0456g4531gb95dg67fb3e88f107"
 msgid "Acid"
-msgstr "산"
+msgstr "산성"
 
 #. key = Shared_Status_BOOST_ACTION_SURGE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:323
@@ -33516,7 +33516,7 @@ msgid ""
 ">Disadvantage</LSTag> on Constitution <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throws</LSTag>. <br><br>Removed by healing."
 msgstr ""
-"매 턴 시작시 [1] 를 입으며 건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag "
+"매 턴 시작 시 [1]를 입으며 건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag "
 "Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다. <br><br>치유를 받으면 제거됩니다."
 
 #. key = Shared_Status_BOOST_BLEEDING_DisplayName
@@ -33567,7 +33567,7 @@ msgid ""
 "\"Advantage\">Advantage</LSTag>."
 msgstr ""
 "<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
-">불리점</LSTag>을 가집니다. 원거리 공격과 주문이 [1] 로 줄어듭니다. <br><br>실명된 크리쳐를 향한 명중 굴림은 "
+">불리점</LSTag>을 가집니다. 원거리 공격과 주문의 사정거리가 [1]로 줄어듭니다. <br><br>실명된 크리쳐를 향한 명중 굴림은 "
 "<LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_BLINDED_DisplayName
@@ -33587,7 +33587,7 @@ msgstr "실명"
 msgctxt "h2add0db3g96dfg4f98g82c1gbe67810bdd16"
 msgid ""
 "Creature can attack three times. It regains [1] if it lands a killing blow."
-msgstr "크리쳐가 세 번 공격할 수 있습니다. 적을 처치하면 [1] 을 회복합니다."
+msgstr "크리쳐가 세 번 공격할 수 있습니다. 적을 처치하면 [1]을 회복합니다."
 
 #. key = Shared_Status_BOOST_BLOODLUST_REDCAP_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1268
@@ -34537,7 +34537,7 @@ msgstr "화염에 담궈짐"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:29
 msgctxt "h2299e563ge253g4b73g894fgee6a1ca546a6"
 msgid "Weapon deals an additional [1]."
-msgstr "무기가 [1] 를 추가로 입힙니다."
+msgstr "무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Status_BOOST_DIPPED_POISON_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:50
@@ -34622,7 +34622,7 @@ msgstr "교란됨"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2829
 msgctxt "h21e548e4gd139g4b67g95a0g26583e769898"
 msgid "Weapon attacks deal an additional [1]."
-msgstr "무기 공격이 [1] 를 추가로 가합니다."
+msgstr "무기 공격이 [1]를 추가로 가합니다."
 
 #. key = Shared_Status_BOOST_DIVINE_FAVOR_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3970
@@ -34970,7 +34970,7 @@ msgid ""
 "wielder's <LSTag Tooltip=\"SpellcastingAbilityModifier\">Spellcasting "
 "Ability Modifier</LSTag>."
 msgstr ""
-"이 칼날은 [1] 를 가합니다. 또한 [2] 반경에 밝은 빛을 비추며, [3] 반경에는 옅은 빛을 비춥니다. <LSTag Tooltip="
+"이 칼날은 [1]를 가합니다. 또한 [2] 반경에 밝은 빛을 비추며, [3] 반경에는 옅은 빛을 비춥니다. <LSTag Tooltip="
 "\"AttackRoll\">명중 굴림</LSTag>에는 착용자의 <LSTag Tooltip="
 "\"SpellcastingAbilityModifier\">주문시전 능력 수정치</LSTag>가 적용됩니다."
 
@@ -35313,7 +35313,7 @@ msgstr "반사 점액"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1926
 msgctxt "h2acaaedcg6333g4ff5g9dfag520ba5ad1fd1"
 msgid "Deals an additional [1] with melee attacks."
-msgstr "근접 공격으로 [1] 를 추가로 입힙니다."
+msgstr "근접 공격으로 [1]를 추가로 입힙니다."
 
 #. key = Shared_Status_BOOST_FULL_SWING_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2850
@@ -35326,7 +35326,7 @@ msgstr "준비됨"
 msgctxt "h158578d5gc1feg4b37g848fg1bd3a81f2ab1"
 msgid ""
 "Attacks against this creature deal an additional [1]. Removed by healing."
-msgstr "이 크리쳐를 향한 공격은 [1] 를 추가로 입힙니다. 치유를 통해 제거됩니다."
+msgstr "이 크리쳐를 향한 공격은 [1]를 추가로 입힙니다. 치유를 통해 제거됩니다."
 
 #. key = Shared_Status_BOOST_GAPING_WOUND_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2794
@@ -35597,7 +35597,7 @@ msgctxt "heea9b291g431dg4608g8c6dgdf159e2b35e7"
 msgid ""
 "Affected paladin is calling upon their Oath. Allies within [2] will regain "
 "[1] at the start of the paladin's next turn."
-msgstr "영향을 받은 팔라딘이 맹세를 외웁니다. [2] 내의 아군은 팔라딘의 다음 턴이 시작될 때 [1] 을 회복합니다."
+msgstr "영향을 받은 팔라딘이 맹세를 외웁니다. [2] 내의 아군은 팔라딘의 다음 턴이 시작될 때 [1]을 회복합니다."
 
 #. key = Shared_Status_BOOST_HEALING_RADIANCE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3907
@@ -35662,7 +35662,7 @@ msgctxt "h9baf66d5ge3c1g41f1g8cb8gadad13da93a4"
 msgid ""
 "The next time the creature takes damage, it uses its reaction to surround "
 "its foe in hellish flames that deal [1]."
-msgstr "크리쳐가 다음 번에 피해를 입으면, 반응 행동을 수용해 적을 지옥의 불길로 휘감아 [1] 를 입힙니다."
+msgstr "크리쳐가 다음 번에 피해를 입으면, 반응 행동을 수용해 적을 지옥의 불길로 휘감아 [1]를 입힙니다."
 
 #. key = Shared_Status_BOOST_HELLISH_REBUKE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2346
@@ -35760,7 +35760,7 @@ msgctxt "h79f84736gfa8eg44bcga6e1g4f170b7c93a4"
 msgid ""
 "When this creature attacks the target of its Hex spell, it deals an "
 "additional [1]."
-msgstr "이 크리쳐가 자신의 주박 대상을 공격하면, 추가로 [1] 를 가합니다."
+msgstr "이 크리쳐가 자신의 주박 대상을 공격하면, 추가로 [1]를 가합니다."
 
 #. key = Shared_Status_BOOST_HEX_OWNER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:841
@@ -35840,7 +35840,7 @@ msgctxt "h1409428ag346dg4abeg8be8g5dd7dff98b9e"
 msgid ""
 "Nearby allies deal an additional [1], as long as the hobgoblin isn't "
 "incapacitated."
-msgstr "홉고블린이 무력화되지 않은 한, 주변 아군이 [1] 를 추가로 가합니다."
+msgstr "홉고블린이 무력화되지 않은 한, 주변 아군이 [1]를 추가로 가합니다."
 
 #. key = Shared_Status_BOOST_HOBGOBLIN_LEADERSHIP_AURA_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1401
@@ -35852,7 +35852,7 @@ msgstr "통솔력의 오라"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1184
 msgctxt "h2c563beag88fag43ebg9e1egbdd09f1efe26"
 msgid "Bolstered with supernatural resolve. Attacks deal an additional [1]."
-msgstr "초자연적인 결의가 타오릅니다. 공격 시 [1] 를 추가로 가합니다."
+msgstr "초자연적인 결의가 타오릅니다. 공격 시 [1]를 추가로 가합니다."
 
 #. key = Shared_Status_BOOST_HOBGOBLIN_LEADERSHIP_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1394
@@ -36439,7 +36439,7 @@ msgstr "불균형"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1205
 msgctxt "h8c5916adg6c82g43fag8f2cgbbc682431f44"
 msgid "Ogres deal an additional [1] when throwing objects at this creature."
-msgstr "오우거가 이 크리쳐에게 물체를 던지면 [1] 를 추가로 가합니다."
+msgstr "오우거가 이 크리쳐에게 물체를 던지면 [1]를 추가로 가합니다."
 
 #. key = Shared_Status_BOOST_OGRE_CURSE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1429
@@ -37368,7 +37368,7 @@ msgid ""
 "\"Target_FrenziedStrike_Boar\">Frenzied Strike</LSTag>.<br><br>Rage ends "
 "early if the boar didn't attack an enemy or take damage since its last turn."
 msgstr ""
-"근접 공격이 [1] 를 추가로 입힙니다. <br><br>물리 피해에 <LSTag Tooltip=\"Resistant\">저항</"
+"근접 공격이 [1]를 추가로 입힙니다. <br><br>물리 피해에 <LSTag Tooltip=\"Resistant\">저항</"
 "LSTag>을 얻고, 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag Tooltip="
 "\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 "
 "얻습니다.<br><br><LSTag Type=\"Spell\" Tooltip=\"Target_FrenziedStrike_Boar\""
@@ -37386,7 +37386,7 @@ msgid ""
 "<br><br>Cannot cast or concentrate on spells.<br>Rage ends early if the "
 "barbarian didn't attack an enemy or take damage since their last turn."
 msgstr ""
-"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1] 를 추가로 입힙니다. <br><br>물리 피해에 <LSTag Tooltip="
+"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1]를 추가로 입힙니다. <br><br>물리 피해에 <LSTag Tooltip="
 "\"Resistant\">저항</LSTag>을 얻고, 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
 "<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\""
 ">이점</LSTag>을 얻습니다. <br><br>주문을 시전하거나 집중할 수 없습니다.<br>바바리안이 지난 턴 이후로 공격하거나 피해를 "
@@ -37415,7 +37415,7 @@ msgid ""
 "spells.<br>Frenzy ends early if the barbarian didn't attack an enemy or take "
 "damage since their last turn."
 msgstr ""
-"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1] 를 추가로 입힙니다. <br><br>물리 피해에 <LSTag Tooltip="
+"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1]를 추가로 입힙니다. <br><br>물리 피해에 <LSTag Tooltip="
 "\"Resistant\">저항</LSTag>을 얻고, 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
 "<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\""
 ">이점</LSTag>을 얻습니다. <br><br>주문을 시전하거나 집중할 수 없습니다.<br>바바리안이 지난 턴 이후로 공격하거나 피해를 "
@@ -37439,7 +37439,7 @@ msgid ""
 "early if the barbarian didn't attack an enemy or take damage since their "
 "last turn."
 msgstr ""
-"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1] 를 추가로 입힙니다. <br><br>정신 피해를 제외한 모든 피해 유형에 "
+"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1]를 추가로 입힙니다. <br><br>정신 피해를 제외한 모든 피해 유형에 "
 "<LSTag Tooltip=\"Resistant\">저항</LSTag>을 얻고, 근력 <LSTag Tooltip=\"AbilityCheck"
 "\">판정</LSTag>과 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
 "\"Advantage\">이점</LSTag>을 얻습니다. <br><br>주문을 시전하거나 집중할 수 없습니다.<br>바바리안이 지난 턴 "
@@ -37466,7 +37466,7 @@ msgid ""
 "early if the barbarian didn't attack an enemy or take damage since their "
 "last turn."
 msgstr ""
-"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1] 를 추가로 입힙니다. <br><br><LSTag Type=\"Spell\" "
+"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1]를 추가로 입힙니다. <br><br><LSTag Type=\"Spell\" "
 "Tooltip=\"Shout_Dash\">질주</LSTag>를 추가 행동으로 사용할 수 있으며, 적들은 <LSTag Tooltip="
 "\"OpportunityAttack\">기회 공격</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</"
 "LSTag>을 가집니다.<br><br>또한 물리 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 얻고, "
@@ -37493,7 +37493,7 @@ msgid ""
 "early if the barbarian didn't attack an enemy or take damage since their "
 "last turn."
 msgstr ""
-"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1] 를 추가로 입힙니다. <br><br><LSTag Tooltip="
+"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1]를 추가로 입힙니다. <br><br><LSTag Tooltip="
 "\"MovementSpeed\">이동 속도</LSTag>가 [2] 만큼 증가합니다.<br><br>또한 물리 피해에 <LSTag "
 "Tooltip=\"Resistant\">저항</LSTag>을 얻고, 근력 <LSTag Tooltip=\"AbilityCheck\">판정</"
 "LSTag>과 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
@@ -37518,7 +37518,7 @@ msgid ""
 "spells.<br>Rage ends early if the barbarian didn't attack an enemy or take "
 "damage since their last turn."
 msgstr ""
-"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1] 를 추가로 입힙니다. <br><br><LSTag 도약 거리가 [2] "
+"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1]를 추가로 입힙니다. <br><br><LSTag 도약 거리가 [2] "
 "증가합니다.<br><br>또한 물리 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 얻고, 근력 "
 "<LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag Tooltip=\"SavingThrow\""
 ">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻습니다. <br><br>주문을 "
@@ -37560,13 +37560,12 @@ msgid ""
 "spells.<br>Rage ends early if the barbarian didn't attack an enemy or take "
 "damage since their last turn."
 msgstr ""
-"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1] 를 추가로 입힙니다. <br><br>아군은 [2] 내에 있는 적에 대한 "
-"<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag> 시 <LSTag Tooltip=\"Advantage\""
-">이점</LSTag>을 가집니다.<br><br>또한 물리 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 "
-"얻고, 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 "
-"얻습니다. <br><br>주문을 시전하거나 집중할 수 없습니다.<br>바바리안이 지난 턴 이후로 공격하거나 피해를 입지 않았다면 격노 "
-"상태가 일찍 종료됩니다."
+"근접 공격과 즉석 무기, 그리고 물체를 던질 때 [1]를 추가로 입힙니다. <br><br>아군은 [2] 내에 있는 적에 대한 <LSTag "
+"Tooltip=\"AttackRoll\">명중 굴림</LSTag> 시 <LSTag Tooltip=\"Advantage\">이점</"
+"LSTag>을 가집니다.<br><br>또한 물리 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 얻고, "
+"근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag Tooltip=\"SavingThrow\""
+">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻습니다. <br><br>주문을 "
+"시전하거나 집중할 수 없습니다.<br>바바리안이 지난 턴 이후로 공격하거나 피해를 입지 않았다면 격노 상태가 일찍 종료됩니다."
 
 #. key = Shared_Status_BOOST_RAGE_TOTEM_WOLF_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3130
@@ -37718,7 +37717,7 @@ msgstr "반사하는 껍질"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1814
 msgctxt "h124be289g4eabg45feg8a9bgafe6e561ebb0"
 msgid "Regain [1] when starting a turn in Lava."
-msgstr "용암에서 턴을 시작하면 [1] 을 회복합니다."
+msgstr "용암에서 턴을 시작하면 [1]을 회복합니다."
 
 #. key = Shared_Status_BOOST_REGENERATION_ELEMENTAL_LAVA_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2717
@@ -37909,7 +37908,7 @@ msgstr "흐르는 물"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:197
 msgctxt "h41f53f62g53b2g4503gaacag8608cab77a50"
 msgid "Running water eats away at vampiric flesh, dealing [1]."
-msgstr "흐르는 물이 뱀파이어의 피부를 갉아먹으며 [1] 를 입힙니다."
+msgstr "흐르는 물이 뱀파이어의 피부를 갉아먹으며 [1]를 입힙니다."
 
 #. key = Shared_Status_BOOST_RUNNING_WATER_VAMPIRE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:260
@@ -37958,8 +37957,8 @@ msgid ""
 "Affected entity akes [1] every turn, until the turn after it succeeds a "
 "Constitution <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag>."
 msgstr ""
-"영향을 받은 개체는 건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 성공하고 한 턴이 지날 때까지 "
-"될 때까지 매 턴 [1] 를 입습니다."
+"영향을 받은 개체는 건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 성공한 뒤 한 턴이 지날 "
+"때까지 매 턴 [1] 를 입습니다."
 
 #. key = Shared_Status_BOOST_SEARING_SMITE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1100
@@ -38032,7 +38031,7 @@ msgid ""
 ">Attack Rolls</LSTag> use the wielder's <LSTag Tooltip="
 "\"SpellcastingAbilityModifier\">Spellcasting Ability Modifier</LSTag>."
 msgstr ""
-"무기가 마법적으로 변하고 [1] 를 가합니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag> 시 착용자의 "
+"무기가 마법적으로 변하고 [1]를 가합니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag> 시 착용자의 "
 "<LSTag Tooltip=\"SpellcastingAbilityModifier\">주문시전 능력치</LSTag>를 사용합니다."
 
 #. key = Shared_Status_BOOST_SHILLELAGH_DisplayName
@@ -38254,7 +38253,7 @@ msgid ""
 "the infestation spreads to all nearby creatures.<br><br>Removed by fire or "
 "acid.<br>Doesn't harm ettercaps or spiders."
 msgstr ""
-"자그마한 거미들이 기어 다니며 매 턴 [1] 과 [2] 를 가합니다.<br><br>근접 공격에 적중 당하면, 공격자도 전염됩니다. 대상이 "
+"자그마한 거미들이 기어 다니며 매 턴 [1]와 [2]를 가합니다.<br><br>근접 공격에 적중 당하면, 공격자도 전염됩니다. 대상이 "
 "사망하면, 근처의 모든 크리쳐에게 전염됩니다.<br><br>화염이나 산성에 의해 제거됩니다. <br>에터캡이나 거미는 피해를 입지 "
 "않습니다."
 
@@ -38374,7 +38373,7 @@ msgstr "오라: 정전기 방출"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1254
 msgctxt "h38fc824ag71d8g4f2agb813gcaef1111fc4b"
 msgid "Standing near a statically charged Bernard. Deals an additional [1]."
-msgstr "정전기가 충전된 버나드 근처에 서 있습니다. [1] 를 추가로 가합니다."
+msgstr "정전기가 충전된 버나드 근처에 서 있습니다. [1]를 추가로 가합니다."
 
 #. key = Shared_Status_BOOST_STATIC_DISCHARGE_CONSTRUCT_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1478
@@ -38462,8 +38461,7 @@ msgctxt "hb9921e89gaba3g497dgb60fgcc2e6010a822"
 msgid ""
 "If the character reaches 0 <LSTag Tooltip=\"HitPoints\">hit points</LSTag>, "
 "it regains [1] instead of falling Unconscious."
-msgstr ""
-"<LSTag Tooltip=\"HitPoints\">체력</LSTag>이 0 으로 떨어지면, 쓰러지는 대신 [1] 을 회복합니다."
+msgstr "<LSTag Tooltip=\"HitPoints\">체력</LSTag>이 0 으로 떨어지면, 쓰러지는 대신 [1]을 회복합니다."
 
 #. key = Shared_Status_BOOST_SURVIVAL_INSTINCT_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1184
@@ -38569,7 +38567,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 11 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Status_BOOST_TOXIN_BASIC_DIPPED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3837
@@ -38586,7 +38584,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 11 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Status_BOOST_TOXIN_BASIC_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3830
@@ -38603,7 +38601,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 19 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Status_BOOST_TOXIN_PURPLEWORM_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2738
@@ -38614,7 +38612,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 19 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Status_BOOST_TOXIN_SERPENTVENOM_DIPPED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2717
@@ -38625,7 +38623,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 13 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Status_BOOST_TOXIN_SERPENTVENOM_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2696
@@ -38636,7 +38634,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 13 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Status_BOOST_TOXIN_WYVERN_DIPPED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2731
@@ -38647,7 +38645,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 15 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Status_BOOST_TOXIN_WYVERN_DIPPED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3858
@@ -38664,7 +38662,7 @@ msgid ""
 ">Saving Throw</LSTag>."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 15 의 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1] 를 추가로 입힙니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, 무기가 [1]를 추가로 입힙니다."
 
 #. key = Shared_Status_BOOST_TRUE_STRIKE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1009
@@ -38773,7 +38771,7 @@ msgstr "하다르의 허기"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2521
 msgctxt "h75a5068agdd18g40a5g9e8dg04ae2fe0f11f"
 msgid "Takes [1] as milky, otherwordly tentacles rub against them."
-msgstr "유백색 기묘한 촉수가 문지르며 [1] 를 가합니다."
+msgstr "유백색 기묘한 촉수가 문지르며 [1]를 가합니다."
 
 #. key = Shared_Status_BOOST_VOID_END_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3669
@@ -38933,7 +38931,7 @@ msgid ""
 "The next attack with this weapon is a <LSTag Tooltip=\"CriticalHit\""
 ">Critical Hit</LSTag> and deals an additional [1]."
 msgstr ""
-"이 무기를 이용한 다음 공격은 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중하며 추가로 [1] 를 "
+"이 무기를 이용한 다음 공격은 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중하며 추가로 [1]를 "
 "가합니다."
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_ENCHANT_Description
@@ -38943,7 +38941,7 @@ msgid ""
 "The next attack with your main weapon is a <LSTag Tooltip=\"CriticalHit\""
 ">Critical Hit</LSTag> and deals an additional [1]."
 msgstr ""
-"주무기를 이용한 다음 공격은 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중하며 추가로 [1] 를 "
+"주무기를 이용한 다음 공격은 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중하며 추가로 [1]를 "
 "가합니다."
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_ENCHANT_DisplayName
@@ -39041,7 +39039,7 @@ msgstr "주술 화살 소유자"
 msgctxt "h2a6478d4g4854g4b19g9ce5gebdcd273e0d1"
 msgid ""
 "The wood woad regains [1] if it starts its turn in a Twisting Vines surface."
-msgstr "우드 워드가 뒤틀린 덩굴 표면 위에서 턴을 시작하면 [1] 을 회복합니다."
+msgstr "우드 워드가 뒤틀린 덩굴 표면 위에서 턴을 시작하면 [1]을 회복합니다."
 
 #. key = Shared_Status_BOOST_WOOD_WOAD_REGENERATION_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2374
@@ -40274,7 +40272,7 @@ msgctxt "h2c58f9ebga313g47ffgbe6dgb8a67db0cd8c"
 msgid ""
 "Curse a creature with your touch. Your attacks and spells deal an additional "
 "[1] to the target."
-msgstr "손길로 크리쳐에게 저주를 내립니다. 대상을 향한 자신의 공격과 주문은 [1] 를 추가로 가합니다."
+msgstr "손길로 크리쳐에게 저주를 내립니다. 대상을 향한 자신의 공격과 주문은 [1]를 추가로 가합니다."
 
 #. key = Shared_Target_BestowCurse_ExtraDamage_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1849
@@ -41078,7 +41076,7 @@ msgctxt "h611b79afg92ddg43c9g9bd5ga5905f67dd7a"
 msgid ""
 "Lump designates a new nemesis. Each object thrown at the target by an ogre "
 "deals an additional [1]."
-msgstr "럼프가 새로운 숙적을 지정합니다. 오우거가 대상에게 던지는 모든 물체는 [1] 를 추가로 가합니다."
+msgstr "럼프가 새로운 숙적을 지정합니다. 오우거가 대상에게 던지는 모든 물체는 [1]를 추가로 가합니다."
 
 #. key = Shared_Target_Curse_Ogre_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1212
@@ -41347,7 +41345,7 @@ msgid ""
 "Constitution <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and gains [1]."
 msgstr ""
 "건강 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Advantage\""
-">이점</LSTag>과 [1] 을 얻습니다."
+">이점</LSTag>과 [1]을 얻습니다."
 
 #. key = Shared_Target_EnhanceAbility_BearsEndurance_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:253
@@ -41359,7 +41357,7 @@ msgstr "곰의 인내력"
 #: Shared/Public/Shared/Localization/Target_ShortDescription.lsx:71
 msgctxt "hca724293ge6a7g480ag9593g73fb01b84b73"
 msgid "Enhance certain actions using Constitution and give the ally [1]."
-msgstr "건강을 이용한 특정 행동을 강화하고 해당 아군에게 [1] 을 줍니다."
+msgstr "건강을 이용한 특정 행동을 강화하고 해당 아군에게 [1]을 줍니다."
 
 #. key = Shared_Target_EnhanceAbility_BullsStrength_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:260
@@ -41618,7 +41616,7 @@ msgstr "천상 여정"
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:512
 msgctxt "h79868432g39a1g4e31gb093g6fc7adb3ad53"
 msgid "Engulf a target in flames that deal [1]."
-msgstr "대상을 불길로 감싸 [1] 를 가합니다."
+msgstr "대상을 불길로 감싸 [1]를 가합니다."
 
 #. key = Shared_Target_Exhale_Fire_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:526
@@ -41670,8 +41668,8 @@ msgid ""
 "<LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> against them have <LSTag "
 "Tooltip=\"Advantage\">Advantage</LSTag>."
 msgstr ""
-"여러 대상을 오색 빛으로 감쌉니다. 대상이 밝게 표시되며 받는 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
-"LSTag> <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
+"여러 대상을 오색 빛으로 감쌉니다. 대상이 밝게 표시되며 대상에 대한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag>은 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Target_FaerieFire_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1023
@@ -41939,7 +41937,7 @@ msgstr "필요 조건: 시전자가 추가 행동을 사용할 수 있어야 합
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:526
 msgctxt "h26423b41g1d19g4de1g8e78g4a47aa884268"
 msgid "Slam into an enemy creature or object to deal [1]."
-msgstr "적 크리쳐나 물체에 달려들어 [1] 를 가합니다."
+msgstr "적 크리쳐나 물체에 달려들어 [1]를 가합니다."
 
 #. key = Shared_Target_FlamingSphere_Ram_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:540
@@ -42167,7 +42165,7 @@ msgctxt "hd8f1368egaf40g4e7cg9a1fge3094286c7e4"
 msgid ""
 "Conjure four magical berries for yourself or a companion. Creatures who eat "
 "a berry regain [1]."
-msgstr "자신 또는 동료를 위해 마법의 열매 네 개를 만들어냅니다. 이 베리를 섭취하면 [1] 을 회복합니다."
+msgstr "자신 또는 동료를 위해 마법의 열매 네 개를 만들어냅니다. 이 베리를 섭취하면 [1]을 회복합니다."
 
 #. key = Shared_Target_Goodberry_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:295
@@ -42207,8 +42205,8 @@ msgid ""
 msgstr ""
 "<LSTag Type=\"Status\" Tooltip=\"DEBRIS_THRESHOLD_LESSER\">약함</LSTag>LSTag "
 "Type=\"Status\" Tooltip=\"DEBRIS_THRESHOLD\">중간</LSTag>, 또는 <LSTag Type="
-"\"Status\" Tooltip=\"DEBRIS_THRESHOLD_GREATER\">단단함</LSTag> 강도를 지닌 대상에게 [1] "
-"를 추가로 가합니다."
+"\"Status\" Tooltip=\"DEBRIS_THRESHOLD_GREATER\">단단함</LSTag> 강도를 지닌 대상에게 [1]를 "
+"추가로 가합니다."
 
 #. key = Shared_Target_Gore_Minotaur_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1275
@@ -42448,7 +42446,7 @@ msgid ""
 "gains [1] each turn."
 msgstr ""
 "자기 자신 또는 아군에게 용기와 체력을 불어넣습니다. 대상은 <LSTag Type=\"Status\" Tooltip=\"FRIGHTENED"
-"\">공포</LSTag>에 면역을 얻으며 매 턴 [1] 을 얻습니다."
+"\">공포</LSTag>에 면역을 얻으며 매 턴 [1]을 얻습니다."
 
 #. key = Shared_Target_Heroism_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1695
@@ -42867,7 +42865,7 @@ msgctxt "hbf18c5f4g3952g4e08gaeb6ga9785601dd2c"
 msgid ""
 "Mark a creature as your quarry to deal an additional [1] whenever you hit it "
 "with a weapon attack. "
-msgstr "크리쳐에게 사냥감 표식을 남겨 무기로 공격할 때마다 [1] 를 추가로 가합니다. "
+msgstr "크리쳐에게 사냥감 표식을 남겨 무기로 공격할 때마다 [1]를 추가로 가합니다. "
 
 #. key = Shared_Target_HuntersMark_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:694
@@ -43807,8 +43805,8 @@ msgid ""
 msgstr ""
 "대상에게 영향을 끼치던 모든 독의 효과를 무력화하고, <LSTag Type=\"Status\" Tooltip=\"POISONED\""
 ">중독</LSTag> 상태에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag "
-"Tooltip=\"Advantage\">이점</LSTag을 부여하며, 독성 피해에 <LSTag Tooltip=\"Resistant\""
-">ㅈ저항</LSTag>도 부여합니다."
+"Tooltip=\"Advantage\">이점</LSTag>을 부여하며, 독성 피해에 <LSTag Tooltip=\"Resistant\""
+">저항</LSTag>도 부여합니다."
 
 #. key = Shared_Target_Pseudopod_Ooze_Gray_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2164
@@ -43851,7 +43849,7 @@ msgstr "밀어내는 공격 (근접)"
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:750
 msgctxt "h5f0d9bdegf6cbg4e3ag9898g24fa33d8d2e9"
 msgid "Bolster the resolve of a friendly creature. It gains an additional [1]."
-msgstr "아군 크리쳐의 결의를 다집니다. 대상은 [1] 을 추가로 얻습니다."
+msgstr "아군 크리쳐의 결의를 다집니다. 대상은 [1]을 추가로 얻습니다."
 
 #. key = Shared_Target_Rally_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:764
@@ -44440,7 +44438,7 @@ msgstr "신성한 강타"
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:400
 msgctxt "hff4e5b2cge3dbg4f06g8ce0gc6b5a780dc3e"
 msgid "Deals an additional [1] to fiends and undead."
-msgstr "마족과 언데드들에게 [1] 를 추가로 가합니다."
+msgstr "마족과 언데드에게 [1]를 추가로 가합니다."
 
 #. key = Shared_Target_Smite_Searing_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:162
@@ -44681,7 +44679,7 @@ msgstr "찌르기"
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:190
 msgctxt "h7c5c39aeg2c77g4a3cg9d88g84c005a0c780"
 msgid "Deals [1] and possibly deals an additional [2]."
-msgstr "[1] 를 가하고 일정 확률로 [2] 를 추가로 가합니다."
+msgstr "[1]를 가하고 일정 확률로 [2]를 추가로 가합니다."
 
 #. key = Shared_Target_StinkingCloud_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1968
@@ -44885,7 +44883,7 @@ msgid ""
 ">Advantage</LSTag> on your next <LSTag Tooltip=\"AttackRoll\">Attack Roll</"
 "LSTag> against it."
 msgstr ""
-"캐릭터의 방어를 신성화하여 해당 대상을 향한 자신의 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 "
+"캐릭터의 방어를 간파해 해당 대상을 향한 자신의 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 "
 "<LSTag Tooltip=\"Advantage\">이점</LSTag>을 부여합니다."
 
 #. key = Shared_Target_TrueStrike_DisplayName
@@ -45399,7 +45397,7 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Condition ends early if you or "
 "an ally hurts the target."
 msgstr ""
-"<LSTag Type=\"Image\" Info=\"SoftWarning\"/>> 자신 또는 아군이 대상에게 피해를 가하면 상태가 일찍 "
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 자신 또는 아군이 대상에게 피해를 가하면 상태가 일찍 "
 "종료됩니다."
 
 #. key = Shared_TooltipExtraTexts_New_Stat_38_Text
@@ -45658,7 +45656,7 @@ msgstr "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 중형 또는 소형 시체
 #: Shared/Public/Shared/Localization/TooltipUpcastDescriptions_Text.lsx:8
 msgctxt "h197f62bbgd1ddg4436g90dfg80f1e64bdb4c"
 msgid "Deals an additional [1] per level."
-msgstr "레벨 당 [1] 를 추가로 가합니다."
+msgstr "레벨 당 [1]를 추가로 가합니다."
 
 #. key = Shared_TooltipUpcastDescriptions_New_Stat_10_Text
 #: Shared/Public/Shared/Localization/TooltipUpcastDescriptions_Text.lsx:78
@@ -45682,13 +45680,13 @@ msgstr "레벨 당 하나의 추가 광선을 발사합니다."
 #: Shared/Public/Shared/Localization/TooltipUpcastDescriptions_Text.lsx:15
 msgctxt "hf75fa26ag5ba7g4a0cgaf44g62c9a5a3f2bf"
 msgid "Ensnared condition deals an additional [1] per level."
-msgstr "덫에 걸린 상태는 레벨 당 [1] 를 추가로 입힙니다."
+msgstr "덫에 걸린 상태는 레벨 당 [1]를 추가로 입힙니다."
 
 #. key = Shared_TooltipUpcastDescriptions_New_Stat_2_Text
 #: Shared/Public/Shared/Localization/TooltipUpcastDescriptions_Text.lsx:22
 msgctxt "h122b85a6g8067g43b0gac66g0688eed11726"
 msgid "The explosion deals an additional [1] per level."
-msgstr "폭발은 레벨 당 [1] 를 추가로 가합니다."
+msgstr "폭발은 레벨 당 [1]를 추가로 가합니다."
 
 #. key = Shared_TooltipUpcastDescriptions_New_Stat_3_Text
 #: Shared/Public/Shared/Localization/TooltipUpcastDescriptions_Text.lsx:29
@@ -45706,7 +45704,7 @@ msgstr "레벨 당 투사체가 하나씩 증가합니다."
 #: Shared/Public/Shared/Localization/TooltipUpcastDescriptions_Text.lsx:43
 msgctxt "hc34ce278g4299g4d3bga977g2e0bd85eaa12"
 msgid "Gain an additional [1] and deal an additional [2] per level."
-msgstr "레벨 당 [1] 을 추가로 얻고 [2] 를 추가로 가합니다."
+msgstr "레벨 당 [1]을 추가로 얻고 [2]를 추가로 가합니다."
 
 #. key = Shared_TooltipUpcastDescriptions_New_Stat_6_Text
 #: Shared/Public/Shared/Localization/TooltipUpcastDescriptions_Text.lsx:50
