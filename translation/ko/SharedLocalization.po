@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-04-20 09:52+0000\n"
-"Last-Translator: 로켓 <nick0406@naver.com>\n"
+"PO-Revision-Date: 2023-04-26 09:52+0000\n"
+"Last-Translator: 조선인 <kimkikim141@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
 "Language: ko\n"
@@ -3907,10 +3907,9 @@ msgstr "폭격"
 
 #. key = Gustav_Projectile_BEH_DeathRay_Description
 #: Gustav/Public/Gustav/Localization/Stats/Projectile_Description.lsx:15
-#, fuzzy
 msgctxt "h12a09caagb959g4a69g9570ge591c0204608"
 msgid "Test Attack for the Beholder"
-msgstr "비홀더를 위한 공격 시험"
+msgstr "Test Attack for the Beholder"
 
 #. key = Gustav_Projectile_BEH_DeathRay_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Projectile_DisplayName.lsx:50
@@ -10333,13 +10332,13 @@ msgstr "데모닉 검정 2"
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:547
 msgctxt "hd2c52e1eg2069g452egbd2eg5ec4c629c7a4"
 msgid "Demonic Black 3"
-msgstr ""
+msgstr "데모닉 검정 3"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_86_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:554
 msgctxt "h4eb0526ag0e83g4462gb6d0g9c68d0eec1f3"
 msgid "Demonic Black 4"
-msgstr ""
+msgstr "데모닉 검정 4"
 
 #. key = Shared_CharacterCreationEyeColors_New_Stat_8_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationEyeColors_DisplayName.lsx:71
@@ -10369,7 +10368,7 @@ msgstr "주황색 6"
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:715
 msgctxt "hbe5a36e0g2cfag4120g94bbg0d23770565d8"
 msgid "Pink 1 with lashes"
-msgstr ""
+msgstr "속눈썹 포함 분홍색 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_102_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:722
@@ -10381,7 +10380,7 @@ msgstr "분홍색 6"
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:729
 msgctxt "hee098689g13fbg4bf1g9e17g984db3258102"
 msgid "Purple 1 with lashes"
-msgstr ""
+msgstr "속눈썹 포함 자색 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_104_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:736
@@ -10393,7 +10392,7 @@ msgstr "자색 6"
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:743
 msgctxt "h015c504bg517dg42e6gad7fg4ebc5d0f44a4"
 msgid "Yellow 1 with lashes"
-msgstr ""
+msgstr "속눈썹 포함 노란색 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_106_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:750
@@ -10405,7 +10404,7 @@ msgstr "노란색 6"
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:757
 msgctxt "hacb06bd7g6a55g4832gbc69gccd288f84556"
 msgid "Blue 1 with lashes"
-msgstr ""
+msgstr "속눈썹 포함 청색 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_108_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:764
@@ -10417,7 +10416,7 @@ msgstr "청색 6"
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:771
 msgctxt "h3a8b8429g4adcg4829gb5bagcbb9f10b2511"
 msgid "Aqua 1 with lashes"
-msgstr ""
+msgstr "속눈썹 포함 아쿠아 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_10_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:85
@@ -10429,7 +10428,7 @@ msgstr "갈색 2"
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:778
 msgctxt "hf8ca6b52gb2f2g4136ga345g60fa9789d7a2"
 msgid "Aqua 6"
-msgstr ""
+msgstr "아쿠아 6"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_111_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:785
@@ -15976,7 +15975,7 @@ msgstr "너무 무거워 들 수 없습니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1009
 msgctxt "h854c129ag4f65g44fegbf9cg0f0984d505eb"
 msgid "Must be wielding a weapon that can be coated."
-msgstr ""
+msgstr "바를 수 있는 무기를 착용해야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_146_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1016
@@ -16006,7 +16005,7 @@ msgstr "착용한 무기에 숙련된 상태여야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:106
 msgctxt "h4eaecb58g304dg408cgb53dgeace16e82a98"
 msgid "No Source."
-msgstr ""
+msgstr "No Source."
 
 #. key = Shared_ConditionErrors_New_Stat_151_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1044
@@ -16246,25 +16245,25 @@ msgstr "영역이 살짝, 또는 심하게 가려진 상태여야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:330
 msgctxt "hd9e54f9ag713eg4c31g9fafg80c46feedc18"
 msgid "Area must be Lightly Obscured."
-msgstr "영역이 가볍게 살짝 상태여야 합니다."
+msgstr "영역이 살짝 가려진 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_47_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:337
 msgctxt "h659539eegcacdg459aga71ag7bc1a51f83b6"
 msgid "Area can't be Lightly Obscured."
-msgstr ""
+msgstr "영역이 살짝 가려질 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_48_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:344
 msgctxt "h9b2ad9a9g5efag46f4ga39eg3ba653f693b9"
 msgid "Area must be Heavily Obscured."
-msgstr ""
+msgstr "영역이 심하게 가려진 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_49_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:351
 msgctxt "hcea4e3b1g9340g43d5ga776g8d8fcd1646ab"
 msgid "Area can't be Heavily Obscured."
-msgstr ""
+msgstr "영역이 심하게 가려질 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_4_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:22
@@ -16493,13 +16492,13 @@ msgstr "야수를 대상으로 해야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:589
 msgctxt "hbcf561dbg836dg47c1g9ccbg399f6035f020"
 msgid "Can't target Fiends."
-msgstr "악마를 대상으로 할 수 없습니다."
+msgstr "마족을 대상으로 할 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_84_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:596
 msgctxt "h35326d04gf651g4654g948bgc206605ef066"
 msgid "Target must be a Fiend. "
-msgstr "악마를 대상으로 해야 합니다. "
+msgstr "마족을 대상으로 해야 합니다. "
 
 #. key = Shared_ConditionErrors_New_Stat_85_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:603
@@ -16643,7 +16642,7 @@ msgstr "숫돌"
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:8
 msgctxt "h99093661g592ag43f2g9765g26c61dd287ac"
 msgid "Deepwinter"
-msgstr "딥윈터"
+msgstr "깊은 겨울"
 
 #. key = Shared_DayRanges_New_Stat_0_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:8
@@ -16673,187 +16672,187 @@ msgstr "하이선"
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:85
 msgctxt "hf0b0c6d5gfc20g4591gbc13gc643bc860483"
 msgid "Eleasis"
-msgstr "엘레아시스"
+msgstr "엘리시스"
 
 #. key = Shared_DayRanges_New_Stat_12_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:92
 msgctxt "h6c7e94ecg0877g44a7ga035g5508df43a8bd"
 msgid "The Fading"
-msgstr "더 페이딩"
+msgstr "퇴색의 계절"
 
 #. key = Shared_DayRanges_New_Stat_12_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:92
 msgctxt "h42a0d765gdb1bg46a5gb35eg74d2c2e4835e"
 msgid "Elient"
-msgstr "엘리언트"
+msgstr "엘레인트"
 
 #. key = Shared_DayRanges_New_Stat_13_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:99
 msgctxt "h36745427g557eg4673g95abg33cbef49b52f"
 msgid "Highharvesttide"
-msgstr "하이하버사이드"
+msgstr "하이하베스타이드"
 
 #. key = Shared_DayRanges_New_Stat_13_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:99
 msgctxt "h5a03942dgdc6ag491bgae6ega90effe7242f"
 msgid "Highharvesttide"
-msgstr "하이하버사이드"
+msgstr "하이하베스타이드"
 
 #. key = Shared_DayRanges_New_Stat_14_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:106
 msgctxt "hffb00b6aga90ag4848gb66bga42b5b482ca9"
 msgid "Leaffall"
-msgstr "리프폴"
+msgstr "낙엽의 계절"
 
 #. key = Shared_DayRanges_New_Stat_14_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:106
 msgctxt "h46a74624gab24g47e0g94c6gf1f689fade51"
 msgid "Marpenoth"
-msgstr ""
+msgstr "마르페노스"
 
 #. key = Shared_DayRanges_New_Stat_15_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:113
 msgctxt "hc22d4cc8g8b92g4decg89bcg0e83d209c16c"
 msgid "The Rotting"
-msgstr ""
+msgstr "부패의 계절"
 
 #. key = Shared_DayRanges_New_Stat_15_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:113
 msgctxt "he3231c5egaa4eg484cg8b74g5ddd0a25b0e8"
 msgid "Uktar"
-msgstr ""
+msgstr "우크타르"
 
 #. key = Shared_DayRanges_New_Stat_16_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:120
 msgctxt "h667ee944ge902g4aedg8d63g4ab7d32c09e5"
 msgid "The Feast of the Moon"
-msgstr ""
+msgstr "달의 축제"
 
 #. key = Shared_DayRanges_New_Stat_16_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:120
 msgctxt "h8355ad3bg9684g4c94g9d58gb4dccf2c8678"
 msgid "The Feast of the Moon"
-msgstr ""
+msgstr "달의 축제"
 
 #. key = Shared_DayRanges_New_Stat_17_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:127
 msgctxt "hd9d60563gd9b3g429cgae9cg097f0aae89b9"
 msgid "The Drawing Down"
-msgstr ""
+msgstr "침하의 계절"
 
 #. key = Shared_DayRanges_New_Stat_17_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:127
 msgctxt "hcc0c4389g025dg40c8g9f4cgd1934c56c309"
 msgid "Nightal"
-msgstr ""
+msgstr "나이탈"
 
 #. key = Shared_DayRanges_New_Stat_1_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:15
 msgctxt "h02c887f0gf955g4e20g9f31g630ed5adb8fd"
 msgid "Midwinter"
-msgstr ""
+msgstr "한겨울"
 
 #. key = Shared_DayRanges_New_Stat_1_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:15
 msgctxt "hc7ca9f2bg632fg4216g9c56gfe3331fbafa4"
 msgid "Midwinter"
-msgstr ""
+msgstr "한겨울"
 
 #. key = Shared_DayRanges_New_Stat_2_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:22
 msgctxt "hbee0dde1g2095g4658g92cbgb33983b84f52"
 msgid "The Claw of Winter"
-msgstr ""
+msgstr "겨울의 발톱"
 
 #. key = Shared_DayRanges_New_Stat_2_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:22
 msgctxt "h9b63384fg60b8g4f76gae3fgccdb81b7b9e3"
 msgid "Alturiak"
-msgstr ""
+msgstr "알투리아크"
 
 #. key = Shared_DayRanges_New_Stat_3_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:29
 msgctxt "hab18ccceg8947g4fd9g997dgc36b08aa9482"
 msgid "The Claw of the Sunsets"
-msgstr ""
+msgstr "일몰의 발톱"
 
 #. key = Shared_DayRanges_New_Stat_3_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:29
 msgctxt "h2835899cg7dd0g42f5g8f24g7433674196b8"
 msgid "Ches"
-msgstr ""
+msgstr "셰스"
 
 #. key = Shared_DayRanges_New_Stat_4_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:36
 msgctxt "h90737b46g465bg4786g8872gb0b6fe528769"
 msgid "The Claw of the Storms"
-msgstr ""
+msgstr "폭풍의 발톱"
 
 #. key = Shared_DayRanges_New_Stat_4_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:36
 msgctxt "hca128df4g0a25g4d38gbc87g6a18c051662d"
 msgid "Tarsahk"
-msgstr ""
+msgstr "타르사크"
 
 #. key = Shared_DayRanges_New_Stat_5_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:43
 msgctxt "h527849cfgace8g4506g9b4dgc7d155cdea96"
 msgid "Greengrass"
-msgstr ""
+msgstr "그린그래스"
 
 #. key = Shared_DayRanges_New_Stat_5_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:43
 msgctxt "h00d4dec1g17dbg4af6g8888g2d1c6df0df96"
 msgid "Greengrass"
-msgstr ""
+msgstr "그린그래스"
 
 #. key = Shared_DayRanges_New_Stat_6_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:50
 msgctxt "h59abaf02g5972g4781gabb0g59bdf0fdb381"
 msgid "The Melting"
-msgstr ""
+msgstr "녹아내리는 계절"
 
 #. key = Shared_DayRanges_New_Stat_6_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:50
 msgctxt "h7e00e1f3g50c1g4a9eg9890g0e62be2f478b"
 msgid "Mirtul"
-msgstr ""
+msgstr "미르툴"
 
 #. key = Shared_DayRanges_New_Stat_7_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:57
 msgctxt "h4ed8ad7dg022dg42f0g8a7fgc1701bf5bf47"
 msgid "The Time of Flowers"
-msgstr ""
+msgstr "꽃의 시간"
 
 #. key = Shared_DayRanges_New_Stat_7_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:57
 msgctxt "hd8ded000gc334g4c56g81d2gbcca5a7e657e"
 msgid "Kythorn"
-msgstr ""
+msgstr "카이톤"
 
 #. key = Shared_DayRanges_New_Stat_8_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:64
 msgctxt "h9452de53g459dg45f7g90b8g282643fdf312"
 msgid "Summertide"
-msgstr ""
+msgstr "여름물결"
 
 #. key = Shared_DayRanges_New_Stat_8_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:64
 msgctxt "hfaf55180g0415g4b80g8bf2gccd2cdb746dc"
 msgid "Flamerule"
-msgstr ""
+msgstr "플레임룰"
 
 #. key = Shared_DayRanges_New_Stat_9_DisplayCommonName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayCommonName.lsx:71
 msgctxt "h6b4abbaeg3004g4611gbb9fga94222bb763c"
 msgid "Midsummer"
-msgstr ""
+msgstr "한여름"
 
 #. key = Shared_DayRanges_New_Stat_9_DisplayName
 #: Shared/Public/Shared/Localization/DayRanges_DisplayName.lsx:71
 msgctxt "hb5501fe3g930cg4805gb1aag4cdca571c95e"
 msgid "Midsummer"
-msgstr ""
+msgstr "한여름"
 
 #. key = Shared_FeatDescriptions_New_Stat_0_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:8
@@ -16888,7 +16887,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:78
 msgctxt "hfc6d8c58gfb0eg4514gbf27g05a428bc70fe"
 msgid "Martial Adept"
-msgstr "군사 전문가"
+msgstr "무술 숙련"
 
 #. key = Shared_FeatDescriptions_New_Stat_11_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:85
@@ -17131,7 +17130,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:29
 msgctxt "h1d620270gba24g434egad17g5ee9b72a6e3e"
 msgid "Dual Wielder"
-msgstr ""
+msgstr "쌍수 전투"
 
 #. key = Shared_FeatDescriptions_New_Stat_4_Description
 #: Shared/Public/Shared/Localization/FeatDescriptions_Description.lsx:36
@@ -17343,7 +17342,7 @@ msgctxt "h37cd82ffga69bg42f5g90e5g104af0637039"
 msgid ""
 "The Watchful Protector is the king of gnomish gods - a deity of humour, "
 "gemcutting, protection, and trickery."
-msgstr ""
+msgstr "감시하는 수호자는 노움 신들의 왕이며, 유머, 보석 세공, 보호, 속임수를 관장하는 신입니다."
 
 #. key = Shared_Gods_New_Stat_14_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:106
@@ -17392,6 +17391,8 @@ msgid ""
 "unquestioned rulers of duergar society, enforcing cold and callous behavior "
 "among his worshippers."
 msgstr ""
+"추방자는 듀에르가의 압제적인 수호신입니다. 그의 클레릭은 듀에르가 사회에서 무소불위의 권력을 휘두르며, 그 추종자들로 하여금 냉정하고 "
+"냉담하게 행동하도록 강요합니다."
 
 #. key = Shared_Gods_New_Stat_17_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:127
@@ -17489,6 +17490,8 @@ msgid ""
 "necromancer turned god, inspiring the fear of death in mortals. He often "
 "clashes with Kelemvor, the even-handed judge of fallen souls."
 msgstr ""
+"바알, 베인과 함께 삼악신의 일원인 머큘은 신으로 거듭난 잔혹한 강령술사로, 필멸자들에게 죽음에 대한 공포를 불어넣습니다. 쓰러진 영혼의 "
+"공정한 심판관인 켈렘보르와는 자주 충돌합니다."
 
 #. key = Shared_Gods_New_Stat_22_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:162
