@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-04-28 06:52+0000\n"
+"PO-Revision-Date: 2023-04-30 04:52+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -3509,15 +3509,15 @@ msgid ""
 "creatures, as long as there are kuo-toa to worship BOOOAL and give him "
 "strength."
 msgstr ""
-"살인의 신, <b>부알이</b> 당신에게 미소 짓습니다.<br><br><b>부알</b>을 섬기는 쿠오토아가 남아있는 한 <LSTag "
-"Type=\"Status\" Tooltip=\"BLEEDING\">출혈</LSTag> 상태의 크리쳐를 향한 <LSTag Tooltip="
-"\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
+"살인의 신, 부알이 당신에게 미소 짓습니다.<br><br>부알을 섬기는 쿠오토아가 남아있는 한 <LSTag Type=\"Status\" "
+"Tooltip=\"BLEEDING\">출혈</LSTag> 상태의 크리쳐를 향한 <LSTag Tooltip=\"AttackRoll\">명중 "
+"굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Gustav_Passive_UND_BlessingOfBOOOAL_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:176
 msgctxt "h3dcfa8a6ge92ag43cfgb42eg8fa3fb0c66c3"
 msgid "BOOOAL's Benediction"
-msgstr "<b>부알</b>의 축복"
+msgstr "부알의 축복"
 
 #. key = Gustav_Passive_UND_DuergarRaft_Hammer_Passive_Description
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:239
@@ -6415,14 +6415,13 @@ msgid ""
 "The sight of a kuo-toa servant dying fills BOOOAL with bloodlust.  It "
 "regains [1] when it kills a creature and can attack three times."
 msgstr ""
-"쿠오토아 하수인이 죽는 모습이 <b>부알</b>을 피의 욕망으로 들끓게 만듭니다.  크리쳐를 죽이면 [1] 을 회복하고 세 번 공격할 수 "
-"있습니다."
+"쿠오토아 하수인이 죽는 모습이 부알을 피의 욕망으로 들끓게 만듭니다.  크리쳐를 죽이면 [1] 을 회복하고 세 번 공격할 수 있습니다."
 
 #. key = Gustav_Status_BOOST_UND_AVATAROFBOOOAL_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:610
 msgctxt "hb66dcc96g50a9g47d5ga444gf75fa84d7384"
 msgid "Avatar of BOOOAL"
-msgstr "<b>부알</b>의 화신"
+msgstr "부알의 화신"
 
 #. key = Gustav_Status_BOOST_UND_BLESS_STAFF_MYSTRA_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:673
@@ -6467,15 +6466,15 @@ msgid ""
 "\">Attack Rolls</LSTag> against <LSTag Type=\"Status\" Tooltip=\"BLEEDING\""
 ">Bleeding</LSTag> creatures, as long as there are kuo-toa to worship BOOOAL."
 msgstr ""
-"<b>부알</b>을 섬길 쿠오토아가 존재하는 한 <LSTag Type=\"Status\" Tooltip=\"BLEEDING\">출혈</"
-"LSTag> 상태의 크리쳐를 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag "
-"Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
+"부알을 섬길 쿠오토아가 존재하는 한 <LSTag Type=\"Status\" Tooltip=\"BLEEDING\">출혈</LSTag> "
+"상태의 크리쳐를 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Gustav_Status_BOOST_UND_BOOOALBLESSING_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:582
 msgctxt "hc6ac3045g2c16g4d9dgb178gfa9c8c0928b6"
 msgid "BOOOAL's Benediction"
-msgstr "<b>부알</b>의 축복"
+msgstr "부알의 축복"
 
 #. key = Gustav_Status_BOOST_UND_BOOOALGIFT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:435
@@ -6486,15 +6485,15 @@ msgid ""
 "Tooltip=\"BLEEDING\">Bleeding</LSTag> creatures, as long as there are kuo-"
 "toa to worship BOOOAL."
 msgstr ""
-"<b>부알</b>을 섬길 쿠오토아가 존재하는 한 착용자는 <LSTag Type=\"Status\" Tooltip=\"BLEEDING\""
-">출혈</LSTag> 상태의 크리쳐를 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag "
+"부알을 섬길 쿠오토아가 존재하는 한 착용자는 <LSTag Type=\"Status\" Tooltip=\"BLEEDING\">출혈</"
+"LSTag> 상태의 크리쳐를 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag "
 "Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Gustav_Status_BOOST_UND_BOOOALGIFT_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:568
 msgctxt "h9626d720gffd1g45e9g9f71gbbff57279c93"
 msgid "BOOOAL's Blessing"
-msgstr "<b>부알</b>의 축복"
+msgstr "부알의 축복"
 
 #. key = Gustav_Status_BOOST_UND_BOOOALSERVANT_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:456
@@ -6509,7 +6508,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:589
 msgctxt "h57721c71g9b4eg41eagb89eg5795a543e80b"
 msgid "BOOOAL's Faithful"
-msgstr "<b>부알</b>의 충실한 신도"
+msgstr "부알의 충실한 신도"
 
 #. key = Gustav_Status_BOOST_UND_BROODINGSOVEREIGN_INSPIRATION_Description
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:519
@@ -27217,7 +27216,7 @@ msgctxt "h73a1e466g9e27g4ca7g80b8g6cc90b7cb8f7"
 msgid ""
 "Deals [1] and explodes in a bolt of lightning. Targets hit by the lightning "
 "possibly take an additional [2]."
-msgstr "[1] 를 가하고 폭발하여 번개 줄기를 생성합니다. 번개에 닿은 적은 일정 확률로 [2] 를 입습니다."
+msgstr "[1]를 가하고 폭발하여 번개 줄기를 생성합니다. 번개에 닿은 적은 일정 확률로 [2]를 입습니다."
 
 #. key = Shared_Projectile_ArrowOfLightning_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:288
@@ -30662,7 +30661,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Rush_DisplayName.lsx:50
 msgctxt "hb5df12c1gfa0ag4970ga525g0ea3925db6d9"
 msgid "Rush Attack"
-msgstr "신속한 공격"
+msgstr "돌진 공격"
 
 #. key = Shared_Shout_AberrantShape_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:575
@@ -31624,7 +31623,7 @@ msgctxt "ha4c12cf9g472fg47e4g8bfag79c9ab4e04e1"
 msgid ""
 "Conjure a flaming scimitar in your hand that deals [1] and sheds bright "
 "light in a [2] radius and dim light in a [3] radius. "
-msgstr "[1] 를 가하고 [2] 반경에 밝은 빛을, [3] 반경에 옅은 빛을 비추는 불타는 시미터를 생성합니다. "
+msgstr "[1]를 가하고 [2] 반경에 밝은 빛을, [3] 반경에 옅은 빛을 비추는 불타는 시미터를 생성합니다. "
 
 #. key = Shared_Shout_FlameBlade_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:379
@@ -40346,7 +40345,7 @@ msgstr "악마의 이빨"
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:330
 msgctxt "h670c8dacg7454g4981g8fd3g74d415f12041"
 msgid "Deals [1] and possibly exudes a demonic energy that deals [2]."
-msgstr "[1] 을 가하고 일정 확률로 [2] 를 가하는 악마적 에너지를 불어넣습니다."
+msgstr "[1]을 가하고 일정 확률로 [2]를 가하는 악마적 에너지를 불어넣습니다."
 
 #. key = Shared_Target_Bite_Mimic_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1569
@@ -40373,7 +40372,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:176
 msgctxt "h183358d8g94fdg4940g82cdg96791ac2c5ed"
 msgid "Deals [1] and [2], and possibly injects a venom that deals [3]."
-msgstr "[1] 과 [2] 를 가하고, 일정 확률로 [3] 을 가하는 독소를 주입합니다."
+msgstr "[1] 과 [2]를 가하고, 일정 확률로 [3]을 가하는 독소를 주입합니다."
 
 #. key = Shared_Target_Bite_PhaseSpider_Queen_ExtraAttack_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1114
@@ -40405,7 +40404,7 @@ msgstr "대상을 뭅니다. "
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:323
 msgctxt "h8fa923ccge465g49b8g833cgeddd0954dbf6"
 msgid "Deals [1] and possibly deals an additional [2]."
-msgstr "[1] 를 가하고 일정 확률로 [2] 를 추가로 입습니다."
+msgstr "[1]를 가하고 일정 확률로 [2]를 추가로 입습니다."
 
 #. key = Shared_Target_Bite_Wolf_Dire_Wildshape_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1128
@@ -44586,7 +44585,7 @@ msgctxt "h955d2ba9g16cdg404fg9395gc7d35678e7f0"
 msgid ""
 "Shape a piece of ground into hard spikes. A creature walking on the spikes "
 "takes [1] for every [2] it moves."
-msgstr "대지를 깎아 뾰족한 가시 모양으로 만듭니다. 가시 위를 걷는 크리쳐는 매 [2] 마다 [1] 를 입습니다."
+msgstr "대지를 깎아 뾰족한 가시 모양으로 만듭니다. 가시 위를 걷는 크리쳐는 매 [2] 마다 [1]를 입습니다."
 
 #. key = Shared_Target_SpikeGrowth_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1072
