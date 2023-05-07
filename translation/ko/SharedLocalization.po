@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-05-04 16:52+0000\n"
+"PO-Revision-Date: 2023-05-07 05:52+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -871,7 +871,7 @@ msgstr "우리는 모두 친구"
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Description.lsx:183
 msgctxt "hf133436bgb49dg44d4ga3feg90467f759ba5"
 msgid "Take Zevlor's payment for killing Kagha."
-msgstr "카그하를 죽인 것에 대한 제블러의 보상을 받기."
+msgstr "제블로어에게 카그하를 죽인 보상을 받기."
 
 #. key = Gustav_BackgroundGoals_New_Stat_29_Title
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Title.lsx:183
@@ -5926,9 +5926,9 @@ msgid ""
 "charges, they are consumed the next time you deal damage, and you deal an "
 "additional [4].<br><br>You lose 1 charge per turn. "
 msgstr ""
-"번개가 당신을 타고 흐릅니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1]을 가지며 [2]를 "
-"추가로 입힙니다.<br><br>[3] 충전을 얻으면, 다음 번에 피해를 입힐 때 소모되며, [4] 를 추가로 입힙니다.<br><br>매 "
-"턴 충전량이 하나씩 감소합니다. "
+"번개가 당신을 타고 흐릅니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1] 보너스를 가지며 "
+"[2]를 추가로 입힙니다.<br><br>번개 충전을 [3] 개 얻으면, 다음 번에 피해를 입힐 때 소모되며, [4]를 추가로 "
+"입힙니다.<br><br>매 턴 충전량이 하나씩 감소합니다. "
 
 #. key = Gustav_Status_BOOST_MAG_CHARGED_LIGHTNING_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1247
@@ -7520,8 +7520,8 @@ msgid ""
 "Curse a creature with regret. It takes [1] every turn, and becomes <LSTag "
 "Tooltip=\"Vulnerable\">Vulnerable</LSTag> to Psychic damage."
 msgstr ""
-"크리쳐가 후회로 고통받도록 저주를 내립니다. 대상은 매 턴 [1] 를 입으며, 정신 피해에 <LSTag Tooltip="
-"\"Vulnerable\">취약</LSTag>해집니다."
+"크리쳐가 후회로 고통받도록 저주를 내립니다. 대상은 매 턴 [1]를 입으며, 정신 피해에 <LSTag Tooltip=\"Vulnerable"
+"\">취약</LSTag>해집니다."
 
 #. key = Gustav_Target_HAG_MaskOfRegret_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:99
@@ -7666,7 +7666,7 @@ msgctxt "hf96b90b4g2c0fg44e4g8b7dgbe6ccf15cb86"
 msgid ""
 "Invade an enemy's mind and force them to join your side. They also take [1] "
 "immediately, and [2] per turn."
-msgstr "적의 정신에 침투에 당신의 편에서 싸우도록 강제합니다. 또한 대상은 즉시 [1] 를 입으며, 매 턴 [2] 를 입습니다."
+msgstr "적의 정신에 침투에 당신의 편에서 싸우도록 강제합니다. 또한 대상은 즉시 [1]를 입으며, 매 턴 [2]를 입습니다."
 
 #. key = Gustav_Target_UND_Nere_Coercion_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Target_DisplayName.lsx:176
@@ -17519,7 +17519,7 @@ msgctxt "ha5d5c929g0827g421fg86c7g1440bdd535fb"
 msgid ""
 "Tempus is the Lord of Battles, overseeing war and its soldiers. He is the "
 "embodiment of honourable combat, and condemns needless bloodlust."
-msgstr ""
+msgstr "템푸스는 전투의 군주이며, 전쟁과 군인을 관장합니다. 명예로운 전투의 화신이기에, 불필요한 살인 충동을 규탄합니다."
 
 #. key = Shared_Gods_New_Stat_2_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:22
@@ -29269,7 +29269,7 @@ msgctxt "h896a9bfdg85c1g4c72g8a30gcad470e0148f"
 msgid ""
 "Descended from the archdevil Mephistopheles, these tieflings are gifted with "
 "a particular affinity for arcane magic."
-msgstr "아크데블 메피스토펠레스의 후손인 이 티플링들은 비전 마법에 대한 특별한 친화력을 타고났습니다."
+msgstr "아크데빌 메피스토펠레스의 후손인 이 티플링들은 비전 마법에 대한 특별한 친화력을 타고났습니다."
 
 #. key = Shared_Races_New_Stat_29_DisplayName
 #: Shared/Public/Shared/Localization/Races_DisplayName.lsx:141
@@ -32522,7 +32522,7 @@ msgid ""
 "take [1] or [2] per turn, and their <LSTag Tooltip=\"MovementSpeed\""
 ">Movement Speed</LSTag> is halved."
 msgstr ""
-"영혼들을 불러내 주변 영역을 보호합니다.<br><br>근처의 적은 매 턴 [1] 또는 [2] 를 입으며, <LSTag Tooltip="
+"영혼들을 불러내 주변 영역을 보호합니다.<br><br>근처의 적은 매 턴 [1] 또는 [2]를 입으며, <LSTag Tooltip="
 "\"MovementSpeed\">이동 속도</LSTag>가 절반으로 줄어듭니다."
 
 #. key = Shared_Shout_SpiritGuardians_DisplayName
@@ -32544,7 +32544,7 @@ msgid ""
 "Nearby enemies take [1] per turn, and their <LSTag Tooltip=\"MovementSpeed\""
 ">Movement Speed</LSTag> is halved."
 msgstr ""
-"근처의 적은 매 턴 [1] 를 입으며, <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 "
+"근처의 적은 매 턴 [1]를 입으며, <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 "
 "줄어듭니다."
 
 #. key = Shared_Shout_SpiritGuardians_Radiant_Description
@@ -32560,7 +32560,7 @@ msgid ""
 "Nearby enemies take [1] per turn, and their <LSTag Tooltip=\"MovementSpeed\""
 ">Movement Speed</LSTag> is halved."
 msgstr ""
-"근처의 적은 매 턴 [1] 를 입으며, <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 "
+"근처의 적은 매 턴 [1]를 입으며, <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 "
 "줄어듭니다."
 
 #. key = Shared_Shout_StaticOverdrive_Automaton_Description
@@ -32582,7 +32582,7 @@ msgctxt "h88a2f4aaged70g4abagb605g7384962e672d"
 msgid ""
 "Nearby constructs deal an additional [2] to weapon attacks. All others take "
 "[1] per turn and can't take reactions."
-msgstr "근처의 구조물은 무기 피해에 [2] 가 추가됩니다. 다른 모두는 매 턴 [1] 를 입으며 반응 행동을 수행할 수 없습니다."
+msgstr "근처의 구조물은 무기 피해에 [2] 가 추가됩니다. 다른 모두는 매 턴 [1]를 입으며 반응 행동을 수행할 수 없습니다."
 
 #. key = Shared_Shout_SteadyRanged_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:708
@@ -33956,7 +33956,7 @@ msgid ""
 "Takes [1] at the beginning of each turn and <LSTag Tooltip=\"MovementSpeed\""
 ">Movement Speed</LSTag> is reduced by [2]."
 msgstr ""
-"매 턴 시작 시 [1] 를 입으며 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 [2] 감소합니다."
+"매 턴 시작 시 [1]를 입으며 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 [2] 감소합니다."
 
 #. key = Shared_Status_BOOST_CRAB_PINCHED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1289
@@ -38291,8 +38291,8 @@ msgid ""
 "<LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> is halved.<br><br>On "
 "a successful save, targets still take half damage."
 msgstr ""
-"영혼의 보호를 받고 있습니다.<br><br>근처의 적은 매 턴 [1] 를 입으며, <LSTag Tooltip=\"MovementSpeed"
-"\">이동 속도</LSTag>가 절반으로 줄어듭니다.<br><br>내성 굴림에 성공한 경우에도 절반의 피해를 입습니다."
+"영혼의 보호를 받고 있습니다.<br><br>근처의 적은 매 턴 [1]를 입으며, <LSTag Tooltip=\"MovementSpeed\""
+">이동 속도</LSTag>가 절반으로 줄어듭니다.<br><br>내성 굴림에 성공한 경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Status_BOOST_SPIRIT_GUARDIANS_RADIANT_AURA_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3536
@@ -38308,7 +38308,7 @@ msgid ""
 "\"MovementSpeed\">Movement Speed</LSTag> is halved.<br><br>Still takes half "
 "damage on successful Saving Throw.<br><br>Removed upon leaving the area."
 msgstr ""
-"영혼에게 괴롭힘 당하고 있습니다.<br><br>매 턴 [1] 를 입으며, <LSTag Tooltip=\"MovementSpeed\">이동 "
+"영혼에게 괴롭힘 당하고 있습니다.<br><br>매 턴 [1]를 입으며, <LSTag Tooltip=\"MovementSpeed\">이동 "
 "속도</LSTag>가 절반으로 줄어듭니다.<br><br>내성 굴림에 성공한 경우에도 절반의 피해를 입습니다.<br><br>지역을 떠나면 "
 "효과가 종료됩니다."
 
@@ -38389,7 +38389,7 @@ msgctxt "hb6048001g3fc8g4af4g91b1g2a1ac8a22eb4"
 msgid ""
 "Standing near a statically charged Bernard. Takes [1] each turn and can't "
 "take reactions."
-msgstr "정전기가 충전된 버나드 근처에 서 있습니다. 매 턴 [1] 를 입으며 반응 행동을 수행할 수 없습니다."
+msgstr "정전기가 충전된 버나드 근처에 서 있습니다. 매 턴 [1]를 입으며 반응 행동을 수행할 수 없습니다."
 
 #. key = Shared_Status_BOOST_STATIC_DISCHARGE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1471
@@ -44622,7 +44622,7 @@ msgid ""
 "The target takes [1] each turn and <LSTag Tooltip=\"AttackRoll\">Attack "
 "Rolls</LSTag> against it have <LSTag Tooltip=\"Advantage\">Advantage</LSTag>."
 msgstr ""
-"대상은 매 턴 [1] 를 입으며 대싱을 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>은 <LSTag "
+"대상은 매 턴 [1]를 입으며 대상을 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>은 <LSTag "
 "Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Target_StageFright_Description
