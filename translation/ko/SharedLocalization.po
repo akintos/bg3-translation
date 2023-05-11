@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-05-07 05:52+0000\n"
+"PO-Revision-Date: 2023-05-11 15:52+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -20628,7 +20628,7 @@ msgstr "갑옷을 입고 있으면 <LSTag Tooltip=\"ArmourClass\">방어도</LST
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:309
 msgctxt "ha8cfd62bgcb97g4b32gb36bg9fc65547ae68"
 msgid "Defence"
-msgstr "방어"
+msgstr "방어술"
 
 #. key = Shared_Passive_FightingStyle_Dueling_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:316
@@ -20645,7 +20645,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:316
 msgctxt "hb0f001e9g05d8g4f13g8ee0g76e6d6cc0dbd"
 msgid "Duelling"
-msgstr "결투"
+msgstr "결투술"
 
 #. key = Shared_Passive_FightingStyle_GreatWeaponFighting_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:323
@@ -20661,7 +20661,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:323
 msgctxt "h6b5da5e9g524cg40a1g8043g6f973cec9773"
 msgid "Great Weapon Fighting"
-msgstr "대형 무기 전투"
+msgstr "대형 무기 전투술"
 
 #. key = Shared_Passive_FightingStyle_Protection_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:330
@@ -20678,7 +20678,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:330
 msgctxt "hc30f0910gca2ag4afdg8068g26e59f5e35c9"
 msgid "Protection"
-msgstr "보호"
+msgstr "보호술"
 
 #. key = Shared_Passive_FightingStyle_Protection_ExtraDescription
 #: Shared/Public/Shared/Localization/Passive_ExtraDescription.lsx:99
@@ -25382,13 +25382,13 @@ msgstr "전술"
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1324
 msgctxt "hebf83c43g0688g4bc3ga78bg48d0e98ac207"
 msgid "Adopt a particular style of fighting as your specialty."
-msgstr "전문화할 특정 전투 방식을 선택합니다."
+msgstr "전문화할 특정 전투 유파를 선택합니다."
 
 #. key = Shared_ProgressionDescriptions_New_Stat_271_DisplayName
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_DisplayName.lsx:1324
 msgctxt "h6f12dc1eg2afag490cga859gcf6c9181b912"
 msgid "Fighting Style"
-msgstr "전투 방식"
+msgstr "전투 유파"
 
 #. key = Shared_ProgressionDescriptions_New_Stat_272_Description
 #: Shared/Public/Shared/Localization/ProgressionDescriptions_Description.lsx:1331
@@ -34927,7 +34927,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:729
 msgctxt "ha70b010dgc895g44cfgacb6g721059fd3f1c"
 msgid "Fighting Style: Protection"
-msgstr "전투 방식: 보호"
+msgstr "전투 유파: 보호술"
 
 #. key = Shared_Status_BOOST_FIGHTING_STYLE_PROTECTION_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:631
@@ -34944,7 +34944,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:736
 msgctxt "hc84fc67eg1b74g4a57gb8cdg1f8a41437f70"
 msgid "Fighting Style: Protection"
-msgstr "전투 방식: 보호"
+msgstr "전투 유파: 보호술"
 
 #. key = Shared_Status_BOOST_FIGHTING_STYLE_PROTECTION_TOGGLE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:617
@@ -34961,7 +34961,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:722
 msgctxt "h3a0766eag3d5dg48efg95dcgff5742f2ea0d"
 msgid "Fighting Style: Protection"
-msgstr "전투 방식: 보호"
+msgstr "전투 유파: 보호술"
 
 #. key = Shared_Status_BOOST_FLAME_BLADE_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:638
