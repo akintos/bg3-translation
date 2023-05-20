@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-05-17 18:52+0000\n"
+"PO-Revision-Date: 2023-05-20 22:52+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -1990,7 +1990,7 @@ msgstr "파멸의 서기관"
 #: Gustav/Public/Gustav/Localization/Stats/Passive_Description.lsx:57
 msgctxt "hd8f5f6fcg96fdg45b1g852fg7bf7850812f2"
 msgid "Deals an additional [1] if the target is not standing in sunlight."
-msgstr "태양빛 아래에 있지 아니한 대상에 대해 [1]를 추가로 줍니다."
+msgstr "태양빛 아래에 있지 아니한 대상에 대해 [1]를 추가로 가합니다."
 
 #. key = Gustav_Passive_DEN_Apprentice_DaggerOfShar_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:64
@@ -35939,7 +35939,7 @@ msgctxt "h587f4801g411bg4d92g9d70gbeef3222364d"
 msgid ""
 "Affected entity suffers an additional 1d6 damage if the spellcaster hits it "
 "with a weapon attack."
-msgstr "영향을 받은 개체에게 주문시전자가 무기 공격을 가하면 1d6 의 추가 피해를 줍니다."
+msgstr "영향을 받은 개체에게 주문시전자가 무기 공격을 가하면 1d6 의 추가 피해를 가합니다."
 
 #. key = Shared_Status_BOOST_HUNTERS_MARK_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:869
@@ -35952,7 +35952,7 @@ msgstr "사냥꾼의 징표 표적"
 msgctxt "hdcd6f791g75ceg4217g8200g8684a00de43a"
 msgid ""
 "When this creature attacks its quarry, it deals an additional 1d6 damage."
-msgstr "이 크리쳐가 자신의 목표를 공격하면, 1d6 의 추가 피해를 줍니다."
+msgstr "이 크리쳐가 자신의 목표를 공격하면, 1d6 의 추가 피해를 가합니다."
 
 #. key = Shared_Status_BOOST_HUNTERS_MARK_OWNER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:876
@@ -36842,7 +36842,7 @@ msgstr "암살자의 피"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1310
 msgctxt "h3feeb7deg3aa4g4553ga9b4g4705a7658999"
 msgid "Your attacks deal an extra 1d4 Poison Damage."
-msgstr "다음 공격이 추가로 1d4 의 독성 피해를 줍니다."
+msgstr "다음 공격이 추가로 1d4 의 독성 피해를 가합니다."
 
 #. key = Shared_Status_BOOST_POISON_BASIC_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1555
@@ -43601,7 +43601,7 @@ msgctxt "h19349225g46edg4d92g93e6gcb498888bd68"
 msgid ""
 "Each turn, it takes [1]. Each time it takes damage from another source, the "
 "damage type of Phantasmal Force changes to that damage type."
-msgstr "매 턴, [1] 를 입습니다. 다른 근원으로부터 피해를 입을 때마다, 환상력의 피해 유형도 같이 바뀝니다."
+msgstr "매 턴, [1]를 입습니다. 다른 근원으로부터 피해를 입을 때마다, 환상력의 피해 유형도 같이 바뀝니다."
 
 #. key = Shared_Target_PiercingThrust_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1534
