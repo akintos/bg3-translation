@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-05-25 07:53+0000\n"
-"Last-Translator: OSI <sein4510@naver.com>\n"
+"PO-Revision-Date: 2023-05-30 14:53+0000\n"
+"Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
 "Language: ko\n"
@@ -1684,7 +1684,7 @@ msgstr "숲에 실바누스의 저주를 불러오기."
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Title.lsx:57
 msgctxt "h35110817g90a3g4fc9gb82eg22362a0da72d"
 msgid "Treefather's Sorrow"
-msgstr "나무아버지의 비애"
+msgstr "나무 아버지의 비애"
 
 #. key = Gustav_BackgroundGoals_New_Stat_90_Description
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Description.lsx:617
@@ -10691,19 +10691,19 @@ msgstr "흑갈색"
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:295
 msgctxt "h87f3c510g0b85g4167ga42fgb311aa977266"
 msgid "Black Raven"
-msgstr ""
+msgstr "블랙 레이븐"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_42_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:302
 msgctxt "hc34cc30egc292g43f9g85f4g79f8928395e1"
 msgid "Black Red"
-msgstr ""
+msgstr "블랙 레드"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_43_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:309
 msgctxt "h5b9c4873gd258g445aga47egd342b1599213"
 msgid "Black Neutral "
-msgstr ""
+msgstr "블랙 뉴트럴 "
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_44_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:316
@@ -10877,13 +10877,13 @@ msgstr "바이올렛 2"
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:57
 msgctxt "h9d40496eg9899g4d12g849agf630f979807e"
 msgid "Gold Blonde 1"
-msgstr ""
+msgstr "골드 블론드 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_70_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:498
 msgctxt "hff1da397g8f0bg414fga858g2ae7dfea35d2"
 msgid "Violet 1"
-msgstr ""
+msgstr "바이올렛 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_71_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:505
@@ -15200,25 +15200,25 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:211
 msgctxt "h0a7c9cb8gd4fag48b3gb88ag17fa7a4b04cb"
 msgid "Milk Chocolate"
-msgstr ""
+msgstr "밀크 초콜릿"
 
 #. key = Shared_ColorDefinitions_New_Stat_29_DisplayName
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:218
 msgctxt "hdc1439f0g21dcg40b6gaebeg577f66421cd6"
 msgid "Butterscotch"
-msgstr ""
+msgstr "버터스코치"
 
 #. key = Shared_ColorDefinitions_New_Stat_2_DisplayName
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:22
 msgctxt "h7c0fb920g02ffg46b9g838eg9197106f6020"
 msgid "Dark Ash Blonde"
-msgstr ""
+msgstr "다크 애쉬 블론드"
 
 #. key = Shared_ColorDefinitions_New_Stat_30_DisplayName
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:225
 msgctxt "h45844c6cg80a8g4fb9g90cfg3d9a897e0833"
 msgid "Cinnamon"
-msgstr ""
+msgstr "시나몬"
 
 #. key = Shared_ColorDefinitions_New_Stat_31_DisplayName
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:232
@@ -15986,7 +15986,7 @@ msgstr "정신 방패에 의해 차단됨"
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1023
 msgctxt "h380b8b1dg47dfg4ab2g836age1d4507d8044"
 msgid "Can't have landed a Critical Hit."
-msgstr ""
+msgstr "치명타를 적중시켰을 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_148_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:1030
@@ -17375,6 +17375,8 @@ msgid ""
 "primary goal is to corrupt all drow, transforming them into heartless "
 "cultists."
 msgstr ""
+"엄청난 증오의 대상이 되는 드로우 만신전의 수장, 롤쓰는 거미, 언더다크, 그리고 데몬웹 구덩이의 뒤틀린 크리쳐를 지배합니다. 그녀의 "
+"주된 목적은 모든 드로우를 타락시키고, 그들을 비정한 신도들로 만드는 것입니다."
 
 #. key = Shared_Gods_New_Stat_16_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:120
@@ -17457,6 +17459,8 @@ msgid ""
 "He is invoked to christen both new ventures and new life. His followers "
 "embrace growth and renewal, and despise the undead."
 msgstr ""
+"아침의 군주는 여명과 봄, 그리고 탄생과 시작의 신입니다. 사람들은 새로운 여정의 시작과, 새 생명의 탄생을 축복하며 그에게 기도합니다. "
+"그의 추종자들은 성장과 쇄신을 추구하며, 언데드를 경멸합니다."
 
 #. key = Shared_Gods_New_Stat_20_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:148
@@ -38118,7 +38122,7 @@ msgstr "말하거나 그를 통한 주문 시전을 할 수 없으며 천둥 피
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1156
 msgctxt "hf2e00d6cg3704g4d62gadf0g614a996c8817"
 msgid "Silenced"
-msgstr "침묵됨"
+msgstr "침묵"
 
 #. key = Shared_Status_BOOST_SLEET_STORM_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2640

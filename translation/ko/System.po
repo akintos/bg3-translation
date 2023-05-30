@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-05-24 06:53+0000\n"
-"Last-Translator: 로켓 <nick0406@naver.com>\n"
+"PO-Revision-Date: 2023-05-30 14:53+0000\n"
+"Last-Translator: OSI <sein4510@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/system/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -663,15 +663,15 @@ msgstr "알 수 없는 아이템"
 
 msgctxt "ha20f45bbg3303g4373gaee2g7559cfc4779b"
 msgid "[3] has taken [1] from [2] using magic pockets."
-msgstr "[3] 님이 마법의 주머니로 [2] 에게서 [1] 가져갔습니다."
+msgstr "[3] 님이 마법의 주머니로 [2]에게서 [1] 가져갔습니다."
 
 msgctxt "h28862b9bgc57bg472cgb3d6gfc3310419a1b"
 msgid "[3] has taken [1] from [2]"
-msgstr "[3] 님이 [2] 에게서 [1] 가져감"
+msgstr "[3] 님이 [2]에게서 [1] 가져감"
 
 msgctxt "h0348da17gacb6g4dc5ga8d1g96588e5a2584"
 msgid "and <br>[1] from [2] using magic pockets."
-msgstr "또한 <br>마법의 주머니로 [2] 에게서 [1] 을(를) 가져감."
+msgstr "또한 <br>마법의 주머니로 [2]에게서 [1] 을(를) 가져감."
 
 msgctxt "h0b6701c5g93d0g4507ga58cg2e960db8ff8a"
 msgid ", <br>[1] from [2]"
@@ -5020,7 +5020,7 @@ msgstr "[1] 정신 피해"
 
 msgctxt "h6a236b95g8c37g4a0cg942ag869faf1d412a"
 msgid "[1] Poison damage"
-msgstr "[1] 독 피해"
+msgstr "[1] 의 독성 피해"
 
 msgctxt "h53b5886bg452cg416cgbf0agf6fc94a14e4e"
 msgid "[1] Radiant damage"
@@ -5288,7 +5288,7 @@ msgstr "사정거리로 다가가는 중..."
 
 msgctxt "hc215a03eg656fg4c3ag998cg0d8c269013dd"
 msgid "[1] on [2]"
-msgstr "[2] 에게 [1]"
+msgstr "[2]에게 [1]"
 
 msgctxt "h64aa0baege2c0g4691g8df7g2bc21aeeb68f"
 msgid "multiple targets"
@@ -5634,7 +5634,7 @@ msgstr "[1] 이 [2] 타격: [3]."
 
 msgctxt "h3acc1c32gb006g4039ga7c6g87425057a981"
 msgid "[2] was hit for [3]."
-msgstr "[2] 에게: [3]."
+msgstr "[2]에게: [3]."
 
 msgctxt "h9c1320d9g5355g49d6gaffag0d4d7b4d68ad"
 msgid "[1] blasted [2] for [3]."
@@ -5642,7 +5642,7 @@ msgstr ""
 
 msgctxt "he94f4e8agfce1g459dg9df9gc27b66cdc38e"
 msgid "[1] shot [2], for [3]."
-msgstr "[1] 이 [2] 에게 사격: [3]."
+msgstr "[1]이 [2]에게 사격: [3]."
 
 msgctxt "hb2c8861bgd0d1g4a56gad98ge539059950cd"
 msgid "[1] targeted [2] for [3]."
@@ -5674,7 +5674,7 @@ msgstr ""
 
 msgctxt "hdb3847e7gde52g41eag888dgcc49d93cf9d3"
 msgid "[1] was hit for [2]."
-msgstr "[1] 에게 [2]."
+msgstr "[1]에게 [2]."
 
 msgctxt "hcc81dcbeg85b0g47e5g971cg09e64a2169b3"
 msgid "[1] is immune to [2]."
@@ -5725,7 +5725,7 @@ msgstr "대상을 보호하기 위해 피해가 [1]로 감소되었습니다."
 
 msgctxt "h56a58347ga4efg4e30gabaeg106ada2b584c"
 msgid "[1] absorbed [2] damage from [3]."
-msgstr "[1]: [3] 에게서 [2] 피해 흡수."
+msgstr "[1]: [3]에게서 [2] 피해 흡수."
 
 msgctxt "h221135begc315g4c01g8e0ag44bc78ddafd1"
 msgid "missed"
@@ -5845,7 +5845,7 @@ msgstr "[1]: [3]에게 [2] 시전."
 
 msgctxt "hb1a8fff9g3257g4f72gb846g619686a23a84"
 msgid "[1] was modified by [2]."
-msgstr ""
+msgstr "[1]: [2]에 의해 수정됨."
 
 msgctxt "h2cff89d1gb2bag46a9ga8a7g66cfe9c16c03"
 msgid "[1] started combat."
@@ -5929,7 +5929,7 @@ msgstr "[1] 사라짐."
 
 msgctxt "hf08aa0acg41f5g44aega81fg5db24cff2303"
 msgid "[1] withered away."
-msgstr ""
+msgstr "[1]: 시들어 죽음."
 
 msgctxt "h639a5164gb148g4250ga657g79d8ef52a91c"
 msgid "[1] fell to a lethal blow."
@@ -5997,11 +5997,11 @@ msgstr "[1]: 레벨 상승 - [2]."
 
 msgctxt "he92d9d44g87ddg48bbg8b31g19ae859bd8e1"
 msgid "A [1] surface turned into [2]."
-msgstr ""
+msgstr "[1] 표면 변화:[2]."
 
 msgctxt "h37b3f632ga4e6g49f2gb8a8g59a2d75eb706"
 msgid "[1] turned into [2]."
-msgstr ""
+msgstr "[1]: [2]으(로) 변화."
 
 msgctxt "h4194e13fg3a5fg4f6bga653g905991af7498"
 msgid "[1] lost concentration on [2]."
@@ -6009,7 +6009,7 @@ msgstr "[1]: [2]에 대한 집중 잃음."
 
 msgctxt "h9a14b98ag1b5ag4e1dg8da1g0c997892f0c3"
 msgid "[1]'s concentration shattered."
-msgstr ""
+msgstr "[1]: 집중 깨짐."
 
 msgctxt "h3770bdb1gbbaeg49e2g8919ge34564707a71"
 msgid "[1]'s concentration broken."
@@ -6147,7 +6147,7 @@ msgstr "AC 강화"
 
 msgctxt "hddbd8972gbc01g45dcga1abg2dd337b274ec"
 msgid "from adjusted Armour Class"
-msgstr ""
+msgstr "수정된 AC"
 
 msgctxt "h38604359g45beg4c59ga47agc94e3395e724"
 msgid "from Main Class"
@@ -6219,7 +6219,7 @@ msgstr " - [1]에 의해 소환됨 "
 
 msgctxt "h8066a32dg29f8g49e5ga6f0gab89a43c7c23"
 msgid " only certain characters are proficient "
-msgstr ""
+msgstr " 오직 특정 캐릭터만 숙련됨 "
 
 msgctxt "h21304fecg1fdag4a29gbc25gf7aee1a73e27"
 msgid "Spell Scroll"
@@ -6247,15 +6247,15 @@ msgstr "수용 한계를 넘어설 것입니다: [1]"
 
 msgctxt "h5f70fbe9g3fc1g4d97g9619g407012798c10"
 msgid "Exclusive use: [1]"
-msgstr ""
+msgstr "특수 용도: [1]"
 
 msgctxt "h33f4edb9g0ad2g4be2g90b9g29f1cf384e66"
 msgid "Clothing"
-msgstr ""
+msgstr "의복"
 
 msgctxt "hfb7e65a4g0fa9g4229g8e9fg698a1cee61df"
 msgid "Armour Class [1]"
-msgstr ""
+msgstr "방어도 [1]"
 
 msgctxt "h0d6e5793g954eg40e4g8941gaf2367d0d939"
 msgid "Weapon Enchantment"
@@ -6293,11 +6293,11 @@ msgstr "착용하면 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>에 맞지 
 
 msgctxt "h47e83053g6eb4g41c5gb4c1g8d6d1ee2dcee"
 msgid "Guaranteed critical hits"
-msgstr ""
+msgstr "보장된 치명타"
 
 msgctxt "h320c0194g3beeg4716g9ffegee0e88195145"
 msgid "Protects from critical misses"
-msgstr ""
+msgstr "대실패로부터 보호"
 
 msgctxt "h1497f616g8050g4891gacbcg859178f043b5"
 msgid "Immunity to [1]"
@@ -6305,11 +6305,11 @@ msgstr "[1]에 면역"
 
 msgctxt "h5eb66920ga045g4ee4gb999g491c7ddcb24e"
 msgid "<LSTag Tooltip=\"Resistant\">Resistance</LSTag> to [1]"
-msgstr ""
+msgstr "[1]에 <LSTag Tooltip=\"Resistant\">저항</LSTag>"
 
 msgctxt "h9bb7b2beg739bg458fg98edg083bc70e5a6b"
 msgid "<LSTag Tooltip=\"Vulnerable\">Vulnerability</LSTag> to [1]"
-msgstr ""
+msgstr "[1]에 <LSTag Tooltip=\"Vulnerable\">취약</LSTag>"
 
 msgctxt "hee757d51g756eg4e74g9873gd7473feefd87"
 msgid ""
@@ -6349,36 +6349,48 @@ msgid ""
 "<LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> in Strength <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"근력 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Proficiency"
+"\">숙련</LSTag>."
 
 msgctxt "h5584c19cg98edg4463g809bgb451f3b9b9f7"
 msgid ""
 "<LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> in Dexterity <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Proficiency"
+"\">숙련</LSTag>."
 
 msgctxt "h764eebebg77ddg4b6agb175gb0f0f147b17e"
 msgid ""
 "<LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> in Constitution <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Proficiency"
+"\">숙련</LSTag>."
 
 msgctxt "hb70a4b8fg5cf5g4270g8193g7a957c36cb3a"
 msgid ""
 "<LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> in Intelligence <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"지능 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Proficiency"
+"\">숙련</LSTag>."
 
 msgctxt "h8c74ec74gde61g44deg8164gadd4fa5c1b65"
 msgid ""
 "<LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> in Wisdom <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"지혜 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Proficiency"
+"\">숙련</LSTag>."
 
 msgctxt "h467fa647g0dd2g498egaf95gd90dc01d3bcf"
 msgid ""
 "<LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> in Charisma <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"매력 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Proficiency"
+"\">숙련</LSTag>."
 
 msgctxt "hf4fdf8b4gd59eg458dg9f34g36ec614d7ad5"
 msgid "[1] metres"
@@ -6442,7 +6454,7 @@ msgstr "[1] 정신"
 
 msgctxt "h124f7a51g3a8eg439fg814fg9efe658bf814"
 msgid "[1] Poison"
-msgstr "[1] 독"
+msgstr "[1] 독성"
 
 msgctxt "h7e0033a3g988dg4c35ga92bg628f79c92055"
 msgid "[1] Radiant"
@@ -6494,7 +6506,7 @@ msgstr "[1] 의 정신 피해"
 
 msgctxt "h817dc1f4g10f2g4864g913dgd071ed6a91fc"
 msgid "[1] Poison damage"
-msgstr "[1] 의 독 피해"
+msgstr "[1] 의 독성 피해"
 
 msgctxt "heff40ddag9e78g4057ga853g945d9eb9ba77"
 msgid "[1] Radiant damage"
@@ -6522,7 +6534,7 @@ msgstr "불리점"
 
 msgctxt "hae52129fga14fg4e10ga0c1gb6c734fff5c4"
 msgid "Reroll"
-msgstr ""
+msgstr "재굴림"
 
 msgctxt "h4c5b5289g414fg4678g8cf3g65a52e3eb4eb"
 msgid "Base Unarmed Damage"
@@ -6530,39 +6542,39 @@ msgstr "기본 비무장 피해"
 
 msgctxt "h72fd7f73g7489g428bg8efdg13c3f7030b83"
 msgid "Weapon Damage Halved"
-msgstr ""
+msgstr "무기 피해 절반으로 경감"
 
 msgctxt "he1e7d340ga249g4f4fg9cd5g1cbc7ae71d1a"
 msgid "Character weapon damage boost"
-msgstr ""
+msgstr "캐릭터 무기 피해 강화"
 
 msgctxt "h8e991ed8gb528g4a12gaa8fg7e8bd6740c35"
 msgid "Throw damage boosted"
-msgstr ""
+msgstr "던지기 피해 강화됨"
 
 msgctxt "h10c41cc4g3298g4b43ga78fgc7bfe1111849"
 msgid "[1], Repeated [2] Time(s)"
-msgstr ""
+msgstr "[1], [2] 번 반복됨"
 
 msgctxt "he5633892gb91cg45b7gbac4g4ed38b5ee7f1"
 msgid "Character Assignment Error"
-msgstr ""
+msgstr "캐릭터 배정 오류"
 
 msgctxt "hf4c52efbg84a5g4a42g8623g1ef3eca0b2cb"
 msgid "One or more users have no characters assigned."
-msgstr ""
+msgstr "한 명 이상의 이용자에게 캐릭터가 배정되지 않았습니다."
 
 msgctxt "hb042c7ecgd4e4g4023ga49fga024dba49ea1"
 msgid "Do you want to discard your changes?"
-msgstr ""
+msgstr "변경 사항을 모두 취소합니까?"
 
 msgctxt "h836e898eg3fbag4a19g898dgb58ea19d1b2f"
 msgid "Discard changes?"
-msgstr ""
+msgstr "변경 사항을 취소합니까?"
 
 msgctxt "h44442499g5104g4735g85b6g51566040a3e4"
 msgid "Are you sure you want to disconnect from the game?"
-msgstr ""
+msgstr "정말 게임에서 연결을 해제합니까?"
 
 msgctxt "ha958eda1g97bag4246g870dg3aef9559ea08"
 msgid "Disconnect"
@@ -6570,25 +6582,25 @@ msgstr "연결 끊김"
 
 msgctxt "h79abe7f9g34cfg47a1g96c8g0a3f0bb8dd7a"
 msgid "Cast"
-msgstr ""
+msgstr "시전"
 
 msgctxt "h109587cagfebag4b2dg8577g02eae3d41f84"
 msgid "Disable passive"
-msgstr ""
+msgstr "패시브 비활성화"
 
 msgctxt "hbf7fade9gc685g483ag9d99gaf3f185bcfa0"
 msgid "Enable passive"
-msgstr ""
+msgstr "패시브 활성화"
 
 msgctxt "h2378bb10ga2f3g465dga3bcg856f922013ff"
 msgid ""
 "Input [1] is currently assigned to key [2]. Do you want to remove previous "
 "binding(s)?"
-msgstr ""
+msgstr "[1]은(는) [2]에 배정되어 있습니다. 이전 배정을 제거하겠습니까?"
 
 msgctxt "habede442g55dbg4d39g93edg40c507794ea5"
 msgid "Key bind requires remapping."
-msgstr ""
+msgstr "키 배정을 재설정해야 합니다."
 
 msgctxt "h5e3f0f2egdf16g402bg9c94g33375a7e3d88"
 msgid "Initializing network..."
@@ -6604,7 +6616,7 @@ msgstr "빈자리 있음"
 
 msgctxt "hb6aaac7cg23a1g40eag8a85geeec4c8998cc"
 msgid "Hide different add-ons"
-msgstr ""
+msgstr "다른 애드온 숨기기"
 
 msgctxt "ha79e5bcfg213cg4b31ga542g3f6d10eb7602"
 msgid "Hide different versions"
@@ -6648,7 +6660,7 @@ msgstr "게임 연결 실패"
 
 msgctxt "he7fc4e6eg5bf4g43e3g9bdbgf0f8ac939e35"
 msgid "Not connected to the [1] servers"
-msgstr ""
+msgstr "[1] 서버에 연결하지 못했습니다"
 
 msgctxt "haac638adg9452g492cga483gda184a072126"
 msgid "Connecting..."
@@ -6718,25 +6730,25 @@ msgctxt "h4e16a66fg23fcg435fg8c1fgf3a8e151a2df"
 msgid ""
 "[1] cast [2] on [3] and landed a <LSTag Tooltip=\"CriticalHit\">Critical "
 "Hit</LSTag>."
-msgstr ""
+msgstr "[1]: [3]에게 [2] 시전, <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중함."
 
 msgctxt "h7b545d9eg5f1fg4c55g9fa6g65134218e3f4"
 msgid "[1] cast [2] on [3]."
-msgstr ""
+msgstr "[1]: [3]에게 [2] 시전."
 
 msgctxt "hce280aaag3a21g44f4g8076g9e5084933c3c"
 msgid "[1] needs [3] to hit. They rolled [2]."
-msgstr ""
+msgstr "[1]: 적중을 위해 [3] 필요. 굴림 결과: [2]."
 
 msgctxt "hc596e63fg3ecag4ebdg8736gfe4d88dbb0a2"
 msgid "[1] needs [3] to save. They rolled [2]."
-msgstr ""
+msgstr "[1]: 내성을 위해 [3] 필요. 굴림 결과: [2]."
 
 msgctxt "hb08b3d87g3abcg4777g9c7fgc4c7389e00a4"
 msgid ""
 "[1] attacked [2] and landed a <LSTag Tooltip=\"CriticalHit\">Critical "
 "Hit</LSTag>."
-msgstr ""
+msgstr "[1]: [2]을(를) 공격해 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag> 적중."
 
 msgctxt "h34a49df1gc846g44e5gb59ag264aab3e66bd"
 msgid "[1] attacked [2]."
@@ -6744,7 +6756,7 @@ msgstr "[1]: [2] 공격함."
 
 msgctxt "hf0ca1270g753bg4cacg8f06gf5949b7b0f30"
 msgid "All Draconic Colours"
-msgstr ""
+msgstr "모든 드라코닉 색"
 
 msgctxt "had435e15g3f34g4c96g96cegf25acb9fc6e3"
 msgid "Granted by [1]"
@@ -6752,7 +6764,7 @@ msgstr "다음으로부터 획득: [1]"
 
 msgctxt "h7079ec22g892bg412eg995fg219e7db1736a"
 msgid "Granted from Passive "
-msgstr ""
+msgstr "패시브로 획득. "
 
 msgctxt "h309f3b04g4f3eg40bbga073gef16ca7cc561"
 msgid ""
@@ -6763,7 +6775,7 @@ msgstr ""
 
 msgctxt "hf83cebb8gf2d3g4c00gbb63g92099eb9b887"
 msgid "Choose Actions"
-msgstr ""
+msgstr "행동 선택"
 
 #, fuzzy
 msgctxt "h1da3ed50g0edbg4a9fga77fg314584fc0e15"
@@ -6781,7 +6793,7 @@ msgstr "클래스 패시브"
 
 msgctxt "h1ffa8190g4a2eg43f3g9717g02e75c8b09a9"
 msgid "Select Feat Passives"
-msgstr ""
+msgstr "패시브 요소 선택"
 
 msgctxt "hfe436f03gf830g4340ga8f7gf626906f954d"
 msgid "[1] needs to be higher than [2]"
@@ -6789,7 +6801,7 @@ msgstr "[2]: [1] 보다 높아야 함"
 
 msgctxt "hd8f1acdbg0813g4950gab51g4e2ec13d9c0b"
 msgid "Proficiency with [1]"
-msgstr ""
+msgstr "[1]에 숙련"
 
 msgctxt "h7f9e385eg62afg4e1egbabbga8f5c4aec9c4"
 msgid "Items"
@@ -6823,7 +6835,7 @@ msgstr "k"
 
 msgctxt "h8c43b3d8g37eag42b3g92bbgd02ed6af312c"
 msgid "Origin"
-msgstr ""
+msgstr "오리진"
 
 msgctxt "h0337b5e0g34f3g478ag9836g3de647e07deb"
 msgid "Story"
@@ -7219,111 +7231,111 @@ msgstr "F24"
 
 msgctxt "hf38733c5g697ag40b9ga990g0f61e2a9761e"
 msgid "Right"
-msgstr ""
+msgstr "오른쪽"
 
 msgctxt "h7263cffeg6f37g4b0cg8a12g1cee53d404f6"
 msgid "Left"
-msgstr ""
+msgstr "왼쪽"
 
 msgctxt "hae85c7b1gdd91g449dga602g441840fbce3b"
 msgid "Down"
-msgstr ""
+msgstr "아래"
 
 msgctxt "h04e6e405gd537g42faga98fg88183ebbce62"
 msgid "Up"
-msgstr ""
+msgstr "위"
 
 msgctxt "h8634c862g4080g45aeg9019g835bc544fcbc"
 msgid "Num Lock"
-msgstr ""
+msgstr "Num Lock"
 
 msgctxt "hf17628b3gb16dg47c2g90f2g25c745d0a785"
 msgid "Numpad Divide"
-msgstr ""
+msgstr "Numpad /"
 
 msgctxt "h5324a4c3gbcd7g42c5gac79gcff6bc8a53ad"
 msgid "Numpad Multiply"
-msgstr ""
+msgstr "Numpad *"
 
 msgctxt "h1f89847fg7b66g43afg9107g25e2c200cc52"
 msgid "Numpad Minus"
-msgstr "숫자키 -"
+msgstr "Numpad -"
 
 msgctxt "h7b599768g6084g405ag8e07g0d3ea1c7f4c7"
 msgid "Numpad Plus"
-msgstr ""
+msgstr "Numpad +"
 
 msgctxt "h134ed788g6709g4451g8fcfgfd738e309f7d"
 msgid "Numpad Enter"
-msgstr ""
+msgstr "Numpad Enter"
 
 msgctxt "h34518082g5076g42f1gbafbg50df1f0a7821"
 msgid "Numpad 1"
-msgstr ""
+msgstr "Numpad 1"
 
 msgctxt "hea6d8603ged96g4d89g928ege996d7b0d84b"
 msgid "Numpad 2"
-msgstr ""
+msgstr "Numpad 2"
 
 msgctxt "h7a6e21a1g0701g44d6g86d7g9dc96e248963"
 msgid "Numpad 3"
-msgstr ""
+msgstr "Numpad 3"
 
 msgctxt "hdacbd3dbg8cbfg47c2g829egc2863d006ad5"
 msgid "Numpad 4"
-msgstr ""
+msgstr "Numpad 4"
 
 msgctxt "hf39556c4g724fg450cg9e20g3c9e01c64204"
 msgid "Numpad 5"
-msgstr ""
+msgstr "Numpad 5"
 
 msgctxt "h957c8338gde9ag4000g90e9g187057ad4b80"
 msgid "Numpad 6"
-msgstr ""
+msgstr "Numpad 6"
 
 msgctxt "hd69ea549ga33cg442bga392g4f6be09a643e"
 msgid "Numpad 7"
-msgstr ""
+msgstr "Numpad 7"
 
 msgctxt "h9ecb5d00gdcbdg45beg8684g6b4ed547ad58"
 msgid "Numpad 8"
-msgstr ""
+msgstr "Numpad 8"
 
 msgctxt "h39921b02ga2cdg441eg89fcg17206835cdbf"
 msgid "Numpad 9"
-msgstr ""
+msgstr "Numpad 9"
 
 msgctxt "ha8741a64g70a4g46eag8762g143589d4ded1"
 msgid "Numpad 0"
-msgstr ""
+msgstr "Numpad 0"
 
 msgctxt "hfbf0a573g61c1g4a0bga989g80b8c32f9c2a"
 msgid "Numpad Period"
-msgstr ""
+msgstr "Numpad ."
 
 msgctxt "h38a9fb00g43bbg412dga45agf35d6f90dc8d"
 msgid "Left Ctrl"
-msgstr ""
+msgstr "Left Ctrl"
 
 msgctxt "h1e415784g5ebeg4b9fgbcb8g15b28a9e00e5"
 msgid "Left Shift"
-msgstr ""
+msgstr "Left Shift"
 
 msgctxt "h69d93655g343ag4b3eg8705g93a3deb00ef5"
 msgid "Left Alt"
-msgstr ""
+msgstr "Left Alt"
 
 msgctxt "h8b12a72fgd6c9g483dgb2b0g60c375949e82"
 msgid "Right Ctrl"
-msgstr ""
+msgstr "Right Ctrl"
 
 msgctxt "h2b7e4e2ag4b69g4669g860fg311912876509"
 msgid "Right Shift"
-msgstr ""
+msgstr "Right Shift"
 
 msgctxt "hcd82cb63g0a61g4799g859egba9f1efabd4b"
 msgid "Right Alt"
-msgstr ""
+msgstr "Right Alt"
 
 msgctxt "h76025a0bg11d4g4cb4g8f60gbc72f20f6d1d"
 msgid "Mode"
@@ -7339,35 +7351,35 @@ msgstr ""
 
 msgctxt "hf8515ec3g723ag4c2bg8cb1gc0e0dcb6e35a"
 msgid "Volume up"
-msgstr ""
+msgstr "음량 증가"
 
 msgctxt "h03df9a3fg4679g4921ga778g36612ff6ed3a"
 msgid "Volume down"
-msgstr ""
+msgstr "음량 감소"
 
 msgctxt "h7513bcfbg14a8g4f1fgb54bgce0a03eb840f"
 msgid "Next"
-msgstr ""
+msgstr "다음"
 
 msgctxt "ha5f30632gae2fg4c05g9e31g49299656bec8"
 msgid "Previous"
-msgstr ""
+msgstr "이전"
 
 msgctxt "h7c135f28g7f4cg4f2agb928gae5396d2485d"
 msgid "Stop"
-msgstr ""
+msgstr "정지"
 
 msgctxt "h9497f4b3g1749g4fd9ga7cfgae81ce7b4d7d"
 msgid "Play"
-msgstr ""
+msgstr "재생"
 
 msgctxt "hc963ddc2gc5edg4555g823agd1d069517d9c"
 msgid "Mute"
-msgstr ""
+msgstr "음소거"
 
 msgctxt "h5cb3892ag4487g4eddg9b3fg8497b560ebf7"
 msgid "Left Mouse Button"
-msgstr ""
+msgstr "왼쪽 마우스 버튼"
 
 msgctxt "hfa257f57g16cag4957g9a76g91256847dddf"
 msgid "Middle Mouse Button"
@@ -7375,7 +7387,7 @@ msgstr "마우스 중앙 버튼"
 
 msgctxt "he60b95a2g53afg464agaac7g55a29dbaf7f6"
 msgid "Right Mouse Button"
-msgstr ""
+msgstr "오른쪽 마우스 버튼"
 
 msgctxt "h66561e21g3159g4733g85adg40b40f4ce070"
 msgid "Mouse X1"
@@ -7439,15 +7451,15 @@ msgstr "행동"
 
 msgctxt "h78b67398g240eg41c3gbb0dg8e78c384145d"
 msgid "Cast/Sort/Swap"
-msgstr ""
+msgstr "시전/분류/교체"
 
 msgctxt "hb5fe0a29g2affg419ag8fa6gdd40b49a48f5"
 msgid "Toggle Turn-Based Mode"
-msgstr ""
+msgstr "턴제 모드 전환"
 
 msgctxt "h23a9d4d9g19eeg4720g8c49gb3992f086ce6"
 msgid "Toggle Info"
-msgstr ""
+msgstr "정보 표시 전환"
 
 msgctxt "hb2b46e71g049fg4eacgaa0fg017b5beb8981"
 msgid "Toggle Cursor"
