@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-05-30 14:53+0000\n"
+"PO-Revision-Date: 2023-05-31 15:53+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -17510,6 +17510,8 @@ msgid ""
 "were viciously slain. He has a tenuous alliance with Myrkul and Bane, the "
 "three having attained divinity in a bargain with the fallen god Jergal. "
 msgstr ""
+"바알은 악명 높은 살인의 신으로, 그의 후손들이 사악하게 살해된 뒤 다시 태어났습니다. 그는 제르갈과의 거래로 함께 신성을 얻은 머큘, "
+"베인과 불안정한 동맹을 맺고 있습니다. "
 
 #. key = Shared_Gods_New_Stat_23_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:169
@@ -17537,7 +17539,7 @@ msgctxt "h25d302cbgb96bg4e7dgb9b7geffcbdff6875"
 msgid ""
 "The Blind God rules over law and justice, encouraging valiant acts from his "
 "followers and relentlessly pursuing oathbreakers. "
-msgstr ""
+msgstr "눈먼 신은 법과 정의를 다스리며 추종자들의 용감한 행동을 장려하고 맹세를 위반한 이들을 가차없이 추적합니다. "
 
 #. key = Shared_Gods_New_Stat_3_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:29
@@ -17644,7 +17646,7 @@ msgstr "<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1] 보너스를
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:8
 msgctxt "hc9735187g68cag427ag8680g4ec1859432dc"
 msgid "Bardic Attack"
-msgstr ""
+msgstr "바드의 공격"
 
 #. key = Shared_Interrupt_Interrupt_BardicInspiration_Attack_ExtraDescription
 #: Shared/Public/Shared/Localization/Interrupt_ExtraDescription.lsx:8
@@ -17666,7 +17668,7 @@ msgstr "<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +[1] 보너스�
 #: Shared/Public/Shared/Localization/Interrupt_DisplayName.lsx:15
 msgctxt "h21b3aaeeg4994g4506gb44fg648ca1ffd977"
 msgid "Bardic Defence"
-msgstr ""
+msgstr "바드의 방어"
 
 #. key = Shared_Interrupt_Interrupt_CombatInspiration_Attack_Description
 #: Shared/Public/Shared/Localization/Interrupt_Description.lsx:22
