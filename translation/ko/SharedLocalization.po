@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-06-07 17:53+0000\n"
+"PO-Revision-Date: 2023-06-12 11:53+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -5713,7 +5713,7 @@ msgstr "자상"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:169
 msgctxt "h20870268g1178g4531g9d49gcc5e85fefdcd"
 msgid "Bleeding from the inside. Suffers [1] at end of turn."
-msgstr "내출혈이 일어났습니다. 턴 종료시 [1] 를 입습니다."
+msgstr "내출혈이 일어났습니다. 턴 종료 시 [1]를 입습니다."
 
 #. key = Gustav_Status_BOOST_HAG_STILLBORN_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:267
@@ -5986,7 +5986,7 @@ msgctxt "h82aaebebgdeb0g45b1g9667g73823af73796"
 msgid ""
 "When taking Cold damage, takes an additional [1] per turn of Frostbite "
 "remaining."
-msgstr "냉기 피해를 받으면, 동상의 남은 지속 시간 만큼 추가로 [1] 를 입습니다."
+msgstr "냉기 피해를 받으면, 동상의 남은 지속 시간 만큼 추가로 [1]를 입습니다."
 
 #. key = Gustav_Status_BOOST_MAG_INCREASED_DAMAGE_COLD_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1156
@@ -6141,7 +6141,7 @@ msgstr "맹독성 복수"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:239
 msgctxt "ha1696794gc4e4g4329g9c90g667419eda986"
 msgid "Gale exudes Necrotic energy. Creature takes [1] every turn. "
-msgstr "게일이 괴저 에너지를 내뿜습니다. 크리쳐가 매 턴 [1] 를 입습니다. "
+msgstr "게일이 괴저 에너지를 내뿜습니다. 크리쳐가 매 턴 [1]를 입습니다. "
 
 #. key = Gustav_Status_BOOST_ORI_GALE_AURANECROSIS_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:344
@@ -6153,7 +6153,7 @@ msgstr "괴사"
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_Description.lsx:232
 msgctxt "h0ddd79bbg8ac7g499aga857g7244721b0e1b"
 msgid "Gale exudes Necrotic energy. Nearby creatures take [1] every turn. "
-msgstr "게일이 괴저 에너지를 내뿜습니다. 근방의 크리쳐들이 매 턴 [1] 를 입습니다. "
+msgstr "게일이 괴저 에너지를 내뿜습니다. 근방의 크리쳐들이 매 턴 [1]를 입습니다. "
 
 #. key = Gustav_Status_BOOST_ORI_GALE_NECROTICAURA_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:337
@@ -6584,7 +6584,7 @@ msgctxt "hf56bdf15g8bd3g481eg8806g60762d54d3d8"
 msgid ""
 "Imbued with the gnawing exhaustion of endless labour. <br><br>Receives an "
 "additional [1] when struck by the war pick Deep Delver."
-msgstr "끝없는 노동의 피로감에 휩싸였습니다. <br><br>지하 탐색자로 공격당하면 추가로 [1] 를 입습니다."
+msgstr "끝없는 노동의 피로감에 휩싸였습니다. <br><br>지하 탐색자로 공격당하면 추가로 [1]를 입습니다."
 
 #. key = Gustav_Status_BOOST_UND_HARDWORK_TARGET_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1184
@@ -6717,7 +6717,7 @@ msgctxt "h253c9a1bgee17g49e1ga3a9g76e5efc105ff"
 msgid ""
 "Forced to fight for Nere and takes [1] each turn.<br><br>Ends upon taking "
 "any non-Psychic damage."
-msgstr "의지와 상관없이 니어를 위해 싸우며 매 턴 [1] 를 입습니다.<br><br>정신 이외의 피해를 입으면 효과가 종료됩니다."
+msgstr "의지와 상관없이 니어를 위해 싸우며 매 턴 [1]를 입습니다.<br><br>정신 이외의 피해를 입으면 효과가 종료됩니다."
 
 #. key = Gustav_Status_BOOST_UND_NERE_COERCION_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Status_BOOST_DisplayName.lsx:1058
@@ -19990,8 +19990,8 @@ msgid ""
 "When you successfully <LSTag Type=\"Spell\" Tooltip=\"Shout_TurnUndead\""
 ">Turn</LSTag> an undead creature, it also takes [1]."
 msgstr ""
-"언데드 크리쳐를 <LSTag Type=\"Spell\" Tooltip=\"Shout_TurnUndead\">되돌리는</LSTag>데 "
-"성공하면, 대상은 [1] 도 입습니다."
+"언데드 크리쳐를 <LSTag Type=\"Spell\" Tooltip=\"Shout_TurnUndead\">퇴치하는</LSTag>데 "
+"성공하면, 대상은 [1]도 입습니다."
 
 #. key = Shared_Passive_DestroyUndead_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:2248
@@ -27023,7 +27023,7 @@ msgctxt "h58d1b318g8c0eg4cf8g9785g4fd2dab88428"
 msgid ""
 "Deals [1] and explodes in a spray of acid. Targets hit by the acid possibly "
 "take an additional [2]."
-msgstr "[1] 를 입히고 폭발해 산성 물보라를 형성합니다. 산에 접촉한 대상은 일정 확률로 [2] 를 추가로 입습니다."
+msgstr "[1]를 입히고 폭발해 산성 물보라를 형성합니다. 산에 접촉한 대상은 일정 확률로 [2]를 추가로 입습니다."
 
 #. key = Shared_Projectile_ArrowOfAcid_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:281
@@ -27174,7 +27174,7 @@ msgctxt "h0710e5c7g3b91g4235g889egd516723b5e02"
 msgid ""
 "Deals [1] and explodes in a burst of flames. Targets hit by the fire "
 "possibly take an additional [2]."
-msgstr "[1] 피해를 입히며 폭발하여 불길을 생성합니다. 불길에 닿은 대상은 일정 확률로 [2] 를 입습니다."
+msgstr "[1]피해를 입히며 폭발하여 불길을 생성합니다. 불길에 닿은 대상은 일정 확률로 [2]를 입습니다."
 
 #. key = Shared_Projectile_ArrowOfFire_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:260
@@ -27212,7 +27212,7 @@ msgctxt "hee002a86gf31dg462dgba26g1e382714dc6e"
 msgid ""
 "Deals [1] and explodes in a blast of ice. Targets hit by the ice possibly "
 "take an additional [2]."
-msgstr "[1] 를 입히고 폭발하여 얼음을 형성합니다. 얼음에 닿은 대상은 일정 확률로 [2] 를 추가로 입습니다."
+msgstr "[1]를 입히고 폭발하여 얼음을 형성합니다. 얼음에 닿은 대상은 일정 확률로 [2]를 추가로 입습니다."
 
 #. key = Shared_Projectile_ArrowOfIce_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:274
@@ -30727,7 +30727,7 @@ msgstr "한계를 뛰어넘습니다. <LSTag Tooltip=\"Action\">행동</LSTag>�
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:22
 msgctxt "ha19696e1gf837g4665g86feg7e149abcfa12"
 msgid "Action Surge"
-msgstr "연쇄 행동"
+msgstr "행동 연쇄"
 
 #. key = Shared_Shout_Aid_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:183
@@ -31537,7 +31537,7 @@ msgctxt "he7f68ddbg15b6g4287ga417g34bed12890eb"
 msgid ""
 "While Raging, you deal an additional [1] with weapon attacks, but receive [2]"
 " each turn."
-msgstr "격노 상태인 동안, 무기 공격이 [1] 를 추가로 가하지만, 매 턴 [2] 를 입습니다."
+msgstr "격노 상태인 동안, 무기 공격이 [1]를 추가로 가하지만, 매 턴 [2]를 입습니다."
 
 #. key = Shared_Shout_Enlarge_Duergar_Description
 #: Shared/Public/Shared/Localization/Stats/Shout_Description.lsx:477
@@ -32754,7 +32754,7 @@ msgstr "와일드 매직: 흐릿해지기"
 msgctxt "hfa24bb66g3e4dg43a0gb09dg2e7be143d20b"
 msgid ""
 "Each creature and item within [1] starts burning and takes [2] per turn."
-msgstr "[1] 내의 크리쳐와 아이템이 불타기 시작하며 매 턴 [2] 를 입습니다."
+msgstr "[1] 내의 크리쳐와 아이템이 불타기 시작하며 매 턴 [2]를 입습니다."
 
 #. key = Shared_Shout_WildMagic_Burning_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:988
@@ -33266,7 +33266,7 @@ msgstr "주술 화살 활성화"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:316
 msgctxt "h4a9ec01bg79ebg4364g9e56g8364bd2ef92a"
 msgid "Takes [1] at end of their turn."
-msgstr "자신의 턴 종료시 [1] 를 입습니다."
+msgstr "자신의 턴 종료 시 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_ACID_ARROW_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:421
@@ -33296,7 +33296,7 @@ msgstr "이번 턴에 <LSTag Tooltip=\"Action\">행동</LSTag>을 한번 더 수
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:428
 msgctxt "h129c8bc7g2be9g4f49g89e6geaaebf8922c4"
 msgid "Action Surge"
-msgstr "연쇄 행동"
+msgstr "행동 연쇄"
 
 #. key = Shared_Status_BOOST_AID_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:330
@@ -33349,7 +33349,7 @@ msgstr "해독제"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:337
 msgctxt "h550f94c0g392bg457eg98b4gd09639bc1c4e"
 msgid "Magical barrier protects hitpoints."
-msgstr "마법 보호막의 체력입니다."
+msgstr "마법 보호막이 체력을 보호합니다."
 
 #. key = Shared_Status_BOOST_ARCANE_WARD_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:442
@@ -33364,8 +33364,8 @@ msgid ""
 "Gained 10 <LSTag Tooltip=\"TemporaryHitPoints\">temporary hit points</"
 "LSTag>. If hit with a melee attack, the attacker takes [1]."
 msgstr ""
-"<LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 10 획득했습니다. 근접 공격을 당하면, "
-"공격자는 [1] 를 입습니다."
+"<LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 10 획득했습니다. 근접 공격에 "
+"피격당하면, 공격자는 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_ARMOR_OF_AGATHYS_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:344
@@ -33375,7 +33375,7 @@ msgid ""
 "If hit with a melee attack, the attacker takes [1]."
 msgstr ""
 "<LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 5 획득했습니다. 근접 공격을 당하면, "
-"공격자는 [1] 를 입습니다."
+"공격자는 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_ARMOR_OF_AGATHYS_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:449
@@ -33491,7 +33491,7 @@ msgid ""
 "\"TemporaryHitPoints\">temporary hit points</LSTag>."
 msgstr ""
 "건강 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Advantage\""
-">이점</LSTag>을 가지고 <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 [1] 만큼 "
+">이점</LSTag>을 가지고 <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 [1] "
 "획득합니다."
 
 #. key = Shared_Status_BOOST_BEARS_ENDURANCE_DisplayName
@@ -33504,7 +33504,7 @@ msgstr "곰의 인내력"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1058
 msgctxt "h490b09f4gd26fg49d4gafd1g782d909392d9"
 msgid "Takes [1] each turn."
-msgstr "매 턴 [1] 를 입습니다."
+msgstr "매 턴 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_BLADE_WARD_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:386
@@ -33579,8 +33579,8 @@ msgid ""
 "\"Advantage\">Advantage</LSTag>."
 msgstr ""
 "<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
-">불리점</LSTag>을 가집니다. 원거리 공격과 주문의 사정거리가 [1]로 줄어듭니다. <br><br>실명된 크리쳐를 향한 명중 굴림은 "
-"<LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
+">불리점</LSTag>을 가집니다. 원거리 공격과 주문의 사정거리가 [1] 로 줄어듭니다. <br><br>실명된 크리쳐를 향한 명중 "
+"굴림은 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_BLINDED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:330
@@ -33661,7 +33661,7 @@ msgstr "황소의 힘"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:148
 msgctxt "h749103c1g241dg4d07g923eg977717a2d981"
 msgid "Takes [1] per turn."
-msgstr "매 턴 [1] 를 입습니다."
+msgstr "매 턴 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_BURNING_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:211
@@ -33767,7 +33767,7 @@ msgstr "고양이의 보은"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:155
 msgctxt "h89303a06g9c64g49cag9476ga7a4f2013009"
 msgid "Covered in caustic brine. Takes [1] per turn."
-msgstr "부식성 염수로 뒤덮였습니다. 매 턴 [1] 를 입습니다."
+msgstr "부식성 염수로 뒤덮였습니다. 매 턴 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_CAUSTIC_BRINE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:218
@@ -33877,7 +33877,7 @@ msgctxt "h739f967eg3551g439cg80d2gf513c4c48cf0"
 msgid ""
 "Spinning daggers fill the air. Anyone inside the whirlwind takes [1] each "
 "turn."
-msgstr "회전하는 단검의 구름이 공기를 채웁니다. 회오리 안쪽에 있는 모두가 매 턴 [1] 를 입습니다."
+msgstr "회전하는 단검의 구름이 공기를 채웁니다. 회오리 안쪽에 있는 모두가 매 턴 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_CLOUD_OF_DAGGERS_AURA_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2913
@@ -33889,7 +33889,7 @@ msgstr "단검의 구름"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1940
 msgctxt "hc52225a7gf3d9g4d1egbf22ge5aaa514c680"
 msgid "Takes [1] per turn."
-msgstr "매 턴 [1] 를 입습니다."
+msgstr "매 턴 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_CLOUD_OF_DAGGERS_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2906
@@ -34182,7 +34182,7 @@ msgstr "저주: 명중 불리점"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2479
 msgctxt "h84c42c15g9b0cg4424g951bgf951495856c8"
 msgid "Receives an additional [1] from the spellcaster's attacks or spells."
-msgstr "주문시전자의 공격이나 주문에 [1] 를 추가로 입습니다."
+msgstr "주문시전자의 공격이나 주문에 [1]를 추가로 입습니다."
 
 #. key = Shared_Status_BOOST_CURSE_EXTRA_DAMAGE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3620
@@ -34716,8 +34716,8 @@ msgid ""
 "additional [1] with weapon attacks, but receives [2] each "
 "turn.<br><br>Prevents Rage from ending early."
 msgstr ""
-"<LSTag Type=\"Status\" Tooltip=\"RAGE\">격노</LSTag> 상태 동안, 무기 공격이 [1] 를 추가로 "
-"가하지만, 매 턴 [2] 를 입습니다.<br><br>격노가 일찍 종료되는 것을 방지합니다."
+"<LSTag Type=\"Status\" Tooltip=\"RAGE\">격노</LSTag> 상태 동안, 무기 공격이 [1]를 추가로 "
+"가하지만, 매 턴 [2]를 입습니다.<br><br>격노가 일찍 종료되는 것을 방지합니다."
 
 #. key = Shared_Status_BOOST_ENDLESS_RAGE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3137
@@ -34781,7 +34781,7 @@ msgid ""
 "\"Disadvantage\">Disadvantage</LSTag>.<br><br>Removed when <LSTag Type="
 "\"Spell\" Tooltip=\"Target_Help\">Helped</LSTag>."
 msgstr ""
-"움직일 수 없으며, 매 턴 [1] 를 입습니다. <br><br>대상을 향한 <LSTag Tooltip=\"AttackRoll\">명중 "
+"움직일 수 없으며, 매 턴 [1]를 입습니다. <br><br>대상을 향한 <LSTag Tooltip=\"AttackRoll\">명중 "
 "굴림</LSTag>은 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가지는 반면, 대상은 명중 굴림과 민첩 "
 "<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
 ">불리점</LSTag>을 가집니다.<br><br><LSTag Type=\"Spell\" Tooltip=\"Target_Help\">도움</"
@@ -34999,7 +34999,7 @@ msgid ""
 "Enemies and objects within [2] of the sphere at the end of their turn take "
 "[1]. On a successful save, they still take half damage."
 msgstr ""
-"구체 [2] 주변의 크리쳐와 물체는 본인의 턴 종료 시 [1] 를 입습니다. 내성 굴림에 성공한 경우에도 여전히 절반의 피해를 입습니다."
+"구체 [2] 주변의 크리쳐와 물체는 본인의 턴 종료 시 [1]를 입습니다. 내성 굴림에 성공한 경우에도 여전히 절반의 피해를 입습니다."
 
 #. key = Shared_Status_BOOST_FLAMING_SPHERE_AURA_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2500
@@ -35026,7 +35026,7 @@ msgctxt "h03950ce9gc0a1g498cgaafegee931f66e6e5"
 msgid ""
 "Creature is standing within [1] of a flaming sphere and will take [2] at the "
 "end of its turn. On a successful save, it will still take half damage."
-msgstr "화염 구체 [1] 내에 서있는 크리쳐는 턴 종료 시 [2] 를 입습니다. 내성 굴림에 성공한 경우에도 절반의 피해를 입습니다."
+msgstr "화염 구체 [1] 내에 서있는 크리쳐는 턴 종료 시 [2]를 입습니다. 내성 굴림에 성공한 경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Status_BOOST_FLAMING_SPHERE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2493
@@ -35706,7 +35706,7 @@ msgid ""
 "Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Charisma <LSTag Tooltip="
 "\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
-"주문시전자에게서 추가로 [1] 를 입습니다. 또한 매력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
+"주문시전자에게서 추가로 [1]를 입습니다. 또한 매력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
 "<LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_HEX_CHARISMA_DisplayName
@@ -35723,7 +35723,7 @@ msgid ""
 "Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Constitution <LSTag Tooltip="
 "\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
-"주문시전자에게서 추가로 [1] 를 입습니다. 또한 건강 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
+"주문시전자에게서 추가로 [1]를 입습니다. 또한 건강 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
 "<LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_HEX_CONSTITUTION_DisplayName
@@ -35740,7 +35740,7 @@ msgid ""
 "Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Dexterity <LSTag Tooltip="
 "\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
-"주문시전자에게서 추가로 [1] 를 입습니다. 또한 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
+"주문시전자에게서 추가로 [1]를 입습니다. 또한 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
 "<LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_HEX_DEXTERITY_DisplayName
@@ -35757,7 +35757,7 @@ msgid ""
 "Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Intelligence <LSTag Tooltip="
 "\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
-"주문시전자에게서 추가로 [1] 를 입습니다. 또한 지능 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
+"주문시전자에게서 추가로 [1]를 입습니다. 또한 지능 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
 "<LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_HEX_INTELLIGENCE_DisplayName
@@ -35802,7 +35802,7 @@ msgid ""
 "Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Strength <LSTag Tooltip="
 "\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
-"주문시전자에게서 추가로 [1] 를 입습니다. 또한 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
+"주문시전자에게서 추가로 [1]를 입습니다. 또한 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
 "<LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_HEX_STRENGTH_DisplayName
@@ -35819,7 +35819,7 @@ msgid ""
 "Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Wisdom <LSTag Tooltip="
 "\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
-"주문시전자에게서 추가로 [1] 를 입습니다. 또한 지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
+"주문시전자에게서 추가로 [1]를 입습니다. 또한 지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 "
 "<LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_HEX_WISDOM_DisplayName
@@ -35884,7 +35884,7 @@ msgctxt "h21e0c285g77d7g4573g8b55gfb72243328a1"
 msgid ""
 "Affected entity is protected by a vengeful aura. <br><Br>Attackers take [1] "
 "when they hit the entity with a melee attack."
-msgstr "영향을 받은 개체가 복수의 오라로 보호받습니다. <br><Br>해당 개체에게 근접 공격을 가하면 [1] 를 입습니다."
+msgstr "영향을 받은 개체가 복수의 오라로 보호받습니다. <br><Br>해당 개체에 근접 공격을 가하면 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_HOLY_REBUKE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3914
@@ -35924,7 +35924,7 @@ msgid ""
 "<br><br>Removed upon succeeding an Intelligence <LSTag Tooltip=\"SavingThrow"
 "\">Saving Throw</LSTag>."
 msgstr ""
-"소서러의 뒤틀린 존재감에 의해 두려움을 느낍니다. 매 턴 [1] 를 입습니다. <br><br>지능 <LSTag Tooltip="
+"소서러의 뒤틀린 존재감에 의해 두려움을 느낍니다. 매 턴 [1]를 입습니다. <br><br>지능 <LSTag Tooltip="
 "\"SavingThrow\">내성 굴림</LSTag>에 성공하면 제거됩니다."
 
 #. key = Shared_Status_BOOST_HORRIFIC_VISAGE_DisplayName
@@ -36375,8 +36375,8 @@ msgid ""
 "its turn inside the light. They deal [1]. On a successful save, targets "
 "still take half damage."
 msgstr ""
-"이 은빛 광선에 들어오거나 턴을 시작하는 모든 크리쳐는 유령 같은 불길에 휩싸입니다. [1] 를 입습니다. 내성에 성공한 경우에도 절반의 "
-"피해를 입습니다."
+"이 은빛 광선에 들어오거나 턴을 시작하는 모든 크리쳐는 유령 같은 불길에 휩싸입니다. 광선은 [1]를 가합니다. 내성 굴림에 성공한 "
+"경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Status_BOOST_MOONBEAM_AURA_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2514
@@ -36390,7 +36390,7 @@ msgctxt "hddd473aegb174g4f67g934dg1399cdcebc9d"
 msgid ""
 "Creature is engulfed by ghostly flames that deal [1] per turn. On a "
 "successful save, the creature still takes half damage."
-msgstr "매 턴 [1] 를 입히는 유령 같은 불길에 휩싸였습니다. 내성 굴림에 성공한 경우에도 절반의 피해를 입습니다."
+msgstr "매 턴 [1]를 입히는 유령 같은 불길에 휩싸였습니다. 내성 굴림에 성공한 경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Status_BOOST_MOONBEAM_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2521
@@ -36463,7 +36463,7 @@ msgstr "럼프의 응보"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:827
 msgctxt "h89538b54gfe72g40ecg8cadgec3e603b9c4b"
 msgid "Whenever this creature takes Fire damage, it suffers an additional [1]."
-msgstr "화염 피해를 입으면, 추가로 [1] 도 입습니다."
+msgstr "화염 피해를 입으면, 추가로 [1]도 입습니다."
 
 #. key = Shared_Status_BOOST_OILED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1002
@@ -36695,8 +36695,8 @@ msgid ""
 "each turn. Each time they take damage from another source, the damage type "
 "of Phantasmal Force changes to that damage type."
 msgstr ""
-"마지막으로 공격했던 것의 메아리에 사로잡힙니다.<br><br>매 턴 [1] 를 입습니다. 다른 출처로부터 피해를 받을 때마다 환상력의 "
-"피해 종류가 해당 피해 유형으로 바뀝니다."
+"마지막으로 공격했던 것의 메아리에 사로잡힙니다.<br><br>매 턴 [1]를 입습니다. 다른 출처로부터 피해를 받을 때마다 환상력의 피해 "
+"종류가 해당 피해 유형으로 바뀝니다."
 
 #. key = Shared_Status_BOOST_PHANTASMAL_FORCE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3347
@@ -36761,8 +36761,8 @@ msgid ""
 "damaged them. At the end of each turn, the target takes a Wisdom saving "
 "throw. On a success, this condition is removed."
 msgstr ""
-"마지막으로 공격했던 것의 메아리에 사로잡힙니다.<br><br>매 턴 [1] 를 입습니다. 다른 출처로부터 피해를 받을 때마다 환상력의 "
-"피해 종류가 해당 피해 유형으로 바뀝니다. 매 턴 종료 시마다 대상은 지혜 내성 굴림을 수행합니다. 굴림에 성공하면, 상태가 종료됩니다."
+"마지막으로 공격했던 것의 메아리에 사로잡힙니다.<br><br>매 턴 [1]를 입습니다. 다른 출처로부터 피해를 받을 때마다 환상력의 피해 "
+"종류가 해당 피해 유형으로 바뀝니다. 매 턴 종료 시마다 대상은 지혜 내성 굴림을 수행합니다. 굴림에 성공하면, 상태가 종료됩니다."
 
 #. key = Shared_Status_BOOST_PHANTASMAL_FORCE_SLASHING_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:3354
@@ -36835,8 +36835,8 @@ msgid ""
 "isn't Poisoned, but still takes half damage."
 msgstr ""
 "<LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 10 의 건강 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>을 통과하지 못하면 [1] 를 입고 다음 긴 휴식 전까지 중독됩니다. 굴림에 성공한 "
-"경우에 중독되지는 않지만 피해는 입습니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, [1]를 입고 다음 긴 휴식 전까지 중독됩니다. 굴림에 성공한 경우에 "
+"중독되지는 않지만 피해는 입습니다."
 
 #. key = Shared_Status_BOOST_POISON_ASSASSINS_BLOOD_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1513
@@ -36883,8 +36883,7 @@ msgid ""
 ". On a successful save, creature still takes half damage."
 msgstr ""
 "<LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 19의 건강 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>을 통과하지 못하면 [1] 를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 "
-"입습니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, [1]를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Status_BOOST_POISON_PURPLE_WORM_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1331
@@ -36895,8 +36894,7 @@ msgid ""
 ". On a successful save, creature still takes half damage."
 msgstr ""
 "<LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 19의 건강 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>을 통과하지 못하면 [1] 를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 "
-"입습니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, [1]를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Status_BOOST_POISON_SERPENT_VENOM_DIPPED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2213
@@ -36907,8 +36905,7 @@ msgid ""
 ". On a successful save, creature suffers half the normal damage."
 msgstr ""
 "<LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 11 의 건강 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>을 통과하지 못하면 [1] 를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 "
-"입습니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, [1]를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Status_BOOST_POISON_SERPENT_VENOM_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1317
@@ -36919,8 +36916,7 @@ msgid ""
 ". On a successful save, creature suffers half the normal damage."
 msgstr ""
 "<LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 11 의 건강 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>을 통과하지 못하면 [1] 를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 "
-"입습니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, [1]를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Status_BOOST_POISON_SIMPLE_DIPPED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:2661
@@ -36946,8 +36942,7 @@ msgid ""
 ". On a successful save, creature still takes half damage."
 msgstr ""
 "<LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 10 의 건강 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>을 통과하지 못하면 [1] 를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 "
-"입습니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, [1]를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Status_BOOST_POISON_WYVERN_DIPPED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2339
@@ -36964,8 +36959,7 @@ msgid ""
 ". On a successful save, creature suffers half the normal damage."
 msgstr ""
 "<LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 10 의 건강 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>을 통과하지 못하면 [1] 를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 "
-"입습니다."
+"\"SavingThrow\">내성 굴림</LSTag>에 실패하면, [1]를 입습니다. 굴림에 성공한 경우에도 절반의 피해를 입습니다."
 
 #. key = Shared_Status_BOOST_POISON_WYVERN_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1569
@@ -37970,7 +37964,7 @@ msgid ""
 "Constitution <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag>."
 msgstr ""
 "영향을 받은 개체는 건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 성공한 뒤 한 턴이 지날 "
-"때까지 매 턴 [1] 를 입습니다."
+"때까지 매 턴 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_SEARING_SMITE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1100
@@ -38012,9 +38006,9 @@ msgid ""
 "damage. On a successful save, you don't take any damage, even if you "
 "normally would."
 msgstr ""
-"주문이 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>을 강요하면, 반응 행동을 사용해 스스로를 "
-"방어하고 효과의 피해를 감쇠할 수 있습니다. <br><br>굴림에 실패한 경우, 절반의 피해만 입습니다. 굴림에 성공한 경우, 어떤 "
-"피해도 입지 않습니다."
+"주문이 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>을 강요하는 경우, 반응 행동을 사용해 "
+"스스로를 방어하고 효과의 피해를 감쇠할 수 있습니다. <br><br>굴림에 실패한 경우, 절반의 피해만 입습니다. 굴림에 성공한 경우, "
+"어떤 피해도 입지 않습니다."
 
 #. key = Shared_Status_BOOST_SHIELD_MASTER_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:1121
@@ -38074,7 +38068,7 @@ msgstr "충격"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1758
 msgctxt "h5066a4d4g195fg4e02g8ba9g2ecabf40dd91"
 msgid "Takes [1] at the start of each turn."
-msgstr "매 턴 시작 시 [1] 를 입습니다."
+msgstr "매 턴 시작 시 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_SHOCKED_SURFACE_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:274
@@ -38285,7 +38279,7 @@ msgstr "칼날 거미의 신속함"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1681
 msgctxt "h7669a613g5cb8g4ec8gbc00g040b1299f77f"
 msgid "Take [1] for every [2] moved on the spikes."
-msgstr "가시 위에서 [2] 움직일 때마다 [1] 를 입습니다."
+msgstr "가시 위에서 [2] 움직일 때마다 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_SPIKE_GROWTH_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2528
@@ -38336,7 +38330,7 @@ msgid ""
 "Tooltip=\"AttackRoll\">Attack Rolls</LSTag> against it have <LSTag Tooltip="
 "\"Advantage\">Advantage</LSTag>."
 msgstr ""
-"어둠에 둘러싸였습니다.<br><Br>영향을 받은 개체는 매 턴 [1] 를 입습니다. 대상을 향한 <LSTag Tooltip="
+"어둠에 둘러싸였습니다.<br><Br>영향을 받은 개체는 매 턴 [1]를 입습니다. 대상을 향한 <LSTag Tooltip="
 "\"AttackRoll\">명중 굴림</LSTag>은 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_SPITEFUL_SUFFERING_DisplayName
@@ -38372,7 +38366,7 @@ msgid ""
 "others receive [1] each turn. <br><br>When the condition ends, Bernard is "
 "<LSTag Type=\"Status\" Tooltip=\"STUNNED\">Stunned</LSTag> for 2 turns."
 msgstr ""
-"버나드 근처의 모든 구조물은 무기 피해에 [2] 가 추가됩니다. 다른 모두는 매 턴 [1] 를 입습니다. <br><br>상태가 종료되면, "
+"버나드 근처의 모든 구조물은 무기 피해에 [2]가 추가됩니다. 다른 모두는 매 턴 [1]를 입습니다. <br><br>상태가 종료되면, "
 "버나드가 2 턴 동안 <LSTag Type=\"Status\" Tooltip=\"STUNNED\">기절</LSTag>합니다."
 
 #. key = Shared_Status_BOOST_STATIC_DISCHARGE_AURA_DisplayName
@@ -38768,8 +38762,8 @@ msgid ""
 "\"DIFFICULT_TERRAIN\">Difficult Terrain</LSTag>, and creatures within are "
 "<LSTag Type=\"Status\" Tooltip=\"BLINDED\">Blinded</LSTag>."
 msgstr ""
-"알 수 없는 공포로 가득한 차가운 어둠의 구체입니다.<br><br>이 지역에서 턴을 시작하는 크리쳐는 [1] 를 입습니다. 이 지역에서 "
-"턴을 종료하는 크리쳐는 일정 확률로 [2] 를 입습니다.<br><br>구체 내부는 <LSTag Type=\"Status\" Tooltip="
+"알 수 없는 공포로 가득한 차가운 어둠의 구체입니다.<br><br>이 지역에서 턴을 시작하는 크리쳐는 [1]를 입습니다. 이 지역에서 "
+"턴을 종료하는 크리쳐는 일정 확률로 [2]를 입습니다.<br><br>구체 내부는 <LSTag Type=\"Status\" Tooltip="
 "\"DIFFICULT_TERRAIN\">험난한 지형</LSTag>이며, 내부의 크리쳐는 <LSTag Type=\"Status\" "
 "Tooltip=\"BLINDED\">실명</LSTag> 상태입니다."
 
@@ -38928,7 +38922,7 @@ msgstr "축축함"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:1968
 msgctxt "hd712de8bgb148g4127g80a4g34ca1530b64b"
 msgid "Takes [1] at the start of each turn."
-msgstr "매 턴 시작 시 [1] 를 입습니다."
+msgstr "매 턴 시작 시 [1]를 입습니다."
 
 #. key = Shared_Status_BOOST_WILD_MAGIC_BURNING_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:2948
@@ -42845,7 +42839,7 @@ msgstr "끔찍한 얼굴"
 #: Shared/Public/Shared/Localization/Target_ExtraDescription.lsx:113
 msgctxt "h318c5e3bg6681g4e22ga74fg91b5f1d2e8bd"
 msgid "The creature takes another [1] per turn."
-msgstr "크리쳐는 다시 매 턴 [1] 를 입습니다."
+msgstr "크리쳐는 또한 매 턴 [1]를 입습니다."
 
 #. key = Shared_Target_HungerOfHadar_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1891
@@ -42868,8 +42862,8 @@ msgid ""
 " Tooltip=\"DIFFICULT_TERRAIN\">Difficult Terrain</LSTag> and creatures "
 "within are <LSTag Type=\"Status\" Tooltip=\"BLINDED\">Blinded</LSTag>."
 msgstr ""
-"이 지역에서 턴을 시작하는 크리쳐는 [1] 를 입습니다. 이 지역에서 턴을 끝마치는 크리쳐는 [2] 를 입을 수 "
-"있습니다.<br><br>해당 지역은 <LSTag Type=\"Status\" Tooltip=\"DIFFICULT_TERRAIN\">험난한 "
+"이 지역에서 턴을 시작하는 크리쳐는 [1]를 입습니다. 이 지역에서 턴을 끝마치는 크리쳐는 일정 확률로 [2]를 "
+"입습니다.<br><br>해당 지역은 <LSTag Type=\"Status\" Tooltip=\"DIFFICULT_TERRAIN\">험난한 "
 "지형</LSTag>으로 취급되며 내부의 크리쳐는 <LSTag Type=\"Status\" Tooltip=\"BLINDED\""
 ">실명</LSTag>됩니다."
 
@@ -44664,7 +44658,7 @@ msgid ""
 "an Attack Roll."
 msgstr ""
 "대상은 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip="
-"\"Disadvantage\">불리점</LSTag>을 가지며 공격이 빗나갈 때마다 [1] 를 입습니다."
+"\"Disadvantage\">불리점</LSTag>을 가지며 공격이 빗나갈 때마다 [1]를 입습니다."
 
 #. key = Shared_Target_StickyPaws_Bear_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:2003
@@ -46143,7 +46137,7 @@ msgid ""
 "Some parts of the environment are destructible. Press [IE_UICtrl] to target "
 "an object for attack. Some objects also take damage from spells and missiles."
 msgstr ""
-"환경 중 일부는 파괴될 수 있습니다. [IE_UICtrl] 키를 누른 채로 대상을 선택해 공격하세요. 일부 물체는 주문과 투사체로도 "
+"환경 중 일부는 파괴될 수 있습니다. [IE_UICtrl] 키를 누른 채로 대상을 선택해 공격합니다. 일부 물체는 주문과 투사체로도 "
 "피해를 입습니다."
 
 #. key = Shared_Tutorials_New_Stat_26_ControllerDescription
