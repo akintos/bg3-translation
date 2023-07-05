@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-06-23 03:53+0000\n"
+"PO-Revision-Date: 2023-07-05 12:53+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -16918,7 +16918,7 @@ msgid ""
 msgstr ""
 "평갑과 방패에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고, <LSTag "
 "Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip=\"Dexterity\">민첩</LSTag>이 "
-"최대 20 이 될 때까지 1 만큼 상승합니다."
+"1 만큼 상승합니다. 해당 특기로 달성할 수 있는 최대 능력치는 20 입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_12_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:92
@@ -16987,9 +16987,9 @@ msgid ""
 "\"Dexterity\">Dexterity</LSTag> by 1, to a maximum of 20, and gain <LSTag "
 "Tooltip=\"Proficiency\">Proficiency</LSTag> with four weapons of your choice."
 msgstr ""
-"최대 20 이 될 때까지, <LSTag Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip="
-"\"Dexterity\">민첩</LSTag>이 1 만큼 증가하고, 선택한 4 가지 무기에 <LSTag Tooltip="
-"\"Proficiency\">숙련</LSTag>을 얻습니다."
+"<LSTag Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip=\"Dexterity\">민첩</"
+"LSTag>이 1 만큼 증가하고, 선택한 4 가지 무기에 <LSTag Tooltip=\"Proficiency\">숙련</LSTag>을 "
+"얻습니다. 해당 특기로 달성할 수 있는 최대 능력치는 20 입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_16_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:120
@@ -17048,7 +17048,7 @@ msgid ""
 "LSTag> by 1, to a maximum of 20."
 msgstr ""
 "<LSTag Tooltip=\"MusicalInstrumentProficiency\">악기 숙련도</LSTag>를 얻고, <LSTag "
-"Tooltip=\"Charisma\">매력</LSTag>이 최대 20 이 될 때까지 1 만큼 증가합니다."
+"Tooltip=\"Charisma\">매력</LSTag>이 1 만큼 증가합니다. 해당 특기로 달성할 수 있는 최대 능력치는 20 입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_19_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:141
@@ -17065,7 +17065,8 @@ msgid ""
 "Prone, standing up uses less movement."
 msgstr ""
 "<LSTag Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip=\"Dexterity\">민첩</"
-"LSTag> 이 최대 20 이 될 때까지 1 만큼 증가합니다. 엎어진 뒤 일어날 때, 이동 속도가 덜 소모됩니다."
+"LSTag>이 1 만큼 증가합니다. 엎어진 뒤 일어날 때, 이동 속도가 덜 소모됩니다. 해당 특기로 달성할 수 있는 최대 능력치는 20 "
+"입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_1_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:15
@@ -17161,8 +17162,8 @@ msgid ""
 "Heavy Armour and increase your <LSTag Tooltip=\"Strength\">Strength</LSTag> "
 "by 1, to a maximum of 20."
 msgstr ""
-"중갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고 최대 20 이 될 때까지 "
-"<LSTag Tooltip=\"Strength\">근력</LSTag>이 1 만큼 증가합니다."
+"중갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고 <LSTag Tooltip="
+"\"Strength\">근력</LSTag>이 1 만큼 증가합니다. 해당 특기로 달성할 수 있는 최대 능력치는 20 입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_5_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:43
@@ -17178,8 +17179,8 @@ msgid ""
 "Light Armour and increase your <LSTag Tooltip=\"Strength\">Strength</LSTag> "
 "or <LSTag Tooltip=\"Dexterity\">Dexterity</LSTag> by 1, to a maximum of 20."
 msgstr ""
-"경갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고 최대 20 이 될 때까지 "
-"<LSTag Tooltip=\"Dexterity\">민첩</LSTag>이 1 만큼 증가합니다."
+"경갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고 <LSTag Tooltip="
+"\"Dexterity\">민첩</LSTag>이 1 만큼 증가합니다. 해당 특기로 달성할 수 있는 최대 능력치는 20 입니다."
 
 #. key = Shared_FeatDescriptions_New_Stat_6_DisplayName
 #: Shared/Public/Shared/Localization/FeatDescriptions_DisplayName.lsx:50
@@ -19117,7 +19118,7 @@ msgid ""
 ">Dexterity</LSTag> score increases by 1, to a maximum of 20."
 msgstr ""
 "<LSTag Tooltip=\"Strength\">근력</LSTag>또는 <LSTag Tooltip=\"Dexterity\">민첩</"
-"LSTag>이 최대 20 될 때 까지 1 만큼 상승합니다."
+"LSTag>이 1 만큼 상승합니다. 해당 특기로 달성할 수 있는 최대 능력치는 20 입니다."
 
 #. key = Shared_Passive_Athlete_PassiveBonuses_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:946
@@ -20951,7 +20952,7 @@ msgid ""
 "increases by 1, to a maximum of 20."
 msgstr ""
 "중갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 가지며 <LSTag Tooltip="
-"\"Strength\">근력</LSTag>이 최대 20 이 될 때까지 1 만큼 증가합니다."
+"\"Strength\">근력</LSTag>이 1 만큼 증가합니다. 해당 특기로 달성할 수 있는 최대 능력치는 20 입니다."
 
 #. key = Shared_Passive_HeavilyArmored_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:967
