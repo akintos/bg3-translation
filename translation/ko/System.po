@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-07-14 14:53+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-07-17 12:53+0000\n"
+"Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/system/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -531,7 +531,7 @@ msgstr "게임을 시작할 수 없습니다. 모든 플레이어들이 준비�
 
 msgctxt "h1b9167bdga1f2g4d96g87f9g29730812328d"
 msgid "Who can join your game?"
-msgstr "누가 당신의 게임에 참가할 수 있나요?"
+msgstr "공개 범위"
 
 msgctxt "h333a6b0cg45b6g4ca3ga88cg103ac6a39c4c"
 msgid "LAN Connections"
@@ -5630,7 +5630,7 @@ msgstr "DC: [1]"
 
 msgctxt "h0a171109g25bdg45efgb646gea7e9f62e713"
 msgid "[1] hit [2] for [3]."
-msgstr "[1] 이 [2] 타격: [3]."
+msgstr "[1]: [2] 타격: [3]."
 
 msgctxt "h3acc1c32gb006g4039ga7c6g87425057a981"
 msgid "[2] was hit for [3]."
@@ -5638,11 +5638,11 @@ msgstr "[2]에게: [3]."
 
 msgctxt "h9c1320d9g5355g49d6gaffag0d4d7b4d68ad"
 msgid "[1] blasted [2] for [3]."
-msgstr ""
+msgstr "[1]: [2]에게 폭발: [3]."
 
 msgctxt "he94f4e8agfce1g459dg9df9gc27b66cdc38e"
 msgid "[1] shot [2], for [3]."
-msgstr "[1]이 [2]에게 사격: [3]."
+msgstr "[1]: [2]에게 사격: [3]."
 
 msgctxt "hb2c8861bgd0d1g4a56gad98ge539059950cd"
 msgid "[1] targeted [2] for [3]."
@@ -5670,7 +5670,7 @@ msgstr "[1]: 낙하로 인해 [2] 입음."
 
 msgctxt "h833d5265gcb25g42c9gbadcga9880f5ed6b4"
 msgid "[1] was crushed by [2] for [3]."
-msgstr ""
+msgstr "[1]: [2]에 의해 짓밟힘: [3]."
 
 msgctxt "hdb3847e7gde52g41eag888dgcc49d93cf9d3"
 msgid "[1] was hit for [2]."
@@ -6111,7 +6111,7 @@ msgstr ""
 
 msgctxt "h08a56b2dg046dg4cf7gbc0cg8f6eb5fe9ee9"
 msgid "from adjusted Ability"
-msgstr ""
+msgstr "보정된 능력치로부터"
 
 msgctxt "h9050147ag88b1g4603g8ea1g1c0d71d4159c"
 msgid "Base"
