@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-07-16 06:53+0000\n"
+"PO-Revision-Date: 2023-07-18 14:53+0000\n"
 "Last-Translator: 로켓 <nick0406@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -30880,9 +30880,9 @@ msgid ""
 "<LSTag Tooltip=\"Advantage\">Advantage</LSTag> on Wisdom <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag> and Death Saving Throws."
 msgstr ""
-"아군에게 희망과 활력을 불어넣습니다. 그들은 치유되면 가능한 많은 <LSTag Tooltip=\"HitPoints\">체력</"
-"LSTag>을 회복하며, 죽음 내성 굴림과 지혜 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 "
-"<LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻습니다."
+"아군에게 희망과 활력을 불어넣습니다. 그들은 치유되면 주사위 값의 최대치에 해당하는 <LSTag Tooltip=\"HitPoints\""
+">체력</LSTag>을 회복하며, 죽음 내성 굴림과 지혜 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
+"LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻습니다."
 
 #. key = Shared_Shout_BeaconOfHope_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:1247
@@ -43668,7 +43668,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1583
 msgctxt "h2adff7cegc4b7g4b97g99c7g9f4db1340a9b"
 msgid "Pommel Strike"
-msgstr "폼멜 타격"
+msgstr "자루 치기"
 
 #. key = Shared_Target_PostureBreaker_Description
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1548
@@ -46008,11 +46008,11 @@ msgid ""
 "[IE_CameraBackward], and [IE_CameraRight], and rotate it with "
 "[IE_CameraRotateLeft] and [IE_CameraRotateRight]."
 msgstr ""
-"[IE_CameraToggleMouseRotate] 키를 누르고 마우스를 움직여 카메라를 회전합니다. "
-"[IE_DefaultCameraZoomIn] 과 [IE_DefaultCameraZoomOut] 키를 이용해 화면을 확대하거나 축소할 수 "
+"[IE_CameraToggleMouseRotate]키를 누르고 마우스를 움직여 카메라를 회전합니다. "
+"[IE_DefaultCameraZoomIn]키와 [IE_DefaultCameraZoomOut]키를 이용해 화면을 확대하거나 축소할 수 "
 "있습니다. 또한 [IE_CameraForward], [IE_CameraLeft], [IE_CameraBackward], 그리고 "
-"[IE_CameraRight] 키를 이용해 카메라를 움직이고, [IE_CameraRotateLeft] 과 "
-"[IE_CameraRotateRight] 키를 이용해 회전할 수도 있습니다."
+"[IE_CameraRight]키를 이용해 카메라를 움직이고, [IE_CameraRotateLeft], "
+"[IE_CameraRotateRight]키를 이용해 회전할 수도 있습니다."
 
 #. key = Shared_Tutorials_New_Stat_20_ControllerDescription
 #: Shared/Public/Shared/Localization/Tutorials_ControllerDescription.lsx:85
