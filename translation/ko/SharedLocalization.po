@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-07-18 14:53+0000\n"
-"Last-Translator: 로켓 <nick0406@naver.com>\n"
+"PO-Revision-Date: 2023-07-20 15:53+0000\n"
+"Last-Translator: limizzy <de7ce9ption@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
 "Language: ko\n"
@@ -5687,7 +5687,7 @@ msgid ""
 "LSTag> on <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag> and <LSTag "
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag> using Charisma."
 msgstr ""
-"개복된 상처가 썩기 시작했습니다. 매력에 기반한 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
+"노출된 상처가 썩기 시작했습니다. 매력에 기반한 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 "
 "<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
 ">불리점</LSTag>을 갖습니다."
 
@@ -7467,7 +7467,7 @@ msgid ""
 "\">Attack Rolls</LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throws</LSTag>."
 msgstr ""
-"낙인이 찍힌 대상은 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +2 보너스를 받습니다. 불신자들은 "
+"표식이 찍힌 대상은 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +2 보너스를 받습니다. 불신자들은 "
 "<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 <LSTag Tooltip=\"SavingThrow\""
 ">내성 굴림</LSTag>에 -1d4 페널티를 받습니다."
 
@@ -10889,55 +10889,55 @@ msgstr "바이올렛 1"
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:505
 msgctxt "hcf05d04ag35a7g4b13g8855g0a594b7ba9b8"
 msgid "Yellow 1"
-msgstr ""
+msgstr "노랑 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_72_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:512
 msgctxt "h901280cfga91dg416cga1d9g39f91e261e8a"
 msgid "Yellow 2"
-msgstr ""
+msgstr "노랑 2"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_73_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:519
 msgctxt "hb28a23abg20adg4ca3gae41g9bbee8436cb8"
 msgid "Yellow 3"
-msgstr ""
+msgstr "노랑 3"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_74_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:526
 msgctxt "he04f347eg7d6eg4872gada4ge21714ca0d2e"
 msgid "Yellow 4"
-msgstr ""
+msgstr "노랑 4"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_75_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:533
 msgctxt "h2c6dbd41g72abg403dg8423g6c71356bcb33"
 msgid "Yellow 5"
-msgstr ""
+msgstr "노랑 5"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_76_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:540
 msgctxt "hb3045183g8596g4ec7g82f7g3964955a83a5"
 msgid "Aqua 2"
-msgstr ""
+msgstr "아쿠아 2"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_77_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:547
 msgctxt "h1f26a4f6gdb30g4505g9040g9bd52fbe5b16"
 msgid "Aqua 3"
-msgstr ""
+msgstr "아쿠아 3"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_78_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:554
 msgctxt "h0c3ec04fgb373g4fb5g947fgdeaf47bde932"
 msgid "Aqua 4"
-msgstr ""
+msgstr "아쿠아 4"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_79_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:561
 msgctxt "hb774acecgc5deg42b0gbd91ga9d8f238866b"
 msgid "Aqua 5"
-msgstr ""
+msgstr "아쿠아 5"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_7_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:64
@@ -11489,7 +11489,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/CharacterCreationSharedVisuals_DisplayName.lsx:8
 msgctxt "h8c1431efg41afg4b17g8a51gd7bea9c3d77d"
 msgid "No Beard"
-msgstr ""
+msgstr "수염 없음"
 
 #. key = Shared_CharacterCreationSharedVisuals_New_Stat_40_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationSharedVisuals_DisplayName.lsx:211
@@ -12659,31 +12659,31 @@ msgstr ""
 #: Shared/Public/Shared/Localization/CharacterCreationSkinColors_DisplayName.lsx:1513
 msgctxt "h49e8212cg26f3g48afgbf18g206b1957e47d"
 msgid "Aqua Tone 1"
-msgstr ""
+msgstr "아쿠아 색조 1"
 
 #. key = Shared_CharacterCreationSkinColors_New_Stat_216_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationSkinColors_DisplayName.lsx:1520
 msgctxt "h002b38acg364cg4a39gacedgd6b2976eef8a"
 msgid "Aqua Tone 2"
-msgstr ""
+msgstr "아쿠아 색조 2"
 
 #. key = Shared_CharacterCreationSkinColors_New_Stat_217_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationSkinColors_DisplayName.lsx:1527
 msgctxt "h5e34e274g5354g4589gb9c1gc113168c20db"
 msgid "Aqua Tone 3"
-msgstr ""
+msgstr "아쿠아 색조 3"
 
 #. key = Shared_CharacterCreationSkinColors_New_Stat_218_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationSkinColors_DisplayName.lsx:1534
 msgctxt "h2429c13bgc0fcg42f5g813dg55ab68eae0fc"
 msgid "Aqua Tone 4"
-msgstr ""
+msgstr "아쿠아 색조 4"
 
 #. key = Shared_CharacterCreationSkinColors_New_Stat_219_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationSkinColors_DisplayName.lsx:1541
 msgctxt "h0ccb6db5gd595g49d3g8eecg790227f6ebe5"
 msgid "Aqua Tone 5"
-msgstr ""
+msgstr "아쿠아 색조 5"
 
 #. key = Shared_CharacterCreationSkinColors_New_Stat_21_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationSkinColors_DisplayName.lsx:155
@@ -12695,13 +12695,13 @@ msgstr ""
 #: Shared/Public/Shared/Localization/CharacterCreationSkinColors_DisplayName.lsx:1548
 msgctxt "h28a76851gaf15g4041g9ef2ge380c036869b"
 msgid "Aqua Tone 6"
-msgstr ""
+msgstr "아쿠아 색조 6"
 
 #. key = Shared_CharacterCreationSkinColors_New_Stat_221_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationSkinColors_DisplayName.lsx:1555
 msgctxt "h1f66519cg1cf3g405dga6afg1c159b5ce0ba"
 msgid "Aqua Tone 7"
-msgstr ""
+msgstr "아쿠아 색조 7"
 
 #. key = Shared_CharacterCreationSkinColors_New_Stat_222_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationSkinColors_DisplayName.lsx:1562
@@ -13031,7 +13031,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/CharacterCreationSkinColors_DisplayName.lsx:1905
 msgctxt "h1f34212ag65fbg4045g8c8fgf6aa2e851967"
 msgid "Aqua Tone 8"
-msgstr ""
+msgstr "아쿠아 색조 8"
 
 #. key = Shared_CharacterCreationSkinColors_New_Stat_272_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationSkinColors_DisplayName.lsx:1912
@@ -15284,7 +15284,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:260
 msgctxt "ha2826cf5gc017g41b4g8bb2g65f8ec61a6be"
 msgid "Aqua"
-msgstr ""
+msgstr "아쿠아"
 
 #. key = Shared_ColorDefinitions_New_Stat_41_DisplayName
 #: Shared/Public/Shared/Localization/ColorDefinitions_DisplayName.lsx:295
@@ -16220,7 +16220,7 @@ msgstr "대상에게 이점을 가지고 있어야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:302
 msgctxt "hf754cf16g7ed2g486cgba32gd469b31546ab"
 msgid "Can't have Disadvantage against target."
-msgstr "대상에게 불리점을 가질 수 없습니다."
+msgstr "대상에게 불리점을 가져서는 안됩니다."
 
 #. key = Shared_ConditionErrors_New_Stat_43_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:309
@@ -28820,7 +28820,7 @@ msgstr "외계의 구체를 던져 주변의 사물과 크리쳐를 끌어당깁
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:918
 msgctxt "hecb71a57g5a16g485cga535gdb6b73b54b46"
 msgid "Void Bulb"
-msgstr "텅 빈 구체"
+msgstr "공허의 구체"
 
 #. key = Shared_Projectile_WhiteSporeCloud_Description
 #: Shared/Public/Shared/Localization/Stats/Projectile_Description.lsx:337
