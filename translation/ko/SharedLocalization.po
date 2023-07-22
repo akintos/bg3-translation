@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-07-20 15:53+0000\n"
+"PO-Revision-Date: 2023-07-22 12:00+0000\n"
 "Last-Translator: limizzy <de7ce9ption@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
@@ -3314,8 +3314,8 @@ msgid ""
 "Tooltip=\"TemporaryHitPoints\">temporary hit points</LSTag> equal to your "
 "Charisma <LSTag Tooltip=\"AbilityModifier\">Modifier</LSTag>."
 msgstr ""
-"강타 주문 중 하나로 상태를 적용시키면, 매력 <LSTag Tooltip=\"AbilityModifier\">수정치</LSTag>와 "
-"동일한 수치의 <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 얻습니다."
+"강타 주문으로 상태를 적용시키면, 매력 <LSTag Tooltip=\"AbilityModifier\">수정치</LSTag>와 동일한 "
+"수치의 <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 얻습니다."
 
 #. key = Gustav_Passive_MAG_Paladin_SmiteSpellsSupport_Helmet_Passive_DisplayName
 #: Gustav/Public/Gustav/Localization/Stats/Passive_DisplayName.lsx:988
@@ -16238,7 +16238,7 @@ msgstr "영역이 가려질 수 없습니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:323
 msgctxt "h853a6b0eg4dd1g4120g91f0gfeb6b88f7c73"
 msgid "Area must be Lightly or Heavily Obscured."
-msgstr "영역이 살짝, 또는 심하게 가려진 상태여야 합니다."
+msgstr "영역이 살짝, 또는 상당히 가려짐 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_46_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:330
@@ -16250,19 +16250,19 @@ msgstr "영역이 살짝 가려진 상태여야 합니다."
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:337
 msgctxt "h659539eegcacdg459aga71ag7bc1a51f83b6"
 msgid "Area can't be Lightly Obscured."
-msgstr "영역이 살짝 가려질 수 없습니다."
+msgstr "영역이 살짝 가려짐 상태가 될 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_48_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:344
 msgctxt "h9b2ad9a9g5efag46f4ga39eg3ba653f693b9"
 msgid "Area must be Heavily Obscured."
-msgstr "영역이 심하게 가려진 상태여야 합니다."
+msgstr "영역이 상당히 가려짐 상태여야 합니다."
 
 #. key = Shared_ConditionErrors_New_Stat_49_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:351
 msgctxt "hcea4e3b1g9340g43d5ga776g8d8fcd1646ab"
 msgid "Area can't be Heavily Obscured."
-msgstr "영역이 심하게 가려질 수 없습니다."
+msgstr "영역이 상당히 가려짐 상태가 될 수 없습니다."
 
 #. key = Shared_ConditionErrors_New_Stat_4_DisplayName
 #: Shared/Public/Shared/Localization/ConditionErrors_DisplayName.lsx:22
@@ -22243,7 +22243,7 @@ msgstr "기초 독극물"
 msgctxt "hc29b5fadg50b5g43b2g8859g3b5ca4de510d"
 msgid ""
 "The Bulette will attack other monstrosities before going after smaller prey."
-msgstr "불레는 작은 먹잇감을 노리기 전에 다른 괴물을 공격할 것입니다."
+msgstr "불레이는 작은 먹잇감을 노리기 전에 다른 괴물을 공격할 것입니다."
 
 #. key = Shared_Passive_PreferredTarget_Bulette_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Passive_DisplayName.lsx:1548
@@ -33524,7 +33524,7 @@ msgctxt "hbaec3368g3f8bg4577g8a7fg6c16b2059f18"
 msgid ""
 "Has <LSTag Tooltip=\"Resistant\">Resistance</LSTag> against Bludgeoning, "
 "Piercing, and Slashing damage dealt by weapon attacks."
-msgstr "부수기, 꿰뚫기, 그리고 베기 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 가집니다."
+msgstr "부수기, 찌르기, 그리고 베기 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_BLADE_WARD_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:484
@@ -38172,13 +38172,13 @@ msgstr "감속"
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:92
 msgctxt "h6ac27e09g74ffg458fg981age85f8f8d3bab"
 msgid "Hiding in an unobscured area. Will be caught on sight."
-msgstr "개활지에 숨어있습니다. 시야에 들어올 것입니다."
+msgstr "가려지지 않는 구역에 숨어있습니다. 시야에 노출 될 것 입니다."
 
 #. key = Shared_Status_BOOST_SNEAKING_CLEAR_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:134
 msgctxt "ha1abb758gd2ebg44c4gbe30g9861a7cd29bc"
 msgid "Clear area"
-msgstr "개활지"
+msgstr "노출된 지역"
 
 #. key = Shared_Status_BOOST_SNEAKING_HEAVILY_OBSCURED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:106
@@ -38186,13 +38186,13 @@ msgctxt "hbc2ecd5egd9a9g4fa8g8486g91bd783691c6"
 msgid ""
 "Hiding in a Heavily Obscured area. Will go undetected unless they get too "
 "close to another creature."
-msgstr "심히 가려진 지역에 숨어있습니다. 크리쳐에게 너무 가까이 다가가지 않는 한 발견되지 않을 것입니다."
+msgstr "상당히 가려진 지역에 숨어있습니다. 크리쳐에게 너무 가까이 다가가지 않는 한 발견되지 않을 것입니다."
 
 #. key = Shared_Status_BOOST_SNEAKING_HEAVILY_OBSCURED_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:148
 msgctxt "h743922a5g69b3g43bdga085gde1265c94ede"
 msgid "Heavily Obscured"
-msgstr "심하게 가려짐"
+msgstr "상당히 가려짐"
 
 #. key = Shared_Status_BOOST_SNEAKING_LIGHTLY_OBSCURED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:99
