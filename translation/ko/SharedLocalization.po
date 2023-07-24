@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-07-22 12:00+0000\n"
-"Last-Translator: limizzy <de7ce9ption@gmail.com>\n"
+"PO-Revision-Date: 2023-07-24 11:53+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
 "Language: ko\n"
@@ -298,10 +298,9 @@ msgstr "열 이상의 적을 처치하고 살아남기."
 
 #. key = Gustav_BackgroundGoals_New_Stat_120_Title
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Title.lsx:827
-#, fuzzy
 msgctxt "h1c205c49g625cg48d2g89c4gbcb75ed2450c"
 msgid "One for the Ages"
-msgstr "세기의 혈전"
+msgstr "시대를 초월하는 것"
 
 #. key = Gustav_BackgroundGoals_New_Stat_121_Description
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Description.lsx:834
@@ -629,7 +628,6 @@ msgstr "당신의 행위에 대한 칭호 얻기."
 
 #. key = Gustav_BackgroundGoals_New_Stat_145_Title
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Title.lsx:1023
-#, fuzzy
 msgctxt "h6dd9cb79g7018g44fcgabf2gf88ab1e4a0d8"
 msgid "Entitled"
 msgstr "칭호"
@@ -692,7 +690,6 @@ msgstr "고블린 숙영지의 경비 아무나 속이기."
 
 #. key = Gustav_BackgroundGoals_New_Stat_15_Title
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Title.lsx:92
-#, fuzzy
 msgctxt "h0abd7df8gaa73g4419gba43g41331c919bd0"
 msgid "Very Important Parasite"
 msgstr "아주 중요한 기생충"
@@ -705,7 +702,6 @@ msgstr "도적들을 말로 물러나게 하고 예배당에 들어가기."
 
 #. key = Gustav_BackgroundGoals_New_Stat_16_Title
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Title.lsx:99
-#, fuzzy
 msgctxt "hceb63028g470eg4d88gb1efgad1ff3c5fd3c"
 msgid "Cheese Your Way Through"
 msgstr "허풍선이"
@@ -27187,7 +27183,7 @@ msgctxt "h0710e5c7g3b91g4235g889egd516723b5e02"
 msgid ""
 "Deals [1] and explodes in a burst of flames. Targets hit by the fire "
 "possibly take an additional [2]."
-msgstr "[1]피해를 입히며 폭발하여 불길을 생성합니다. 불길에 닿은 대상은 일정 확률로 [2]를 입습니다."
+msgstr "[1]를 입히며 폭발하여 불길을 생성합니다. 불길에 닿은 대상은 일정 확률로 [2]를 입습니다."
 
 #. key = Shared_Projectile_ArrowOfFire_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Projectile_DisplayName.lsx:260
@@ -31943,7 +31939,7 @@ msgid ""
 "Protective shadows surround you. They increase your <LSTag Tooltip="
 "\"ArmourClass\">Armour Class</LSTag> by 3."
 msgstr ""
-"보호하는 그림자가 당신을 에워쌉니다. <LSTag Tooltip=\"ArmourClass\">방어도</LSTag> 3 만큼 증가합니다."
+"보호하는 그림자가 당신을 에워쌉니다. <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 3 만큼 증가합니다."
 
 #. key = Shared_Shout_MageArmor_ArmorOfShadows_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Shout_DisplayName.lsx:414
@@ -35545,8 +35541,8 @@ msgid ""
 "The next <LSTag Tooltip=\"AttackRoll\">Attack Roll</LSTag> made against this "
 "creature has <LSTag Tooltip=\"Advantage\">Advantage</LSTag>."
 msgstr ""
-"이 크리쳐가 수행하는 다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>은 <LSTag Tooltip="
-"\"Advantage\">이점</LSTag>을 가집니다."
+"이 크리쳐를 대상으로 하는 다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>은 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. key = Shared_Status_BOOST_GUIDING_BOLT_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:785
@@ -38178,7 +38174,7 @@ msgstr "가려지지 않는 구역에 숨어있습니다. 시야에 노출 될 �
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_DisplayName.lsx:134
 msgctxt "ha1abb758gd2ebg44c4gbe30g9861a7cd29bc"
 msgid "Clear area"
-msgstr "노출된 지역"
+msgstr "노출된 공간"
 
 #. key = Shared_Status_BOOST_SNEAKING_HEAVILY_OBSCURED_Description
 #: Shared/Public/Shared/Localization/Stats/Status_BOOST_Description.lsx:106
@@ -40447,7 +40443,7 @@ msgid ""
 "Tooltip=\"PRONE\">Prone</LSTag>."
 msgstr ""
 "대상에게 달려든 뒤 물고 넘어뜨려 일정 확률로 <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎어짐</"
-"LSTag> 상태 만듭니다."
+"LSTag> 상태로 만듭니다."
 
 #. key = Shared_Target_Bite_Wolf_Summon_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1534
@@ -44386,7 +44382,7 @@ msgstr "언데드와 구조물은 출혈에 면역입니다."
 #: Shared/Public/Shared/Localization/Stats/Target_Description.lsx:1037
 msgctxt "h181466e9gba32g4178gbb91g3b89d720124f"
 msgid "Put creatures up to a combined [1] into a magical slumber."
-msgstr "체력의 합이 [1] 인 크리쳐들을 마법의 잠에 빠뜨립니다."
+msgstr "체력의 합이 [1]인 크리쳐들을 마법의 잠에 빠뜨립니다."
 
 #. key = Shared_Target_Sleep_DisplayName
 #: Shared/Public/Shared/Localization/Stats/Target_DisplayName.lsx:1065
@@ -46646,7 +46642,7 @@ msgid ""
 "\"Status\" Tooltip=\"COLOR_SPRAY\">Blinds</LSTag> creatures up to a combined "
 "[1]."
 msgstr ""
-"반짝거리는 오색 불빛을 생성해 도합 [1] 을 지닌 크리쳐들을 <LSTag Type=\"Status\" Tooltip="
+"반짝거리는 오색 불빛을 생성해 도합 [1]을 지닌 크리쳐들을 <LSTag Type=\"Status\" Tooltip="
 "\"COLOR_SPRAY\">실명</LSTag> 시킵니다."
 
 #. key = Shared_Zone_ColorSpray_DisplayName
