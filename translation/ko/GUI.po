@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-07-25 15:53+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-07-28 06:53+0000\n"
+"Last-Translator: 벨루크 <bellukevt@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3753,7 +3753,6 @@ msgstr "<LSTag Tooltip=\"Light\">경량형</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4773
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5596
-#, fuzzy
 msgctxt "h5bc7fbd4gfd81g4e6eg94a5g1b655286b07c"
 msgid "Heavy"
 msgstr "중량형"
@@ -3803,7 +3802,6 @@ msgstr "<LSTag Tooltip=\"Versatile\">다용도</LSTag>"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4805
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5628
-#, fuzzy
 msgctxt "h4bf65b5ag7f76g41caga545g0266adc4acab"
 msgid "<LSTag Tooltip=\"Dippable\">Dippable</LSTag>"
 msgstr "<LSTag Tooltip=\"Dippable\">담그기 가능</LSTag>"
@@ -4602,7 +4600,6 @@ msgid "Equipped One-Handed"
 msgstr "한손으로 장착함"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7013
-#, fuzzy
 msgctxt "h4f3ba872g1c86g4dbag9253g439da8478726"
 msgid "Conditional"
 msgstr "조건부"
@@ -4737,7 +4734,7 @@ msgctxt "h87e79fa7gcd5eg41ceg8f66g245868d1fedf"
 msgid ""
 "If your dice roll + modifiers is equal to or higher than the target, you "
 "succeed your"
-msgstr "만약 당신의 주사위 굴림 + 수정치가 대상 이상이라면, 당신의 굴림이 성공합니다"
+msgstr "만약 당신의 주사위 굴림 결과 + 수정치가 대상 이상이라면, 당신의 굴림은 성공합니다"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8107
 msgctxt "h2d431f82g4984g4294ga8edg944f01925773"
@@ -5757,18 +5754,17 @@ msgstr ""
 "<hl>[1]</hl>의 군용 무기 <LSTag Tooltip=\"ArmourProficiency\">숙련</LSTag>: 해당 없음"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4395
-#, fuzzy
 msgctxt "h8f9f545dg237eg49fcg9f12g84f1cff2218d"
 msgid ""
 "<hl>[1]</hl> knows how to play a variety of musical instruments and is able "
 "to entertain a crowd with them."
-msgstr "<hl>[1]</hl>에게는 악기를 다루는 재능이 있으며 이를 통해 청중의 분위기를 띄울 수 있습니다."
+msgstr "<hl>[1]</hl>에게는 다양한 악기를 다루는 재능이 있으며 이를 통해 청중의 분위기를 띄울 수 있습니다."
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4411
 #, fuzzy
 msgctxt "hb9eb8424gbd5eg483bg9ce6g783cad20513d"
 msgid "<hl>[1]</hl> doesn't know how to play any musical instruments."
-msgstr "<hl>[1]</hl>에게는 악기를 다룰 줄 아는 재능이 없습니다."
+msgstr "<hl>[1]</hl>는 악기를 다룰 줄 모릅니다."
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4584
 msgctxt "h529efdfdgda98g4ed3g8d1eg46cbf1d0a5e3"
@@ -6684,7 +6680,6 @@ msgstr "제작"
 
 #: Game/Public/Game/GUI/Widgets/PanelSelect_c.xaml:23
 #: Game/Public/Game/GUI/Widgets/PartyCharacterSheet_c.xaml:137
-#, fuzzy
 msgctxt "ha4177187gddecg4e4dg8870g01827a52f589"
 msgid "Party View"
 msgstr "파티 보기"
@@ -6840,7 +6835,6 @@ msgstr "스택 나누기"
 
 #: Game/Public/Game/GUI/Widgets/SplitItem_c.xaml:21
 #: Game/Public/Game/GUI/Widgets/SplitItem_c.xaml:121
-#, fuzzy
 msgctxt "hdbe14af6ged4cg41a0g870ag5f187798ffd5"
 msgid "Input split"
 msgstr "나눌 수량 입력"
@@ -7104,7 +7098,7 @@ msgstr "이 캐릭터로는 보상을 획득할 수 없습니다. 다른 캐릭�
 #, fuzzy
 msgctxt "ha13dce2cgf0cfg4b73g9fb7gc12b29c68a6b"
 msgid "Don't react."
-msgstr "반응행동을 하지 않습니다."
+msgstr "반응 행동을 하지 않습니다."
 
 #: Game/Public/Game/GUI/Widgets/ReactionDecisionPopup.xaml:113
 msgctxt "heb56c0degea37g48dcga2f6g0ce95d14ffd1"
@@ -7162,7 +7156,6 @@ msgstr "사용 중인 프로필"
 
 #: Game/Public/Game/GUI/Widgets/ProfileSelect_c.xaml:173
 #: Game/Public/Game/GUI/Widgets/ProfileSelect.xaml:125
-#, fuzzy
 msgctxt "h3b208d66g6773g426aga508g590642cb22ec"
 msgid "New"
 msgstr "새 프로필"

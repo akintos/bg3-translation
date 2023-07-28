@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-07-26 18:53+0000\n"
-"Last-Translator: 로켓 <nick0406@naver.com>\n"
+"PO-Revision-Date: 2023-07-28 06:53+0000\n"
+"Last-Translator: 초생달 <shlim0319@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
 "Language: ko\n"
@@ -36,7 +36,7 @@ msgstr "죽은 신들의 책의 잠금을 풀고 그 책을 읽기."
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Title.lsx:687
 msgctxt "h2632caf0g6e60g412cgaf9dg13b61f92fdc5"
 msgid "Secrets of the Sundering"
-msgstr "선더링의 비밀"
+msgstr "대분단의 비밀"
 
 #. key = Gustav_BackgroundGoals_New_Stat_101_Description
 #: Gustav/Public/Gustav/Localization/BackgroundGoals_Description.lsx:694
@@ -10937,57 +10937,62 @@ msgstr "아쿠아 5"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_7_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:64
+#, fuzzy
 msgctxt "h75be6c61gba75g4dddgaddfgbbeb272943a0"
 msgid "Gold Blonde 2"
-msgstr ""
+msgstr "금발 2"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_80_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:568
 msgctxt "h01b73e30g2f72g430agb9dcgb48d32b41061"
 msgid "Blue 3"
-msgstr ""
+msgstr "파랑 3"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_81_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:575
 msgctxt "h272a869eg1a37g42c7ga5c2gd37bcb7f3e70"
 msgid "Blue 2"
-msgstr ""
+msgstr "파랑 2"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_82_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:582
 msgctxt "h36437360g56fag4c93gb17ag15495e7eaf66"
 msgid "Blue 1"
-msgstr ""
+msgstr "파랑 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_83_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:589
 msgctxt "h519eb8ccg565dg439eg86e9gc3ead280013e"
 msgid "Blue 5"
-msgstr ""
+msgstr "파랑 5"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_84_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:596
+#, fuzzy
 msgctxt "h8928a4fag09a2g4903g88e3gc93b6eeb5c3a"
 msgid "White 1 with lashes"
-msgstr ""
+msgstr "속눈썹과 하얀색 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_85_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:603
+#, fuzzy
 msgctxt "h9c8f58e0g8220g4080g9f47g0b14f618aad8"
 msgid "White 2 with lashes"
-msgstr ""
+msgstr "속눈썹과 하얀색 2"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_86_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:610
+#, fuzzy
 msgctxt "h8c331788g7ed7g4e25g9080g69384df3fbfe"
 msgid "Blonde 1 with lashes"
-msgstr ""
+msgstr "속눈썹과 금발 1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_87_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:617
+#, fuzzy
 msgctxt "h3b0005beg07cag415dgb651g2aa46d4a0226"
 msgid "Ash Blonde 1 with lashes"
-msgstr ""
+msgstr "속눈썹과 회색빛 금발1"
 
 #. key = Shared_CharacterCreationHairColors_New_Stat_88_DisplayName
 #: Shared/Public/Shared/Localization/CharacterCreationHairColors_DisplayName.lsx:624
@@ -17570,7 +17575,7 @@ msgid ""
 "was restored with the Second Sundering."
 msgstr ""
 "감시하는 자는 신들의 영원한 파수꾼으로, 온 차원계를 관장하는 수호자를 대표합니다. 한 세기 넘게 숭배가 끊겼던 헬름의 힘은 제2차 "
-"선더링 이후 회복되었습니다."
+"대분단 이후 회복되었습니다."
 
 #. key = Shared_Gods_New_Stat_5_DisplayName
 #: Shared/Public/Shared/Localization/Gods_DisplayName.lsx:43
@@ -20475,7 +20480,7 @@ msgid ""
 "undead."
 msgstr ""
 "다른 존재의 차원에서 온 크리쳐들을 사냥하는 데 특화되어 있습니다. <LSTag Tooltip=\"Arcana\">비전</LSTag>에 "
-"<LSTag Tooltip=\"Proficiency\">숙련</LSTag>되어 있으며, 괴이체, 정령, 페이, 악마, 그리고 언데드로부터 "
+"<LSTag Tooltip=\"Proficiency\">숙련</LSTag>을 얻으며, 괴이체, 정령, 페이, 악마, 그리고 언데드로부터 "
 "보호를 부여하는 악과 선으로부터의 보호를 시전할 수 있습니다."
 
 #. key = Shared_Passive_FavoredEnemy_KeeperOfTheVeil_DisplayName
