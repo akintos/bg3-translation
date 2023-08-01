@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-07-28 06:53+0000\n"
-"Last-Translator: 벨루크 <bellukevt@gmail.com>\n"
+"PO-Revision-Date: 2023-08-01 13:53+0000\n"
+"Last-Translator: 머제이 <djay988@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6799,7 +6799,7 @@ msgstr "들여보내기"
 #: Game/Public/Game/GUI/Widgets/SpellSelecting.xaml:463
 msgctxt "hb7ce45aeg3e2fg4603g991dg5cfc9e006e05"
 msgid "Available Spells"
-msgstr "이용 가능한 주문"
+msgstr "사용 가능한 주문"
 
 #: Game/Public/Game/GUI/Widgets/SpellSelecting_c.xaml:419
 #: Game/Public/Game/GUI/Widgets/SpellSelecting_c.xaml:544
@@ -6899,7 +6899,7 @@ msgstr "물물교환"
 #: Game/Public/Game/GUI/Widgets/Trade.xaml:558
 msgctxt "h7d99f468gd1ddg42c4gaf52g7757aadfdcc4"
 msgid "Your offer is insufficient. Change your offer to continue bartering."
-msgstr "제시한 액수가 불충분합니다. 거래를 계속하려면 몫을 변경하세요."
+msgstr "금액이 부족합니다. 거래를 계속하려면 제안할 품목을 변경하세요."
 
 #: Game/Public/Game/GUI/Widgets/Trade.xaml:699
 msgctxt "hcb2f0ae8g4b71g475bgbf9bgb026d2d5cdcb"
@@ -6944,7 +6944,7 @@ msgid ""
 "A roll of the die decides turn order - this is called Initiative and is "
 "influenced by your <LSTag Tooltip=\"Dexterity\">Dexterity</LSTag>."
 msgstr ""
-"주사위를 굴려 나온 값에 따라 턴 순서가 정해지며, 이를 주도권이라 합니다. 주도권은 당신의 <LSTag Tooltip="
+"주사위를 굴려 나온 값에 따라 턴 순서가 정해지며, 이를 우선권이라 합니다. 우선권은 당신의 <LSTag Tooltip="
 "\"Dexterity\">민첩</LSTag>에 영향을 받습니다."
 
 #: Game/Public/Game/GUI/Widgets/Tutorial.xaml:201
@@ -6996,6 +6996,7 @@ msgid "Turn-Based Mode"
 msgstr "턴제 모드"
 
 #: Game/Public/Game/GUI/Widgets/Trade_c.xaml:724
+#, fuzzy
 msgctxt "h4f67e15egaae2g44ccgaf44g70a35132246c"
 msgid "Balance"
 msgstr "균형 맞추기"
