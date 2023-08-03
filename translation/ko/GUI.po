@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-08-01 13:53+0000\n"
+"PO-Revision-Date: 2023-08-03 00:53+0000\n"
 "Last-Translator: 머제이 <djay988@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
@@ -27,7 +27,7 @@ msgctxt "hda062ae6g33a4g408fgac35gba055bc72cdb"
 msgid ""
 "You know how to play a variety of musical instruments and are able to "
 "entertain a crowd with them."
-msgstr "당신은 다양한 악기들을 연주할 수 있으며, 이로 하여금 군중들을 즐겁게 만들 수 있습니다."
+msgstr "당신은 다양한 악기들을 연주하여 군중을 즐겁게 만들 수 있습니다."
 
 #. key = Shared_Passive_WildMagic_Description
 #: Shared/Public/Shared/Localization/Stats/Passive_Description.lsx:1702
@@ -51,10 +51,10 @@ msgid ""
 "Type=\"Spell\" Tooltip=\"Target_Help\">Helps</LSTag> you, you regain 1 hit "
 "point."
 msgstr ""
-"체력이 0이 되면, 당신은 기절 상태가 되며 죽음 내성 굴림이 강제됩니다. 3번의 내성 굴림이 성공하면, 출혈이 멈추고 상태가 "
-"안정됩니다. 3번 실패하면, 죽습니다.\n"
+"체력이 0이 되면, 당신은 기절 상태가 되며 죽음 내성 굴림을 굴리게 됩니다. 3회 내성 굴림에 성공하면, 출혈이 멈추고 상태가 "
+"안정됩니다. 3회 실패하면, 죽습니다.\n"
 "\n"
-"어떤 방식으로든 체력을 회복하면, 이 상태는 제거됩니다. 아군의 <LSTag Type=\"Spell\" Tooltip="
+"어떤 방식으로든 체력을 회복하면, 이 상태는 해제됩니다. 아군의 <LSTag Type=\"Spell\" Tooltip="
 "\"Target_Help\">도움</LSTag>을 받으면, 당신은 1의 체력을 회복합니다."
 
 #. key = Shared_Status_BOOST_ENCUMBERED_LIGHT_Description
@@ -67,7 +67,7 @@ msgid ""
 "<LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> reduced, and Jump "
 "distance is halved."
 msgstr ""
-"짐을 너무 많이 들고 있습니다.\n"
+"짐이 너무 무겁습니다.\n"
 "\n"
 "<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag> 가 감소하고, 도약 거리가 절반으로 감소합니다."
 
@@ -85,7 +85,7 @@ msgid ""
 "Strength, Dexterity, and Constitution <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throws</LSTag>."
 msgstr ""
-"짐을 심각하게 많이 들고 있습니다.\n"
+"짐이 지나치게 무겁습니다.\n"
 "\n"
 "<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 크게 감소하고, 무언가를 타고 오르거나 도약할 수 "
 "없습니다. 또한 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag> 과 <LSTag Tooltip="
@@ -651,7 +651,7 @@ msgstr "다시 굴리기"
 #: Game/Public/Game/GUI/Widgets/ActiveRoll.xaml:1576
 msgctxt "he6adfaa2g81bag42f1g844egb23de6220031"
 msgid "Use Inspiration"
-msgstr "영감 사용"
+msgstr "고양감 사용"
 
 #: Game/Public/Game/GUI/Widgets/ActiveRoll_c.xaml:998
 #: Game/Public/Game/GUI/Widgets/ActiveRoll.xaml:1604
@@ -997,14 +997,14 @@ msgid ""
 "<LSTag Tooltip=\"BackgroundGoals\">Background Goals</LSTag> to gain more "
 "Inspiration."
 msgstr ""
-"영감 <LSTag Type=\"Image\" Info=\"Inspiration\"/> 을 소모해 <LSTag Tooltip="
+"고양감 <LSTag Type=\"Image\" Info=\"Inspiration\"/> 을 소모해 <LSTag Tooltip="
 "\"AbilityCheck\">능력치 판정</LSTag>을 다시 굴릴 수 있습니다. <LSTag Tooltip="
-"\"BackgroundGoals\">배경 목표</LSTag>를 완료해 영감을 더 획득하세요."
+"\"BackgroundGoals\">배경 목표</LSTag>를 완료해 고양감을 더 획득하세요."
 
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:3272
 msgctxt "h62619d26gd851g48a3g9c91ge21ad5928086"
 msgid "Inspiration"
-msgstr "영감"
+msgstr "고양감"
 
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:3295
 msgctxt "h1e646e86g3c05g4c96g9fd8g9c521871d554"
@@ -1620,7 +1620,7 @@ msgstr "일지"
 #: Game/Public/Game/GUI/Widgets/JournalInspiration_c.xaml:179
 msgctxt "hf915ab82gc327g4b89g9380g9befc60565d6"
 msgid "Inspiration"
-msgstr "영감"
+msgstr "고양감"
 
 #: Game/Public/Game/GUI/Library/JournalTemplates.xaml:533
 #: Game/Public/Game/GUI/Widgets/JournalMap.xaml:104
@@ -1859,12 +1859,12 @@ msgstr "중립 턴"
 #: Game/Public/Game/GUI/Library/NotificationLib.xaml:1064
 msgctxt "h857fb3cfg8f40g4944g8c5ag3074a9f67789"
 msgid "Inspiration gained"
-msgstr "영감 획득"
+msgstr "고양감 획득"
 
 #: Game/Public/Game/GUI/Library/NotificationLib.xaml:1068
 msgctxt "h9dff545dg663cg4affg9115g4a5605481d24"
 msgid "Inspiration gained"
-msgstr "영감 획득"
+msgstr "고양감 획득"
 
 #: Game/Public/Game/GUI/Library/NotificationLib.xaml:1094
 msgctxt "hac1d153bgf183g47edgb7b4g4f793f9c60fe"
@@ -3096,7 +3096,7 @@ msgid ""
 "Roll 2 dice and use the higher value. Negated by <LSTag Tooltip="
 "\"Disadvantage\">Disadvantage</LSTag>."
 msgstr ""
-"두 개의 주사위를 굴려 높은 값을 사용합니다. <LSTag Tooltip=\"Disadvantage\">불리점</LSTag> 에 의해 "
+"두 개의 주사위를 굴려 높은 값을 사용합니다. <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>에 의해 "
 "무효화 됩니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:1778
@@ -3152,7 +3152,7 @@ msgid ""
 "A set of optional, secret goals that reward roleplaying with <LSTag Tooltip="
 "\"Inspiration\">Inspiration</LSTag>."
 msgstr ""
-"숨겨져 있는 선택 목표이며, 완료시 <LSTag Tooltip=\"Inspiration\">영감</LSTag>을 보상으로 얻습니다."
+"숨겨져 있는 선택 목표이며, 완료 시 <LSTag Tooltip=\"Inspiration\">고양감</LSTag>을 보상으로 얻습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:1820
 msgctxt "h5ea38d02gf6cbg407aga1adg879a5b259f8d"
@@ -3163,9 +3163,9 @@ msgid ""
 "\n"
 "You can get camp supplies from traders or by exploring the world."
 msgstr ""
-"야영지에서 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag> 을 하여 모든 <LSTag Tooltip="
-"\"HitPoints\">체력</LSTag>과 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag> 을 회복 할 "
-"수 있습니다.\n"
+"야영지에서 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취해 모든 <LSTag Tooltip="
+"\"HitPoints\">체력</LSTag>과 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 회복 할 수 "
+"있습니다.\n"
 "\n"
 "세계를 여행하거나 상인들과 거래해서 야영 물자를 얻을 수 있습니다."
 
@@ -3210,8 +3210,8 @@ msgid ""
 "Roll 2 dice and use the lower value. Negated by <LSTag Tooltip=\"Advantage\""
 ">Advantage</LSTag>."
 msgstr ""
-"주사위를 두 번 굴려 둘 중 낮은 값을 사용합니다. <LSTag Tooltip=\"Advantage\">이점</LSTag> 에 의해 "
-"무효화 됩니다."
+"주사위를 두 번 굴려 둘 중 낮은 값을 사용합니다. <LSTag Tooltip=\"Advantage\">이점</LSTag>에 의해 무효화 "
+"됩니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:1883
 msgctxt "h69e74667g16c7g4826g823ege6fc84ef8d77"
@@ -4729,12 +4729,11 @@ msgid "from"
 msgstr "다음으로부터:"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7937
-#, fuzzy
 msgctxt "h87e79fa7gcd5eg41ceg8f66g245868d1fedf"
 msgid ""
 "If your dice roll + modifiers is equal to or higher than the target, you "
 "succeed your"
-msgstr "만약 당신의 주사위 굴림 결과 + 수정치가 대상 이상이라면, 당신의 굴림은 성공합니다"
+msgstr "주사위 굴림 값 + 수정치의 합이 대상 이상이라면, 굴림이 성공합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8107
 msgctxt "h2d431f82g4984g4294ga8edg944f01925773"
@@ -5844,7 +5843,7 @@ msgstr "없음"
 #, fuzzy
 msgctxt "h8ece5877g4a75g405cg87d2gcd3a8dbc63a2"
 msgid "Toggle View"
-msgstr "토글 뷰"
+msgstr "시점 전환"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5330
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5347
@@ -5959,7 +5958,7 @@ msgid ""
 "Inspiration, completing Background Goals only grants Experience."
 msgstr ""
 "캐릭터가 해당 캐릭터 배경에 걸맞은 행동을 수행하면, 경험치를 얻고 <LSTag Tooltip=\"Inspiration\""
-">영감<LSTag Type=\"Image\" Info=\"Inspiration\"/></LSTag>을 받습니다. 영감은 <LSTag "
+">고양감<LSTag Type=\"Image\" Info=\"Inspiration\"/></LSTag>을 받습니다. 고양감은 <LSTag "
 "Tooltip=\"AbilityCheck\">능력치 판정</LSTag> 굴림을 다시 하는 데에 소모할 수 있습니다.\n"
 "\n"
 "영감은 총 4개까지 획득 가능합니다. 만약 영감이 최대치에 도달했다면, 배경 목표를 완료해도 경험치만 얻습니다."
@@ -5968,7 +5967,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/JournalInspiration_c.xaml:355
 msgctxt "ha38be42dg57c9g4347g880bg4776bb1fcdad"
 msgid "+ [1] Inspiration"
-msgstr "영감 + [1]"
+msgstr "고양감 + [1]"
 
 #: Game/Public/Game/GUI/Widgets/Insert_c.xaml:170
 msgctxt "h790fbb56gd88fg43d0g9dc9g82c8aad20930"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-08-01 13:53+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-08-03 00:53+0000\n"
+"Last-Translator: 머제이 <djay988@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/system/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -346,7 +346,7 @@ msgstr "주문책"
 
 msgctxt "hccf10b5eg7400g48beg8523gb20b5431dd4d"
 msgid "Inspiration"
-msgstr "영감"
+msgstr "고양감"
 
 msgctxt "ha190724agc4afg4431g804agc1f7e0aa2a49"
 msgid "Jump"
@@ -6068,7 +6068,7 @@ msgstr "회복 굴림"
 msgctxt "h5d3abc99ge3ecg4131ga6a0gb1cffa9aaa28"
 msgid ""
 "[1] completed [2]: <LSTag Tooltip=\"Inspiration\">Inspiration</LSTag> gained."
-msgstr "[1]: [2] 완료: <LSTag Tooltip=\"Inspiration\">영감</LSTag> 획득."
+msgstr "[1]: [2] 완료: <LSTag Tooltip=\"Inspiration\">고양감</LSTag> 획득."
 
 msgctxt "hb7fa126aged51g4db2ga7d5gd806ead82e45"
 msgid "Gained from Background: [1]"
@@ -6676,12 +6676,10 @@ msgctxt "hbe20c832g6632g4d8dg924eg34e3ec19ef65"
 msgid "Restart required."
 msgstr "재시작 필요함."
 
-#, fuzzy
 msgctxt "hcd8f30b5g33a6g434ag8487gd4a707bb8b9f"
 msgid "Saved!"
 msgstr "내성 굴림 성공!"
 
-#, fuzzy
 msgctxt "hd4ce7ddegff56g46e8gafffg3799ab07017b"
 msgid "Save Failed!"
 msgstr "내성 굴림 실패!"
@@ -6779,15 +6777,14 @@ msgctxt "hf83cebb8gf2d3g4c00gbb63g92099eb9b887"
 msgid "Choose Actions"
 msgstr "행동 선택"
 
-#, fuzzy
 msgctxt "h1da3ed50g0edbg4a9fga77fg314584fc0e15"
 msgid ""
 "All spells except <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> require <LSTag "
 "Tooltip=\"SpellSlot\">spell slots</LSTag> to cast, unless an ability states "
 "otherwise."
 msgstr ""
-"주문을 시전할 수 있는 상태에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>을 제외한 모든 주문은 시전을 위해 "
-"<LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 필요로 합니다."
+"주문 시전 시에 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>을 제외한 모든 주문은 <LSTag Tooltip="
+"\"SpellSlot\">주문 슬롯</LSTag>을 필요로 합니다."
 
 msgctxt "ha44392d7g8bddg48b3gb92cg2a49baee95ea"
 msgid "Class Passives"
@@ -7396,11 +7393,11 @@ msgstr "오른쪽 마우스 버튼"
 
 msgctxt "h66561e21g3159g4733g85adg40b40f4ce070"
 msgid "Mouse X1"
-msgstr ""
+msgstr "마우스 사이드버튼 1"
 
 msgctxt "hfa9f3935g7b92g4df9g9d2bg7af1472b917d"
 msgid "Mouse X2"
-msgstr ""
+msgstr "마우스 사이드버튼 2"
 
 #, fuzzy
 msgctxt "h0baf36f9geb12g44cdgbfd4g4e15634ffa08"
@@ -7409,7 +7406,7 @@ msgstr "마우스 움직임"
 
 msgctxt "h3f590a24g877fg49c6g9222g8b5df92af31e"
 msgid "Move Mouse Left"
-msgstr ""
+msgstr "마우스 왼쪽으로"
 
 #, fuzzy
 msgctxt "h3e7d16b3g98dcg4f21gaebag29595a2b9ac9"
@@ -7428,11 +7425,11 @@ msgstr "마우스 아래로"
 
 msgctxt "h908da040g3627g4190gb77cg12dc39db95a0"
 msgid "Mouse Scroll Right"
-msgstr ""
+msgstr "마우스 스크롤 오른쪽"
 
 msgctxt "h765f6371g3c54g4a6fgb371g8d246a95b61a"
 msgid "Mouse Scroll Left"
-msgstr ""
+msgstr "마우스 스크롤 온쪽"
 
 msgctxt "h3e785bacg5689g4191gb94bg9996c324554f"
 msgid "Mouse Scroll Up"
@@ -7484,19 +7481,19 @@ msgstr "다음"
 
 msgctxt "h244efd9ag96feg4951gaf8bg7cf8b77e37ee"
 msgid "Selection Up"
-msgstr ""
+msgstr "선택 위쪽"
 
 msgctxt "h7ca6bbecg46fag4469g8d64g436af0b28809"
 msgid "Selection Down"
-msgstr ""
+msgstr "선택 아래쪽"
 
 msgctxt "h5ed95ceageb5cg498cgaec0gd8370f6d6655"
 msgid "Selection Left"
-msgstr ""
+msgstr "선택 왼쪽"
 
 msgctxt "h2258e306g0523g4a55g843egcce02466ce92"
 msgid "Selection Right"
-msgstr ""
+msgstr "선택 오른쪽"
 
 msgctxt "h899dc9a1g2d50g4853g8c8dg095f3b278114"
 msgid ""
@@ -7504,20 +7501,22 @@ msgid ""
 "strongly advised that you do not continue on this savegame."
 msgstr "경고! 세이브 파일에서 변조 또는 손상이 감지되었습니다.<br> 이 세이브로 플레이하지 않는 것을 추천합니다."
 
+#, fuzzy
 msgctxt "h0580f26cg207fg494cgbe80g9d468b0c4996"
 msgid ""
 "We were unable to create a working story. Your main adventure might be "
 "invalid. The game will continue with the story from the savegame."
-msgstr ""
+msgstr "이야기를 구성하는 데에 실패했습니다. 메인 캠페인에 결함이 있을 수 있습니다. 저장된 게임에서 이야기를 계속 진행합니다."
 
+#, fuzzy
 msgctxt "h1145733eg9ec6g4f50ga44bg313f8a4e1cb2"
 msgid ""
 "We were unable to create a working story. Your add-on setup might be "
 "invalid. The game will continue with the setup from the savegame."
-msgstr ""
+msgstr "이야기를 구성하는 데에 실패했습니다. 애드온 설정에 결함이 있을 수 있습니다. 저장된 게임에서 이야기를 계속 진행합니다."
 
 msgctxt "h966d6fabgc29cg4602gad0dg0c50f9418e24"
 msgid ""
 "We were unable to create a working story. Your add-on setup might be "
 "invalid. The game will continue with the story from the main adventure."
-msgstr ""
+msgstr "이야기를 구성하는 데에 실패했습니다. 애드론 설정에 결함이 있을 수 있습니다. 메인 캠페인에서 이야기를 계속 진행합니다."
