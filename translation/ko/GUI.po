@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-20 02:43+0900\n"
-"PO-Revision-Date: 2023-08-03 00:53+0000\n"
-"Last-Translator: 머제이 <djay988@gmail.com>\n"
+"PO-Revision-Date: 2023-08-05 17:53+0000\n"
+"Last-Translator: 벨루크 <bellukevt@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1058,9 +1058,10 @@ msgstr "범위에 있는 동안"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:811
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3058
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3064
+#, fuzzy
 msgctxt "h50ea69dagf61eg466fga47eg530c55933114"
 msgid "Until Long Rest"
-msgstr "휴식할 때 까지"
+msgstr "긴 휴식 전까지"
 
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:3348
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:814
@@ -1894,7 +1895,7 @@ msgstr "[1] 아이템이 여행자의 궤짝으로 이동되었습니다."
 #: Game/Public/Game/GUI/Widgets/CombatLog.xaml:103
 msgctxt "h8eb32f43g65dfg4691ga17agca8c8e91bf78"
 msgid "[1] is pointing at something!"
-msgstr "[1]: 누군가를 가리킴!"
+msgstr "[1]: 무언가를 가리킴!"
 
 #: Game/Public/Game/GUI/Widgets/CombatLog.xaml:118
 msgctxt "h8bb590d5gffb3g4acega9a6g54d1ce796626"
@@ -3535,7 +3536,7 @@ msgstr "주문 장거리화"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4750
 msgctxt "hb984e30dgab6ag4f54g883fg2f499f03b5f5"
 msgid "Range"
-msgstr "범위"
+msgstr "사거리"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:2456
 msgctxt "h9dacdfbcg09bag4071gb453g164764a12a95"
@@ -5760,10 +5761,9 @@ msgid ""
 msgstr "<hl>[1]</hl>에게는 다양한 악기를 다루는 재능이 있으며 이를 통해 청중의 분위기를 띄울 수 있습니다."
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4411
-#, fuzzy
 msgctxt "hb9eb8424gbd5eg483bg9ce6g783cad20513d"
 msgid "<hl>[1]</hl> doesn't know how to play any musical instruments."
-msgstr "<hl>[1]</hl>는 악기를 다룰 줄 모릅니다."
+msgstr "<hl>[1]</hl>는 다룰 수 있는 악기가 없습니다."
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4584
 msgctxt "h529efdfdgda98g4ed3g8d1eg46cbf1d0a5e3"
@@ -6099,7 +6099,7 @@ msgstr "배우기"
 #: Game/Public/Game/GUI/Widgets/SpellSelecting.xaml:282
 msgctxt "h76bfc212gcdd9g4c2ag899eg6bbeaf84f1e5"
 msgid "Available"
-msgstr "이용 가능"
+msgstr "사용 가능"
 
 #: Game/Public/Game/GUI/Widgets/LoadGame_c.xaml:58
 #: Game/Public/Game/GUI/Widgets/LoadGame.xaml:29
@@ -6792,7 +6792,7 @@ msgstr "학습한 주문"
 #, fuzzy
 msgctxt "h19bc3d6bg4c93g413fga949g4db364084cf4"
 msgid "In"
-msgstr "들여보내기"
+msgstr "들여오기"
 
 #: Game/Public/Game/GUI/Widgets/SpellSelecting_c.xaml:389
 #: Game/Public/Game/GUI/Widgets/SpellSelecting.xaml:463
