@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-08 23:59+0900\n"
+"POT-Creation-Date: 2023-08-09 00:37+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3580,7 +3580,6 @@ msgstr ""
 #. Icon = Generated_ARM_Gloves_Leather_Shar
 #. Stats = ARM_Gloves_Leather
 #: Shared/Public/Shared/RootTemplates/6c9f69a8-7cf7-4b57-b4e0-64cfaa04fd05.lsx:19
-#, fuzzy
 msgctxt "h1e6bc4dfgf842g4601gb414g85200c99fc03"
 msgid "These supple gloves provide both flexibility and protection."
 msgstr "유연하면서 방어력도 갖춘 만능 장갑입니다."
@@ -3703,7 +3702,6 @@ msgstr ""
 #. Icon = Item_ARM_Gloves_Metal
 #. Stats = ARM_Gloves_Metal
 #: Shared/Public/SharedDev/RootTemplates/c1531ce8-a2ce-4606-9cb7-5ed6d56b69a6.lsx:21
-#, fuzzy
 msgctxt "h9ee0de95g1979g4ef5g9910gc6d4e2b4dd7e"
 msgid ""
 "Made from steel hammered thin, these gauntlets are a fine investment for any "
@@ -4614,7 +4612,6 @@ msgstr ""
 #. Icon = Item_ARM_Helmet_BG_Watch_Metal_A
 #. Stats = ARM_Helmet_Metal
 #: Shared/Public/Shared/RootTemplates/b2cffb00-b79a-49fa-b150-a895a16c1fd4.lsx:25
-#, fuzzy
 msgctxt "hb6e378d6g1efdg446dgafd3g43218a656a56"
 msgid "Any padding that once lined this helmet has long since worn away."
 msgstr "투구를 감싸고 있던 패딩은 이미 오래 전에 닳아 없어졌습니다."
@@ -4639,7 +4636,6 @@ msgstr ""
 #. Icon = Item_ARM_Helmet_BG_Watch_Metal_B
 #. Stats = ARM_Helmet_Metal
 #: Shared/Public/Shared/RootTemplates/673f429b-cc2e-411e-92a8-6b07e1410fd5.lsx:25
-#, fuzzy
 msgctxt "h56c747c1g90c3g4210gbd07ga4233257af43"
 msgid "Any padding that once lined this helmet has long since worn away."
 msgstr "투구를 감싸고 있던 패딩은 이미 오래 전에 닳아 없어졌습니다."
@@ -6319,7 +6315,6 @@ msgstr "소서러 로브"
 #. Icon = Item_ARM_Robe_Sorcerer
 #. Stats = ARM_Robe_Body_Sorcerer
 #: Shared/Public/Shared/RootTemplates/37be86c0-f4af-48af-86c9-e91c57ce04bc.lsx:17
-#, fuzzy
 msgctxt "h312f9803gd2c7g4d2bg965dg51ad4986a5db"
 msgid ""
 "Neat leather bands keep the trailing cloth secure. Singed sleeves are a "
@@ -7208,7 +7203,6 @@ msgstr ""
 #. Icon = Generated_UNI_DaisyDress_White
 #. Stats = ARM_Vanity_ElegantRobe
 #: Shared/Public/Shared/RootTemplates/2f7aadd5-65ea-4ab6-8c55-88ee584c72df.lsx:18
-#, fuzzy
 msgctxt "h59278aabg63d5g40degb6b6g3dd7dae2ceec"
 msgid ""
 "A draped robe made with lightweight fabric. Made for seduction rather than "
@@ -7896,13 +7890,6 @@ msgstr "데논의 장화"
 #. Icon = Item_DEN_VoloOperation_ErsatzEye
 #. Stats = UNI_Volo_ErsatzEye
 #: Gustav/Public/Gustav/RootTemplates/000cfc9f-b973-48e7-a5c8-f2992a47a943.lsx:20
-#, fuzzy
-#| msgid ""
-#| "While the ersatz eye is embedded in your eye socket, you can see through the "
-#| "tiny orb as though it were a normal eye. Can't be removed once "
-#| "inserted.<br><br><i>A hollow bead of white glass, carefully painted to "
-#| "resemble a realistic eye. Its tarnished brass fittings hum with a tinge of "
-#| "magic.</i>"
 msgctxt "h21bb916fgdd91g4e06g9ff4g6848d458c457"
 msgid ""
 "While the ersatz eye is embedded in your eye socket, you can see through the "
@@ -7912,9 +7899,10 @@ msgid ""
 "eye. Its tarnished brass fittings hum with a tinge of magic.</i>"
 msgstr ""
 "안구에 의안이 대신 박혀 있는 동안, 작은 오브를 통해 정상적인 눈처럼 볼 수 "
-"있다. 일단 넣으면 다시는 빼지 못한다. <br><br><i>속이 빈 하얀 유리 구슬로, "
-"실제 눈알처럼 보이도록 세심하게 색칠되었습니다. 빛 바랜 황동 부품에서는 "
-"마법의 기운이 웅웅거립니다.</i>"
+"있다. 일단 넣으면 다시는 빼지 못한다. \n"
+"\n"
+"<i>속이 빈 하얀 유리 구슬로, 실제 눈알처럼 보이도록 세심하게 색칠되었습니다. "
+"빛 바랜 황동 부품에서는 마법의 기운이 웅웅거립니다.</i>"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/000cfc9f-b973-48e7-a5c8-f2992a47a943.lsx
 #. NodeID = GameObjects
@@ -8161,7 +8149,6 @@ msgstr "독성 점액 폭탄"
 #. Icon = Item_LOOT_HAG_Throwable_Goo_Ball_A_Poison_A
 #. Stats = QUEST_HAG_GrenadeFire
 #: Shared/Public/SharedDev/RootTemplates/d43f569e-af7b-44f6-9a70-615ceb786b78.lsx:24
-#, fuzzy
 msgctxt "h860aa3e1g8ea4g4889gb992gac947a01e3b9"
 msgid ""
 "A soft ball of green slime. Thick drops slide down your fingers, stinging "
@@ -8191,7 +8178,6 @@ msgstr ""
 #. Stats = OBJ_GenericImmutableObject
 #. Type = item
 #: Gustav/Public/GustavDev/RootTemplates/9b1bff6d-9973-4a1a-86f7-ddaa87745adb.lsx:16
-#, fuzzy
 msgctxt "h53f00d56g6918g4027gaa10g5f02c5bfee1f"
 msgid ""
 "This lightweight armour appears to have been quickly produced, skipped "
@@ -17770,7 +17756,6 @@ msgstr ""
 #. Icon = Item_ARM_CircletOfBlasting
 #. Stats = ARM_CircletOfBlasting
 #: Gustav/Public/GustavDev/RootTemplates/388ee6e1-35d0-4459-99b3-7763dd0876b0.lsx:19
-#, fuzzy
 msgctxt "hc0ef24dbg8132g46fagb5ceg3c4968240d41"
 msgid ""
 "This delicate circlet grants its wearer the ability to cast the Scorching "
@@ -20428,7 +20413,6 @@ msgstr ""
 #. Icon = Item_ARM_Shar_Crown_A_Broken
 #. Stats = ARM_Helmet_Metal
 #: Shared/Public/SharedDev/RootTemplates/174904fa-69fb-4751-b40a-3fcc25774804.lsx:25
-#, fuzzy
 msgctxt "h638c910cgfbb8g488bgbdecg2d1ee38dff80"
 msgid ""
 "Battered by age and use, this once-fine helmet feels like a ghost of a "
@@ -20562,7 +20546,6 @@ msgstr "류트"
 #. Icon = Item_TOOL_GEN_Music_Guitar_Lute_A
 #. Stats = ARM_Instrument_Lute_B
 #: Shared/Public/Shared/RootTemplates/410229c5-ac20-4d0c-9205-af557abe9782.lsx:26
-#, fuzzy
 msgctxt "hae22dbe0gd1e4g4366gaa89gd780058f9443"
 msgid ""
 "Many a bard's first instrument, the lute is heard in taverns all across "
@@ -21592,7 +21575,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_WPN_AUTOMN_Glaive_A_0
 #: Shared/Public/Shared/RootTemplates/7507770e-7cef-46b5-8e5d-454d8fedcb6a.lsx:28
-#, fuzzy
 msgctxt "h17c42596g1d6bg4285gb7bfg2effe64a6fe6"
 msgid "Simple but sharp. The shaft of this glaive is worn smooth with use."
 msgstr "단순하지만 날카롭습니다. 이 글레이브의 자루는 사용할수록 부드럽게 마모됩니다."
@@ -21627,7 +21609,6 @@ msgstr "글레이브"
 #. Icon = Item_WPN_BREWER_BrewingLadle_A
 #. Stats = WPN_LightHammer_1
 #: Shared/Public/SharedDev/RootTemplates/96df6fd6-a688-47ab-b448-0b6d27d1cf1d.lsx:23
-#, fuzzy
 msgctxt "h94e7f078g4e72g49eaga2e3g8ab836dbdde4"
 msgid ""
 "A skilful smith decorated the wooden handle with a fine golden filigree."
@@ -21791,7 +21772,6 @@ msgstr ""
 #. Icon = Item_WPN_Djinni_Scimitar_A
 #. Stats = WPN_Scimitar
 #: Shared/Public/SharedDev/RootTemplates/1576903a-cb77-4a05-be24-1714d8c61e34.lsx:23
-#, fuzzy
 msgctxt "h0ef95e3cge523g4106g8699g79242a392af6"
 msgid ""
 "This human-made scimitar falls far short of replicating the quality of the "
@@ -22896,7 +22876,6 @@ msgstr "계약결속 배틀액스"
 #. Icon = Item_WPN_HUM_BoneSaw_A
 #. Stats = WPN_Bonesaw
 #: Shared/Public/SharedDev/RootTemplates/b9739be6-7c2b-4fe9-be36-13ff1094e79c.lsx:24
-#, fuzzy
 msgctxt "hf070ba15g450cg442egaf5eg41042fccaecd"
 msgid ""
 "The saw's teeth are blunt and rusted, it's beautiful metalwork barely "
@@ -23401,7 +23380,6 @@ msgstr "도리깨 +2"
 #. Stats = WPN_SkullFlail
 #. Type = item
 #: Shared/Public/SharedDev/RootTemplates/4c86f6ac-5829-41f2-a3f0-d3e893334961.lsx:9
-#, fuzzy
 msgctxt "h39cc9156ga97cg4d8dgb162g6b19da29f89c"
 msgid "A browning piece of brain sticks stubbornly to one of the spikes."
 msgstr "갈색으로 변한 뇌 조각이 가시 하나에 끈적하게 붙어있습니다."
@@ -23425,7 +23403,6 @@ msgstr ""
 #. Type = item
 #. Stats = WPN_SkullFlail_1
 #: Shared/Public/SharedDev/RootTemplates/05ca18da-41f4-4385-b370-0f75a989e119.lsx:22
-#, fuzzy
 msgctxt "h4c430f0dg3ea0g4bd0gb14ag8726215af138"
 msgid "A browning piece of brain sticks stubbornly to one of the spikes."
 msgstr "갈색으로 변한 뇌 조각이 가시 하나에 끈적하게 붙어있습니다."
@@ -24518,7 +24495,6 @@ msgstr "창"
 #. Icon = Item_WPN_HUM_Leech_A
 #. Stats = WPN_Leech
 #: Shared/Public/SharedDev/RootTemplates/81158eec-1fd0-4fd7-8b02-ce7f5e45f8b5.lsx:23
-#, fuzzy
 msgctxt "h4b3dce7fg1ffbg4fa7gb819g88dbe579f2cf"
 msgid ""
 "Though blood and age have rusted the mechanism, a good twist can still make "
@@ -25012,7 +24988,6 @@ msgstr "롱소드 +1"
 #. Icon = Item_WPN_HUM_Longsword_A_1
 #. Stats = WPN_Longsword_1
 #: Shared/Public/Shared/RootTemplates/970c962d-dca1-4b90-8d02-81a4e59e3f08.lsx:23
-#, fuzzy
 msgctxt "h68a0bf82gdc4dg488dgb182gce197c669745"
 msgid ""
 "A complex filigree wraps around the base of this blade - the runes on the "
@@ -25129,7 +25104,6 @@ msgstr ""
 #. Type = item
 #. Stats = WPN_Longsword_GuardianOfFaith_Good
 #: Shared/Public/SharedDev/RootTemplates/dd0e60fd-a334-411b-97cf-fa6a015c578b.lsx:21
-#, fuzzy
 msgctxt "h73c7252bg89f5g4b5aga3d8g997f753ec33b"
 msgid ""
 "This longsword never dulls, although an observer may notice it quietly "
@@ -25499,7 +25473,6 @@ msgstr "마울 +2"
 #. Icon = Item_WPN_HUM_Moonblade_A
 #. Stats = WPN_Shortsword
 #: Shared/Public/SharedDev/RootTemplates/0a6f620d-32f4-499a-9c11-db105441a57a.lsx:22
-#, fuzzy
 msgctxt "h719a5972geac7g48f7gbcacg1de10d666bc5"
 msgid ""
 "A common and effective sword, carried by adventurers, thieves, and watchmen "
@@ -26555,7 +26528,6 @@ msgstr ""
 #. Icon = Item_WPN_HUM_Shortbow_A_0
 #. Stats = WPN_Shortbow
 #: Shared/Public/Shared/RootTemplates/c5403c1d-f372-43e1-927a-9189e9e3545d.lsx:25
-#, fuzzy
 msgctxt "h6e6de56cg3553g4832gae52g0bcfa3a1ffb6"
 msgid ""
 "This small, agile bow bears a beautiful elven string, easy to draw but tough "
@@ -26999,7 +26971,6 @@ msgstr ""
 #. Stats = WPN_Quarterstaff
 #. Type = item
 #: Shared/Public/SharedDev/RootTemplates/9515172b-511a-44dc-bf97-8b63bca4ea10.lsx:9
-#, fuzzy
 msgctxt "h93cc07cegb7b4g477ag96f6gf75b68df04f0"
 msgid ""
 "The piece of electrum embedded at the top of this staff is filed to a point "
@@ -27076,7 +27047,6 @@ msgstr ""
 #. Icon = Item_WPN_HUM_Syringe_A
 #. Stats = WPN_Syringe
 #: Shared/Public/SharedDev/RootTemplates/75cea463-4395-4600-ad93-7017415b16e3.lsx:23
-#, fuzzy
 msgctxt "haa3d6455gc2f2g448cgb5cfg2fcb860c6285"
 msgid ""
 "The yellowish-green ooze dried to the syringe's long needle gives you the "
@@ -27192,7 +27162,6 @@ msgstr "연습용 검"
 #. Icon = Item_WPN_HUM_Trepan_A
 #. Stats = WPN_Trepan
 #: Shared/Public/SharedDev/RootTemplates/764dcd70-9206-457c-9366-7aa9e3370514.lsx:18
-#, fuzzy
 msgctxt "h0943a085g988ag4130gbe28gce5001f44781"
 msgid ""
 "The soothing jade handle stands in stark contrast to the trepan's gruesome "
@@ -28512,7 +28481,6 @@ msgstr "방패"
 #. Icon = Item_WPN_HUM_Longbow_A_0
 #. Stats = WPN_Sahuagin_Longbow
 #: Shared/Public/SharedDev/RootTemplates/2b72f224-a182-43c7-97e9-dc9a6ba4f9f5.lsx:23
-#, fuzzy
 msgctxt "he8656ba4g416bg4546g9522gd9f4f6f30ddd"
 msgid "Carved enchantments span the length of this supple bow."
 msgstr "유연한 활대에 마법이 새겨져 있습니다."
@@ -28537,7 +28505,6 @@ msgstr ""
 #. Icon = Item_WPN_HUM_Spear_A_0
 #. Stats = WPN_Sahuagin_Spear_A
 #: Shared/Public/SharedDev/RootTemplates/b8878c58-e510-4c2f-97f0-da9cc442a75f.lsx:23
-#, fuzzy
 msgctxt "h34f2afcbgf5f6g4d42g9292g8da65a18c3e9"
 msgid "An aged spear, its steel head nicked by the blows of a dozen battles. "
 msgstr "수십번의 전투 끝에 창끝이 닳아 버린 오래된 창입니다. "
@@ -28562,7 +28529,6 @@ msgstr ""
 #. Icon = Item_WPN_HUM_Spear_A_0
 #. Stats = WPN_Sahuagin_Spear_B
 #: Shared/Public/SharedDev/RootTemplates/8323e1ec-1588-4044-9119-70b87a5fe938.lsx:23
-#, fuzzy
 msgctxt "hfe164fd2g977fg43f2g821fgd4d9946c59c0"
 msgid ""
 "Forged by dwarven hands, and prized by all warriors who wish to keep their "

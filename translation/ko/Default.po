@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-08 23:59+0900\n"
+"POT-Creation-Date: 2023-08-09 00:37+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2213,12 +2213,6 @@ msgstr ""
 #. Name = S_TUT_Lab_AdventurerBrainJar
 #. Type = item
 #. 
-#. FilePath = Gustav/Mods/Gustav/Globals/TUT_Avernus_C/Items/_merged.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. LevelName = TUT_Avernus_C
-#. Name = S_TUT_Lab_AdventurerBrainJar
-#. Type = item
 #. FilePath = Gustav/Mods/GustavDev/Globals/TUT_Avernus_C/Items/_merged.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -2239,13 +2233,6 @@ msgstr "노예의 정신"
 #. Stats = TUT_Lab_ClericBrainJar
 #. Type = item
 #. 
-#. FilePath = Gustav/Mods/Gustav/Globals/TUT_Avernus_C/Items/_merged.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. LevelName = TUT_Avernus_C
-#. Name = S_TUT_Lab_ClericBrainJar
-#. Stats = TUT_Lab_ClericBrainJar
-#. Type = item
 #. FilePath = Gustav/Mods/GustavDev/Globals/TUT_Avernus_C/Items/_merged.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -5904,7 +5891,6 @@ msgstr ""
 #. HandlePath = DisplayName
 #. Identifier = CE_ActionResource_SneakAttack_Charge_False
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1023
-#, fuzzy
 msgctxt "h1880aa89g9cbdg47eeg889dg807d969b89db"
 msgid "Can only be used once per turn."
 msgstr "턴 당 한 번만 사용할 수 있습니다."
@@ -6061,9 +6047,11 @@ msgstr "운동선수"
 #| msgid ""
 #| "When you are attacked with a melee attack, you use your reaction to increase "
 #| "your <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> by 2, possibly "
-#| "causing the attack to miss.<br><br> Prerequisite: you must be wielding a "
-#| "<LSTag Tooltip=\"Finesse\">Finesse Weapon</LSTag> with which you are <LSTag "
-#| "Tooltip=\"Proficiency\">Proficient</LSTag>."
+#| "causing the attack to miss.\n"
+#| "\n"
+#| " Prerequisite: you must be wielding a <LSTag Tooltip=\"Finesse\">Finesse "
+#| "Weapon</LSTag> with which you are <LSTag Tooltip=\"Proficiency\""
+#| ">Proficient</LSTag>."
 msgctxt "hdfa3690dg2789g4c23g89f4g1200340433ed"
 msgid ""
 "When attacked while wielding a <LSTag Tooltip=\"Finesse\">Finesse Weapon</"
@@ -6074,8 +6062,9 @@ msgid ""
 "Class</LSTag>, possibly causing the attack to miss. "
 msgstr ""
 "근접 공격을 받으면, 반응 행동을 사용해 <LSTag Tooltip=\"ArmourClass\""
-">방어도</LSTag>를 2 만큼 증가시켜, 공격을 빗나가게 할 수 있습니다.<br><br> "
-"필요 조건: <LSTag Tooltip=\"Proficiency\">숙련된</LSTag> <LSTag Tooltip="
+">방어도</LSTag>를 2 만큼 증가시켜, 공격을 빗나가게 할 수 있습니다.\n"
+"\n"
+" 필요 조건: <LSTag Tooltip=\"Proficiency\">숙련된</LSTag> <LSTag Tooltip="
 "\"Finesse\">기교 무기</LSTag>를 착용 중이어야 합니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
@@ -6127,9 +6116,11 @@ msgstr "쌍수 전문가"
 #| "When an attack with a Melee Weapon lands a <LSTag Tooltip=\"CriticalHit\""
 #| ">Critical Hit</LSTag> or kills a creature, you can make another <LSTag "
 #| "Tooltip=\"MeleeWeaponAttack\">Melee Weapon Attack</LSTag> as a bonus action "
-#| "that turn. <br><br>When attacking with Heavy Melee Weapons you are <LSTag "
-#| "Tooltip=\"Proficiency\">Proficient</LSTag> with, <LSTag Tooltip=\"AttackRoll"
-#| "\">Attack Rolls</LSTag> take a -5 penalty, but their damage increases by 10."
+#| "that turn. \n"
+#| "\n"
+#| "When attacking with Heavy Melee Weapons you are <LSTag Tooltip=\"Proficiency"
+#| "\">Proficient</LSTag> with, <LSTag Tooltip=\"AttackRoll\">Attack Rolls</"
+#| "LSTag> take a -5 penalty, but their damage increases by 10."
 msgctxt "hea61c527gd53fg46fega454g2bc02f65d75f"
 msgid ""
 "When you land a <LSTag Tooltip=\"CriticalHit\">Critical Hit</LSTag> or kill "
@@ -6145,10 +6136,11 @@ msgid ""
 msgstr ""
 "근접 무기 공격이 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중하거나 "
 "대상을 죽이면, 해당 턴에 추가 행동으로써 <LSTag Tooltip=\"MeleeWeaponAttack\""
-">근접 무기 공격</LSTag>을 할 수 있습니다. <br><br><LSTag Tooltip="
-"\"Proficiency\">숙련된</LSTag> 대형 근접 무기로 공격하는 경우, <LSTag "
-"Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 -5 페널티를 받지만, 피해량이 10 "
-"만큼 증가합니다."
+">근접 무기 공격</LSTag>을 할 수 있습니다. \n"
+"\n"
+"<LSTag Tooltip=\"Proficiency\">숙련된</LSTag> 대형 근접 무기로 공격하는 "
+"경우, <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 -5 페널티를 받지만, "
+"피해량이 10 만큼 증가합니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6566,9 +6558,10 @@ msgstr "공연자"
 #| "\n"
 #| "If a spell forces you to make a Dexterity <LSTag Tooltip=\"SavingThrow\""
 #| ">Saving Throw</LSTag>, you can use your reaction to shield yourself and "
-#| "diminish the effect's damage. <br><br>On a failed save, you only take half "
-#| "damage. On a successful save, you don't take any damage, even if you "
-#| "normally would."
+#| "diminish the effect's damage. \n"
+#| "\n"
+#| "On a failed save, you only take half damage. On a successful save, you don't "
+#| "take any damage, even if you normally would."
 msgctxt "h7d3721fbg8c06g47ceg8584g3b7b26d94174"
 msgid ""
 "You gain a +2 bonus to Dexterity <LSTag Tooltip=\"SavingThrow\">Saving "
@@ -6583,8 +6576,9 @@ msgstr ""
 "LSTag>에 +2 보너스를 얻습니다.\n"
 "\n"
 "주문에 의해 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>이 "
-"요구되면, 반응 행동으로 스스로를 보호해 피해를 줄일 수 있습니다. "
-"<br><br>내성 굴림이 실패한 경우, 절반의 피해만 받습니다. 성공한 경우, 평소와 "
+"요구되면, 반응 행동으로 스스로를 보호해 피해를 줄일 수 있습니다. \n"
+"\n"
+"내성 굴림이 실패한 경우, 절반의 피해만 받습니다. 성공한 경우, 평소와 "
 "마찬가지로 전혀 피해를 입지 않습니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
@@ -15816,16 +15810,20 @@ msgstr "와일드 매직"
 #, fuzzy
 #| msgid ""
 #| "Sorcery Points can be used to alter your spells or create extra <LSTag "
-#| "Tooltip=\"SpellSlot\">spell slots</LSTag>. <br><br>Regain Sorcery Points by "
-#| "taking a <LSTag Tooltip=\"LongRest\">Long Rest</LSTag>."
+#| "Tooltip=\"SpellSlot\">spell slots</LSTag>. \n"
+#| "\n"
+#| "Regain Sorcery Points by taking a <LSTag Tooltip=\"LongRest\">Long "
+#| "Rest</LSTag>."
 msgctxt "hc4b799ebg71fag4e61g8ef1g4840fb1c17a5"
 msgid ""
 "Sorcery Points can be used to alter your spells or create extra <LSTag "
 "Tooltip=\"SpellSlot\">spell slots</LSTag>."
 msgstr ""
 "소서리 포인트를 사용해 주문의 효과를 변경하거나 추가 <LSTag Tooltip="
-"\"SpellSlot\">주문 슬롯</LSTag>을 생성할 수 있습니다. <br><br><LSTag Tooltip="
-"\"LongRest\">긴 휴식</LSTag>을 취하면 소서리 포인트가 재생됩니다."
+"\"SpellSlot\">주문 슬롯</LSTag>을 생성할 수 있습니다. \n"
+"\n"
+"<LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취하면 소서리 포인트가 "
+"재생됩니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -15855,7 +15853,6 @@ msgstr ""
 #. ParamMatch = 0:SpellSlot;1:1
 #. Type = ActionResource
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:999
-#, fuzzy
 msgctxt "hcdce7bceg7784g42a0g8445g6a86bfc68fc2"
 msgid "Level [4] <LSTag Tooltip=\"SpellSlot\">Spell Slot</LSTag> Unlocked"
 msgstr "레벨 [4] <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag> 열림"
@@ -15878,7 +15875,6 @@ msgstr ""
 #. ParamMatch = 0:SpellSlot
 #. Type = ActionResource
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:1007
-#, fuzzy
 msgctxt "hb796c45dg7362g4a88gb56fg14dbfa2130d7"
 msgid "Level [4] <LSTag Tooltip=\"SpellSlot\">Spell Slots</LSTag> Unlocked"
 msgstr "레벨 [4] <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag> 열림"
@@ -15955,15 +15951,6 @@ msgstr "드래곤의 탄력: 방어도"
 #. ParamMatch = 0:TidesOfChaos
 #. Type = ActionResource
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:1042
-#, fuzzy
-#| msgid ""
-#| "Manipulate the forces of chaos to gain <LSTag Tooltip=\"Advantage\""
-#| ">Advantage</LSTag> on your next <LSTag Tooltip=\"AttackRoll\">Attack Roll</"
-#| "LSTag>, <LSTag Tooltip=\"AbilityCheck\">Ability Check</LSTag>, or <LSTag "
-#| "Tooltip=\"SavingThrow\">Saving Throw</LSTag>.<br><br>After Tides of Chaos "
-#| "triggers, the chance of triggering Wild Magic increases for the next spell "
-#| "of Level 1 or higher.<br><br>Recharges after a <LSTag Tooltip=\"ShortRest\""
-#| ">Short</LSTag> or <LSTag Tooltip=\"LongRest\">Long Rest</LSTag>."
 msgctxt "h2ad55c18gcde1g47fcg9e16g739b32d87ebe"
 msgid ""
 "Manipulate the forces of chaos to gain <LSTag Tooltip=\"Advantage\""
@@ -15980,10 +15967,13 @@ msgstr ""
 "혼돈의 힘을 조작해 다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, "
 "<LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>, 또는 <LSTag Tooltip="
 "\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</"
-"LSTag>을 얻습니다.<br><br>혼돈의 파도가 발동되고 나면, 다음 1 레벨 이상 "
-"주문이 와일드 매직을 발현할 확률이 증가합니다.<br><br><LSTag Tooltip="
-"\"ShortRest\">짧은</LSTag> 또는 <LSTag Tooltip=\"LongRest\">긴 휴식</"
-"LSTag>을 취한 뒤 재충전 됩니다."
+"LSTag>을 얻습니다.\n"
+"\n"
+"혼돈의 파도가 발동되고 나면, 다음 1 레벨 이상 주문이 와일드 매직을 발현할 "
+"확률이 증가합니다.\n"
+"\n"
+"<LSTag Tooltip=\"ShortRest\">짧은</LSTag> 또는 <LSTag Tooltip=\"LongRest\""
+">긴 휴식</LSTag>을 취한 뒤 재충전 됩니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16342,9 +16332,10 @@ msgstr "방출계 전공"
 #| msgid ""
 #| "Your body is as resilient as any armour. While not wearing armour, you add "
 #| "your Constitution <LSTag Tooltip=\"AbilityModifier\">Modifier</LSTag> to "
-#| "your <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag>.<br><br>Wearing "
-#| "Heavy Armour impedes your <LSTag Type=\"Spell\" Tooltip=\"Shout_Rage\""
-#| ">Rage</LSTag>."
+#| "your <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag>.\n"
+#| "\n"
+#| "Wearing Heavy Armour impedes your <LSTag Type=\"Spell\" Tooltip=\"Shout_Rage"
+#| "\">Rage</LSTag>."
 msgctxt "h123bce96g3136g4b05ga0bcg548350cf752a"
 msgid ""
 "While not wearing armour, you add your Constitution <LSTag Tooltip="
@@ -16356,8 +16347,10 @@ msgid ""
 msgstr ""
 "당신의 신체는 어떤 방어구 만큼이나 튼튼합니다. 방어구를 입지 않은 상태면, "
 "<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 건강 <LSTag Tooltip="
-"\"AbilityModifier\">수정치</LSTag>를 더합니다.<br><br>중갑을 착용하면 <LSTag "
-"Type=\"Spell\" Tooltip=\"Shout_Rage\">격노</LSTag>가 방해받습니다."
+"\"AbilityModifier\">수정치</LSTag>를 더합니다.\n"
+"\n"
+"중갑을 착용하면 <LSTag Type=\"Spell\" Tooltip=\"Shout_Rage\">격노</LSTag>가 "
+"방해받습니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16431,12 +16424,6 @@ msgstr "야수의 심장 변경"
 #. HandlePath = Description
 #. ExactMatch = ActionResource(ChannelOath,1,0)
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:1217
-#, fuzzy
-#| msgid ""
-#| "You gain the ability to channel the power contained in your Paladin Oath, "
-#| "which you can use to fuel certain actions.<br><Br>Replenished by <LSTag "
-#| "Tooltip=\"ShortRest\">Short</LSTag> or <LSTag Tooltip=\"LongRest\">Long "
-#| "Rest</LSTag>."
 msgctxt "hbaf98b3eg27b9g4035gabdbg0d50a5e51ea3"
 msgid ""
 "You gain the ability to channel the power contained in your Paladin Oath, "
@@ -16445,8 +16432,9 @@ msgid ""
 "Tooltip=\"LongRest\">Long Rest</LSTag>."
 msgstr ""
 "당신의 팔라딘 맹세에 담긴 힘을 끌어내는 능력을 얻어, 특정 행동을 수행할 수 "
-"있습니다.<br><Br><LSTag Tooltip=\"ShortRest\">짧은</LSTag> 또는 <LSTag "
-"Tooltip=\"LongRest\">긴 휴식</LSTag>을 취한 뒤 재충전됩니다."
+"있습니다.\n"
+"<Br><LSTag Tooltip=\"ShortRest\">짧은</LSTag> 또는 <LSTag Tooltip=\"LongRest"
+"\">긴 휴식</LSTag>을 취한 뒤 재충전됩니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -18824,7 +18812,6 @@ msgstr "놀"
 #. HandlePath = Description
 #. Name = Gnoll Flind
 #: Shared/Public/Shared/Races/Races.lsx:29518
-#, fuzzy
 msgctxt "hb7572dacg0a0ag427dg8417g8c8c15b46fcd"
 msgid ""
 "Feral, hyena-like humanoids that slaughter indiscriminately in an attempt to "
@@ -18847,11 +18834,6 @@ msgstr ""
 #. Name = Werewolf
 #. RaceSoundSwitch = Werewolf
 #: Shared/Public/Shared/Races/Races.lsx:29531
-#, fuzzy
-#| msgid ""
-#| "Savage predators that spread their curse through biting other humanoids. "
-#| "<br><br>Most werewolves succumb to their bloodlust, but some learn to "
-#| "control their urges, often under the guidance of Selûne, goddess of the moon."
 msgctxt "h638cd46ag11deg4cddg9976gea3f7c56b9c0"
 msgid ""
 "Savage predators that spread their curse through biting other humanoids. \n"
@@ -18859,9 +18841,10 @@ msgid ""
 "Most werewolves succumb to their bloodlust, but some learn to control their "
 "urges, often under the guidance of Selûne, goddess of the moon."
 msgstr ""
-"다른 인간형을 물어뜯어 그들의 저주를 퍼뜨리는 야만적인 포식자입니다. "
-"<br><br>대부분의 늑대인간은 피의 욕망에 굴복하지만, 일부는 달의 여신 "
-"셀루네의 지도 아래 충동을 조절하는 법을 배우기도 합니다."
+"다른 인간형을 물어뜯어 그들의 저주를 퍼뜨리는 야만적인 포식자입니다. \n"
+"\n"
+"대부분의 늑대인간은 피의 욕망에 굴복하지만, 일부는 달의 여신 셀루네의 지도 "
+"아래 충동을 조절하는 법을 배우기도 합니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -19148,12 +19131,6 @@ msgstr "비홀더"
 #. Name = Mindflayer
 #. RaceSoundSwitch = Aberration
 #: Shared/Public/Shared/Races/Races.lsx:29706
-#, fuzzy
-#| msgid ""
-#| "Psionic tyrants, slavers, and interdimensional voyagers that feed off the "
-#| "brains of thinking creatures.<br><br>Most belong to a hivemind colony "
-#| "devoted to an elder brain, and all work towards achieving the Grand Design - "
-#| "their dream of once more controlling empires that span the multiverse."
 msgctxt "h88b43f8cge277g48abgb36egad3d84945d70"
 msgid ""
 "Psionic tyrants, slavers, and interdimensional voyagers that feed off the "
@@ -19164,9 +19141,11 @@ msgid ""
 "empires that span the multiverse."
 msgstr ""
 "사이오닉 폭군이자 노예상이며, 차원 사이를 항해하는 자들로, 지성을 지닌 "
-"크리쳐의 뇌를 주식으로 삼습니다.<br><br>대부분은 엘더 브레인에게 헌신하는 "
-"하이브마인드 식민지에 속해 있으며, 그들 모두가 다시 한 번 우주를 아우르는 "
-"제국을 지배하려는 꿈인 위대한 설계를 달성하기 위해 노력합니다."
+"크리쳐의 뇌를 주식으로 삼습니다.\n"
+"\n"
+"대부분은 엘더 브레인에게 헌신하는 하이브마인드 식민지에 속해 있으며, 그들 "
+"모두가 다시 한 번 우주를 아우르는 제국을 지배하려는 꿈인 위대한 설계를 "
+"달성하기 위해 노력합니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -19700,11 +19679,6 @@ msgstr "거미"
 #. Name = Dragon
 #. RaceSoundSwitch = Dragon
 #: Shared/Public/Shared/Races/Races.lsx:30003
-#, fuzzy
-#| msgid ""
-#| "Immensely intelligent, ancient, and powerful reptiles that covet wealth. "
-#| "<br><br>Chromatic dragons are selfish, evil, and feared, while metallic "
-#| "dragons are noble, good, and respected by the wise."
 msgctxt "h5ac0c2deg976cg4ee6gb0e4gd3d817622fc7"
 msgid ""
 "Immensely intelligent, ancient, and powerful reptiles that covet wealth. \n"
@@ -19712,9 +19686,10 @@ msgid ""
 "Chromatic dragons are selfish, evil, and feared, while metallic dragons are "
 "noble, good, and respected by the wise."
 msgstr ""
-"매우 영리하고 고대로부터 존재했으며, 강력한 파충류로 부를 탐합니다. "
-"<br><br>색채룡은 이기적이고 사악하며 두려움의 대상이지만, 금속룡은 고귀하고 "
-"선하며 현명한 자에게 존경을 받습니다."
+"매우 영리하고 고대로부터 존재했으며, 강력한 파충류로 부를 탐합니다. \n"
+"\n"
+"색채룡은 이기적이고 사악하며 두려움의 대상이지만, 금속룡은 고귀하고 선하며 "
+"현명한 자에게 존경을 받습니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -21340,9 +21315,6 @@ msgstr ""
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
 #. HandlePath = Text
-#. FilePath = Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
-#. NodeID = TooltipExtraTexts
-#. HandlePath = Text
 #: Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx:184
 #: Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx:192
 msgctxt "hfe8affadg80afg4864g9a64g3299f85ee49a"
@@ -22143,10 +22115,6 @@ msgstr "쓰러진 캐릭터 돕기"
 #. HandlePath = KeyboardDescription
 #. TutorialName = TUT_Help
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:21
-#, fuzzy
-#| msgid ""
-#| "A player character is Downed! Heal them or use the Help action to get them "
-#| "back up.<br> <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
 msgctxt "h4ce545d5g01dbg4249gafddgdd8f69c3be27"
 msgid ""
 "A player character is Downed! Heal them or use the Help action to get them "
@@ -22154,7 +22122,8 @@ msgid ""
 " <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
 msgstr ""
 "플레이어 캐릭터가 쓰러졌습니다! 회복시키거나 도와주기 행동을 사용해 일으켜 "
-"세울 수 있습니다.<br> <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
+"세울 수 있습니다.\n"
+" <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -22643,12 +22612,6 @@ msgstr ""
 #. HandlePath = ControllerDescription
 #. TutorialName = TUT_Shapeshift
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:173
-#, fuzzy
-#| msgid ""
-#| "You have assumed the shape of a beast. You can use the <LSTag Type=\"Spell\" "
-#| "Tooltip=\"Shout_WildShape_Dismiss\">Dismiss Wild Shape</LSTag> action to "
-#| "return to your normal form. <br> <LSTag Type=\"Image\" Info="
-#| "\"DismissShapeshift\"/>"
 msgctxt "h35bebfd0gd39ag4deegb4bdg19970dea94d0"
 msgid ""
 "You have assumed the shape of a beast. You can use the <LSTag Type=\"Spell\" "
@@ -22658,7 +22621,8 @@ msgid ""
 msgstr ""
 "당신은 야수의 형상을 취했습니다. <LSTag Type=\"Spell\" Tooltip="
 "\"Shout_WildShape_Dismiss\">야생 형상 해제</LSTag>를 통해 평소의 모습으로 "
-"돌아갈 수 있습니다. <br> <LSTag Type=\"Image\" Info=\"DismissShapeshift\"/>"
+"돌아갈 수 있습니다. \n"
+" <LSTag Type=\"Image\" Info=\"DismissShapeshift\"/>"
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -22674,12 +22638,6 @@ msgstr "야생 형상 해제"
 #. HandlePath = KeyboardDescription
 #. TutorialName = TUT_Shapeshift
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:175
-#, fuzzy
-#| msgid ""
-#| "You have assumed the shape of a beast. You can use the <LSTag Type=\"Spell\" "
-#| "Tooltip=\"Shout_WildShape_Dismiss\">Dismiss Wild Shape</LSTag> action to "
-#| "return to your normal form. <br> <LSTag Type=\"Image\" Info="
-#| "\"DismissShapeshift\"/>"
 msgctxt "h57cbb55ag14b2g47c0ga87eg6e196ee4f9d4"
 msgid ""
 "You have assumed the shape of a beast. You can use the <LSTag Type=\"Spell\" "
@@ -22689,7 +22647,8 @@ msgid ""
 msgstr ""
 "당신은 야수의 형상을 취했습니다. <LSTag Type=\"Spell\" Tooltip="
 "\"Shout_WildShape_Dismiss\">야생 형상 해제</LSTag>를 통해 평소의 모습으로 "
-"돌아갈 수 있습니다. <br> <LSTag Type=\"Image\" Info=\"DismissShapeshift\"/>"
+"돌아갈 수 있습니다. \n"
+" <LSTag Type=\"Image\" Info=\"DismissShapeshift\"/>"
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -22719,11 +22678,6 @@ msgstr "쓰러진 캐릭터 돕기"
 #. HandlePath = KeyboardDescription
 #. TutorialName = TUT_HelpShapeshift
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:186
-#, fuzzy
-#| msgid ""
-#| "A player character is Downed! Revert to your regular form or switch to "
-#| "another character, then heal them or use the Help action to get them back "
-#| "up.<br> <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
 msgctxt "hcbe59625g47f0g45a2g959cg82038fdd0711"
 msgid ""
 "A player character is Downed! Revert to your regular form or switch to "
@@ -22733,7 +22687,8 @@ msgid ""
 msgstr ""
 "플레이어의 캐릭터가 쓰려졌습니다! 평소의 형상으로 되돌아가거나 다른 캐릭터로 "
 "전환해 해당 캐릭터를 치유하거나 도와주기 행동을 이용해 일으켜 세울 수 "
-"있습니다.<br> <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
+"있습니다.\n"
+" <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -22762,11 +22717,6 @@ msgstr "쓰러진 캐릭터 돕기"
 #. HandlePath = KeyboardDescription
 #. TutorialName = TUT_HelpFamiliar
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:197
-#, fuzzy
-#| msgid ""
-#| "A player character is Downed! Switch to another character and heal them or "
-#| "use the Help action to get them back up.<br> <LSTag Type=\"Image\" Info="
-#| "\"DownedHelp\"/>"
 msgctxt "hc5e00563gef40g4635g94c0g71d287073f03"
 msgid ""
 "A player character is Downed! Switch to another character and heal them or "
@@ -22774,8 +22724,8 @@ msgid ""
 " <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
 msgstr ""
 "플레이어의 캐릭터가 쓰려졌습니다! 다른 캐릭터로 전환해 해당 캐릭터를 "
-"치유하거나 도와주기 행동을 이용해 일으켜 세울 수 있습니다.<br> <LSTag Type="
-"\"Image\" Info=\"DownedHelp\"/>"
+"치유하거나 도와주기 행동을 이용해 일으켜 세울 수 있습니다.\n"
+" <LSTag Type=\"Image\" Info=\"DownedHelp\"/>"
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -23024,14 +22974,6 @@ msgstr "주문을 자기 뜻에 따라 비틀어 사용할 수 있는 능력을 
 #. HandlePath = ControllerDescription
 #. TutorialName = TUT_TidesOfChaos
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:272
-#, fuzzy
-#| msgid ""
-#| "You can manipulate the forces of chaos to gain <LSTag Tooltip=\"Advantage\""
-#| ">Advantage</LSTag> on your next <LSTag Tooltip=\"AttackRoll\">Attack Roll</"
-#| "LSTag>, <LSTag Tooltip=\"AbilityCheck\">Ability Check</LSTag>, or <LSTag "
-#| "Tooltip=\"SavingThrow\">Saving Throw</LSTag>.<br><br>After Tides of Chaos "
-#| "triggers, the chance of triggering Wild Magic increases for the next spell "
-#| "of Level 1 or higher.<br><LSTag Type=\"Image\" Info=\"TidesOfChaos\"/>"
 msgctxt "haf9ed413g3defg469dgb84bg4a872b36ac31"
 msgid ""
 "You can manipulate the forces of chaos to gain <LSTag Tooltip=\"Advantage\""
@@ -23046,9 +22988,11 @@ msgstr ""
 "혼돈의 힘을 조작해 다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, "
 "<LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>, 또는 <LSTag Tooltip="
 "\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</"
-"LSTag>을 얻습니다.<br><br>혼돈의 파도가 발동되고 나면, 이후 시전하는 1레벨 "
-"이상의 주문에서 와일드 매직이 발생할 확률이 상승합니다.<br><LSTag Type="
-"\"Image\" Info=\"TidesOfChaos\"/>"
+"LSTag>을 얻습니다.\n"
+"\n"
+"혼돈의 파도가 발동되고 나면, 이후 시전하는 1레벨 이상의 주문에서 와일드 "
+"매직이 발생할 확률이 상승합니다.\n"
+"<LSTag Type=\"Image\" Info=\"TidesOfChaos\"/>"
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -23064,14 +23008,6 @@ msgstr "혼돈의 파도"
 #. HandlePath = KeyboardDescription
 #. TutorialName = TUT_TidesOfChaos
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:274
-#, fuzzy
-#| msgid ""
-#| "You can manipulate the forces of chaos to gain <LSTag Tooltip=\"Advantage\""
-#| ">Advantage</LSTag> on your next <LSTag Tooltip=\"AttackRoll\">Attack Roll</"
-#| "LSTag>, <LSTag Tooltip=\"AbilityCheck\">Ability Check</LSTag>, or <LSTag "
-#| "Tooltip=\"SavingThrow\">Saving Throw</LSTag>.<br><br>After Tides of Chaos "
-#| "triggers, the chance of triggering Wild Magic increases for the next spell "
-#| "of Level 1 or higher.<br><LSTag Type=\"Image\" Info=\"TidesOfChaos\"/>"
 msgctxt "h086c8954gc6dag4809ga69bge113604001b2"
 msgid ""
 "You can manipulate the forces of chaos to gain <LSTag Tooltip=\"Advantage\""
@@ -23086,9 +23022,11 @@ msgstr ""
 "혼돈의 힘을 조작해 다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, "
 "<LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>, 또는 <LSTag Tooltip="
 "\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</"
-"LSTag>을 얻습니다.<br><br>혼돈의 파도가 발동되고 나면, 이후 시전하는 1레벨 "
-"이상의 주문에서 와일드 매직이 발생할 확률이 상승합니다.<br><LSTag Type="
-"\"Image\" Info=\"TidesOfChaos\"/>"
+"LSTag>을 얻습니다.\n"
+"\n"
+"혼돈의 파도가 발동되고 나면, 이후 시전하는 1레벨 이상의 주문에서 와일드 "
+"매직이 발생할 확률이 상승합니다.\n"
+"<LSTag Type=\"Image\" Info=\"TidesOfChaos\"/>"
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -23118,11 +23056,6 @@ msgstr "야영지 정리"
 #. HandlePath = KeyboardDescription
 #. TutorialName = TUT_CampDeclutter
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:285
-#, fuzzy
-#| msgid ""
-#| "When you move to a new camp location, all items left at the previous camp "
-#| "are automatically moved to your Traveller's Chest. <br><br>You can find this "
-#| "chest at any camp location."
 msgctxt "h845dc4d0gc8ffg4972g9031ge78f9ca98db6"
 msgid ""
 "When you move to a new camp location, all items left at the previous camp "
@@ -23131,7 +23064,9 @@ msgid ""
 "You can find this chest at any camp location."
 msgstr ""
 "새로운 야영지로 이동하면, 이전 야영지에 있던 물품들은 자동으로 여행자의 "
-"궤짝으로 이전됩니다. <br><br>이 상자는 모든 야영지에서 찾을 수 있습니다."
+"궤짝으로 이전됩니다. \n"
+"\n"
+"이 상자는 모든 야영지에서 찾을 수 있습니다."
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -23165,14 +23100,6 @@ msgstr "격노 상태를 유지하려면, 매 턴 적을 공격하거나 피해�
 #. HandlePath = ControllerDescription
 #. TutorialName = TUT_BardicInspiration
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:305
-#, fuzzy
-#| msgid ""
-#| "You've been inspired by an ally! Choose how to spend this bonus by toggling "
-#| "on the relevant passive - you can use it to gain a bonus to your next <LSTag "
-#| "Tooltip=\"AttackRoll\">Attack Roll</LSTag>, <LSTag Tooltip=\"SavingThrow\""
-#| ">Saving Throw</LSTag>, or <LSTag Tooltip=\"AbilityCheck\">Ability Check</"
-#| "LSTag>.<br><br>Alternatively, you can save your bardic inspiration for a "
-#| "future opportunity."
 msgctxt "h07b43e2cgabc0g4da6gabd7g0f66f9f18400"
 msgid ""
 "You've been inspired by an ally! Choose how to spend this bonus by toggling "
@@ -23186,8 +23113,9 @@ msgstr ""
 "아군에게 격려받았습니다! 관련 패시브를 선택해 이 보너스를 어떻게 활용할지 "
 "결정하세요 - <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip="
 "\"SavingThrow\">내성 굴림</LSTag>, 또는 <LSTag Tooltip=\"AbilityCheck\""
-">능력치 판정</LSTag>에 사용할 수 있습니다.<br><br>그 외에도, 다음 기회를 "
-"위해 바드의 격려를 아낄 수도 있습니다."
+">능력치 판정</LSTag>에 사용할 수 있습니다.\n"
+"\n"
+"그 외에도, 다음 기회를 위해 바드의 격려를 아낄 수도 있습니다."
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -23203,14 +23131,6 @@ msgstr "바드의 격려"
 #. HandlePath = KeyboardDescription
 #. TutorialName = TUT_BardicInspiration
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:307
-#, fuzzy
-#| msgid ""
-#| "You've been inspired by an ally! Choose how to spend this bonus by toggling "
-#| "on the relevant passive - you can use it to gain a bonus to your next <LSTag "
-#| "Tooltip=\"AttackRoll\">Attack Roll</LSTag>, <LSTag Tooltip=\"SavingThrow\""
-#| ">Saving Throw</LSTag>, or <LSTag Tooltip=\"AbilityCheck\">Ability Check</"
-#| "LSTag>.<br><br>Alternatively, you can save your bardic inspiration for a "
-#| "future opportunity."
 msgctxt "ha6bfd674gd217g4ca9g92f3g43c37bfef7b7"
 msgid ""
 "You've been inspired by an ally! Choose how to spend this bonus by toggling "
@@ -23224,8 +23144,9 @@ msgstr ""
 "아군에게 격려받았습니다! 관련 패시브를 선택해 이 보너스를 어떻게 활용할지 "
 "결정하세요 - <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip="
 "\"SavingThrow\">내성 굴림</LSTag>, 또는 <LSTag Tooltip=\"AbilityCheck\""
-">능력치 판정</LSTag>에 사용할 수 있습니다.<br><br>그 외에도, 다음 기회를 "
-"위해 바드의 격려를 아낄 수도 있습니다."
+">능력치 판정</LSTag>에 사용할 수 있습니다.\n"
+"\n"
+"그 외에도, 다음 기회를 위해 바드의 격려를 아낄 수도 있습니다."
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -24234,7 +24155,6 @@ msgstr ""
 #. Name = Vengeance
 #. SoundClassType = Paladin
 #: Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx:322
-#, fuzzy
 msgctxt "h573bd5d7g78ccg467cga56dg4392c97ad6ba"
 msgid ""
 "You have set aside even your own purity to right wrongs and deliver justice "
@@ -24435,7 +24355,6 @@ msgstr ""
 #. HandlePath = DisplayName
 #. Identifier = UnavailableUntilRest
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:110
-#, fuzzy
 msgctxt "hd5151e11ge56bg48cfgb260gfa42b7a9f678"
 msgid "Requires <LSTag Tooltip=\"LongRest\">Long Rest</LSTag> before use."
 msgstr "사용하려면 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취해야 합니다."
@@ -24689,7 +24608,6 @@ msgstr ""
 #. HandlePath = DisplayName
 #. Identifier = CE_ActionResource_Interrupt_DivineStrike_False
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:272
-#, fuzzy
 msgctxt "h627f1051gf00bg46ecgbcbdg78b109843988"
 msgid "Can only be used once per turn."
 msgstr "턴 당 한 번만 사용할 수 있습니다."
@@ -26581,7 +26499,6 @@ msgstr ""
 #. HandlePath = Description
 #. ExactMatch = ActionResource(WildShape,2,0)
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:322
-#, fuzzy
 msgctxt "h5470ff89g9256g4a0fga97cg4e7d4418d872"
 msgid ""
 "As an <LSTag Tooltip=\"Action\">action</LSTag>, you can assume the form of a "
@@ -26606,7 +26523,6 @@ msgstr ""
 #. HandlePath = Description
 #. ExactMatch = Resistance(Poison,Resistant)
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:329
-#, fuzzy
 msgctxt "h138376c3g09d7g4b12g8530gb116ab3b191b"
 msgid ""
 "You have <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on <LSTag Tooltip="
@@ -26893,7 +26809,6 @@ msgstr ""
 #. HandlePath = Description
 #. ExactMatch = Vengeance
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:427
-#, fuzzy
 msgctxt "h58aefc0egf58bg47ddg9f89g3b0fdcca9a8d"
 msgid ""
 "You have set aside even your own purity to right wrongs and deliver justice "
@@ -27421,7 +27336,6 @@ msgstr ""
 #. Name = DarkJusticiar
 #. RaceSoundSwitch = DarkJusticiar
 #: Shared/Public/SharedDev/Races/Races.lsx:4172
-#, fuzzy
 msgctxt "h9f14b38egc6d4g4ed1g8e33g075094a67693"
 msgid "Remnants of the once-living that are trapped between life and death."
 msgstr "삶과 죽음의 경계에 갇힌, 살아있던 자의 잔재입니다."
@@ -27484,7 +27398,6 @@ msgstr ""
 #. Name = Brewer
 #. RaceSoundSwitch = Brewer
 #: Shared/Public/SharedDev/Races/Races.lsx:4206
-#, fuzzy
 msgctxt "h88da2fc9g440cg4239ga572g96390d7a8d4c"
 msgid "Remnants of the once-living that are trapped between life and death."
 msgstr "삶과 죽음의 경계에 갇힌, 살아있던 자의 잔재입니다."
@@ -27878,7 +27791,6 @@ msgstr ""
 #. Name = Surgeon
 #. RaceSoundSwitch = Surgeon
 #: Shared/Public/SharedDev/Races/Races.lsx:4403
-#, fuzzy
 msgctxt "h9e362469gbd8cg476eg804fg05ed4601e106"
 msgid "Remnants of the once-living that are trapped between life and death."
 msgstr "삶과 죽음의 경계에 갇힌, 살아있던 자의 잔재입니다."
@@ -27899,7 +27811,6 @@ msgstr ""
 #. Name = OliverFriend
 #. RaceSoundSwitch = Shadow
 #: Shared/Public/SharedDev/Races/Races.lsx:4420
-#, fuzzy
 msgctxt "h0af48ebegc856g41b3ga2fbg9884e7422982"
 msgid ""
 "Creatures that are made instead of born. Some only follow a simple set of "
@@ -28355,7 +28266,6 @@ msgstr ""
 #. Name = Redcap Pirate
 #. RaceSoundSwitch = Redcap_Pirate
 #: Shared/Public/SharedDev/Races/Races.lsx:4611
-#, fuzzy
 msgctxt "h025a875fg398bg4975g9da3g9dcd260acb15"
 msgid ""
 "Small, homicidal creatures. Born of bloodlust, they have to keep their caps "

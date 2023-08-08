@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-08 23:59+0900\n"
+"POT-Creation-Date: 2023-08-09 00:37+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1795,7 +1795,6 @@ msgstr ""
 #. Name = BOOK_GEN_Books_Row_Multiple_B_004
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Chapel_Push/Items/_merged.lsx:1238
-#, fuzzy
 msgctxt "h8e07d4b8g5901g49b4gb0b1g66ef98382565"
 msgid ""
 "Filled with scholarly texts from across Faerûn - with a few tawdry heroic "
@@ -1810,7 +1809,6 @@ msgstr "몇몇 싸구려 영웅담과 함께, 페이룬 전역으로부터의 �
 #. Name = BOOK_GEN_Books_Row_Multiple_B_003
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Chapel_Push/Items/_merged.lsx:2049
-#, fuzzy
 msgctxt "h62505f24g5a02g4295gb2b6g4c0ccecd8a2d"
 msgid ""
 "Filled with scholarly texts from across Faerûn - with a few tawdry heroic "
@@ -1847,7 +1845,6 @@ msgstr ""
 #. Name = BOOK_GEN_Books_Row_Multiple_B_005
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Chapel_Push/Items/_merged.lsx:2464
-#, fuzzy
 msgctxt "h69e640f2g22beg44e5ga58bg71107df4e541"
 msgid ""
 "Filled with scholarly texts from across Faerûn - with a few tawdry heroic "
@@ -1895,7 +1892,6 @@ msgstr ""
 #. Name = BOOK_GEN_Books_Row_Multiple_C_000
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Chapel_Push/Items/_merged.lsx:6758
-#, fuzzy
 msgctxt "h19480f20gcc1bg4ccdgb3c9gb55189a75352"
 msgid ""
 "The owner of these books has tried several methods of organization, each "
@@ -1932,7 +1928,6 @@ msgstr ""
 #. Name = BOOK_GEN_Books_Row_Multiple_D_000
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Chapel_Push/Items/_merged.lsx:7703
-#, fuzzy
 msgctxt "h1231fb71g65c7g4f72g93dbg01503d2ff6ea"
 msgid ""
 "Filled with scholarly texts from across Faerûn - with a few tawdry heroic "
@@ -9138,14 +9133,17 @@ msgstr ""
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:120180
 #, fuzzy
 #| msgid ""
-#| "Summon a quasit from the Lower Planes.<br><br><i>The scroll is destroyed "
-#| "upon use. </i>"
+#| "Summon a quasit from the Lower Planes.\n"
+#| "\n"
+#| "<i>The scroll is destroyed upon use. </i>"
 msgctxt "h1596affdg6d91g4e88g9f32gdfeff9be34fc"
 msgid ""
 "Summon a quasit from the Lower Planes. <i>The scroll is destroyed upon "
 "use.</i>"
-msgstr "하위 위상으로부터 콰지트를 소환합니다.<br><br><i>두루마리는 사용 후 "
-"없어집니다. </i>"
+msgstr ""
+"하위 위상으로부터 콰지트를 소환합니다.\n"
+"\n"
+"<i>두루마리는 사용 후 없어집니다. </i>"
 
 #. FilePath = Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -15321,7 +15319,6 @@ msgstr ""
 #. Name = S_WYR_Flophouse_Chest_005
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:22970
-#, fuzzy
 msgctxt "h00693c68gca94g4d7fgb7e2gfd5d879f036f"
 msgid "A common chest of timber and iron."
 msgstr "나무와 쇠로 된 흔한 상자입니다."
@@ -16693,7 +16690,6 @@ msgstr ""
 #. Name = S_WYR_MerchantsHouse_HouseKey
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:40705
-#, fuzzy
 msgctxt "hd21f64e0g69b2g461aga117gc85ff67f368b"
 msgid "An elaborate key, plated with silver."
 msgstr "은으로 도금된 정교한 열쇠입니다."
@@ -21225,7 +21221,6 @@ msgstr ""
 #. Name = CONT_GEN_Crate_Wood_B_038
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CMP_DungeonGith_A/Items/_merged.lsx:315
-#, fuzzy
 msgctxt "h045ef49fg1cf9g4565gaa2fgf0a81ce7d56e"
 msgid ""
 "Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty "
@@ -21250,7 +21245,6 @@ msgstr ""
 #. Name = CONT_GEN_Crate_Wood_B_038
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CMP_GithCrecheCave_A/Items/_merged.lsx:43
-#, fuzzy
 msgctxt "hc1e791ddg0df0g4955gb127g5fe99835691c"
 msgid ""
 "Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty "
@@ -21275,7 +21269,6 @@ msgstr ""
 #. Name = CONT_GEN_Crate_Wood_B_038
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CMP_HavenBeachSide_A/Items/_merged.lsx:82
-#, fuzzy
 msgctxt "h7e81e352ge2a8g4159g9d8fg9d93a4b51879"
 msgid ""
 "Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty "
@@ -21300,7 +21293,6 @@ msgstr ""
 #. Name = CONT_GEN_Crate_Wood_B_039
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CMP_HavenBeachSide_A/Items/_merged.lsx:510
-#, fuzzy
 msgctxt "h221247f3gbc4cg4a8ag974bga16a576529c2"
 msgid ""
 "Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty "
@@ -21380,7 +21372,6 @@ msgstr ""
 #. Name = CONT_GEN_Crate_Wood_B_038
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CMP_SharTemple_A/Items/_merged.lsx:389
-#, fuzzy
 msgctxt "h872542aega734g4045g9daag5b63cee28230"
 msgid ""
 "Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty "
@@ -25356,7 +25347,6 @@ msgstr ""
 #. Name = S_LOW_CazadorsPalace_Crypt_BookAboutThieves
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:3464
-#, fuzzy
 msgctxt "ha68aec78g5493g43ebg9086g16a7affea6cb"
 msgid "The Guild: Hidden Rulers of Baldur's Gate"
 msgstr "더 길드: 발더스 게이트의 숨겨진 지배자들"
@@ -27489,7 +27479,6 @@ msgstr ""
 #. Name = BOOK_GEN_History_BhaalspawnTestimonials_000
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:38924
-#, fuzzy
 msgctxt "ha3b9c31fg5967g4087g9d6cgf30c22e7d21c"
 msgid "The Mortal View: Eyewitness Accounts of the Bhaalspawn Crisis"
 msgstr "필멸자의 관점: 바알 스폰 사태를 지켜본 목격자들의 증언"
@@ -29476,7 +29465,6 @@ msgstr ""
 #. Stats = OBJ_Chest
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:68006
-#, fuzzy
 msgctxt "hadd13c1bgcd13g4e55ga712g38f27d7c2ea4"
 msgid "Simply constructed and weatherworn, but it seems sturdy enough."
 msgstr "단순하게 제작되고 날씨에 조금 해졌지만, 충분히 견고해 보입니다."
@@ -35307,7 +35295,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_045
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:142
-#, fuzzy
 msgctxt "h5198ac38g6c9dg4956ga66cg206d99a11c81"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -35352,7 +35339,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_052
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:670
-#, fuzzy
 msgctxt "h17977950g1914g45d3g819cg55b44fe697fd"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -35375,7 +35361,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_040
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:1231
-#, fuzzy
 msgctxt "hf22a7baegb5b1g478bgbbf6g9e111857ba07"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -35398,7 +35383,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_048
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:1760
-#, fuzzy
 msgctxt "h38faacc2g518cg4a4cgb754g741e8de67f2a"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -35421,7 +35405,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_053
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:2294
-#, fuzzy
 msgctxt "hb58eaee8g73a9g4e5ag8265g7824cacf34f3"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -35510,7 +35493,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_044
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:5438
-#, fuzzy
 msgctxt "hdb71b27dg5822g4608g8b53g257aec2373bd"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -35555,7 +35537,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_051
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:6403
-#, fuzzy
 msgctxt "he261bf52g7cc1g4737ga688g176a30db75f8"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -35578,7 +35559,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_043
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:7131
-#, fuzzy
 msgctxt "hd36df932g2301g4376g9acag2302ffecd7fb"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -35625,7 +35605,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_046
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:7881
-#, fuzzy
 msgctxt "h82df7117g5b2fg4a77g87bagee1623577b24"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -35648,7 +35627,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_054
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:8723
-#, fuzzy
 msgctxt "h4bf17c84gdb6dg4167gaac2g6d1fdd5b5d3f"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -35671,7 +35649,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_042
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:8873
-#, fuzzy
 msgctxt "h9b044f8dgb3d8g49e1gbce0g860cf10fc193"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -35705,7 +35682,6 @@ msgstr ""
 #. Name = LTS_DUN_Wall_Bowls_C_035
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:9030
-#, fuzzy
 msgctxt "h1da7b917g559cg4f48ga2a0g889361b852d9"
 msgid "Solid and sturdy, the work of a skilful blacksmith."
 msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어졌습니다."
@@ -43542,7 +43518,6 @@ msgstr ""
 #. Name = CONS_GEN_Drink_Mug_Metal_A_Beer_001
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:325
-#, fuzzy
 msgctxt "hf2cacdadg31a4g459fgb372g60813f972aeb"
 msgid ""
 "Its boozy strength and metallic aftertaste are typical of dwarven brews."
@@ -43676,7 +43651,6 @@ msgstr ""
 #. Name = CONS_GEN_Drink_Mug_Metal_A_Beer_000
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:18854
-#, fuzzy
 msgctxt "h02c05dfegb026g4442ga31fgf3584cadb540"
 msgid ""
 "Its boozy strength and metallic aftertaste are typical of dwarven brews."
@@ -43722,7 +43696,6 @@ msgstr ""
 #. Name = CONT_GEN_Crate_Wood_A_040
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:20189
-#, fuzzy
 msgctxt "ha22d1d91ge6f5g49e1g98a6g8cdbf6369999"
 msgid ""
 "Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty "
@@ -43857,7 +43830,6 @@ msgstr ""
 #. Name = CONT_GEN_Crate_Wood_C_020
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:51620
-#, fuzzy
 msgctxt "ha86c23a4g2ca7g44b0g8338g274a1ab56a21"
 msgid "Built to accommodate items too large for a standard crate."
 msgstr "보통 상자에 넣기에는 너무 큰 물건을 넣을 수 있도록 제작되었습니다."
@@ -43946,7 +43918,6 @@ msgstr ""
 #. Name = CONT_GEN_Crate_Wood_C_031
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:62365
-#, fuzzy
 msgctxt "hbb680a85g0081g4833g8784g6e2300c93849"
 msgid "Built to accommodate items too large for a standard crate."
 msgstr "보통 상자에 넣기에는 너무 큰 물건을 넣을 수 있도록 제작되었습니다."
@@ -44081,7 +44052,6 @@ msgstr ""
 #. Name = CONS_GEN_Drink_Mug_Metal_A_Beer_002
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:81808
-#, fuzzy
 msgctxt "h458d88e5ga5e5g4582g9373gd79edbe25cb2"
 msgid ""
 "Its boozy strength and metallic aftertaste are typical of dwarven brews."
@@ -44617,7 +44587,6 @@ msgstr ""
 #. Name = CONT_GEN_Crate_Wood_C_021
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:158744
-#, fuzzy
 msgctxt "h99371858g9cf1g415aga6a6g24e67bcf1593"
 msgid "Built to accommodate items too large for a standard crate."
 msgstr "보통 상자에 넣기에는 너무 큰 물건을 넣을 수 있도록 제작되었습니다."
@@ -44805,7 +44774,6 @@ msgstr ""
 #. Name = CONT_GEN_Crate_Wood_C_032
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:190052
-#, fuzzy
 msgctxt "h6b00ea90g624ag44b1gab3cg93be8a4ca7b9"
 msgid "Built to accommodate items too large for a standard crate."
 msgstr "보통 상자에 넣기에는 너무 큰 물건을 넣을 수 있도록 제작되었습니다."
@@ -44939,7 +44907,6 @@ msgstr ""
 #. Name = CONS_Drink_Wine_A_005
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx:2928
-#, fuzzy
 msgctxt "he40b05cfg3886g4758gbe3cgcc482876e8d7"
 msgid ""
 "A bit flat, yet charmingly plucky, this Sembian red just might surprise you."
@@ -45042,7 +45009,6 @@ msgstr ""
 #. Name = LAB_GEN_Bottle_Rack_A_000
 #. Type = item
 #: Gustav/Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx:7358
-#, fuzzy
 msgctxt "ha3f20e1dg44c5g4ac3g8e53g59823bbedb31"
 msgid "A small collection of various tinctures and tonics."
 msgstr "다양한 강장제와 약제를 모아놓았습니다."
@@ -45531,6 +45497,10 @@ msgid ""
 "<i>The blade of this spear is blackened and melted, leaving a cruel rugged "
 "edge.</i>"
 msgstr ""
+"명중 시 대상에게 심각한 부상을 입힙니다 \n"
+"\n"
+"<i>이 창의 날 부분은 검게 녹아 있으며, 이로 인해 가장자리가 치명적인 형태로 "
+"거칠어졌습니다.</i>"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects

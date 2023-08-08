@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-08 23:59+0900\n"
+"POT-Creation-Date: 2023-08-09 00:37+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3484,7 +3484,6 @@ msgstr ""
 #. Icon = Item_LOOT_Alchemy_Spider_SilkGland_A
 #. Stats = ALCH_Ingredient_Part_SpiderGland
 #: Shared/Public/SharedDev/RootTemplates/1db12e7c-e88b-4151-af11-4e2010ef319d.lsx:34
-#, fuzzy
 msgctxt "h47778389gda44g4fe6gafd7gc7ee27943dd0"
 msgid "Thick and bloodied, this fleshy sack is plump and fresh."
 msgstr "두툼하고 핏자국이 있는 이 살코기 자루는 통통하고 신선합니다."
@@ -3535,7 +3534,6 @@ msgstr ""
 #. Icon = Item_LOOT_Alchemy_Worg_Fang_A
 #. Stats = ALCH_Ingredient_Part_WorgFang
 #: Shared/Public/SharedDev/RootTemplates/247e7543-f8e6-477e-af66-550996e9131f.lsx:34
-#, fuzzy
 msgctxt "h2235d983g4ee5g4e2dga58cgfc6b7f8312a3"
 msgid ""
 "This fang stinks of rotting flesh and death - the remnants of this worg's "
@@ -4920,7 +4918,6 @@ msgstr ""
 #. Icon = Item_ALCH_Solution_Remedy
 #. Stats = ALCH_Solution_Potion_Remedy
 #: Shared/Public/SharedDev/RootTemplates/ae9a9360-7cbe-4f72-8bea-1dd5747c180d.lsx:20
-#, fuzzy
 msgctxt "h732b0d75g52c6g427ag9604g8c8a52aa8618"
 msgid ""
 "Cures <LSTag Type=\"Status\" Tooltip=\"BLINDED\">Blinded</LSTag>, <LSTag "
@@ -5671,13 +5668,18 @@ msgstr "인간형 살육의 화살"
 #: Shared/Public/Shared/RootTemplates/d7645507-6c0c-48ff-aa1b-57092d139f22.lsx:20
 #, fuzzy
 #| msgid ""
-#| "<br><br><i>Its barbed arrowhead is as wicked in appearance as the "
-#| "abominations it was crafted to kill.</i>"
+#| "\n"
+#| "\n"
+#| "<i>Its barbed arrowhead is as wicked in appearance as the abominations it "
+#| "was crafted to kill.</i>"
 msgctxt "hc3c9d1dagaf56g4ebag95b8g1c746e0c540f"
 msgid ""
 "Its barbed arrowhead is as wicked in appearance as the abominations it was "
 "crafted to kill."
-msgstr "<br><br><i>이 화살촉은 사용 목적인 흉물들에 걸맞게 뒤틀려있습니다.</i>"
+msgstr ""
+"\n"
+"\n"
+"<i>이 화살촉은 사용 목적인 흉물들에 걸맞게 뒤틀려있습니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/d7645507-6c0c-48ff-aa1b-57092d139f22.lsx
 #. NodeID = GameObjects
@@ -6100,16 +6102,6 @@ msgstr "이 책은 아직 읽지 않았습니다."
 #. BloodSurfaceType = SurfaceNone
 #. Archetype = base
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/23f65dff-a1ca-42fb-91ee-4cbb69450336.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_BOOK
-#. Type = item
-#. WadableSurfaceType = SurfaceDeepWater
-#. Icon = Item_BOOK_GEN_Book_A
-#. Stats = OBJ_Book
-#. BloodSurfaceType = SurfaceNone
-#. Archetype = base
 #. FilePath = Shared/Public/Shared/RootTemplates/87b4e4d0-1b59-3165-cca5-d606f0ba5c9a.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -6178,13 +6170,6 @@ msgstr "석판"
 #. Icon = Item_LTS_Camp_Campfire_A
 #. Stats = OBJ_Campfire
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/410c2f4f-5318-480a-863f-e29a04c0a181.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CAMPFIRE
-#. Type = item
-#. Icon = Item_LTS_Camp_Campfire_A
-#. Stats = OBJ_Campfire
 #. FilePath = Shared/Public/Shared/RootTemplates/d75ac6bf-6fed-0a0d-b801-25e19edf885f.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -6206,15 +6191,6 @@ msgstr "화톳불"
 #. Stats = CONS_GenericFoodItem
 #. Type = item
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/cdd2941e-aef8-4cc6-a58b-ccb1d73060e8.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Archetype = base
-#. BloodSurfaceType = SurfaceNone
-#. Icon = GEN_Consumable
-#. Name = BASE_CONS
-#. Stats = CONS_GenericFoodItem
-#. Type = item
 #. FilePath = Shared/Public/Shared/RootTemplates/d56add5d-971d-1f43-5615-d6d30ce2b3db.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -6257,31 +6233,12 @@ msgstr ""
 #. Icon = Item_CONS_Drink_Beer_Mug_A
 #. Stats = OBJ_GenericDrinkItem
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/35bcfb10-ba86-4195-9de5-2d57b4e209f9.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Drink
-#. Type = item
-#. Icon = Item_CONS_Drink_Beer_Mug_A
-#. Stats = OBJ_GenericDrinkItem
 #. FilePath = Shared/Public/Shared/RootTemplates/8f89e34f-a7bb-9588-8740-ddbf223a3683.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = BASE_CONS_Drink_converted
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/35bcfb10-ba86-4195-9de5-2d57b4e209f9.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Drink
-#. Type = item
-#. Icon = Item_CONS_Drink_Beer_Mug_A
-#. Stats = OBJ_GenericDrinkItem
-#. FilePath = Shared/Public/Shared/RootTemplates/8f89e34f-a7bb-9588-8740-ddbf223a3683.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Drink_converted
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/fed41924-bf25-45da-b9f3-568173b5269c.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -6338,559 +6295,78 @@ msgstr "물고기"
 #. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
 #. Stats = OBJ_FOOD_Meat
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
 #. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_FriedRats_A_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/36078d37-1f17-48b1-9fa4-fa353bee2b16.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_DryBone_A_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/36078d37-1f17-48b1-9fa4-fa353bee2b16.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_DryBone_A_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/4fd724ba-680c-48b4-a197-07bf86e6030e.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Meat_PorkPiece_D_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/36078d37-1f17-48b1-9fa4-fa353bee2b16.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_DryBone_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/4fd724ba-680c-48b4-a197-07bf86e6030e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Meat_PorkPiece_D_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/5a1a5112-730a-4d86-aa86-1c55d1db5007.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Fish_Rotten_A_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/36078d37-1f17-48b1-9fa4-fa353bee2b16.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_DryBone_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/4fd724ba-680c-48b4-a197-07bf86e6030e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Meat_PorkPiece_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/5a1a5112-730a-4d86-aa86-1c55d1db5007.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_A_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/682afb3b-2ba7-49d7-a39b-638ddf960621.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Fish_Rotten_C_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/36078d37-1f17-48b1-9fa4-fa353bee2b16.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_DryBone_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/4fd724ba-680c-48b4-a197-07bf86e6030e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Meat_PorkPiece_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/5a1a5112-730a-4d86-aa86-1c55d1db5007.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/682afb3b-2ba7-49d7-a39b-638ddf960621.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_C_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/7a0ecfe8-936d-473a-8fff-cd1f3efbb5f5.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Fish_Rotten_D_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/36078d37-1f17-48b1-9fa4-fa353bee2b16.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_DryBone_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/4fd724ba-680c-48b4-a197-07bf86e6030e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Meat_PorkPiece_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/5a1a5112-730a-4d86-aa86-1c55d1db5007.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/682afb3b-2ba7-49d7-a39b-638ddf960621.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_C_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/7a0ecfe8-936d-473a-8fff-cd1f3efbb5f5.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_D_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/9f681092-7f79-4a8e-82d5-24654311a085.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Food_Tart_Treacle_A_Spoiled_A_Eaten_A_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/36078d37-1f17-48b1-9fa4-fa353bee2b16.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_DryBone_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/4fd724ba-680c-48b4-a197-07bf86e6030e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Meat_PorkPiece_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/5a1a5112-730a-4d86-aa86-1c55d1db5007.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/682afb3b-2ba7-49d7-a39b-638ddf960621.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_C_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/7a0ecfe8-936d-473a-8fff-cd1f3efbb5f5.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/9f681092-7f79-4a8e-82d5-24654311a085.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Tart_Treacle_A_Spoiled_A_Eaten_A_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/a8a6ad2c-c399-4c94-a2b1-923e23d8eccf.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Apple_Eaten_A_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/36078d37-1f17-48b1-9fa4-fa353bee2b16.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_DryBone_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/4fd724ba-680c-48b4-a197-07bf86e6030e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Meat_PorkPiece_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/5a1a5112-730a-4d86-aa86-1c55d1db5007.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/682afb3b-2ba7-49d7-a39b-638ddf960621.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_C_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/7a0ecfe8-936d-473a-8fff-cd1f3efbb5f5.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/9f681092-7f79-4a8e-82d5-24654311a085.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Tart_Treacle_A_Spoiled_A_Eaten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/a8a6ad2c-c399-4c94-a2b1-923e23d8eccf.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Apple_Eaten_A_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/ba6a2114-2be0-4ad8-8f90-3a63e25ee4ae.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Eggs_Rotten_A_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/36078d37-1f17-48b1-9fa4-fa353bee2b16.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_DryBone_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/4fd724ba-680c-48b4-a197-07bf86e6030e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Meat_PorkPiece_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/5a1a5112-730a-4d86-aa86-1c55d1db5007.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/682afb3b-2ba7-49d7-a39b-638ddf960621.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_C_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/7a0ecfe8-936d-473a-8fff-cd1f3efbb5f5.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/9f681092-7f79-4a8e-82d5-24654311a085.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Tart_Treacle_A_Spoiled_A_Eaten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/a8a6ad2c-c399-4c94-a2b1-923e23d8eccf.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Apple_Eaten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/ba6a2114-2be0-4ad8-8f90-3a63e25ee4ae.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Eggs_Rotten_A_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/c9a4ad33-078e-4336-b601-9b9ba07cd405.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Tomato_A_Rotten_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/36078d37-1f17-48b1-9fa4-fa353bee2b16.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_DryBone_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/4fd724ba-680c-48b4-a197-07bf86e6030e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Meat_PorkPiece_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/5a1a5112-730a-4d86-aa86-1c55d1db5007.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/682afb3b-2ba7-49d7-a39b-638ddf960621.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_C_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/7a0ecfe8-936d-473a-8fff-cd1f3efbb5f5.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/9f681092-7f79-4a8e-82d5-24654311a085.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Tart_Treacle_A_Spoiled_A_Eaten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/a8a6ad2c-c399-4c94-a2b1-923e23d8eccf.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Apple_Eaten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/ba6a2114-2be0-4ad8-8f90-3a63e25ee4ae.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Eggs_Rotten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/c9a4ad33-078e-4336-b601-9b9ba07cd405.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Tomato_A_Rotten_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/dc6b9480-38b3-4580-be25-73c87c825ff0.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Cheese_Blue_Piece_B_Rotten_DONOTUSE
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8d2f1d5f-0cc8-4b13-8aa2-4bd509695608.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_CONS_Food_Meat
-#. Type = item
-#. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_A
-#. Stats = OBJ_FOOD_Meat
-#. FilePath = Shared/Public/SharedDev/RootTemplates/19b38e90-49de-4c1c-aeee-a08fd0cd6cbb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_FriedRats_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/31422f13-6a42-491f-81fe-bc658e43a2b3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Meat_PorkHead_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/36078d37-1f17-48b1-9fa4-fa353bee2b16.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_DryBone_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/4fd724ba-680c-48b4-a197-07bf86e6030e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Meat_PorkPiece_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/5a1a5112-730a-4d86-aa86-1c55d1db5007.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/682afb3b-2ba7-49d7-a39b-638ddf960621.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_C_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/7a0ecfe8-936d-473a-8fff-cd1f3efbb5f5.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fish_Rotten_D_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/9f681092-7f79-4a8e-82d5-24654311a085.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Food_Tart_Treacle_A_Spoiled_A_Eaten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/a8a6ad2c-c399-4c94-a2b1-923e23d8eccf.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Apple_Eaten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/ba6a2114-2be0-4ad8-8f90-3a63e25ee4ae.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Eggs_Rotten_A_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/c9a4ad33-078e-4336-b601-9b9ba07cd405.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Tomato_A_Rotten_DONOTUSE
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/dc6b9480-38b3-4580-be25-73c87c825ff0.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Cheese_Blue_Piece_B_Rotten_DONOTUSE
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/ff3c8fc2-22ef-44c1-b9ca-76e91491b730.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -7095,15 +6571,6 @@ msgstr "선반"
 #. BloodSurfaceType = SurfaceNone
 #. Archetype = base
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/33a7b36e-6888-49ac-ada5-d77ad7e70dee.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BASE_DEC_Large
-#. Type = item
-#. Icon = Item_DEC_GEN_Statue_Wizard_A
-#. Stats = OBJ_Indestructible_Heavy
-#. BloodSurfaceType = SurfaceNone
-#. Archetype = base
 #. FilePath = Shared/Public/Shared/RootTemplates/f7d79cc7-c167-7f83-bee0-694fb15ee4e2.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -9270,12 +8737,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_DEC_Ketheric_Giant_Forge_Frame_CogWheels_L_A
 #. 
-#. FilePath = Shared/Public/SharedDev/RootTemplates/0764633a-711b-4186-811d-21bfa043da7d.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = BLD_Lathander_Cable_Car_Mechanism_A
-#. Type = item
-#. Icon = Item_DEC_Ketheric_Giant_Forge_Frame_CogWheels_L_A
 #. FilePath = Shared/Public/SharedDev/RootTemplates/d697d692-597d-c630-486f-a64cbbe19af1.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -10141,9 +9602,10 @@ msgstr "이 바삭바삭하고 무색의 고깃덩어리는 전혀 맛있어 보
 #: Gustav/Public/Gustav/RootTemplates/5f355bb6-a80e-4046-96d5-22534ebe0118.lsx:31
 #, fuzzy
 #| msgid ""
-#| "Become invisible for 1 minute. Attacking or casting spells ends the "
-#| "status.<br><br><i>You'd think this bottle was empty but for the sound of "
-#| "sloshing liquid from within.</i>"
+#| "Become invisible for 1 minute. Attacking or casting spells ends the status.\n"
+#| "\n"
+#| "<i>You'd think this bottle was empty but for the sound of sloshing liquid "
+#| "from within.</i>"
 msgctxt "h309ea242gbd91g4759g83b0ge51f12df42d0"
 msgid ""
 "Become invisible for 1 minute. Attacking or casting spells ends the "
@@ -10152,9 +9614,10 @@ msgid ""
 "<i>You'd think this bottle was empty but for the sound of sloshing liquid "
 "from within.</i>"
 msgstr ""
-"1분 동안 투명해집니다. 공격이나 주문 시전 시 상태에서 "
-"벗어납니다.<br><br><i>당신은 이 병이 비어있는 줄 알았습니다. 안에서 "
-"철벅거리는 액체 소리를 듣기 전까지는요.</i>"
+"1분 동안 투명해집니다. 공격이나 주문 시전 시 상태에서 벗어납니다.\n"
+"\n"
+"<i>당신은 이 병이 비어있는 줄 알았습니다. 안에서 철벅거리는 액체 소리를 듣기 "
+"전까지는요.</i>"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/5f355bb6-a80e-4046-96d5-22534ebe0118.lsx
 #. NodeID = GameObjects
@@ -10178,7 +9641,6 @@ msgstr "투명화의 물약"
 #. BloodSurfaceType = SurfaceNone
 #. Archetype = base
 #: Shared/Public/SharedDev/RootTemplates/82b8d1d5-1859-4396-9099-01a8fe4a484b.lsx:40
-#, fuzzy
 msgctxt "hc4db89b0gf0b7g4b05g9ec4g07805ec7e772"
 msgid "The product of a fletcher's fine work, meant to be fired from a bow."
 msgstr "화살 장인의 휼륭한 작품으로, 활로 발사하기 위해 만들어졌습니다."
@@ -10619,7 +10081,6 @@ msgstr "켈렘보르의 입맞춤 가지"
 #. Type = item
 #. Icon = Item_DEC_GEN_Corpse_Body_Part_Foot_A
 #: Shared/Public/Shared/RootTemplates/3be28c89-6111-4518-a181-21e164ce92d0.lsx:20
-#, fuzzy
 msgctxt "hf7459719g14bag40d8g83bcg55bd44bf21e3"
 msgid "This foot has been roughly chopped off at the ankle."
 msgstr "이 발은 발목에서 투박하게 잘려 나갔습니다."
@@ -10725,7 +10186,6 @@ msgstr "부알의 낫"
 #. Icon = Item_WPN_HUM_Staff_Carrion_A
 #. Stats = WPN_Quarterstaff
 #: Shared/Public/SharedDev/RootTemplates/b07c4b32-af04-44a0-964d-436aa1a0a80d.lsx:23
-#, fuzzy
 msgctxt "hed4fffcag0b59g447eg84a5g05cc8c838736"
 msgid ""
 "The piece of electrum embedded at the top of this staff is filed to a point "
@@ -10881,7 +10341,6 @@ msgstr "맥주 한잔"
 #. Icon = Item_CONS_Drink_Beer_Mug_A
 #. Stats = CONS_DRINK_Beer
 #: Shared/Public/SharedDev/RootTemplates/88394f30-47da-415c-a8a1-1fa0c226fdff.lsx:19
-#, fuzzy
 msgctxt "h4b7ff9eag1d41g4c88g85c9g22147addc8e9"
 msgid "A malty aroma wafts from this hay-coloured brew."
 msgstr "건초색 맥주에서 맥아 향이 은은하게 풍깁니다."
@@ -10906,7 +10365,6 @@ msgstr ""
 #. Icon = Item_CONS_Drink_Beer_Mug_A
 #. Stats = CONS_DRINK_Beer
 #: Shared/Public/SharedDev/RootTemplates/deedeae2-ebce-4dd5-a4f7-9bd89baa2d4c.lsx:19
-#, fuzzy
 msgctxt "h44e94a1ag817ag4fd0g9f96g3d2bbc4d0c91"
 msgid "A malty aroma wafts from this hay-coloured brew."
 msgstr "건초색 맥주에서 맥아 향이 은은하게 풍깁니다."
@@ -14587,7 +14045,6 @@ msgstr "돼지 다리 구이"
 #. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_B
 #. Stats = OBJ_FOOD_PorkPiece_B
 #: Shared/Public/SharedDev/RootTemplates/136e4730-77d7-4985-8d1a-e58cc64ed690.lsx:19
-#, fuzzy
 msgctxt "h271fb0cfgdf14g4005g8187g95f7b52c9330"
 msgid "A few coarse hairs still stick out of the skin on the knee."
 msgstr "무릎 피부에 여전히 거친 털들이 삐져나와 있습니다."
@@ -18634,7 +18091,6 @@ msgstr "벨라돈나"
 #. Icon = Item_CONS_Herbs_Mergrass_Bundle_A
 #. Stats = CONS_Herbs_Mergrass
 #: Shared/Public/SharedDev/RootTemplates/b3baa987-efe1-4cec-b290-74408d6d4771.lsx:18
-#, fuzzy
 msgctxt "h6e410579g343eg48e1g92e1g7f2b33d1ac5e"
 msgid ""
 "This tough, inflexible reed grows in waterside clusters and makes for a fine "
@@ -18742,7 +18198,6 @@ msgstr "쑥"
 #. Icon = Item_CONS_Herbs_Mergrass_Bundle_A
 #. Stats = CONS_Herbs_Mergrass
 #: Shared/Public/SharedDev/RootTemplates/16c583b8-4729-4603-aeee-d224bf645653.lsx:18
-#, fuzzy
 msgctxt "h51ef46b2g5916g46a7gbe42g574663772447"
 msgid ""
 "This tough, inflexible reed grows in waterside clusters and makes for a fine "
@@ -18770,7 +18225,6 @@ msgstr ""
 #. Icon = Item_CONS_Herbs_Mergrass_Bundle_A
 #. Stats = CONS_Herbs_Mergrass
 #: Shared/Public/SharedDev/RootTemplates/cfdb70fc-7fc1-4f18-9317-79704886e4d9.lsx:18
-#, fuzzy
 msgctxt "h4e0be9c3g5cd9g4138g84a2ga4bfbf4db739"
 msgid ""
 "This tough, inflexible reed grows in waterside clusters and makes for a fine "
@@ -19139,8 +18593,10 @@ msgstr "바실리스크 기름"
 #| msgid ""
 #| "Deals 1d12 Poison damage, halved if target succeeds a <LSTag Tooltip="
 #| "\"DifficultyClass\">DC</LSTag> 10 Constitution <LSTag Tooltip=\"SavingThrow\""
-#| ">Saving Throw</LSTag>.<br><br><i>This toxin, extracted from crimson flowers, "
-#| "has the colour and consistency of its namesake.</i>"
+#| ">Saving Throw</LSTag>.\n"
+#| "\n"
+#| "<i>This toxin, extracted from crimson flowers, has the colour and "
+#| "consistency of its namesake.</i>"
 msgctxt "h0f7f5e1cgd06dg4473g9758gf7a38ec31f86"
 msgid ""
 "Deals 1~12 Poison damage, halved if target succeeds a Constitution <LSTag "
@@ -19151,8 +18607,10 @@ msgid ""
 msgstr ""
 "1d12 의 독 피해를 입히며, 대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</"
 "LSTag> 10 의 건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 "
-"성공하면 피해량이 절반으로 줄어듭니다.<br><br><i>진홍색 꽃에서 추출한 이 "
-"독소는 이름과 똑같은 색과 농도를 지니고 있습니다.</i>"
+"성공하면 피해량이 절반으로 줄어듭니다.\n"
+"\n"
+"<i>진홍색 꽃에서 추출한 이 독소는 이름과 똑같은 색과 농도를 지니고 "
+"있습니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/ee5d2d95-7451-4c4e-b58e-6c211e7fc96b.lsx
 #. NodeID = GameObjects
@@ -19202,17 +18660,19 @@ msgstr "기초 독극물"
 #, fuzzy
 #| msgid ""
 #| "Paralyses target on a failed <LSTag Tooltip=\"DifficultyClass\">DC</LSTag> "
-#| "13 Constitution <LSTag Tooltip=\"SavingThrow\">Saving Throw</"
-#| "LSTag>.<br><br><i>This mucus-like poison was scraped from the carapace of a "
-#| "carrion crawler.</i>"
+#| "13 Constitution <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag>.\n"
+#| "\n"
+#| "<i>This mucus-like poison was scraped from the carapace of a carrion "
+#| "crawler.</i>"
 msgctxt "h602d521age370g4455ga5bbg4c0aa0c11d0b"
 msgid ""
 "The base for this sticky membranous poison was scraped from the carapace of "
 "a carrion crawler."
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 13 의 건강 <LSTag "
-"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 실패하면 마비시킵니다.<br><br>이 "
-"점액 같은 독은 캐리온 크롤러의 등딱지에서 긁어낸 것입니다.<i></i>"
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 실패하면 마비시킵니다.\n"
+"\n"
+"이 점액 같은 독은 캐리온 크롤러의 등딱지에서 긁어낸 것입니다.<i></i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/5865caed-4a5d-45b7-b365-1113334a8e7b.lsx
 #. NodeID = GameObjects
@@ -19241,9 +18701,10 @@ msgstr "크롤러 점액"
 #| "Constitution <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag>, receiving "
 #| "<LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on <LSTag Tooltip="
 #| "\"AttackRoll\">Attack Rolls</LSTag> and <LSTag Tooltip=\"AbilityCheck\""
-#| ">Ability Checks</LSTag>.<br><br><i> Many drow cultivate poisons with "
-#| "religious fervour - and Lolth is pleased by only the deadliest of "
-#| "concoctions.</i>"
+#| ">Ability Checks</LSTag>.\n"
+#| "\n"
+#| "<i> Many drow cultivate poisons with religious fervour - and Lolth is "
+#| "pleased by only the deadliest of concoctions.</i>"
 msgctxt "hb44d982eg73edg4e43gaa5ag2cea1b9c0a34"
 msgid ""
 "Many drow cultivate poisons with religious fervour. After all, Lolth, their "
@@ -19252,9 +18713,10 @@ msgstr ""
 "하나의 무기에 바를 수 있습니다. 건강 <LSTag Tooltip=\"SavingThrow\">내성 "
 "굴림</LSTag>에 실패한 크리쳐는 1 시간 동안 중독되며, <LSTag Tooltip="
 "\"AttackRoll\">명중 굴림</LSTag>과 <LSTag Tooltip=\"AbilityCheck\">능력치 "
-"판정</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 얻습니다. "
-"<br><br><i> 많은 드로우가 종교적 열정으로 독을 배양하며, 롤쓰는 그중 가장 "
-"치명적인 독극물만을 좋아합니다.</i>"
+"판정</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 얻습니다. \n"
+"\n"
+"<i> 많은 드로우가 종교적 열정으로 독을 배양하며, 롤쓰는 그중 가장 치명적인 "
+"독극물만을 좋아합니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/f528a334-bdb3-4cf1-b74c-0e08942daeb1.lsx
 #. NodeID = GameObjects
@@ -19276,12 +18738,6 @@ msgstr "드로우 독"
 #. Icon = Item_CONS_Poison_Essence_Of_Ether
 #. Stats = OBJ_EssenceOfEther
 #: Shared/Public/Shared/RootTemplates/6dae19c6-685d-4a06-9ecf-10df814932dc.lsx:21
-#, fuzzy
-#| msgid ""
-#| "Target creature is rendered Unconscious for 8 hours, awakening if damage is "
-#| "taken or another creature takes an <LSTag Tooltip=\"Action\">action</LSTag> "
-#| "to help.<br><br><i> This vial is sealed with an extra layer of wax to "
-#| "prevent the vapour within from escaping.</i>"
 msgctxt "hcb986652gc206g4ceag83deg599ae03f46af"
 msgid ""
 "Target creature is rendered Unconscious for 8 hours, awakening if damage is "
@@ -19292,9 +18748,10 @@ msgid ""
 "within from escaping.</i>"
 msgstr ""
 "대상 크리쳐는 8 시간 동안 의식을 잃으며, 다른 크리쳐에게 피해를 입거나 "
-"<LSTag Tooltip=\"Action\">행동</LSTag>을 사용해 도움을 주면 "
-"깨어납니다.<br><br><i>이 병은 내부의 증기가 빠져나가지 않도록 추가 왁스 "
-"층으로 밀봉되어 있습니다.</i>"
+"<LSTag Tooltip=\"Action\">행동</LSTag>을 사용해 도움을 주면 깨어납니다.\n"
+"\n"
+"<i>이 병은 내부의 증기가 빠져나가지 않도록 추가 왁스 층으로 밀봉되어 "
+"있습니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/6dae19c6-685d-4a06-9ecf-10df814932dc.lsx
 #. NodeID = GameObjects
@@ -19320,8 +18777,10 @@ msgstr "에테르의 정수"
 #| msgid ""
 #| "Blinds target for one hour unless they pass a <LSTag Tooltip="
 #| "\"DifficultyClass\">DC</LSTag> 15 Constitution <LSTag Tooltip=\"SavingThrow\""
-#| ">Saving Throw</LSTag>.<br><br><i> This vial contains a fine powder that "
-#| "resembles smoke when shaken - or tossed into an enemy's eyes.</i>"
+#| ">Saving Throw</LSTag>.\n"
+#| "\n"
+#| "<i> This vial contains a fine powder that resembles smoke when shaken - or "
+#| "tossed into an enemy's eyes.</i>"
 msgctxt "h53efdf08g218eg4233g9bdag3e235283bdc8"
 msgid ""
 "This vial contains a fine powder that resembles smoke when shaken - or "
@@ -19329,8 +18788,9 @@ msgid ""
 msgstr ""
 "대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag> 15 의 건강 <LSTag "
 "Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 실패하면 한 시간 동안 "
-"실명시킵니다.<br><br><i> 이 유리병에 든 미세한 가루를 흔들거나 던지면 "
-"연기같이 퍼집니다.</i>"
+"실명시킵니다.\n"
+"\n"
+"<i> 이 유리병에 든 미세한 가루를 흔들거나 던지면 연기같이 퍼집니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/d990fefe-e0f3-46ba-915e-35aebc6c6599.lsx
 #. NodeID = GameObjects
@@ -19367,7 +18827,9 @@ msgstr ""
 #| msgid ""
 #| "Deals 12d6 Poison damage, halved if target succeeds a <LSTag Tooltip="
 #| "\"DifficultyClass\">DC</LSTag> 19 Constitution <LSTag Tooltip=\"SavingThrow\""
-#| ">Saving Throw</LSTag>.<br><br><i>Burns going in, burns going out.</i>"
+#| ">Saving Throw</LSTag>.\n"
+#| "\n"
+#| "<i>Burns going in, burns going out.</i>"
 msgctxt "h8f55ad9fg0bf2g4df4gaa43gd588763d1bef"
 msgid ""
 "If the poison is potent enough, even the smallest pinprick can fugue the "
@@ -19375,8 +18837,9 @@ msgid ""
 msgstr ""
 "12d6 의 독 피해를 입히며, 대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</"
 "LSTag> 19 의 건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 "
-"성공하면 절반의 피해만 입힙니다.<br><br>들어갈 때도 불타고, 나올 때도 "
-"불탑니다.<i></i>"
+"성공하면 절반의 피해만 입힙니다.\n"
+"\n"
+"들어갈 때도 불타고, 나올 때도 불탑니다.<i></i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/56e531e9-78e4-430b-bc98-611c1b1ccd08.lsx
 #. NodeID = GameObjects
@@ -19402,8 +18865,9 @@ msgstr ""
 #| msgid ""
 #| "Deals 3d6 Poison damage, halved if target succeeds a <LSTag Tooltip="
 #| "\"DifficultyClass\">DC</LSTag> 11 Constitution <LSTag Tooltip=\"SavingThrow\""
-#| ">Saving Throw</LSTag>.<br><br><i>A cloudy toxin milked from the fang of a "
-#| "giant serpent.</i>"
+#| ">Saving Throw</LSTag>.\n"
+#| "\n"
+#| "<i>A cloudy toxin milked from the fang of a giant serpent.</i>"
 msgctxt "h70056913g4386g4a71g837agb9ae1f1d6f01"
 msgid ""
 "From political assassinations to marital dysfunction, poison's got you "
@@ -19411,8 +18875,9 @@ msgid ""
 msgstr ""
 "3d6 의 독 피해를 입히고, 대상이 <LSTag Tooltip=\"DifficultyClass\">난이도</"
 "LSTag> 11 의 건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 "
-"성공하면 절반의 피해만 받습니다.<br><br><i>거대한 뱀의 송곳니에서 추출한 "
-"흐릿한 독소입니다.</i>"
+"성공하면 절반의 피해만 받습니다.\n"
+"\n"
+"<i>거대한 뱀의 송곳니에서 추출한 흐릿한 독소입니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/b0385b93-f525-4740-8126-471a76fa31a2.lsx
 #. NodeID = GameObjects
@@ -19437,14 +18902,6 @@ msgstr "뱀독"
 #. TechnicalDescriptionParams = DealDamage(3d6,Poison)
 #. Type = item
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/eca393b0-3f8e-4862-814b-9e236a0d4129.lsx
-#. NodeID = GameObjects
-#. HandlePath = Description
-#. Icon = Item_CONS_Poison_Wyvern
-#. Name = CONS_Poison_Wyvern
-#. Stats = OBJ_WyvernPoison
-#. TechnicalDescriptionParams = DealDamage(3d6,Poison)
-#. Type = item
 #. FilePath = Shared/Public/SharedDev/RootTemplates/eca393b0-3f8e-4862-814b-9e236a0d4129.lsx
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -19495,14 +18952,6 @@ msgstr ""
 #. TechnicalDescriptionParams = DealDamage(3d6,Poison)
 #. Type = item
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/eca393b0-3f8e-4862-814b-9e236a0d4129.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Icon = Item_CONS_Poison_Wyvern
-#. Name = CONS_Poison_Wyvern
-#. Stats = OBJ_WyvernPoison
-#. TechnicalDescriptionParams = DealDamage(3d6,Poison)
-#. Type = item
 #. FilePath = Shared/Public/SharedDev/RootTemplates/eca393b0-3f8e-4862-814b-9e236a0d4129.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -20285,7 +19734,6 @@ msgstr ""
 #. Icon = Item_CONS_Potion_Healing_A_Supreme
 #. Stats = OBJ_Potion_Healing_Supreme
 #: Shared/Public/Shared/RootTemplates/7d78f227-e8d4-486d-8121-25cf0bee751d.lsx:22
-#, fuzzy
 msgctxt "h8b58b23ege1e3g4674g9862g06a39540930e"
 msgid "A draught for healing life-threatening injuries."
 msgstr "생명을 위협하는 수준의 부상을 치료하기 위한 약입니다."
@@ -20483,7 +19931,6 @@ msgstr ""
 #. Icon = Item_CONS_Potion_Invisible_A
 #. Stats = OBJ_Potion_Of_Invisibility
 #: Gustav/Public/Gustav/RootTemplates/809d5026-4896-4b3a-986e-95da58da77e2.lsx:19
-#, fuzzy
 msgctxt "hd8eb3890ge202g4b4bgbc3bga6511f36ef2e"
 msgid ""
 "You'd think this bottle was empty but for the sound of sloshing liquid from "
@@ -20499,7 +19946,6 @@ msgstr "당신은 이 병이 비어있는 줄 알았습니다. 안에서 철벅�
 #. Icon = Item_CONS_Potion_Invisible_A
 #. Stats = OBJ_Potion_Of_Invisibility
 #: Gustav/Public/Gustav/RootTemplates/809d5026-4896-4b3a-986e-95da58da77e2.lsx:20
-#, fuzzy
 msgctxt "hd5a13195g8caag43d1gaf55gc3868f50c607"
 msgid "Turn Invisible. The condition ends early if you attack or cast a spell."
 msgstr "투명해집니다. 공격이나 주문 시전 시 상태에서 벗어납니다."
@@ -21069,12 +20515,6 @@ msgstr "사치스러운 물약병"
 #. Icon = Item_CONS_Potion_Regeneration_A
 #. Stats = OBJ_Potion_Bottle_Breath
 #: Shared/Public/Shared/RootTemplates/f768dbf5-d829-4f15-be1c-ee1f0d71f775.lsx:19
-#, fuzzy
-#| msgid ""
-#| "Gain the ability to cast Gust of Wind once, blasting a line of wind that "
-#| "pushes creatures away, extinguishes flames, and disperses "
-#| "gases.<br><br><i>The howl of wind can be heard within this lightly vibrating "
-#| "bottle.</i>"
 msgctxt "h19225fb0g81aag4b4eg89ecgad70f5de800b"
 msgid ""
 "Gain the ability to cast Gust of Wind once, blasting a line of wind that "
@@ -21083,8 +20523,9 @@ msgid ""
 "<i>The howl of wind can be heard within this lightly vibrating bottle.</i>"
 msgstr ""
 "바람을 날려 크리쳐를 밀어내거나, 불꽃을 꺼뜨리고, 가스를 흩어지게 할 수 있는 "
-"돌풍 주문을 한 번 시전할 수 있는 능력을 얻습니다.<br><br><i>가볍게 진동하는 "
-"이 병 안에서 울부짖는 바람의 소리가 들립니다.</i>"
+"돌풍 주문을 한 번 시전할 수 있는 능력을 얻습니다.\n"
+"\n"
+"<i>가볍게 진동하는 이 병 안에서 울부짖는 바람의 소리가 들립니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/f768dbf5-d829-4f15-be1c-ee1f0d71f775.lsx
 #. NodeID = GameObjects
@@ -21185,12 +20626,6 @@ msgstr "마시기"
 #. Icon = Item_CONS_Potion_Shrinking
 #. Stats = OBJ_Potion_Of_Shrinking
 #: Shared/Public/Shared/RootTemplates/9e4f294c-5567-47eb-a1e6-cd04199bc596.lsx:20
-#, fuzzy
-#| msgid ""
-#| "Reduce in size.<br><br>Your weapon attacks deal 1d4 less damage and you have "
-#| "<LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on Strength <LSTag "
-#| "Tooltip=\"AbilityCheck\">Checks</LSTag> and <LSTag Tooltip=\"SavingThrow\""
-#| ">Saving Throws</LSTag>."
 msgctxt "h952a6fdfgb776g4553ga516g45ddd1604bac"
 msgid ""
 "Reduce in size.\n"
@@ -21200,10 +20635,11 @@ msgid ""
 "\"AbilityCheck\">Checks</LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throws</LSTag>."
 msgstr ""
-"크기가 줄어듭니다.<br><br>당신의 무기 공격의 피해량이 1d4 만큼 줄어들고, "
-"근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag Tooltip="
-"\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</"
-"LSTag>을 가집니다."
+"크기가 줄어듭니다.\n"
+"\n"
+"당신의 무기 공격의 피해량이 1d4 만큼 줄어들고, 근력 <LSTag Tooltip="
+"\"AbilityCheck\">판정</LSTag>과 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
+"LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #. FilePath = Shared/Public/Shared/RootTemplates/9e4f294c-5567-47eb-a1e6-cd04199bc596.lsx
 #. NodeID = GameObjects
@@ -21254,11 +20690,12 @@ msgstr "마시기"
 #: Shared/Public/Shared/RootTemplates/ad9f3f24-d755-48b6-aa7b-c34da068209f.lsx:22
 #, fuzzy
 #| msgid ""
-#| "Become Hastened. <br><br>Gain an extra action, +2 to <LSTag Tooltip="
-#| "\"ArmourClass\">Armour Class</LSTag>, <LSTag Tooltip=\"Advantage\""
-#| ">Advantage</LSTag> on Dexterity <LSTag Tooltip=\"SavingThrow\">Saving "
-#| "Throws</LSTag>, and double <LSTag Tooltip=\"MovementSpeed\">Movement "
-#| "Speed</LSTag>."
+#| "Become Hastened. \n"
+#| "\n"
+#| "Gain an extra action, +2 to <LSTag Tooltip=\"ArmourClass\">Armour Class</"
+#| "LSTag>, <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on Dexterity <LSTag "
+#| "Tooltip=\"SavingThrow\">Saving Throws</LSTag>, and double <LSTag Tooltip="
+#| "\"MovementSpeed\">Movement Speed</LSTag>."
 msgctxt "h9c035a0dga908g41c0g8f99g2b7184a971a9"
 msgid ""
 "Gain an extra action, a +2 bonus to <LSTag Tooltip=\"ArmourClass\">Armour "
@@ -21266,10 +20703,12 @@ msgid ""
 "<LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>, and double your <LSTag "
 "Tooltip=\"MovementSpeed\">movement speed</LSTag>."
 msgstr ""
-"가속화됩니다. <br><br>행동을 하나 더 얻으며, <LSTag Tooltip=\"ArmourClass\""
-">방어도</LSTag>가 2 만큼 증가하고, 민첩 <LSTag Tooltip=\"SavingThrow\">내성 "
-"굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻으며, <LSTag "
-"Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 두 배로 늘어납니다."
+"가속화됩니다. \n"
+"\n"
+"행동을 하나 더 얻으며, <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>가 2 "
+"만큼 증가하고, 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 "
+"<LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻으며, <LSTag Tooltip="
+"\"MovementSpeed\">이동 속도</LSTag>가 두 배로 늘어납니다."
 
 #. FilePath = Shared/Public/Shared/RootTemplates/ad9f3f24-d755-48b6-aa7b-c34da068209f.lsx
 #. NodeID = GameObjects
@@ -21788,8 +21227,10 @@ msgstr "부서진 통"
 #| msgid ""
 #| "When ignited, the barrel explodes in a radius of 6m. Targeted creatures must "
 #| "make a DC 12 Dexterity saving throw or take 4d4 + 18 force damage. On a "
-#| "successful save, targets still take half damage. <br><br> <i>Given the "
-#| "volatility of its contents, this barrel ought to be opened carefully. </i>"
+#| "successful save, targets still take half damage. \n"
+#| "\n"
+#| " <i>Given the volatility of its contents, this barrel ought to be opened "
+#| "carefully. </i>"
 msgctxt "h662b1a5bg8409g44f1gb128ge3f3634b8ad1"
 msgid ""
 "Given the volatility of its contents, this barrel ought to be opened "
@@ -21797,8 +21238,10 @@ msgid ""
 msgstr ""
 "불이 붙으면 통이 폭발하여 6m 반경에 피해를 입힙니다. 대상이 된 크리쳐는 "
 "난이도 12 의 민첩 내성 굴림을 성공하지 못하면 4d4 + 18 의 역장 피해를 "
-"입습니다. 굴림에 성공하면 대상은 절반의 피해만 입습니다. <br><br>통의 "
-"내용물을 생각한다면, 개봉할 때는 조심스럽게 여는 것이 좋을 겁니다. <i></i>"
+"입습니다. 굴림에 성공하면 대상은 절반의 피해만 입습니다. \n"
+"\n"
+"통의 내용물을 생각한다면, 개봉할 때는 조심스럽게 여는 것이 좋을 겁니다. "
+"<i></i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/9c875b66-4024-487f-b67c-0c175538eb5c.lsx
 #. NodeID = GameObjects
@@ -21846,7 +21289,6 @@ msgstr "파묻힌 화약통"
 #. Icon = Item_CONT_Barrel_Water_A
 #. Stats = OBJ_Barrel_Filled
 #: Shared/Public/Shared/RootTemplates/253b6d64-91f4-46a2-b05a-a606b0d7b342.lsx:23
-#, fuzzy
 msgctxt "h1f9aa815ge90fg4bc2ga12eg37cbe92edd89"
 msgid ""
 "A barrel of fresh water, casked for storage or transport to drier regions of "
@@ -22662,7 +22104,6 @@ msgstr "고리버들 바구니"
 #. Icon = Item_CONT_GEN_Basket_Wicker_A
 #. Stats = OBJ_Basket
 #: Shared/Public/SharedDev/RootTemplates/7236114f-8fc0-4445-b9fe-e4dcc85d5054.lsx:20
-#, fuzzy
 msgctxt "h5317fa04gabd2g4cbagb8ccg615b46f7cdfd"
 msgid "A portable container woven from dried reeds."
 msgstr "말린 갈대를 엮어 만든 휴대용 용기입니다."
@@ -23205,7 +22646,6 @@ msgstr ""
 #. Type = item
 #. Stats = OBJ_Chest_Wood
 #: Shared/Public/Shared/RootTemplates/abc4056e-f96d-473c-bfa8-0da70b8d2d8a.lsx:20
-#, fuzzy
 msgctxt "h18eba2e1g67f4g4f27gb23fg61db37a50caf"
 msgid "A common chest of timber and iron."
 msgstr "나무와 쇠로 된 흔한 상자입니다."
@@ -23408,7 +22848,6 @@ msgstr "화려한 궤짝"
 #. Icon = Item_CONT_GEN_Chest_Rich_A
 #. Stats = OBJ_Chest_Wood
 #: Shared/Public/Shared/RootTemplates/736751f6-25e1-4526-9680-3bb0abe0539b.lsx:20
-#, fuzzy
 msgctxt "h4cdf5b89g02b1g4d68gb468gdc7eb43b1222"
 msgid ""
 "This exquisitely-crafted chest, ornamented with gems and lined with "
@@ -23842,7 +23281,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_CONT_GEN_Crate_Wood_A
 #: Shared/Public/Shared/RootTemplates/bd238e6e-ac8c-48bc-a180-588864bc6b99.lsx:19
-#, fuzzy
 msgctxt "h7f1bbf25g951fg485bgac53g2788243446d8"
 msgid ""
 "Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty "
@@ -23867,7 +23305,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_CONT_GEN_Crate_Wood_C
 #: Shared/Public/Shared/RootTemplates/fe994523-14f4-45fd-bb7c-1110df3a742f.lsx:19
-#, fuzzy
 msgctxt "h4e141e2dg212dg4c9dgbc78g177ba42e7c37"
 msgid "Built to accommodate items too large for a standard crate."
 msgstr "보통 상자에 넣기에는 너무 큰 물건을 넣을 수 있도록 제작되었습니다."
@@ -25037,7 +24474,6 @@ msgstr "가시 부들"
 #. Icon = Item_DEC_HAR_Fish_Big_A
 #. Stats = OBJ_GenericImmutableObject
 #: Gustav/Public/GustavDev/RootTemplates/d7d0b5e9-958b-4df7-8d01-d91de6c133d7.lsx:23
-#, fuzzy
 msgctxt "h6a65b484g7417g491dga737gb88b8bcaabdf"
 msgid "Out of the corner of your eye, you think you see a fin twitch slightly."
 msgstr "눈 한구석에서, 당신은 마치 이 생선의 지느러미가 살짝 움직이는 것을 본 것 "
@@ -25189,7 +24625,6 @@ msgstr "사랑스럽고 섬세하며 오래된 디자인을 봤을 때 꽤 오�
 #. Type = item
 #. Stats = OBJ_Vase
 #: Shared/Public/Shared/RootTemplates/057e0716-98c1-4288-8249-750f3d1c8ffb.lsx:16
-#, fuzzy
 msgctxt "h201538a5gbc64g460ag975fg8dc1f58c2718"
 msgid "Lovely, delicate, and quite old, judging by its dated design."
 msgstr "사랑스럽고 섬세하며 오래된 디자인을 봤을 때 꽤 오래된 것 같습니다."
@@ -25246,7 +24681,6 @@ msgstr "금이 간 꽃병"
 #. Type = item
 #. Stats = OBJ_Vase
 #: Shared/Public/Shared/RootTemplates/64674f0f-5f7f-4459-8392-ce00c113c1d0.lsx:16
-#, fuzzy
 msgctxt "hccdb836cg2f1eg48e6g857dgd08cc1ec6fe6"
 msgid "Lovely, delicate, and quite old, judging by its dated design."
 msgstr "사랑스럽고 섬세하며 오래된 디자인을 봤을 때 꽤 오래된 것 같습니다."
@@ -25683,7 +25117,6 @@ msgstr "항아리"
 #. Stats = OBJ_Indestructible_Heavy
 #. ConstellationConfigName = NonTrappedUsable
 #: Shared/Public/Shared/RootTemplates/08969b46-33c5-4d6c-820f-5bbba22b016e.lsx:23
-#, fuzzy
 msgctxt "hfba1d39dgd714g4286g82eeg45ba44eba524"
 msgid ""
 "Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty "
@@ -26485,12 +25918,6 @@ msgstr "끝없는 물의 잔"
 #. Icon = Item_CRA_ShellKid_Stone
 #. Stats = OBJ_Topaz
 #: Gustav/Public/Gustav/RootTemplates/d9e2e790-ef5d-4b97-a553-275d70e0df93.lsx:17
-#, fuzzy
-#| msgid ""
-#| "Crush this gem to charm all creatures around you. When the spell ends, the "
-#| "gemstone fragments will crumble to dust.<br><br><i>Clouds swirl in this "
-#| "stormy grey stone. Now and again, it reflects the sun like a lightning "
-#| "bolt.</i>"
 msgctxt "hb8f422adg48a1g4fddgabd0g4666e0b863a7"
 msgid ""
 "Crush this gem to charm all creatures around you. When the spell ends, the "
@@ -26500,9 +25927,10 @@ msgid ""
 "sun like a lightning bolt.</i>"
 msgstr ""
 "이 보석을 부숴 주위 모든 크리처를 매혹시킵니다. 주문의 효과가 끝날 때, "
-"파편들은 가루로 바스러질 것입니다.<br><br><i>이 폭풍치는 회색 돌 속에서 "
-"구름이 소용돌이칩니다. 이따금씩 태양을 반사할 때 마치 그것은 번개처럼 "
-"보입니다.</i>"
+"파편들은 가루로 바스러질 것입니다.\n"
+"\n"
+"<i>이 폭풍치는 회색 돌 속에서 구름이 소용돌이칩니다. 이따금씩 태양을 반사할 "
+"때 마치 그것은 번개처럼 보입니다.</i>"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/d9e2e790-ef5d-4b97-a553-275d70e0df93.lsx
 #. NodeID = GameObjects
@@ -26652,12 +26080,6 @@ msgstr ""
 #. Name = DEC_Bhaal_Statue_Grim_Reaper_A
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/SharedDev/RootTemplates/42eadcff-3e87-49db-bcca-01562e919030.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Icon = Item_DEC_Bhaal_Statue_Grim_Reaper_C
-#. Name = DEC_Bhaal_Statue_Grim_Reaper_A
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/e1958836-efdd-3434-3c5f-09c285ea942c.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -27743,12 +27165,6 @@ msgstr "뼈 무더기"
 #. Type = item
 #. Icon = Item_DEC_Dungeon_Skeleton_BonePile
 #. 
-#. FilePath = Gustav/Public/Gustav/RootTemplates/c20e51e5-0fd1-4767-932e-7c5a8e400ddb.lsx
-#. NodeID = GameObjects
-#. HandlePath = Description
-#. Name = DEC_Dungeon_Skeleton_BonePile_B
-#. Type = item
-#. Icon = Item_DEC_Dungeon_Skeleton_BonePile
 #. FilePath = Shared/Public/Shared/RootTemplates/c20e51e5-0fd1-4767-932e-7c5a8e400ddb.lsx
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -27781,12 +27197,6 @@ msgstr "시체"
 #. Type = item
 #. Icon = Item_DEC_Dungeon_Skeleton_BonePile
 #. 
-#. FilePath = Gustav/Public/Gustav/RootTemplates/c20e51e5-0fd1-4767-932e-7c5a8e400ddb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_Dungeon_Skeleton_BonePile_B
-#. Type = item
-#. Icon = Item_DEC_Dungeon_Skeleton_BonePile
 #. FilePath = Shared/Public/Shared/RootTemplates/c20e51e5-0fd1-4767-932e-7c5a8e400ddb.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -27817,12 +27227,6 @@ msgstr "흠집이 났고, 긁혔고, 핏자국이 묻어 있습니다."
 #. Type = item
 #. Icon = Item_DEC_Dungeon_Skeleton_BonePile_Bloody
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/01ae9d80-e4d5-422c-a841-e663ca3dc832.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_Dungeon_Skeleton_BonePile_B_Bloody_A
-#. Type = item
-#. Icon = Item_DEC_Dungeon_Skeleton_BonePile_Bloody
 #. FilePath = Shared/Public/Shared/RootTemplates/42cc1bbe-1be3-4046-b60e-ed60fb39a659.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -27876,51 +27280,18 @@ msgstr "흠집이 났고, 긁혔고, 핏자국이 묻어 있습니다."
 #. Type = item
 #. Icon = Item_DEC_Dungeon_Skeleton_BonePile_Bloody
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/1bbd1f9c-9206-4ae5-a7aa-6c792b75bb92.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_Dungeon_Skeleton_BonePile_C_Bloody_A
-#. Type = item
-#. Icon = Item_DEC_Dungeon_Skeleton_BonePile_Bloody
 #. FilePath = Shared/Public/Shared/RootTemplates/e64bd60a-435b-4f18-9744-23331ae9e00d.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_Dungeon_Skeleton_BonePile_C_Bloody_A_Static
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/1bbd1f9c-9206-4ae5-a7aa-6c792b75bb92.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_Dungeon_Skeleton_BonePile_C_Bloody_A
-#. Type = item
-#. Icon = Item_DEC_Dungeon_Skeleton_BonePile_Bloody
-#. FilePath = Shared/Public/Shared/RootTemplates/e64bd60a-435b-4f18-9744-23331ae9e00d.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_Dungeon_Skeleton_BonePile_C_Bloody_A_Static
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/0f304615-e12e-4df2-8f94-a0ceed46c746.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_SkeletalPalm_B
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/1bbd1f9c-9206-4ae5-a7aa-6c792b75bb92.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_Dungeon_Skeleton_BonePile_C_Bloody_A
-#. Type = item
-#. Icon = Item_DEC_Dungeon_Skeleton_BonePile_Bloody
-#. FilePath = Shared/Public/Shared/RootTemplates/e64bd60a-435b-4f18-9744-23331ae9e00d.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_Dungeon_Skeleton_BonePile_C_Bloody_A_Static
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/0f304615-e12e-4df2-8f94-a0ceed46c746.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_SkeletalPalm_B
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/7fecf755-97e2-47fa-83c0-6b753264776b.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -28971,82 +28342,24 @@ msgstr "절단된 팔의 손가락에서 여전히 피가 천천히 흘러나오
 #. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
 #. Stats = OBJ_BodyPart_Generic_Leg
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/41b78683-6081-4aa9-bba1-d8548e753a80.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
 #. FilePath = Shared/Public/Shared/RootTemplates/e6095389-637e-4eaa-8f93-da431dba5b0a.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Static
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/41b78683-6081-4aa9-bba1-d8548e753a80.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
-#. FilePath = Shared/Public/Shared/RootTemplates/e6095389-637e-4eaa-8f93-da431dba5b0a.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Static
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/00e42bb5-1511-4465-a940-705c10063ccb.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Corpse_Body_Part_Hand_A_Mummified_A
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/41b78683-6081-4aa9-bba1-d8548e753a80.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
-#. FilePath = Shared/Public/Shared/RootTemplates/e6095389-637e-4eaa-8f93-da431dba5b0a.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Static
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/00e42bb5-1511-4465-a940-705c10063ccb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Hand_A_Mummified_A
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/382c111e-2d72-49f6-9e12-3aa867bfdbeb.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Mummified_A
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/41b78683-6081-4aa9-bba1-d8548e753a80.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
-#. FilePath = Shared/Public/Shared/RootTemplates/e6095389-637e-4eaa-8f93-da431dba5b0a.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Static
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/00e42bb5-1511-4465-a940-705c10063ccb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Hand_A_Mummified_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/382c111e-2d72-49f6-9e12-3aa867bfdbeb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Mummified_A
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/fb147867-36a7-4aee-b5e9-9588cb933f4e.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -29081,297 +28394,54 @@ msgstr "절단된 팔의 손가락에서 여전히 피가 천천히 흘러나오
 #. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
 #. Stats = OBJ_BodyPart_Generic_Leg
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/500ef4d3-714d-44fe-be2a-c1aeaac30695.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
 #. FilePath = Shared/Public/Shared/RootTemplates/529b7405-5336-475b-958e-00681e8a691f.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki_Static
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/500ef4d3-714d-44fe-be2a-c1aeaac30695.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
-#. FilePath = Shared/Public/Shared/RootTemplates/529b7405-5336-475b-958e-00681e8a691f.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki_Static
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/0f436db6-a558-42c7-b19b-1928d2bd420d.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Corpse_Hanging_Cage_A
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/500ef4d3-714d-44fe-be2a-c1aeaac30695.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
-#. FilePath = Shared/Public/Shared/RootTemplates/529b7405-5336-475b-958e-00681e8a691f.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki_Static
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/0f436db6-a558-42c7-b19b-1928d2bd420d.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_A
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/83850f8c-4536-410a-8c29-df1b01fe7ab4.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Corpse_A
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/500ef4d3-714d-44fe-be2a-c1aeaac30695.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
-#. FilePath = Shared/Public/Shared/RootTemplates/529b7405-5336-475b-958e-00681e8a691f.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki_Static
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/0f436db6-a558-42c7-b19b-1928d2bd420d.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/83850f8c-4536-410a-8c29-df1b01fe7ab4.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_A
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/89b23eb6-0036-4c01-82ae-17e54849364e.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Corpse_Hanging_Cage_C
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/500ef4d3-714d-44fe-be2a-c1aeaac30695.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
-#. FilePath = Shared/Public/Shared/RootTemplates/529b7405-5336-475b-958e-00681e8a691f.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki_Static
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/0f436db6-a558-42c7-b19b-1928d2bd420d.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/83850f8c-4536-410a-8c29-df1b01fe7ab4.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/89b23eb6-0036-4c01-82ae-17e54849364e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_C
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/9273fc39-1840-4d7c-842b-5546904d1f91.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Corpse_Hanging_B_Wind
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/500ef4d3-714d-44fe-be2a-c1aeaac30695.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
-#. FilePath = Shared/Public/Shared/RootTemplates/529b7405-5336-475b-958e-00681e8a691f.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki_Static
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/0f436db6-a558-42c7-b19b-1928d2bd420d.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/83850f8c-4536-410a-8c29-df1b01fe7ab4.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/89b23eb6-0036-4c01-82ae-17e54849364e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_C
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/9273fc39-1840-4d7c-842b-5546904d1f91.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_B_Wind
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/96acbd11-58d3-4185-9f56-aa4a9c70adc1.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Corpse_Hanging_A_Wind
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/500ef4d3-714d-44fe-be2a-c1aeaac30695.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
-#. FilePath = Shared/Public/Shared/RootTemplates/529b7405-5336-475b-958e-00681e8a691f.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki_Static
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/0f436db6-a558-42c7-b19b-1928d2bd420d.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/83850f8c-4536-410a-8c29-df1b01fe7ab4.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/89b23eb6-0036-4c01-82ae-17e54849364e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_C
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/9273fc39-1840-4d7c-842b-5546904d1f91.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_B_Wind
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/96acbd11-58d3-4185-9f56-aa4a9c70adc1.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_A_Wind
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/a375d752-573b-4553-8621-294c552501f5.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_CliffPosed_Corpse_A
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/500ef4d3-714d-44fe-be2a-c1aeaac30695.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
-#. FilePath = Shared/Public/Shared/RootTemplates/529b7405-5336-475b-958e-00681e8a691f.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki_Static
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/0f436db6-a558-42c7-b19b-1928d2bd420d.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/83850f8c-4536-410a-8c29-df1b01fe7ab4.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/89b23eb6-0036-4c01-82ae-17e54849364e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_C
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/9273fc39-1840-4d7c-842b-5546904d1f91.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_B_Wind
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/96acbd11-58d3-4185-9f56-aa4a9c70adc1.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_A_Wind
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/a375d752-573b-4553-8621-294c552501f5.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_CliffPosed_Corpse_A
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/ad976b48-6f3d-41fe-bb48-b7e34d384e1c.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Corpse_B
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/500ef4d3-714d-44fe-be2a-c1aeaac30695.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Arm_A
-#. Stats = OBJ_BodyPart_Generic_Leg
-#. FilePath = Shared/Public/Shared/RootTemplates/529b7405-5336-475b-958e-00681e8a691f.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki_Static
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/0f436db6-a558-42c7-b19b-1928d2bd420d.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/83850f8c-4536-410a-8c29-df1b01fe7ab4.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/89b23eb6-0036-4c01-82ae-17e54849364e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_Cage_C
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/9273fc39-1840-4d7c-842b-5546904d1f91.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_B_Wind
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/96acbd11-58d3-4185-9f56-aa4a9c70adc1.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Hanging_A_Wind
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/a375d752-573b-4553-8621-294c552501f5.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_CliffPosed_Corpse_A
-#. Type = scenery
-#. FilePath = Shared/Public/SharedDev/RootTemplates/ad976b48-6f3d-41fe-bb48-b7e34d384e1c.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_B
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/e9f33399-0424-44a7-9841-51669d80f8f0.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -29630,29 +28700,12 @@ msgstr "이 끈적끈적하고 악취가 나는 내장은 파리떼를 끌어들
 #. Type = item
 #. Icon = Item_DEC_GEN_Corpse_Body_Part_Guts_A
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/717edab5-038b-49f3-b1d3-ca61cf342e05.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Guts_A
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Guts_A
 #. FilePath = Shared/Public/Shared/RootTemplates/ab04f7b8-1a13-4983-97aa-5cc8bedf5d84.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = DEC_GEN_Corpse_Body_Part_Guts_A_Static
 #. Type = scenery
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/717edab5-038b-49f3-b1d3-ca61cf342e05.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Guts_A
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Guts_A
-#. FilePath = Shared/Public/Shared/RootTemplates/ab04f7b8-1a13-4983-97aa-5cc8bedf5d84.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Guts_A_Static
-#. Type = scenery
 #. FilePath = Shared/Public/SharedDev/RootTemplates/ddd11edf-88fc-49a2-885c-eb2f38f715b8.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -29772,13 +28825,6 @@ msgstr "젊은 여자의 잘린 머리입니다. 턱이 뜯겨나가 영원토�
 #. Icon = Item_DEC_GEN_Corpse_Body_Part_HeadFemale_A
 #. Stats = OBJ_BodyPart_Generic_Head
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/73a92602-a779-47c3-9c92-408d2225daf6.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_HeadFemale_A_Githyanki
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_HeadFemale_A
-#. Stats = OBJ_BodyPart_Generic_Head
 #. FilePath = Shared/Public/Shared/RootTemplates/b1013527-0256-4da4-9f15-8999e1d04a41.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -29873,13 +28919,6 @@ msgstr "축 늘어진 입에서 피 거품이 새어나옵니다."
 #. Icon = Item_DEC_GEN_Corpse_Body_Part_HeadMale_A
 #. Stats = OBJ_BodyPart_Generic_Head
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/5f18ac06-e4df-488b-97c7-162bdb522555.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_HeadMale_A_Tiefling
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_HeadMale_A
-#. Stats = OBJ_BodyPart_Generic_Head
 #. FilePath = Shared/Public/Shared/RootTemplates/8bb3d6a2-ac90-49bd-860b-79b19906c49b.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -29998,13 +29037,6 @@ msgstr "이 다리를 만질 때마다 푸석푸석한 살에 자주색 멍이 �
 #. Icon = Item_DEC_GEN_Corpse_Body_Part_Leg_B
 #. Stats = OBJ_BodyPart_Generic_Leg
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/753b5307-f1a2-4248-bf21-912e17a6e362.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Corpse_Body_Part_Leg_B_Githyanki
-#. Type = item
-#. Icon = Item_DEC_GEN_Corpse_Body_Part_Leg_B
-#. Stats = OBJ_BodyPart_Generic_Leg
 #. FilePath = Shared/Public/Shared/RootTemplates/f73aa47e-6f40-4b51-8385-f06a3ca74a6e.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -30207,7 +29239,6 @@ msgstr ""
 #. Icon = Item_DEC_GEN_Corpse_Rose_A
 #. Stats = SCL_Distillery_PurpleWormPoisonIngredient
 #: Shared/Public/SharedDev/RootTemplates/61edb466-ed1c-4225-aed6-ebeae9c19247.lsx:23
-#, fuzzy
 msgctxt "h3a8bdd89g4eb0g4230g8a8fg1ef0647ac9b2"
 msgid "Missing its bottom jaw. And its body."
 msgstr "아래턱과 몸이 없습니다."
@@ -30323,7 +29354,6 @@ msgstr "기름 램프"
 #. Type = item
 #. Icon = Item_DEC_GEN_DjinnLamp_A
 #: Shared/Public/SharedDev/RootTemplates/9fc2c59a-e53d-44dc-9270-63a0bf5418bf.lsx:21
-#, fuzzy
 msgctxt "h9454c528g1c7ag42c4g93ceg1dd7d597d5be"
 msgid ""
 "The sides of this brass lamp are shinier than the rest, as if they've been "
@@ -30348,7 +29378,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_DEC_GEN_DjinnLamp_A
 #: Shared/Public/SharedDev/RootTemplates/066023fe-832e-4619-84cd-fad31edc386b.lsx:21
-#, fuzzy
 msgctxt "he1f6c73eg9bffg403agb8c2g67756e442482"
 msgid ""
 "The sides of this brass lamp are shinier than the rest, as if they've been "
@@ -30514,13 +29543,6 @@ msgstr ""
 #. Icon = Item_DEC_GEN_Fireworks_Rocket_B
 #. Stats = OBJ_Fireworks_Rocket_B
 #. 
-#. FilePath = Shared/Public/SharedDev/RootTemplates/8cc1c07f-398c-42fb-9cdf-76ef052bdaa6.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fireworks_Rocket_B
-#. Type = item
-#. Icon = Item_DEC_GEN_Fireworks_Rocket_B
-#. Stats = OBJ_Fireworks_Rocket_B
 #. FilePath = Shared/Public/SharedDev/RootTemplates/a67d5fa5-a9ce-5c4d-613f-5a3d9012da24.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -30554,13 +29576,6 @@ msgstr ""
 #. Icon = Item_DEC_GEN_Fireworks_Rocket_C
 #. Stats = OBJ_Fireworks_Rocket_C
 #. 
-#. FilePath = Shared/Public/SharedDev/RootTemplates/2f900203-cbe9-4b6c-8d63-1a9a873a13ff.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Fireworks_Rocket_C
-#. Type = item
-#. Icon = Item_DEC_GEN_Fireworks_Rocket_C
-#. Stats = OBJ_Fireworks_Rocket_C
 #. FilePath = Shared/Public/SharedDev/RootTemplates/6aac1e76-7d77-018a-f956-af88400e72a6.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -30760,7 +29775,6 @@ msgstr "끔찍한 더미"
 #. Icon = Item_DEC_GEN_Kitchen_Pot_A
 #. Stats = OBJ_Kitchenware_Pot
 #: Shared/Public/SharedDev/RootTemplates/3c7ef525-5210-4ec0-bd71-a0f853b284fc.lsx:18
-#, fuzzy
 msgctxt "hcd28055eg4decg4a8dg9b24g7d7ac4982c3d"
 msgid ""
 "Years of simmering soups and sauces have left the inside of this pot with a "
@@ -33681,12 +32695,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_DEC_GEN_Statue_Wizard_A
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/51df2095-fab8-65e2-6518-93fdd4a6eb33.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Statue_Beast_Ramazith_A_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Statue_Wizard_A
 #. FilePath = Shared/Public/Shared/RootTemplates/826cc0c1-a985-4d24-8c87-47ce12178219.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -33739,12 +32747,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_DEC_GEN_Statue_Wizard_A
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/74874b1e-30a0-f039-914e-87f437931f16.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Statue_Bust_Male_A_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Statue_Wizard_A
 #. FilePath = Shared/Public/Shared/RootTemplates/c43d28c5-e8dc-46a0-9f84-ca1d840ecacd.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -33775,12 +32777,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_DEC_GEN_Statue_Guard_A
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8dbaa7a5-086d-072e-6d41-c62773dd8e27.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Statue_Guard_A_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Statue_Guard_A
 #. FilePath = Shared/Public/Shared/RootTemplates/cfae5a8e-4a53-459f-810e-81c10ac93d2c.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -33799,12 +32795,6 @@ msgstr "조각상 "
 #. Type = item
 #. Icon = Item_DEC_GEN_Statue_Wizard_A
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/467ec1c0-e8ff-057a-15f2-5e3c16ffbd75.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Statue_Hedonist_A_Colorvar_A_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Statue_Wizard_A
 #. FilePath = Shared/Public/Shared/RootTemplates/a1d8884b-c42c-4316-8222-a54442159d79.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -33953,12 +32943,6 @@ msgstr "조각상 "
 #. Type = item
 #. Icon = Item_DEC_GEN_Statue_Ketheric_A
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/1bdf275a-10e1-a0aa-8716-ac1cb121fa19.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Statue_Ketheric_A_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Statue_Ketheric_A
 #. FilePath = Shared/Public/Shared/RootTemplates/5ce740c5-1027-4409-a345-15f4afd06b71.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -34016,12 +33000,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_DEC_GEN_Statue_Selune_B
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/86c142c8-2ef0-acf9-510d-42296f69666f.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Statue_Selune_B_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Statue_Selune_B
 #. FilePath = Shared/Public/Shared/RootTemplates/de67470b-5639-41c7-82ea-467295a4c1bd.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -34052,12 +33030,6 @@ msgstr "셀루네의 조각상"
 #. Type = item
 #. Icon = Item_DEC_GEN_Statue_Selune_B
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/a33b17cd-f0e9-bf5d-83cd-0180dd397090.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Statue_Selune_Flipped_A_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Statue_Selune_B
 #. FilePath = Shared/Public/Shared/RootTemplates/e1f248f1-b14e-4077-9798-e24ce52faafd.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -34088,12 +33060,6 @@ msgstr "셀루네의 조각상"
 #. Type = item
 #. Icon = Item_DEC_GEN_Statue_Selune_B
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/3cf30a33-5e16-d242-02d2-00799230dddb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Statue_Selune_Wall_A_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Statue_Selune_B
 #. FilePath = Shared/Public/Shared/RootTemplates/b61807f8-1b64-4b47-a5ae-c52a6342d74f.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -34239,12 +33205,6 @@ msgstr "박살난 조각상"
 #. Type = item
 #. Icon = Item_DEC_GEN_Statue_Wizard_A
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/23d131c2-567f-b278-0d08-f5714050d8f2.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Statue_Wizard_A_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Statue_Wizard_A
 #. FilePath = Shared/Public/Shared/RootTemplates/3cb2cf4d-4126-4d78-9215-a345b10bdc23.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -34433,7 +33393,6 @@ msgstr "곰 박제"
 #. Type = item
 #. Icon = Item_GEN_Wood_Plank
 #: Shared/Public/Shared/RootTemplates/0c6b303e-6034-46ee-bbc4-def7f019ee9e.lsx:21
-#, fuzzy
 msgctxt "hca5d2f74g39d3g4082ga506g66b09117a667"
 msgid ""
 "The bear's limbs look like they were broken to fit in this pose - its eyes "
@@ -34954,13 +33913,6 @@ msgstr ""
 #. Icon = Item_DEC_GEN_Towel_A
 #. Stats = OBJ_Rag_Stacked_A
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/5d6162a4-f592-ae73-67cc-8b392e09ebe0.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Towels_Stacked_A_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Towel_A
-#. Stats = OBJ_Rag_Stacked_A
 #. FilePath = Shared/Public/Shared/RootTemplates/74772f53-15ab-4c44-9ab3-86a6a0a7f014.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -35126,13 +34078,6 @@ msgstr "수건 더미"
 #. Icon = Item_DEC_GEN_Towel_A
 #. Stats = OBJ_Rag_Stacked_D
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/56f327e4-b8c8-6fea-80da-0c1bd65ec18c.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Towels_Stacked_D_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Towel_A
-#. Stats = OBJ_Rag_Stacked_D
 #. FilePath = Shared/Public/Shared/RootTemplates/90379362-97b0-414f-8944-cc06c9f8dd7d.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -35154,13 +34099,6 @@ msgstr "수건 더미"
 #. Icon = Item_DEC_GEN_Towel_B
 #. Stats = OBJ_Rag_Stacked_F
 #. 
-#. FilePath = Gustav/Public/Gustav/RootTemplates/5489c368-f979-3c21-370f-3dbff4b85056.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = DEC_GEN_Towels_Stacked_F_converted
-#. Type = item
-#. Icon = Item_DEC_GEN_Towel_B
-#. Stats = OBJ_Rag_Stacked_F
 #. FilePath = Gustav/Public/Gustav/RootTemplates/d671b3a8-b6d9-493c-96a3-300bf5d3a953.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -36406,7 +35344,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_DEC_Ketheric_Armor_Mask_Scrap_A
 #: Shared/Public/Shared/RootTemplates/cf24494b-ad50-406b-8624-85de5afb7af5.lsx:17
-#, fuzzy
 msgctxt "hbe10c9eag4277g40degb60eg01f9d6357886"
 msgid ""
 "Worn by Shar's most loyal zealots, the mere sight of it strikes fear in the "
@@ -36866,7 +35803,6 @@ msgstr "유리 증류 세트"
 #. Icon = Item_LOOT_Laboratory_Flask_Glass_F_Empty_A
 #. Stats = OBJ_Laboratory_Installation
 #: Shared/Public/SharedDev/RootTemplates/3105ed91-3288-4140-9baa-3848c671d6d8.lsx:19
-#, fuzzy
 msgctxt "h5d21647bgd4e2g4d48g80beg185b35933bf4"
 msgid ""
 "A built-up of soot, dust, and a mysterious blue liquid has settled in every "
@@ -37279,7 +36215,6 @@ msgstr "뇌가 담긴 병"
 #. Icon = Item_DEC_MF_Brain_Jar_A
 #. Stats = OBJ_BrainJar
 #: Shared/Public/SharedDev/RootTemplates/1cf6aac7-6df3-419c-bc68-462f79e316fb.lsx:27
-#, fuzzy
 msgctxt "h80f6e73fg22acg41edg86b0gf8f29d37db77"
 msgid ""
 "Several brains are trapped in this device, gently kept afloat in "
@@ -37307,7 +36242,6 @@ msgstr ""
 #. Icon = Item_DEC_MF_Brain_Jar_A
 #. Stats = OBJ_BrainJar
 #: Shared/Public/SharedDev/RootTemplates/90c8bd70-4f2a-4a05-8dc0-8df1bcbca0e0.lsx:27
-#, fuzzy
 msgctxt "h837936e1gc0d4g4fadga5e7g928fa1c4f1b1"
 msgid ""
 "Several brains are trapped in this device, gently kept afloat in "
@@ -37347,7 +36281,6 @@ msgstr ""
 #. Icon = Item_DEC_MF_Brain_Jar_Memory_A
 #. Stats = COL_BrainJar_Memory
 #: Shared/Public/SharedDev/RootTemplates/25386dbf-d8e5-470e-8b5a-1f05fdd93a67.lsx:31
-#, fuzzy
 msgctxt "h8a299944ge669g4ee5g861agb7d82f5d3fca"
 msgid ""
 "A humanoid brain - alive and in perfect condition - suspended in "
@@ -37374,7 +36307,6 @@ msgstr ""
 #. Icon = Item_DEC_MF_Brain_Jar_Memory_A
 #. Stats = COL_BrainJar_Memory
 #: Shared/Public/SharedDev/RootTemplates/18d4a67f-3760-4548-b326-e3eae975439d.lsx:31
-#, fuzzy
 msgctxt "h714f01c6g5ccbg42e7g9bafg05b11789765d"
 msgid ""
 "A humanoid brain - alive and in perfect condition - suspended in "
@@ -40706,7 +39638,6 @@ msgstr "이젤"
 #. Icon = Portrait_FUR_Easel_A
 #. Stats = OBJ_Barrel
 #: Shared/Public/SharedDev/RootTemplates/b823c3bd-aa90-489c-8779-6c85581ead9e.lsx:20
-#, fuzzy
 msgctxt "h651012b5g2d25g4e9fgb90cga37c9ea27ccc"
 msgid ""
 "A polished wooden easel, speckled with copious dollops of paint in a rainbow "
@@ -43452,13 +42383,6 @@ msgstr "탁자"
 #. Icon = Item_BLD_Village_House_Door_A_Wood_Scenery_B
 #. Stats = OBJ_Table
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/ab93a314-5778-40a1-a085-7972a6daf85c.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = FUR_Goblins_Table_Small_B_Bloody
-#. Type = item
-#. Icon = Item_BLD_Village_House_Door_A_Wood_Scenery_B
-#. Stats = OBJ_Table
 #. FilePath = Shared/Public/Shared/RootTemplates/bd6674d0-0891-2631-2c26-9ba5e4774234.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -44522,11 +43446,6 @@ msgstr "가시달린 구체"
 #. Icon = Item_GRN_BallBearings_A
 #. Stats = OBJ_BallBearings
 #: Shared/Public/Shared/RootTemplates/77292f7d-ff64-4a04-9a6f-c37b0cb10a62.lsx:20
-#, fuzzy
-#| msgid ""
-#| "Creates a surface that causes creatures to fall Prone on a failed Dexterity "
-#| "<LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag>.<br><br><i>These tiny "
-#| "metal spheres are polished slick with wax.</i>"
 msgctxt "h8fde06cegb538g41e9gbf23g026ff24e1d13"
 msgid ""
 "Creates a surface that causes creatures to fall Prone on a failed Dexterity "
@@ -44535,8 +43454,9 @@ msgid ""
 "<i>These tiny metal spheres are polished slick with wax.</i>"
 msgstr ""
 "민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 실패하면 엎어지는 "
-"표면을 생성합니다.<br><br><i>이 작은 금속 공들은 왁스로 정성스레 "
-"연마되었습니다.</i>"
+"표면을 생성합니다.\n"
+"\n"
+"<i>이 작은 금속 공들은 왁스로 정성스레 연마되었습니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/77292f7d-ff64-4a04-9a6f-c37b0cb10a62.lsx
 #. NodeID = GameObjects
@@ -44623,12 +43543,6 @@ msgstr ""
 #. Icon = Item_LOOT_GEN_Throwable_Caltrops_Pack_A
 #. Stats = OBJ_FireBottle
 #: Shared/Public/Shared/RootTemplates/45eb32fb-47c3-445a-858a-57179bfa15df.lsx:23
-#, fuzzy
-#| msgid ""
-#| "Creates a surface that stops movement and inflicts 1 Piercing damage on a "
-#| "failed Dexterity <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag>. "
-#| "<br><br><i>Spikes stick out in every direction from these devious little "
-#| "spheres.</i>"
 msgctxt "hb4206b5eg3396g49e9gba85gdfb2ee368653"
 msgid ""
 "Creates a surface that stops movement and inflicts 1 Piercing damage on a "
@@ -44637,8 +43551,9 @@ msgid ""
 "<i>Spikes stick out in every direction from these devious little spheres.</i>"
 msgstr ""
 "움직임을 막고 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 "
-"실패하면 1 만큼의 찌르기 피해를 입히는 표면을 생성합니다. <br><br><i>작은 "
-"구체에 뾰족한 가시가 사방으로 튀어나와 있습니다.</i>"
+"실패하면 1 만큼의 찌르기 피해를 입히는 표면을 생성합니다. \n"
+"\n"
+"<i>작은 구체에 뾰족한 가시가 사방으로 튀어나와 있습니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/45eb32fb-47c3-445a-858a-57179bfa15df.lsx
 #. NodeID = GameObjects
@@ -44702,19 +43617,22 @@ msgstr "이 병 안의 창백한 찌꺼기는 지방질의 덩어리로 천천�
 #: Shared/Public/Shared/RootTemplates/e2968a2e-bc83-4d50-99ef-39ce78d2d630.lsx:23
 #, fuzzy
 #| msgid ""
-#| "Creates a flammable grease surface. <br><br>Creatures walking on the grease "
-#| "surface have halved <LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> "
-#| "and can fall <LSTag Type=\"Status\" Tooltip=\"PRONE\">Prone</LSTag>."
+#| "Creates a flammable grease surface. \n"
+#| "\n"
+#| "Creatures walking on the grease surface have halved <LSTag Tooltip="
+#| "\"MovementSpeed\">Movement Speed</LSTag> and can fall <LSTag Type=\"Status\" "
+#| "Tooltip=\"PRONE\">Prone</LSTag>."
 msgctxt "hd264eaccg5959g44e4ga3bcgd38db81361f0"
 msgid ""
 "Creates a flammable grease surface. Creatures walking on it have halved "
 "<LSTag Tooltip=\"MovementSpeed\">movement speed</LSTag> and can fall <LSTag "
 "Type=\"Status\" Tooltip=\"PRONE\">Prone</LSTag>."
 msgstr ""
-"가연성 기름 표면을 생성합니다. <br><br>기름 표면 위에서 이동하는 크리쳐들은 "
-"<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 줄어들고, "
-"넘어져 <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎어짐</LSTag> 상태에 빠질 "
-"수 있습니다."
+"가연성 기름 표면을 생성합니다. \n"
+"\n"
+"기름 표면 위에서 이동하는 크리쳐들은 <LSTag Tooltip=\"MovementSpeed\">이동 "
+"속도</LSTag>가 절반으로 줄어들고, 넘어져 <LSTag Type=\"Status\" Tooltip="
+"\"PRONE\">엎어짐</LSTag> 상태에 빠질 수 있습니다."
 
 #. FilePath = Shared/Public/Shared/RootTemplates/e2968a2e-bc83-4d50-99ef-39ce78d2d630.lsx
 #. NodeID = GameObjects
@@ -44795,13 +43713,6 @@ msgstr ""
 #. Icon = Item_GRN_Love
 #. Stats = OBJ_Philter_Of_Love
 #: Shared/Public/Shared/RootTemplates/65d0bfbd-8666-4c9e-8a70-ce5f1098072c.lsx:20
-#, fuzzy
-#| msgid ""
-#| "Charms targeted Humanoid creature for 1 hour. Charmed creature can't harm "
-#| "the charmer, and the charmer has <LSTag Tooltip=\"Advantage\">Advantage</"
-#| "LSTag> on <LSTag Tooltip=\"AbilityCheck\">Ability Checks</LSTag> made while "
-#| "talking with the target.<br><br><i> This draught's flavour is intoxicating, "
-#| "though no one can agree on what it actually tastes like.</i>"
 msgctxt "h0770bba3g2b62g4febga72dge047d68bef3f"
 msgid ""
 "Charms targeted Humanoid creature for 1 hour. Charmed creature can't harm "
@@ -44814,9 +43725,9 @@ msgid ""
 msgstr ""
 "대상 인간형 크리쳐를 1 시간 동안 매혹합니다. 매혹된 크리쳐는 매혹자를 해칠 "
 "수 없으며, 매혹자는 대상과 대화할 때 <LSTag Tooltip=\"AbilityCheck\">능력치 "
-"판정</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 "
-"얻습니다.<br><br><i>이 생맥주의 실제 맛이 어떤지는 아무도 모르지만, 중독성 "
-"있는 맛입니다.</i>"
+"판정</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻습니다.\n"
+"\n"
+"<i>이 생맥주의 실제 맛이 어떤지는 아무도 모르지만, 중독성 있는 맛입니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/65d0bfbd-8666-4c9e-8a70-ce5f1098072c.lsx
 #. NodeID = GameObjects
@@ -44838,11 +43749,6 @@ msgstr "사랑의 미약"
 #. Icon = Item_GRN_Poison_vial_A
 #. Stats = OBJ_PoisonOther
 #: Shared/Public/Shared/RootTemplates/de7ec8fe-d871-4696-b788-64a82f73acd8.lsx:22
-#, fuzzy
-#| msgid ""
-#| "Coats one weapon with poison that inflicts 1d4 Poison damage. Lasts for 1 "
-#| "minute.<br><br><i> This delicate vial has a skull detail on the side. Its "
-#| "contents are remarkably odourless.</i>"
 msgctxt "h888d759egea3eg4174gb3b8g526ec80c536a"
 msgid ""
 "Coats one weapon with poison that inflicts 1d4 Poison damage. Lasts for 1 "
@@ -44851,9 +43757,10 @@ msgid ""
 "<i> This delicate vial has a skull detail on the side. Its contents are "
 "remarkably odourless.</i>"
 msgstr ""
-"무기에 1d4 의 독 피해를 주는 맹독을 바릅니다. 1분 동안 "
-"지속됩니다.<br><br><i> 이 섬세한 병의 측면에 해골이 새겨져 있습니다. "
-"내용물은 놀랍도록 어떠한 냄새도 풍기지 않습니다.</i>"
+"무기에 1d4 의 독 피해를 주는 맹독을 바릅니다. 1분 동안 지속됩니다.\n"
+"\n"
+"<i> 이 섬세한 병의 측면에 해골이 새겨져 있습니다. 내용물은 놀랍도록 어떠한 "
+"냄새도 풍기지 않습니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/de7ec8fe-d871-4696-b788-64a82f73acd8.lsx
 #. NodeID = GameObjects
@@ -44875,11 +43782,6 @@ msgstr "기초 독극물"
 #. Icon = Item_GRN_Poison_vial_B
 #. Stats = OBJ_BasicPoison
 #: Shared/Public/Shared/RootTemplates/54bc368a-d303-4e40-9f64-e2a72bf4fac0.lsx:22
-#, fuzzy
-#| msgid ""
-#| "Coats one weapon with poison that inflicts 1d4 Poison damage. Lasts for 1 "
-#| "minute.<br><br><i>The browning label simply reads 'Death' in carefully-"
-#| "penned cursive.</i>"
 msgctxt "h7cadcf91gc530g4309ga475g24e75d13d056"
 msgid ""
 "Coats one weapon with poison that inflicts 1d4 Poison damage. Lasts for 1 "
@@ -44888,8 +43790,9 @@ msgid ""
 "<i>The browning label simply reads 'Death' in carefully-penned cursive.</i>"
 msgstr ""
 "공격시 1d4 의 독 피해를 입히는 독극물을 무기에 바릅니다. 1 분 동안 "
-"지속됩니다.<br><br>갈변된 표지에는 정성스럽게 쓴 필기체로 '죽음'이라고 적혀 "
-"있습니다.<i></i>"
+"지속됩니다.\n"
+"\n"
+"갈변된 표지에는 정성스럽게 쓴 필기체로 '죽음'이라고 적혀 있습니다.<i></i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/54bc368a-d303-4e40-9f64-e2a72bf4fac0.lsx
 #. NodeID = GameObjects
@@ -44911,11 +43814,6 @@ msgstr "기초 독극물"
 #. Icon = Item_GRN_Poison_vial_C
 #. Stats = OBJ_PoisonOther
 #: Shared/Public/Shared/RootTemplates/4678c044-06b2-4ec9-9ae3-126983c95b91.lsx:23
-#, fuzzy
-#| msgid ""
-#| "Coats one weapon with poison that inflicts 1d4 Poison damage. Lasts for 1 "
-#| "minute.<br><br><i>Even when closed, a choking acrid smell emanates from this "
-#| "bottle.</i>"
 msgctxt "h7070298cgeb1bg404dg97d2g8b2fb4a3f6b0"
 msgid ""
 "Coats one weapon with poison that inflicts 1d4 Poison damage. Lasts for 1 "
@@ -44923,8 +43821,9 @@ msgid ""
 "\n"
 "<i>Even when closed, a choking acrid smell emanates from this bottle.</i>"
 msgstr ""
-"1d4 의 독 피해를 입히는 독을 무기에 바릅니다. 1분 동안 지속됩니다. "
-"<br><br><i>병을 닫아도 숨이 막힐 정도로 매운 냄새가 풍깁니다.</i>"
+"1d4 의 독 피해를 입히는 독을 무기에 바릅니다. 1분 동안 지속됩니다. \n"
+"\n"
+"<i>병을 닫아도 숨이 막힐 정도로 매운 냄새가 풍깁니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/4678c044-06b2-4ec9-9ae3-126983c95b91.lsx
 #. NodeID = GameObjects
@@ -44958,11 +43857,6 @@ msgstr "기초 독극물"
 #. Icon = Item_GRN_Poison_vial_D_Sheathe
 #. Stats = OBJ_PoisonOther
 #: Shared/Public/Shared/RootTemplates/420ac079-8d92-46fc-b0bd-91c83f8ab908.lsx:21
-#, fuzzy
-#| msgid ""
-#| "Coats one weapon with poison that inflicts 1d4 Poison damage. Lasts for 1 "
-#| "minute.<br><br><i>Thick green liquid sloshes in this elaborate vial, which "
-#| "is adorned with the likeness of a vampire skull.</i>"
 msgctxt "h928c2ee6g718eg4799g8d46g0cb5bfebbb6c"
 msgid ""
 "Coats one weapon with poison that inflicts 1d4 Poison damage. Lasts for 1 "
@@ -44971,9 +43865,11 @@ msgid ""
 "<i>Thick green liquid sloshes in this elaborate vial, which is adorned with "
 "the likeness of a vampire skull.</i>"
 msgstr ""
-"무기 하나에 1d4 의 독 피해를 입히는 독극물을 입힙니다. 1 분 동안 "
-"지속됩니다.<br><br><i> 흡혈귀의 두개골 모양으로 장식된 정교한 약병에서 진한 "
-"녹색 액체가 흘러나오고 있습니다.</i>"
+"무기 하나에 1d4 의 독 피해를 입히는 독극물을 입힙니다. 1 분 동안 지속됩니다."
+"\n"
+"\n"
+"<i> 흡혈귀의 두개골 모양으로 장식된 정교한 약병에서 진한 녹색 액체가 "
+"흘러나오고 있습니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/420ac079-8d92-46fc-b0bd-91c83f8ab908.lsx
 #. NodeID = GameObjects
@@ -44995,11 +43891,6 @@ msgstr "기초 독극물"
 #. Icon = Item_GRN_Poison_vial_D_Sheathe
 #. Stats = OBJ_PoisonOther
 #: Shared/Public/Shared/RootTemplates/3450ff5c-4e58-402e-9321-3509da99f0a4.lsx:21
-#, fuzzy
-#| msgid ""
-#| "Coats one weapon with poison that inflicts 1d4 Poison damage. Lasts for 1 "
-#| "minute.<br><br><i>Thick green liquid sloshes in this elaborate vial, which "
-#| "is adorned with the likeness of a vampire skull.</i>"
 msgctxt "ha6016fdeg6f37g4471ga809g6ce171c0dfca"
 msgid ""
 "Coats one weapon with poison that inflicts 1d4 Poison damage. Lasts for 1 "
@@ -45008,9 +43899,11 @@ msgid ""
 "<i>Thick green liquid sloshes in this elaborate vial, which is adorned with "
 "the likeness of a vampire skull.</i>"
 msgstr ""
-"무기 하나에 1d4 의 독 피해를 입히는 독극물을 입힙니다. 1 분 동안 "
-"지속됩니다.<br><br><i> 흡혈귀의 두개골 모양으로 장식된 정교한 약병에서 진한 "
-"녹색 액체가 흘러나오고 있습니다.</i>"
+"무기 하나에 1d4 의 독 피해를 입히는 독극물을 입힙니다. 1 분 동안 지속됩니다."
+"\n"
+"\n"
+"<i> 흡혈귀의 두개골 모양으로 장식된 정교한 약병에서 진한 녹색 액체가 "
+"흘러나오고 있습니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/3450ff5c-4e58-402e-9321-3509da99f0a4.lsx
 #. NodeID = GameObjects
@@ -45431,7 +44324,6 @@ msgstr "소라 껍데기"
 #. Icon = Item_DEC_GEN_Kitchen_Plate_A
 #. Stats = OBJ_GenericImmutableObject
 #: Shared/Public/SharedDev/RootTemplates/4fb60907-e5f0-4a34-89ab-26d9a3a97682.lsx:34
-#, fuzzy
 msgctxt "h7c436bc9g93acg4582g816eg3db0cb43e390"
 msgid "Entirely inconspicuous, save for the circular pattern in which it grew."
 msgstr "버섯이 자라나며 생긴 둥근 문양을 제외하면, 전혀 눈에 띄는 부분이 없습니다."
@@ -45580,7 +44472,6 @@ msgstr "병"
 #. Icon = Item_LAB_GEN_Bottle_Rack_C
 #. Stats = OBJ_PotionShelf
 #: Shared/Public/SharedDev/RootTemplates/bbfe2f45-7324-4a93-a158-72e12892d5ab.lsx:20
-#, fuzzy
 msgctxt "h8045282cg3a3ag4e54gb86fg71a6117579cf"
 msgid "A small collection of various tinctures and tonics."
 msgstr "다양한 강장제와 약제를 모아놓았습니다."
@@ -45605,7 +44496,6 @@ msgstr ""
 #. Icon = Item_LAB_GEN_Bottle_Rack_C
 #. Stats = OBJ_PotionShelf
 #: Shared/Public/SharedDev/RootTemplates/256ca302-a003-498f-b737-d20452c16471.lsx:20
-#, fuzzy
 msgctxt "h79de734bg8225g4683g9139ga30cca18c231"
 msgid "A small collection of various tinctures and tonics."
 msgstr "다양한 강장제와 약제를 모아놓았습니다."
@@ -45848,7 +44738,6 @@ msgstr "병 선반"
 #. Type = item
 #. Stats = MAG_Paladin_MomentumOnConcentration_Boots
 #: Gustav/Public/Gustav/RootTemplates/09dcd9c8-07c7-46a5-a006-c179e50079d1.lsx:17
-#, fuzzy
 msgctxt "h18ccc4a3gebffg4d33g9111ge7cd2b265bff"
 msgid ""
 "The metal of these greaves is comfortably warm against your shins, as though "
@@ -48508,13 +47397,6 @@ msgstr ""
 #. Icon = Item_LOOT_Foundry_Misc_Saw_A
 #. Stats = Tool_Saw
 #. 
-#. FilePath = Shared/Public/SharedDev/RootTemplates/146a566f-111b-4f52-a0ab-ede61346cadb.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LOOT_Foundry_Misc_Saw_A
-#. Type = item
-#. Icon = Item_LOOT_Foundry_Misc_Saw_A
-#. Stats = Tool_Saw
 #. FilePath = Shared/Public/SharedDev/RootTemplates/3ffafb92-e726-47c3-8849-750c009cf752.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -51730,12 +50612,6 @@ msgstr "눈"
 #. Type = item
 #. Icon = Item_LOOT_GEN_Feather_Token_A
 #: Shared/Public/Shared/RootTemplates/a0416ecc-bb8f-4465-8865-e164ddbd4c04.lsx:18
-#, fuzzy
-#| msgid ""
-#| "If you fall while carrying this token, you take no Falling damage. The "
-#| "token's magic is expended after you land, whereupon the disk becomes non-"
-#| "magical. <br><br><i>A small, faded feather is stamped on one side of this "
-#| "surprisingly light coin.</i>"
 msgctxt "h8531dfb7gd084g4484gbc95gf2aa8a902914"
 msgid ""
 "If you fall while carrying this token, you take no Falling damage. The "
@@ -51746,8 +50622,9 @@ msgid ""
 "coin.</i>"
 msgstr ""
 "이 상징을 보유하고 있으면 낙하 피해에 면역이 됩니다. 떨어지고 나면 상징에 "
-"부여된 마법이 소멸하며 평범한 원반으로 되돌아갑니다. <br><br><i>놀랍도록 "
-"가벼운 동전의 한쪽 면에 흐릿한 깃털이 새겨져 있습니다.</i>"
+"부여된 마법이 소멸하며 평범한 원반으로 되돌아갑니다. \n"
+"\n"
+"<i>놀랍도록 가벼운 동전의 한쪽 면에 흐릿한 깃털이 새겨져 있습니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/a0416ecc-bb8f-4465-8865-e164ddbd4c04.lsx
 #. NodeID = GameObjects
@@ -53653,7 +52530,6 @@ msgstr "청동 반지"
 #. Icon = Item_LOOT_GEN_Ring_D_Gold_A
 #. Stats = ARM_Ring_D_Gold_A
 #: Shared/Public/Shared/RootTemplates/b7aab838-cafa-4b7d-a8d5-95ec3488f909.lsx:30
-#, fuzzy
 msgctxt "h9317b1e9g97bdg4d6agbee2gf4a9f5f55326"
 msgid ""
 "An unusual piece, this gold-studded amethyst caused a stir at the Wide plaza "
@@ -54719,7 +53595,6 @@ msgstr "지옥 강철"
 #. Icon = Item_LOOT_Ketheric_Infernal_Plate_B
 #. Stats = OBJ_InfernalPlate_B
 #: Shared/Public/SharedDev/RootTemplates/4a1dec56-1b6d-4faa-8bfb-719a0efd3f9e.lsx:19
-#, fuzzy
 msgctxt "h093a5554gd321g4158gaea6ga41b0ff67261"
 msgid ""
 "This dented piece of black metal has a red shine to it, no matter the "
@@ -54748,7 +53623,6 @@ msgstr ""
 #. Icon = Item_LOOT_Ketheric_Infernal_Plate_C
 #. Stats = OBJ_InfernalPlate_C
 #: Shared/Public/SharedDev/RootTemplates/0f47473f-aa2e-46da-9529-f0f3868b77af.lsx:19
-#, fuzzy
 msgctxt "h8b1eb310gf7e2g4ce7gaf32gf933180e2bea"
 msgid ""
 "This dented piece of black metal has a red shine to it, no matter the "
@@ -55319,7 +54193,6 @@ msgstr "엘드리치의 룬"
 #. Type = item
 #. Icon = Item_LOOT_MF_Rune_Tablet_A
 #: Shared/Public/Shared/RootTemplates/d1896edc-a99f-4ccb-9748-2eed1a6d691d.lsx:22
-#, fuzzy
 msgctxt "h80558a1cg2696g42d4gaa20g5c7421447842"
 msgid ""
 "Holding this tablet causes a flash of inscrutable images to appear before "
@@ -57543,7 +56416,6 @@ msgstr "공"
 #. Icon = Item_LOOT_Underdark_Automaton_Head
 #. Stats = OBJ_GenericImmutableObject
 #: Shared/Public/SharedDev/RootTemplates/28e1f6e0-fd2b-423c-a817-e8427bd50b97.lsx:31
-#, fuzzy
 msgctxt "hd9b1bc3fgc012g422egb111g82356651ff5a"
 msgid ""
 "The cogs of this metal contraption are bent out of shape, the steel sheeting "
@@ -57977,7 +56849,6 @@ msgstr ""
 #. Icon = Item_AlchemyIngredient_Mushroom_FungiLoving
 #. Stats = OBJ_GenericImmutableObject
 #: Gustav/Public/GustavDev/RootTemplates/5109b5aa-6f0e-45fd-9033-5518d6c88c0f.lsx:34
-#, fuzzy
 msgctxt "hb0244e48ga0fdg46a7gaf99g14ea0a1965a8"
 msgid "Entirely inconspicuous, save for the circular pattern in which it grew."
 msgstr "버섯이 자라나며 생긴 둥근 문양을 제외하면, 전혀 눈에 띄는 부분이 없습니다."
@@ -58110,7 +56981,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_DEC_GEN_DjinnLamp_A
 #: Gustav/Public/GustavDev/RootTemplates/70ecfea1-2edf-46cd-acaa-6b8235a5efa9.lsx:20
-#, fuzzy
 msgctxt "h4ef0f0d0g4f22g40d1g8723gc5db5c491606"
 msgid ""
 "The sides of this brass lamp are shinier than the rest, as if they've been "
@@ -58827,13 +57697,6 @@ msgstr "적절한 불쏘시개만 있으면 관리가 거의 필요 없습니다
 #. Icon = Item_LTS_DUN_Bowls_B
 #. Stats = OBJ_CoalBasket
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/64623062-e8a6-43c9-bb0f-f16f362f1755.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_DUN_Bowls_A
-#. Type = item
-#. Icon = Item_LTS_DUN_Bowls_B
-#. Stats = OBJ_CoalBasket
 #. FilePath = Shared/Public/Shared/RootTemplates/fa9106a5-516a-7cc7-6801-bff9b02a9f90.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -58907,12 +57770,6 @@ msgstr "적절한 불쏘시개만 있으면 관리가 거의 필요 없습니다
 #. Type = item
 #. Stats = OBJ_CoalBasket
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/1e803007-4a58-4543-867b-b9aa97d39e30.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_DUN_Bowls_B
-#. Type = item
-#. Stats = OBJ_CoalBasket
 #. FilePath = Shared/Public/Shared/RootTemplates/94e8c05d-7ac7-e2f7-b422-ecff97733006.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -59052,12 +57909,6 @@ msgstr "적절한 불쏘시개만 있으면 관리가 거의 필요 없습니다
 #. Type = item
 #. Stats = OBJ_CoalBasket
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/614e3fe8-1572-4811-801c-af4b4c63c722.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_DUN_Bowls_D
-#. Type = item
-#. Stats = OBJ_CoalBasket
 #. FilePath = Shared/Public/Shared/RootTemplates/c25a90f6-6d53-c951-c3d4-c68aaac8fbe6.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -59428,7 +58279,6 @@ msgstr "화로"
 #. Type = item
 #. Stats = OBJ_CoalBasket
 #: Shared/Public/Shared/RootTemplates/f6d6bc03-2b67-4d9c-baa5-69a50839dd73.lsx:20
-#, fuzzy
 msgctxt "h9e72c637g4075g4932gb915ge0300704fb05"
 msgid "Requires little tending, given proper kindling."
 msgstr "적절한 불쏘시개만 있으면 관리가 거의 필요 없습니다."
@@ -59512,13 +58362,6 @@ msgstr ""
 #. Icon = Item_LTS_DUN_Candles_C
 #. Stats = OBJ_Candle
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/4e77f7a0-29b4-4204-98e2-a84fd3657fa3.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_DUN_Candles_Cluster_A
-#. Type = item
-#. Icon = Item_LTS_DUN_Candles_C
-#. Stats = OBJ_Candle
 #. FilePath = Shared/Public/Shared/RootTemplates/69effa50-b412-2ce1-9451-934b62867617.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -59538,13 +58381,6 @@ msgstr "양초"
 #. Icon = Item_LTS_DUN_Candles_C
 #. Stats = OBJ_Candle
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/80971c3e-2079-4aa8-b142-50473f1273dc.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_DUN_Candles_Cluster_C
-#. Type = item
-#. Icon = Item_LTS_DUN_Candles_C
-#. Stats = OBJ_Candle
 #. FilePath = Shared/Public/Shared/RootTemplates/9bb04e49-9926-f6f2-a2b6-72e09fdb3025.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -59564,13 +58400,6 @@ msgstr "양초"
 #. Icon = Item_LTS_DUN_Candles_C
 #. Stats = OBJ_Candle
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/c6c06c11-5b2b-4414-992b-6e5c9c8063ac.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_DUN_Candles_Cluster_D
-#. Type = item
-#. Icon = Item_LTS_DUN_Candles_C
-#. Stats = OBJ_Candle
 #. FilePath = Shared/Public/Shared/RootTemplates/e6a2a020-cfdc-8175-abae-43c20caa31a9.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -59638,13 +58467,6 @@ msgstr ""
 #. Icon = Item_LTS_DUN_Candlestick_A
 #. Stats = OBJ_Candelabrum
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/3d9aa5fe-277f-4bef-8c4c-d2d4b9478971.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_DUN_Candlestick_A
-#. Type = item
-#. Icon = Item_LTS_DUN_Candlestick_A
-#. Stats = OBJ_Candelabrum
 #. FilePath = Shared/Public/Shared/RootTemplates/fd4125bf-a8ae-7acd-afa9-d4cb5c9befd5.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -59702,12 +58524,6 @@ msgstr "철을 망치로 두드려 만들어졌으며 놀랍도록 화려합니�
 #. Type = item
 #. Stats = OBJ_Chandelier
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/8aa49514-f69a-408b-98b2-67946d966522.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_DUN_Chandelier_B
-#. Type = item
-#. Stats = OBJ_Chandelier
 #. FilePath = Shared/Public/Shared/RootTemplates/d055cb65-881f-4dae-325b-b0cce17ef743.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -59727,13 +58543,6 @@ msgstr "샹들리에"
 #. Icon = Item_LOOT_GEN_Idol_Pedastal_A
 #. Stats = OBJ_Generic_Tiny
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/5e7a35b1-649d-46ba-9739-f58fe9d23080.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_DUN_Chandelier_Hinge_A
-#. Type = item
-#. Icon = Item_LOOT_GEN_Idol_Pedastal_A
-#. Stats = OBJ_Generic_Tiny
 #. FilePath = Shared/Public/Shared/RootTemplates/d78e14ee-2402-9e3f-e2eb-abd848afc88d.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -59888,12 +58697,6 @@ msgstr "화로에 불이 완전히 붙으면 얼어붙은 손을 녹일 따뜻�
 #. Type = item
 #. Stats = OBJ_CoalBasket
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/32fc5314-17de-4a3c-844b-78b28ac44572.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_DUN_Wall_Bowls_B
-#. Type = item
-#. Stats = OBJ_CoalBasket
 #. FilePath = Shared/Public/Shared/RootTemplates/bd2f2480-0f26-772d-2eba-3baadbe31037.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -59967,12 +58770,6 @@ msgstr "화로에 불이 완전히 붙으면 얼어붙은 손을 녹일 따뜻�
 #. Type = item
 #. Stats = OBJ_CoalBasket
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/6a1000d4-6e55-48b0-a04e-cc9b6f92aa6f.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_DUN_Wall_Bowls_C
-#. Type = item
-#. Stats = OBJ_CoalBasket
 #. FilePath = Shared/Public/Shared/RootTemplates/cbb9c9f1-d816-d58e-1a26-16384e957ad4.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60128,12 +58925,6 @@ msgstr "햇빛"
 #. Type = item
 #. Stats = OBJ_Candlestick
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/3b89a5b7-e0b8-47f3-be55-070f9667a94a.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_GEN_Candle_Candelabra_Common_A
-#. Type = item
-#. Stats = OBJ_Candlestick
 #. FilePath = Shared/Public/Shared/RootTemplates/a8701f64-f24f-df2f-114c-ac1afb521496.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60152,12 +58943,6 @@ msgstr "촛대"
 #. Type = item
 #. Stats = OBJ_Candlestick
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/32daab24-e429-4d39-81e8-132aa642a65b.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_GEN_Candle_Candelabra_Common_A_Wall_A
-#. Type = item
-#. Stats = OBJ_Candlestick
 #. FilePath = Shared/Public/Shared/RootTemplates/5063b139-4a82-fc33-04f1-75955d9ffb51.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60187,12 +58972,6 @@ msgstr "촛대"
 #. Type = item
 #. Stats = OBJ_Candlestick
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/1de375c3-a8eb-42b3-8089-4889131f6f03.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_GEN_Candle_Candelabra_Rich_A
-#. Type = item
-#. Stats = OBJ_Candlestick
 #. FilePath = Shared/Public/Shared/RootTemplates/1dfa4359-7208-1368-1805-af8a90d78d08.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60211,12 +58990,6 @@ msgstr "촛대"
 #. Type = item
 #. Stats = OBJ_Candelabrum_Standing
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/24713e2e-99e4-4e73-a53b-c31d3f45bbc4.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_GEN_Candle_Candelabra_Rich_A_Standing_A
-#. Type = item
-#. Stats = OBJ_Candelabrum_Standing
 #. FilePath = Shared/Public/Shared/RootTemplates/dea5e5bb-23a0-510e-7b03-1a38c5973a51.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60235,12 +59008,6 @@ msgstr "촛대"
 #. Type = item
 #. Stats = OBJ_Candlestick
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/bdaf6927-98ee-4489-afdf-206e0e33872d.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_GEN_Candle_Candelabra_Rich_B
-#. Type = item
-#. Stats = OBJ_Candlestick
 #. FilePath = Shared/Public/Shared/RootTemplates/d29907cf-bde1-88ea-8943-a02984408c0d.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60319,12 +59086,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_LTS_GEN_City_Lantern_A
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/18d6e30a-c85d-86a5-b9e4-040db525ab93.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_GEN_City_Lantern_Pole_A_converted
-#. Type = item
-#. Icon = Item_LTS_GEN_City_Lantern_A
 #. FilePath = Shared/Public/Shared/RootTemplates/5f48daaa-ff07-4405-b5b7-093656051c1a.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60344,12 +59105,6 @@ msgstr "등불"
 #. Type = item
 #. Icon = Item_LTS_GEN_City_Lantern_A
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/0fefe705-2782-4a34-b842-40896a5c0efc.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_GEN_City_Lantern_Pole_C
-#. Type = item
-#. Icon = Item_LTS_GEN_City_Lantern_A
 #. FilePath = Shared/Public/Shared/RootTemplates/6853481f-b87d-737f-035a-5743bce705cd.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60368,12 +59123,6 @@ msgstr "등불"
 #. Name = LTS_GEN_City_Lantern_Wall_A
 #. Type = item
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/a821ac47-38a5-45ea-ad73-39fc34d5310c.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Icon = Item_LTS_GEN_City_Lantern_A
-#. Name = LTS_GEN_City_Lantern_Wall_A
-#. Type = item
 #. FilePath = Shared/Public/Shared/RootTemplates/d8d3e557-cf37-4cb9-4ca6-df873b3497e1.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60392,12 +59141,6 @@ msgstr "등불"
 #. Name = LTS_GEN_City_Lantern_Wall_C
 #. Type = item
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/4ba498e6-b3c7-40a4-ade9-7b41193ffb0e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Icon = Item_LTS_GEN_City_Lantern_A
-#. Name = LTS_GEN_City_Lantern_Wall_C
-#. Type = item
 #. FilePath = Shared/Public/Shared/RootTemplates/7e95d2ff-3640-c0c1-3578-ac8851fa63bf.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60574,13 +59317,6 @@ msgstr "빛나는 보석"
 #. Icon = Item_LTS_GEN_Gem_Glowing_Family_A
 #. Stats = OBJ_Crystal_PurpleFluorite_Mineable
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/aca9db37-c967-47e3-99e5-81f67d532392.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_GEN_Gem_Glowing_Family_B
-#. Type = item
-#. Icon = Item_LTS_GEN_Gem_Glowing_Family_A
-#. Stats = OBJ_Crystal_PurpleFluorite_Mineable
 #. FilePath = Shared/Public/Shared/RootTemplates/cbbf8133-0140-69b6-848f-43b0530fb473.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60700,12 +59436,6 @@ msgstr ""
 #. Name = LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A_Lamp
 #. Type = item
 #. 
-#. FilePath = Shared/Public/SharedDev/RootTemplates/50dc143d-4951-41c3-8823-740038f9b7fc.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Icon = Item_LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp
-#. Name = LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A_Lamp
-#. Type = item
 #. FilePath = Shared/Public/SharedDev/RootTemplates/b6ac2261-fd1b-16aa-0372-f2c03577d918.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60757,12 +59487,6 @@ msgstr "등불"
 #. Type = item
 #. Stats = OBJ_Torch
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/3a25abfa-bf78-4bb5-a44e-71e9703bddd5.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_GEN_Lantern_A
-#. Type = item
-#. Stats = OBJ_Torch
 #. FilePath = Shared/Public/Shared/RootTemplates/656a1564-52b4-a022-12e0-a5e318b971f5.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60792,12 +59516,6 @@ msgstr "등불"
 #. Type = item
 #. Stats = OBJ_Torch
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/1fe2c9a6-0ba7-4608-8a30-d9199c274117.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_GEN_Lantern_B
-#. Type = item
-#. Stats = OBJ_Torch
 #. FilePath = Shared/Public/Shared/RootTemplates/cfd723d2-0045-eb55-d5b7-ea5de0c5bbdf.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60827,12 +59545,6 @@ msgstr "숙련된 대장장이의 손길로 튼튼하고 견고하게 만들어�
 #. Type = item
 #. Stats = OBJ_Torch
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/27c9e0db-eec7-4b1e-97be-ff74e3773284.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_GEN_Sconce_Wall_A
-#. Type = item
-#. Stats = OBJ_Torch
 #. FilePath = Shared/Public/Shared/RootTemplates/35e10f2d-911c-fdcf-f1d9-6370d7a4b1f8.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -60995,7 +59707,6 @@ msgstr ""
 #. Icon = Item_DEC_MF_Brain_Jar_A
 #. Stats = OBJ_BrainJar
 #: Shared/Public/SharedDev/RootTemplates/849291d4-bd73-4e38-8380-1d4dba9068be.lsx:27
-#, fuzzy
 msgctxt "hdc6c3314ga8dcg4676ga882gae500843bb2b"
 msgid ""
 "Several brains are trapped in this device, gently kept afloat in "
@@ -61023,7 +59734,6 @@ msgstr ""
 #. Icon = Item_DEC_MF_Brain_Jar_A
 #. Stats = OBJ_BrainJar
 #: Shared/Public/SharedDev/RootTemplates/a5f20b60-a8d7-45de-a83d-b9316440befa.lsx:27
-#, fuzzy
 msgctxt "hba514937gb763g4ee6g8f31g23b1992d0e30"
 msgid ""
 "Several brains are trapped in this device, gently kept afloat in "
@@ -61072,12 +59782,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_LTS_Underdark_Bubbly_Fireflies_B
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/512bb36a-f125-4e66-b3c2-42a4f188c244.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_Underdark_Bubbly_Fireflies_A
-#. Type = item
-#. Icon = Item_LTS_Underdark_Bubbly_Fireflies_B
 #. FilePath = Shared/Public/Shared/RootTemplates/a9287d2c-f19e-62c9-9457-fe423c4c9235.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -61096,12 +59800,6 @@ msgstr "빛나는 구체"
 #. Type = item
 #. Icon = Item_LTS_Underdark_Bubbly_Fireflies_B
 #. 
-#. FilePath = Shared/Public/Shared/RootTemplates/2baecdd1-6dc4-43bf-9db1-b774508fd26e.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. Name = LTS_Underdark_Bubbly_Fireflies_C
-#. Type = item
-#. Icon = Item_LTS_Underdark_Bubbly_Fireflies_B
 #. FilePath = Shared/Public/Shared/RootTemplates/d5f93130-dce2-9c4e-4fdb-09a1cf9c37b8.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -64189,7 +62887,6 @@ msgstr ""
 #. Icon = Item_AlchemyIngredient_Mushroom_Corpse
 #. Stats = OBJ_GenericImmutableObject
 #: Shared/Public/SharedDev/RootTemplates/db584ca8-37fb-4d91-a8a3-efee87a6b476.lsx:35
-#, fuzzy
 msgctxt "ha9648935g3576g4e91gb62ag2242c3082fe4"
 msgid "Entirely inconspicuous, save for the circular pattern in which it grew."
 msgstr "버섯이 자라나며 생긴 둥근 문양을 제외하면, 전혀 눈에 띄는 부분이 없습니다."
@@ -64953,7 +63650,6 @@ msgstr "하급 환영"
 #. Name = PUZ_NAT_Roots_Orb_Pedestal_A
 #. Type = item
 #: Shared/Public/SharedDev/RootTemplates/9e8e964b-677c-44aa-9183-6e6f77d129f0.lsx:8
-#, fuzzy
 msgctxt "h9bc3b81fg8d5cg4b98g8285g0489ca3e803f"
 msgid ""
 "This gently glowing orb is held by a tangle of roots and vines, some of "
@@ -66429,7 +65125,6 @@ msgstr ""
 #. Type = item
 #. Stats = GLO_CursedIronFlask
 #: Shared/Public/Shared/RootTemplates/369c04b5-992b-4bde-8451-1eac0a3376ea.lsx:21
-#, fuzzy
 msgctxt "h8056b54fg2eb6g47aeg9a12g0bacb362c150"
 msgid ""
 "A flask that can hold friends and foes. Likely to make the former the latter."
@@ -66853,7 +65548,6 @@ msgstr ""
 #. Icon = Item_DEC_Dungeon_Skeleton_Skull_A
 #. Stats = QUEST_LOW_ForsakenSkull
 #: Gustav/Public/GustavDev/RootTemplates/1d0137cc-2735-4ba1-8e33-67537848c0fe.lsx:24
-#, fuzzy
 msgctxt "h3843f6e3g7223g4deegb210gf4a351a78ded"
 msgid "The top of this skull is cracked with a lattice of shallow fractures."
 msgstr "이 두개골의 윗부분은 격자무늬의 옅은 골절로 갈라져 있습니다."
@@ -67274,7 +65968,6 @@ msgstr "미라바르의 드워프들이 채굴한 광물과 보석이 가루가 
 #. Icon = Item_FUR_Dungeon_Abbey_Altar_Stone_Shar_Gem_Holder_A
 #. Stats = QUEST_SHA_TrialGemSocket
 #: Shared/Public/SharedDev/RootTemplates/276ee71f-d67a-40ce-9468-e959e89146ab.lsx:25
-#, fuzzy
 msgctxt "h25298641g0bd5g4655gb9d7g3ee737a2b646"
 msgid ""
 "Pulverised minerals and gemstones, mined and traded by the dwarves of "
@@ -67725,7 +66418,6 @@ msgstr ""
 #. Stats = QUEST_WYR_RestoredMagicRing
 #. Type = item
 #: Gustav/Public/GustavDev/RootTemplates/9030e638-b086-4e0d-aeb9-365b03470679.lsx:12
-#, fuzzy
 msgctxt "h95b51525g36c7g4a56gb4fdgd43fc03bce1d"
 msgid ""
 "Considered sacred by some gnomes and halflings, the gem set in this ring "
@@ -68605,7 +67297,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_LOOT_GEN_Heart_A
 #: Shared/Public/SharedDev/RootTemplates/21ef368f-11b2-44c1-8d8d-9e95617f5a81.lsx:30
-#, fuzzy
 msgctxt "h1431188ag98cag4726g8671gf1d7127ab477"
 msgid ""
 "A human heart, carefully cut from the chest. coagulating blood slowly drips "
@@ -69009,7 +67700,6 @@ msgstr ""
 #. Icon = Item_TOOL_Camp_Bedroll_Closed_A
 #. Stats = QUEST_Indestructible_Camp_Bedroll
 #: Shared/Public/Shared/RootTemplates/711d4995-7913-4217-8785-2159bbf178df.lsx:21
-#, fuzzy
 msgctxt "h53e5423fg5b10g4faag804bgdcd4c833cb84"
 msgid ""
 "The thick fur lining of this traveller's bedding is lightly stained with "
@@ -69425,7 +68115,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_DEC_GEN_KitchenInstrument_Shears_A_Metal_A
 #: Shared/Public/SharedDev/RootTemplates/f146f74f-6871-4a98-8f65-30329d564e82.lsx:17
-#, fuzzy
 msgctxt "hf0480f88gc6dag4067gad2eg9ed501afe5ae"
 msgid "Its blades have been worn dull from years of use."
 msgstr "오랜 사용으로 칼날이 무뎌졌습니다."
@@ -69851,7 +68540,6 @@ msgstr "망가진 류트"
 #. Icon = Item_TOOL_GEN_Music_Guitar_Lute_A_Broken
 #. Stats = OBJ_Music_GuitarLute_Broken
 #: Shared/Public/Shared/RootTemplates/a33acb20-c036-46b5-bbad-5b38e9b5bf7c.lsx:22
-#, fuzzy
 msgctxt "heeb84fedg8f79g446agb667gff3e9eebcf6e"
 msgid "The body of this lute is splintered and its strings snapped."
 msgstr "이 류트의 몸통은 갈라지고 줄은 끊어져 있습니다."
@@ -71421,9 +70109,10 @@ msgstr "모루"
 #| "wand and explodes into flame. All nearby creatures must make a <LSTag "
 #| "Tooltip=\"DifficultyClass\">DC</LSTag> 15 Dexterity <LSTag Tooltip="
 #| "\"SavingThrow\">Saving Throw</LSTag>. A target takes 8d6 Fire damage on a "
-#| "failed save, or half as much damage on a successful one. <br><br><i>The "
-#| "amber at the end of this wand flickers like a fire fanned by a strong gust "
-#| "of wind.</i>"
+#| "failed save, or half as much damage on a successful one. \n"
+#| "\n"
+#| "<i>The amber at the end of this wand flickers like a fire fanned by a strong "
+#| "gust of wind.</i>"
 msgctxt "h81f34316g244fg4522gb96dg365d100debad"
 msgid ""
 "Once per combat, you can use an <LSTag Tooltip=\"Action\">action</LSTag> to "
@@ -71436,8 +70125,9 @@ msgstr ""
 "화염으로 폭발합니다. 근처의 모든 크리쳐는 <LSTag Tooltip=\"DifficultyClass\""
 ">난이도</LSTag> 15의 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>을 "
 "요구받습니다. 내성 굴림에 실패한 경우 8d6의 화염 피해를 입으며, 성공한 경우 "
-"절반의 피해만 받습니다. <br><br><i>지팡이 끝에 달린 호박석은 마치 돌풍에 "
-"휘날리는 불꽃처럼 깜빡거립니다.</i>"
+"절반의 피해만 받습니다. \n"
+"\n"
+"<i>지팡이 끝에 달린 호박석은 마치 돌풍에 휘날리는 불꽃처럼 깜빡거립니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/0be6c453-8150-49df-b5ea-ba1eaea16fb7.lsx
 #. NodeID = GameObjects
@@ -71469,7 +70159,6 @@ msgstr ""
 #. Icon = Item_ARM_Helmet_Leather
 #. Stats = ARM_Helmet_Leather
 #: Shared/Public/SharedDev/RootTemplates/0e92e1a8-2422-47e9-8d90-50807244189a.lsx:29
-#, fuzzy
 msgctxt "hef91a6aagf281g4021g964bg4fd69d983209"
 msgid ""
 "Layers of leather were boiled and moulded to create this rugged cap. It "
@@ -74876,7 +73565,6 @@ msgstr "우아한 로브"
 #. Icon = Generated_UNI_DaisyDress
 #. Stats = UNI_DaisyPlaysuit
 #: Shared/Public/Shared/RootTemplates/bf4700bb-f1db-4586-8332-4e3e0c3e0fe0.lsx:18
-#, fuzzy
 msgctxt "h267c5bb2g059cg4154g9610gc43936e8e24c"
 msgid ""
 "A draped robe made with lightweight fabric. Made for seduction rather than "
@@ -74903,7 +73591,6 @@ msgstr ""
 #. Icon = Generated_UNI_Daisy_Plate
 #. Stats = UNI_Daisy_Plate
 #: Shared/Public/Shared/RootTemplates/aa0917ea-5f66-4a22-97de-654228484128.lsx:20
-#, fuzzy
 msgctxt "h153f4640ga6fcg40bfgae8aga5c3f0fcf9ed"
 msgid ""
 "A draped robe made with lightweight fabric. Made for seduction rather than "
@@ -75567,12 +74254,6 @@ msgstr ""
 #. Stats = GOB_DrowCommander_Amulet
 #. Type = item
 #: Gustav/Public/Gustav/RootTemplates/338848e7-b2c6-4f97-879b-cb3439b4f959.lsx:8
-#, fuzzy
-#| msgid ""
-#| "This necklace allows the wearer to cast Misty Step.<br><br><i>Made of blue "
-#| "gems unique to a privately-owned mine in Menzoberranzan, this necklace was "
-#| "likely a token of esteem - or perhaps a desperate attempt to win its "
-#| "recipient's mercy.</i>"
 msgctxt "h680a404cg98d4g41e6gaf52g893298afcfbe"
 msgid ""
 "This necklace allows the wearer to cast Misty Step.\n"
@@ -75581,10 +74262,11 @@ msgid ""
 "this necklace was likely a token of esteem - or perhaps a desperate attempt "
 "to win its recipient's mercy.</i>"
 msgstr ""
-"이 목걸이는 착용자가 안개 걸음을 시전할 수 있게 "
-"합니다.<br><br><i>멘조베란잔의 개인 소유 광산에서 나는 특유의 파란 보석으로 "
-"만들어진 이 목걸이는 아마 존경의 표시였을 겁니다. 아니면 받는 이의 자비를 "
-"사기 위한 필사적인 시도였을 테지요.</i>"
+"이 목걸이는 착용자가 안개 걸음을 시전할 수 있게 합니다.\n"
+"\n"
+"<i>멘조베란잔의 개인 소유 광산에서 나는 특유의 파란 보석으로 만들어진 이 "
+"목걸이는 아마 존경의 표시였을 겁니다. 아니면 받는 이의 자비를 사기 위한 "
+"필사적인 시도였을 테지요.</i>"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/338848e7-b2c6-4f97-879b-cb3439b4f959.lsx
 #. NodeID = GameObjects
@@ -76056,18 +74738,20 @@ msgstr "불기"
 #: Gustav/Public/Gustav/RootTemplates/fffed42d-f849-47ad-9931-3f7fe72e364c.lsx:21
 #, fuzzy
 #| msgid ""
-#| "Sound this horn to call Lump's frenzied band of ogres. <br><br>They will "
-#| "feast on anyone they can get their hands on, but if you've made a deal with "
-#| "them, they will make an effort to spare your party."
+#| "Sound this horn to call Lump's frenzied band of ogres. \n"
+#| "\n"
+#| "They will feast on anyone they can get their hands on, but if you've made a "
+#| "deal with them, they will make an effort to spare your party."
 msgctxt "hfbf02626g9c4fg47bdg8c56g6a4579202386"
 msgid ""
 "Sound this horn to call Lump's frenzied band of ogres. They will feast on "
 "anyone they can get their hands on, but if you've made a deal with them, "
 "they will make an effort to spare your party."
 msgstr ""
-"이 뿔나팔을 불어 럼프의 광폭한 오우거 무리를 불러냅니다. <br><br>그들은 손에 "
-"닿는 건 무엇이든 먹어 치우겠지만, 당신과 거래를 했다면 당신 일행에게는 해를 "
-"끼치지 않으려고 노력은 해볼 것입니다."
+"이 뿔나팔을 불어 럼프의 광폭한 오우거 무리를 불러냅니다. \n"
+"\n"
+"그들은 손에 닿는 건 무엇이든 먹어 치우겠지만, 당신과 거래를 했다면 당신 "
+"일행에게는 해를 끼치지 않으려고 노력은 해볼 것입니다."
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/fffed42d-f849-47ad-9931-3f7fe72e364c.lsx
 #. NodeID = GameObjects
@@ -76631,7 +75315,6 @@ msgstr ""
 #. Stats = PUZ_Key
 #. Key = Key_LOW_Key_DevilsFeeCellarChest
 #: Gustav/Public/GustavDev/RootTemplates/443a4b1a-92d4-4a62-816e-d7437eee0a0e.lsx:25
-#, fuzzy
 msgctxt "h07679a67gab15g42e0g828bg394df927d120"
 msgid "An elaborate key, plated with silver."
 msgstr "은으로 도금된 정교한 열쇠입니다."
@@ -77148,9 +75831,10 @@ msgstr "광이 나는 단검"
 #, fuzzy
 #| msgid ""
 #| "Darker than a starless night, Night Walkers are made for secrecy in the "
-#| "honour of Shar.<br>This particular pair was found deep in the ruins of an "
-#| "Underdark fortress. Though the the leather is old and the magic is fading, "
-#| "the boots were recently cleaned and oiled with care."
+#| "honour of Shar.\n"
+#| "This particular pair was found deep in the ruins of an Underdark fortress. "
+#| "Though the the leather is old and the magic is fading, the boots were "
+#| "recently cleaned and oiled with care."
 msgctxt "hd7db0b70g8989g45e0g8af1gc6a9fd7827cc"
 msgid ""
 "Darker than a starless night, Night Walkers are made for secrecy in the "
@@ -77160,9 +75844,9 @@ msgid ""
 "cleaned and oiled with care."
 msgstr ""
 "별이 없는 밤하늘보다도 더 어두운 밤의 보행자는 샤를 기리기 위해 비밀리에 "
-"만들어진 것입니다.<br>이 한 쌍은 언더다크 요새 폐허 깊숙한 곳에서 "
-"발견되었습니다. 이 장화의 가죽은 오래되었고 마법은 사라지고 있지만, 최근에 "
-"신경써서 닦이고 기름칠되었습니다."
+"만들어진 것입니다.\n"
+"이 한 쌍은 언더다크 요새 폐허 깊숙한 곳에서 발견되었습니다. 이 장화의 가죽은 "
+"오래되었고 마법은 사라지고 있지만, 최근에 신경써서 닦이고 기름칠되었습니다."
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/ac9145d1-31d0-4aa3-8755-62cc85dad22b.lsx
 #. NodeID = GameObjects
@@ -77414,11 +76098,6 @@ msgstr "밀수꾼의 반지"
 #. Type = item
 #. Stats = PLA_ZhentCave_Gloves
 #: Gustav/Public/Gustav/RootTemplates/69271c04-ab3d-4efc-ab3c-4ca6c5ec7db3.lsx:16
-#, fuzzy
-#| msgid ""
-#| "Grants wearer ability to cast Hail of Thorns.<br><br><i>Whoever previously "
-#| "owned these gloves marked each with a series of thirty superficial scrapes, "
-#| "six per finger. What they indicate is unclear.</i> "
 msgctxt "h67b2e826g9777g4c0eg8817gf53e0186e355"
 msgid ""
 "Grants wearer ability to cast Hail of Thorns.\n"
@@ -77426,9 +76105,10 @@ msgid ""
 "<i>Whoever previously owned these gloves marked each with a series of thirty "
 "superficial scrapes, six per finger. What they indicate is unclear.</i> "
 msgstr ""
-"착용자에게 Hail of Thorns 시전 능력을 부여한다.<br><br><i>이 장갑의 예전 "
-"주인은 손가락 하나에 여섯 개씩, 장갑 한 짝마다 삼십 개의 긁힌 자국을 얕게 파 "
-"놓았습니다. 무엇을 뜻하는지는 불분명합니다.</i> "
+"착용자에게 Hail of Thorns 시전 능력을 부여한다.\n"
+"\n"
+"<i>이 장갑의 예전 주인은 손가락 하나에 여섯 개씩, 장갑 한 짝마다 삼십 개의 "
+"긁힌 자국을 얕게 파 놓았습니다. 무엇을 뜻하는지는 불분명합니다.</i> "
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/69271c04-ab3d-4efc-ab3c-4ca6c5ec7db3.lsx
 #. NodeID = GameObjects
@@ -77916,7 +76596,6 @@ msgstr ""
 #. Stats = PUZ_Key
 #. Key = SHA_Key_HQ_Chest
 #: Gustav/Public/GustavDev/RootTemplates/44f8f5c2-4e42-48ee-9eb7-9c1773a7d769.lsx:25
-#, fuzzy
 msgctxt "h0c8a457fg0fb1g4d36g83e5g0b9f2812da61"
 msgid "An elaborate key, plated with silver."
 msgstr "은으로 도금된 정교한 열쇠입니다."
@@ -78344,8 +77023,9 @@ msgstr ""
 #| "wand and explodes into flame. All nearby creatures must make a <LSTag "
 #| "Tooltip=\"DifficultyClass\">DC</LSTag> 15 Dexterity <LSTag Tooltip="
 #| "\"SavingThrow\">Saving Throw</LSTag>. A target takes 8d6 Fire damage on a "
-#| "failed save, or half as much damage on a successful one. <br><br><i>The "
-#| "metal of this wand is dented all along its shaft, and the tip is bent "
+#| "failed save, or half as much damage on a successful one. \n"
+#| "\n"
+#| "<i>The metal of this wand is dented all along its shaft, and the tip is bent "
 #| "entirely out of place.</i>"
 msgctxt "hb90e0c55gd1b0g4ef8gbea7g8de65878bb62"
 msgid ""
@@ -78362,8 +77042,10 @@ msgstr ""
 "화염으로 폭발합니다. 근처의 모든 크리쳐는 <LSTag Tooltip=\"DifficultyClass\""
 ">난이도</LSTag> 15의 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>을 "
 "요구받습니다. 내성 굴림에 실패한 경우 8d6의 화염 피해를 입으며, 성공한 경우 "
-"절반의 피해만 받습니다. <br><br><i>이 지팡이의 금속은 축 전체가 움푹 패여 "
-"있고 끝이 완전히 제자리를 벗어나 구부러져 있습니다.</i>"
+"절반의 피해만 받습니다. \n"
+"\n"
+"<i>이 지팡이의 금속은 축 전체가 움푹 패여 있고 끝이 완전히 제자리를 벗어나 "
+"구부러져 있습니다.</i>"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/7fe2b8bb-473a-4a1b-96a6-840a629c2444.lsx
 #. NodeID = GameObjects
@@ -78526,7 +77208,6 @@ msgstr ""
 #. Type = item
 #. Icon = Item_CONT_GEN_Crate_Wood_B
 #: Gustav/Public/GustavDev/RootTemplates/5cf0bffd-6d1d-4955-bced-97c5cbf2883c.lsx:19
-#, fuzzy
 msgctxt "he4303870g0d4ag4e4agad0agb5e50e9921b4"
 msgid "A symbol of a proud stag is burned into the side of this crate."
 msgstr "이 상자의 측면에는 긍지 있는 수사슴의 상징이 새겨져 있습니다."
@@ -80700,7 +79381,6 @@ msgstr ""
 #. Icon = Item_DEC_GEN_Crate_Wood_Open_A
 #. Stats = OBJ_Crate
 #: Shared/Public/SharedDev/RootTemplates/162203ba-7413-4417-8f05-bd03538ff2b4.lsx:20
-#, fuzzy
 msgctxt "hec9cd091g6254g44a2gb498g80d731b390b5"
 msgid "Often hauled about by merchants and mongers."
 msgstr "상인과 장사꾼들이 애용합니다."
@@ -80725,7 +79405,6 @@ msgstr ""
 #. Icon = Item_DEC_GEN_Crate_Wood_Open_A
 #. Stats = OBJ_Crate
 #: Shared/Public/SharedDev/RootTemplates/29dcb091-043a-45b6-8bad-481c19488f9b.lsx:20
-#, fuzzy
 msgctxt "h9210d144gd654g410fg816fgcf4f786fa87f"
 msgid "Often hauled about by merchants and mongers."
 msgstr "상인과 장사꾼들이 애용합니다."
@@ -81864,7 +80543,6 @@ msgstr "계단"
 #. Icon = Item_WPN_HUM_Magicstaff_A_0
 #. Stats = WPN_Quarterstaff
 #: Shared/Public/SharedDev/RootTemplates/f606e1cb-b6ad-4787-a633-d74c480e4eea.lsx:23
-#, fuzzy
 msgctxt "he4b1ed58g9503g4551gba4eg1529f46f0b87"
 msgid ""
 "The piece of electrum embedded at the top of this staff is filed to a point "
