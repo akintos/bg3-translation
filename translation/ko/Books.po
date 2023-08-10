@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-10 10:54+0000\n"
+"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/books/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/cec88382-24b3-41e9-9a9c-bd1c7039d907.lsx
 #. NodeID = GameObjects
@@ -20,7 +22,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/cec88382-24b3-41e9-9a9c-bd1c7039d907.lsx:13
 msgctxt "h2dadc7a4g9fd7g4c60ga0dfg9b1a070b3cea"
 msgid "Simple Poison Recipe"
-msgstr ""
+msgstr "단순한 독 제조법"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/4ac870b9-b40d-416e-8774-0c9f15a416f2.lsx
 #. NodeID = GameObjects
@@ -31,7 +33,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/4ac870b9-b40d-416e-8774-0c9f15a416f2.lsx:14
 msgctxt "h9f22cfc6g7ce2g41c8g83d0g9c4349db9817"
 msgid "Barkskin Recipe"
-msgstr ""
+msgstr "나무껍질 제조법"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/4ac870b9-b40d-416e-8774-0c9f15a416f2.lsx
 #. NodeID = GameObjects
@@ -44,7 +46,7 @@ msgctxt "h100f26e2gcd80g4ac0g8f75ged2487ba1d74"
 msgid ""
 "Imbibing a chunky, wood-grain tasting broth of Barkskin will make the "
 "drinker's flesh as hard as oak. "
-msgstr ""
+msgstr "육중한 목질 섬유 맛이 나는 나무껍질의 수액을 마신 자의 피부는 참나무처럼 단단해집니다. "
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/1aa1e3fa-3671-4491-8153-a697b0397bc1.lsx
 #. NodeID = GameObjects
@@ -55,7 +57,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/1aa1e3fa-3671-4491-8153-a697b0397bc1.lsx:13
 msgctxt "hb4f7c155gf3a4g42b1gbc3egefaaf36b17a5"
 msgid "On Weapon Coatings"
-msgstr ""
+msgstr "무기 코팅에 대해"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/1aa1e3fa-3671-4491-8153-a697b0397bc1.lsx
 #. NodeID = GameObjects
@@ -64,11 +66,12 @@ msgstr ""
 #. Type = item
 #. Stats = BOOK_Alchemy_Coatings
 #: Shared/Public/SharedDev/RootTemplates/1aa1e3fa-3671-4491-8153-a697b0397bc1.lsx:15
+#, fuzzy
 msgctxt "hd0eb0b4bgdb28g4bcag9f00ga4c5adc40022"
 msgid ""
 "Part 10 of the Basics of Alchemy series by Haskinn Xhesilaphin, a descaled "
 "dragonborn who lived a life of difficult pain and commendable selflessness."
-msgstr ""
+msgstr "연금술의 기초 제 10권. 힘든 고난을 겪고도 훌륭한 이타심으로 살았던 비늘 없는 드래곤본 하스킨 제실라핀 씀."
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/0c356479-9f2c-413c-8fed-cab3a6fae19b.lsx
 #. NodeID = GameObjects
@@ -92,7 +95,7 @@ msgstr "데일랜드의 식생"
 #: Gustav/Public/Gustav/RootTemplates/0c356479-9f2c-413c-8fed-cab3a6fae19b.lsx:19
 msgctxt "h1a69b83eg230ag45b2gbe2egbac86d4c7d83"
 msgid "Read"
-msgstr ""
+msgstr "읽기"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/0c356479-9f2c-413c-8fed-cab3a6fae19b.lsx
 #. NodeID = GameObjects
@@ -105,7 +108,7 @@ msgstr ""
 msgctxt "hf0b0698egf3a1g43b2g9550g18ae2b59927d"
 msgid ""
 "A volume detailing the many plants found in the Dalelands of north Faerûn."
-msgstr "페이룬 북부 데일랜드에서 발견되는 식물에 관해 상세히 설명해둔 책입니다."
+msgstr "페이룬 북부 데일랜드에서 발견되는 식물에 대해 상세히 설명해둔 책."
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/0c356479-9f2c-413c-8fed-cab3a6fae19b.lsx
 #. NodeID = GameObjects
@@ -117,7 +120,7 @@ msgstr "페이룬 북부 데일랜드에서 발견되는 식물에 관해 상세
 #: Gustav/Public/Gustav/RootTemplates/0c356479-9f2c-413c-8fed-cab3a6fae19b.lsx:21
 msgctxt "h224349deg308ag4edbg8009g93f85882089a"
 msgid "This book is unread."
-msgstr ""
+msgstr "이 책은 읽힌 적이 없다."
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/158155a6-c633-4917-94cd-ef4cd9487716.lsx
 #. NodeID = GameObjects
@@ -128,7 +131,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/158155a6-c633-4917-94cd-ef4cd9487716.lsx:13
 msgctxt "h68e60cd8g8e02g4a3fgae34gb414060ee240"
 msgid "Recipe of Elixir of Arcane Cultivation"
-msgstr ""
+msgstr "비전 수행의 영약 제조법"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/67d0aa41-9847-4305-8b30-e0cf4b9fa8ee.lsx
 #. NodeID = GameObjects
@@ -139,7 +142,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/67d0aa41-9847-4305-8b30-e0cf4b9fa8ee.lsx:13
 msgctxt "hefd9e03cg5e0bg4d34g9e31g89f55cb1eaeb"
 msgid "Alchemical Extracts"
-msgstr ""
+msgstr "연금술 추출물"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/9d22af1b-c18d-40c7-b1d0-be388e0dfe43.lsx
 #. NodeID = GameObjects
@@ -150,7 +153,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/9d22af1b-c18d-40c7-b1d0-be388e0dfe43.lsx:14
 msgctxt "h770890c1gb29bg4db9gbcb5g71bccc5f577f"
 msgid "Extracts - The Rule of Three"
-msgstr ""
+msgstr "추출물 - 삼의 법칙"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/9d22af1b-c18d-40c7-b1d0-be388e0dfe43.lsx
 #. NodeID = GameObjects
@@ -159,12 +162,15 @@ msgstr ""
 #. Type = item
 #. Stats = BOOK_Alchemy_ExtractsRuleOfThree
 #: Shared/Public/SharedDev/RootTemplates/9d22af1b-c18d-40c7-b1d0-be388e0dfe43.lsx:16
+#, fuzzy
 msgctxt "he025ec9fgb33fg467fg973fge485260889b4"
 msgid ""
 "The back cover of this book proudly proclaims: 'The most famed and "
 "comprehensive beginner's guide to all things alchemy, in a beautiful 50th "
 "anniversary edition. Now with foreword by Adynn Ilvar.'"
 msgstr ""
+"이 책의 뒤 표지는 '연금술의 가장 유명하고 포괄적인 초보자 가이드, 50주년 기념판. 에딘 일버의 머리말 동봉'이라고, 자랑스럽게 "
+"선전하고 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/a1f70b6d-b07f-48d3-aa43-8e80089e97c8.lsx
 #. NodeID = GameObjects
@@ -175,7 +181,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/a1f70b6d-b07f-48d3-aa43-8e80089e97c8.lsx:13
 msgctxt "hd9902032gd332g4c6cgb38eg54fd442202fb"
 msgid "Potion of Healing Recipe"
-msgstr ""
+msgstr "치유의 물약 제조법"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/906a7085-246e-4c35-8a9c-6ade3703a62f.lsx
 #. NodeID = GameObjects
@@ -186,7 +192,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/906a7085-246e-4c35-8a9c-6ade3703a62f.lsx:13
 msgctxt "h2481c3bcg4ff7g448agb97bg6f13fe427ce1"
 msgid "On The Greater Healing Potion"
-msgstr ""
+msgstr "강력한 치유 물약에 대해"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/906a7085-246e-4c35-8a9c-6ade3703a62f.lsx
 #. NodeID = GameObjects
@@ -195,11 +201,12 @@ msgstr ""
 #. Type = item
 #. Stats = BOOK_Alchemy_HealingPotionGreater
 #: Shared/Public/SharedDev/RootTemplates/906a7085-246e-4c35-8a9c-6ade3703a62f.lsx:15
+#, fuzzy
 msgctxt "hf693c925g7344g4c35gb603gce6dc5988534"
 msgid ""
 "Part 11 of the Basics of Alchemy series by Haskinn Xhesilaphin, a descaled "
 "dragonborn who lived a life of difficult pain and commendable selflessness. "
-msgstr ""
+msgstr "격통과 이타심의 삶을 살았던, 비늘 없는 드래곤본 해스킨 제실라핀이 쓴 연금술의 기초 시리즈 중 제 11탄. "
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/b7b4f043-cb61-4e02-86e1-33845af4bc46.lsx
 #. NodeID = GameObjects
@@ -210,7 +217,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/b7b4f043-cb61-4e02-86e1-33845af4bc46.lsx:13
 msgctxt "hf2fb793bgfd2ag4319g8975g8567591f19fc"
 msgid "Flask of Light"
-msgstr ""
+msgstr "빛의 플라스크"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/db5ca6a8-89cb-44d8-91d3-b22afbda8a6c.lsx
 #. NodeID = GameObjects
@@ -221,7 +228,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/db5ca6a8-89cb-44d8-91d3-b22afbda8a6c.lsx:13
 msgctxt "h0cd21a18g5491g4433g8ee5g264f22258c71"
 msgid "Potion of Animal Speaking Recipe"
-msgstr ""
+msgstr "동물 언어의 물약 제조법"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/c850af9c-af96-467c-8b23-0bcce0273301.lsx
 #. NodeID = GameObjects
@@ -232,7 +239,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/c850af9c-af96-467c-8b23-0bcce0273301.lsx:14
 msgctxt "h335a1df1gd611g4ca3g95fbg7c99a380af25"
 msgid "On Potions and Elixirs "
-msgstr ""
+msgstr "물약과 영약에 대해 "
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/c850af9c-af96-467c-8b23-0bcce0273301.lsx
 #. NodeID = GameObjects
@@ -241,11 +248,12 @@ msgstr ""
 #. Type = item
 #. Stats = BOOK_Alchemy_PotionsVsElixirs
 #: Shared/Public/SharedDev/RootTemplates/c850af9c-af96-467c-8b23-0bcce0273301.lsx:16
+#, fuzzy
 msgctxt "h4c754d3dg16cfg4347ga5e5g7bc6bde563e0"
 msgid ""
 "Part 9 of the Basics of Alchemy series by Haskinn Xhesilaphin, a descaled "
 "dragonborn who lived a life of difficult pain and commendable selflessness. "
-msgstr ""
+msgstr "격통과 이타심의 삶을 살았던, 비늘 없는 드래곤본 해스킨 제실라핀이 쓴 연금술의 기초 시리즈 중 제 9탄. "
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/32d92bb6-23f4-43bf-a979-8cf895479853.lsx
 #. NodeID = GameObjects
@@ -254,9 +262,10 @@ msgstr ""
 #. Type = item
 #. Stats = BOOK_Alchemy_SerpentVenom
 #: Shared/Public/SharedDev/RootTemplates/32d92bb6-23f4-43bf-a979-8cf895479853.lsx:13
+#, fuzzy
 msgctxt "hf95703c3g8b6bg4508g8cddg0e05836f24a4"
 msgid "On Serpent Venom Toxin"
-msgstr ""
+msgstr "뱀의 맹독성에 대해"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/32d92bb6-23f4-43bf-a979-8cf895479853.lsx
 #. NodeID = GameObjects
@@ -265,11 +274,12 @@ msgstr ""
 #. Type = item
 #. Stats = BOOK_Alchemy_SerpentVenom
 #: Shared/Public/SharedDev/RootTemplates/32d92bb6-23f4-43bf-a979-8cf895479853.lsx:15
+#, fuzzy
 msgctxt "h45ad095cg006fg41aeg9f85g67b9e7dab95f"
 msgid ""
 "Part 13 of the Basics of Alchemy series by Haskinn Xhesilaphin, a descaled "
 "dragonborn who lived a life of difficult pain and commendable selflessness. "
-msgstr ""
+msgstr "격통과 이타심의 삶을 살았던, 비늘 없는 드래곤본 해스킨 제실라핀이 쓴 연금술의 기초 시리즈 중 제 13탄. "
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/fb9c7104-d47d-4584-86af-df500013097c.lsx
 #. NodeID = GameObjects
@@ -280,7 +290,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/fb9c7104-d47d-4584-86af-df500013097c.lsx:14
 msgctxt "h27f41d7ag7633g4262ga0cagaf8213799950"
 msgid "Toxin Recipe"
-msgstr ""
+msgstr "맹독 제조법"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/9b5a836f-641e-4fc3-8c1d-ef711c61212f.lsx
 #. NodeID = GameObjects
@@ -289,9 +299,10 @@ msgstr ""
 #. Name = BOOK_Ancient_Language_A
 #. Type = item
 #: Shared/Public/SharedDev/RootTemplates/9b5a836f-641e-4fc3-8c1d-ef711c61212f.lsx:8
+#, fuzzy
 msgctxt "hd921e864gade4g417bg993bg2a8c02222cdf"
 msgid "Gilded Tome"
-msgstr ""
+msgstr "금빛 서적"
 
 #. key = BOOK_Alchemy_Barkskin
 #. 
@@ -300,6 +311,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_Alchemy_Barkskin
 #: Gustav/Mods/GustavDev/Localization/Act2_Books.lsx:764
+#, fuzzy
 msgctxt "hdcdc367eg8232g47e9g8a07gb562b065aef8"
 msgid ""
 "Frivolity gave me a glimmer of hope today. I took precious time away from "
@@ -331,6 +343,29 @@ msgid ""
 "[A small note was added to this edition of the text. It simply reads: 'I "
 "saved my guinea pig!']"
 msgstr ""
+"오늘, 하찮은 시간 낭비 덕분에 한 가닥 희망을 보았다. 백금 비늘의 연구에 쓸 귀중한 시간을 할애해, 애완 기니피그가 가시 덤불 사이에 "
+"갇혀버린 노움을 도와주었다. 노움은 기니피그의 피부를 단단하게 할 방법을 찾고 있었고, 도와주자, 나의 비늘 없는 맨손에 입 맞춘 후 "
+"기분 좋게 떠나갔다.\n"
+"\n"
+"나무껍질의 영약 1병을 제조하는 법\n"
+"\n"
+"필요한 추출물:\n"
+"---- 뒤틀린 나무 껍질 화합물\n"
+"---- 진흙 메피트의 날개 혹은 라쿨라이트의 현탁액\n"
+"\n"
+"방법:\n"
+"섞어서 흔들어라. 그거면 충분하다.\n"
+"\n"
+"연금술에 모호한 게 있을 땐\n"
+"절박한 기니피그를 도와라\n"
+"가시 덤불 사이에서 빼낸 후엔\n"
+"차 한잔이라도 대접해라\n"
+"\n"
+"나무껍질의 성공에서 영감을 받아 나의 쑤시는 전신을 단단하고 빛나는 백금 비늘로 덮기 위한 실험을 여러 개 더 진행할 수 있었다. 내 "
+"왼손으로 글쓰기가 더 어렵워졌다. 노움이 입 맞춘 오른손도 고통스럽기는 마찬가지이다. 비록 참을 수 없는 고통의 나날이지만 정말 오랜만에 "
+"희망이 보이는 듯하다! 정말로!!\n"
+"\n"
+"[현행 판에서는 위 본문에 '내 기니피그를 구했다!'라는 짧은 노트가 추가되었습니다.]"
 
 #. key = BOOK_Alchemy_Coatings
 #. 
@@ -339,6 +374,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_Alchemy_Coatings
 #: Gustav/Mods/GustavDev/Localization/Act2_Books.lsx:750
+#, fuzzy
 msgctxt "hab31db90ge844g42a0ga029gfa32d163fc4e"
 msgid ""
 "Group of adventurers approached me, their grins docile and earnest, and they "
@@ -363,6 +399,21 @@ msgid ""
 "I'll leave it untouched in previous chapters, but from now on I'm having a "
 "bit of fun with it."
 msgstr ""
+"한 모험가 무리가 나를 찾아왔다. 자신들을 거인 사냥꾼이라 칭한 그들은 얼빠지게 미소 지으며 무기 코팅을 구별하기 위해 나의 연금술 "
+"지식이 필요하다고 말했다. 이 멍청하지만, 심성은 좋은 자들을 불쌍히 여겨 설명을 -\n"
+"\n"
+"[이 이후는 도저히 읽을 수 없을 만큼 페이지가 훼손되었습니다. 고맙게도 누군가 여백에 다음과 같은 메모를 남겼습니다:]\n"
+"\n"
+"독 - 대상이 중독되면 일정 확률로 추가 상태 이상을 유발한다\n"
+"맹독 - 일정 시간마다 피해를 준다.\n"
+"오일 - 상태 이상을 유발하고 독과 맹독에 면역인 짐승에게도 피해를 준다.\n"
+"\n"
+"연금술에 모호한 게 있나?\n"
+"삼의 법칙을 기억하라\n"
+"제대로 한다면 세 번만 틀어도\n"
+"까치를 가루내기엔 충분하다오\n"
+"\n"
+"속이 다 시원하군. 이 망할 운 맞추기도 슬슬 질리는 참이다. 이 전에 쓴 것들은 그대로 두겠지만 앞으론 내가 재밌는 형태로 써보려 한다."
 
 #. key = BOOK_Alchemy_ElixirArcaneCultivation
 #. 
@@ -401,6 +452,28 @@ msgid ""
 "Thrice the same ingredient\n"
 "Forms an extract excellent"
 msgstr ""
+"[비록 책에 곰팡이가 피고 동물 내장의 흔적으로 덮여있지만, 이 제조법 만은 아직 읽혀집니다.]\n"
+"\n"
+"타인을 돕는 것은 예상 외로 즐거웠다. 나 자신에게 위브를 다루는 재능은 없지만, 이 물약을 제조해 줬을 때 니크로의 충격 받은 표정이, "
+"물약을 마신 후의 얼굴이 머릿속을 떠나지 않는다. 마치 몸속에 낯간지러운 전류가 흐르는 듯하다.\n"
+"\n"
+"비전 수행의 영약 한 병을 제조하는 법\n"
+"\n"
+"필요한 추출물:\n"
+"---- 위브모스로 만든 황산\n"
+"---- 벨라도나의 승화기체\n"
+"\n"
+"방법:\n"
+"소량씩 승화기체를 위브모스 황산에 첨가하고 두 추출물이 매끄럽게 섞일 때까지 잘 섞어준다. 비전 에너지가 가시화될 때까지 약 불에 "
+"달이거나 햇볕에 둔다.\n"
+"\n"
+"[마지막 문단은 동그라미가 세 번 처져있습니다. 그중 한 번은 피로 그려졌습니다.]\n"
+"\n"
+"언제나처럼:\n"
+"연금술에 모호한 게 있나?\n"
+"삼의 법칙을 기억하라\n"
+"같은 재료를 세 번 넣어 보니\n"
+"훌륭한 추출물이 나오느니"
 
 #. key = BOOK_Alchemy_ExtractTypes
 #. 
@@ -440,6 +513,33 @@ msgid ""
 "\n"
 "hot chocolat it tastes just lik hot chocolate"
 msgstr ""
+"여행을 떠나기 전에\n"
+"한 가지 더 보여주고 싶은 게 있다, 독자여\n"
+"내가 연금술에 남기는 불쾌한 핑크색 족적이라 해보지\n"
+"\n"
+"모든 용액엔 하나! 단 하나!의 기반 추출물이 있다\n"
+"그 후엔 화학 친화력만 알맞다면! 무엇이든 혼합해도 된다!\n"
+"\n"
+"예르 들어 치유 물약 만들 때\n"
+"도둑 한입 버섯 화합물을 기반으로!\n"
+"보통으 불리웍 현탁액과 혼합하지만!\n"
+"실은 현탁액이면 아무거나 된다!\n"
+"\n"
+"기반이 되는 추출물이 가장 중요하다!!!!\n"
+"\n"
+"이젠 왼손도 오그라들어서 아프다 쓰기 힘들다\n"
+"원하는 게 많다 할 일이 많다 도와줘야 할 사람들 보고 싶은 사람들 기쁘게 하고 싶은 사람들 연금술로\n"
+"미치겠어 아파 아직 자아가 남아있을 때 독 마셔야 됨\n"
+"\n"
+"옛 정을 위해:\n"
+"연금술에 모호한 게 잇나?\n"
+"삼의 법칙으 기억하라\n"
+"같은 재로를 세 번 넣어 보니\n"
+"훌륭한 추출무이 나오느니\n"
+"\n"
+"이제 약 머거야 한다\n"
+"\n"
+"하 초코 딱 핫 초코 마시 난다"
 
 #. key = BOOK_Alchemy_ExtractsRuleOfThree
 #. 
@@ -484,6 +584,31 @@ msgid ""
 "Thrice the same ingredient\n"
 "Forms an extract excellent"
 msgstr ""
+"[장황한 도입부가 헤스킨 제실라핀의 업무 일지에서 있는 그대로 발췌한 노트들이 대중에게 연금술을 넓히는데 크게 이바지했다고 설명하고 "
+"있습니다.\n"
+"\n"
+"도입부는 청소년 시기에 비늘을 잃고 본인의 피부를 수복하기 위해 연금술 연구를 시작한 한 드래곤본의 이야기로부터 시작합니다.\n"
+"\n"
+"페이지를 넘기고 또 넘겨도 본인의 연구를 미루어서라도 만민을 돕고자 했던 제실라핀의 이타심에 칭찬 일색입니다.\n"
+"\n"
+"하지만 제실라핀의 실제 연구 노트가 훨씬 흥미로워 보입니다.]\n"
+"\n"
+"결정했다. 내가 지금까지 써왔고 또 앞으로 쓸 노트들을 모두 대중에게 공개할 것이다. 현재 이 글을 읽고 있는 당신 역시 그 중 한 "
+"사람일 것이다.\n"
+"\n"
+"조금이라도 빨리 물약 제조에 뛰어들고 싶은 마음은 알겠지만, 우선 연금술의 가장 기초적인 법칙, 삼의 법칙부터 알아보자.\n"
+"\n"
+"대부분 재료는 페이룬 곳곳에서 찾을 수 있지만, 연금술에 사용되기 위해선 우선 정제되어야만 한다. 방법은 간단하다. 같은 재료 3개를 "
+"합치면 추출물이 얻어진다. 이러한 추출물을 이용해 물약, 독, 기름과 영약을 제조하는 것이다.\n"
+"\n"
+"기억하자. 같은 재료 3개를 합치면 추출물이 얻어진다.\n"
+"\n"
+"혹은, 이쪽이 더 기억하기 쉽다면:\n"
+"\n"
+"연금술에 모호한 게 있나?\n"
+"삼의 법칙을 기억하라\n"
+"같은 재료를 세 번 넣어 보니\n"
+"훌륭한 추출물이 나오느니"
 
 #. key = BOOK_Alchemy_HealingPotionGreater
 #. 
@@ -516,6 +641,24 @@ msgid ""
 "frivolously and try something - anything! I need this pain to be gone. I "
 "can't take it."
 msgstr ""
+"이전에 친구에게 화를 낸 것을 사과하는 의미로, 핫 초콜릿을 들고 가 강력한 치유 물약을 만드는 방법을 알려주려 했다. 제조법을 한 번 "
+"보고, 핫 초콜릿을 한 번 보고, 마지막으로 나를 한번 보더니 말 한마디 없이 가버리더군. 속 좁은 씨발 놈 같으니.\n"
+"\n"
+"강력한 치유 물약 한 병을 제조하는 법\n"
+"\n"
+"필요한 추출물:\n"
+"---- 발삼 수지를 태운 재\n"
+"---- 균열 크리퍼 혹은 뒤틀린 나무 껍질의 화합물 (솔직히 화합물이면 아무거나 상관없다)\n"
+"\n"
+"방법: 그냥 큰 그릇에 대충 혼합해라. 결과만 좋으면 됐지...\n"
+"\n"
+"연금술에 모호한 게 있나?\n"
+"삼의 법칙을 기억하라\n"
+"딱 삼 일만 안 아파도\n"
+"정신이 멀쩡해질지도\n"
+"\n"
+"백금 비늘의 연구로 복귀해야만 한다. 이 고통에서 해방되기 위해 시간 낭비 좀 그만하고 뭐라도, 아니 아무거라도 시도해야 한다. 더 이상 "
+"버티기 힘들다."
 
 #. key = BOOK_Alchemy_HealingPotion
 #. 
@@ -552,6 +695,27 @@ msgid ""
 "Thrice the same ingredient\n"
 "Forms an extract excellent"
 msgstr ""
+"비늘이 없어 조금만 잘 못 건드려도 따갑고 상처 입는 내 피부에 크나큰 위로가 되어준 제조법이다. 완벽하게 회복되는 일은 없었지만, 한 "
+"방울 한 방울이 나를 진정 시켜 준다. 이 제조법을 읽는 당신에게도 비슷하게 위안이 되어주길.\n"
+"\n"
+"[누군가 남은 여백을 '대체 왜 매번 치유 물약이야?????' '씨발 똥통 촌구석 마을 같으니'의 반복으로 채워 놨습니다. 가끔 '언젠가 "
+"이 개좆같은 제조법을 뿌린 놈을 족쳐버릴 테다'도 보입니다. 다행히 제조법 자체는 거의 가리지 않고 읽어집니다.]\n"
+"\n"
+"치유 물약 한 병을 제조하는 법\n"
+"\n"
+"필요한 추출물:\n"
+"---- 도둑한입 버섯 화합물\n"
+"---- 수중잔디의 현탁액\n"
+"\n"
+"방법:\n"
+"현탁액을 작은 소용돌이가 생길 때까지 젓는다. 넘치지 않게 주의하며 화합물을 흘려 넣는다. 화합물이 완전히 녹아 붉은 색상을 띄울 때까지 "
+"계속 젓는다.\n"
+"\n"
+"그리고 명심하라:\n"
+"연금술에 모호한 게 있나?\n"
+"삼의 법칙을 기억하라\n"
+"같은 재료를 세 번 넣어 보니\n"
+"훌륭한 추출물이 나오느니"
 
 #. key = BOOK_Alchemy_LightFlask
 #. 
@@ -560,6 +724,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_Alchemy_LightFlask
 #: Gustav/Mods/GustavDev/Localization/Act1b_Books.lsx:302
+#, fuzzy
 msgctxt "he2a23713g9288g4953gb324g2a2378c77296"
 msgid ""
 "Today in the Elfsong, Nikros sat down across from me bold as you like. I "
@@ -591,6 +756,30 @@ msgid ""
 "surprise, surprise) you leapt into my head. Hope you find a little light "
 "among the shadows. I'm sure you will, though none as bright as you. - Yrre']"
 msgstr ""
+"오늘 엘프송에 앉아 있던 와중 니크로스가 대담하게 내 맞은편에 앉았기에, 그 특유의 미소를 보기 위해 이 제조법을 건네주었다. 그는 급 "
+"화색이 돼서 눈까지 반짝거렸지만, 내가 기대했던 낯간지러움은 없이 피부만 아플 정도로 간지러웠을 뿐이었다.\n"
+"\n"
+"빛의 플라스크 한 병을 제조하는 법\n"
+"\n"
+"필요한 추출물:\n"
+"---- 밤빛의 정수\n"
+"---- 라쿨라이트의 현탁액\n"
+"\n"
+"방법:\n"
+"밤빛의 정수를 라쿨라이트를 통해 여과시킨다. 구리로 만든 막대로 젓는다. '참을 인' 자를 그리며 용액에서 광채가 나올 때까지 계속 "
+"젓는다.\n"
+"\n"
+"언제나처럼:\n"
+"연금술에 모호한 게 있나?\n"
+"삼의 법칙을 기억하라\n"
+"같은 재료를 세 번 넣어 보니\n"
+"훌륭한 추출물이 나오느니\n"
+"\n"
+"왜 일까. 이 짧은 교육용 운문을 쓰고 나니 입이 꽉 깨물어진다.\n"
+"아프다.\n"
+"\n"
+"[해당 사본에 짧은 주석이 달려있습니다: '레오노레, 이 제조법을 찾고 나서(너무 놀리지는 말고;) 바로 네 생각이 났어. 그림자 속에서 "
+"작은 빛이라도 찾을 수 있기를. 분명 찾을 수 있을 거야 - 그 어떤 빛도 너만큼 밝지는 않겠지만. - 이르']"
 
 #. key = BOOK_Alchemy_PotionAnimalSpeaking
 #. 
@@ -629,6 +818,28 @@ msgid ""
 "Thrice the same ingredient\n"
 "Forms an extract excellent"
 msgstr ""
+"이 제조법은 순전히 우연으로 발견하였지만, 새 비늘을 기르기 위한 치료제를 찾는데 큰 돌파구 중 하나가 되었다. 실수로 만든 물약을 "
+"복용하자 까치 한 마리가 자신이 찾은 아름다운 백금 비늘에 대해 자랑 하는 게 들렸다.\n"
+"\n"
+"이 비늘은 내가 지금까지 찾아낸 물체 중에서도 손에 꼽을 정도로 강한 힘이 깃들어 있다. 어쩌면 신룡 바하무트 본인에게서 떨어진 것일지도 "
+"모른다! 어떻게든 비늘에 깃든 힘을 활용할 수 있다면 나도 언젠가 비늘로, 그것도 백금의 비늘로 덮일 수 있을지 모른다.\n"
+"\n"
+"사족이 너무 길었군. 이 모든 것을 가능하게 한 물약의 제조법을 소개한다!\n"
+"\n"
+"동물 언어의 물약 한 병의 제조법\n"
+"\n"
+"필요한 추출물:\n"
+"---- 도토리 트뤼플의 정수\n"
+"---- 도둑한입 버섯의 화합물\n"
+"\n"
+"방법:\n"
+"정수가 튀는 일 없이 신중하게 화합물을 정수에 고루 뿌린다. 병에 코르크 마개를 한 후 부드럽게 팔자 패턴으로 돌려준다.\n"
+"\n"
+"언제나처럼:\n"
+"연금술에 모호한 게 있나?\n"
+"삼의 법칙을 기억하라\n"
+"같은 재료를 세 번 넣어 보니\n"
+"훌륭한 추출물이 나오느니"
 
 #. key = BOOK_Alchemy_PotionsVsElixirs
 #. 
@@ -637,6 +848,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_Alchemy_PotionsVsElixirs
 #: Gustav/Mods/GustavDev/Localization/Act2_Books.lsx:743
+#, fuzzy
 msgctxt "hc75a00e7g1817g412egafb7g2e1c4da47020"
 msgid ""
 "Today I snapped at a good friend of mine in the Elfsong. I'm embarrassed "
@@ -665,6 +877,26 @@ msgid ""
 "Potions - can benefit from multiple potion effects at the same time, but "
 "don't last as long as Elixirs."
 msgstr ""
+"오늘 엘프송에서 친한 친구에게 순간 욱하여 화를 냈다. 당시엔 아무렇지도 않았지만 지금 생각해 보니 후회된다. 아무래도 오랜만에 내 "
+"질환에 대해 깊이 생각하고 있다 보니 기분이 나빠진 모양이다.\n"
+"\n"
+"영약을 만들기 위한 영감이 속속들이 들어온다. 일반적인 영약은 마신 자가 잠에 들기 전까지만 효과가 있으니, 그것보다 훨씬 오래 "
+"지속되어야 할 것이다. 포션은 영약에 비해 용도도 제한되고 지속 시간도 짧다. 물론 영약은 한 번에 한 종류밖에 몸이 받아들이지 "
+"못하지만, 포션은 한 번에 여러 개를 복용하여 효과를 중첩할 수 있으니 완전한 하위호환은 아니다.\n"
+"\n"
+"기억하라:\n"
+"연금술에 모호한 게 있나?\n"
+"삼의 법칙을 기억하라\n"
+"같은 재료를 세 번 넣어 보니\n"
+"훌륭한 추출물이 나오느니\n"
+"\n"
+"비늘의 부재가 계속해서 문제가 되고 있다 (안 그런 적이 있던 것처럼 말하네 하하.)\n"
+"가끔 잠에서 깨면 흰 시트에 진홍색으로 내 몸의 흔적이 남는다. 무슨 범죄 현장 마냥.\n"
+"\n"
+"[빈 공간에 누군가 아래와 같은 주석을 달아 놨습니다:]\n"
+"\n"
+"영약 - 한 번에 하나만 복용할 수 있으며 긴 휴식에 들기 전까지 지속\n"
+"물약 - 한 번에 여러 개 복용할 수 있지만 영약 만큼 길게 지속되지 않음."
 
 #. key = BOOK_Alchemy_SerpentVenom
 #. 
@@ -673,6 +905,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_Alchemy_SerpentVenom
 #: Gustav/Mods/GustavDev/Localization/Act2_Books.lsx:771
+#, fuzzy
 msgctxt "hdcff1be0gaa92g475dgb7ddga1c0fea359fa"
 msgid ""
 "WOULD YOU LIKE TO KNOW SOMETHING INTERESTING\n"
@@ -686,6 +919,15 @@ msgid ""
 "\n"
 "it did not work the platinum scale plan did not work and i hurt so badly "
 msgstr ""
+"재밌는 사실을 알고 싶나?!\n"
+"독사 송곳니의 현탁액과 롤쓰의 촛불로 만든 황산을 혼합하면 (아무 황산이나 상관없다!) 독이 나온다!! 똑똑똑\n"
+"\n"
+"연금술에 모호한 게 있나?\n"
+"무아지경이 되고 싶나?\n"
+"비명이 혀끝까지 걸리네\n"
+"지금은 똑똑 독이 필요해\n"
+"\n"
+"실패했다 백금 비늘 계획은 실패다 아파 뒤질 것 같다 "
 
 #. key = BOOK_Alchemy_SimplePoison
 #. 
@@ -694,6 +936,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_Alchemy_SimplePoison
 #: Gustav/Mods/GustavDev/Localization/Act1b_Books.lsx:288
+#, fuzzy
 msgctxt "h0a4d7f6bga79fg4c5cg95bfg07fe443d9b0f"
 msgid ""
 "I have long wondered about whether to publish any malevolent concoctions I "
@@ -718,6 +961,24 @@ msgid ""
 "Thrice the same ingredient\n"
 "Forms an extract excellent"
 msgstr ""
+"지금까지 내가 만들어 온 제조물들 중 악의적인 것들은 제조법을 공표해야 할지 말아야 할지 오랫동안 고민해 왔다. 고민이 무색하게 "
+"니크로스는 그 망할 싱글벙글 미소로 날 설득하는 데 성공했다. 하지만, 확실히 모험가들에게 있어선 최고의 방어는 공격일지도 모른다. 부디 "
+"책임감을 느끼고 이 제조법으로 조금이라도 이성이 있는 생물에게 해를 끼치지 않기를 바란다.\n"
+"\n"
+"단순한 독 한 병을 제조하는 법\n"
+"\n"
+"필요한 추출물:\n"
+"---- 본캡 버섯으로 만든 황산\n"
+"---- 대거루트를 태운 재\n"
+"\n"
+"방법:\n"
+"황산 위에 재를 뿌린다. <i>절대로</i> 젓지 마라. 병 뚜껑을 닫고 악취가 날 때까지 기다린다.\n"
+"\n"
+"기억하라:\n"
+"연금술에 모호한 게 있나?\n"
+"삼의 법칙을 기억하라\n"
+"같은 재료를 세 번 넣어 보니\n"
+"훌륭한 추출물이 나오느니"
 
 #. key = BOOK_Alchemy_ToxinBasic
 #. 
@@ -726,6 +987,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_Alchemy_ToxinBasic
 #: Gustav/Mods/GustavDev/Localization/Act1b_Books.lsx:295
+#, fuzzy
 msgctxt "h8a70d527gaef9g42e0ga843gb14e256b2a39"
 msgid ""
 "Again, I would like to stress to any reader to only use these harmful "
@@ -756,6 +1018,31 @@ msgid ""
 "death on his own spit right after that attack, though.\n"
 "- Brem"
 msgstr ""
+"이 제조법을 읽는 모든 독자에게, 이런 해로운 용액들은 오로지 다른 수단이 남지 않았을 때, 그리고 지성 있는 생물이 대상이 아닐 때만 "
+"사용하도록 다시 한번 당부한다.\n"
+"\n"
+"단순한 맹독 한 병을 제조하는 법\n"
+"\n"
+"필요한 추출물:\n"
+"---- 불리웍 트럼펫의 현탁액\n"
+"---- 벨라도나의 승화기체\n"
+"\n"
+"방법:\n"
+"승화기체를 입으로 불거나 부채질하여 불리워그의 부리 현탁액에 뿌린다 (실수로 흡입하지 않도록 주의하라!). 플라스크 입구를 막고 세차게 "
+"흔든다.\n"
+"\n"
+"잊지 말라:\n"
+"연금술에 모호한 게 있나?\n"
+"삼의 법칙을 기억하라\n"
+"같은 재료를 세 번 넣어 보니\n"
+"훌륭한 추출물이 나오느니\n"
+"\n"
+"[빈자리에 누군가 흥분한 상태에서 쓴 듯한 메모가 남아있습니다:]\n"
+"\n"
+"벨라, 이거 꼭 한번 써봐. 하지만 조심해.\n"
+"이 맹독, 효과는 확실한데 독기가 돌기 까지 시간이 좀 걸리더라고. 스리슬쩍 했던 놈에게 써봤는데 내가 먼저 목이 날아갈 뻔했어. 그래도 "
+"직후에 본인 침이 기도를 막아서 질식사 하는 꼬락서니를 보니 웃기긴 하더라.\n"
+"- 브렘"
 
 #. key = BOOK_COL_BalthazarNotes
 #. 
@@ -764,6 +1051,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_COL_BalthazarNotes
 #: Gustav/Mods/GustavDev/Localization/Act2_Books.lsx:603
+#, fuzzy
 msgctxt "ha0cb6ddbgff6dg4200ga222g9e7950fc1a74"
 msgid ""
 "[Experimental notes written in Balthazar's precise hand.]\n"
@@ -780,6 +1068,16 @@ msgid ""
 "workbench.\n"
 "\n"
 msgstr ""
+"[발타자르 본인의 꼼꼼한 필체로 기록된 실험 노트입니다.]\n"
+"\n"
+"\n"
+"명백한 결함은 차치하더라도, 고르타쉬가 나이에 어울리지 않을 정도로 과학에 소질이 있다는 것은 부인할 수 없다. 그의 최신 발명품이 "
+"나오기 전의 일리시드 도서관은 줄지어 서 있는 통 속의 뇌에 불과했지만, 그 장치 덕분에 새 피실험자를 추가할 때와 직접적으로 소통해야 "
+"할 때를 제외하고, 단순히 기억을 열람해야 할 때는 더 이상 싸이오닉 능력을 쓸 필요가 없어졌다.\n"
+"\n"
+"최근에 들어온 피실험자들에게도 제멋대로 장치를 실험하려 들거나 내 작업대에 두개골 부스러기 흘려 놓고 안 치우는 습관만 고치면 얼마나 "
+"좋을까.\n"
+"\n"
 
 #. key = BOOK_COL_GortashNotes
 #. 
@@ -788,10 +1086,11 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_COL_GortashNotes
 #: Gustav/Mods/GustavDev/Localization/Act2_Books.lsx:610
+#, fuzzy
 msgctxt "h3de2f184gbac0g4bdbgb590g12cb4932de3e"
 msgid ""
 "[A letter from 'E.V.' to 'B' regarding automatons called 'steel watchers'.]"
-msgstr ""
+msgstr "['E.V'가 'B'에게 보내는, '강철의 감시자'라 불리는 자동인형에 대한 편지.]"
 
 #. key = BOOK_GEN_History_BhaalspawnTestimonials_000_3e3c378f-49d1-466c-8236-95e21bdd8211
 #. 
@@ -800,6 +1099,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_GEN_History_BhaalspawnTestimonials_000_3e3c378f-49d1-466c-8236-95e21bdd8211
 #: Gustav/Public/GustavDev/Localization/generated_books.lsx:5657
+#, fuzzy
 msgctxt "h85c53e2dg9edeg415dg8b7dg153b0715638d"
 msgid ""
 "[The guild seal on the inside of the cover belongs to a printmaking "
@@ -833,6 +1133,28 @@ msgid ""
 "\n"
 "[Several hundred more interviews follow, most of them terse.]"
 msgstr ""
+"[표지 안에 있는 길드 인장은 발더스게이트 판화 조합의 것입니다.]\n"
+"\n"
+"'물론 기억하고 있습니다. 그 여자애가 걷기 시작한 순간부터 문제를 일으킬 거라는 걸 알았지요. 그 꼬마 도둑 녀석은 모든 일에 "
+"끼어들더군요. 그리고 고라이온의 양자도 그 애와 어울리고 다녔어요. 그 애들에게 사악한 신의 피가 흐르고 있었다는 게 놀랄만한 일은 "
+"아니지요.' - 캔들킵, 익명의 누군가\n"
+"\n"
+"'언제나 가장 먼저 떠오르는 건 사레복과 그의 동료들이지. 이 모든 게 네쉬켈의 철 쪼가리에서 시작되었다는 것을 알고 있나? 그 녀석들, "
+"어찌나 자주 싸웠는지 모두 손에 쥔 채로 무기가 썩을 줄 알았어. 당시, 나는 장사가 안되는 게 문제라고 생각했지, 그 남자를 바알의 "
+"아들이라고 생각한 적은 없었네.' - 임종할 때 인터뷰한 암의 용병\n"
+"\n"
+"'감히 내 앞에서 그의 이름을 말하나? 나의 여주인님께서 그 천벌 받을 놈들과 싸우다 재가 되셨거늘. 바알을 저주하고, 이레니쿠스를 "
+"저주하고, 네놈을 저주하리라!' - 아스카틀라 빈민가의 적대적인 뱀파이어\n"
+"\n"
+"'그 다섯은 테시르를 갈기갈기 찢어놓았죠. 바알스폰이 더 나타나서 그들의 동족이 시작한 싸움을 수습할 거라고는 생각도 못 했어요. 그런데 "
+"또 그들은 서로 죽이는 경향이 있는 것 같더라고요, 그렇죠? 잘 된 거죠. 그들 모두가 페이룬에서 사라졌으면 좋겠습니다.' - 은퇴한 "
+"사라두쉬 상인\n"
+"\n"
+"'저는 당신 같은 사람과 어떤 살인 사건도 이야기할 권한이 없습니다. 논쟁을 원하시면 씨 타워에서 해주시길 바랍니다. 하지만 솔직히 "
+"말해서, 바알스폰이 욕 좀 들어먹으면 어떻습니까? 그들의 아버지는 결국 살인을 즐기는 부류니까요.' - 발더스 게이트, 플레이밍 피스트 "
+"건틀릿\n"
+"\n"
+"[수백의 인터뷰가 더 이어졌지만, 대부분 간결하고 쌀쌀합니다.]"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/ede84142-cf37-4aa7-addf-86c0c5f64cc0.lsx
 #. NodeID = GameObjects
@@ -842,7 +1164,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/ede84142-cf37-4aa7-addf-86c0c5f64cc0.lsx:15
 msgctxt "h82d08628gbdf5g4d0fgbbfdg66d87d2eef8d"
 msgid "Sheet Music"
-msgstr ""
+msgstr "악보"
 
 #. key = BOOK_UNI_WYR_IlmaterMusicSheet
 #. 
@@ -851,10 +1173,11 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_UNI_WYR_IlmaterMusicSheet
 #: Gustav/Public/GustavDev/Localization/generated_books.lsx:4691
+#, fuzzy
 msgctxt "h7f48d0a6g282cg481ag97e1g74f1d58d12fe"
 msgid ""
 "[An elegiac fugue in the key of D minor, entitled 'Ode to the Oppressed.']"
-msgstr ""
+msgstr "['억압받는 자에게 바치는 찬가'라는 제목의 D단조 애가조의 둔주곡]]"
 
 #. key = BOOK_UNI_WYR_LifeOfGortash
 #. 
@@ -863,6 +1186,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_UNI_WYR_LifeOfGortash
 #: Gustav/Public/GustavDev/Localization/generated_books.lsx:2374
+#, fuzzy
 msgctxt "ha071462fg1813g4182gbaf6g063d5acac82a"
 msgid ""
 "The True Life of 'Lord' Gortash \n"
@@ -890,6 +1214,28 @@ msgid ""
 "Gortash's most powerful defenders but also his greatest vulnerability, since "
 "they're all controlled from one central nexus."
 msgstr ""
+"고르타쉬 '경'의 인생\n"
+"반스 파르놀의 자서전 원고\n"
+"목차 개요, 최종본:\n"
+"-엔버 플림에서 생존을 위해 몸부림치다\n"
+"-치기 어린 날들, 플림에서의 전과 목록\n"
+"-힙사이드 리버들과 함께한 범죄 조직 시절\n"
+"-동일 인물, 다른 이름: 플림에서의 새 출발\n"
+"-게이트의 세련된 두목\n"
+"-개인 사업자로 세탁하다\n"
+"-'경쟁업자? 있었는데요 없었습니다'\n"
+"-무기 밀수에 힘쓰다\n"
+"-젠트에 몸담았던 시절을 뒤로 하다\n"
+"-베인의 검은 손\n"
+"-...바알의 피 묻은 손과 악수하다\n"
+"-'모든 걸 다 가졌어도 부족해'\n"
+"-정말 기발한 계획\n"
+"-케서릭 쏘름의 위엄\n"
+"-곤디안의 신분체계를 뿌리뽑다\n"
+"-'고르타쉬 경이라 부르게'\n"
+"\n"
+"참고: 주조장에서 탈출한 곤디안을 인터뷰하여 얻은 정보를 토대로 강철의 감시자에 대한 항목을 추가하세요. 대충 감시자들은 고르타쉬의 가장 "
+"강력한 호위이지만, 하나의 중앙 넥서스로부터 통제되기 때문에 가장 큰 약점이기도 하다는 내용입니다."
 
 #. key = BOOK_UNI_WYR_PleaOfRes
 #. 
@@ -898,12 +1244,15 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_UNI_WYR_PleaOfRes
 #: Gustav/Public/GustavDev/Localization/generated_books.lsx:4698
+#, fuzzy
 msgctxt "h1ea8e766ge2c0g4f5fg8a76gc7a812793569"
 msgid ""
 "[An hastily scrawled and slightly damp Plea of Rest, requesting to be freed "
 "of Ilmater's service for the duration of a tenday, as the writer mourns "
 "Father Lorgan.]"
 msgstr ""
+"[살짝 젖었고 급하게 쓰인 휴직 신청서. 로간 신부를 추모하기 위해 일메이터를 섬기는 직무로부터 열흘간 해방되기를 요청한다고 "
+"쓰여있습니다. ]"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/749e96c9-7748-433b-bf78-f6d6422840ed.lsx
 #. NodeID = GameObjects
@@ -915,7 +1264,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/749e96c9-7748-433b-bf78-f6d6422840ed.lsx:15
 msgctxt "hc2499c96g409ag4d3eg8288gebc3f389769d"
 msgid "Plea of Rest"
-msgstr ""
+msgstr "휴직 신청서"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/749e96c9-7748-433b-bf78-f6d6422840ed.lsx
 #. NodeID = GameObjects
@@ -927,7 +1276,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/749e96c9-7748-433b-bf78-f6d6422840ed.lsx:18
 msgctxt "h8bd4b987ge84dg4557g9bbegcf3480af78de"
 msgid "Read"
-msgstr ""
+msgstr "읽는다"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/749e96c9-7748-433b-bf78-f6d6422840ed.lsx
 #. NodeID = GameObjects
@@ -951,7 +1300,7 @@ msgstr "이 책은 종이와 잉크의 유혹적인 냄새가 풍깁니다."
 #: Gustav/Public/GustavDev/RootTemplates/749e96c9-7748-433b-bf78-f6d6422840ed.lsx:21
 msgctxt "hc1a03b1cgd578g48fbg847ag460c01215a58"
 msgid "This book is unread."
-msgstr ""
+msgstr "이 책은 읽힌 적이 없습니다."
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/49871a48-7f07-4310-84ef-e890983ea5c3.lsx
 #. NodeID = GameObjects
@@ -975,8 +1324,7 @@ msgctxt "h0f932925g0650g4785gb918ge1fecdf7654e"
 msgid ""
 "This very accurate book is packed full of tales of the grimy streets, "
 "raucous taverns, and outlandish characters of Baldur's Gate."
-msgstr "무척이나 정확한 이 책은 발더스 게이트의 더러운 거리와 시끄러운 선술집, "
-"기이한 특징들에 대한 이야기로 가득 차 있습니다."
+msgstr "무척이나 정확한 이 책은 발더스 게이트의 더러운 거리와 시끄러운 선술집, 기이한 인물들에 대한 이야기로 가득 차 있습니다."
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/88b9f7e6-afc6-4e86-a31b-41e8dc5dfd1a.lsx
 #. NodeID = GameObjects
@@ -1023,12 +1371,12 @@ msgstr "볼로의 님프 행동 완벽 안내서"
 #. Type = item
 #. Icon = Item_BOOK_Wizards_Tome_Generic_G
 #: Gustav/Public/Gustav/RootTemplates/f5eb9707-169e-47ce-bb3d-5d25d6fa8aa6.lsx:18
+#, fuzzy
 msgctxt "hba5263e5gb46cg4ca0ga8c8gada21897f101"
 msgid ""
 "The heavily edited draft of a book that examines the activities of nymphs in "
 "GREAT detail."
-msgstr "편집이 많이 된 이 초안본은 님프의 활동을 <b>무척이나</b> 상세하게 조사한 "
-"내용입니다."
+msgstr "님프의 활동을 <b>무척이나</b> 상세하게 조사한, 수많은 수정을 거친 책의 초안본."
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/8c5f1f1a-1bd5-408f-a072-cd7c8991dd39.lsx
 #. NodeID = GameObjects
@@ -1048,12 +1396,13 @@ msgstr "볼로의 님프 행동 완벽 안내서 (서명됨)"
 #. Type = item
 #. Icon = Item_BOOK_Wizards_Tome_Generic_G
 #: Gustav/Public/Gustav/RootTemplates/8c5f1f1a-1bd5-408f-a072-cd7c8991dd39.lsx:18
+#, fuzzy
 msgctxt "h24d0a239gb0d5g46f9gb35egdb1cefe80397"
 msgid ""
 "A fawning dedication opens this heavily edited draft of a book that examines "
 "the activities of nymphs in GREAT detail."
-msgstr "아첨하는 문체의 헌정사로 시작하는 이 초안본은 님프의 활동을 <b>무척이나</b> "
-"상세하게 조사한 내용입니다."
+msgstr ""
+"님프의 활동을 <b>무척이나</b> 상세하게 조사한, 수많은 수정을 거친 책의 초안본의 초입부를 아첨하는 문체의 헌정사가 열고 있습니다."
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/14d9b664-b4e4-4e22-a83f-7fafd09f61f5.lsx
 #. NodeID = GameObjects
@@ -1109,15 +1458,15 @@ msgstr "영혼에 관한 이 책의 초안은 분명히 작업 중인 작품이�
 #. HandlePath = Content
 #. UUID = CAMP_SwordCoastMap
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:799
+#, fuzzy
 msgctxt "h13aac684g8ee3g4206g919fg74599e79f2e7"
 msgid ""
 "[This map of the Sword Coast sprawls from the deep forest of Tethir to the "
 "frigid Spine of the World, its topography worn by ancient ink and the "
 "constant trade between mortal hands.]"
 msgstr ""
-"[이 소드 코스트 지도는 깊은 숲 테티르에서부터 얼어붙은 <b>세상의 등뼈</"
-"b>까지 뻗어있고, 각 지형 묘사는 시간의 파도와 끊임없는 손길에 의해 흐릿해져 "
-"있습니다.]"
+"[이 소드 코스트의 지도는 깊은 숲 테티르에서부터 얼어붙은 <b>세상의 등뼈</b>까지 뻗어있고, 각 지형 묘사는 세월의 풍파와 끊임없는 "
+"소유자 변경에 의해 흐릿해져 있습니다.]"
 
 #. key = CHA_BookOfTheDead
 #. 
@@ -1126,6 +1475,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = CHA_BookOfTheDead
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:365
+#, fuzzy
 msgctxt "hc47a5871g2066g4bbag8159gac5d279b26d9"
 msgid ""
 "[Fine dust coats the pages of this weathered book. Beneath the bone-white "
@@ -1135,8 +1485,7 @@ msgid ""
 "Ivain Arkenson, Oghma - Internal Rot.\n"
 "Devryn Stoutt, Selûne - Fever."
 msgstr ""
-"[고운 먼지가 낡은 책의 페이지에 쌓여 있습니다. 뼈처럼 흰 가루 아래에 수백 "
-"개의 부고가 깨알같이 기록되어 있습니다.]\n"
+"[고운 먼지가 낡은 책의 페이지에 쌓여 있습니다. 뼈처럼 흰 가루 아래에 수백 개의 부고가 깨알같이 기록되어 있습니다.]\n"
 "\n"
 "일메이터의 그로비안 티플- 익사.\n"
 "오그마의 르베인 아켄슨- 장기부패.\n"
@@ -1156,9 +1505,8 @@ msgid ""
 "stricken through, the final three thoroughly enough to be completely "
 "illegible.]"
 msgstr ""
-"[대부분이 낯설고 발음하기 어려운 죽은 신들의 이름이 이 고서의 페이지를 "
-"채우고 있습니다. 마지막 페이지의 항목 몇 개는 줄을 그어 지워 놓았고, 마지막 "
-"셋은 전혀 읽을 수 없게 빽빽히 그어져 있습니다.]"
+"[대부분이 낯설고 발음하기 어려운 죽은 신들의 이름이 이 고서의 페이지를 빼곡 채우고 있습니다. 마지막 페이지의 항목 몇 개는 줄을 그어 "
+"지워 놓았고, 마지막 셋은 전혀 읽을 수 없게 빽빽히 그어져 있습니다.]"
 
 #. key = CHA_NarrativeLoot_DeadAdventurers
 #. 
@@ -1181,8 +1529,7 @@ msgid ""
 "'You're blocking my light.'\n"
 "<i>-Dhana Ree, Waterdhavian featherlung</i>"
 msgstr ""
-"[빽빽하게 휘갈겨 쓴 글입니다. 알아볼 수 있는 소수의 항목은 수많은 사람들의 "
-"이름과 그들의 유언을 다루고 있습니다.]\n"
+"[빽빽하게 휘갈겨 쓴 글입니다. 알아볼 수 있는 소수의 항목은 수많은 사람들의 이름과 그들의 유언을 다루고 있습니다.]\n"
 "\n"
 "'와서 이것 좀 봐봐! 움직-'\n"
 "<i>-피너 소령, 연구실 폭발</i>\n"
@@ -1191,7 +1538,7 @@ msgstr ""
 "<i>-로스 크레스, 네버윈터 골목에서 기습받음</i>\n"
 "\n"
 "'빛을 가리고 있잖아.'\n"
-"<i>-다나 리, 워터딥 폐렴</i>"
+"<i>-워터딥의 다나 리, 폐렴</i>"
 
 #. key = CHA_NarrativeLoot_TalisBook
 #. 
@@ -1200,32 +1547,6 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = CHA_NarrativeLoot_TalisBook
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:890
-#, fuzzy
-#| msgid ""
-#| "[Each page in this illustrated book describes the meaning of a different "
-#| "Talis card. A message has been penned down on the title page:] \n"
-#| "\n"
-#| "My dearest Quelanna,\n"
-#| "\n"
-#| "While you were sleeping, I did another Talis reading. I half expected to "
-#| "draw the fool, because that is what I feel like, and what is your venture if "
-#| "not reckless? Instead, I drew these:\n"
-#| "\n"
-#| "The Ten of Waves - meaning divine love, bliss, or illusions\n"
-#| "The Comet - meaning riches found, or fulfilled wishes\n"
-#| "Death - meaning new beginnings\n"
-#| "\n"
-#| "The suit of Waves resembles love, and I know what we have is still frail, "
-#| "but... can you blame my heart for beating faster when I saw these cards? "
-#| "I've been staring at them for an hour, and I need to go (the cups aren't "
-#| "going to clean themselves), but I know that when I come back home tonight, "
-#| "you will be gone.\n"
-#| "\n"
-#| "But when you return, will you tell me if you feel the same, or if this was "
-#| "all just a blissful illusion?\n"
-#| "\n"
-#| "I love you,\n"
-#| "Alys\n"
 msgctxt "h2a4902eag535ag4504gb9c4g07ef1d6604c8"
 msgid ""
 "[Each page in this illustrated book describes the meaning of a different "
@@ -1253,26 +1574,22 @@ msgid ""
 "I love you,\n"
 "Alys\n"
 msgstr ""
-"[삽화가 그려진 페이지들은 각자 다른 탈리스 카드의 의미를 설명하고 있습니다. "
-"속표지에 메세지가 적혀 있습니다.] \n"
+"[삽화가 그려진 페이지들은 각자 다른 탈리스 카드의 의미를 설명하고 있습니다. 속표지에 메시지가 적혀 있습니다.]\n"
 "\n"
-"사랑하는 켈라나,\n"
+"사랑하는 케레나,\n"
 "\n"
-"네가 자는 동안 탈리스 점을 다시 쳐봤어. 무모한 여정을 떠나는 너와 그걸 "
-"지켜보는 내가 바보 같아서 멍청이 카드를 뽑게 될거라 반쯤 예상했지만, 다른 걸 "
-"뽑았지 뭐야:\n"
+"네가 자는 동안 탈리스 점을 다시 쳐봤어. 무모한 여정을 떠나는 너와 그걸 지켜보는 내가 바보 같아서 반쯤 멍청이 카드를 뽑게 될 거라 "
+"예상했지만, 다른 걸 뽑았지 뭐야:\n"
 "\n"
-"신의 은총이나 더없는 행복, 혹은 환영을 의미하는- 열 차례의 파도.\n"
+"신의 은총이나 더없는 사랑, 행복, 혹은 환상을 의미하는 - 열 차례의 파도.\n"
 "금은보화를 찾게 되거나 꿈이 이루어진다는- 혜성.\n"
 "새로운 시작을 뜻하는- 죽음.\n"
 "\n"
-"파도 카드의 의미는 사랑과도 비슷해. 빈약한 근거라는 걸 알지만... 이 카드를 "
-"보고 쿵쾅대는 내 심장을 탓할 수 있겠니? 카드를 한 시간 동안이나 쳐다봤는데 "
-"이제 가야겠네(설거지가 알아서 되진 않을테니까). 오늘 밤, 집에 돌아오면 넌 "
-"이미 가버리고 난 후겠지.\n"
+"파도 카드의 의미는 사랑과도 비슷해. 빈약한 근거라는 걸 알지만... 이 카드를 보고 쿵쾅대는 내 심장을 탓할 수 있겠니? 카드를 한 "
+"시간 동안이나 쳐다봤는데 이제 가야겠네(설거지가 알아서 되진 않을 테니까). 하지만 오늘 밤, 집에 돌아오면 넌 이미 가버리고 난 후겠지."
 "\n"
-"하지만 네가 돌아오면 너도 같은 심정이라고 말해줄래? 아니면 이건 그저 행복한 "
-"상상인 걸까?\n"
+"\n"
+"하지만 네가 돌아오면 너도 같은 심정이라고 말해줄래? 아니면 이건 그저 행복한 환상인 걸까?\n"
 "\n"
 "사랑해,\n"
 "알리스\n"
@@ -1284,6 +1601,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = CHA_SealingRitualScroll
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:386
+#, fuzzy
 msgctxt "h7c79014bg17a6g4a38g9bc6g17a3726e279f"
 msgid ""
 "[Though a bloom of mould has leached the ink from most of this scroll, its "
@@ -1296,14 +1614,12 @@ msgid ""
 "a mixture of bone and ash is consecrated. Upon the names of the dead we "
 "spread the offering, imbuing the ink with the essense of death, of our God..."
 msgstr ""
-"[곰팡이 때문에 잉크가 희미해졌지만, 두루마리의 서두는 아직 읽을 수 있습니다.]"
+"[곰팡이 때문에 잉크가 희미해졌지만, 두루마리의 서두는 아직 읽을 수 있습니다.]\n"
 "\n"
-"br>*봉인 의식*\n"
+"*봉인 의식*\n"
 "\n"
-"우리 신은 의식 따위 신경 쓰지 않는다. 봉인만이 중요하며, 성심을 다하여 "
-"경외심으로 지켜보는 것이 중요하다. 봉인 날에 뼈와 재의 혼합물을 봉헌한다. "
-"죽은 자의 이름 위에 제물을 뿌리며, 잉크에 죽음, 우리 신의 본질을 "
-"불어넣는다..."
+"우리 신은 사소한 의식 따위 신경 쓰지 않는다. 봉인만이 중요하며, 성심을 다하여 경외심으로 지켜보는 것이 중요하다. 봉인 날에 뼈와 "
+"재의 혼합물을 봉헌한다. 죽은 자의 이름 위에 제물을 뿌리며, 잉크에 죽음, 우리 신의 본질을 불어넣는다..."
 
 #. key = CHA_SeluneChapel_Diary
 #. 
@@ -1328,19 +1644,15 @@ msgid ""
 "I have sealed the doors. Now we wait, here, below. The wardens will watch "
 "us. Selûne's light cannot reach us here, but we will see it soon. "
 msgstr ""
-"[이 책의 표지는 파란색으로 물들여져 있으며, 한 쌍의 은빛 눈을 둘러싼 일곱 "
-"개의 월장석 조각으로 장식되어 있습니다. 책은 달의 여신 셀루네에게 바쳐진 "
-"작은 예배당의 평온한 역사를 담고 있습니다. 마지막 장은 나머지와 다른 "
-"글씨체로 적혀있습니다.]\n"
+"[이 책의 표지는 파란색으로 물들여져 있으며, 한 쌍의 은빛 눈을 둘러싼 일곱 개의 월장석 조각으로 장식되어 있습니다. 책은 달의 여신 "
+"셀루네에게 바쳐진 작은 예배당의 평온한 역사를 담고 있습니다. 마지막 장은 나머지와 다른 글씨체로 적혀있습니다.]\n"
 "\n"
-"신전을 잃었다. 훼손되고 말았다. 대여사제님은 구했지만 도망칠 수밖에 없었다. "
-"맹습에서 살아남은 우리들은 이곳에서 잠시간 쉴 것이다.\n"
+"신전을 잃었다. 훼손되고 말았다. 대여사제님은 구했지만 도망칠 수밖에 없었다. 맹습에서 살아남은 우리들은 이곳에서 잠시간 쉴 것이다.\n"
 "\n"
-"대여사제님의 무덤이 준비되었다. 그분께서는 이미 셀루네님의 품으로 돌아갔다. "
-"다크 저스티시어 놈들이 그분의 안식처를 더럽히지 못하도록 할 것이다.\n"
+"대여사제님의 무덤이 준비되었다. 그분께서는 이미 셀루네님의 품으로 돌아갔다. 다크 저스티시어 놈들이 그분의 안식처를 더럽히지 못하도록 할 "
+"것이다.\n"
 "\n"
-"문을 봉인했다. 이제 아래에서 기다릴 것이다. 감시자들이 우릴 지켜보겠지. "
-"셀루네님의 빛은 이곳에 닿지 않지만, 곧 볼 수 있을 것이다. "
+"문을 봉인했다. 이제 아래에서 기다릴 것이다. 파수꾼들이 우릴 지켜보겠지. 셀루네님의 빛은 이곳에 닿지 않지만, 곧 볼 수 있을 것이다. "
 
 #. key = CMP_ZevlorsAppeal_OrinsLetter
 #. 
@@ -2792,10 +3104,9 @@ msgstr ""
 "친애하는 네티,\n"
 "\n"
 "도서관을 여는 머리 장식을 맡긴다. 항상 쓰고 있어.\n"
-"금고에 들어가야 할 때는 라스에게 말해. 그 사람이 룬을 가졌지만 아무에게나 안 "
-"줄 테니, 달라고 할 때는 이유를 꼭 대고.\n"
-"내가 없는 동안 연구 자료 잘 지키고, 동물들도 잘 돌봐 다오. 터펫에게 생선 "
-"주지 마. 게을러지니까.\n"
+"금고에 들어가야 할 때는 라스에게 말해. 그 사람이 룬을 가졌지만 아무에게나 안 줄 테니, 달라고 할 때는 이유를 꼭 대고.\n"
+"내가 없는 동안 연구 자료 잘 지키고, 동물들도 잘 돌봐 다오. 터펫에게 생선 주지 마. 게을러지니까.\n"
+"\n"
 "마스터 할신"
 
 #. key = DEN_Apprentice_DrowRecord
@@ -2849,15 +3160,13 @@ msgid ""
 "\n"
 "Altered???"
 msgstr ""
-"[드로우와 일리시드 올챙이의 해부도 스케치가 급히 쓴 메모와 함께 그려져 "
-"있습니다.]\n"
-"... 기생충이 뇌 속 깊숙이 자리잡고 있었다. 틀림없이 일리시드인데도 숙주는 "
-"살아 있을 때 몰랐던 것 같은데?.\n"
+"[드로우와 일리시드 올챙이의 해부도 스케치가 급히 쓴 메모와 함께 그려져 있습니다.]\n"
+"... 기생충이 뇌 속 깊숙이 자리잡고 있었다. 틀림없이 일리시드인데도 숙주는 살아 있을 때 몰랐던 것 같은데?.\n"
 "... 시신에는 뇌변이의 징후가 없다. 정말 이상하다.\n"
 "\n"
 "[마지막 메모는 밑줄 쳐진 한 단어 뿐입니다.]\n"
 "\n"
-"변화???"
+"변질됨???"
 
 #. key = DEN_DruidLair_EmeraldEnclaveFile
 #. 
@@ -4935,13 +5244,13 @@ msgid ""
 "prey bearing his new god's brand, and feast on the rest. He offered "
 "considerable coin in return."
 msgstr ""
-"<b>깨우친 자, 럼프의 승리의 여정</b> 첫째 날: 깨우치고보니 이전 일은 기억이 "
-"거의 나지 않는다. 처음엔 이 만찬을 제공해준 자의 얇은 힘줄이라 생각했는데 "
-"알고보니 그녀가 차고있던 팔찌였다. 식감이 바삭바삭했다.\n"
+"<b>깨우친 자, 럼프의 승리의 여정</b>\n"
 "\n"
-"넷째 날: 고블린 두목 드롤 라그즐린이 그가 섬기는 새로운 신의 표식을 지닌 "
-"먹이는 살려주고 나머지는 포식하라는 감칠맛 나는 제안을 했다. 그는 대가로 "
-"상당한 금화를 제의했다."
+"첫째 날: 깨우치고 나니 이전 일은 기억이 거의 나지 않는다. 처음엔 내게 깨우침을 준 것이 인간의 살이라 여겼는데 생각해 보니 그녀가 "
+"쓰고있던 관이었던 것 같다. 식감이 바삭바삭했다.\n"
+"\n"
+"넷째 날: 고블린 두목 드롤 라그즐린이 그가 섬기는 새로운 신의 표식을 지닌 먹이는 살려주고, 나머지는 포식하라는 감칠맛 나는 제안을 "
+"했다. 그는 대가로 상당한 금화를 제의했다."
 
 #. key = FOR_SeluneStash_LoreBookA
 #. 
@@ -5730,7 +6039,7 @@ msgstr "서로 아무런 연관도 없는 책들이 마구잡이로 나열되어
 #: Shared/Public/Shared/RootTemplates/d7d9d48a-1a06-4d4d-8d8b-b96e7e548de9.lsx:15
 msgctxt "hb92c19e4gf158g477eg8631gb05ddb7f3971"
 msgid "Row of Books"
-msgstr ""
+msgstr "책 모음"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/239ca3f6-c668-43fe-8bf6-880d28ae0e3e.lsx
 #. NodeID = GameObjects
@@ -5741,7 +6050,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/239ca3f6-c668-43fe-8bf6-880d28ae0e3e.lsx:15
 msgctxt "hc29e4e61g13a4g45c6g8c1egd24a48599fda"
 msgid "Row of Books"
-msgstr ""
+msgstr "책 모음"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/f484cbdc-b59a-4db5-b36e-3f9fe9527ebe.lsx
 #. NodeID = GameObjects
@@ -5800,7 +6109,7 @@ msgstr "서로 아무런 연관도 없는 책들이 마구잡이로 나열되어
 #: Shared/Public/Shared/RootTemplates/8079aaf9-3e7e-45da-80df-3a4edd503c20.lsx:15
 msgctxt "h77e35501g8ac3g418cgbbabgb4b59b4d47ea"
 msgid "Row of Books"
-msgstr ""
+msgstr "책 모음"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/6b92c662-e82c-4969-b8eb-87e13fb1e393.lsx
 #. NodeID = GameObjects
@@ -5811,7 +6120,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/6b92c662-e82c-4969-b8eb-87e13fb1e393.lsx:15
 msgctxt "h5d657d76g90d6g4aefg8445g96b8dcb06a04"
 msgid "Row of Books"
-msgstr ""
+msgstr "책 모음"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/af62edaa-5caf-48a4-9e78-5a7389f161d1.lsx
 #. NodeID = GameObjects
@@ -5846,7 +6155,7 @@ msgstr "서로 아무런 연관도 없는 책들이 마구잡이로 나열되어
 #: Shared/Public/Shared/RootTemplates/8a8bf102-8693-42dc-91d8-87e57ed25306.lsx:15
 msgctxt "hbd3ae598g8b9cg43dbga926g0b11172a54e6"
 msgid "Row of Books"
-msgstr ""
+msgstr "책 모음"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/9a0dd261-a7df-440d-b2e1-a0dea289be37.lsx
 #. NodeID = GameObjects
@@ -5857,7 +6166,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/9a0dd261-a7df-440d-b2e1-a0dea289be37.lsx:15
 msgctxt "h2260806ag2cfbg4163g9855g7144af2bea53"
 msgid "Row of Books"
-msgstr ""
+msgstr "책 모음"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/87a52934-8a82-47ac-ab43-edde44c35ce9.lsx
 #. NodeID = GameObjects
@@ -5868,7 +6177,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/87a52934-8a82-47ac-ab43-edde44c35ce9.lsx:15
 msgctxt "h4e6da9c6ge4fcg4b56g81ebga6b99cbeb442"
 msgid "Row of Books"
-msgstr ""
+msgstr "책 모음"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/83f16ad1-4517-41d4-9cae-380eef877823.lsx
 #. NodeID = GameObjects
@@ -5879,7 +6188,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/83f16ad1-4517-41d4-9cae-380eef877823.lsx:15
 msgctxt "h0ee043beg6863g42afg9184ga6d38c03bb13"
 msgid "Row of Books"
-msgstr ""
+msgstr "책 모음"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/37a16f47-bc20-4bd9-a873-f1b42e884b78.lsx
 #. NodeID = GameObjects
@@ -8672,38 +8981,31 @@ msgid ""
 "\n"
 "[Several hundred more interviews follow, most of them terse.]\n"
 msgstr ""
-"[표지 안에 있는 길드 인장은 발더스게이트 판화 단체의 것입니다.]\n"
+"[표지 안에 있는 길드 인장은 발더스게이트 판화 조합의 것입니다.]\n"
 "\n"
-"\"물론 기억하고 있습니다. 그 여자애가 걷는 순간부터 문제를 일으킬 거라는 걸 "
-"알았지요. 그 꼬마 도둑 녀석은 모든 일에 끼어들더군요. 그리고 고라이온의 "
-"양자도 그 애와 어울리고 다녔어요. 사악한 신의 피가 그 애들의 혈관 속을 "
-"흐르고 있었다는 게 놀랄만한 일은 아니지요.\"\n"
+"'물론 기억하고 있습니다. 그 여자애가 걷기 시작한 순간부터 문제를 일으킬 거라는 걸 알았지요. 그 꼬마 도둑 녀석은 모든 일에 "
+"끼어들더군요. 그리고 고라이온의 양자도 그 애와 어울리고 다녔어요. 그 애들에게 사악한 신의 피가 흐르고 있었다는 게 놀랄만한 일은 "
+"아니지요.'\n"
 "- 캔들킵, 익명의 누군가\n"
 "\n"
-"\"언제나 가장 먼저 떠오르는 건 사레복과 그의 운명이지. 이 모든 게 네쉬켈의 "
-"철 쪼가리에서 시작되었다는 것을 알고 있나? 모두가 자신들의 무기가 손안에서 "
-"부스러질 거라고 생각했었지. 당시, 나는 잘못된 교역이 문제라고 생각했지, 그 "
-"남자를 바알의 아들이라고 생각한 적은 없었네.\"\n"
+"'언제나 가장 먼저 떠오르는 건 사레복과 그의 동료들이지. 이 모든 게 네쉬켈의 철 쪼가리에서 시작되었다는 것을 알고 있나? 그 녀석들, "
+"어찌나 자주 싸웠는지 모두 손에 쥔 채로 무기가 썩을 줄 알았어. 당시, 나는 장사가 안되는 게 문제라고 생각했지, 그 남자를 바알의 "
+"아들이라고 생각한 적은 없었네.'\n"
 "- 임종할 때 인터뷰한 암의 용병\n"
 "\n"
-"\"감히 내 앞에서 그의 이름을 말하다니? 나의 여주인님께서 그 버림받은 놈들과 "
-"싸우다 재가 되셨거늘. 바알을 저주하고, 이레니쿠스를 저주하고, 네놈을 "
-"저주하리라!\"\n"
+"'감히 내 앞에서 그의 이름을 말하나? 나의 여주인님께서 그 천벌 받을 놈들과 싸우다 재가 되셨거늘. 바알을 저주하고, 이레니쿠스를 "
+"저주하고, 네놈을 저주하리라!'\n"
 "- 아스카틀라 빈민가의 적대적인 뱀파이어\n"
 "\n"
-"\"그 다섯은 테시르를 갈기갈기 찢어놓았죠. 바알스폰이 더 나타나서 그들 무리가 "
-"시작한 전쟁을 수습할 거라고는 생각도 못 했어요. 그런데 또 그들은 서로 죽이는 "
-"경향이 있는 것 같더라고요, 그렇죠? 잘 된거죠. 그들 모두가 페이룬에서 "
-"사라졌으면 좋겠습니다.\"\n"
+"'그 다섯은 테시르를 갈기갈기 찢어놓았죠. 바알스폰이 더 나타나서 그들의 동족이 시작한 싸움을 수습할 거라고는 생각도 못 했어요. 그런데 "
+"또 그들은 서로 죽이는 경향이 있는 것 같더라고요, 그렇죠? 잘 된 거죠. 그들 모두가 페이룬에서 사라졌으면 좋겠습니다.'\n"
 "- 은퇴한 사라두쉬 상인\n"
 "\n"
-"\"저는 당신 같은 사람과 어떤 살인 사건도 이야기할 권한이 없습니다. 논쟁을 "
-"원하시면 씨 타워로 올라가 주십시오. 솔직히 말해서, 바알스폰이 그것과 "
-"얽혀있는지 누가 신경이나 쓰겠습니까? 그들의 아버지는 결국 살인 타입이니까요."
-"\"\n"
+"'저는 당신 같은 사람과 어떤 살인 사건도 이야기할 권한이 없습니다. 논쟁을 원하시면 씨 타워에서 해주시길 바랍니다. 하지만 솔직히 "
+"말해서, 바알스폰이 욕 좀 들어먹으면 어떻습니까? 그들의 아버지는 결국 살인을 즐기는 부류니까요.'\n"
 "- 발더스 게이트, 플레이밍 피스트 건틀릿\n"
 "\n"
-"[수 백의 인터뷰가 더 이어졌지만, 대부분 간결하고 쌀쌀합니다.]\n"
+"[수백의 인터뷰가 더 이어졌지만, 대부분 간결하고 쌀쌀합니다.]\n"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/a558703e-1b5a-46bf-aa25-a098b8aee027.lsx
 #. NodeID = GameObjects
@@ -16092,7 +16394,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/1ca9964c-9f9e-4c42-be33-e0c7a9a5746a.lsx:13
 msgctxt "h5d666503gc158g4d54ga4b6gf74cd98a4e3f"
 msgid "Superior Potion of Healing Recipe"
-msgstr ""
+msgstr "상급 치유의 물약 제조법"
 
 #. key = GLO_Alchemy_SuperiorPotionHealing
 #. 
@@ -45560,6 +45862,34 @@ msgid ""
 "Thrice the same ingredient\n"
 "Forms an extract excellent"
 msgstr ""
+"[책 등에 깊게 새겨진 주름이 이 소책자의 특정 부분을 펼쳐 보여주자 그곳에 제조법 하나가 있습니다. 모서리에는 '알려진 모든 물약의 "
+"해독제'라는 글귀가 깔끔하게 적혀 있습니다.]\n"
+"\n"
+"바로 이거다. 내가 메모를 출판하도록 결정한 제조법 말이다. 이 이야기에 흥미가 없을 수도 있겠지만, 후손을 위해 기록을 남겨두겠다(실제 "
+"제조법으로 건너가도 무방하다).\n"
+"\n"
+"나는 엘프송 주점에 앉아 평소처럼 따뜻한 코코아를 홀짝거리고 있었다. 비늘 없는 내 손을 어루만지는 열기를 느끼면서. 그때 한 인간 "
+"어린이가 아픈 개처럼 비틀거리며 안으로 들어왔다. 다른 손님들은 도와주고 싶어하는 기색이었지만 처음 보는 아이를 위해 해독제 값을 내고 "
+"싶어하는 이는 아무도 없었다.\n"
+"\n"
+"그 사이 해독제의 재료는 주방에 덩그러니 방치돼 있었다. 손님 중 누구라도 아이를 구할 수 있었지만, 방법을 아는 이는 나 뿐이었다. "
+"그건 마치 범죄처럼 느껴졌다.\n"
+"\n"
+"해독제 1병 제조법 \n"
+"\n"
+"필요한 추출물:\n"
+"---- 쑥 소금\n"
+"---- 불리웍 트럼펫 현탁액\n"
+"\n"
+"방법:\n"
+"소금을 조금씩 현탁액 안에 넣는다. 혼합물의 질감이 거의 씹을 수 있을 정도가 될 때까지 시계 방향으로 저어준다. 살짝 녹색으로 변할지도 "
+"모르나, 그건 순전히 겉보기의 문제일 뿐 해독제 자체에는 아무런 영향을 미치지 않는다.\n"
+"\n"
+"기억하도록:\n"
+"연금술에 의심이 들 때면\n"
+"그저 3의 법칙만 떠올리도록\n"
+"같은 재료를 세 번\n"
+"추출물이 멋지게 완성된다"
 
 #. key = S_LOW_CazadorsPalace_Ballroom_Invitation_002ff220-2628-4a2f-a95a-c132a2e934af
 #. 
@@ -47130,26 +47460,21 @@ msgid ""
 msgstr ""
 "사랑하는 이르에게, \n"
 "\n"
-"당신이 돌아오기는 할지, 이 편지를 읽기나 할지도 모르겠지만, 정말 돌아온다면, "
-"날 기다려줄 수 있겠어? 단지 몇 십일 정도만 나와 있을 거지만, 베르나르만 홀을 "
-"채우고 있는 이 텅 빈 탑으로 돌아오는 걸 생각하면... 내가 얼마나 더 이런 걸 "
-"견딜 수 있을지 모르겠어. 네가 그리워. 너무 너무 보고 싶어.\n"
+"당신이 돌아오기는 할지, 이 편지를 읽기나 할지도 모르겠지만, 정말 돌아온다면, 날 기다려줄 수 있겠어? 길어야 몇 십일 정도만 나와 "
+"있을 거지만, 베르나르 말고는 아무도 없는 이 텅 빈 탑으로 돌아온다고 생각하면... 내가 얼마나 더 이런 걸 견딜 수 있을지 모르겠어. "
+"당신이 그리워. 너무 너무 보고 싶어.\n"
 "\n"
-"내가 조금만 덜 고집을 부렸다면 얼마나 달라졌을지 생각하는 걸 떨쳐낼 수가 "
-"없어. 네 번개 발명품과 내 마법에 대해 연구하고. 함께 먹고. 그 멍청한 "
-"말장난에 웃고. 네 옆에서 잠에서 깨고. 그동안 있었던 모든 일에도 불구하고, "
-"나는 아직도 널 사랑해.\n"
+"내가 조금만 덜 고집을 부렸다면 얼마나 달라졌을지 생각하는 걸 떨쳐낼 수가 없어. 당신의 번개 발명품과 내 마법에 대해 연구하고. 함께 "
+"먹고. 그 멍청한 말장난에 웃고. 당신 옆에서 잠에서 깨고. 그동안 있었던 모든 일에도 불구하고, 나는 아직도 당신을 사랑해.\n"
 "\n"
-"그러니 제발, 이걸 읽는다면, 날 기다려줄래? 곧 돌아올게. 오래 걸리진 않을 "
-"거야.\n"
+"그러니 제발, 이걸 읽는다면, 날 기다려줄래? 곧 돌아올게. 오래 걸리진 않을 거야.\n"
 "\n"
 "언제나 당신의 사랑,\n"
 "레노어\n"
 "\n"
 "[그 아래 다른 필체로 적힌 문장이 더 있습니다.]\n"
 "\n"
-"난 기다렸어. 타르사크까지 기다렸어. 난 언제까지나 당신을 기다릴 거지만, "
-"당신은 오지 않았어."
+"난 기다렸어. 타르사크까지 기다렸어. 난 언제까지나 당신을 기다릴 거지만, 당신은 오지 않았어."
 
 #. key = UND_ClericDiary
 #. 

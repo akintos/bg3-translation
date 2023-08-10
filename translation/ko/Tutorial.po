@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-10 10:54+0000\n"
+"Last-Translator: Dieyoung <karsyutian@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/tutorial/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -32,6 +34,8 @@ msgid ""
 "[IE_PanelSelect] Open Inventory\n"
 "[IE_ContextMenu] Use item's Context Menu to consume"
 msgstr ""
+"[IE_PanelSelect] 인벤토리 열기\n"
+"[IE_ContextMenu] 아이템의 상세 메뉴를 통해 사용합니다"
 
 #. FilePath = Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -54,18 +58,19 @@ msgstr ""
 #: Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx:11
 msgctxt "h5319beadg0279g4722g9d1bg78e4ff616a8e"
 msgid "Arcane Hunger"
-msgstr ""
+msgstr "비전 굶주림"
 
 #. FilePath = Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
 #. HandlePath = KeyboardDescription
 #. TutorialName = AvatarGaleItems
 #: Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx:13
+#, fuzzy
 msgctxt "h53108d9dg62bbg407ag93dbg8365b7975c8a"
 msgid ""
 "The Netherese Weave roiling within you hungers for magic items. Consume an "
 "item or face the consequences. "
-msgstr ""
+msgstr "네더릴 위브로 인해 마법 아이템에 굶주리고 있습니다. 아이템을 흡수하지 않으면 휴우증에 시달리게 됩니다. "
 
 #. FilePath = Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -77,6 +82,8 @@ msgid ""
 "[IE_ToggleInventory] Open Inventory\n"
 "Use item's context menu to consume"
 msgstr ""
+"[IE_ToggleInventory] 인벤토리 열기\n"
+"아이템의 상세 메뉴를 통해 사용합니다"
 
 #. FilePath = Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -91,17 +98,24 @@ msgid ""
 "[IE_ToggleInventory] Open Inventory\n"
 "Use item's context menu to consume"
 msgstr ""
+"네더릴 위브로 인해 마법 아이템에 굶주리고 있습니다. 아이템을 흡수하지 않으면 휴우증에 시달리게 됩니다. \n"
+"\n"
+"[IE_ToggleInventory] 인벤토리 열기\n"
+"아이템의 상세 메뉴를 통해 사용합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
 #. HandlePath = ControllerDescription
 #. TutorialName = TUT_TadpoleTree
 #: Shared/Public/SharedDev/Tutorials/ModalTutorials.lsx:8
+#, fuzzy
 msgctxt "h38a4efb6g497fg4705g8556gf35657481715"
 msgid ""
 "[IE_PanelSelect] <LSTag Type=\"Image\" Info=\"TutorialIllithidPowers\"/> "
 "Open Illithid Powers Menu"
 msgstr ""
+"[IE_PanelSelect] <LSTag Type=\"Image\" Info=\"TutorialIllithidPowers\"/> "
+"일리시드 능력 메뉴 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -110,7 +124,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/ModalTutorials.lsx:9
 msgctxt "h97e0e97fg0fedg48bdg8df2g2b53f636e411"
 msgid "Tadpole Powers"
-msgstr ""
+msgstr "유충 능력"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -135,6 +149,9 @@ msgid ""
 "\n"
 "Look out for sources of parasites in the world, including infected corpses."
 msgstr ""
+"이제 인벤토리에 있는 마인드 플레이어 유충을 흡수하여 새로운 일리시드 능력을 해금할 수 있습니다.\n"
+"\n"
+"감염된 시체 등, 유충을 얻을 만한 곳을 찾아보십시오."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -143,7 +160,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/ModalTutorials.lsx:20
 msgctxt "h026142e9g140cg4590g8d73g0972f99743ea"
 msgid "Tadpole Powers"
-msgstr ""
+msgstr "유충 능력"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -157,6 +174,9 @@ msgid ""
 "\n"
 "Look out for sources of parasites in the world, including infected corpses."
 msgstr ""
+"이제 인벤토리에 있는 마인드 플레이어 유충을 흡수하여 새로운 일리시드 능력을 해금할 수 있습니다.\n"
+"\n"
+"감염된 시체 등, 유충을 얻을 만한 곳을 찾아보십시오."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -201,6 +221,8 @@ msgid ""
 "relationships with your companions, store items, and eventually change your "
 "character and recruit more followers."
 msgstr ""
+"아영지에서 당신은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취해 파티를 완전히 회복시킬 수 있습니다. "
+"또한 파티원을 관리하고, 동료들과의 관계를 진전시키고, 아이템을 보관하고, 추후에는 캐릭터 초기화 및 추종자 고용도 할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -237,6 +259,8 @@ msgid ""
 "relationships with your companions, store items, and eventually change your "
 "character and recruit more followers."
 msgstr ""
+"아영지에서 당신은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취해 파티를 완전히 회복시킬 수 있습니다. "
+"또한 파티원을 관리하고, 동료들과의 관계를 진전시키고, 아이템을 보관하고, 추후에는 캐릭터 초기화 및 추종자 고용도 할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -296,7 +320,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:24
 msgctxt "hecc1ee22gb9e5g4447g9996g397a143b5303"
 msgid "Short Rest"
-msgstr ""
+msgstr "짧은 휴식"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -572,7 +596,7 @@ msgctxt "ha2fdd00eg656cg4311ga8b8g23d3dab4c198"
 msgid ""
 "Be sure to collect food and drinks. You will need them to restore your "
 "health and resources when taking a Long Rest."
-msgstr ""
+msgstr "음식과 음료 수집을 잊지 마십시오. 긴 휴식으로 체력과 자원을 회복하려면 식량이 필요합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -592,7 +616,7 @@ msgctxt "hd38fc8e6ga6a8g4d44gb8ddg8067fe933199"
 msgid ""
 "Be sure to collect food and drinks. You will need them to restore your "
 "health and resources when taking a Long Rest."
-msgstr ""
+msgstr "음식과 음료 수집을 잊지 마십시오. 긴 휴식으로 체력과 자원을 회복하려면 식량이 필요합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -636,7 +660,7 @@ msgctxt "hfe3f639fg483fg43beg9a5egfd1e03e2400b"
 msgid ""
 "You have a personal chest at camp. Use it to store items you don't want to "
 "carry while exploring."
-msgstr ""
+msgstr "야영지에는 전용 궤짝이 있습니다. 탐험 중 갖고 다니지 않을 아이템은 이곳에 보관하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -656,7 +680,7 @@ msgctxt "hb395ef0agcd58g4cacga01ega1111650aba2"
 msgid ""
 "You have a personal chest at camp. Use it to store items you don't want to "
 "carry while exploring."
-msgstr ""
+msgstr "야영지에는 전용 궤짝이 있습니다. 탐험 중 갖고 다니지 않을 아이템은 이곳에 보관하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1015,7 +1039,7 @@ msgstr "격노 상태를 유지하려면, 매 턴 적을 공격하거나 피해�
 msgctxt "h5db144d9g0b3bg45a6g804cgad706024809a"
 msgid ""
 "A bard has Inspired you! New bonuses have been added to your reactions list."
-msgstr ""
+msgstr "바드가 당신을 격려했습니다! 반응 행동 목록에 새로운 보너스가 추가됐습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1027,6 +1051,8 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu\n"
 " <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> Manage Reactions"
 msgstr ""
+"[IE_PanelSelect] Open Game Menu\n"
+" <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 반응 행동 관리"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1045,7 +1071,7 @@ msgstr ""
 msgctxt "h8f40e9e8g87fag4aafgbf4cg0816d4519cd7"
 msgid ""
 "A bard has Inspired you! New bonuses have been added to your reactions list."
-msgstr ""
+msgstr "바드가 당신을 격려했습니다! 반응 행동 목록에 새로운 보너스가 추가됐습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1054,7 +1080,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:235
 msgctxt "h057037beg257cg4a57gb4d4ga51eeb2372cd"
 msgid "[IE_ToggleReactions] Manage reactions"
-msgstr ""
+msgstr "[IE_ToggleReactions] 반응 행동 관리"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1065,7 +1091,7 @@ msgctxt "hf73ea9d4gd4dbg45d6g9edagb7e1a7ad46dd"
 msgid ""
 "Wizards, Clerics, Paladins, and Druids can change their prepared spells at "
 "any time outside of combat. "
-msgstr ""
+msgstr "위저드, 클레릭, 팔라딘, 드루이드는 비전투 상황에서 언제든 준비된 주문을 바꿀 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1096,7 +1122,7 @@ msgctxt "hbcd2361fg1221g42c0g9569g490c1229fa90"
 msgid ""
 "Wizards, Clerics, Paladins, and Druids can change their prepared spells at "
 "any time outside of combat. "
-msgstr ""
+msgstr "위저드, 클레릭, 팔라딘, 드루이드는 비전투 상황에서 언제든 준비된 주문을 바꿀 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1475,7 +1501,7 @@ msgctxt "h6ae96344g8a9bg4ce6g9614gb733f3fc7b6f"
 msgid ""
 "As students of the arcane arts, Wizards can learn new spells by studying "
 "certain spell scrolls instead of using them. "
-msgstr ""
+msgstr "비전술의 연구자로서, 위저드는 특정 주문 두루마리를 사용하는 대신 연구해 새 주문을 배울 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1488,6 +1514,9 @@ msgid ""
 " <LSTag Type=\"Image\" Info=\"TutorialSpellbook\"/> Spellbook\n"
 " <LSTag Type=\"Image\" Info=\"TutorialLearnSpell\"/> Learn New Spells"
 msgstr ""
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialSpellbook\"/> 주문책\n"
+" <LSTag Type=\"Image\" Info=\"TutorialLearnSpell\"/> 새로운 주문 배우기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1514,7 +1543,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:346
 msgctxt "h047fed16g159eg4dc6g8d0bg0678c85a4543"
 msgid "Learning Spells"
-msgstr ""
+msgstr "주문 습득"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1525,7 +1554,7 @@ msgctxt "h64258237g3ea7g4651ga266g2ecc906d3044"
 msgid ""
 "As students of the arcane arts, Wizards can learn new spells by studying "
 "certain spell scrolls instead of using them. "
-msgstr ""
+msgstr "비전술의 연구자로서, 위저드는 특정 주문 두루마리를 사용하는 대신 연구해 새 주문을 배울 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1597,6 +1626,9 @@ msgid ""
 "The game pauses around you during combat, so you have time to plan your "
 "actions."
 msgstr ""
+"싸움에 대비하세요! 전투는 라운드 단위로 진행되며, 개별 참여자는 행동할 턴을 얻습니다.\n"
+"\n"
+"전투 중에는 게임이 정지 상태로 변함으로써 행동 전 계획을 짤 시간이 주어집니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1639,6 +1671,9 @@ msgid ""
 "The game pauses around you during combat, so you have time to plan your "
 "actions."
 msgstr ""
+"싸움에 대비하세요! 전투는 라운드 단위로 진행되며, 개별 참여자는 행동할 턴을 얻습니다.\n"
+"\n"
+"전투 중에는 게임이 정지 상태로 변함으로써 행동 전 계획을 짤 시간이 주어집니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2072,6 +2107,7 @@ msgid ""
 "Positioning is important! Ranged attacks from above are more likely to hit, "
 "while Ranged Attacks from below hit less often."
 msgstr ""
+"위치 선정은 중요합니다! 높은 곳에서의 원거리 공격은 적중 확률이 더 높은 반면, 낮은 곳에서의 원거리 공격은 더 자주 빗나갑니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2092,7 +2128,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:469
 msgctxt "haa7a041egf082g4718gac1bg29f36aa02b58"
 msgid "High Ground Rules"
-msgstr ""
+msgstr "고지대 규칙"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2104,6 +2140,7 @@ msgid ""
 "Positioning is important! Ranged attacks from above are more likely to hit, "
 "while Ranged Attacks from below hit less often."
 msgstr ""
+"위치 선정은 중요합니다! 높은 곳에서의 원거리 공격은 적중 확률이 더 높은 반면, 낮은 곳에서의 원거리 공격은 더 자주 빗나갑니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2618,7 +2655,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:579
 msgctxt "heddece74g5dfeg4d48ga72bg607ccd7d356b"
 msgid "Opportunity Attack"
-msgstr ""
+msgstr "기회 공격"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2862,7 +2899,7 @@ msgctxt "h28ba90cfgc588g485cg8479gb13d4d006bc3"
 msgid ""
 "Your attack was Resisted and the entity took half damage. Examine an entity "
 "to see its Resistances. "
-msgstr ""
+msgstr "상대가 당신의 공격에 저항해 절반의 피해를 받았습니다. 대상을 조사해 저항 여부를 확인하세요. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2897,7 +2934,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:638
 msgctxt "ha001833fgff11g4c00ga023g52757dbb4b17"
 msgid "Examine"
-msgstr ""
+msgstr "조사"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2908,7 +2945,7 @@ msgctxt "h2ec60f38g51efg4f3ega7d9g5120ebef02e5"
 msgid ""
 "Your attack was Resisted and the entity took half damage. Examine an entity "
 "to see its Resistances. "
-msgstr ""
+msgstr "상대가 당신의 공격에 저항해 절반의 피해를 받았습니다. 대상을 조사해 저항 여부를 확인하세요. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2954,7 +2991,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:653
 msgctxt "h8b5b44cbga269g48b7g8525g7327bbf70376"
 msgid "Examine"
-msgstr ""
+msgstr "조사"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2974,7 +3011,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:656
 msgctxt "he4066950g4e5bg48d2gbe8cg2f646d0e50bf"
 msgid "[IE_UIPinTooltip] Examine entity"
-msgstr ""
+msgstr "[IE_UIPinTooltip] 대상 조사"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3003,7 +3040,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:667
 msgctxt "hea6761cfgf10bg4bc0gb9abge1fa137da09a"
 msgid "Examine"
-msgstr ""
+msgstr "조사"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3023,7 +3060,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:670
 msgctxt "h7bb5cd6fga970g4955ga5b7g2f0d6c884b30"
 msgid "[IE_UIPinTooltip] Examine entity"
-msgstr ""
+msgstr "[IE_UIPinTooltip] 대상 조사"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3252,6 +3289,8 @@ msgid ""
 "ingredients to distil into extracts, and experiment to brew wondrous "
 "solutions."
 msgstr ""
+"당신은 연금술을 이용해 직접 물약, 독약, 영약을 제작할 수 있습니다. 모은 재료를 정제해 추출물로 만든 뒤, 실험을 통해 경이로운 "
+"용액을 만들어 보세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3264,6 +3303,8 @@ msgid ""
 "ingredients to distil into extracts, and experiment to brew wondrous "
 "solutions."
 msgstr ""
+"당신은 연금술을 이용해 직접 물약, 독약, 영약을 제작할 수 있습니다. 모은 재료를 정제해 추출물로 만든 뒤, 실험을 통해 경이로운 "
+"용액을 만들어 보세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3275,6 +3316,8 @@ msgid ""
 "You need Thieves' Tools (<LSTag Type=\"Image\" Info=\"TutorialThievesTools\""
 "/>) to pick a lock - or you can find its key."
 msgstr ""
+"자물쇠를 열려면 도둑의 도구(<LSTag Type=\"Image\" Info=\"TutorialThievesTools\"/>)가 "
+"필요합니다. 혹은 맞는 열쇠를 찾을 수도 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3298,7 +3341,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:738
 msgctxt "h960df144ga2e7g45c8ga2b4ga7c4dbc26fc0"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3310,6 +3353,8 @@ msgid ""
 "You need Thieves' Tools (<LSTag Type=\"Image\" Info=\"TutorialThievesTools\""
 "/>) to pick a lock - or you can find its key."
 msgstr ""
+"자물쇠를 열려면 도둑의 도구(<LSTag Type=\"Image\" Info=\"TutorialThievesTools\"/>)가 "
+"필요합니다. 혹은 맞는 열쇠를 찾을 수도 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3354,7 +3399,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:752
 msgctxt "h8bcdaf1ag8b5bg48dcga0f4gea4dbacfa106"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3470,7 +3515,7 @@ msgctxt "he3a4c1d5g8696g444ag85deg24c02d149fde"
 msgid ""
 "Certain actions are frowned upon by others. Get caught, and you might find "
 "yourself in a prison cell."
-msgstr ""
+msgstr "특정 행동은 다른 이들의 반감을 사게 되며, 어쩌면 당신이 감옥에 갇히는 결과를 낳을지도 모릅니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3492,7 +3537,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:780
 msgctxt "hd1b9a3e8g57f0g47ecg92cag2c7135179736"
 msgid "Crimes"
-msgstr ""
+msgstr "범죄"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3503,7 +3548,7 @@ msgctxt "h9256010egf6b0g4708g86beged85445e5ad1"
 msgid ""
 "Certain actions are frowned upon by others. Get caught, and you might find "
 "yourself in a prison cell."
-msgstr ""
+msgstr "특정 행동은 다른 이들의 반감을 사게 되며, 어쩌면 당신이 감옥에 갇히는 결과를 낳을지도 모릅니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3684,7 +3729,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:831
 msgctxt "habd01364g23c6g44a5gb2b7g40bfc88b94bc"
 msgid "Rotate your camera to get a better view of your surroundings."
-msgstr ""
+msgstr "카메라를 회전시켜 주변을 더 꼼꼼히 둘러보세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3702,7 +3747,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:833
 msgctxt "h21a9a855g369ag4f29gbc3ega4ea373ea1a8"
 msgid "Camera Rotation"
-msgstr ""
+msgstr "카메라 회전"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3711,7 +3756,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:835
 msgctxt "h45993f67g63aeg4334gbfccg99a768ace397"
 msgid "Rotate your camera to get a better view of your surroundings."
-msgstr ""
+msgstr "카메라를 회전시켜 주변을 더 꼼꼼히 둘러보세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3820,7 +3865,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:870
 msgctxt "h24eb99b6g47d8g41c6g9fceg7e280ca2ca3d"
 msgid "Highlight Items"
-msgstr ""
+msgstr "아이템 강조 표시"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3829,7 +3874,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:872
 msgctxt "h26e6f376g9789g4164gb43ega348305c082e"
 msgid "Highlight nearby items, making it easier to find loot."
-msgstr ""
+msgstr "전리품을 찾기 쉽도록 근처의 아이템을 강조 표시합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3839,7 +3884,7 @@ msgstr ""
 msgctxt "h872e22bdg45d9g43cdga0f8gd5646543b40e"
 msgid ""
 "Press [IE_ShowWorldTooltips] to highlight lootable containers and items."
-msgstr ""
+msgstr "[IE_ShowWorldTooltips] 키를 눌러 획득 가능한 보관함과 아이템을 강조 표시하십시오."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3940,7 +3985,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:898
 msgctxt "ha1b8f56cgcb19g44dcg9a30ge63cde51486b"
 msgid "You can read books and notes you have picked up in your inventory."
-msgstr ""
+msgstr "인벤토리에 획득한 책과 메모를 읽을 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3971,7 +4016,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:902
 msgctxt "h7d57b798g466bg4c94g996cgee71b14c4a20"
 msgid "You can read books and notes you have picked up in your inventory."
-msgstr ""
+msgstr "인벤토리에 획득한 책과 메모를 읽을 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3983,6 +4028,8 @@ msgid ""
 "[IE_ToggleInventory] Open Inventory \n"
 "Double-click a book to read it"
 msgstr ""
+"[IE_ToggleInventory] 인벤토리 열기\n"
+"책을 더블 클릭하여 읽기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4206,7 +4253,7 @@ msgctxt "he8c264d0ge057g43bega04fgf013ed7031fd"
 msgid ""
 "Some allies may temporarily join you. You can directly control their "
 "movement and actions."
-msgstr ""
+msgstr "아군 중 일부는 일시적으로 파티에 합류하기도 합니다. 당신은 그들의 움직임과 행동을 직접 조종할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4251,7 +4298,7 @@ msgctxt "h0157af89gb077g40a7g9afcg8a3a108b238a"
 msgid ""
 "Some allies may temporarily join you. You can directly control their "
 "movement and actions."
-msgstr ""
+msgstr "아군 중 일부는 일시적으로 파티에 합류하기도 합니다. 당신은 그들의 움직임과 행동을 직접 조종할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4260,7 +4307,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:964
 msgctxt "h5589e263g1f64g42b1gb6bagb06e7f176708"
 msgid "Click a follower's portrait to take control of them."
-msgstr ""
+msgstr "추종자를 조종하려면 초상화를 클릭하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4285,7 +4332,7 @@ msgctxt "hf5b05dc5g1a47g4489g9072ge714c1538d10"
 msgid ""
 "Some allies can join you on your adventure. You can control them the same "
 "way as you do your own character."
-msgstr ""
+msgstr "아군 중 일부는 당신의 모험에 동참할 수 있습니다. 당신은 그들을 본인 캐릭터와 같은 방식으로 조종할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4333,7 +4380,7 @@ msgctxt "hfd144a25ga1a1g48bfg8c5bg6061c4d54a81"
 msgid ""
 "Some allies can join you on your adventure. You can control them the same "
 "way as you do your own character."
-msgstr ""
+msgstr "아군 중 일부는 당신의 모험에 동참할 수 있습니다. 당신은 그들을 본인 캐릭터와 같은 방식으로 조종할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4342,7 +4389,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:981
 msgctxt "h3fccdef0ga612g4ddeg8b07g91027c9b0e75"
 msgid "Click a companion's portrait to take control of them."
-msgstr ""
+msgstr "동료를 조종하려면 초상화를 클릭하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4501,6 +4548,9 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialStealthDimLight\"/>Lightly Obscured\n"
 "<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/>Heavily Obscured"
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialStealthFullLight\"/> 완전히 드러남\n"
+"<LSTag Type=\"Image\" Info=\"TutorialStealthDimLight\"/>살짝 가려짐\n"
+"<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/>상당히 가려짐"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4527,7 +4577,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1023
 msgctxt "he8358279gd79fg414aga0f0g9bd2974c23a9"
 msgid "Remaining Obscured"
-msgstr ""
+msgstr "가려짐 유지"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4538,7 +4588,7 @@ msgctxt "h302163b8g38a7g45b5g8bf6g2eb8624c3212"
 msgid ""
 "Sticking to the shadows makes you harder to detect. Your cursor indicates "
 "the amount of light in a certain spot."
-msgstr ""
+msgstr "그림자에 머무르면 적이 당신을 탐지하기 어려워집니다. 특정 위치의 빛 수준은 커서에 표시됩니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4551,6 +4601,9 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialStealthDimLight\"/>Lightly Obscured\n"
 "<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/>Heavily Obscured"
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialStealthFullLight\"/> 완전히 드러남\n"
+"<LSTag Type=\"Image\" Info=\"TutorialStealthDimLight\"/>살짝 가려짐\n"
+"<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/>상당히 가려짐"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4907,6 +4960,8 @@ msgid ""
 "You need a Trap Disarm Toolkit <LSTag Type=\"Image\" Info="
 "\"TutorialTrapDisarmKit\"/> to neutralise dangerous traps."
 msgstr ""
+"위험한 함정을 없애려면 함정 해제 도구 <LSTag Type=\"Image\" Info=\"TutorialTrapDisarmKit\"/"
+">가 필요합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4931,7 +4986,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1106
 msgctxt "h1df4e442gef9eg49faga157ge0db4db9b060"
 msgid "Disarming Traps"
-msgstr ""
+msgstr "함정 해제"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4943,6 +4998,8 @@ msgid ""
 "You need a Trap Disarm Toolkit <LSTag Type=\"Image\" Info="
 "\"TutorialTrapDisarmKit\"/> to neutralise dangerous traps."
 msgstr ""
+"위험한 함정을 없애려면 함정 해제 도구<LSTag Type=\"Image\" Info=\"TutorialTrapDisarmKit\"/>가 "
+"필요합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4987,7 +5044,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1120
 msgctxt "h2e14ce31g8322g49efg8799gedb96ad399cf"
 msgid "Disarming Traps"
-msgstr ""
+msgstr "함정 해제"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5018,7 +5075,7 @@ msgctxt "h9e731e02g0d83g4c11gaa2cgb40a8fecd3e2"
 msgid ""
 "The camera can't move any further away from your character. Move your "
 "character to keep exploring."
-msgstr ""
+msgstr "카메라가 캐릭터에서 더 이상 멀어질 수 없습니다. 더 탐험하려면 캐릭터를 움직이세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5027,7 +5084,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1132
 msgctxt "h3aee64e6g6ef7g4997g98f7geaf0bff2cd20"
 msgid "Camera Distance"
-msgstr ""
+msgstr "카메라 사거리"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5038,7 +5095,7 @@ msgctxt "hf8508ea5g3215g485cg99fbgba7ea012ad1f"
 msgid ""
 "The camera can't move any further away from your character. Move your "
 "character to keep exploring."
-msgstr ""
+msgstr "카메라가 캐릭터에서 더 이상 멀어질 수 없습니다. 더 탐험하려면 캐릭터를 움직이세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5047,7 +5104,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1143
 msgctxt "hd3394569g8d14g4e15g922dg9696692f775e"
 msgid "Situational Actions"
-msgstr ""
+msgstr "조건부 행동"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5060,6 +5117,7 @@ msgid ""
 "condition. It will remain at the side of your hotbar until those conditions "
 "expire. "
 msgstr ""
+"다른 능력, 요소, 조건의 결과에 따른 행동이 해금되었습니다. 이 행동은 관련 조건이 만료될 때까지 단축바 외곽에 남아있을 것입니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5428,7 +5486,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1247
 msgctxt "h7555a51cg20c4g4448ga202g3b1e1afe7703"
 msgid "Equipment"
-msgstr ""
+msgstr "장비"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5439,7 +5497,7 @@ msgctxt "hc47b5e4ag36a2g47aag8cacge8036c8168fe"
 msgid ""
 "You can equip items from your inventory by double-clicking them or dragging "
 "them into an equipment slot."
-msgstr ""
+msgstr "인벤토리의 장비 아이템을 더블 클릭하면 착용할 수 있습니다. 장비칸에 아이템을 드래그해도 됩니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5624,7 +5682,7 @@ msgctxt "h5cc84c7cg4931g4b4ag949fg4eba2c9419bf"
 msgid ""
 "You've discovered a Waypoint! You'll be able to teleport to this location by "
 "selecting it in your Map."
-msgstr ""
+msgstr "웨이포인트를 발견했습니다! 지도에서 이곳을 선택하면 텔레포트할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5670,7 +5728,7 @@ msgctxt "h5a1a1efeg364bg4e90g9fb0gbb032be3cd68"
 msgid ""
 "You've discovered a Waypoint! You'll be able to teleport to this location by "
 "selecting it in your Map."
-msgstr ""
+msgstr "웨이포인트를 발견했습니다! 지도에서 이곳을 선택하면 텔레포트할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5706,6 +5764,8 @@ msgid ""
 "custom markers. You can also teleport to waypoints you have discovered by "
 "selecting them."
 msgstr ""
+"이곳은 당신 주변의 지도입니다. 퀘스트의 위치를 확인할 수 있고, 사용자 지정 마커를 놓을 수도 있습니다. 또한 이미 발견한 웨이포인트를 "
+"선택함으로써 텔레포트할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5727,6 +5787,8 @@ msgid ""
 "custom markers. You can also teleport to waypoints you have discovered by "
 "selecting them."
 msgstr ""
+"이곳은 당신 주변의 지도입니다. 퀘스트의 위치를 확인할 수 있고, 사용자 지정 마커를 놓을 수도 있습니다. 또한 이미 발견한 웨이포인트를 "
+"선택함으로써 텔레포트할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5868,6 +5930,8 @@ msgid ""
 "Some dialogue options require a skill check - a dice roll that must meet or "
 "exceed a target number. Your character's skills add a bonus to this roll."
 msgstr ""
+"일부 대화 선택지는 기술 판정을 요구합니다. 주사위 굴림이 특정 숫자와 같거나 더 높아야 합니다. 캐릭터의 기술은 주사위 굴림에 보너스를 "
+"더해줍니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5902,7 +5966,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1350
 msgctxt "hac27dae7gbd60g4dd4ga41fgd61e08f28322"
 msgid "Skill Checks"
-msgstr ""
+msgstr "기술 판정"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5914,6 +5978,8 @@ msgid ""
 "Some dialogue options require a skill check - a dice roll that must meet or "
 "exceed a target number. Your character's skills add a bonus to this roll."
 msgstr ""
+"일부 대화 선택지는 기술 판정을 요구합니다. 주사위 굴림이 특정 숫자와 같거나 더 높아야 합니다. 캐릭터의 기술은 주사위 굴림에 보너스를 "
+"더해줍니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5951,6 +6017,8 @@ msgid ""
 "Advantage <LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/> lets you roll "
 "two dice and take the higher result before adding modifiers. "
 msgstr ""
+"이점<LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/>은 주사위 두 개를 굴려 더 높은 값을 "
+"택하도록 해주며, 수정치는 그 후에 적용됩니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5971,6 +6039,8 @@ msgid ""
 "Advantage <LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/> lets you roll "
 "two dice and take the higher result before adding modifiers. "
 msgstr ""
+"이점<LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/>은 주사위 두 개를 굴려 더 높은 값을 "
+"택하도록 해주며, 수정치는 그 후에 적용됩니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6080,7 +6150,7 @@ msgctxt "h044fc415g03f9g4d2aga5e6gc6fd0b616e2d"
 msgid ""
 "Be careful near a trader's watchful eyes - their attitude towards you "
 "affects the price of their stock. "
-msgstr ""
+msgstr "상인의 빈틈없는 시선 근처에서는 조심하세요. 당신에 대한 그들의 태도가 재고품의 가격에 영향을 끼치니까요. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6089,7 +6159,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1408
 msgctxt "h5a5e5769gcf43g48e9g9942g20f1674874f1"
 msgid "Trader Attitude"
-msgstr ""
+msgstr "상인의 태도"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6100,7 +6170,7 @@ msgctxt "h22ae91a3g86cdg40aag843bg42fae7b89bde"
 msgid ""
 "Be careful near a trader's watchful eyes - their attitude towards you "
 "affects the price of their stock. "
-msgstr ""
+msgstr "상인의 빈틈없는 시선 근처에서는 조심하세요. 당신에 대한 그들의 태도가 재고품의 가격에 영향을 끼치니까요. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6112,6 +6182,7 @@ msgid ""
 "There are two ways to buy and sell items. Trading is quick and easy, but "
 "bartering will let you haggle for the best value."
 msgstr ""
+"물건을 사고 파는 방법에는 두 가지가 있습니다. 거래는 빠르고 쉽지만, 물물교환은 흥정을 통해 가치의 극대화를 꾀할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6134,7 +6205,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1421
 msgctxt "h9f26bb85g3e31g447cgbb02g228612b2a37d"
 msgid "Trading and Bartering"
-msgstr ""
+msgstr "거래와 물물교환"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6146,6 +6217,7 @@ msgid ""
 "There are two ways to buy and sell items. Trading is quick and easy, but "
 "bartering will let you haggle for the best value."
 msgstr ""
+"물건을 사고 파는 방법에는 두 가지가 있습니다. 거래는 빠르고 쉽지만, 물물교환은 흥정을 통해 가치의 극대화를 꾀할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6347,7 +6419,7 @@ msgctxt "h39f16deage6fbg46e5ga607gfec1cf189a52"
 msgid ""
 "Go to your personal chest in camp during a long rest to find some of your "
 "unique DLC items! "
-msgstr ""
+msgstr "긴 휴식 중 야영지의 전용 궤짝으로 가 특별한 DLC 아이템을 획득하세요! "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6356,7 +6428,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1495
 msgctxt "h9e4a53d2g629cg4dd8g9b36g03d30b8ea1ba"
 msgid "Unique Items"
-msgstr ""
+msgstr "특별 아이템"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6367,7 +6439,7 @@ msgctxt "h50fba916g7f83g470fga4dbgaeac9dbcba81"
 msgid ""
 "Go to your personal chest in camp during a long rest to find some of your "
 "unique DLC items! "
-msgstr ""
+msgstr "긴 휴식 중 야영지의 전용 궤짝으로 가 특별한 DLC 아이템을 획득하세요! "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6537,7 +6609,7 @@ msgctxt "hc6362901ge7abg4bdcg9ea7gd10ea847775f"
 msgid ""
 "This strange wraith commands many powers: he allows you to resurrect allies, "
 "hire help, and change your class. For a price, of course. "
-msgstr ""
+msgstr "이 기묘한 망령은 여러 능력을 갖고 있습니다. 아군을 부활시키기, 고용 도와주기, 클래스 변경하기. 물론 돈을 받고요. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6568,7 +6640,7 @@ msgctxt "ha3906b00gfa45g4ca5g8f8ag9af9b90a153b"
 msgid ""
 "This strange wraith commands many powers: he allows you to resurrect allies, "
 "hire help, and change your class. For a price, of course. "
-msgstr ""
+msgstr "이 기묘한 망령은 여러 능력을 갖고 있습니다. 아군을 부활시키기, 고용 도와주기, 클래스 변경하기. 물론 돈을 받고요. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6872,6 +6944,7 @@ msgid ""
 "Failing on a skill check will mean you'll fail, no matter what your Ability "
 "Modifier is. "
 msgstr ""
+"기술 판정 주사위 굴림에서 1이 나왔습니다. 대실패입니다. 스킬 판정의 대실패는 능력 수정치 값과 무관하게 실패함을 의미합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6880,7 +6953,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1613
 msgctxt "h16cc7ea5gf89ag462eg879cg92d831057e46"
 msgid "Critical Failure"
-msgstr ""
+msgstr "대실패"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6893,6 +6966,7 @@ msgid ""
 "Failing on a skill check will mean you'll fail, no matter what your Ability "
 "Modifier is. "
 msgstr ""
+"기술 판정 주사위 굴림에서 1이 나왔습니다. 대실패입니다. 스킬 판정의 대실패는 능력 수정치 값과 무관하게 실패함을 의미합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6903,7 +6977,7 @@ msgctxt "h75b8828eg107fg4bcagbf70g9b3ea5782b68"
 msgid ""
 "You have rolled a 20 on this skill check - a Critical Success - and have "
 "automatically passed it."
-msgstr ""
+msgstr "당신은 기술 판정 주사위 굴림에서 20이 나왔습니다. 대성공입니다. 판정을 자동으로 통과합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6912,7 +6986,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1625
 msgctxt "h76761e70gb8cag4b73gbb78gc1ecf8cfc6b8"
 msgid "Critical Success"
-msgstr ""
+msgstr "대성공"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6923,7 +6997,7 @@ msgctxt "hc4972586g91b7g490cgaee4g7df238c6d019"
 msgid ""
 "You have rolled a 20 on this skill check - a Critical Success - and have "
 "automatically passed it."
-msgstr ""
+msgstr "당신은 기술 판정 주사위 굴림에서 20이 나왔습니다. 대성공입니다. 판정을 자동으로 통과합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7134,7 +7208,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1706
 msgctxt "h5a81c7fagaedcg4221gbbcag237fc6610f9d"
 msgid "Leave camp when you're ready to get back to your adventure."
-msgstr ""
+msgstr "모험에 복귀할 준비가 되면 야영지를 떠나세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7143,7 +7217,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1707
 msgctxt "haad1cc30gf835g4145g8aafg099e3948de66"
 msgid "Leave Camp"
-msgstr ""
+msgstr "야영지 떠나기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7152,7 +7226,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1708
 msgctxt "hf51915dbg67adg4b5cg92d2g9233485eb44b"
 msgid "Leave Camp"
-msgstr ""
+msgstr "야영지 떠나기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7161,7 +7235,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1710
 msgctxt "ha7e327dfg8123g4884gb558g06e882bc5e4d"
 msgid "Leave camp when you're ready to get back to your adventure."
-msgstr ""
+msgstr "모험에 복귀할 준비가 되면 야영지를 떠나세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7170,7 +7244,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1711
 msgctxt "h6c13cd94g5176g4b1cgaae3g921aaa91e4d6"
 msgid "Leave Camp"
-msgstr ""
+msgstr "야영지 떠나기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial

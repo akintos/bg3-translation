@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-10 10:53+0000\n"
+"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/characters/ko/>"
+"\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/4d5fbc43-408c-4ec8-acf6-9c8d8aa456d6.lsx
 #. NodeID = GameObjects
@@ -32,7 +35,7 @@ msgstr "아다만틴 골렘"
 #: Shared/Public/SharedDev/RootTemplates/47a6ceac-0788-4a51-a96e-3eabf7c11768.lsx:13
 msgctxt "h11bb4ffegb272g4cb7gac5aga25a79393eca"
 msgid "Alioramus"
-msgstr ""
+msgstr "알리오라무스"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/2facfc7e-5fe9-4a8d-9fec-dcb5ce6c5ebf.lsx
 #. NodeID = GameObjects
@@ -59,9 +62,10 @@ msgstr "움직이는 갑옷"
 #. GeneratePortrait = Icon_ApostleOfMyrkul
 #. Archetype = apostle
 #: Shared/Public/SharedDev/RootTemplates/760f2d17-de55-4f38-83c1-279399b22096.lsx:40
+#, fuzzy
 msgctxt "h63eeedddg1ab8g449egb950g3077d59ab165"
 msgid "Visage of the Dead God"
-msgstr ""
+msgstr "죽은 신의 얼굴"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/760f2d17-de55-4f38-83c1-279399b22096.lsx
 #. NodeID = GameObjects
@@ -76,7 +80,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/760f2d17-de55-4f38-83c1-279399b22096.lsx:15
 msgctxt "h321dba12g2447g41efg9b9fg2b71c59b779d"
 msgid "Apostle of Myrkul"
-msgstr ""
+msgstr "머큘의 사도"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/64663337-90aa-4944-89b9-3973e4738cc0.lsx
 #. NodeID = GameObjects
@@ -91,7 +95,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/64663337-90aa-4944-89b9-3973e4738cc0.lsx:14
 msgctxt "hc9bbf21ag117eg4347ga9b3g35e3f28e68d0"
 msgid "Halsin"
-msgstr ""
+msgstr "할신"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/0a92990c-addc-4e52-80f3-8ef926ca7960.lsx
 #. NodeID = GameObjects
@@ -157,9 +161,10 @@ msgstr "플럼프"
 #. Stats = VampireSquid
 #. GeneratePortrait = Icon_Beholder
 #: Shared/Public/SharedDev/RootTemplates/102d6489-a684-4921-9d0b-10298495fc2c.lsx:14
+#, fuzzy
 msgctxt "h6cf178d2g74f1g426ag838bg066a008f69b7"
 msgid "Vampire Squid"
-msgstr ""
+msgstr "뱀파이어 오징어"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/b2f4c553-1d16-4256-9a42-c8cd25aa7cc4.lsx
 #. NodeID = GameObjects
@@ -169,9 +174,10 @@ msgstr ""
 #. Stats = VampireSquid_Tentacle
 #. GeneratePortrait = Icon_Beholder
 #: Shared/Public/SharedDev/RootTemplates/b2f4c553-1d16-4256-9a42-c8cd25aa7cc4.lsx:14
+#, fuzzy
 msgctxt "h4e1f062ege50eg4d72gaf09g4d7c7e6a268a"
 msgid "Vampire Squid Tentacle"
-msgstr ""
+msgstr "뱀파이어 오징어의 촉수"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/77633009-400a-45e7-b13f-bf96782d6df4.lsx
 #. NodeID = GameObjects
@@ -182,9 +188,10 @@ msgstr ""
 #. Stats = Alioramus
 #. GeneratePortrait = Icon_Diloph
 #: Shared/Public/SharedDev/RootTemplates/77633009-400a-45e7-b13f-bf96782d6df4.lsx:13
+#, fuzzy
 msgctxt "h37e6c2cdg59a7g4bf2gbec7g701894a0daae"
 msgid "Alioramus"
-msgstr ""
+msgstr "알리오라무스"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/5917a395-fb9a-4bb6-8ac7-2d259e8aebe3.lsx
 #. NodeID = GameObjects
@@ -2028,7 +2035,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/a7ae5b16-c35e-4179-bc60-d8dd364dcd40.lsx:14
 msgctxt "h27455d10gc4c5g4cb9gaa14g4af61db02355"
 msgid "Arcane Cannon"
-msgstr ""
+msgstr "비전 포탑"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/cb9eb989-68f1-47a6-af63-b69967260a41.lsx
 #. NodeID = GameObjects
@@ -3682,7 +3689,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/ae7bfa09-87f7-4c34-ad55-513153eeddc4.lsx:13
 msgctxt "hbe0a2bb3g1032g4bf6g8a54g10a6707b0564"
 msgid "Dream Visitor"
-msgstr ""
+msgstr "꿈의 방문자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/28935863-ea65-48ad-9dae-82f3d1268bf7.lsx
 #. NodeID = GameObjects
@@ -3781,7 +3788,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/f7fc1cc8-5d9e-4ef0-a96f-440e8ce8728e.lsx:13
 msgctxt "ha495b9e2g6d6ag47a9gbebfgb075475747a8"
 msgid "Dream Visitor"
-msgstr ""
+msgstr "꿈의 방문자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/ff8e0e5c-fd02-4bef-bfa2-02ff41b52d15.lsx
 #. NodeID = GameObjects

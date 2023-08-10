@@ -3,23 +3,24 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-08 23:59+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-10 10:55+0000\n"
+"Last-Translator: 신아론 <ahlon.sin@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/backgrounds/ko/"
+">\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Gustav/Public/Gustav/Backgrounds/BackgroundGoals.lsx
 #. NodeID = BackgroundGoal
 #. HandlePath = Description
 #: Gustav/Public/Gustav/Backgrounds/BackgroundGoals.lsx:9
-#, fuzzy
-#| msgid " Unlock and read the Book of Dead Gods."
 msgctxt "h548c153fga9bfg4d2ega10cg1a7944ca514b"
 msgid "Unlock and read the Book of Dead Gods."
-msgstr " 죽은 신들의 책의 잠금을 풀고 그 책을 읽기."
+msgstr "죽은 신들의 책을 해금하고 책을 읽기."
 
 #. FilePath = Gustav/Public/Gustav/Backgrounds/BackgroundGoals.lsx
 #. NodeID = BackgroundGoal
@@ -81,8 +82,6 @@ msgstr "통일된 정신"
 #. NodeID = BackgroundGoal
 #. HandlePath = Description
 #: Gustav/Public/Gustav/Backgrounds/BackgroundGoals.lsx:45
-#, fuzzy
-#| msgid "Earn the worship of the Kuo-Toa."
 msgctxt "h26d75a19g3c1eg4e9ag8de0g736ca8cfd950"
 msgid "Earn the worship of the kuo-toa."
 msgstr "쿠오토아에게 숭배받기."
@@ -299,7 +298,6 @@ msgstr "고블린 숙영지의 맥주에 독 타기."
 #. NodeID = BackgroundGoal
 #. HandlePath = Title
 #: Gustav/Public/Gustav/Backgrounds/BackgroundGoals.lsx:166
-#, fuzzy
 msgctxt "he8e00582g08f8g4decg9e3fg1efc72d484ac"
 msgid "Spiked"
 msgstr "톡 쏘네"
@@ -550,7 +548,7 @@ msgstr "탈옥수"
 #: Gustav/Public/Gustav/Backgrounds/BackgroundGoals.lsx:306
 msgctxt "h573194d0gcb89g4217gb430gafaee17bdb14"
 msgid "Obtain Thulla's magical boots through underhanded means."
-msgstr "툴라의 마법 장화를 비밀스러운 방법으로 획득."
+msgstr "툴라의 마법 부츠를 비밀스러운 방법으로 획득."
 
 #. FilePath = Gustav/Public/Gustav/Backgrounds/BackgroundGoals.lsx
 #. NodeID = BackgroundGoal
@@ -1114,11 +1112,9 @@ msgstr "쓰레기와 보물"
 #. NodeID = BackgroundGoal
 #. HandlePath = Description
 #: Gustav/Public/Gustav/Backgrounds/BackgroundGoals.lsx:621
-#, fuzzy
-#| msgid "Dismiss a companion for interrupting a conversation."
 msgctxt "hc0a1580fgdbf1g4022g970fg42a77a741c0b"
 msgid "Ignore the pleas or requests of a companion in dialogue."
-msgstr "대화를 방해한 동료를 내보내기."
+msgstr "대화 중인 동료의 부탁이나 요청을 무시하기."
 
 #. FilePath = Gustav/Public/Gustav/Backgrounds/BackgroundGoals.lsx
 #. NodeID = BackgroundGoal
@@ -1820,8 +1816,6 @@ msgstr "고독한 거미"
 #. NodeID = BackgroundGoal
 #. HandlePath = Description
 #: Gustav/Public/Gustav/Backgrounds/BackgroundGoals.lsx:1017
-#, fuzzy
-#| msgid "Disable an Arcane Turret using a Sussur Flower."
 msgctxt "hb02fbbb4ge947g47b5gb22eg0aafc2c0b90c"
 msgid "Disable an arcane turret using a sussur flower."
 msgstr "수서르 꽃을 이용해서 비전 포탑 비활성화하기."
@@ -2430,7 +2424,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Backgrounds/BackgroundGoals.lsx:13
 msgctxt "h6e4eddb4gf073g42fbga8c5g7af6adedeaec"
 msgid "Moonweaver's Prayer"
-msgstr ""
+msgstr "문위버의 기도"
 
 #. FilePath = Gustav/Public/GustavDev/Backgrounds/BackgroundGoals.lsx
 #. NodeID = BackgroundGoal
@@ -2486,7 +2480,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Backgrounds/BackgroundGoals.lsx:45
 msgctxt "h569533fegd2d4g4933g867cg77321b9efe3c"
 msgid "Recite Shar's dogma to the surgeon."
-msgstr ""
+msgstr "의사에게 샤의 교리를 읊어주기."
 
 #. FilePath = Gustav/Public/GustavDev/Backgrounds/BackgroundGoals.lsx
 #. NodeID = BackgroundGoal
@@ -2494,7 +2488,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Backgrounds/BackgroundGoals.lsx:49
 msgctxt "h997bfa91ged32g4b6fgb680g6211c09369df"
 msgid "Did My Homework"
-msgstr ""
+msgstr "숙제 해 왔어"
 
 #. FilePath = Gustav/Public/GustavDev/Backgrounds/BackgroundGoals.lsx
 #. NodeID = BackgroundGoal

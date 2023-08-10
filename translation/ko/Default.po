@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-10 10:53+0000\n"
+"Last-Translator: 로켓 <nick0406@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/default/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -325,16 +327,11 @@ msgstr "마인드 플레이어 올챙이는 그 숙주를 단 며칠 만에 잠�
 #. HandlePath = Description
 #. HintKey = HINT_OUTLINE
 #: Game/Public/Game/Hints/Hints.lsx:218
-#, fuzzy
-#| msgid ""
-#| "Highlight everyone around you with [IE_HighlightCharacters] to activate "
-#| "character outlines."
 msgctxt "h66621a17gbc76g4ba1gb03ag015e7477e881"
 msgid ""
 "Highlight everyone around you with the [IE_HighlightCharacters] key to "
 "activate character outlines."
-msgstr "[IE_HighlightCharacters] 키를 눌러 주변의 모든 캐릭터에 외곽선을 띄워 강조 "
-"표시할 수 있습니다."
+msgstr "[IE_HighlightCharacters] 키를 눌러 주변의 모든 캐릭터를 외곽선으로 강조 표시할 수 있습니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -362,8 +359,6 @@ msgstr "소매치기로 빠르게 이득을 취할 수 있습니다. 다만 당�
 #. HandlePath = Description
 #. HintKey = HINT_VOLUME
 #: Game/Public/Game/Hints/Hints.lsx:242
-#, fuzzy
-#| msgid "All audio settings can be adjusted under the Options menu."
 msgctxt "he9f0d816gf61ag4313ga49dg1cfbc58a62c3"
 msgid "All audio settings can be adjusted in the Options Menu."
 msgstr "옵션 메뉴에서 음향 설정을 조정할 수 있습니다."
@@ -442,16 +437,11 @@ msgstr "어둠 속에 있는 적은 맞추기 더 어려워집니다. 암흑시�
 #. HandlePath = Description
 #. HintKey = HINT_DARKVISION
 #: Game/Public/Game/Hints/Hints.lsx:298
-#, fuzzy
-#| msgid ""
-#| "Elves, dwarves, half-elves, gnomes, and tieflings have darkvision, which "
-#| "allows them to see in the dark."
 msgctxt "h5fd25fb5g0c76g470cg9b88g61f286bb1802"
 msgid ""
 "Elves, dwarves, half-elves, half-orcs, gnomes, and tieflings have "
 "darkvision, which allows them to see in the dark."
-msgstr "엘프, 드워프, 하프엘프, 노움, 티플링은 어둠 속에서도 잘 보게 해주는 "
-"암흑시야를 지니고 있습니다."
+msgstr "엘프, 드워프, 하프엘프, 하프 오크, 노움, 티플링은 어둠 속에서도 잘 보게 해주는 암흑시야를 지니고 있습니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -462,7 +452,7 @@ msgctxt "hd8f008fcg54d0g4755ga10ag3972a8e04391"
 msgid ""
 "You can quicksave by pressing [IE_QuickSave]. Load your latest quicksave "
 "with [IE_QuickLoad]."
-msgstr ""
+msgstr "[IE_QuickSave] 키를 눌러 빠른 저장이 가능합니다. [IE_QuickLoad] 키로 가장 최근 데이터를 불러오세요."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -472,7 +462,7 @@ msgstr ""
 msgctxt "hf32dddb6g3b5ag4c5ag9993gb911fcba4ac1"
 msgid ""
 "You can lock your hotbar to prevent accidentally moving spells and abilities."
-msgstr ""
+msgstr "단축창을 고정시켜 주문이나 능력 아이콘이 실수로 이동하는 걸 방지할 수 있습니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -481,7 +471,7 @@ msgstr ""
 #: Game/Public/Game/Hints/Hints.lsx:322
 msgctxt "hbe0d706eg24f7g4a89g8516g6992571520cf"
 msgid "Casters' weapon attacks won't be as effective as their spells."
-msgstr ""
+msgstr "시전자의 무기 공격은 주문만큼 효과적이지 않을 것 입니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -492,7 +482,7 @@ msgctxt "h007e84f6gf030g45e0gab26g2ed02daa4138"
 msgid ""
 "If a hurt ally is out of reach, you can throw healing potions at them from a "
 "distance."
-msgstr ""
+msgstr "다친 아군에 닿을 수 없다면, 멀리서 치유 포션을 던져줄 수 있습니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -503,7 +493,7 @@ msgctxt "h2c7413d7gc4dbg44d5ga1bcge70d24592b53"
 msgid ""
 "In combat you can also target the enemies by clicking their portraits in the "
 "Initiative Tracker."
-msgstr ""
+msgstr "전투 중에는 우선권 확인란의 초상화를 클릭하여 적을 지정할 수 있습니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -514,7 +504,7 @@ msgctxt "hcb3ee220gf5c0g4550g9077g61d5894e55c2"
 msgid ""
 "You can drag objects in the world to move them. Stronger characters can move "
 "larger objects."
-msgstr ""
+msgstr "당신은 주변 물체를 드래그로 옮길 수 있습니다. 근력이 높은 캐릭터는 더 큰 물체를 옮길 수 있습니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -1436,7 +1426,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:238
 msgctxt "h1f9d6e2agd508g4ccag9fa9g655026331286"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1445,7 +1435,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:244
 msgctxt "h880d522egcdc1g46bfg9ef9g32bb1eeae3c1"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1454,7 +1444,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:250
 msgctxt "h7042f7f4gf722g42aegbbf0g4053d2644555"
 msgid "Must take a Short Rest."
-msgstr ""
+msgstr "짧은 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1463,7 +1453,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:256
 msgctxt "hed533136g96fdg4566gb525g27f6ce4911d4"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1472,7 +1462,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:262
 msgctxt "hb8db7ebbg4af8g4330g8709gac9fa875fd9e"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1499,7 +1489,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:280
 msgctxt "hf87e77efgafa4g4b76g8f2fgf8ce720b6da6"
 msgid "Must take a Short Rest."
-msgstr ""
+msgstr "짧은 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1517,7 +1507,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:292
 msgctxt "ha1b81babga1d3g4411g9765g784e65232495"
 msgid "Must take a Short Rest."
-msgstr ""
+msgstr "짧은 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1526,7 +1516,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:298
 msgctxt "h790294feg3952g4842g8e14g4e7583ce7b1a"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1535,7 +1525,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:304
 msgctxt "h64a1cf4cgedd9g4060g9d0dgfa3a79fc9d3d"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1544,7 +1534,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:310
 msgctxt "h5fcedf83g0b11g42f1g9281g2a856e422f39"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1553,7 +1543,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:316
 msgctxt "ha3f44ba7g3c9fg4404g9bd4gedc27b762beb"
 msgid "Must take a Short Rest."
-msgstr ""
+msgstr "짧은 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1562,7 +1552,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:322
 msgctxt "h7e18ca75g6839g48cfg8d9fg6da0713875b3"
 msgid "Must take a Short Rest."
-msgstr ""
+msgstr "짧은 휴식을 취해야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5875,7 +5865,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1011
 msgctxt "hd6f0d564g9f4eg4450g90bag90e1bc6fce80"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5884,7 +5874,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1017
 msgctxt "h1bfd6794g5697g4ab4g95bag201f1018c476"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -17281,20 +17271,14 @@ msgstr "드로우 하프 엘프"
 #. HandlePath = Description
 #. ExactMatch = StatusImmunity(SLEEP)
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:1487
-#, fuzzy
-#| msgid ""
-#| "The Feywild casts a veil over your mind. You have <LSTag Tooltip=\"Advantage"
-#| "\">Advantage</LSTag> on <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag> "
-#| "against being Charmed, and magic can't put you to sleep."
 msgctxt "h585f61c3gf8a7g47f2g97c3ge5ceb5e7ec94"
 msgid ""
 "You have <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag> against being Charmed, and magic can't "
 "put you to sleep."
 msgstr ""
-"페이와일드가 당신의 정신에 장막을 씌웁니다. 마법적으로 잠들지 않으며, 매혹에 "
-"대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
-"\"Advantage\">이점</LSTag>을 가집니다."
+"마법적으로 잠들지 않으며, 매혹에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17514,19 +17498,13 @@ msgstr "행운"
 #. HandlePath = Description
 #. Type = Tag
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:1591
-#, fuzzy
-#| msgid ""
-#| "The world can be intimidating, but you stand strong. You have <LSTag Tooltip="
-#| "\"Advantage\">Advantage</LSTag> on <LSTag Tooltip=\"SavingThrow\">Saving "
-#| "Throws</LSTag> against being Frightened."
 msgctxt "h5de817deg9abdg43a6ga70bgf43a14fd41e9"
 msgid ""
 "You have <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag> against being Frightened."
 msgstr ""
-"세상은 호락호락하지 않지만, 당신은 굳건히 서있습니다. 공포에 대한 <LSTag "
-"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\""
-">이점</LSTag>을 가집니다."
+"공포에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 가집니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17544,19 +17522,13 @@ msgstr "용감함"
 #. PassivePrototype = Halfling_Brave
 #. Type = Tag
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:1599
-#, fuzzy
-#| msgid ""
-#| "The world can be intimidating, but you stand strong. You have <LSTag Tooltip="
-#| "\"Advantage\">Advantage</LSTag> on <LSTag Tooltip=\"SavingThrow\">Saving "
-#| "Throws</LSTag> against being Frightened."
 msgctxt "h52a89fa9g499fg4f5cg8393gb48e7cd50403"
 msgid ""
 "You have <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag> against being Frightened."
 msgstr ""
-"세상은 호락호락하지 않지만, 당신은 굳건히 서있습니다. 공포에 대한 <LSTag "
-"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\""
-">이점</LSTag>을 가집니다."
+"공포에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 가집니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17761,14 +17733,9 @@ msgstr "자리엘 티플링"
 #. HandlePath = Description
 #. ExactMatch = Resistance(Fire, Resistant)
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:1664
-#, fuzzy
-#| msgid ""
-#| "Your blood protects you from flame, abyssal or otherwise. Gain resistance to "
-#| "Fire damage, taking only half damage from it."
 msgctxt "h0cccefcbgb47eg408eg9a3dg428dc66a66c2"
 msgid "You have resistance to Fire damage, taking only half damage from it."
-msgstr "당신의 피가 모든 종류의 화염으로부터 당신을 보호합니다. 화염 피해에 대한 "
-"저항을 얻어, 받는 피해가 절반으로 줄어듭니다."
+msgstr "화염 피해에 대한 저항을 얻어, 받는 피해가 절반으로 줄어듭니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -21071,13 +21038,12 @@ msgstr ""
 #: Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx:100
 msgctxt "h11ea812bgf894g4bd8g9082g5cf36c73c873"
 msgid "Target takes no additional Poison damage. "
-msgstr ""
+msgstr "대상은 추가적인 독 피해를 받지 않습니다. "
 
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
 #. HandlePath = Text
 #: Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx:104
-#, fuzzy
 msgctxt "hf6102a29g573bg4291gb0b3g59abec257c8f"
 msgid "%%% PERMANENT WARNINGS"
 msgstr "%%% PERMANENT WARNINGS"
@@ -21086,7 +21052,6 @@ msgstr "%%% PERMANENT WARNINGS"
 #. NodeID = TooltipExtraTexts
 #. HandlePath = Text
 #: Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx:108
-#, fuzzy
 msgctxt "ha7c51281g8025g49ffg9011gdf192684e4d2"
 msgid "%%% Target Restrictions"
 msgstr "%%% Target Restrictions"
@@ -24556,7 +24521,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:236
 msgctxt "h42820d8dg63c3g47e5g98d8g4f149ad1492f"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -24574,7 +24539,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:248
 msgctxt "h4a910c71g129bg4adcgadbdgd9ca615f22eb"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -24601,7 +24566,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:266
 msgctxt "hbdfc7717g40f4g4ab0gab47ga3e9bd5679ca"
 msgid "Must take a Long Rest."
-msgstr ""
+msgstr "긴 휴식을 취해야 합니다."
 
 #. FilePath = Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -27076,6 +27041,8 @@ msgid ""
 "dragons, they strive to be self-sufficient, not wanting to be beholden to "
 "anyone, not even the gods."
 msgstr ""
+"다른 무엇보다 능력과 일족을 우선시하는 오만한 종족. 한때 드래곤의 노예가 되었던 그들은 신들을 포함한 그 누구의 신세도 지지 않는 "
+"자급자족적 삶을 원한다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
