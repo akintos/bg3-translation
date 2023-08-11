@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-10 10:54+0000\n"
-"Last-Translator: Dieyoung <karsyutian@naver.com>\n"
+"PO-Revision-Date: 2023-08-11 12:53+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/tutorial/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgctxt "h10b8c5b0g0338g4b6cgbc88g9808f190e99e"
 msgid ""
 "The Netherese Weave roiling within you hungers for magic items. Consume an "
 "item or face the consequences. "
-msgstr ""
+msgstr "네더릴 위브로 인해 마법 아이템에 굶주리고 있습니다. 아이템을 흡수하지 않으면 휴우증에 시달리게 됩니다. "
 
 #. FilePath = Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -50,6 +50,10 @@ msgid ""
 "[IE_PanelSelect] Open Inventory\n"
 "[IE_ContextMenu] Use item's Context Menu to consume"
 msgstr ""
+"네더릴 위브로 인해 마법 아이템에 굶주리고 있습니다. 아이템을 흡수하지 않으면 휴우증에 시달리게 됩니다. \n"
+"\n"
+"[IE_PanelSelect] 인벤토리 열기\n"
+"[IE_ContextMenu] 아이템의 상세 메뉴를 통해 사용합니다"
 
 #. FilePath = Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -605,7 +609,7 @@ msgstr "음식과 음료 수집을 잊지 마십시오. 긴 휴식으로 체력�
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:91
 msgctxt "h0320a4c0g8539g4bc1g9c6bgb2f33eb48140"
 msgid "Camp Supplies"
-msgstr ""
+msgstr "야영 물자"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -815,6 +819,13 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu\n"
 " <LSTag Type=\"Image\" Info=\"TutorialLevelUpMenu\"/>  Level Up"
 msgstr ""
+"충분한 경험치를 획득하면 캐릭터의 레벨을 최대 12까지 올릴 수 있습니다. 레벨업을 하면 <LSTag Tooltip=\"HitPoints"
+"\">체력</LSTag>, <LSTag Tooltip=\"ProficiencyBonus\">숙련도 보너스</LSTag>, 그리고 클래스 "
+"특성이 증가합니다. 특정 레벨에서- 대부분의 경우 4, 8, 12 - 특기를 고르거나 <LSTag Tooltip=\"Abilities\""
+">능력치 점수</LSTag>를 올릴 수 있습니다.\n"
+"\n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialLevelUpMenu\"/> 레벨업"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -862,6 +873,12 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialLevelUp\"/> Click arrow by portrait to "
 "Level Up"
 msgstr ""
+"충분한 경험치를 획득하면 캐릭터의 레벨을 최대 12까지 올릴 수 있습니다. 레벨업을 하면 <LSTag Tooltip=\"HitPoints"
+"\">체력</LSTag>, <LSTag Tooltip=\"ProficiencyBonus\">숙련도 보너스</LSTag>, 그리고 클래스 "
+"특성이 증가합니다. 특정 레벨에서- 대부분의 경우 4, 8, 12 - 특기를 고르거나 <LSTag Tooltip=\"Abilities\""
+">능력치 점수</LSTag>를 올릴 수 있습니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialLevelUp\"/> 초상화 옆의 화살표를 클릭해 레벨업"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1299,7 +1316,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:289
 msgctxt "hf4ac3a0ege953g4e75gb2c4ga397531d2b6e"
 msgid "Sneak Attack (Adjacent Ally)"
-msgstr ""
+msgstr "암습 공격 (근처의 아군)"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1353,7 +1370,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:303
 msgctxt "h225b7fb0g0d2dg4919gad07gb53148d8ad9f"
 msgid "Sneak Attack (Advantage)"
-msgstr ""
+msgstr "암습 공격 (이점)"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4369,7 +4386,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:978
 msgctxt "hfd4aa485g090fg4aeega8bbg3cea1a38ec8f"
 msgid "Companions"
-msgstr ""
+msgstr "동료"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6061,7 +6078,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1375
 msgctxt "h934dba07ge23bg4af8g98e6g8fead110e06f"
 msgid "Not Proficient (Weapons)"
-msgstr ""
+msgstr "숙련 없음 (무기)"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6094,7 +6111,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1386
 msgctxt "hee47c5a9gcc5ag4f9cgb6b5g1badc5d10bd0"
 msgid "Not Proficient (Shields)"
-msgstr ""
+msgstr "숙련 없음 (방패)"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6119,6 +6136,8 @@ msgid ""
 "increase your armour class, but will give you disadvantage on some rolls and "
 "stop you from casting spells."
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialRedWarning\"/> 이 갑옷은 당신의 방어도를 높여주지만, 특정 "
+"주사위 굴림에 불리점이 생기며 주문 시전을 불가능하게 만듭니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6127,7 +6146,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1397
 msgctxt "hb523d387g20efg477aga50cg9dc171e5fb67"
 msgid "Not Proficient (Armour)"
-msgstr ""
+msgstr "숙련 없음 (갑옷)"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6140,6 +6159,8 @@ msgid ""
 "increase your armour class, but your lack of training will give you "
 "disadvantage on some rolls and stop you from casting spells."
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialRedWarning\"/> 이 갑옷은 당신의 방어도를 높여주지만, "
+"당신의 훈련 부족 때문에 특정 주사위 굴림에 불리점이 생기며 주문 시전을 불가능하게 만듭니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6763,7 +6784,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1581
 msgctxt "h961ba0c5g8bc0g4449g9543gb45a449a768c"
 msgid "Sneak Attack"
-msgstr ""
+msgstr "암습 공격"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial

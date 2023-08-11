@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-10 10:53+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2023-08-11 12:53+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/system/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -66,7 +66,7 @@ msgstr "보정된 능력치로부터"
 
 msgctxt "h3b2709cdgad15g47b3gaab8g56317d8afd6b"
 msgid "[1] Psychic damage"
-msgstr "[1] 만큼의 정신 피해"
+msgstr "[1] 정신 피해"
 
 msgctxt "h2481fd99g022dg4150gb33bg4bfb108ec624"
 msgid "Classic mode"
@@ -121,7 +121,7 @@ msgctxt "h6159ca07gd427g44a5g9e41g4381f57f24da"
 msgid ""
 "Increases the wearer's <LSTag Tooltip=\"Charisma\">Charisma</LSTag> score to "
 "[1]."
-msgstr "착용자의 <LSTag Tooltip=\"Strength\">매력</LSTag> 점수를 [1] 로 증가시킵니다."
+msgstr "착용자의 <LSTag Tooltip=\"Charisma\">매력</LSTag> 점수를 [1] 로 증가시킵니다."
 
 msgctxt "h8192fbe7ga523g47b5gba84gfd5e83299f3e"
 msgid "Select Next Character"
@@ -970,7 +970,7 @@ msgstr "피해 굴림"
 
 msgctxt "h79450c33g283cg4664gb349gff068d1ed546"
 msgid "[1] Fire damage"
-msgstr "[1] 만큼의 화염 피해"
+msgstr "[1] 화염 피해"
 
 msgctxt "h1ed12227g12edg4120g9d9cg4373e2947fa5"
 msgid "Acrobatics Check"
@@ -1330,7 +1330,7 @@ msgstr "[1]에 면역"
 
 msgctxt "h1710e205gc60ag4df1g8336g4702454ae2fc"
 msgid "[1] Acid damage"
-msgstr "[1] 만큼의 산성 피해"
+msgstr "[1] 산성 피해"
 
 msgctxt "h7fecd466gc0c3g4d2cg9362g1da76e1cda4d"
 msgid "Closed"
@@ -1636,7 +1636,7 @@ msgstr "아이템 합치기"
 
 msgctxt "h147b4a91g438eg42f2gb959g93dd54916f62"
 msgid "[1] Piercing damage"
-msgstr "[1] 만큼의 찌르기 피해"
+msgstr "[1] 찌르기 피해"
 
 msgctxt "hb70b8c20g5ad9g4b2cgb21cg082ffd194d8c"
 msgid "All Eye Colours"
@@ -1648,7 +1648,7 @@ msgstr "장갑"
 
 msgctxt "h36853db0g3a71g4bacgafb9g74a26ff4e7f9"
 msgid "[1] Bludgeoning damage"
-msgstr "[1] 만큼의 부수기 피해"
+msgstr "[1] 부수기 피해"
 
 msgctxt "h81694443gb48bg4cdcg9ee4g6fe8c5aeadef"
 msgid ""
@@ -1758,7 +1758,7 @@ msgstr "Right Ctrl"
 
 msgctxt "he1d3aa1dg41ddg45bcga121gd2e936962fdb"
 msgid "[1] Lightning damage"
-msgstr "[1] 만큼의 번개 피해"
+msgstr "[1] 번개 피해"
 
 msgctxt "h1649e934gd36fg498cgbe06g65717fb66181"
 msgid ""
@@ -2057,11 +2057,9 @@ msgctxt "h0ebbc107gb97bg4c67gad6bgd5b7e9000b23"
 msgid "[1] succeeded a [2] Check to cast [3] on self."
 msgstr "[1]: 자신에게 [3] 시전을 위한 [2] 판정 성공."
 
-#, fuzzy
-#| msgid "Relationship is good. Character approves of the player character."
 msgctxt "hf13ff31fg904fg4e94gbb07ge1d111bcaa64"
 msgid "Relationship is good. Character approves of avatar."
-msgstr "관계가 좋습니다. 플레이어 캐릭터에 찬동합니다."
+msgstr "관계가 좋습니다. 캐릭터는 아바타에게 호의적입니다."
 
 msgctxt "ha84b0ff7g24e4g4601ga165gba852d28ed7b"
 msgid "Cursed"
@@ -2100,7 +2098,7 @@ msgctxt "ha0ac3594g62fdg49bfgabb6g7e19211bcf45"
 msgid ""
 "Enable automatic addition of arrows and ammunition to the hotbar when "
 "acquired."
-msgstr ""
+msgstr "화살과 탄약 아이템을 획득하면 자동으로 하단 바에 추가합니다."
 
 msgctxt "h9089ba48g8a87g4541gba63g941d0422f943"
 msgid "Showing Miscellaneous"
@@ -2174,7 +2172,7 @@ msgstr "투사체 반사됨."
 
 msgctxt "hd026ff7fg589eg4d58ga25cg41a728a72d3c"
 msgid "[1] Force damage"
-msgstr "[1] 만큼의 역장 피해"
+msgstr "[1] 역장 피해"
 
 msgctxt "h7e70e2f8g578dg4304gae2fgfa599f222637"
 msgid "F24"
@@ -2780,19 +2778,18 @@ msgctxt "h937a48cegae79g4fcegb575g6c9e75a4542f"
 msgid "Enter Turn-Based Mode"
 msgstr "턴 기반 모드 활성화"
 
-#, fuzzy
-#| msgid "[1] temporary hit points"
 msgctxt "hdabb2235ge870g409bg8e02g1ebc41f8f81d"
 msgid "[1] <LSTag Tooltip=\"TemporaryHitPoints\">temporary hit points</LSTag>"
-msgstr "[1] 만큼의 임시 체력"
+msgstr "[1] <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>"
 
 msgctxt "h25b8be77g170bg4fcag9ccfg610d7de9a667"
 msgid "Rage"
 msgstr "격노"
 
+#, fuzzy
 msgctxt "h366f46d5ga828g4c63gb3a5g6dbead8f521e"
 msgid "Refresh Rate"
-msgstr ""
+msgstr "주사율"
 
 msgctxt "h4faee8c5g3f5fg4b70gb49bgd7b0ae8e0f8d"
 msgid "Equip"
@@ -2806,7 +2803,7 @@ msgstr "음성 볼륨"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_3"
 msgid "Main Hand - Melee"
-msgstr ""
+msgstr "주 무기 - 근접"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_13"
 msgid "Wings"
@@ -2816,13 +2813,15 @@ msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_10"
 msgid "Gloves"
 msgstr "장갑"
 
+#, fuzzy
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_0"
 msgid "Headgear"
-msgstr ""
+msgstr "투구"
 
+#, fuzzy
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_4"
 msgid "Off-Hand - Melee"
-msgstr ""
+msgstr "보조 무기 - 근접"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_8"
 msgid "Undergarments"
@@ -2830,7 +2829,7 @@ msgstr "속옷"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_18"
 msgid "Overshoes"
-msgstr ""
+msgstr "덧신"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_9"
 msgid "Boots"
@@ -2838,7 +2837,7 @@ msgstr "신발"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_17"
 msgid "Overclothes"
-msgstr ""
+msgstr "겉옷"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_11"
 msgid "Amulet"
@@ -2846,7 +2845,7 @@ msgstr "목걸이"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_5"
 msgid "Main Hand - Ranged"
-msgstr ""
+msgstr "주 무기 - 원거리"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_16"
 msgid "Musical Instrument"
@@ -2858,7 +2857,7 @@ msgstr "뿔"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_6"
 msgid "Off-Hand - Ranged"
-msgstr ""
+msgstr "보조 무기 - 원거리"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_7"
 msgid "Ring"
@@ -2866,11 +2865,12 @@ msgstr "반지"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_1"
 msgid "Clothing"
-msgstr "천옷"
+msgstr "의복"
 
+#, fuzzy
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_15"
 msgid "Overhead"
-msgstr ""
+msgstr "머리 덮개"
 
 msgctxt "h1e2fea14g1a4fg4567ga286g8c4162b78d6e_2"
 msgid "Cloak"
@@ -2922,17 +2922,16 @@ msgctxt "h0cbb4c3bg8980g4b49g992eg395d5b661053"
 msgid "Instance Distance"
 msgstr "인스턴스 거리"
 
+#, fuzzy
 msgctxt "h1760fb89gbff8g4055g850dg57b6f8d49888"
 msgid ""
 "Select which graphics card the game should run on, if you have multiple "
 "options available."
-msgstr ""
+msgstr "여러 그래픽 카드가 있다면, 게임에 사용할 선택지를 골라주세요."
 
-#, fuzzy
-#| msgid "Relationship is low. Character may leave party if approval gets worse."
 msgctxt "h31a440cbge2dag410bga766ga7b5a0b259ce"
 msgid "Relationship is bad. Character may leave party if approval gets worse."
-msgstr "관계가 낮습니다. 호감도가 더 낮아지면 캐릭터가 파티를 떠날 수 있습니다."
+msgstr "관계가 나쁩니다. 호감도가 더 낮아지면 캐릭터가 파티를 떠날 수 있습니다."
 
 msgctxt "h5e3f0f2egdf16g402bg9c94g33375a7e3d88"
 msgid "Initializing network..."
@@ -2992,7 +2991,7 @@ msgstr "[1]: 사망."
 
 msgctxt "h092f8e2fg6f13g4947g8e56gc9b422c425a1"
 msgid "[1] Targets"
-msgstr ""
+msgstr "[1]: 대상"
 
 msgctxt "h67672833g36bcg4ed7g9741gdf608b8ad5a1"
 msgid "You have been kicked from the game"
@@ -3148,7 +3147,7 @@ msgstr "(동물 조련 수정치)"
 
 msgctxt "h784f42a9g95e6g4a55gb2b5g3ef52f6bbee6"
 msgid "[1] Damage"
-msgstr "[1] 만큼의 피해"
+msgstr "[1] 피해"
 
 msgctxt "h71d726fcg26ddg462dga53ag09c0a894b315"
 msgid "Summoner's Stealth Modifier"
@@ -3246,7 +3245,7 @@ msgstr "모드 하위항목 에러"
 
 msgctxt "h817dc1f4g10f2g4864g913dgd071ed6a91fc"
 msgid "[1] Poison damage"
-msgstr "[1] 만큼의 독성 피해"
+msgstr "[1] 독성 피해"
 
 msgctxt "h87fb92e6g1638g449fgba44g137f7bee0a79"
 msgid "U"
@@ -3306,7 +3305,7 @@ msgstr "대상의 지각"
 
 msgctxt "h4dd067fegad9dg4b14gbb92g7e0633b95bbe"
 msgid "Locked"
-msgstr "잠겼음"
+msgstr "잠김"
 
 msgctxt "h05f3d74bgaa52g4475ga8b6ga966a504581d"
 msgid "No dual-wielding weapons equipped.\n"
@@ -3380,7 +3379,7 @@ msgstr "절대"
 
 msgctxt "hffb1b066gf27eg4e69gbda1gdbfd13932b00_0"
 msgid "When Pinned"
-msgstr ""
+msgstr "고정됐을 시"
 
 msgctxt "h4b3559c1g012cg47d0g8b6bge4fbd06793f0"
 msgid "You can't take a Long Rest while party members are Downed."
@@ -3416,16 +3415,11 @@ msgctxt "h799edd48g88c7g43e2g864cg09ac40bc07b0"
 msgid "dodged"
 msgstr "회피함"
 
-#, fuzzy
-#| msgid ""
-#| "Relationship is very high. Character approves of decisions and is happy with "
-#| "the player character."
 msgctxt "h805e191agffe1g43b3g8ca6g58460a14931b"
 msgid ""
 "Relationship is exceptional. Character is thrilled with and very easily "
 "convinced by avatar."
-msgstr "관계가 매우 높습니다. 플레이어 캐릭터의 결정에 동의하며 함께 있는 것이 "
-"행복합니다."
+msgstr "관계가 아주 각별합니다. 캐릭터는 아바타에 매료되어 매우 쉽게 설득됩니다."
 
 msgctxt "h2e4d43a8ga1dbg4db6gb2dfg268c61cc886f"
 msgid "Summoner's Animal Handling Modifier"
@@ -3515,6 +3509,11 @@ msgid ""
 "A low dynamic range is ideal when a consistent low or high volume is "
 "required, for example when playing at night."
 msgstr ""
+"음량의 다이나믹 레인지를 변경합니다. \n"
+"\n"
+"높은 다이나믹 레인지는 조용한 속삭임과 시끄러운 폭발음을 표현할 수 있으며, 대부분 설정에 적합합니다.\n"
+"\n"
+"낮은 다이나믹 레인지는 밤에 플레이하는 등, 일정한 음량이 필요할 때 추천합니다."
 
 msgctxt "h1b2f44f4gada5g49d4gafadg8526e39f07e7"
 msgid "Target's Intelligence Modifier"
@@ -3608,9 +3607,10 @@ msgctxt "h7fa1e13bg4177g4645gb353gff11a4455b66"
 msgid "Blurs everything in the scene that is not in camera's focus."
 msgstr "카메라 초점 밖의 모든 것을 흐릿하게 만듭니다."
 
+#, fuzzy
 msgctxt "hd894e218g4ae0g42daga416gff818b8a0ffd"
 msgid "Group All"
-msgstr ""
+msgstr "모두 합치기"
 
 msgctxt "h8e991ed8gb528g4a12gaa8fg7e8bd6740c35"
 msgid "Throw damage boosted"
@@ -3638,7 +3638,7 @@ msgstr "복원"
 
 msgctxt "he982505bgbb90g46e6g999fg82d159022d1b"
 msgid "[1] hit points"
-msgstr "[1] 만큼의 체력"
+msgstr "[1] 체력"
 
 msgctxt "h8a9a8233gbf01g4df1gbad5g00dd88a8410f"
 msgid "online community"
@@ -3700,7 +3700,7 @@ msgstr "게임 메뉴"
 
 msgctxt "h53b5886bg452cg416cgbf0agf6fc94a14e4e"
 msgid "[1] Radiant damage"
-msgstr "[1] 만큼의 광휘 피해"
+msgstr "[1] 광휘 피해"
 
 msgctxt "hfa608455gc2b4g45cegaf91g5b2344cee105"
 msgid "Radiant"
@@ -3823,7 +3823,7 @@ msgstr "사생활 공유"
 
 msgctxt "hc85c73b1gffc5g4cb5gb62cg56ab746ababf"
 msgid "Detail Distance"
-msgstr ""
+msgstr "상세 거리"
 
 #, fuzzy
 #| msgid "Menu select"
@@ -3983,8 +3983,7 @@ msgctxt "h2a18eba7gb985g45ecgaee7g41f21f9ded05"
 msgid ""
 "Relationship is in danger. Character is likely to leave the party if they "
 "disagree with another decision."
-msgstr "관계가 위험한 상태입니다. 한번만 더 캐릭터가 당신의 판단에 동의하지 않으면 "
-"파티를 떠날 것입니다."
+msgstr "관계가 위험한 상태입니다. 캐릭터의 또 다른 결정에 동의하지 않으면 파티를 떠날 것 같습니다."
 
 msgctxt "h90cfc933g2c6bg4992g9b78g50e786e512e0"
 msgid "In Lobby"
@@ -4042,7 +4041,7 @@ msgstr "패시브 요소 선택"
 
 msgctxt "h6a236b95g8c37g4a0cg942ag869faf1d412a"
 msgid "[1] Poison damage"
-msgstr "[1] 만큼의 독성 피해"
+msgstr "[1] 독성 피해"
 
 msgctxt "h104caad7g7f34g4707gb78ag0de0214ad49d"
 msgid "Failed to create the GUI"
@@ -4111,7 +4110,7 @@ msgstr "모델 품질"
 
 msgctxt "h1b787b09g3d12g40e4g971ag2f0b7bfddb5b"
 msgid "[1] Necrotic damage"
-msgstr "[1] 만큼의 괴저 피해"
+msgstr "[1] 괴저 피해"
 
 msgctxt "h789fe971gc337g46fegb838gb8c02db1e33c"
 msgid "Autosave failed!"
@@ -4159,7 +4158,7 @@ msgstr "이미 실행 중인 세션에 참가할 때는 선택 불가능합니�
 
 msgctxt "h1e57cd3bg3c3eg44a5ga6fbgd0c681fbae9f"
 msgid "[1] Necrotic damage"
-msgstr "[1] 만큼의 괴저 피해"
+msgstr "[1] 괴저 피해"
 
 msgctxt "h8c18551ag7d89g403fg940dge6a3f14d015f"
 msgid ""
@@ -4211,7 +4210,7 @@ msgstr "[1]: 자신에게 [3] 시전을 위한 [2] 판정 실패."
 
 msgctxt "hf4eabc6dg879bg4e75gaf9ag277d4afae3e5"
 msgid "[1] Piercing damage"
-msgstr "[1] 만큼의 찌르기 피해"
+msgstr "[1] 찌르기 피해"
 
 msgctxt "h7975d2f5g1f81g463egae2dgc9a27ce1b4e6"
 msgid "Psychic damage"
@@ -4333,12 +4332,9 @@ msgctxt "h66561e21g3159g4733g85adg40b40f4ce070"
 msgid "Mouse X1"
 msgstr "마우스 사이드버튼 1"
 
-#, fuzzy
-#| msgid ""
-#| "Relationship is fair. Character's trust in player character is variable."
 msgctxt "h92de65cegfc3bg4965g9edfg96494923dca0"
 msgid "Relationship is fair. Character's trust in avatar is variable."
-msgstr "관계가 공정합니다. 플레이어 캐릭터에 대한 믿음은 가변적입니다."
+msgstr "관계가 적당히 괜찮습니다. 캐릭터의 아바타에 대한 믿음은 가변적입니다."
 
 msgctxt "hfa257f57g16cag4957g9a76g91256847dddf"
 msgid "Middle Mouse Button"
@@ -4435,7 +4431,7 @@ msgstr "[1] 폭발함."
 
 msgctxt "h93274007gd97bg4e20g8111g1e76d05914ef"
 msgid "[1] Cold damage"
-msgstr "[1] 만큼의 냉기 피해"
+msgstr "[1] 냉기 피해"
 
 #, fuzzy
 #| msgid " Can't Pick Up (too heavy) "
@@ -4445,7 +4441,7 @@ msgstr " 들 수 없음 (너무 무거움) "
 
 msgctxt "h0148b597gc565g4dfag9cf9gd8914f9e8e4a"
 msgid "Summoner's Arcana"
-msgstr ""
+msgstr "소환사의 비전"
 
 msgctxt "h4e0fd129g61efg4766ga765g3bc94bf57619"
 msgid "Send to Camp"
@@ -4762,9 +4758,10 @@ msgctxt "h18a4d9e9g26f0g462fgb27eg03c90c64ebfc"
 msgid "Next Round: [1]"
 msgstr "다음 라운드: [1]"
 
+#, fuzzy
 msgctxt "hd8f9d711gb31eg48cfg92d5g45c488bc8bed"
 msgid "An enemy has moved into reach."
-msgstr ""
+msgstr "적이 사정거리 내로 들어왔습니다."
 
 msgctxt "hb8ed2061ge5a3g4f64g9d54g9a9b65e27e1e"
 msgid "Miscellaneous"
@@ -4860,7 +4857,7 @@ msgstr "효과음 볼륨"
 
 msgctxt "hc5169a77g2088g40bega4c9g7d3eb9142cc3"
 msgid "Summoner's Acrobatics"
-msgstr ""
+msgstr "소환사의 곡예"
 
 msgctxt "hb2779debgc477g467fgaf09gf0e9f29bce95"
 msgid "="
@@ -5227,7 +5224,7 @@ msgstr "클래스 패시브"
 
 msgctxt "ha64d9e2ag9280g4640g8454ga196806d1eb9"
 msgid "[1] Lightning damage"
-msgstr "[1] 만큼의 번개 피해"
+msgstr "[1] 번개 피해"
 
 msgctxt "h90c6fc70g4071g4588g86b1g47e1496889f3"
 msgid "Enable to limit the maximum frames per second."
@@ -5418,7 +5415,7 @@ msgstr "의복"
 
 msgctxt "h1fd9afc3g5995g4d94ga86eg106056dfa938"
 msgid "[1] Force damage"
-msgstr "[1] 만큼의 역장 피해"
+msgstr "[1] 역장 피해"
 
 #, fuzzy
 #| msgid "Animation LOD Detail"
@@ -5517,7 +5514,7 @@ msgctxt "hb0fb7692g57b5g4e86gb311g01e8131e4a61"
 msgid ""
 "The game runs in a resizeable window. You can click out of the game window "
 "and run other processes as normal."
-msgstr ""
+msgstr "게임이 조절 가능한 창에서 실행됩니다. 게임 창 밖을 클릭해 다른 프로세스를 실행할 수 있습니다."
 
 msgctxt "h9eca94d8ga1fbg4e14g8551ge76d11eae20e"
 msgid "Controller Vibration"
@@ -5621,7 +5618,7 @@ msgstr "[1] [2] an arrow from_ [3]"
 
 msgctxt "he58a3731gdf91g42f6g9f4fgf54af7bd2844"
 msgid "[1] Slashing damage"
-msgstr "[1] 만큼의 베기 피해"
+msgstr "[1] 베기 피해"
 
 msgctxt "h77557ac7g4f6fg49bdga76cg404de43d92f5"
 msgid "Shield"
@@ -5637,7 +5634,7 @@ msgstr "오류"
 
 msgctxt "h7700e243ga7e1g4376g8df8g2bf59444eeeb"
 msgid "Lv[1] Class Feature"
-msgstr "Lv[1] 클래스 요소"
+msgstr "Lv[1] 클래스 특성"
 
 msgctxt "h1f66317cg8051g4376g8e54g79b4e356f88b"
 msgid "Highlight Characters"
@@ -5694,6 +5691,9 @@ msgid ""
 "Genital visibility doesn't affect your adventure or access to romance "
 "options."
 msgstr ""
+"캐릭터가 벌거벗었을 때 성기를 표현합니다.\n"
+"\n"
+"해당 옵션은 모험이나 연애에 영향을 끼치지 않습니다."
 
 msgctxt "h3b5033d0gbd95g4d6fgbcdbgd1973aa0c042"
 msgid "VSync"
@@ -5732,7 +5732,7 @@ msgstr "Semicolon"
 
 msgctxt "h12ebe3d9gbb0fg4978g876bgc2dd69e366f9"
 msgid "Centre Cinematic Audio"
-msgstr ""
+msgstr "센터 시네마틱 음성"
 
 msgctxt "h86a7db8ag2cbag4996g9d2cg30236fdb2afb"
 msgid ""
@@ -5760,7 +5760,7 @@ msgstr "다용도 (원거리)"
 
 msgctxt "h4caace64g188bg4d1ag910fg481b17290ed6"
 msgid "Cannot enter Turn-Based Mode: character is incapacitated."
-msgstr ""
+msgstr "턴제 모드로 전환할 수 없습니다: 캐릭터가 무력화되었습니다."
 
 #, fuzzy
 #| msgid "Charisma modifier"
@@ -5781,7 +5781,7 @@ msgstr "저장 파일의 어드벤처 ([1]) 를 찾을 수 없습니다. 컴퓨�
 
 msgctxt "hdbc18032gd18ag47bbg9a71g6ea1e5c25eb6"
 msgid "Enable automatic addition of spell scrolls to the hotbar when acquired."
-msgstr ""
+msgstr "주문 두루마리를 획득하면 자동으로 하단 바에 추가합니다."
 
 msgctxt "hcc659580g02e5g4c0cgb28cgfb772e448736"
 msgid "No ranged weapon equipped."
@@ -5867,7 +5867,7 @@ msgstr "비무장 능력 수정치"
 
 msgctxt "h5bf94e3cgf0a5g49f5g9e7egb4d16ff4d574"
 msgid "Adjust to make the game visuals darker or lighter."
-msgstr ""
+msgstr "움직여서 게임의 밝기를 조절하십시오."
 
 msgctxt "h3eaaf2d6g8795g42f5gb815gddd92b0cf1f1"
 msgid "Conjuration"
@@ -5893,7 +5893,7 @@ msgstr "[1]: [2]을(를) 공격해 <LSTag Tooltip=\"CriticalHit\">치명타</LST
 
 msgctxt "h3c9ffd72g807dg4f81gbde0gded8ff1b45e1"
 msgid "An object's weight."
-msgstr "물체의 무게입니다."
+msgstr "대상의 무게입니다."
 
 msgctxt "h1f94a0f5g26f0g4959g9d14g28220694d69f"
 msgid "[1] used [2]."
@@ -5960,7 +5960,7 @@ msgctxt "hce72f81fg35d1g46e4gb90fgfc2dee612a23"
 msgid ""
 "In case assets are loading slowly while playing the game, this option will "
 "preferentially use more RAM/VRAM to offload disk usage. "
-msgstr ""
+msgstr "플레이 중 로딩이 느리다면 체크함으로 RAM/VRAM 을 활용해 디스크 사용량을 줄일 수 있습니다. "
 
 msgctxt "hd7ea419cg9831g40ffg8d24g4333a5a9ab62"
 msgid "[1] Thunder"
@@ -5982,7 +5982,7 @@ msgstr "대상이 시야에 없습니다."
 
 msgctxt "h780d7abcg3798g472fg84aeg9cd12df3b1a1"
 msgid "Summoner's Charisma"
-msgstr ""
+msgstr "소환사의 매력"
 
 msgctxt "h55c01730g5df2g4e4dg8df4g2d64079615da"
 msgid "Target's Sleight of Hand"
@@ -5990,7 +5990,7 @@ msgstr "대상의 손재주"
 
 msgctxt "hcdc5c4b6g12d8g4e3bga7a5gccbc0b640e14"
 msgid "Metallic Tint Level"
-msgstr ""
+msgstr "금속질 틴트 레벨"
 
 #, fuzzy
 #| msgid "Toggle Camera Rotate"
@@ -6000,7 +6000,7 @@ msgstr "카메라 회전 전환"
 
 msgctxt "h6ded2fc6g51f0g49ffg96cfg6f09866deeab"
 msgid "[1] Bludgeoning damage"
-msgstr "[1] 만큼의 부수기 피해"
+msgstr "[1] 부수기 피해"
 
 msgctxt "hb854898dge708g4d9ag8ff4g3ef28ca88967"
 msgid "The weapon's effective attack distance."
@@ -6012,7 +6012,7 @@ msgstr "상호작용"
 
 msgctxt "h8f682e0bga9b4g4d62gbc3bg4365e1ffd0a3"
 msgid "Show Genitals"
-msgstr ""
+msgstr "성기 표현"
 
 #, fuzzy
 #| msgid "<LSTag Tooltip=\"Vulnerable\">Vulnerability</LSTag> to [1]"
@@ -6026,11 +6026,11 @@ msgstr "[1] 베기"
 
 msgctxt "hc93d0e23ge17ag4397gb963g990710fee21d"
 msgid "Chatter Volume"
-msgstr ""
+msgstr "잡담 음량"
 
 msgctxt "h612a7b3cg3752g465eg99f3ga6ddca063120"
 msgid "[1] is about to damage [2]."
-msgstr ""
+msgstr "[1]: [2] 피해 예상됨."
 
 msgctxt "hcaa689dagc692g45bdga7c3g05d1b69821d6"
 msgid "Show Sneak Cones"
@@ -6042,7 +6042,7 @@ msgstr "소매치기 실패!"
 
 msgctxt "h07811890gab70g431dg837agbb18125b79f3"
 msgid "Summoner's Athletics Modifier"
-msgstr ""
+msgstr "소환사의 곡예 수정치"
 
 #, fuzzy
 #| msgid "No Disarm Toolkit Available"
@@ -6112,11 +6112,11 @@ msgstr "[1]: [2] 시전."
 
 msgctxt "h71057b3egdf75g4349g835bga1a312e1abd0"
 msgid "Remove player?"
-msgstr ""
+msgstr "플레이어를 제거합니까?"
 
 msgctxt "h120e078egcbe2g493egb72dg5d25681ec89d"
 msgid "Switch Trading Mode"
-msgstr ""
+msgstr "거래 모드 전환"
 
 msgctxt "h0fd7e77ag106bg47d5ga587g6cfeed742d5d"
 msgid "Narrator"
@@ -6138,7 +6138,7 @@ msgstr ""
 
 msgctxt "h0c4e8c92g6b7eg4ba0g8ed5gdd8becb30506"
 msgid "[1] succeeded a [2] Check to use [3]."
-msgstr ""
+msgstr "[1]: [3] 사용을 위한 [2] 판정 성공."
 
 msgctxt "ha51308d7g8af9g420aga9a3gefd4e1cccbfa"
 msgid "Direct Connections"
@@ -6174,11 +6174,11 @@ msgstr "슬롯 수"
 
 msgctxt "h16d640d7gefe5g441bga229gd339f19404eb"
 msgid "Target has [1] turn(s) of [2]."
-msgstr ""
+msgstr "대상의 [2]가 [1] 턴 남았습니다."
 
 msgctxt "h7d460f6eg35a5g4a94gb7f7ged9966a6ccb2"
 msgid "Adjust the amount of quicksaves stored per campaign."
-msgstr ""
+msgstr "캠페인의 퀵세이브 수를 조절합니다."
 
 msgctxt "hbbe1a434gf21dg4418gbb22ge9588d42e118"
 msgid "Q"
@@ -6186,7 +6186,7 @@ msgstr "Q"
 
 msgctxt "hd30d58a7g3376g4b01ga18fg20590e2a9158"
 msgid "[1] Fire damage"
-msgstr "[1] 만큼의 화염 피해"
+msgstr "[1] 화염 피해"
 
 msgctxt "h2085712fgdbf6g4df3g8c2egca88de4f0f5d"
 msgid ""
@@ -6197,9 +6197,10 @@ msgstr ""
 "활성 사용자 [1] 님이 로그아웃했습니다.\n"
 "재접속하거나 타이틀 화면으로 돌아가 새로운 사용자로 변경하십시오."
 
+#, fuzzy
 msgctxt "hd45a9fecgf8fag4f45g9b50g6d2c163bd746"
 msgid "DC [1]"
-msgstr ""
+msgstr "DC [1]"
 
 msgctxt "h0348da17gacb6g4dc5ga8d1g96588e5a2584"
 msgid ""
@@ -6261,23 +6262,25 @@ msgstr "장전식 무기 필요.\n"
 
 msgctxt "h096859ddg8600g438cg8cc9g43403c06efd3"
 msgid "Wizard level too low"
-msgstr ""
+msgstr "위저드 레벨 낮음"
 
 msgctxt "h456f6feeg12a2g4ba4g9299g3a47347980ac"
 msgid "Target's Survival"
 msgstr "대상의 생존"
 
+#, fuzzy
 msgctxt "h1fc1dde4g6125g41d6g8675g5470eda048b0"
 msgid ""
 "Adjust the volume of ambient gameplay dialogue - including non-player "
 "character chatter."
-msgstr ""
+msgstr "앰비언트 게임플레이 대화의 음량을 조절하세요. 이는 NPC 대화를 포함합니다."
 
+#, fuzzy
 msgctxt "hb0aaefecg2accg4de3gadabg46a16c37cb00"
 msgid ""
 "[1] is having a private moment. You can only join if their dialogue is no "
 "longer private."
-msgstr ""
+msgstr "[1] 이 사적인 장면에 있습니다. 장면이 끝난 후 대화에 참여할 수 있습니다."
 
 msgctxt "h47e83053g6eb4g41c5gb4c1g8d6d1ee2dcee"
 msgid "Guaranteed critical hits"
@@ -6317,7 +6320,7 @@ msgstr "저지대"
 
 msgctxt "h9e9ae075g268fg4ecagb667gf6d2d2af99f1"
 msgid "Summoner's Insight Modifier"
-msgstr ""
+msgstr "소환사의 통찰 수정치"
 
 msgctxt "he7b17901g850bg4ea9gb8fcgb6d6456ec23e"
 msgid "Class"
@@ -6347,7 +6350,7 @@ msgstr "C"
 
 msgctxt "h73802a33gae14g4ae5gadbcg7868b9ad734d"
 msgid "Not enough resources"
-msgstr ""
+msgstr "자원이 부족합니다"
 
 msgctxt "h134f5495g54ccg48a9g96bfgcdbdd31faec0"
 msgid "Deactivated"
@@ -6359,7 +6362,7 @@ msgstr "아이템을 먹을 수 없습니다."
 
 msgctxt "hb070e37bg8d8dg42c2g963cg1177ad011d61"
 msgid "Adjust the amount of automatic saves per campaign."
-msgstr ""
+msgstr "캠페인의 자동 저장 수를 조절합니다."
 
 msgctxt "h3206d347ge18eg4123g8da5g057753be0d22"
 msgid "Books and Keys"
@@ -6377,9 +6380,10 @@ msgctxt "h2e4e21e9g93fbg4f93g9002ga4b805dde5c2"
 msgid "Shared Stash"
 msgstr "공유 보관함"
 
+#, fuzzy
 msgctxt "h743bc2efg7876g4d52gae90ga2e58ce58087"
 msgid "Donate these items?"
-msgstr ""
+msgstr "아이템을 기부합니까?"
 
 msgctxt "h884b6c13g5338g497dga91bg582640938cf9"
 msgid "Steal"
@@ -6393,9 +6397,10 @@ msgctxt "h6bfece23g4b04g4426gb219gd294149522cb"
 msgid "Master"
 msgstr "마스터"
 
+#, fuzzy
 msgctxt "hf0ea55c4g7a3ag44e2gbaefgcebb50ecd2de"
 msgid "Improve colour consistency: balance the range of light and dark tones."
-msgstr ""
+msgstr "색상 일관성 향상: 밝은 톤과 어두운 톤의 균형을 맞출 수 있습니다."
 
 msgctxt "h090a3f3dg55a8g48cag808ag76ec80fdee8e"
 msgid "Deception Check"
@@ -6441,11 +6446,12 @@ msgctxt "hfd529e8dgf889g4c68g84aagad6427bad8ae"
 msgid "Weapon Action DC"
 msgstr "무기 행동 DC"
 
+#, fuzzy
 msgctxt "hb943a31cgb3d0g443bgbcf2g5d71faa3d21a"
 msgid ""
 "Change the frequency of voice lines when exploring and interacting with the "
 "world."
-msgstr ""
+msgstr "탐험이나 상호작용 중 대사의 빈도를 변경합니다."
 
 msgctxt "h89dbdaf9g61bdg4246g82fag8e432a286751"
 msgid "Wand is out of charges."
@@ -6461,7 +6467,7 @@ msgstr "거리가 닿지 않습니다!"
 
 msgctxt "hbd205415g0882g4991g8a6cg868d4ccb8c56"
 msgid "Unable to perform NATPunch"
-msgstr ""
+msgstr "NATPunch 실행 불가"
 
 msgctxt "hbfde5dedg9ca4g4cd8gb26eg42019d7b7a6f"
 msgid "No heavy weapon equipped.\n"
@@ -6538,7 +6544,7 @@ msgstr "흡수됨: [1]"
 
 msgctxt "h0544c88eg4f23g4d32gbb18geb9216507971"
 msgid "Summoner's Intelligence"
-msgstr ""
+msgstr "소환사의 지능"
 
 msgctxt "hbc4aaa8aga862g43c1g812bg598217e644c3"
 msgid "Circular"
@@ -6552,12 +6558,15 @@ msgctxt "h970199f8ge650g4fa3ga0deg5995696569b6"
 msgid "Ring"
 msgstr "반지"
 
+#, fuzzy
 msgctxt "h345b8cb5g799cg4240g8443g4d2ce577a534"
 msgid ""
 "A bonus to off-hand <LSTag Tooltip=\"RangedWeaponAttack\">ranged weapon "
 "attacks</LSTag>. Improves your chance to hit with ranged weapons using your "
 "off-hand."
 msgstr ""
+"보조 무기 <LSTag Tooltip=\"RangedWeaponAttack\">원거리 무기 공격</LSTag> 보너스. 보조 무기 사용 "
+"시 원거리 공격의 명중률을 개선시켜줍니다."
 
 msgctxt "h53ed237cg0949g4e27gb53fg60852051c2a1"
 msgid "Recharging required.\n"
@@ -6571,7 +6580,7 @@ msgstr "오래된 저장 파일을 삭제하거나 덮어씌우세요."
 
 msgctxt "h2cc719a4g295cg4d85gb42bg059411ec1e59"
 msgid "[1] failed a [2] Check to use [3]."
-msgstr ""
+msgstr "[1]: [3] 사용을 위한 [2] 판정 실패."
 
 msgctxt "h2d6aa236g5a59g4ff3ga31bgd7b4f44b98e8"
 msgid "Accept"
@@ -6585,19 +6594,21 @@ msgid ""
 "(Hold) Journal"
 msgstr "턴제 모드 전환"
 
+#, fuzzy
 msgctxt "h97354bfaged14g479cg9a4dgbda2fdd3f08f"
 msgid "Dice roll: [1]"
-msgstr ""
+msgstr "주사위 굴림: [1]"
 
 msgctxt "h005c60acgbdafg4af7gafecg18ab9036d027"
 msgid "Autosave successful!"
 msgstr "자동 저장 성공!"
 
+#, fuzzy
 msgctxt "h7f1c144cg87bfg4fcfga366gfd5f03eab7c4"
 msgid ""
 "When enabled, the camera follows the character whose turn it is during "
 "combat or turn-based mode."
-msgstr ""
+msgstr "체크 시 전투나 턴제 모드 중 카메라가 캐릭터를 따라갑니다."
 
 msgctxt "h6084c219g18d8g4af9gb263ga86eb1774526"
 msgid "Turn-Based Mode not allowed when resting."
@@ -6613,11 +6624,11 @@ msgstr "앉기"
 
 msgctxt "h7f6c3971gc201g436cg8f8ag3f43eba5ce2f"
 msgid "Enable automatic addition of useable items to the hotbar when acquired."
-msgstr ""
+msgstr "사용 가능한 아이템을 획득하면 자동으로 하단 바에 등록합니다."
 
 msgctxt "h9b0a224fgf77ag4812gba1eg00adc2c70494"
 msgid "[1] broke concentration on [2]."
-msgstr ""
+msgstr "[1]: [2] 집중 방해."
 
 #, fuzzy
 #| msgid ""
@@ -6686,15 +6697,15 @@ msgstr "대상의 동물 조련"
 
 msgctxt "h5591843dg2163g4b66g9e55g53c931c87773"
 msgid "Need [1] gold to learn"
-msgstr ""
+msgstr "배우려면 [1] 금화가 필요합니다"
 
 msgctxt "h5c441c8dg4e7eg4cfegbb8eg176789bf0e0e"
 msgid "Damage Dealt"
-msgstr ""
+msgstr "가한 피해"
 
 msgctxt "h7affc6ccg2eb8g4c9bga5c7g7d6ee6f9e9d8"
 msgid "Can't reach this"
-msgstr ""
+msgstr "닿지 않음"
 
 msgctxt "h920c16cbg2581g4e70gb388g9610e8c739db"
 msgid "Critical Miss!"
@@ -6714,7 +6725,7 @@ msgstr "'[1]'이라는 이름의 레벨을 찾을 수 없습니다!"
 
 msgctxt "he2245a57g8dadg4263g8baega21eace5ec58"
 msgid "Ambient Volume"
-msgstr ""
+msgstr "환경음 음량"
 
 msgctxt "he31b93f5gd7edg410bg9fc7ga79624abb4b3"
 msgid "Loot"
@@ -6722,7 +6733,7 @@ msgstr "약탈"
 
 msgctxt "h843c4c24gff1cg448fgba73gb83f1a869659"
 msgid "Summoner's Constitution Modifier"
-msgstr ""
+msgstr "소환자의 건강 수정치"
 
 msgctxt "h023903abg5908g4f27g8681g07c6fd29d6e4"
 msgid "End"
@@ -6736,17 +6747,18 @@ msgid ""
 msgstr "이야기를 구성하는 데에 실패했습니다. 메인 캠페인에 결함이 있을 수 있습니다. "
 "저장된 게임에서 이야기를 계속 진행합니다."
 
+#, fuzzy
 msgctxt "h8df99583g9d87g493cg9179g4d6893715039"
 msgid "Confirm Graphical Changes"
-msgstr ""
+msgstr "그래픽 변경 확인"
 
 msgctxt "h8617ce55gb10fg4640ga117g247cccdd5817"
 msgid "You can't join this game until the host takes a Long Rest."
-msgstr ""
+msgstr "호스트가 긴 휴식을 취하기 전까진 게임에 참여할 수 없습니다."
 
 msgctxt "ha38f816dg7ef0g4406gb558gae8848dec6c7"
 msgid "Connect to Extension"
-msgstr ""
+msgstr "확장 프로그램 연결"
 
 msgctxt "h4d4caa31ge9e1g4983gb02eg9660beceddb3"
 msgid "Switch Trading Character"
@@ -6834,7 +6846,7 @@ msgstr "산성"
 
 msgctxt "h64ba55b1g091eg4f8dgbd96g0f9898bcc249"
 msgid "Gameplay Mode"
-msgstr ""
+msgstr "게임플레이 모드"
 
 msgctxt "hd7af1cf5gb9afg4aa1g90faga68e1b6a3327"
 msgid "Minus"
@@ -7032,7 +7044,7 @@ msgstr ""
 
 msgctxt "h56aa22d3g5d90g4bddg954eg178596ce8230"
 msgid "[1] Slashing damage"
-msgstr "[1] 만큼의 베기 피해"
+msgstr "[1] 베기 피해"
 
 msgctxt "hbef3c357gc786g4cbdga4ccg819f8782b3fe"
 msgid "All team members are incapacitated."
@@ -7152,11 +7164,9 @@ msgctxt "h39a913e0g350fg4d04g98eegd4f7723b65e6"
 msgid "Not trained yet\n"
 msgstr "아직 훈련되지 않음\n"
 
-#, fuzzy
-#| msgid "Enable integration"
 msgctxt "h809c0aeagc811g405bgba03g5b6c79340558"
 msgid "Enable Twitch Extension"
-msgstr "연결 활성화"
+msgstr "트위치 연결 활성화"
 
 #, fuzzy
 #| msgid "(Sleight of Hand modifiers)"
@@ -7245,7 +7255,7 @@ msgstr "동물 조련 판정 성공!"
 
 msgctxt "h33ccd52cg0764g47d9g97e8g70f6e5b851c2"
 msgid "[1] Acid damage"
-msgstr "[1] 만큼의 산성 피해"
+msgstr "[1] 산성 피해"
 
 msgctxt "h932c15e0gb870g440bg9409g748d8baa90e3"
 msgid "From DC Bonus"
@@ -7339,7 +7349,7 @@ msgstr "Numpad 3"
 
 msgctxt "haa665313gdc44g40a2g9bfbgafef8741c41f"
 msgid "[1] Cold damage"
-msgstr "[1] 만큼의 냉기 피해"
+msgstr "[1] 냉기 피해"
 
 msgctxt "hc3885252g4f9cg4248ga2e5ge03bd3cfe734"
 msgid "Toggle Turn-Based Mode"
@@ -7475,14 +7485,10 @@ msgctxt "h1a6ff11bg9176g42deg81f4gc96896946bfa"
 msgid "Medicine Modifier"
 msgstr "(의학 수정치)"
 
-#, fuzzy
-#| msgid ""
-#| "Relationship is neutral. Character has no strong feelings toward player "
-#| "character."
 msgctxt "haaedc993g5c57g4c5agb758g8d4481f9fa20"
 msgid ""
 "Relationship is neutral. Character has no strong feelings toward avatar."
-msgstr "관계가 중립적입니다. 플레이어 캐릭터에 대해 특별히 느끼는 점이 없습니다."
+msgstr "관계가 중립적입니다. 아바타에 대해 특별히 느끼는 점이 없습니다."
 
 msgctxt "h9050147ag88b1g4603g8ea1g1c0d71d4159c"
 msgid "Base"
@@ -7548,7 +7554,7 @@ msgstr "핑 표시"
 
 msgctxt "h51a3e5a7g4e52g41b7ga181g47514242cbda"
 msgid "[1] Thunder damage"
-msgstr "[1] 만큼의 천둥 피해"
+msgstr "[1] 천둥 피해"
 
 #, fuzzy
 #| msgid "Pin Tooltips"
@@ -8080,7 +8086,7 @@ msgstr "등"
 
 msgctxt "h0efd281cge76ag4abagb44bgfc8068bc76dd"
 msgid "Attack an enemy moving out of your reach."
-msgstr "근접 사거리에서 벗어나는 적을 공격합니다."
+msgstr "근접 범위에서 벗어나는 적을 공격합니다."
 
 msgctxt "h6ce688e1ga9c5g499cga4ebg686f3ecb00c7"
 msgid ""
@@ -8376,11 +8382,11 @@ msgstr "프로필 폴더 생성 실패"
 
 msgctxt "heff40ddag9e78g4057ga853g945d9eb9ba77"
 msgid "[1] Radiant damage"
-msgstr "[1] 만큼의 광휘 피해"
+msgstr "[1] 광휘 피해"
 
 msgctxt "hccaa2627g3e01g48e0ga092g1b959251854b"
 msgid "[1] Thunder damage"
-msgstr "[1] 만큼의 천둥 피해"
+msgstr "[1] 천둥 피해"
 
 msgctxt "h0dfa5d48gb2edg490bgb1f2g86cede52e346"
 msgid "Target's Stealth Modifier"

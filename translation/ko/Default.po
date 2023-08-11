@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-10 10:53+0000\n"
-"Last-Translator: 로켓 <nick0406@naver.com>\n"
+"PO-Revision-Date: 2023-08-11 12:53+0000\n"
+"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/default/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -493,7 +493,7 @@ msgctxt "h2c7413d7gc4dbg44d5ga1bcge70d24592b53"
 msgid ""
 "In combat you can also target the enemies by clicking their portraits in the "
 "Initiative Tracker."
-msgstr "전투 중에는 우선권 확인란의 초상화를 클릭하여 적을 지정할 수 있습니다."
+msgstr "전투 중에 우선권 확인란의 초상화를 클릭하여 적을 지정할 수 있습니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -504,40 +504,47 @@ msgctxt "hcb3ee220gf5c0g4550g9077g61d5894e55c2"
 msgid ""
 "You can drag objects in the world to move them. Stronger characters can move "
 "larger objects."
-msgstr "당신은 주변 물체를 드래그로 옮길 수 있습니다. 근력이 높은 캐릭터는 더 큰 물체를 옮길 수 있습니다."
+msgstr "주변 물체를 드래그로 옮길 수 있습니다. 근력이 높은 캐릭터는 더 큰 물체를 옮길 수 있습니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
 #. HandlePath = Description
 #. HintKey = HINT_MOVE_OBJECTS_PAD
 #: Game/Public/Game/Hints/Hints.lsx:354
+#, fuzzy
 msgctxt "hb4d9d7c8g3c73g4e5dg8546g2b0856021984"
 msgid ""
 "You can move objects in the world by pressing [IE_ContextMenu] to open the "
 "Context Menu and selecting Move."
-msgstr ""
+msgstr "[IE_ContextMenu] 키를 눌러 컨텍스트 메뉴를 열고, 옮기기를 선택하여 주변 물체를 옮길 수 있습니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
 #. HandlePath = Description
 #. HintKey = HINT_TACTICALVIEW_CONSOLE
 #: Game/Public/Game/Hints/Hints.lsx:362
+#, fuzzy
 msgctxt "h408acb08g6fadg4f5ag91d5gce255328a472"
 msgid ""
 "Hold [IE_CameraZoomOut] in combat to enter Tactical View. To leave this "
 "view, hold [IE_CameraZoomIn]."
 msgstr ""
+"전투 중에 [IE_CameraZoomOut] 키를 길게 눌러 시야를 전술 모드로 전환할 수 있습니다. 해제하려면 "
+"[IE_CameraZoomIn] 키를 길게 누르십시오."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
 #. HandlePath = Description
 #. HintKey = HINT_HEARING_CRIMES
 #: Game/Public/Game/Hints/Hints.lsx:370
+#, fuzzy
 msgctxt "h733641d5g9062g4e38gba65g4c1e3baa022a"
 msgid ""
 "Even if you can't be seen, some criminal acts can be overheard. <LSTag Type="
 "\"Image\" Info=\"TutorialHide\"/> Hide to reduce noise."
 msgstr ""
+"당신이 보이지 않을지라도 특정 범죄는 소음이 날 수 있습니다. <LSTag Type=\"Image\" Info=\"TutorialHide"
+"\"/> 숨기를 통해 소음을 줄이십시오."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -548,7 +555,7 @@ msgctxt "h0f1c58fegc2fbg438bgbfa0g4fd7d389b848"
 msgid ""
 "You can check the Combat Log to see recent spells, actions, and dialogue "
 "that have occurred in the world."
-msgstr ""
+msgstr "전투 로그를 통해 최근 주문 시전, 행동, 대화를 확인할 수 있습니다."
 
 #. FilePath = Gustav/Mods/Gustav/Globals/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -835,7 +842,7 @@ msgstr ""
 #: Gustav/Public/Gustav/Origins/Origins.lsx:137
 msgctxt "he1a02cb6gb6eeg49d5ga854gff0a2b328c15"
 msgid "Karlach"
-msgstr ""
+msgstr "칼라크"
 
 #. FilePath = Gustav/Public/Gustav/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -2306,7 +2313,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:18
 msgctxt "hba26c950g76eag405fg922bg60cff984f41c"
 msgid "Astarion"
-msgstr ""
+msgstr "아스타리온"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2332,7 +2339,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:47
 msgctxt "h8e9c39cdga83dg4526g816dg4db38902b1fe"
 msgid "Lae'zel"
-msgstr ""
+msgstr "레이젤"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2356,7 +2363,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:75
 msgctxt "h216a9660g729dg4422gaa28gce125e518b92"
 msgid "Gale"
-msgstr ""
+msgstr "게일"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2381,7 +2388,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:103
 msgctxt "h11b1603bgd34fg4c1dgbd20gcce32c2ac8d9"
 msgid "Shadowheart"
-msgstr ""
+msgstr "섀도하트"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2407,7 +2414,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:133
 msgctxt "h5e2f781agcb73g41eaga3dag05faab1040e7"
 msgid "Wyll"
-msgstr ""
+msgstr "윌"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -17751,21 +17758,14 @@ msgstr "지옥의 저항력"
 #. HandlePath = Description
 #. Type = Githyanki
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:1672
-#, fuzzy
-#| msgid ""
-#| "Githyanki are peerless warriors from the Astral Plane, known for their "
-#| "legendary silver blades and red dragon mounts. They seek the total "
-#| "destruction of mind flayers, whose ancient empire enslaved the githyanki for "
-#| "millennia."
 msgctxt "h15873a8ag1972g459aga2ffg0adfab32f5d2"
 msgid ""
 "With a ruthlessness borne from mind flayer enslavement, githyanki ride the "
 "Astral Sea atop red dragons, bringing their silver swords and psionic might "
 "to bear against any trace of the illithid menace. "
 msgstr ""
-"아스트랄계에서 온 뛰어난 전사 종족인 기스양키는 은검을 휘두르며 레드 "
-"드래곤을 타는 것으로 알려져 있습니다. 이들은 고대 제국에서 천 년의 세월 동안 "
-"기스양키를 노예로 부린 마인드 플레이어의 완전한 섬멸을 목표로 합니다."
+"마인드플레이어의 노예였던 것에서 비롯된 무자비함으로 무장한 기스양키는 은검과 사이오닉 능력으로 일리시드 위협에 맞서 싸우며 레드 드래곤을 "
+"타고 아스트랄계를 비행합니다. "
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -18660,21 +18660,14 @@ msgstr "자리엘 티플링"
 #. RaceEquipment = EQ_Underwear_Githyanki
 #. RaceSoundSwitch = Githyanki
 #: Shared/Public/Shared/Races/Races.lsx:27013
-#, fuzzy
-#| msgid ""
-#| "Peerless warriors from the Astral Plane, githyanki are known for their "
-#| "legendary silver blades and red dragon mounts. They seek the total "
-#| "destruction of mind flayers, whose ancient empire enslaved the githyanki for "
-#| "millennia."
 msgctxt "h5b7fda71gb073g42eeg82e7ga4fcce96cfb9"
 msgid ""
 "With a ruthlessness borne from mind flayer enslavement, githyanki ride the "
 "Astral Sea atop red dragons, bringing their silver swords and psionic might "
 "to bear against any trace of the illithid menace. "
 msgstr ""
-"아스트랄계에서 온 뛰어난 전사 종족인 기스양키는 은검을 휘두르며 레드 "
-"드래곤을 타는 것으로 알려져 있습니다. 이들은 고대 제국에서 천 년의 세월 동안 "
-"기스양키를 노예로 부린 마인드 플레이어의 완전한 섬멸을 목표로 합니다."
+"마인드플레이어의 노예였던 것에서 비롯된 무자비함으로 무장한 기스양키는 은검과 사이오닉 능력으로 일리시드 위협에 맞서 싸우며 레드 드래곤을 "
+"타고 아스트랄계를 비행합니다. "
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -21847,6 +21840,8 @@ msgid ""
 "Does not spend <LSTag Type=\"ActionResource\" Tooltip=\"SuperiorityDie\""
 ">Superiority Dice</LSTag>."
 msgstr ""
+"<LSTag Type=\"ActionResource\" Tooltip=\"SuperiorityDie\">우월성 주사위</LSTag>를 "
+"소모하지 않습니다."
 
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -21854,7 +21849,7 @@ msgstr ""
 #: Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx:396
 msgctxt "hea463d7fg404cg4825g8dedgdeebc97b9914"
 msgid "Does not spend a <LSTag Tooltip=\"SpellSlot\">spell slot</LSTag>."
-msgstr ""
+msgstr "<LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소모하지 않습니다."
 
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipUpcastDescriptions.lsx
 #. NodeID = TooltipUpcastDescriptions
@@ -22802,7 +22797,7 @@ msgstr ""
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:229
 msgctxt "hf59abd10g57e7g4b11g84aeg8046c769bdac"
 msgid "Inspiration Points"
-msgstr "영감 포인트"
+msgstr "고양감 점수"
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -23619,7 +23614,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx:10
 msgctxt "h40aa7e41g978dg4da0g8da0gc654530f34d7"
 msgid "Wild Magic"
-msgstr ""
+msgstr "와일드 매직"
 
 #. FilePath = Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -23973,7 +23968,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx:214
 msgctxt "h049b6e16g90d3g4323gaa4fg4fd11bad8118"
 msgid "Conjuration"
-msgstr ""
+msgstr "조형계"
 
 #. FilePath = Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -23996,7 +23991,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx:228
 msgctxt "hb9af918dg29abg4fd6g972dg10742c9087f7"
 msgid "Divination"
-msgstr ""
+msgstr "예지계"
 
 #. FilePath = Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -24019,7 +24014,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx:242
 msgctxt "h715b8098g59f6g438eg9386g682d5ace7ac2"
 msgid "Enchantment"
-msgstr ""
+msgstr "환혹계"
 
 #. FilePath = Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -24042,7 +24037,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx:256
 msgctxt "hc31dc575g4407g4761gb859g32a5960e693a"
 msgid "Necromancy"
-msgstr ""
+msgstr "사령계"
 
 #. FilePath = Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -24065,7 +24060,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx:275
 msgctxt "h056253d5gc24ag4263gb37cg985c6867088e"
 msgid "Illusion"
-msgstr ""
+msgstr "환영계"
 
 #. FilePath = Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -24089,7 +24084,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx:289
 msgctxt "hf04c037ag1ab7g434dga6aag0f6b546468e6"
 msgid "Transmutation"
-msgstr ""
+msgstr "변환계"
 
 #. FilePath = Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -26889,7 +26884,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:463
 msgctxt "h91d507cfgb5ecg4d4cgb60ega5c8e4fa5847"
 msgid "Conjuration"
-msgstr ""
+msgstr "조형계"
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26909,7 +26904,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:470
 msgctxt "h3ce12515ga154g4957g832egc856a864ec36"
 msgid "Divination"
-msgstr ""
+msgstr "예지계"
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26929,7 +26924,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:477
 msgctxt "hf0f64ddcg55ceg49c1g8395gc7034eb69653"
 msgid "Enchantment"
-msgstr ""
+msgstr "환혹계"
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26949,7 +26944,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:484
 msgctxt "ha7abd25bge35bg4cfega5a1gc16358ce21f9"
 msgid "Necromancy"
-msgstr ""
+msgstr "사령계"
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26969,7 +26964,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:491
 msgctxt "hc4137dcag26adg4addgb3cag6c2e8f88e01d"
 msgid "Illusion"
-msgstr ""
+msgstr "환영계"
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26989,7 +26984,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:498
 msgctxt "h428453ecgd771g434cg8c57g7d7f45370460"
 msgid "Transmutation"
-msgstr ""
+msgstr "변환계"
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription

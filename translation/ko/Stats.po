@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-10 10:54+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2023-08-11 12:53+0000\n"
+"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/stats/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -209,7 +209,6 @@ msgid "%%% Empty"
 msgstr "%%% Empty"
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Passive.txt:145
-#, fuzzy
 msgctxt "h384458cbg6fbeg4a12gbe6fg28295f8c6286"
 msgid "%%% EMPTY"
 msgstr "%%% EMPTY"
@@ -1227,16 +1226,15 @@ msgid "Unfettered Fire"
 msgstr "자유로운 불꽃"
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Passive.txt:776
-#, fuzzy
 msgctxt "h30b127fcg6b97g4de8gae6cg5ceac1364d1f"
 msgid ""
 "The target must succeed a <LSTag Tooltip=\"SpellDifficultyClass\">Spell Save "
 "DC</LSTag> 8 Constitution <LSTag Tooltip=\"SavingThrow\">Saving Throw</"
 "LSTag> or <LSTag Type=\"Status\" Tooltip=\"BURNING\">Burn</LSTag>."
 msgstr ""
-"대상은 건강 수치 8에 해당하는 <LSTag Tooltip=\"SpellDifficultyClass\">주문 난이도</LSTag>의  "
+"대상은 <LSTag Tooltip=\"SpellDifficultyClass\">주문 내성굴림 DC</LSTag> 8 의 건강  "
 "<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>을 성공해야 하며, 실패 시 <LSTag Type="
-"\"Status\" Tooltip=\"BURNING\">불탑니다</LSTag>."
+"\"Status\" Tooltip=\"BURNING\">연소</LSTag> 상태가 됩니다."
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Passive.txt:784
 msgctxt "h8efbd602g745cg4762gbc03g0b851b017ab7"
@@ -6247,6 +6245,8 @@ msgid ""
 "Reduce damage from a ranged weapon by [1] + your Dexterity <LSTag Tooltip="
 "\"AbilityModifier\">Modifier</LSTag>."
 msgstr ""
+"원거리 무기로부터 받는 피해를 [1] + 민첩 <LSTag Tooltip=\"AbilityModifier\">수정치</LSTag>만큼 "
+"감소시킵니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Interrupt.txt:249
 msgctxt "h061f2c2ag7fe0g4eafg8b0dg3a108ace358b"
@@ -9214,14 +9214,14 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2183
 msgctxt "hf9701d8fgb427g4a4bga02egdd184ff93fd9"
 msgid "Potent Healing"
-msgstr ""
+msgstr "강력한 치유"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2184
 msgctxt "h2241f33fgb052g41bagb57bg7af4724dc5e3"
 msgid ""
 "Maximise the number of <LSTag Tooltip=\"HitPoints\">hit points</LSTag> "
 "restored."
-msgstr ""
+msgstr "<LSTag Tooltip=\"HitPoints\">체력</LSTag>을 회복하는 치유 효과가 늘 최대가 됩니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2189
 msgctxt "h42eeacabg18bdg49c0gb4c1g4494b8582893"
@@ -10005,7 +10005,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2739
 msgctxt "h4e86dbcfg88fag48e5ga39aga053c1c1d38e"
 msgid "Feywild Sparks"
-msgstr ""
+msgstr "페이와일드 불꽃"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2740
 msgctxt "h062a5a06g3953g449cgb106gf45f79b99c31"
@@ -13327,7 +13327,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:2107
 msgctxt "h4ba421fag0d0eg4935ga98fg8e088619737b"
 msgid "Elixir of Human Versatility"
-msgstr ""
+msgstr "인간의 다재다능함의 영약"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:2113
 msgctxt "h0e6e551agd6b8g4d18g8dd0gdfa48c0b9d62"
@@ -16813,7 +16813,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Target.txt:3575
 msgctxt "h60952eacg7137g4065gae3fgb700c0b6f7bd"
 msgid "Versatile Sneak Attack (Melee)"
-msgstr ""
+msgstr "다용도 암습 공격 (근접)"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Target.txt:3590
 msgctxt "hf2b1eb00gbc11g4c2fgb296g74a723acf6ac"
@@ -17899,6 +17899,8 @@ msgid ""
 "LSTag>, dealing <LSTag Type=\"Spell\" Tooltip=\"Target_Sneak_Attack\">Sneak "
 "Attack</LSTag> damage."
 msgstr ""
+"<LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻은 상대를 공격하여, <LSTag Type=\"Spell\" "
+"Tooltip=\"Target_Sneak_Attack\">암습 공격</LSTag> 피해를 입힙니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Throw.txt:102
 msgctxt "h7f1db8d5g89c2g4eebga939g216ad6425fc0"
@@ -17912,6 +17914,8 @@ msgid ""
 "LSTag>, dealing <LSTag Type=\"Spell\" Tooltip=\"Target_Sneak_Attack\">Sneak "
 "Attack</LSTag> damage."
 msgstr ""
+"<LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻은 상대를 공격하여, <LSTag Type=\"Spell\" "
+"Tooltip=\"Target_Sneak_Attack\">암습 공격</LSTag> 피해를 입힙니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Throw.txt:110
 msgctxt "h5225e532g4ef4g4ef8g8b88g589e84de8db5"
@@ -17925,6 +17929,8 @@ msgid ""
 "LSTag>, dealing <LSTag Type=\"Spell\" Tooltip=\"Target_Sneak_Attack\">Sneak "
 "Attack</LSTag> damage."
 msgstr ""
+"<LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻은 상대를 공격하여, <LSTag Type=\"Spell\" "
+"Tooltip=\"Target_Sneak_Attack\">암습 공격</LSTag> 피해를 입힙니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Throw.txt:133
 msgctxt "hdc9d0592g7ee8g498fgaca6ga9a99479a987"
@@ -22282,7 +22288,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:5370
 msgctxt "hce59f11egea20g4cf6gbb5egf466859a821d"
 msgid "Human Versatility"
-msgstr ""
+msgstr "인간의 다재다능함"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:5371
 msgctxt "h27d9b0f1g1212g4af9g8280g7c82e1e80f26"
@@ -24993,7 +24999,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:8590
 msgctxt "h3ad3e52fg1623g4cb5gab12g9dbf18a62b7b"
 msgid "Feywild Sparks"
-msgstr ""
+msgstr "페이와일드 불꽃"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:8591
 msgctxt "he6a29b34g0e9cg466bg8510g595305557e8f"
@@ -26722,7 +26728,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_EFFECT.txt:36
 msgctxt "h0ae0ed36g06efg4d12gb9cfga254dbd6550e"
 msgid "Hiding"
-msgstr ""
+msgstr "숨음"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_EFFECT.txt:37
 msgctxt "h89106fabg3ec7g4ff9g8380g92a9c1aec030"
@@ -28534,7 +28540,7 @@ msgstr "기회 공격"
 #: Shared/Public/Shared/Stats/Generated/Data/Interrupt.txt:417
 msgctxt "h91cb0e9fg1751g4157g8754g4e53aa094c79"
 msgid "Attack an enemy moving out of your reach."
-msgstr "근접 사거리에서 벗어나는 적을 공격합니다."
+msgstr "근접 범위에서 벗어나는 적을 공격합니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/ItemProgressionNames.txt:4
 msgctxt "h6e15582egd6bcg4894gbf01gf058808fd97d"
@@ -30088,7 +30094,7 @@ msgid ""
 "Modifier</LSTag> to the damage of the attack."
 msgstr ""
 "보조 무기 <LSTag Tooltip=\"AttackRoll\">공격</LSTag>을 가할 때, 자신의 <LSTag Tooltip="
-"\"AbilityModifier\">능력치 수정치</LSTag>를 피해량에 더할 수 있습니다."
+"\"AbilityModifier\">능력 수정치</LSTag>를 피해량에 더할 수 있습니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Passive.txt:873
 msgctxt "hfc27ae6dga16cg4586gb3c2g610e815a82e5"
@@ -34107,7 +34113,7 @@ msgstr ""
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Projectile.txt:569
 msgctxt "h5a095ffeg06f5g46b1ga6a3g5ac12be845fa"
 msgid "Hamstring Shot"
-msgstr "햄스트링 샷"
+msgstr "힘줄 사격"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Projectile.txt:570
 msgctxt "hd979150dg28e9g497agb36cg23f3b522fb1b"
@@ -34140,7 +34146,7 @@ msgstr "언데드 또는 구조물은 벌어진 상처를 입지 않습니다."
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Projectile.txt:607
 msgctxt "h30b13319gf2e6g4ecag9a36g4be1499e7160"
 msgid "Mobile Shot"
-msgstr "기동 타격"
+msgstr "기동 사격"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Projectile.txt:608
 msgctxt "h0fb1a4acgdbd6g40e7g8172g1b93ce8b412f"
@@ -43245,17 +43251,14 @@ msgid "Sleet Storm"
 msgstr "진눈깨비 폭풍"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Target.txt:7939
-#, fuzzy
-#| msgid ""
-#| "Call forth a storm of sleet that douses fires, creates an ice surface, and "
-#| "disrupts the concentration of spellcasters."
 msgctxt "hc2724c73ga423g41ebg884bgfb512195f1b0"
 msgid ""
 "Call forth a storm that disrupts the <LSTag Tooltip=\"Concentration\""
 ">Concentration</LSTag> of spellcasters, douses fires, and creates an ice "
 "surface."
-msgstr "불꽃을 꺼뜨리고, 얼음 표면을 생성하며, 주문시전자의 집중을 깨뜨리는 진눈깨비 "
-"폭풍을 불러냅니다."
+msgstr ""
+"불꽃을 꺼뜨리고 얼음 표면을 생성하며, 주문시전자의 <LSTag Tooltip=\"Concentration\">집중</LSTag>을 "
+"방해하는 진눈깨비 폭풍을 불러냅니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Target.txt:7965
 msgctxt "h53f806d2ge221g4bdbg850fg3364df3c4d0c"
@@ -45275,17 +45278,17 @@ msgstr "<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 �
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:653
 msgctxt "h205d610dgff19g4e6bg871fgc51176f66677"
 msgid "Difficult Terrain: Web"
-msgstr ""
+msgstr "험난한 지형: 거미줄"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:660
 msgctxt "ha6ee1573gedb7g44e9gb6cdg47a0738beed4"
 msgid "Difficult Terrain: Mud"
-msgstr ""
+msgstr "험난한 지형: 진창"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:667
 msgctxt "h3eeead4fg5bafg4ae0g953dgea0c8252aa19"
 msgid "Difficult Terrain: Vines"
-msgstr ""
+msgstr "험난한 지형: 덩굴"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:674
 msgctxt "h55522affge97dg4d6bg9f3ag7e85a71f6b02"
@@ -45308,12 +45311,12 @@ msgstr ""
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:682
 msgctxt "h5b53da24gc503g41ceg81f9g9e403e634ce2"
 msgid "Difficult Terrain: Lava"
-msgstr ""
+msgstr "험난한 지형: 용암"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:688
 msgctxt "h55142b02g62a3g43e8gb634g2ec703b02813"
 msgid "Difficult Terrain: Deep Water"
-msgstr ""
+msgstr "험난한 지형: 깊은 물"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:693
 msgctxt "hd58e3781gc50cg486fga2a5gbeab48c9a4c6"
@@ -46077,11 +46080,9 @@ msgid "Aid"
 msgstr "구호"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:1503
-#, fuzzy
-#| msgid "Hit point maximum increased by 5."
 msgctxt "h39591718g5fe5g41d0gb460g1705bec32657"
 msgid "Hit point maximum increased by [1]."
-msgstr "최대 체력이 5 증가합니다."
+msgstr "최대 체력이 [1] 증가합니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:1521
 msgctxt "h0c9245ecg53cdg4972ga5c8gb74454ad30ea"
@@ -49085,7 +49086,7 @@ msgctxt "h6ceb3602gab8bg4369gae8bgdae6b708aa1a"
 msgid ""
 "Douses fires, creates an ice surface, and disrupts the concentration of "
 "spellcasters."
-msgstr "불꽃을 꺼뜨리고, 얼음 표면을 생성하며, 주문시전자의 집중을 방해합니다."
+msgstr "불꽃을 꺼뜨리고 얼음 표면을 생성하며, 주문시전자의 집중을 방해합니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:4488
 #, fuzzy
@@ -53591,6 +53592,8 @@ msgid ""
 "Tooltip=\"ArcaneWard\">Arcane Ward</LSTag> to reduce the damage equal to its "
 "charges and then lose 1 charge. "
 msgstr ""
+"근처의 아군이 피해를 입을 때, <LSTag Type=\"Passive\" Tooltip=\"ArcaneWard\">비전 방호</"
+"LSTag>를 사용해 충전량만큼의 피해를 감소시키고 대신 충전량을 1 잃습니다. "
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Interrupt.txt:821
 msgctxt "h501fac01gd0cdg4dffgb148gd86d52bddf6a"
@@ -53737,7 +53740,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Interrupt.txt:1022
 msgctxt "hd8a8ad84g4f65g46fdgb04dg5b91daf7f291"
 msgid "Sneak Attack"
-msgstr ""
+msgstr "암습 공격"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Interrupt.txt:1023
 msgctxt "h23701712ge994g40bfga729g36dc38dc7c65"
@@ -53749,7 +53752,7 @@ msgstr "자신이 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 지니고 있�
 #: Shared/Public/SharedDev/Stats/Generated/Data/Interrupt.txt:1040
 msgctxt "haf81f97cgee6ag46cbg8749g814ddcccccec"
 msgid "Sneak Attack (Critical Hit)"
-msgstr ""
+msgstr "암습 공격 (치명타)"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Interrupt.txt:1046
 msgctxt "h3d2ca0f2g2024g48a9ga646gad44b4fb2b72"
@@ -53976,7 +53979,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:62
 msgctxt "hec6ff24ag5cfeg497agb47agec2a1a10b731"
 msgid "Civil Militia"
-msgstr ""
+msgstr "민병대"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:63
 msgctxt "h74d29738ga889g4cb0gbffeg72947d1962b5"
@@ -53990,7 +53993,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:70
 msgctxt "hd214006agae37g4582g91b7g8f4446ac4daa"
 msgid "Human Versatility"
-msgstr ""
+msgstr "인간의 다재다능함"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:71
 msgctxt "hd4751052g29b3g4770g8971g7879e3d7196b"
@@ -53999,6 +54002,8 @@ msgid ""
 "Tooltip=\"Proficiency\">Proficient</LSTag> in. Your carrying capacity is "
 "increased by a quarter."
 msgstr ""
+"<LSTag Tooltip=\"Proficiency\">숙련도</LSTag>에 합산될 추가 <LSTag Tooltip=\"Skill\""
+">기술</LSTag>을 선택하십시오. 소지 무게를 1/4 증가 시킵니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:81
 msgctxt "h9ed0695bg089dg4a39g977ag5e3c9489cc62"
@@ -54806,7 +54811,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:835
 msgctxt "haaadff92gd9d7g41d4gab0fg6585648fa1de"
 msgid "Goading Attack"
-msgstr ""
+msgstr "도발 공격"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:836
 msgctxt "hbb883574g6910g4bc2g9b49g5fd8f123b96f"
@@ -55119,7 +55124,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:1046
 msgctxt "h9f803801gaea7g483fg98edgc08c2bdf378c"
 msgid "Underdark"
-msgstr ""
+msgstr "언더다크"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:1047
 msgctxt "h900e6d37ge996g41f0g8a6dg0e0c5063aa78"
@@ -55224,7 +55229,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:1110
 msgctxt "heec5a54fga67eg4d15gbdf9g0426c7f038e1"
 msgid "Underdark"
-msgstr ""
+msgstr "언더다크"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:1111
 msgctxt "h40ea603eg7926g4631g9ea8g2316dee47380"
@@ -55769,6 +55774,8 @@ msgid ""
 "\" Tooltip=\"ArcaneWard\">Arcane Ward</LSTag>, you can sacrifice your ward "
 "to reduce the damage they take."
 msgstr ""
+"근처의 아군이 피해를 입을 때 <LSTag Type=\"Passive\" Tooltip=\"ArcaneWard\">비전 방호</"
+"LSTag>가 활성 상태라면, 아군의 피해를 줄여주는 대신 비전 방호를 희생시킬 수 있습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:1427
 msgctxt "h2b3423cfg3562g4217g9873g72b2708b4e86"
@@ -57499,7 +57506,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:2812
 msgctxt "hb7a685afg8222g4725g9420g8314f41bd005"
 msgid "Fear of Wolves"
-msgstr ""
+msgstr "늑대의 공포"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:2813
 msgctxt "hc90fd4f8g791dg499cg8366g9f1ece78ce66"
@@ -57509,6 +57516,9 @@ msgid ""
 "\"SavingThrow\">Saving Throw</LSTag> or become <LSTag Type=\"Status\" "
 "Tooltip=\"FRIGHTENED\">Frightened</LSTag>."
 msgstr ""
+"섀도하트는 늑대와 마주치게 되면 공포감으로 머리를 콕콕 쑤시는 듯한 고통을 느낍니다 . 그녀가 늑대류의 생물로부터 [1] 이내에 "
+"들어서면, 지혜 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>을 통과해야 하며, 그렇지 못하면 "
+"<LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\">공포</LSTag> 상태가 됩니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:2820
 msgctxt "ha1c4fa79ge1c9g4693ga2bfgbf104cc00623"
@@ -57802,7 +57812,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3223
 msgctxt "h57d57defg5399g41e2g8a9aga47b5bdc6eda"
 msgid "Ability Drain"
-msgstr ""
+msgstr "능력치 소진"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3224
 msgctxt "he0501a2eg5658g4d11g86cag54c61501320d"
@@ -58663,7 +58673,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Projectile.txt:260
 msgctxt "ha5a9a28bg1b86g4acbgafceg4ed12259aa5d"
 msgid "Goading Attack (Ranged)"
-msgstr ""
+msgstr "도발 공격 (원거리)"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Projectile.txt:261
 msgctxt "h7c51b8ceg0e65g499cga16fgbf3c7b6f007c"
@@ -58672,6 +58682,8 @@ msgid ""
 "\">Disadvantage</LSTag> on <LSTag Tooltip=\"AttackRoll\">Attack Rolls</"
 "LSTag> against anyone but you."
 msgstr ""
+"적이 당신만을 공격하도록 도발합니다. 당신 외의 대상을 공격할 때 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 부여 합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Projectile.txt:288
 msgctxt "h7622dbcbgb62cg4486gb837gcfce72561d09"
@@ -58708,7 +58720,7 @@ msgctxt "h31b243f6g8e59g49d0gbba8gb4dc25dfde2c"
 msgid ""
 "Throw a shard of ice that deals [1]. It explodes and deals [2] to anyone "
 "nearby. It leaves an ice surface."
-msgstr ""
+msgstr "[1]를 가하는 얼음 파편을 던집니다. 파편은 폭발하여 근처의 모든 대상에게 [2]를 가합니다. 얼음 표면을 남깁니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Projectile.txt:404
 msgctxt "h409a0406gb8e9g4c67g8fecg2365f29a2228"
@@ -58728,7 +58740,7 @@ msgctxt "h4773a2d8g7c21g4c0bgb067g0127ff338df4"
 msgid ""
 "Throw a shard of ice that deals [1]. It explodes and deals [2] to anyone "
 "nearby. It leaves an ice surface."
-msgstr ""
+msgstr "[1]를 가하는 얼음 파편을 던집니다. 파편은 폭발하여 근처의 모든 대상에게 [2]를 가합니다. 얼음 표면을 남깁니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Projectile.txt:435
 msgctxt "hb20d489bg56dfg4abfg9128gba50ebeba313"
@@ -58837,7 +58849,7 @@ msgctxt "h90563be4g32b9g438bg82fcgdf3a614322ed"
 msgid ""
 "Throw a shard of ice that deals [1]. It explodes and deals [2] to anyone "
 "nearby. It leaves an ice surface."
-msgstr ""
+msgstr "[1]를 가하는 얼음 파편을 던집니다. 파편은 폭발하여 근처의 모든 대상에게 [2]를 가합니다. 얼음 표면을 남깁니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Projectile.txt:809
 msgctxt "h5c60ab45gedc0g449egb4a3gdc36999cd923"
@@ -58857,7 +58869,7 @@ msgctxt "h546fb904ge766g4a07g9274g3cac64968911"
 msgid ""
 "Throw a shard of ice that deals [1]. It explodes and deals [2] to anyone "
 "nearby. It leaves an ice surface."
-msgstr ""
+msgstr "[1]를 가하는 얼음 파편을 던집니다. 파편은 폭발하여 근처의 모든 대상에게 [2]를 가합니다. 얼음 표면을 남깁니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Projectile.txt:825
 msgctxt "hed455520g733bg4738gb6a0gf56b46e6df52"
@@ -58877,7 +58889,7 @@ msgctxt "hd6659ce3g1568g4822ga800g8be6c622fb6b"
 msgid ""
 "Throw a shard of ice that deals [1]. It explodes and deals [2] to anyone "
 "nearby. It leaves an ice surface."
-msgstr ""
+msgstr "[1]를 가하는 얼음 파편을 던집니다. 파편은 폭발하여 근처의 모든 대상에게 [2]를 가합니다. 얼음 표면을 남깁니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Projectile.txt:841
 msgctxt "h2225edaaga43fg4501g9db2g8eaf073a13cf"
@@ -58897,7 +58909,7 @@ msgctxt "h1a711eb0g570cg47a6ga4begecc14b7a5fea"
 msgid ""
 "Throw a shard of ice that deals [1]. It explodes and deals [2] to anyone "
 "nearby. It leaves an ice surface."
-msgstr ""
+msgstr "[1]를 가하는 얼음 파편을 던집니다. 파편은 폭발하여 근처의 모든 대상에게 [2]를 가합니다. 얼음 표면을 남깁니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Projectile.txt:857
 msgctxt "h06bc2865g5ea7g4f38g9289gb52cc99523d7"
@@ -58917,7 +58929,7 @@ msgctxt "ha9eaf87dg03fbg4916gb6e2g0ac20e359662"
 msgid ""
 "Throw a shard of ice that deals [1]. It explodes and deals [2] to anyone "
 "nearby. It leaves an ice surface."
-msgstr ""
+msgstr "[1]를 가하는 얼음 파편을 던집니다. 파편은 폭발하여 근처의 모든 대상에게 [2]를 가합니다. 얼음 표면을 남깁니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Projectile.txt:873
 msgctxt "hcece42b8g114fg4f15ga334g95dba7839597"
@@ -61603,6 +61615,8 @@ msgid ""
 "Tooltip=\"Skill\">Skills</LSTag> of a chosen <LSTag Tooltip=\"Abilities\""
 ">Ability</LSTag>."
 msgstr ""
+"선택한 <LSTag Tooltip=\"Abilities\">능력치</LSTag>를 사용하는 모든 <LSTag Tooltip=\"Skill"
+"\">기술</LSTag>에 <LSTag Tooltip=\"Proficiency\">숙련도</LSTag>를 얻습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4298
 msgctxt "ha47fcd53gdf75g490egb2a6g33aa6255673a"
@@ -61665,7 +61679,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4348
 msgctxt "ha0878ce5g786eg4378gbe0cg71198ee08806"
 msgid "Astral Knowledge"
-msgstr ""
+msgstr "아스트랄 지식"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4349
 msgctxt "h9cc47c36g2a6bg4bebg99ebgaafdce5eece7"
@@ -61674,11 +61688,13 @@ msgid ""
 "Tooltip=\"Skill\">Skills</LSTag> of a chosen <LSTag Tooltip=\"Abilities\""
 ">Ability</LSTag>."
 msgstr ""
+"선택한 <LSTag Tooltip=\"Abilities\">능력치</LSTag>를 사용하는 모든 <LSTag Tooltip=\"Skill"
+"\">기술</LSTag>에 <LSTag Tooltip=\"Proficiency\">숙련도</LSTag>를 얻습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4370
 msgctxt "he5f3f4bcg5e41g4891g854dg5f4550004620"
 msgid "Astral Knowledge: Strength"
-msgstr ""
+msgstr "아스트랄 지식: 근력"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4371
 msgctxt "he2b6a24cg0fbag4353gbdaeg581b7a83d3cd"
@@ -61688,7 +61704,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4380
 msgctxt "h84ca7adbg029cg40bcg9e6bg097712a0c950"
 msgid "Astral Knowledge: Dexterity"
-msgstr ""
+msgstr "아스트랄 지식: 민첩"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4381
 msgctxt "h22aba1bfge051g4ad7g8d71g1153b88a4a98"
@@ -61700,7 +61716,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4389
 msgctxt "hcc2a1496g202cg4585g803ag55f167b48ed5"
 msgid "Astral Knowledge: Intelligence"
-msgstr ""
+msgstr "아스트랄 지식: 지능"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4390
 msgctxt "h0994a31ag3b86g424dgb3cfg0887a13659be"
@@ -61712,7 +61728,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4398
 msgctxt "hc1a457a4g7326g4ce1g8f8ag678ef7248728"
 msgid "Astral Knowledge: Wisdom"
-msgstr ""
+msgstr "아스트랄 지식: 지혜"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4399
 msgctxt "h20c736abg3464g4260g98cag5e1a5f319865"
@@ -61724,7 +61740,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4407
 msgctxt "h5e169eecg4858g4642ga515g6dc3f0b830fb"
 msgid "Astral Knowledge: Charisma"
-msgstr ""
+msgstr "아스트랄 지식: 매력"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:4408
 msgctxt "hbcdb66f2g38ffg466fga2bfg446de8ba90d8"
@@ -62333,7 +62349,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:308
 msgctxt "hd760dcf9gaaedg4d6dg96c0g69367e28e90d"
 msgid "Goading Attack (Melee)"
-msgstr ""
+msgstr "도발 공격 (근접)"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:309
 msgctxt "h09a75e02g4bddg4517gb8d7g92d176cfceb0"
@@ -62342,6 +62358,8 @@ msgid ""
 "\">Disadvantage</LSTag> on <LSTag Tooltip=\"AttackRoll\">Attack Rolls</"
 "LSTag> against anyone but you."
 msgstr ""
+"적이 당신만을 공격하도록 도발합니다. 당신 외의 대상을 공격할 때 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 부여 합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:336
 msgctxt "h899dddabge756g4167g951agd5be8d96a14e"
@@ -63129,7 +63147,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:2553
 msgctxt "h0e5919fbg8bf8g48c7gb3ffga94e80161fc4"
 msgid "Warding Bond"
-msgstr ""
+msgstr "방호의 결속"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:2554
 msgctxt "h4eaf5c90gbc6cg4864g8701g155af88776af"
@@ -63138,6 +63156,9 @@ msgid ""
 "all damage, and a +[1] bonus to their <LSTag Tooltip=\"ArmourClass\">Armour "
 "Class</LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"아군을 방호합니다. 아군은 모든 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 하게 되며, <LSTag "
+"Tooltip=\"ArmourClass\">방어도</LSTag>와 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
+"LSTag> 에 +[1] 보너스를 얻습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:2609
 msgctxt "h223d26fcg98feg43d7gbf4bg2ba7317cb6d4"
@@ -63296,7 +63317,7 @@ msgctxt "hf4f7ad9bg0c50g4185g934cg870b02680df1"
 msgid ""
 "Direct an ally to strike a foe. The ally uses a reaction on their next turn "
 "to make a weapon attack."
-msgstr ""
+msgstr "아군이 적을 공격하도록 지시합니다. 해당 아군은 다음 턴에 자신의 반응 행동을 사용하여 무기 공격을 합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:3182
 msgctxt "h03b3bc5ag9104g4d51gb49eg5c656c17f41f"
@@ -63773,6 +63794,8 @@ msgid ""
 "When a nearby ally takes damage, you can sacrifice your <LSTag Type=\"Passive"
 "\" Tooltip=\"ArcaneWard\">Arcane Ward</LSTag> to reduce the damage by [1]."
 msgstr ""
+"근처의 아군이 피해를 입을 때, <LSTag Type=\"Passive\" Tooltip=\"ArcaneWard\">비전 방호</"
+"LSTag>를 희생하여 피해를 [1] 만큼 줄일 수 있습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:4432
 msgctxt "h8cd832c6gf4ddg4e98gaf40gf46afd81fb10"
@@ -67344,7 +67367,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Zone.txt:925
 msgctxt "h0d2ec6ddgb652g4503g882bg19f31872b2bb"
 msgid "Gale"
-msgstr ""
+msgstr "게일"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Zone.txt:926
 msgctxt "h8ff7c914g691eg4a85gbdf2ga2dda87a5806"
@@ -67492,7 +67515,7 @@ msgctxt "ha95811b7g5b47g4921g8a3bg8a424bb2f69c"
 msgid ""
 "Your arcane ward blocks damage equal to its charges and then loses 1 charge. "
 "Casting Abjuration spells will add charges equal to the level of the spell."
-msgstr ""
+msgstr "비전 방호가 충전량만큼 피해를 차단하고 충전량을 1 잃습니다. 방호계 주문을 시전하면 주문 레벨과 동일한 충전량이 추가됩니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:80
 msgctxt "ha64376bagca22g4173ga728g54a184572e1b"
@@ -68840,7 +68863,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:1722
 msgctxt "h465e5656g3ee8g4f55gbd78g9f2442f80aae"
 msgid "Onus of Battle"
-msgstr ""
+msgstr "전투의 책임"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:1723
 msgctxt "h5ba19729g4862g4d30ga73bg03e82b0d97ff"
@@ -68850,7 +68873,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:1747
 msgctxt "h48a2256cgea29g4947gafd9gf9c407b6132d"
 msgid "Onus of Battle"
-msgstr ""
+msgstr "전투의 책임"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:1748
 msgctxt "h77792dc6gee9eg4eaeg8246g4b6839705c51"
@@ -70162,7 +70185,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:3862
 msgctxt "hb5d881e5g9da3g47e5g811cge80da6f7372d"
 msgid "Warding Bond"
-msgstr ""
+msgstr "방호의 결속"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:3863
 msgctxt "h58a9aa10gbb13g4fd2gbe98gab549796136e"
@@ -70176,7 +70199,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:3876
 msgctxt "hbd8221b5g03e7g467fg8970g43dc96908d53"
 msgid "Warding Bond"
-msgstr ""
+msgstr "방호의 결속"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:3877
 msgctxt "h3b1803f3ga672g4a2dg86f8g824ef2ab81d8"
@@ -71941,7 +71964,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6259
 msgctxt "h6376a4a4g7cd7g4768g9d01gf2e4c6e02f1c"
 msgid "Exhausted"
-msgstr ""
+msgstr "탈진"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6260
 msgctxt "h5d5e8c09g2e5dg47a8gb80bg74c3a708ff14"
@@ -72088,7 +72111,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6444
 msgctxt "h60eec80egc9e2g4cfeg8790gb65ef345e5d8"
 msgid "Astral Knowledge"
-msgstr ""
+msgstr "아스트랄 지식"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6445
 msgctxt "h1eaab1c8g6ac1g43fdg9badgbe7303c8f14b"
@@ -72100,7 +72123,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6452
 msgctxt "h9f556d73g5ac7g4de3g9184g11eea1d67097"
 msgid "Astral Knowledge: Strength"
-msgstr ""
+msgstr "아스트랄 지식: 근력"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6453
 msgctxt "h938345dcg4f2cg4b08gb2b2g504ac83a7138"
@@ -72110,7 +72133,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6462
 msgctxt "h9c712058g3ba2g41fagbc48gf0160f6b13b1"
 msgid "Astral Knowledge: Dexterity"
-msgstr ""
+msgstr "아스트랄 지식: 민첩"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6463
 msgctxt "h61cce8bcgac40g45e9g83a2g76a0ee833a5e"
@@ -72122,7 +72145,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6470
 msgctxt "h2372c8fdg5e11g4153g8016g001a27c4b7b5"
 msgid "Astral Knowledge: Intelligence"
-msgstr ""
+msgstr "아스트랄 지식: 지능"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6471
 msgctxt "hf76d131dgbdb2g404aga3d1g51d07d25c50a"
@@ -72134,7 +72157,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6478
 msgctxt "h8e49ec2cgded7g451cg9c1eg6929399f2bde"
 msgid "Astral Knowledge: Wisdom"
-msgstr ""
+msgstr "아스트랄 지식: 지혜"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6479
 msgctxt "h219c2d3cg3ef3g4503g82cdgd1cbd54f03d2"
@@ -72146,7 +72169,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6486
 msgctxt "h04a8bdcagc622g4cd3gb1dag0823e39983ad"
 msgid "Astral Knowledge: Charisma"
-msgstr ""
+msgstr "아스트랄 지식: 매력"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6487
 msgctxt "h9a86a4a0ga35fg496cg88eag7f0cfedac89a"
@@ -72618,7 +72641,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6962
 msgctxt "h892ed06bgeb61g4da9g94f8g37e8c0e6b7cf"
 msgid "Ability Drain: Strength"
-msgstr ""
+msgstr "능력치 소진: 근력"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6963
 msgctxt "h1938be95ga2abg42e1g9f97ga96234b7d706"
@@ -72626,11 +72649,13 @@ msgid ""
 "Strength reduced by <LSTag Type=\"Passive\" Tooltip=\"TAD_DrainAbility\""
 ">Ability Drain</LSTag>."
 msgstr ""
+"<LSTag Type=\"Passive\" Tooltip=\"TAD_DrainAbility\">능력치 소진</LSTag>으로 인해 근력이 "
+"감소했습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6979
 msgctxt "h106f0868gac57g44ccg9c9fge282c128e07a"
 msgid "Ability Drain: Dexterity"
-msgstr ""
+msgstr "능력치 소진: 민첩"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6980
 msgctxt "hd5f1e6a3ge0bfg4ee0g90eeg6e70362d830a"
@@ -72638,11 +72663,13 @@ msgid ""
 "Dexterity reduced by <LSTag Type=\"Passive\" Tooltip=\"TAD_DrainAbility\""
 ">Ability Drain</LSTag>."
 msgstr ""
+"<LSTag Type=\"Passive\" Tooltip=\"TAD_DrainAbility\">능력치 소진</LSTag>으로 인해 민첩이 "
+"감소했습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6996
 msgctxt "hbf856302gd1e7g460bgbd79g5f32078eecd7"
 msgid "Ability Drain: Intelligence"
-msgstr ""
+msgstr "능력치 소진: 지능"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6997
 msgctxt "h38db98aega71ag4b3ega837g6e26fbc5ab8f"
@@ -72650,11 +72677,13 @@ msgid ""
 "Intelligence reduced by <LSTag Type=\"Passive\" Tooltip=\"TAD_DrainAbility\""
 ">Ability Drain</LSTag>."
 msgstr ""
+"<LSTag Type=\"Passive\" Tooltip=\"TAD_DrainAbility\">능력치 소진</LSTag>으로 인해 지능이 "
+"감소했습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:7013
 msgctxt "he13a29c1g8ce2g42d9gaf28g1b9040e46111"
 msgid "Ability Drain: Wisdom"
-msgstr ""
+msgstr "능력치 소진: 지혜"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:7014
 msgctxt "h05db1af2ga78fg4e84g81bdg4a02d8f4bde4"
@@ -72662,11 +72691,13 @@ msgid ""
 "Wisdom reduced by <LSTag Type=\"Passive\" Tooltip=\"TAD_DrainAbility\""
 ">Ability Drain</LSTag>."
 msgstr ""
+"<LSTag Type=\"Passive\" Tooltip=\"TAD_DrainAbility\">능력치 소진</LSTag>으로 인해 지혜가 "
+"감소했습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:7030
 msgctxt "h61e890d5g9a37g4ee6g8502g1155a8bb5041"
 msgid "Ability Drain: Charisma"
-msgstr ""
+msgstr "능력치 소진: 매력"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:7031
 msgctxt "hd0de5039g3c8bg412dg8ad4gc5aea4fce1da"
@@ -72674,6 +72705,8 @@ msgid ""
 "Charisma reduced by <LSTag Type=\"Passive\" Tooltip=\"TAD_DrainAbility\""
 ">Ability Drain</LSTag>."
 msgstr ""
+"<LSTag Type=\"Passive\" Tooltip=\"TAD_DrainAbility\">능력치 소진</LSTag>으로 인해 매력이 "
+"감소했습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:7055
 msgctxt "h1879bff7g7cf2g4398gb866gf9738b7ac823"
