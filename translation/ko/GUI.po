@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-12 13:53+0000\n"
-"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
+"PO-Revision-Date: 2023-08-13 20:53+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -105,7 +105,7 @@ msgstr "이동"
 #: Game/Public/Game/GUI/Library/CCLib.xaml:951
 msgctxt "hc1d70a06g88a4g4ce6g8dc0ge2c17c5f0eb2"
 msgid "Class Features"
-msgstr "클래스 특성"
+msgstr "클래스 요소"
 
 #: Game/Public/Game/GUI/Library/CCLib.xaml:1029
 msgctxt "hb41a9fcag75cag4931g9a1fg374b4d83f8cf"
@@ -455,7 +455,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:3477
 msgctxt "h601ff4c6g67b8g4f32gaaf7g8b29d6daa426"
 msgid "Skills with Expertise"
-msgstr "전문 기술"
+msgstr "전문화 기술"
 
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:3478
 msgctxt "hb7bf72ebgcd1ag40fbg9f1eg85d9a5853d4d"
@@ -488,7 +488,7 @@ msgid ""
 "You can choose to level up in a different class - gaining a wider set of "
 "options but missing out on high level features of your original class. "
 msgstr ""
-"다른 클래스의 레벨을 올릴 수 있습니다. 더 다양한 선택지를 얻을 수 있지만, 원래 클래스의 고레벨 능력을 얻지 못하게 됩니다. "
+"다른 클래스의 레벨을 올릴 수 있습니다. 더 다양한 선택지를 얻을 수 있지만, 원래 클래스의 고레벨 요소를 얻지 못하게 됩니다. "
 
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:3657
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:3673
@@ -1017,7 +1017,7 @@ msgstr "추천 필터"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:1489
 msgctxt "h038b1421g2efeg4283g9b88gcdd3b6e46f80"
 msgid "(Proficient)"
-msgstr "(숙련된)"
+msgstr "(숙련)"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:704
 msgctxt "h582dd86fgb0f8g497dg963ag203dad565aef"
@@ -1027,7 +1027,7 @@ msgstr "(파티)"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:712
 msgctxt "h5626aa7cgbedfg4432gb542g164b65efccb2"
 msgid "(Party - Proficient)"
-msgstr "(파티 - 숙련된)"
+msgstr "(파티 - 숙련)"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:716
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:1493
@@ -1038,7 +1038,7 @@ msgstr "검색할 내용 입력"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:1005
 msgctxt "h007741f2ge0abg4842g99f1gcfa286352e4a"
 msgid "Metamagic"
-msgstr "마법변형"
+msgstr "메타매직"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:1015
 msgctxt "hb34891acg5c1dg4c00gbdffg28f4611d661a"
@@ -1053,7 +1053,7 @@ msgstr "캐릭터 요소"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:1033
 msgctxt "hf0ecb46dgcfb5g4979gbdf5g1c48ca834de8"
 msgid "Class Features"
-msgstr "클래스 특성"
+msgstr "클래스 요소"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:1036
 msgctxt "h97b3e255g3188g4739g9e16ge08349058868"
@@ -1096,14 +1096,13 @@ msgstr ""
 "당신이 속한 마법 학파의 주문을 배울 때에는 비용이 적게 듭니다."
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:2254
-#, fuzzy
 msgctxt "h6cbb2d29g46c1g4b0agb271gcb95f4e4b3f0"
 msgid ""
 "Spells using <LSTag Type=\"Image\" Info=\"SpellSlot\"/> can be replaced on "
 "<LSTag Type=\"Image\" Info=\"TutorialLevelUp\"/><hl>Level Up</hl>."
 msgstr ""
 "<LSTag Type=\"Image\" Info=\"SpellSlot\"/> 을 이용하는 주문은 <LSTag Type=\"Image\" "
-"Info=\"TutorialLevelUp\"/><hl>레벨업</hl>시 교체할 수 있습니다."
+"Info=\"TutorialLevelUp\"/><hl>레벨 업</hl>시 교체할 수 있습니다."
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:2304
 msgctxt "h721ec81ag27c5g4744g8904g807a2248b782"
@@ -1116,7 +1115,6 @@ msgid "Clear Results"
 msgstr "결과 지우기"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:2732
-#, fuzzy
 msgctxt "h4e8ccd4cgd056g41e3g95a5g29b78126e9a2"
 msgid ""
 "Spells using <LSTag Type=\"Image\" Info=\"WarlockSpellSlot\"/> can be "
@@ -1124,7 +1122,7 @@ msgid ""
 "Up</hl>."
 msgstr ""
 "<LSTag Type=\"Image\" Info=\"WarlockSpellSlot\"/> 을 이용하는 주문은 <LSTag Type="
-"\"Image\" Info=\"TutorialLevelUp\"/><hl>레벨업</hl>시 교체할 수 있습니다."
+"\"Image\" Info=\"TutorialLevelUp\"/><hl>레벨 업</hl>시 교체할 수 있습니다."
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3112
 msgctxt "ha2778a7bg070fg47bag9dd0gc81a8b236863"
@@ -1266,7 +1264,7 @@ msgstr "다중 선택"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:7088
 msgctxt "hf5138081g15f4g476ega739gb5c7e4a7c7eb"
 msgid "Select Range"
-msgstr "사거리 선택"
+msgstr "범위 선택"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:7409
 msgctxt "had94b224g2d0eg43a9g96a7g27311c05ef99"
@@ -1626,7 +1624,7 @@ msgstr "주문 공격"
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:5105
 msgctxt "h1eb444a8g4504g4584g8848g63dbed07edee"
 msgid "Spell Save DC"
-msgstr "주문 내성 DC"
+msgstr "주문 내성 난이도"
 
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:5028
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:5109
@@ -2538,57 +2536,57 @@ msgstr "투구 숨기기"
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2343
 msgctxt "hb82d55a4g4478g4234g8a45gd27ddab005e6"
 msgid "Show Instrument & Weapon"
-msgstr ""
+msgstr "악기와 무기 보이기"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2346
 msgctxt "h0c4b9c46g5991g4f3dg8362gdc7a527a1022"
 msgid "Hide Instrument"
-msgstr ""
+msgstr "악기 숨기기"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2349
 msgctxt "h580931ebgac43g434ag8a43g2829942f642b"
 msgid "Hide Weapon"
-msgstr ""
+msgstr "무기 숨기기"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2354
 msgctxt "hf94141f3g2c48g48c0ga839gfae00aaafe28"
 msgid "Hide Camp Clothes"
-msgstr ""
+msgstr "야영지 의상 숨기기"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2357
 msgctxt "hff9080d3gd2d5g4fe3g9ff0g4bdeabc22b00"
 msgid "Show Camp Clothes"
-msgstr ""
+msgstr "야영지 의상 보이기"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2362
 msgctxt "hbf3eb825g16dfg42bfg9a2ag81e7e10a2e08"
 msgid "Dual-Wield On"
-msgstr ""
+msgstr "쌍수 켜기"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2365
 msgctxt "hcf9235e2gfc31g427dg8f0dgaacb0220ff90"
 msgid "Dual-Wield Off"
-msgstr ""
+msgstr "쌍수 끄기"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2531
 msgctxt "h3f9a1151ge25ag43b6ga7bbg75a28c1fa7ff"
 msgid "Toggle Off"
-msgstr ""
+msgstr "토글 끄기"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2538
 msgctxt "hb58734fcg0f51g4b87g90a8g3bd6e7383dce"
 msgid "Toggle Automatic"
-msgstr ""
+msgstr "자동 전환"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2955
 msgctxt "hffc72a17g6934g42f8ga935g447764ee6f43"
 msgid "Features"
-msgstr ""
+msgstr "요소"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:3125
 msgctxt "h45ab4802ge771g44dagbd56ged6e7335fbc8"
 msgid "Additional Traits"
-msgstr ""
+msgstr "추가 특성"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:3200
 msgctxt "h20f2c1b6g2815g402ag8549gd6042c56c6db"
@@ -2599,32 +2597,32 @@ msgstr "내성 굴림 숙련도"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8527
 msgctxt "he26c9a8cg0e0ag45b5ga6ddg6ddb00255b51"
 msgid "Join Conversation"
-msgstr ""
+msgstr "대화 참여"
 
 #: Game/Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:2150
 msgctxt "h9c0daf6dg0ad3g4c45g937dgc5062a13e564"
 msgid "Group"
-msgstr ""
+msgstr "그룹"
 
 #: Game/Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:2156
 msgctxt "h46143e25gdbbbg4220g9383g41525f01d0f2"
 msgid "Split"
-msgstr ""
+msgstr "나누기"
 
 #: Game/Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:2163
 msgctxt "hb3756335gddeeg4f75g9561g039d94305206"
 msgid "Group All Summons"
-msgstr ""
+msgstr "전체 소환수 그룹화"
 
 #: Game/Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:2170
 msgctxt "he8756948g1795g4047g8eb3g76956ccd07fb"
 msgid "Ungroup All Summons"
-msgstr ""
+msgstr "전체 소환수 그룹 해제"
 
 #: Game/Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:2177
 msgctxt "h23283673g4496g4648g9c41gadd37637d89c"
 msgid "Confirm Grouping"
-msgstr ""
+msgstr "그룹화 확정"
 
 #: Game/Public/Game/GUI/Library/Reactions_c.xaml:61
 #: Game/Public/Game/GUI/Library/Reactions_c.xaml:143
@@ -2676,6 +2674,8 @@ msgid ""
 "Are you sure?\n"
 "Proceeding will delete ALL of the saves of this campaign. "
 msgstr ""
+"확실합니까?\n"
+"이는 캠페인의 저장을 모두 삭제합니다. "
 
 #: Game/Public/Game/GUI/Library/SaveLoad_c.xaml:65
 #: Game/Public/Game/GUI/Library/SaveLoad.xaml:73
@@ -2732,7 +2732,7 @@ msgstr "호환되지 않는 버전"
 #: Game/Public/Game/GUI/Library/SaveLoad_c.xaml:187
 msgctxt "hbe37675cg33d5g4f00gbcf0gd82ef213b101"
 msgid "Game data is still installing!"
-msgstr ""
+msgstr "게임 데이터가 아직 설치중입니다!"
 
 #: Game/Public/Game/GUI/Library/SaveLoad_c.xaml:309
 #: Game/Public/Game/GUI/Library/SaveLoad_c.xaml:334
@@ -2887,9 +2887,10 @@ msgstr "이 주문은 당신이 이미 알고 있는 주문의 변형에 해당�
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6691
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6704
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6714
+#, fuzzy
 msgctxt "h1c706361g066ag4701gb902g31e2406b5dea"
 msgid "[1]~[2]"
-msgstr ""
+msgstr "[1]~[2]"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:891
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3799
@@ -3773,6 +3774,8 @@ msgid ""
 "for any <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> you make with Skills "
 "that you have Expertise in."
 msgstr ""
+"전문화된 기술에 대한 모든 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>의 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 배가합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3215
 msgctxt "h69e74667g16c7g4826g823ege6fc84ef8d77"
@@ -3811,6 +3814,10 @@ msgid ""
 "Class</LSTag>, making these armours especially useful for characters with "
 "low Dexterity."
 msgstr ""
+"중갑은 방어력이 높지만, 숙련된 전사만이 무게를 감당할 수 있습니다.\n"
+"\n"
+"중갑을 착용할 때 <LSTag Tooltip=\"Dexterity\">민첩</LSTag>은 더 이상 <LSTag Tooltip="
+"\"ArmourClass\">방어도</LSTag>에 영향을 주지 않고, 이는 낮은 민첩의 캐릭터에게 특히 유용합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3243
 msgctxt "h0e6581dag3136g4990gb14eg8a3f8f2ebba1"
@@ -3877,6 +3884,7 @@ msgid "An automatic attack against an enemy moving out of reach."
 msgstr "적이 당신의 공격 범위 밖으로 나갈 때 자동으로 발동하는 공격입니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3299
+#, fuzzy
 msgctxt "h386781f4gd840g4a70g853agc3149c6b35e4"
 msgid ""
 "A die that you roll during a <LSTag Tooltip=\"LongRest\">Long Rest</LSTag>. "
@@ -3885,6 +3893,9 @@ msgid ""
 "\"AttackRoll\">Attack Roll</LSTag> or <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throw</LSTag> with this result."
 msgstr ""
+"<LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취하는 동안 굴린 주사위. 굴림 결과가 생생하게 기억납니다.\n"
+"<Br>하루동안 굴림 결과를 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag> 이나 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag> 중 하나의 주사위와 교환할 수 있습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3306
 #, fuzzy
@@ -3973,6 +3984,7 @@ msgid ""
 "Ritual spells don't cost a <LSTag Tooltip=\"SpellSlot\">spell slot</LSTag> "
 "when cast outside of combat."
 msgstr ""
+"의식 주문은 전투 중이 아닐 때 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소모하지 않습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3355
 #, fuzzy
@@ -4068,12 +4080,10 @@ msgid ""
 "can't restore them. Temporary hit points don't remove <LSTag Tooltip=\"Downed"
 "\">Downed</LSTag> and disappear after a Long Rest."
 msgstr ""
-"당신의 본 체력<LSTag Tooltip=\"HitPoints\">hit points</LSTag>이 소모되기 "
-"전에 먼저 소모되는 추가 체력.\n"
+"당신의 본 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 소모되기 전에 먼저 소모되는 추가 체력.\n"
 "\n"
-"한번에 한 종류의 임시 체력만 보유할 수 있으며, 치유로 이를 복원할 수 "
-"없습니다. 임시 체력으로 <LSTag Tooltip=\"Downed\">쓰러짐</LSTag> 상태를 "
-"제거할 수 없으며, 임시 체력은 긴 휴식 이후에 사라집니다."
+"한번에 한 종류의 임시 체력만 보유할 수 있으며, 치유로 이를 복원할 수 없습니다. 임시 체력으로 <LSTag Tooltip="
+"\"Downed\">쓰러짐</LSTag> 상태를 제거할 수 없으며, 임시 체력은 긴 휴식 이후에 사라집니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3411
 msgctxt "he07ef4d4gd151g4071gbcb4ge33046cb0453"
@@ -4124,6 +4134,9 @@ msgid ""
 "A caster can only cast 1 concentration spell at a time, and their "
 "concentration might be broken when they take damage."
 msgstr ""
+"특정 주문은 유지하기 위해 시전자의 집중이 필요합니다.\n"
+"\n"
+"시전자는 하나의 집중 주문만을 시전할 수 있으며, 피해를 입을 경우 집중이 깨집니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3474
 msgctxt "hf3d0709agb51eg40d0g8268g514eb9c9fd5a"
@@ -4132,6 +4145,8 @@ msgid ""
 ">Proficiency</LSTag>, and which do not have the <LSTag Tooltip=\"TwoHanded\""
 ">two-handed weapons</LSTag> or heavy properties. "
 msgstr ""
+"몽크 무기는 몽크의 <LSTag Tooltip=\"Proficiency\">숙련</LSTag> 무기로, <LSTag Tooltip="
+"\"TwoHanded\">양손 무기</LSTag> 나 무거움 속성이 없습니다. "
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3481
 msgctxt "h15f47a7cg8dd9g411fgb258gd1795b955fb6"
@@ -4305,7 +4320,7 @@ msgstr "영구적"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6695
 msgctxt "h85ad064cg8cd0g4f24gae50g6257bd080eca"
 msgid "(ignores Resistance)"
-msgstr ""
+msgstr "(저항 무시)"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:4444
 msgctxt "hb115268eg66f3g4f91g827bgdbad9a941c6b"
@@ -4560,7 +4575,7 @@ msgstr "야생에서도 살아남습니다. 사냥감을 추적합니다."
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5482
 msgctxt "h6836c376g7c23g42fbgb5ceg5b1cbf054975"
 msgid "Primary Ability"
-msgstr ""
+msgstr "주 능력치"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5483
 msgctxt "h06a71ef5g7c5eg4b21g95dfg0cb4c47431b8"
@@ -4569,6 +4584,8 @@ msgid ""
 "class. It influences your chance to hit and your damage output with weapon "
 "attacks or spells."
 msgstr ""
+"클래스에서 가장 중요한 <LSTag Tooltip=\"Abilities\">능력치</LSTag>입니다. 무기 공격이나 주문의 명중률과 "
+"피해 결과에 영향을 끼칩니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5498
 msgctxt "hdb40eff6g84d1g421dg906cg6779df63479f"
@@ -4601,12 +4618,12 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5529
 msgctxt "ha9eabfe7ga85ag413cgb41dgb3dc10ac60f9"
 msgid "to Saving Throws"
-msgstr ""
+msgstr "내성 굴림에 합산"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5568
 msgctxt "h6d38bfa3gc691g4615ga348g558bba90d805"
 msgid "Your Ability Points come from:"
-msgstr ""
+msgstr "능력치 점수 출처:"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:5584
 msgctxt "h0d7c6ca5g3899g4a98ga481g6ebcb5e33ace"
@@ -4963,6 +4980,7 @@ msgid ""
 "Ritual spells don't cost a <LSTag Tooltip=\"SpellSlot\">spell slot</LSTag> "
 "when cast outside of combat."
 msgstr ""
+"의식 주문은 전투 중이 아닐 때 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>을 소모하지 않습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7729
 msgctxt "hc3fa3d4agb98bg4cceg80a4g4ae437a80850"
@@ -4971,9 +4989,10 @@ msgstr "의식"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7738
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7821
+#, fuzzy
 msgctxt "h0604f01ag5d1eg4f62g8dcbg8cad97adbc59"
 msgid "Will break active Concentration: [1]"
-msgstr ""
+msgstr "활성화된 집중 깨뜨릴 예정: [1]"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7890
 msgctxt "h57a05f43g5361g4b03g8883g56d4683b7100"
@@ -4993,7 +5012,7 @@ msgstr "<hl>취약함:</hl>두 배의 피해를 받습니다."
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8071
 msgctxt "h4aef1a30g1e36g45d0gb2c8g418b5910ecae"
 msgid "<hl>Resistant:</hl> Takes half damage."
-msgstr "<hl>저항:</hl> 절반의 데미지를 받습니다."
+msgstr "<hl>저항:</hl> 절반의 데미지를 입습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8076
 msgctxt "hccec68aeg14fbg43f6ga35cg40da5c109da7"
@@ -5051,10 +5070,10 @@ msgid ""
 "<hl>Resistant</hl>: takes half damage.\n"
 "<hl>Immune</hl>: takes no damage."
 msgstr ""
-"일부 크리쳐는 특정 유형의 피해로부터 피해량을 덜 받거나 더 받기도 합니다.\n"
-"<hl>취약함</hl>: 두 배의 피해를 받습니다.\n"
-"<hl>저항</hl>: 절반의 피해를 받습니다.\n"
-"<hl>면역</hl>: 피해를 받지 않습니다."
+"일부 크리쳐는 특정 유형의 피해로부터 피해량을 덜 입거나 더 입기도 합니다.\n"
+"<hl>취약함</hl>: 두 배의 피해를 입습니다.\n"
+"<hl>저항</hl>: 절반의 피해를 입습니다.\n"
+"<hl>면역</hl>: 피해를 입지 않습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8341
 msgctxt "h6dd6596fg1433g4b04g9d74g5dc6fb0048ea"
@@ -5079,7 +5098,7 @@ msgstr "상태"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8530
 msgctxt "hadca0843g178eg4fe9ga196g0c08c8ae6302"
 msgid "You cannot listen in while you are still in a conversation."
-msgstr ""
+msgstr "대화 중에는 들을 수 없습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8709
 msgctxt "h53a94e02g4319g47f7gb38fg87a53127da50"
@@ -5151,12 +5170,12 @@ msgstr "[1]: [2] 가리킴!"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:9333
 msgctxt "heab630b8g2443g46dbg80f0ga1cf4d5f9108"
 msgid "[1] started a conversation."
-msgstr ""
+msgstr "[1]: 대화 시작."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:9348
 msgctxt "h3c5d590cgd9ccg4a90g8ef3g5633ca73b343"
 msgid "[1] started a conversation with [2]."
-msgstr ""
+msgstr "[1]: [2]와 대화 시작."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:9399
 msgctxt "h58689011gf42cg4117gabc5ga0de20069370"
@@ -5297,46 +5316,47 @@ msgstr "집중이 필요합니다."
 
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:118
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:54
+#, fuzzy
 msgctxt "hafde27eeg294dg41c9g9aa1g5d5f2be9afea"
 msgid "Inspect"
-msgstr ""
+msgstr "조사"
 
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1150
 msgctxt "he3f4fe5cga90ag4438g8f5bg79c19473e30a"
 msgid "Slot Customisation"
-msgstr ""
+msgstr "슬롯 사용자 지정"
 
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1151
 msgctxt "h40295ee1g2029g4282ga924g61751691cb3d"
 msgid "Set Slot"
-msgstr ""
+msgstr "슬롯 정하기"
 
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1159
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1406
 msgctxt "h18e19f89g10e2g4546gadfdg6657ad7f56b8"
 msgid "Swap Slot"
-msgstr ""
+msgstr "슬롯 바꾸기"
 
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1160
 msgctxt "haba68145g1fc9g4380g9ff0gf498f5ee383d"
 msgid "Clear Slot"
-msgstr ""
+msgstr "슬롯 비우기"
 
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1161
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1661
 msgctxt "h921d24b9g4a44g441agbbbag176eef91b713"
 msgid "Radial Customisation"
-msgstr ""
+msgstr "원형 메뉴 사용자 지정"
 
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1162
 msgctxt "hfab2af0fg32feg4c0ag9ac8g40e08eb46ad3"
 msgid "Add Radial"
-msgstr ""
+msgstr "원형 메뉴 추가"
 
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1163
 msgctxt "hd79704d4g27bag4aa7gac16g9fdf4554e53f"
 msgid "Remove Radial"
-msgstr ""
+msgstr "원형 메뉴 삭제"
 
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1324
 #: Game/Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:287
@@ -5401,7 +5421,7 @@ msgstr "선택"
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1659
 msgctxt "h1018e7a5gdb9ag4b51g9898gc30c5b0ab518"
 msgid "End Concentration"
-msgstr ""
+msgstr "집중 해제"
 
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1666
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1801
@@ -5425,7 +5445,7 @@ msgstr "변형을 선택하세요"
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1733
 msgctxt "hcc0de24fgee83g49cdgb15fg2fa9b96203c9"
 msgid "Select Spell Slot Level"
-msgstr ""
+msgstr "주문 슬롯 레벨 선택"
 
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1777
 #: Game/Public/Game/GUI/Widgets/ActionRadials.xaml:1783
@@ -5452,9 +5472,10 @@ msgstr "닫기"
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1236
 #: Game/Public/Game/GUI/Widgets/ActionResources_c.xaml:119
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:4800
+#, fuzzy
 msgctxt "h8e97fb57g8443g4904g884bge82dd9d40aa3"
 msgid "Call Forth Allies"
-msgstr ""
+msgstr "동료 불러모으기"
 
 #: Game/Public/Game/GUI/Widgets/ActionResources_c.xaml:78
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:841
@@ -5475,12 +5496,12 @@ msgstr "강화시전"
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:1862
 msgctxt "h2bb01606gdea8g4ae9gbab7ge50b79a088dc"
 msgid "Finish Selection"
-msgstr ""
+msgstr "선택 종료"
 
 #: Game/Public/Game/GUI/Widgets/ActionResources_c.xaml:99
 msgctxt "ha369beabgfe8ag40d5g8effgb31135fe3e6a"
 msgid "Jump to Character in Turn"
-msgstr ""
+msgstr "차례인 캐릭터로 이동"
 
 #: Game/Public/Game/GUI/Widgets/ActionResources_c.xaml:103
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:4583
@@ -5536,7 +5557,7 @@ msgstr "상황 한정"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7404
 msgctxt "hc3d99e0cgbd85g4418g9600g8bb5ce1b44f6"
 msgid "Reason: [1]"
-msgstr ""
+msgstr "이유: [1]"
 
 #: Game/Public/Game/GUI/Widgets/ActiveRoll.xaml:496
 #: Game/Public/Game/GUI/Widgets/ActiveRoll_c.xaml:377
@@ -5551,7 +5572,7 @@ msgstr "숙련"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:7940
 msgctxt "h62318286g57b2g4dfeg9ecag827942dd85f7"
 msgid "Expertise"
-msgstr "전문"
+msgstr "전문화"
 
 #: Game/Public/Game/GUI/Widgets/ActiveRoll.xaml:793
 #: Game/Public/Game/GUI/Widgets/ActiveRoll_c.xaml:1229
@@ -5632,13 +5653,13 @@ msgstr "계속"
 #: Game/Public/Game/GUI/Widgets/ActiveRoll_c.xaml:1628
 msgctxt "h0edd1324g5542g4a47g8201g2e0f5bc29630"
 msgid "Choose Die Design"
-msgstr ""
+msgstr "주사위 모양 선택"
 
 #: Game/Public/Game/GUI/Widgets/ActiveRoll.xaml:1718
 #: Game/Public/Game/GUI/Widgets/ActiveRoll_c.xaml:1088
 msgctxt "h8cf800dbg79f9g49a8ga65agdb87546d680d"
 msgid "Customize Dice"
-msgstr ""
+msgstr "주사위 사용자 지정"
 
 #: Game/Public/Game/GUI/Widgets/ActiveRoll_c.xaml:792
 msgctxt "h7bb9bbfbg5fc0g4728g9947g9a9e6c862e93"
@@ -5698,7 +5719,7 @@ msgstr "검색 결과"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5221
 msgctxt "h17759c79g9c66g4cf4ga71bg82b7914319a1"
 msgid "Essence"
-msgstr ""
+msgstr "정수"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/3c54906f-cc2c-49e5-a9a3-64204688f872.lsx
 #. NodeID = GameObjects
@@ -5712,7 +5733,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5242
 msgctxt "h7f02c548g5195g434egb3edg30c0a31130e1"
 msgid "Suspension"
-msgstr ""
+msgstr "부유물"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/5a02b765-c414-43da-a88c-e1453b6c2e4b.lsx
 #. NodeID = GameObjects
@@ -5726,7 +5747,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5235
 msgctxt "hee19fd7fg6d6fg4f9fg83d7ge350d0ea4a8d"
 msgid "Vitriol"
-msgstr ""
+msgstr "황산"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/8b8010ad-6b25-4cda-8900-cf3e00805626.lsx
 #. NodeID = GameObjects
@@ -5740,7 +5761,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5207
 msgctxt "h2c1af163gda89g4142g8670g492407614241"
 msgid "Sublimate"
-msgstr ""
+msgstr "승화물"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/a3ada9c2-8e98-4fd2-8953-a47b0dd9a9fa.lsx
 #. NodeID = GameObjects
@@ -5754,7 +5775,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5228
 msgctxt "hd7d538e9gd122g4216g9b2aga1c7aaa5c7ef"
 msgid "Ashes"
-msgstr ""
+msgstr "잿가루"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/497effc5-d8d9-4c6c-afea-7accc889b1b4.lsx
 #. NodeID = GameObjects
@@ -5768,7 +5789,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5214
 msgctxt "h53369a2cgd283g467cg924cg3938e9bbdc30"
 msgid "Salt"
-msgstr "소금"
+msgstr "염"
 
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:426
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5160
@@ -5874,7 +5895,7 @@ msgstr "정수"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5472
 msgctxt "h3f0368d9g82b4g47fdg90b8ge1b7a026a43d"
 msgid "Ashes"
-msgstr ""
+msgstr "잿가루"
 
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:818
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5481
@@ -5912,7 +5933,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1002
 msgctxt "hef8ba6c1g38a1g4129g8395g730a0ed517fe"
 msgid "Solution Produced: "
-msgstr ""
+msgstr "용액 생성됨: "
 
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1041
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5773
@@ -5923,7 +5944,7 @@ msgstr "[2]의 인벤토리에 아이템 [1]개 추가됨"
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1112
 msgctxt "haa01bf51gfff9g4364g881egf90252db76bb"
 msgid "Available Recipes"
-msgstr ""
+msgstr "가능한 제조법"
 
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1156
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5790
@@ -5941,7 +5962,7 @@ msgstr "최근에 추가됨"
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:3572
 msgctxt "hed33453fg7adfg4057g98c8g7ed6447c7475"
 msgid "Details"
-msgstr ""
+msgstr "상세"
 
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1235
 msgctxt "he1920e00g0e04g4799ga1b4g781798486f76"
@@ -5952,7 +5973,7 @@ msgstr "빠른 제작"
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1503
 msgctxt "had6a497agf18eg4038ga3c6gac5cb8896dd7"
 msgid "Create Extracts"
-msgstr ""
+msgstr "추출물 생성"
 
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1266
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1281
@@ -5969,7 +5990,7 @@ msgstr "정렬/필터"
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1502
 msgctxt "h754d9e2bg0222g4724gb593g6808bc98fd25"
 msgid "Insufficient ingredients to create new extracts"
-msgstr ""
+msgstr "추출물을 만들기 위한 재료가 부족합니다"
 
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1543
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5858
@@ -5987,18 +6008,18 @@ msgstr "아이템 제작"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5968
 msgctxt "hcf348dd3g3108g41b9g88c1gc09ee4f9192a"
 msgid "Extract"
-msgstr ""
+msgstr "추출"
 
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1628
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5974
 msgctxt "hf86950e1g7605g42c7gb789gd894ff687b1b"
 msgid "Extract All ([1])"
-msgstr ""
+msgstr "([1]) 전부 추출"
 
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1641
 msgctxt "h981bb0ffgb687g40e2gbfb9g1a54e6b1b7ce"
 msgid "Extract Produced:"
-msgstr ""
+msgstr "추출물 생성됨:"
 
 #: Game/Public/Game/GUI/Widgets/AlwaysOnTopOverlay.xaml:107
 #, fuzzy
@@ -6087,7 +6108,7 @@ msgstr "세션 관리자가 당신이 로비를 변경하거나, 친구를 초�
 #: Game/Public/Game/GUI/Widgets/Lobby_c.xaml:265
 msgctxt "h3b2e74b1g38ffg4109g9f13gfefb9cb0b79d"
 msgid "View Profile"
-msgstr ""
+msgstr "프로필 보기"
 
 #: Game/Public/Game/GUI/Widgets/CharacterAssign_c.xaml:224
 #: Game/Public/Game/GUI/Widgets/CharacterAssign.xaml:48
@@ -6144,11 +6165,12 @@ msgid "Back"
 msgstr "뒤로"
 
 #: Game/Public/Game/GUI/Widgets/CharacterAssign_c.xaml:313
+#, fuzzy
 msgctxt "h996ecd7fgf595g43bagaa5fg141ebb10a8a3"
 msgid ""
 "The Session Manager lets you manage who controls characters in a multiplayer "
 "game."
-msgstr ""
+msgstr "세션 관리자가 멀티플레이 게임에서 캐릭터 조작 관리 권한을 부여했습니다."
 
 #: Game/Public/Game/GUI/Widgets/CharacterAssign_c.xaml:333
 #: Game/Public/Game/GUI/Widgets/CharacterRespec.xaml:142
@@ -6167,18 +6189,18 @@ msgctxt "h86f06e64g4588g4798gb828gf6e0268122af"
 msgid ""
 "Tutorials can help you learn about the core mechanics of Baldur's Gate 3 - "
 "would you like to turn them on?"
-msgstr ""
+msgstr "튜토리얼은 발더스 게이트 3의 핵심 기능을 알려줍니다. 사용하시겠습니까?"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:26
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:27
 msgctxt "h402bb6d3gff93g4f4fga983g36460a611cab"
 msgid "Enable Tutorials"
-msgstr ""
+msgstr "튜토리얼 활성화"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:27
 msgctxt "h4506643cg668fg49ecgb9f8g09d96745e1a8"
 msgid "Turn on pop-ups"
-msgstr ""
+msgstr "팝업 켜기"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:29
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:30
@@ -6222,7 +6244,7 @@ msgstr "종족"
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:1517
 msgctxt "hf4977710g272bg4334g84aegf749a3b18205"
 msgid "Subrace"
-msgstr ""
+msgstr "하위종족"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:138
 msgctxt "h255e892egec87g4160gb9fag20d69d7c9d30"
@@ -6233,25 +6255,25 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:602
 msgctxt "hff534bd5g26b4g44dbg877bg9ca6abd65969"
 msgid "Body Art"
-msgstr ""
+msgstr "문신"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:144
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:674
 msgctxt "h9b52cf91g3b11g428ag9d17g3a724339b3cd"
 msgid "Eyes"
-msgstr ""
+msgstr "눈"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:147
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:784
 msgctxt "hbbddf3e9g352fg461fg8761gbb5256ebd9c4"
 msgid "Makeup"
-msgstr ""
+msgstr "화장"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:150
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:886
 msgctxt "h6c6fae77g40f8g4c82gaabfg69655aae2293"
 msgid "Hair"
-msgstr ""
+msgstr "머리카락"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:153
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1008
@@ -6277,7 +6299,7 @@ msgstr "용 혈통"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1182
 msgctxt "h11908357gafefg4f3dg92feg11588e5e123e"
 msgid "Tail"
-msgstr ""
+msgstr "꼬리"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:305
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1659
@@ -6332,25 +6354,26 @@ msgstr "목소리 듣기"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1245
 msgctxt "h3eee9b8dgc315g4cb8g90a3g50cea8a27c69"
 msgid "Face"
-msgstr ""
+msgstr "얼굴"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:420
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1718
+#, fuzzy
 msgctxt "h8949ad0egb0f8g4ea8gbf56g25a764a8bb34"
 msgid "Crest"
-msgstr ""
+msgstr "볏"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:425
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1738
 msgctxt "h44344a58g63ccg44b2gb878gc5d3cdb31b17"
 msgid "Chins"
-msgstr ""
+msgstr "턱끝"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:430
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1758
 msgctxt "hdff3076bg631ag4c0egadbdgbf4a6f9d777e"
 msgid "Jaws"
-msgstr ""
+msgstr "턱"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:435
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:548
@@ -6365,43 +6388,43 @@ msgstr "피부 색"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1451
 msgctxt "h408d8f2bgca7eg4d20gb0bag4d4a3318f1c5"
 msgid "Scarring"
-msgstr ""
+msgstr "흉터"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:448
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:473
 msgctxt "hfcbe9131g86b0g46d7ga4afg5c3301c070bf"
 msgid "Maturity"
-msgstr ""
+msgstr "나이"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:463
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:486
 msgctxt "h6a8fb398g7b1ag443egb45eg53c46ebbe9a3"
 msgid "Freckle Quantity"
-msgstr ""
+msgstr "주근깨 수량"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:478
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:489
 msgctxt "h63c9cb05g65f3g439dgb85bg9eb69a2cc894"
 msgid "Freckle Intensity"
-msgstr ""
+msgstr "주근깨 밀도"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:493
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:492
 msgctxt "h8f8d1cc6g57adg486agbb58gcba376102c37"
 msgid "Vitiligo Pigmentation"
-msgstr ""
+msgstr "백반증 색소 침착"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:509
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:453
 msgctxt "h72410e08g770dg48c8g98e8g5a5a933a2254"
 msgid "Genitals"
-msgstr ""
+msgstr "성기"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:529
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:930
 msgctxt "h5d70015agdbd9g45c9g9270g7ee6876b5b9a"
 msgid "Hide Clothes"
-msgstr ""
+msgstr "옷 숨기기"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:564
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:667
@@ -6427,7 +6450,7 @@ msgstr "논-바이너리 / 기타"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:607
 msgctxt "h57dba953g6fd2g4a66g8155gc527b809a882"
 msgid "Piercing Style"
-msgstr ""
+msgstr "피어싱"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:614
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:357
@@ -6442,7 +6465,7 @@ msgstr "문신"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1355
 msgctxt "h0c6d2890g6a16g4e20ga2a1gcb15afa6e8d3"
 msgid "Tattoo Colour"
-msgstr ""
+msgstr "문신 색"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:677
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:730
@@ -6456,26 +6479,26 @@ msgstr "눈 색"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:683
 msgctxt "h52617c33g962bg4bddg9493gb00e40c28fb0"
 msgid "Allows the selection of two different eye colours,"
-msgstr ""
+msgstr "양쪽 눈색을 다르게 합니다,"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:700
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:766
 msgctxt "h6f4a0631g9994g44ffg9468gaec6c6a62838"
 msgid "Heterochromia"
-msgstr ""
+msgstr "오드아이"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:705
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:347
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1311
 msgctxt "hc6bfd120gde63g4c3ag99eag43e8f905a7d4"
 msgid "Right eye"
-msgstr ""
+msgstr "오른쪽 눈"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:713
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:352
 msgctxt "h7d84f886g75e1g46begb5adg922b4238c617"
 msgid "Left eye"
-msgstr ""
+msgstr "왼쪽 눈"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:789
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:821
@@ -6483,7 +6506,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1402
 msgctxt "hd98545bbg8f42g437dg8f70gcb5f7a1bda8b"
 msgid "Eye Makeup Colour"
-msgstr ""
+msgstr "눈화장 색"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:794
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:844
@@ -6491,7 +6514,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1428
 msgctxt "ha96c9b3bg5d8dg4ebbgb7a8gbefe66c7b781"
 msgid "Lip Tint"
-msgstr ""
+msgstr "입술 틴트"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:801
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:366
@@ -6518,7 +6541,7 @@ msgstr "머리카락 색"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1516
 msgctxt "h9d4a4e08g81cdg4259g8bd1g80b47dbda3f3"
 msgid "Highlights"
-msgstr ""
+msgstr "하이라이트"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:903
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:967
@@ -6528,7 +6551,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1539
 msgctxt "hb85e6761gd73bg4fc1g8ff3g4081ff97694a"
 msgid "Greying"
-msgstr ""
+msgstr "흰머리"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:911
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1027
@@ -6544,7 +6567,7 @@ msgstr "머리 스타일"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1605
 msgctxt "h8f9581e8g4440g4cf5g8752g220535346a50"
 msgid "Horn Colour"
-msgstr ""
+msgstr "뿔 색"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1098
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1142
@@ -6552,7 +6575,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1628
 msgctxt "h33ea2bd3g91cag471cg8242gef7327983dbf"
 msgid "Horn Tip Colour"
-msgstr ""
+msgstr "뿔 끝 색"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1105
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:410
@@ -6566,7 +6589,7 @@ msgstr "뿔 형태"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1778
 msgctxt "hbb75a111g99e6g45afga2a6gaf73b748faa8"
 msgid "Tail Style"
-msgstr ""
+msgstr "꼬리 모양"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1509
 #, fuzzy
@@ -6579,39 +6602,39 @@ msgstr "오리진 선택"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:516
 msgctxt "h6b184ec1gc364g4467g9617g3ab1a3959d10"
 msgid "Randomise"
-msgstr ""
+msgstr "무작위"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1532
 msgctxt "h039ed18bge1e8g4aaeg9c14g7d6c5a78d84a"
 msgid ""
 "Generate a character with a random race, class, background, and appearance."
-msgstr ""
+msgstr "무작위 종족, 클래스, 배경, 외형을 가진 캐릭터를 생성합니다."
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1550
 msgctxt "hfbb465c0g5acbg4bf1g9fbagcaf67a9dc6c6"
 msgid "Next generated character"
-msgstr ""
+msgstr "다음 생성된 캐릭터"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1570
 msgctxt "heff4d9a7g56e6g4000g84c1g6f9ab6e49467"
 msgid "Previous generated character"
-msgstr ""
+msgstr "이전 생성된 캐릭터"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1590
 msgctxt "h9dad9822gc6c6g4145g8c9bg4d6c48cf2bfb"
 msgid "Origin Characters"
-msgstr ""
+msgstr "오리진 캐릭터"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1615
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:2477
 msgctxt "h0a5097d1g8471g4a05ga294gf9549ecf2151"
 msgid "Play Introduction"
-msgstr ""
+msgstr "소개 재생"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1618
 msgctxt "h27748ec7g3daag48d2gb349g3918f5c929c4"
 msgid "Listen to this character's story."
-msgstr ""
+msgstr "캐릭터의 스토리를 듣습니다."
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1678
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:986
@@ -6622,7 +6645,7 @@ msgstr "종족 요소"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1715
 msgctxt "hb4961bdbg618bg4350g8bdbg89221f97b659"
 msgid "Subrace Features"
-msgstr ""
+msgstr "하위종족 요소"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:1751
 #, fuzzy
@@ -6669,7 +6692,7 @@ msgstr "추천 설정 사용"
 msgctxt "h2e37cc3dgf343g4a2dg91f7gc1e9c3e29bde"
 msgid ""
 "Assign Ability Points to get the recommended values for your chosen class."
-msgstr ""
+msgstr "선택한 클래스에 권장되는 값으로 능력치 점수를 할당합니다."
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:2029
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:1052
@@ -6682,13 +6705,13 @@ msgstr "<LSTag Tooltip=\"Proficiency\">기술 숙련도</LSTag>"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:3105
 msgctxt "hfc928d2ega3a9g420egbeb5g0b20ab704959"
 msgid "Enter Character Name"
-msgstr ""
+msgstr "캐릭터 이름 입력"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:2246
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:3235
 msgctxt "hfaa5d318g5f40g47eegac3bga7134a42232f"
 msgid "Origin Character"
-msgstr ""
+msgstr "오리진 캐릭터"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:2319
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:3432
@@ -6704,7 +6727,7 @@ msgstr "준비"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:3435
 msgctxt "he3eaec5bg75f0g4856g9b67g8cabfb128f56"
 msgid "Waiting for other Players..."
-msgstr ""
+msgstr "다른 플레이어를 기다리는 중입니다..."
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:2347
 msgctxt "hb8f17a12gded0g4ed7g8897gfa821f15093c"
@@ -6714,54 +6737,54 @@ msgstr "메인 메뉴로 돌아가기"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:39
 msgctxt "h19e906f0g930ag4c5agaad9gd0413fc716c0"
 msgid "Play as an existing character from Baldur's Gate 3"
-msgstr ""
+msgstr "발더스 게이트 3의 캐릭터로 플레이합니다"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:120
 msgctxt "h1595c068g30a1g4efegbd7fg072665991b3b"
 msgid "Random Character"
-msgstr ""
+msgstr "무작위 캐릭터"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:129
 msgctxt "h726d54dcg32b8g4d47g95cega8ff28505e85"
 msgid "Randomise Character"
-msgstr ""
+msgstr "캐릭터 무작위화"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:305
 msgctxt "h08c34beeg3883g49b0gb9ffg79cad05797e9"
 msgid "Subrace"
-msgstr ""
+msgstr "하위종족"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:314
 msgctxt "h971421cfgc048g476fgbbe1g91a91e796a78"
 msgid "Top of head"
-msgstr ""
+msgstr "정수리"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:318
 msgctxt "h0346a0efg6393g4ce1gbc5cgbcc420046d79"
 msgid "Chin"
-msgstr ""
+msgstr "턱끝"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:322
 msgctxt "hcea5dbbdg1d7dg4c82g8c93g2546cb585e7f"
 msgid "Jaw"
-msgstr ""
+msgstr "턱"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:449
 msgctxt "h5458d095gcdb9g414bgacfdgdbd144fc2bd0"
 msgid "Piercings"
-msgstr ""
+msgstr "피어싱"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:549
 msgctxt "h8b63fa05g09d3g445fgb24agcd8718089484"
 msgid "Random"
-msgstr ""
+msgstr "무작위"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:604
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:2541
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:2106
 msgctxt "hc4f5c05bgc2feg4333ga08fg229b33c42437"
 msgid "Body Type"
-msgstr ""
+msgstr "신체 유형"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:775
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:859
@@ -6784,12 +6807,12 @@ msgstr "비활성화됨"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:939
 msgctxt "h585635bdg10feg4babg9bb8gc3df3bf73ba6"
 msgid "Yes"
-msgstr ""
+msgstr "네"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:942
 msgctxt "habf08f50g2d6bg4950g8cfeg3980512d8051"
 msgid "No"
-msgstr ""
+msgstr "아니오"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1078
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1108
@@ -6825,7 +6848,7 @@ msgstr "정보 표시 전환"
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:4047
 msgctxt "h77fec760g866dg4e47g8e81g467c9c05e447"
 msgid "Back"
-msgstr ""
+msgstr "뒤로"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1114
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:721
@@ -6838,22 +6861,22 @@ msgstr "외모"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:2182
 msgctxt "hb6342179gece9g4eddgbbe8ga11c8273bbeb"
 msgid "Back to Last Tab"
-msgstr ""
+msgstr "이전 탭으로 돌아가기"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:2203
 msgctxt "h29f5143dgf3f8g4185ga82ag411205073b03"
 msgid "Review Character"
-msgstr ""
+msgstr "캐릭터 검토"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:2470
 msgctxt "hf50f6ecagc528g419fg9452g3f6da7e20a90"
 msgid "Custom "
-msgstr ""
+msgstr "커스텀 "
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:2471
 msgctxt "hdbd3c4acg4848g48f6g9a4cg2db477ee9b28"
 msgid "Origin"
-msgstr ""
+msgstr "오리진"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:2890
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:583
@@ -6861,13 +6884,13 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:4091
 msgctxt "h72161eb0g8981g45cfgba63ga76e152e1fe9"
 msgid "Ability Points Assigned:"
-msgstr ""
+msgstr "능력치 점수 할당됨:"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:2919
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:737
 msgctxt "hbf77d20fgab50g4611g9e95gbb3de258ae75"
 msgid "Apply Bonuses"
-msgstr ""
+msgstr "보너스 적용"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:2930
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:748
@@ -6878,12 +6901,12 @@ msgstr "+[1] 보너스"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:3119
 msgctxt "h5cd3cabag657ag4abfga33fg9b1b2808ee7f"
 msgid "Rename Character"
-msgstr ""
+msgstr "캐릭터 이름 변경"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:3135
 msgctxt "hddd20b39g5fc5g47ccgaf40g3ac1ed6a5da0"
 msgid "Next (Choose Guardian)"
-msgstr ""
+msgstr "다음 (수호자 선택)"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:3192
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:131
@@ -6902,7 +6925,7 @@ msgstr "요약"
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3983
 msgctxt "h70ec62ddg0cfcg4512ga0c6gbc591945b75b"
 msgid "Hide Summary"
-msgstr ""
+msgstr "요약 숨기기"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:3335
 #: Game/Public/Game/GUI/Widgets/Henchmen.xaml:113
@@ -6915,14 +6938,14 @@ msgstr "출정"
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:306
 msgctxt "h52d7c409g26d3g4c9bg9608g40fee0630ee5"
 msgid "Level Up!"
-msgstr "레벨 상승!"
+msgstr "레벨 업!"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:790
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:3729
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:4490
 msgctxt "h4c3d6eacgf0adg4c31gb11ag3d4736a7fac3"
 msgid "Class Features"
-msgstr "클래스 특성"
+msgstr "클래스 요소"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:798
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:1047
@@ -6941,13 +6964,13 @@ msgstr "기술"
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:3914
 msgctxt "ha3fe9fd2gcd03g4e0bgbb45gf60144f6aba6"
 msgid "Subclass Features"
-msgstr "서브클래스 특성"
+msgstr "서브클래스 요소"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:867
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3087
 msgctxt "h12ed73a6g2dc4g49ebg9c0ag304ca2b76196"
 msgid "New Feat Available"
-msgstr ""
+msgstr "새로운 특기 선택 가능"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:894
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:1180
@@ -6958,19 +6981,19 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3957
 msgctxt "hcbc3c9a8g9e80g4139g952bga971015c1f41"
 msgid "Add Class"
-msgstr ""
+msgstr "클래스 추가"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:918
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3851
 msgctxt "h8fcb856ega2acg4a7fga12fg65567a18376e"
 msgid "Multiclassing is disabled on this difficulty level."
-msgstr ""
+msgstr "해당 난이도에선 멀티클래스가 비활성화되어있습니다."
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:1176
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:988
 msgctxt "hba1cb211gedb1g47d3g9bc8g275f30e0dc6d"
 msgid "The selected spell will be removed from your Spells & Actions."
-msgstr ""
+msgstr "선택한 주문이 주문과 행동 목록에서 제거됩니다."
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:1179
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:1231
@@ -6995,7 +7018,7 @@ msgstr "사용 가능"
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:1035
 msgctxt "h693e8082g6817g4136gb51cg131b3310f24a"
 msgid "The selected spell will be added to your Spells & Actions."
-msgstr ""
+msgstr "선택한 주문이 주문과 행동 목록에 추가됩니다."
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:198
 #: Game/Public/Game/GUI/Widgets/CharacterFullRespec_c.xaml:102
@@ -7008,7 +7031,7 @@ msgstr "수락"
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:333
 msgctxt "hbc80c075g1c12g45a7gb006gfdc65eea207d"
 msgid "Exit"
-msgstr ""
+msgstr "나가기"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:370
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:678
@@ -7021,7 +7044,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:1997
 msgctxt "he3ccedd0gceaeg4b1fg8e74g9dfc6da58cd2"
 msgid "Level Up"
-msgstr "레벨 상승"
+msgstr "레벨 업"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:389
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:323
@@ -7061,7 +7084,7 @@ msgstr "Lv [1] [2]"
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3198
 msgctxt "h230f60c6g161fg481bgbe52g42bc264618dd"
 msgid "You acquire the following:"
-msgstr ""
+msgstr "얻음:"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:781
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:771
@@ -7089,7 +7112,7 @@ msgstr "체력 상승 "
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3815
 msgctxt "h6df70972gfd55g4f29g9431g0a1530858ccf"
 msgid "Skill Proficiency"
-msgstr ""
+msgstr "기술 숙련"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:876
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:887
@@ -7115,7 +7138,7 @@ msgstr "행동"
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:4182
 msgctxt "h381a6c0bg214fg4968gae5cg9e5b8a8ffc20"
 msgid "Scales"
-msgstr ""
+msgstr "비늘"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:1264
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:430
@@ -7125,7 +7148,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:4193
 msgctxt "h85555614g40b2g459dgbfbfg76291036aebe"
 msgid "Scale Colour"
-msgstr ""
+msgstr "비늘 색"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:1301
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:436
@@ -7156,20 +7179,14 @@ msgstr "주문 교체하기"
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:1377
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:1100
-#, fuzzy
-#| msgid ""
-#| "You may choose one of the spells you know and replace it with another spell "
-#| "from the available spell list. It must be of a level for which you have "
-#| "available <LSTag Tooltip=\"SpellSlot\">spell slots</LSTag>."
 msgctxt "h7d40d764gac52g4ccbgb18eg136c928dd69e"
 msgid ""
 "The amount of spells you can have fixed in your mind is limited. As you "
 "level up, you may wish to replace old spells with new ones. Choose a spell "
 "you know and replace it with another."
 msgstr ""
-"당신은 알고 있는 주문 하나를 골라 사용 가능한 주문 목록에 있는 다른 주문으로 "
-"교체할 수 있습니다. 해당 주문을 쓸 수 있는 <LSTag Tooltip=\"SpellSlot\">주문 "
-"슬롯</LSTag>이 있는 레벨의 주문만 선택할 수 있습니다."
+"마음속에 고정할 수 있는 주문의 양은 제한되어 있습니다. 레벨이 올라갈수록, 오래된 주문을 새로운 주문으로 대체하고 싶을 수 있습니다. "
+"알고 있는 주문 중 하나를 선택하고 다른 주문과 바꿔 보세요."
 
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:1385
 #: Game/Public/Game/GUI/Widgets/CharacterLevelUp.xaml:1104
@@ -7224,7 +7241,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/CharacterPanel.xaml:244
 msgctxt "heead3bebgdc62g41c5g8cd1g3d96b81a7c68"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 #: Game/Public/Game/GUI/Widgets/CharacterPanel.xaml:251
 #: Game/Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:458
@@ -7238,14 +7255,14 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/TadpolePowersTree.xaml:794
 msgctxt "hae014f0cgf722g4cd8g93d8gd9faaa4e2ef7"
 msgid "[1] does not want to use mind flayer parasites."
-msgstr ""
+msgstr "[1]: 마인드 플레이어 기생충을 쓰는 걸 싫어합니다."
 
 #: Game/Public/Game/GUI/Widgets/CharacterPanel.xaml:265
 #: Game/Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:257
 #: Game/Public/Game/GUI/Widgets/TadpolePowersTree.xaml:380
 msgctxt "hb6d4f05fg375bg4219ga684g1be1396aa6e9"
 msgid "Choose an area of your mind to evolve."
-msgstr ""
+msgstr "진화시킬 정신의 영역을 고르세요."
 
 #: Game/Public/Game/GUI/Widgets/CharacterPanel.xaml:408
 #: Game/Public/Game/GUI/Library/OptionTemplates_Shared.xaml:62
@@ -7263,7 +7280,7 @@ msgstr "레벨"
 #: Game/Public/Game/GUI/Widgets/CharacterPanel.xaml:484
 msgctxt "hd0a79314g0517g4938ga883g9f991801df75"
 msgid "XP "
-msgstr ""
+msgstr "경험치 "
 
 #: Game/Public/Game/GUI/Widgets/CharacterPanel.xaml:545
 #: Game/Public/Game/GUI/Widgets/PartyEquipment_c.xaml:46
@@ -7297,17 +7314,17 @@ msgstr "일리시드 능력"
 #: Game/Public/Game/GUI/Widgets/CharacterRespec.xaml:489
 msgctxt "h50b79597gbe64g4accgb4dfg531edf56b0f2"
 msgid "Cancel Respec"
-msgstr ""
+msgstr "리스펙 취소"
 
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:30
 msgctxt "h99d22567g8b26g4d70gbe0dgb275f4968652"
 msgid "Make a choice to continue..."
-msgstr ""
+msgstr "계속하려면 선택"
 
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:565
 msgctxt "hda071eb3g6ac5g4ed2g992ag67fc4e472be3"
 msgid "Assign Ability Points to continue..."
-msgstr ""
+msgstr "계속하려면 능력치 점수 할당"
 
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:820
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:3323
@@ -7318,34 +7335,39 @@ msgid ""
 "Proficient in a Skill, you add a bonus to those skill checks, making you "
 "more likely to succeed."
 msgstr ""
+"아래 목록에서 기술 숙련도를 커스터마이징 할 수 있습니다. 기술 숙련도가 높으면 해당 기술 판정에 보너스가 추가되어 성공 확률이 "
+"높아집니다."
 
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:823
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3821
 msgctxt "h8931179bg03ebg45bdg8dbbg824c1178ccbd"
 msgid "Proficiency Assigned:"
-msgstr ""
+msgstr "숙련 할당됨:"
 
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:851
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:1545
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3834
 msgctxt "hb05a8953g3596g4e62g91c4gb1a8f8babd71"
 msgid "Skill Expertise"
-msgstr ""
+msgstr "기술 전문화"
 
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:854
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3837
+#, fuzzy
 msgctxt "hcaaf5b44gc727g4765gb347g4aad3cce1837"
 msgid ""
 "Double your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> "
 "for any <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> you make with Skills "
 "that you have Expertise in."
 msgstr ""
+"전문화된 기술에 대한 모든 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>의 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>를 배가합니다."
 
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:857
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3840
 msgctxt "h863c91fbg1f42g4969gb7b1ga1245440b043"
 msgid "Expertise Assigned"
-msgstr ""
+msgstr "전문화 할당됨"
 
 #: Game/Public/Game/GUI/Widgets/CharacterSelect_Conditions_c.xaml:50
 msgctxt "h6c0be6c7g03b1g4a6fg821cgf17fff2079d2"
@@ -7373,7 +7395,7 @@ msgstr "전투 로그"
 #: Game/Public/Game/GUI/Widgets/CombatLog.xaml:169
 msgctxt "h6987400dg0477g4d9aga765g2b96f9ac6c0e"
 msgid "Latest"
-msgstr ""
+msgstr "최근"
 
 #: Game/Public/Game/GUI/Widgets/Combine.xaml:417
 msgctxt "h040b1f64g325eg4b46gb957gc2347cf3fb0d"
@@ -7420,7 +7442,7 @@ msgstr "취소"
 #: Game/Public/Game/GUI/Widgets/ConnectivityMenu_c.xaml:76
 msgctxt "h32b36d2cg3623g4de0g965bg19cad54e5881"
 msgid "Online Visibillity"
-msgstr ""
+msgstr "온라인 공개 여부"
 
 #: Game/Public/Game/GUI/Widgets/ConnectivityMenu_c.xaml:81
 #: Game/Public/Game/GUI/Widgets/ConnectivityMenu.xaml:55
@@ -7464,7 +7486,7 @@ msgstr "LAN 연결"
 #: Game/Public/Game/GUI/Library/NewOptionTemplates_c.xaml:62
 msgctxt "h14129139ge40bg4627g944ag06fec7d74c9d"
 msgid "On"
-msgstr ""
+msgstr "켜기"
 
 #: Game/Public/Game/GUI/Widgets/ConnectivityMenu_c.xaml:117
 #: Game/Public/Game/GUI/Widgets/ConnectivityMenu_c.xaml:144
@@ -7472,7 +7494,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Library/NewOptionTemplates_c.xaml:64
 msgctxt "h366d1022g0f83g4132ga3a6g733b9df2c8e7"
 msgid "Off"
-msgstr ""
+msgstr "끄기"
 
 #: Game/Public/Game/GUI/Widgets/ConnectivityMenu_c.xaml:141
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser.xaml:315
@@ -7625,7 +7647,7 @@ msgstr "[IE_UIPinTooltip] 대상 조사"
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:179
 msgctxt "h2ab6b090gae25g45a3gbd00g2cb47a85bff2"
 msgid "Click to confirm"
-msgstr ""
+msgstr "확인하려면 클릭"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:133
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:320
@@ -7633,61 +7655,61 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:328
 msgctxt "hb19f530dgfeb2g4d13g8d64ga8216f364f67"
 msgid ": [1]"
-msgstr ""
+msgstr ": [1]"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:145
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:2917
 msgctxt "h5f3c3defgdf33g4bbbgafc5g487ca817cda4"
 msgid "Can't control: Incapacitated"
-msgstr ""
+msgstr "조작 불가: 무력화"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:152
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:2924
 msgctxt "h296f3937g9cdcg4613ga574g5e9f11dbd095"
 msgid "Can't control: Knocked Down"
-msgstr ""
+msgstr "조작 불가: 넘어짐"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:159
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:2931
 msgctxt "hbf29ef1cg54b7g4c65g9879g2a15e7090487"
 msgid "Can't control: Downed"
-msgstr ""
+msgstr "조작 불가: 쓰러짐"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:166
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:2938
 msgctxt "hbadf852cgd385g4b95g9ae5ga4af93905815"
 msgid "Can't control: Dead"
-msgstr ""
+msgstr "조작 불가: 죽음"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:173
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:2945
 msgctxt "hbd5803f1g480cg4eb4g820fg242124c08ea9"
 msgid "No control: in a story event"
-msgstr ""
+msgstr "조작 불가: 스토리 이벤트 중"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:180
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:2952
 msgctxt "hd870788dg1d5dg42f3ga261g8580eec92784"
 msgid "Can't control"
-msgstr ""
+msgstr "조작 불가"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:184
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:272
 msgctxt "hc26b3ee1g8586g4fc5gbc1dg14711bc21a4b"
 msgid "Can't use actions"
-msgstr ""
+msgstr "행동 사용 불가"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:187
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:275
 msgctxt "hc9c9197cg997fg4dcagad83g7fd70e8c645e"
 msgid "Can't use bonus actions"
-msgstr ""
+msgstr "추가 행동 사용 불가"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:190
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:2967
 msgctxt "hae26bac2g2e14g4cccg8c47gd19467e488c6"
 msgid "Can't use reactions"
-msgstr ""
+msgstr "반응 행동 사용 불가"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:193
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:278
@@ -7731,27 +7753,27 @@ msgstr "주문 시전 불가"
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:2956
 msgctxt "h3739559fg64acg42c3g893cg6fb341570556"
 msgid "Polymorphed"
-msgstr "변이"
+msgstr "형상 변환"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:239
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:312
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:2971
 msgctxt "h1ac301b7gce0ag4693gbba2gb912e5abe10e"
 msgid "Can't use actions: recently revivified"
-msgstr ""
+msgstr "행동 사용 불가: 최근 소생됨"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:243
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:316
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:2975
 msgctxt "he4c05e4ag7e4eg46edgbc22g77fab2bddc2d"
 msgid "Disarmed!"
-msgstr ""
+msgstr "무장해제됨!"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:251
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:324
 msgctxt "h392eef12g97b6g47c8g858egd305c12f7dfd"
 msgid "Can't be healed"
-msgstr ""
+msgstr "치료 불가"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:274
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:194
@@ -7767,13 +7789,13 @@ msgstr "이점"
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:199
 msgctxt "had6da506gedf2g4c86g9324g452e287e3c47"
 msgid "Disadvantage"
-msgstr ""
+msgstr "불리점"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:288
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:203
 msgctxt "hd135c195g1887g4ee4g85b8g586666685815"
 msgid "High Defence"
-msgstr ""
+msgstr "높은 방어"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:307
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:3804
@@ -7784,12 +7806,12 @@ msgstr "전투에서 도망치기"
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:335
 msgctxt "h0b4dfa81g8025g44d6ga01cg92a20555a1bc"
 msgid "Rotate"
-msgstr ""
+msgstr "순환"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:351
 msgctxt "h7fea28eagf13eg4420gb634gb85d3db03fbc"
 msgid "Confirm [1]"
-msgstr ""
+msgstr "[1] 확인"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:359
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:411
@@ -7808,7 +7830,7 @@ msgstr "(비어있음)"
 #: Game/Public/Game/GUI/Widgets/Dialogue.xaml:135
 msgctxt "h4c3d66a9g8aa4g46e0g9557g3cc7418bdaf2"
 msgid "Private Dialogue"
-msgstr ""
+msgstr "사적인 대화"
 
 #: Game/Public/Game/GUI/Widgets/Dialogue.xaml:209
 msgctxt "hb9a8dd57g134fg425fg9da0g1dc579af0c60"
@@ -7823,7 +7845,7 @@ msgstr "캐릭터 선택"
 #: Game/Public/Game/GUI/Widgets/Dialogue.xaml:236
 msgctxt "hf83a94cbg15c8g4c48gba78g87ac8711afa4"
 msgid "Start a community poll for this choice."
-msgstr ""
+msgstr "선택을 위한 투표를 시작."
 
 #: Game/Public/Game/GUI/Widgets/DialogueHistory.xaml:29
 #: Game/Public/Game/GUI/Widgets/JournalDialogues_c.xaml:208
@@ -7875,22 +7897,22 @@ msgstr "공격하기"
 #: Game/Public/Game/GUI/Widgets/Dialogue_c.xaml:253
 msgctxt "he6e54b13g8ae6g4caega94ag8ab433f13364"
 msgid "Private Dialogue (On)"
-msgstr ""
+msgstr "사적 대화 (켜짐)"
 
 #: Game/Public/Game/GUI/Widgets/Dialogue_c.xaml:257
 msgctxt "hb8474ff9g4b27g4385gac93ge6cc28b99357"
 msgid "Private Dialogue (Off)"
-msgstr ""
+msgstr "사적 대화 (꺼짐)"
 
 #: Game/Public/Game/GUI/Widgets/Dialogue_c.xaml:297
 msgctxt "h0d7b095agcd0ag461agaddeg5b6a1cb551ac"
 msgid "Start Poll"
-msgstr ""
+msgstr "투표 시작"
 
 #: Game/Public/Game/GUI/Widgets/DragAndDropPreview.xaml:89
 msgctxt "h5c2c6740gfb1dg44c7gb02bg8976765deb82"
 msgid "Item can't go in this container"
-msgstr ""
+msgstr "상자에 아이템을 넣을 수 없습니다"
 
 #: Game/Public/Game/GUI/Widgets/Eula_c.xaml:47
 #: Game/Public/Game/GUI/Widgets/Eula.xaml:49
@@ -8270,7 +8292,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/Eula.xaml:82
 msgctxt "h4337eca4g6d93g46d9ga786g8bc7132c4b46"
 msgid "By accepting, you agree to these terms and conditions."
-msgstr ""
+msgstr "수락하면 본 이용약관에 동의하는 것입니다."
 
 #: Game/Public/Game/GUI/Widgets/Eula_c.xaml:100
 #: Game/Public/Game/GUI/Widgets/Eula.xaml:99
@@ -8281,21 +8303,21 @@ msgstr "수락"
 #: Game/Public/Game/GUI/Widgets/Eula_c.xaml:109
 msgctxt "h29f2b927gf6feg48e8g8bc9gdc391427b51c"
 msgid "Scroll"
-msgstr ""
+msgstr "스크롤"
 
 #: Game/Public/Game/GUI/Widgets/Eula_c.xaml:119
 #: Game/Public/Game/GUI/Widgets/Eula.xaml:93
 #: Game/Public/Game/GUI/Widgets/SignUp_c.xaml:618
 msgctxt "hfaf35985g4e3ag4c70gb53fg90746142e56a"
 msgid "Terms of Service"
-msgstr ""
+msgstr "이용약관"
 
 #: Game/Public/Game/GUI/Widgets/Eula_c.xaml:128
 #: Game/Public/Game/GUI/Widgets/Eula.xaml:94
 #: Game/Public/Game/GUI/Widgets/SignUp_c.xaml:608
 msgctxt "heac761eegcce8g442ag85ecg8e4afc61d015"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "개인정보 보호정책"
 
 #: Game/Public/Game/GUI/Widgets/Examine.xaml:92
 #: Game/Public/Game/GUI/Widgets/Examine_c.xaml:654
@@ -8345,7 +8367,7 @@ msgstr "레벨 [1] [2]"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4629
 msgctxt "h9f9bfc7dgf4cdg4198g83e3gcb974dd2e949"
 msgid "Notable Features"
-msgstr "주요 특성"
+msgstr "주요 요소"
 
 #: Game/Public/Game/GUI/Widgets/Examine_c.xaml:646
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_c.xaml:979
@@ -8407,7 +8429,7 @@ msgstr "게임 저장"
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:94
 msgctxt "h4270208dg2620g4ca6gad84g29bbe175d031"
 msgid "This menu is not available at this time."
-msgstr ""
+msgstr "지금은 이 메뉴를 선택할 수 없습니다."
 
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:87
 #: Game/Public/Game/GUI/Widgets/GameMenu_c.xaml:119
@@ -8484,7 +8506,7 @@ msgstr "게임 종료"
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:753
 msgctxt "h9d4099fag65cag423ag98ccgd750286a9fa5"
 msgid "Can't save right now: [1]"
-msgstr ""
+msgstr "저장 불가: [1]"
 
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:182
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:286
@@ -8494,7 +8516,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:771
 msgctxt "h5861653eg72aeg460dgae25g0db44d7bbca8"
 msgid "Game is not ready yet."
-msgstr ""
+msgstr "게임이 아직 준비되지 않았습니다."
 
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:193
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:297
@@ -8504,7 +8526,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:783
 msgctxt "h185b5d6ag4f03g43c9g9b8eg059cffa98e29"
 msgid "Game is currently saving."
-msgstr ""
+msgstr "게임이 저장중입니다."
 
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:204
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:308
@@ -8514,7 +8536,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:795
 msgctxt "h13c1f09egc317g442egbde4g960247a366ce"
 msgid "Game is currently loading."
-msgstr ""
+msgstr "게임이 로딩중입니다."
 
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:215
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:319
@@ -8524,14 +8546,14 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:807
 msgctxt "h4545105dge9a1g4ac7ga1bbgd5434f4ef1d1"
 msgid "Game is currently syncing."
-msgstr ""
+msgstr "게임이 동기화중입니다."
 
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:226
 #: Game/Public/Game/GUI/Widgets/GameMenu_c.xaml:318
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:706
 msgctxt "h19513473g6d78g4df8g8bd0g9f129ddb289a"
 msgid "Creating a character."
-msgstr ""
+msgstr "캐릭터 생성 중."
 
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:237
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:330
@@ -8541,28 +8563,28 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:819
 msgctxt "h304a028dg335cg4703g95a5g4f8d38d53ac3"
 msgid "In a dialog."
-msgstr ""
+msgstr "대화 중."
 
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:248
 #: Game/Public/Game/GUI/Widgets/GameMenu_c.xaml:342
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:730
 msgctxt "h1b572aa5g4d6dg4532g9eb6g9ed3dc5534a6"
 msgid "A spell is blocking it."
-msgstr ""
+msgstr "주문이 막고 있습니다."
 
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:259
 #: Game/Public/Game/GUI/Widgets/GameMenu_c.xaml:354
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:742
 msgctxt "h9813a0cdg6338g4bc7g8ee6g3393c06487d0"
 msgid "A reaction is in progress."
-msgstr ""
+msgstr "반응 행동 중."
 
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:270
 #: Game/Public/Game/GUI/Widgets/GameMenu_c.xaml:366
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:754
 msgctxt "hbf412f23g54d6g4ec7g8ee9g6287f396cc66"
 msgid "Not enough free space on disk."
-msgstr ""
+msgstr "디스크에 공간이 부족합니다."
 
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:285
 #: Game/Public/Game/GUI/Widgets/GameMenu.xaml:296
@@ -8581,7 +8603,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:818
 msgctxt "hccf15964gbc93g4d91g955ag3cbc3c7f0682"
 msgid "Can't load right now: [1]"
-msgstr ""
+msgstr "불러오기 불가: [1]"
 
 #: Game/Public/Game/GUI/Widgets/GameMenu_c.xaml:137
 msgctxt "h122d51e5g5078g4993g872eg803db71cc57b"
@@ -8619,21 +8641,21 @@ msgstr "감마 조정"
 #: Game/Public/Game/GUI/Library/OptionTemplates_Shared.xaml:383
 msgctxt "hcfa33f5dgcaefg4bc2gb817gfba5fa094bbe"
 msgid "Barely visible"
-msgstr ""
+msgstr "간신히 보임"
 
 #: Game/Public/Game/GUI/Widgets/GammaCalibration.xaml:65
 #: Game/Public/Game/GUI/Widgets/GammaCalibration_c.xaml:70
 #: Game/Public/Game/GUI/Library/OptionTemplates_Shared.xaml:384
 msgctxt "hc38ff11aga42eg4492g8811g5b8787faf0f9"
 msgid "Visible"
-msgstr ""
+msgstr "보임"
 
 #: Game/Public/Game/GUI/Widgets/GammaCalibration.xaml:66
 #: Game/Public/Game/GUI/Widgets/GammaCalibration_c.xaml:71
 #: Game/Public/Game/GUI/Library/OptionTemplates_Shared.xaml:385
 msgctxt "ha021830ag4e14g4f92gaf34gd51746be7939"
 msgid "Clearly visible"
-msgstr ""
+msgstr "분명히 보임"
 
 #: Game/Public/Game/GUI/Widgets/GammaCalibration.xaml:69
 #: Game/Public/Game/GUI/Widgets/GammaCalibration_c.xaml:74
@@ -8642,7 +8664,7 @@ msgctxt "h54390f10g0d65g437cgab74g97602f5d8506"
 msgid ""
 "Adjust the slider to match the symbols' visibility to their respective "
 "descriptions."
-msgstr ""
+msgstr "그림이 설명에 맞도록 슬라이더를 조정하세요."
 
 #: Game/Public/Game/GUI/Widgets/GammaCalibration.xaml:90
 #: Game/Public/Game/GUI/Widgets/HDRCalibration_c.xaml:39
@@ -8699,7 +8721,7 @@ msgstr "어두운 영역과 밝은 영역 양쪽의 세부 묘사가 제일 잘 
 #: Game/Public/Game/GUI/Widgets/HDRCalibration.xaml:142
 msgctxt "he9b28729gfca1g4890g90a3g0f09554135f1"
 msgid "Brightness"
-msgstr ""
+msgstr "밝기"
 
 #: Game/Public/Game/GUI/Widgets/Henchmen.xaml:56
 #: Game/Public/Game/GUI/Widgets/Henchmen_c.xaml:101
@@ -8732,12 +8754,12 @@ msgstr "원거리 무기 세트 사용"
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:1600
 msgctxt "h2e31637bgc0b9g498cg86fbg63290f36759d"
 msgid "Toggle Light Source"
-msgstr ""
+msgstr "광원 토글"
 
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:1863
 msgctxt "h51aabbb7ga214g41e0ga817gcf00d25250d7"
 msgid "Cast spell on current target(s)."
-msgstr ""
+msgstr "대상에게 주문 시전."
 
 #: Game/Public/Game/GUI/Widgets/HotBar.xaml:2444
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:4846
@@ -9236,7 +9258,7 @@ msgstr "실패"
 #: Game/Public/Game/GUI/Widgets/JournalDialogues_c.xaml:380
 msgctxt "hd147c95ag5acbg4389g9411g9f9dbbbb2f3a"
 msgid "Successful"
-msgstr ""
+msgstr "성공"
 
 #: Game/Public/Game/GUI/Widgets/JournalDialogues.xaml:392
 msgctxt "hb6976931gfe2ag4d25g9693ge2ec4c35059c"
@@ -9328,7 +9350,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/JournalInspiration_c.xaml:202
 msgctxt "h53de35dag1029g49f1g9151g8adf13c47199"
 msgid "Inspirational Events"
-msgstr ""
+msgstr "고양감 이벤트"
 
 #: Game/Public/Game/GUI/Widgets/JournalInspiration_c.xaml:75
 #: Game/Public/Game/GUI/Widgets/JournalInspiration_c.xaml:187
@@ -9341,25 +9363,25 @@ msgstr "고양감"
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:29
 msgctxt "h8ac040dbgc149g4ceagae80g797adccd1f71"
 msgid "Create Custom Marker"
-msgstr ""
+msgstr "사용자 지정 표식 생성"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap.xaml:53
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:32
 msgctxt "haa251798gb2a5g4818gb15dgfaf7aa1c79ed"
 msgid "Custom Marker"
-msgstr ""
+msgstr "사용자 지정 표식"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap.xaml:66
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:46
 msgctxt "he52a7dfcgfd23g4f6dgb048g083f184f5122"
 msgid "Do you want to remove this marker?"
-msgstr ""
+msgstr "표식을 삭제하시겠습니까?"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap.xaml:67
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:47
 msgctxt "hc7f32431g54c1g4816g9fbeg279c92e3136b"
 msgid "Remove Marker"
-msgstr ""
+msgstr "표식 삭제"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap.xaml:179
 msgctxt "h5afeb434g0770g4002g87e3gf1968baa10ae"
@@ -9387,7 +9409,7 @@ msgstr "적"
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:176
 msgctxt "hf572eae2gafe6g469bgae65g83698a3aeb6c"
 msgid "Custom Marker"
-msgstr ""
+msgstr "사용자 지정 표식"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap.xaml:203
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:180
@@ -9404,7 +9426,7 @@ msgstr "웨이포인트"
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:301
 msgctxt "hff68e9dag8503g48fbg8029g5c951cf9f744"
 msgid "Place Marker"
-msgstr ""
+msgstr "표식 놓기"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap.xaml:222
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:188
@@ -9420,12 +9442,12 @@ msgstr "선택됨"
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:152
 msgctxt "hca0bdb3eg8131g4d80g9e27g39aa26aa8894"
 msgid "Follower"
-msgstr ""
+msgstr "추종자"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:160
 msgctxt "h478c2565gccf7g423fg8457g63cd61efdc54"
 msgid "Bystander"
-msgstr ""
+msgstr "행인"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:168
 msgctxt "hc68e9f4agc792g4852g936aga63916e91830"
@@ -9435,43 +9457,43 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:172
 msgctxt "h7b6472c0g0150g4912g94f1gadcd2a6932d1"
 msgid "Quest Marker"
-msgstr ""
+msgstr "퀘스트 표식"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:254
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:303
 msgctxt "h56551aadg3518g4c93g8544ge82f44e011df"
 msgid "Travel to Waypoint"
-msgstr ""
+msgstr "웨이포인트로 이동"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:302
 msgctxt "hbd0a342bg97bag4da8gbc08g7efd453e53e9"
 msgid "Remove Marker"
-msgstr ""
+msgstr "표식 삭제"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:304
 msgctxt "h0946163cg1361g40adgbe68g0611a54d3d05"
 msgid "Centre"
-msgstr ""
+msgstr "중앙"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:306
 msgctxt "hbd5a17f0g8dcbg42c7g9016ge849ae545969"
 msgid "Zoom"
-msgstr ""
+msgstr "확대"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:308
 msgctxt "h5cf67d12gd139g413cg9cd3gb0b4a2288815"
 msgid "Show Legend"
-msgstr ""
+msgstr "범례 표시"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:309
 msgctxt "hadbbac99g5d94g4217g9f61g21bfbd9f446a"
 msgid "Fast Travel"
-msgstr ""
+msgstr "빠른 이동"
 
 #: Game/Public/Game/GUI/Widgets/JournalMap_c.xaml:326
 msgctxt "h10fb0a58g1320g4ebcg984dg40c6c7ca2ff1"
 msgid "Hide Legend"
-msgstr ""
+msgstr "범례 숨기기"
 
 #: Game/Public/Game/GUI/Widgets/JournalQuests.xaml:65
 msgctxt "h4e934f08g52c2g4645g9b8dg61882aecfce9"
@@ -9496,7 +9518,7 @@ msgstr "선택된 퀘스트 없음"
 #: Game/Public/Game/GUI/Widgets/JournalQuests.xaml:312
 msgctxt "hd8d98f58g7f2ag4621gbf38g92a0d26f29c2"
 msgid "Objectives:"
-msgstr ""
+msgstr "목표:"
 
 #: Game/Public/Game/GUI/Widgets/JournalQuests.xaml:437
 msgctxt "h341be749gc6ceg4767gbafdg8bd1747ed1ae"
@@ -9519,7 +9541,7 @@ msgstr "퀘스트"
 #: Game/Public/Game/GUI/Widgets/JournalQuests_c.xaml:276
 msgctxt "h7a6110d9g903dg43f1ga68bgce476f35bcda"
 msgid "Completed"
-msgstr ""
+msgstr "완료"
 
 #: Game/Public/Game/GUI/Widgets/JournalQuests_c.xaml:279
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8852
@@ -9542,7 +9564,7 @@ msgstr "완료된 항목 감추기"
 #: Game/Public/Game/GUI/Widgets/JournalQuests_c.xaml:667
 msgctxt "h7668e443g0473g4a4eg8ecfg0ee04c8e742d"
 msgid "Show Completed"
-msgstr ""
+msgstr "완료된 항목 표시"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:36
 msgctxt "hc3bda295g3ab5g4e09g8d6cg08fc929c670a"
@@ -9597,22 +9619,22 @@ msgstr "휴식하기"
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:66
 msgctxt "hc834ace7gd3f9g4dc7ga38fg9b0bd7fa35a1"
 msgid "Gameplay"
-msgstr ""
+msgstr "게임플레이"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:69
 msgctxt "hdac50e1cga1bbg4666gb12bgf65c152d1671"
 msgid "Camp"
-msgstr ""
+msgstr "야영"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:72
 msgctxt "h28efff2ag1fd7g4aa1gae56g2eb60e1fe9db"
 msgid "Character Creation"
-msgstr ""
+msgstr "캐릭터 생성"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:75
 msgctxt "ha96374c0g7ef8g43f3gadcfg212afe5077a6"
 msgid "Class"
-msgstr ""
+msgstr "클래스"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:78
 msgctxt "heae01775g25b9g4dc7gba15g0de79658dd3d"
@@ -9627,42 +9649,42 @@ msgstr "제조"
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:84
 msgctxt "h0618fe95g58feg40cbg8de4gf104642e85ee"
 msgid "Crime"
-msgstr ""
+msgstr "범죄"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:87
 msgctxt "h60d08ba4geec9g4f27g80e8ga3575cca0f76"
 msgid "Hotbar"
-msgstr ""
+msgstr "단축창"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:90
 msgctxt "h8a163644g8b63g4ab2g9f6cg2e4e1f5fd918"
 msgid "Illithid"
-msgstr ""
+msgstr "일리시드"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:93
 msgctxt "h6191733cg1985g4ddcgb883g26cf71fa7e12"
 msgid "Inventory"
-msgstr ""
+msgstr "인벤토리"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:96
 msgctxt "h5d0415e7gf1f6g415agae0agd10a3771eb3a"
 msgid "Journal"
-msgstr ""
+msgstr "일지"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:99
 msgctxt "ha202834cg43a6g48b9gb5a7g1e529df332f3"
 msgid "Map"
-msgstr ""
+msgstr "지도"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:102
 msgctxt "hf396af98gb571g4e01g9a9fg5557d4652a95"
 msgid "Multiplayer"
-msgstr ""
+msgstr "멀티플레이"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:105
 msgctxt "h9b9ab4fdg5705g4daegac56g6b1a0451fb3b"
 msgid "Stats"
-msgstr ""
+msgstr "상태"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:108
 msgctxt "h13cedb87gd0ecg4c91gb7a8gc4b5b0f35295"
@@ -9672,7 +9694,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:111
 msgctxt "hb3b29e54g6da6g4af3g8ee8g2dc3671d7006"
 msgid "Trading"
-msgstr ""
+msgstr "거래"
 
 #: Game/Public/Game/GUI/Widgets/JournalTutorials.xaml:156
 #: Game/Public/Game/GUI/Widgets/JournalTutorials_c.xaml:103
@@ -9783,17 +9805,17 @@ msgstr "배우기"
 #: Game/Public/Game/GUI/Widgets/LearnSpells_c.xaml:201
 msgctxt "hcd33ba4egd67dg416dgb804g41cff983b560"
 msgid "Learn"
-msgstr ""
+msgstr "배우기"
 
 #: Game/Public/Game/GUI/Widgets/LearnSpells_c.xaml:267
 msgctxt "hf1111a22g02feg4042g8de7gebb2ead7cba1"
 msgid "Not enough gold!"
-msgstr ""
+msgstr "골드가 부족합니다!"
 
 #: Game/Public/Game/GUI/Widgets/LearnSpells_c.xaml:272
 msgctxt "h183f948agcb5cg4382g8c1ag2bdf894391f0"
 msgid "Spell level too high!"
-msgstr ""
+msgstr "주문 레벨이 너무 높습니다!"
 
 #: Game/Public/Game/GUI/Widgets/LoadGame.xaml:41
 #: Game/Public/Game/GUI/Widgets/LoadGame_c.xaml:64
@@ -9829,7 +9851,7 @@ msgstr "저장된 게임 불러오기"
 #: Game/Public/Game/GUI/Widgets/LoadGame_c.xaml:31
 msgctxt "h9f653fceg70d2g47ddg89b8g8289747c4896"
 msgid "No savegames available."
-msgstr ""
+msgstr "저장된 게임 없음."
 
 #: Game/Public/Game/GUI/Widgets/Lobby.xaml:113
 msgctxt "h0818d69bgad1eg4355ga953gfaa88b9e8cdd"
@@ -9856,12 +9878,12 @@ msgstr "로비 이름 변경"
 #: Game/Public/Game/GUI/Widgets/Lobby.xaml:465
 msgctxt "h7afce3c9ge435g4f8eg8469g196638f8936e"
 msgid "Leave Game"
-msgstr ""
+msgstr "게임 나가기"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser.xaml:117
 msgctxt "h3aafc8e0g9a47g4597g98a8g51ae636e684e"
 msgid "Lobbies"
-msgstr ""
+msgstr "로비"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser.xaml:301
 #: Game/Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1091
@@ -9904,107 +9926,107 @@ msgstr "LAN"
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:124
 msgctxt "h838b653agb63cg44b9g9a8agd3c5e8fb5c8d"
 msgid "Multiplayer Games"
-msgstr ""
+msgstr "멀티플레이 게임"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:259
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser.xaml:247
 msgctxt "h4e80f833g0112g4a9bg8ac5gd216744515ce"
 msgid "SERVERS"
-msgstr ""
+msgstr "서버"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:268
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser.xaml:255
 msgctxt "h87bf9a1dg8210g4948g9b65g78bc20d51a9e"
 msgid "PLAYERS"
-msgstr ""
+msgstr "플레이어"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:284
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser.xaml:270
 msgctxt "hc2962d77gf4dag4647g8f71g15c4bf883277"
 msgid "ADVENTURE"
-msgstr ""
+msgstr "모험"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:298
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser.xaml:278
 msgctxt "hacf0d8deg89ddg45b2gbcc6ga2eba8ce0034"
 msgid "LOCATION"
-msgstr ""
+msgstr "장소"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:306
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser.xaml:286
 msgctxt "he115f203gfd93g4047g9bc1g721d1d759a7b"
 msgid "LEVEL"
-msgstr ""
+msgstr "레벨"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:316
 msgctxt "h05489a04g67b7g4ce6gbd79ga8f072b92671"
 msgid "DM STYLE"
-msgstr ""
+msgstr "던전 마스터 양식"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:347
 msgctxt "he562a747ga5eag422agbde6g6fb0dd1bddae"
 msgid "Enter Invite Code"
-msgstr ""
+msgstr "초대 코드 입력"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:349
 msgctxt "h92a117d4g472bg452bg972ag2b79f65d5691"
 msgid ""
 "Enter an ID Address or Server ID to connect to a specific multiplayer game"
-msgstr ""
+msgstr "특정 멀티플레이 게임에 접속하려면 ID 주소나 서버 ID를 입력"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:370
 msgctxt "h629fc324gb607g4c51g8c8dg8a25509c3e72"
 msgid "Server Filters"
-msgstr ""
+msgstr "서버 필터"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:393
 msgctxt "he8db4684gb4e3g4270ga1a2g5f27409de802"
 msgid "Join Game"
-msgstr ""
+msgstr "게임 참여"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:400
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser.xaml:376
 msgctxt "h9667f309g5455g45d6gae8cga1d5f6b1dbe2"
 msgid "Refresh"
-msgstr ""
+msgstr "새로고침"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:406
 msgctxt "h499b9ffbgfc3ag45fdg8df7g2f9e0440b9b4"
 msgid "Create Multiplayer Game"
-msgstr ""
+msgstr "멀티플레이 게임 생성"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:419
 msgctxt "h1da92c84gd954g43ffga332gcda2d31a7083"
 msgid "Filter List"
-msgstr ""
+msgstr "목록 필터"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:425
 msgctxt "haf3ea26agb50cg4213g81e5g2e713394538a"
 msgid "Enter Invite Code"
-msgstr ""
+msgstr "초대 코드 입력"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:482
 msgctxt "h1d83b83bgc793g4f82gbb5ege61c6fb28475"
 msgid "Paste Code"
-msgstr ""
+msgstr "코드 붙여넣기"
 
 #: Game/Public/Game/GUI/Widgets/LobbyBrowser_c.xaml:492
 msgctxt "hb51ed435g17bcg466dg81bbg3ccd673fde9f"
 msgid "Enter code"
-msgstr ""
+msgstr "코드 입력"
 
 #: Game/Public/Game/GUI/Widgets/Lobby_c.xaml:60
 msgctxt "h54254d1eg5521g4d2bg93a7gb1bfbf90d024"
 msgid ""
 "Start a new multiplayer adventure. Select 'Ready' when you are happy to "
 "start the game."
-msgstr ""
+msgstr "새 멀티플레이 모험을 시작합니다. 게임을 시작하려면 '준비' 를 눌러주세요."
 
 #: Game/Public/Game/GUI/Widgets/Lobby_c.xaml:93
 #: Game/Public/Game/GUI/Widgets/Lobby.xaml:155
 msgctxt "h996e8fc7gf350g4cb1gaec7g9dbee9ff14f3"
 msgid "Not Ready"
-msgstr ""
+msgstr "준비 안됨"
 
 #: Game/Public/Game/GUI/Widgets/Lobby_c.xaml:158
 #: Game/Public/Game/GUI/Widgets/Lobby.xaml:406
@@ -10015,7 +10037,7 @@ msgstr "서버 ID"
 #: Game/Public/Game/GUI/Widgets/Lobby_c.xaml:190
 msgctxt "h9bed5121g00aag4ef9gb3b1g593451ff8b62"
 msgid "Toggle Ready"
-msgstr ""
+msgstr "준비 확인"
 
 #: Game/Public/Game/GUI/Widgets/Lobby_c.xaml:202
 #: Game/Public/Game/GUI/Widgets/Lobby.xaml:392
@@ -10033,12 +10055,12 @@ msgstr "로비 이름 변경"
 #: Game/Public/Game/GUI/Widgets/Lobby_c.xaml:249
 msgctxt "hf78c3cecg7cf4g498ag9ed8g1132d6a12f4f"
 msgid "Choose a new name for your lobby."
-msgstr ""
+msgstr "로비에서 사용할 이름을 고르세요."
 
 #: Game/Public/Game/GUI/Widgets/Lobby_c.xaml:290
 msgctxt "hccbf31fdg78f0g4ac2g9adbg1d3fe6a2794a"
 msgid "Edit Session Settings"
-msgstr ""
+msgstr "세션 설정 편집"
 
 #: Game/Public/Game/GUI/Widgets/Lobby_c.xaml:296
 #: Game/Public/Game/GUI/Widgets/Lobby.xaml:413
@@ -10133,7 +10155,7 @@ msgstr "애드온"
 #: Game/Public/Game/GUI/Widgets/MainMenu_c.xaml:361
 msgctxt "h82579046g4003g4f61ga2a8g4a3b89529cd4"
 msgid "Connect to Larian Network"
-msgstr ""
+msgstr "라리안 네트워크에 접속"
 
 #: Game/Public/Game/GUI/Widgets/MainMenu_c.xaml:392
 #: Game/Public/Game/GUI/Widgets/MainMenu.xaml:74
@@ -10195,7 +10217,7 @@ msgstr "자동 선택"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:7094
 msgctxt "h6a5ad02dg7561g4713g81dcga9d7e9949b3f"
 msgid "Split Stack"
-msgstr ""
+msgstr "더미 나누기"
 
 #: Game/Public/Game/GUI/Widgets/MakeCamp_c.xaml:247
 #: Game/Public/Game/GUI/Widgets/MakeCamp.xaml:201
@@ -10207,19 +10229,19 @@ msgstr "완전 휴식"
 #: Game/Public/Game/GUI/Widgets/NewGameSettings.xaml:43
 msgctxt "h57a5735eg7213g4c3cg914cgbd1b5af276cc"
 msgid "Select Your Difficulty"
-msgstr ""
+msgstr "난이도 선택"
 
 #: Game/Public/Game/GUI/Widgets/NewGameSettings_c.xaml:146
 #: Game/Public/Game/GUI/Widgets/NewGameSettings.xaml:150
 msgctxt "h63e32c4agf6d6g42dagb8f6g6ae105cb4f52"
 msgid "Only the host of the game can change the difficulty."
-msgstr ""
+msgstr "호스트만 게임 난이도를 변경할 수 있습니다."
 
 #: Game/Public/Game/GUI/Widgets/NewGameSettings_c.xaml:149
 #: Game/Public/Game/GUI/Widgets/NewGameSettings.xaml:170
 msgctxt "hff3fbf0fgf6c5g427fga4dfgbb238c01cb4c"
 msgid "Start Game"
-msgstr ""
+msgstr "게임 시작"
 
 #: Game/Public/Game/GUI/Widgets/NewGameSettings_c.xaml:158
 #: Game/Public/Game/GUI/Widgets/NewGameSettings.xaml:191
@@ -10239,7 +10261,7 @@ msgstr "확인"
 #: Game/Public/Game/GUI/Widgets/Notification_c.xaml:43
 msgctxt "h4a900067gbe92g4e60gaf15g90a1b9dac93a"
 msgid "Environmental Turn"
-msgstr ""
+msgstr "환경 턴"
 
 #: Game/Public/Game/GUI/Widgets/Notification_c.xaml:31
 #: Game/Public/Game/GUI/Library/NotificationLib.xaml:847
@@ -10251,7 +10273,7 @@ msgstr "당신의 턴"
 #: Game/Public/Game/GUI/Widgets/OverlayShared_c.xaml:22
 msgctxt "h2a1ea0b1gb9e1g4b58ga74dg268460b30db0"
 msgid "Split Screen: Locked"
-msgstr ""
+msgstr "화면 나누기: 잠김"
 
 #: Game/Public/Game/GUI/Widgets/OverviewMap.xaml:20
 #: Game/Public/Game/GUI/Widgets/OverviewMap.xaml:34
@@ -10268,7 +10290,7 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/OverviewMap.xaml:40
 msgctxt "h0402a447g9c6eg4c9cg9353g871447ca860a"
 msgid "Venture Forth"
-msgstr "Venture Forth"
+msgstr "출정"
 
 #: Game/Public/Game/GUI/Widgets/PartyCharacterSheet_c.xaml:137
 msgctxt "ha4177187gddecg4e4dg8870g01827a52f589"
@@ -10316,7 +10338,7 @@ msgstr "캐릭터 시트"
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:3772
 msgctxt "h406620e5g846cg4c3eg9e50g1fb3041a894c"
 msgid "Gold"
-msgstr ""
+msgstr "골드"
 
 #: Game/Public/Game/GUI/Widgets/PartyPanel.xaml:321
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:3758
@@ -10378,12 +10400,12 @@ msgstr "훔치기"
 #: Game/Public/Game/GUI/Widgets/Pickpocket_c.xaml:618
 msgctxt "had15512ag9f6bg4c2dg8a8fg88705bce116b"
 msgid "Dice Roll Details"
-msgstr ""
+msgstr "주사위 굴림 상세"
 
 #: Game/Public/Game/GUI/Widgets/PinnedTooltips_c.xaml:292
 msgctxt "h5cd0f19dg4036g4d1fgb4efg210600e4d683"
 msgid "Clear All"
-msgstr ""
+msgstr "모두 지우기"
 
 #: Game/Public/Game/GUI/Widgets/ProfileSelect.xaml:18
 #: Game/Public/Game/GUI/Widgets/ProfileSelect_c.xaml:20
@@ -10472,7 +10494,7 @@ msgstr "어떤 반응 행동을 할 것인지 선택하십시오."
 #: Game/Public/Game/GUI/Widgets/ReactionDecisionPopup_c.xaml:311
 msgctxt "h8c0332e0gc656g43aegafcegc7c66c6e3516"
 msgid "Another player is choosing how to react."
-msgstr ""
+msgstr "다른 플레이어가 어떻게 반응할 지 선택중입니다."
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -10503,7 +10525,7 @@ msgstr "짧은 휴식 ([1]/[2])"
 #: Game/Public/Game/GUI/Widgets/RestPanel_c.xaml:187
 msgctxt "he4fcb501g60f0g4761g9d3cg0105ebca9945"
 msgid "Waypoints"
-msgstr ""
+msgstr "웨이포인트"
 
 #: Game/Public/Game/GUI/Widgets/RestPanel_c.xaml:191
 #: Game/Public/Game/GUI/Widgets/RestPanel_c.xaml:228
@@ -10519,24 +10541,24 @@ msgctxt "h179c7064g4eccg43c0gb380g396b345cb8a8"
 msgid ""
 "Twice a day, you can restore 50% of your hit points. Warlocks restore their "
 "spell slots."
-msgstr ""
+msgstr "하루에 두 번, 체력의 50%를 회복할 수 있습니다. 워락은 주문 슬롯이 회복됩니다."
 
 #: Game/Public/Game/GUI/Widgets/RestPanel_c.xaml:224
 msgctxt "hd7dd3a4dg6f68g4c71ga914ga448e57fc690"
 msgid ""
 "Go to your camp and initiate a Long Rest. This restores hit points and "
 "spells slots. It ends the day and advances the story."
-msgstr ""
+msgstr "야영지로 가서 긴 휴식을 시작합니다. 체력과 주문 슬롯을 회복합니다. 하루를 마치고 스토리를 진행시킵니다."
 
 #: Game/Public/Game/GUI/Widgets/RestPanel_c.xaml:233
 msgctxt "h3bea88f3g5d42g43bfg9f07g7756c032c477"
 msgid "Use to travel to previously discovered locations"
-msgstr ""
+msgstr "이미 발견한 장소로 이동합니다"
 
 #: Game/Public/Game/GUI/Widgets/RestPanel_c.xaml:273
 msgctxt "hc24e6389g1fd1g45c0gb088g36fc75f12d70"
 msgid "Leave camp and continue your adventure."
-msgstr ""
+msgstr "야영지를 떠나 모험을 계속합니다."
 
 #: Game/Public/Game/GUI/Widgets/RestPanel_c.xaml:286
 #: Game/Public/Game/GUI/Widgets/RestPanel_c.xaml:295
@@ -10549,14 +10571,14 @@ msgctxt "hd7643be9gca62g4631g8d0fgd46a3b9de613"
 msgid ""
 "You need to take a <LSTag Tooltip=\"LongRest\">Long Rest</LSTag> to leave "
 "your camp."
-msgstr ""
+msgstr "야영지를 떠나려면 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취해야 합니다."
 
 #: Game/Public/Game/GUI/Widgets/RestPanel_c.xaml:315
 msgctxt "h2949234dg9139g4fb7g9a78g0f7fa3d77e82"
 msgid ""
 "You need to take a <LSTag Tooltip=\"LongRest\">Long Rest</LSTag> before you "
 "can access your waypoints."
-msgstr ""
+msgstr "웨이포인트로 가려면 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취해야 합니다."
 
 #: Game/Public/Game/GUI/Widgets/RewardPanel.xaml:144
 msgctxt "h57c4b009g2843g4098gbf30gebb4819560ca"
@@ -10597,7 +10619,7 @@ msgstr "받는 것 :"
 #: Game/Public/Game/GUI/Widgets/RewardPanel_c.xaml:79
 msgctxt "h01c14450gb52cg49feg9148gd355f3548935"
 msgid "Select Reward ~ [1]/[2]"
-msgstr ""
+msgstr "보상 선택 ~ [1]/[2]"
 
 #: Game/Public/Game/GUI/Widgets/RewardPanel_c.xaml:155
 #, fuzzy
@@ -10702,13 +10724,13 @@ msgstr "이름 변경"
 #: Game/Public/Game/GUI/Widgets/SaveGameInputSaveNameDialog.xaml:84
 msgctxt "hddaf4452g80a7g4d29gad20gcfe0975afa9c"
 msgid "Filename already exists."
-msgstr ""
+msgstr "이미 존재하는 파일명입니다."
 
 #: Game/Public/Game/GUI/Widgets/SaveGameInputSaveNameDialog_c.xaml:89
 #: Game/Public/Game/GUI/Widgets/SaveGameInputSaveNameDialog.xaml:88
 msgctxt "h64cf4a8ag48fcg4534gbc2ag187cc08cd8a3"
 msgid "Can't save at the moment."
-msgstr ""
+msgstr "저장할 수 없습니다."
 
 #: Game/Public/Game/GUI/Widgets/SaveGame_c.xaml:73
 #: Game/Public/Game/GUI/Library/SaveLoad_c.xaml:167
@@ -10728,7 +10750,7 @@ msgstr "세이브 삭제"
 #: Game/Public/Game/GUI/Widgets/LoadGame_c.xaml:109
 msgctxt "hdb087266gb0a6g464dg8893g83fda5d01358"
 msgid "Toggle List Collapse"
-msgstr ""
+msgstr "목록 접기 토글"
 
 #: Game/Public/Game/GUI/Widgets/SaveGame_c.xaml:206
 #: Game/Public/Game/GUI/Widgets/LoadGame_c.xaml:159
@@ -10745,7 +10767,7 @@ msgstr "캠페인 삭제"
 #: Game/Public/Game/GUI/Widgets/SensitiveSettings.xaml:47
 msgctxt "ha1984b50g30d8g4260ga883g62741ba046fc"
 msgid "Explicit Content"
-msgstr ""
+msgstr "성적인 컨텐츠"
 
 #: Game/Public/Game/GUI/Widgets/SensitiveSettings_c.xaml:63
 #: Game/Public/Game/GUI/Widgets/SensitiveSettings.xaml:51
@@ -10766,7 +10788,7 @@ msgstr "고양감 점수"
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:473
 msgctxt "h032341b5gfee9g4b5agb8dfg78b0214e7f1f"
 msgid "Manage your character's abilities, features, skills, and equipment."
-msgstr ""
+msgstr "캐릭터의 능력치, 요소, 기술, 장비를 관리하세요."
 
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:480
 msgctxt "h74d60cc4g092ag476agb857g28c6d7f6e455"
@@ -10839,11 +10861,9 @@ msgstr ""
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:576
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates.xaml:382
 #: Game/Public/Game/GUI/Library/DataTemplates_k.xaml:885
-#, fuzzy
-#| msgid "You've gained enough experience to level up!"
 msgctxt "h279c7a26gafe3g440cgb460g878bbfc0bdc0"
 msgid "Level up"
-msgstr "레벨을 올리기에 충분한 경험치를 획득했습니다!"
+msgstr "레벨 업"
 
 #: Game/Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:577
 msgctxt "h8766e7aag41a0g43d9g9bf2g213552e07992"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-12 13:53+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-08-13 20:53+0000\n"
+"Last-Translator: 겐쥐킹 <a8675309@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/default/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -568,7 +568,7 @@ msgstr "전투 로그를 통해 최근 주문 시전, 행동, 대화를 확인�
 #: Gustav/Mods/Gustav/Globals/WLD_Main_A/Items/_merged.lsx:274
 msgctxt "hd69550a3gb0c4g4171g907fg44f4be90c1b6"
 msgid "Mysterious Artefact"
-msgstr "수수께끼의 유물"
+msgstr "수수께끼의 아티팩트"
 
 #. FilePath = Gustav/Mods/Gustav/Globals/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -826,12 +826,15 @@ msgstr "윌"
 #. Name = Karlach
 #. Passives = DeathSavingThrows
 #: Gustav/Public/Gustav/Origins/Origins.lsx:136
+#, fuzzy
 msgctxt "hde808ae2g00f3g4658g8c1eg5c2dea714159"
 msgid ""
 "Karlach has escaped ten years of service in the Hells with nothing but the "
 "axe on her back - and the infernal engine blazing furiously where her heart "
 "used to be."
 msgstr ""
+"칼라크는 등에 맨 도끼 한 자루와 한때는 그녀의 심장이 있던 자리에서 맹렬하게 타오르는 지옥의 엔진만을 지닌 채로 지옥에서의 십 년 간의 "
+"복무로부터 탈주하였습니다."
 
 #. FilePath = Gustav/Public/Gustav/Origins/Origins.lsx
 #. NodeID = Origin
@@ -960,7 +963,7 @@ msgstr "윌의 음성"
 #: Gustav/Public/Gustav/Voices/Voices.lsx:68
 msgctxt "h7160dd97g8707g405ega034g91548484be2c"
 msgid "Voice of Karlach"
-msgstr ""
+msgstr "칼라크의 음성"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -990,7 +993,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:22
 msgctxt "h5784805eg341eg4e88g8073g3b0c0e9d1b2f"
 msgid "Shield"
-msgstr ""
+msgstr "방패"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1000,7 +1003,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:29
 msgctxt "h19f23e5fg0855g4b33ga9adg470bce49727e"
 msgid "Shield"
-msgstr ""
+msgstr "방패"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1010,7 +1013,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:36
 msgctxt "hfcc8fbc5g75ebg494fg8a4cgd13caf2c46ea"
 msgid "Shield"
-msgstr ""
+msgstr "방패"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1018,9 +1021,10 @@ msgstr ""
 #. Name = Interrupt_MAG_SecondChance
 #. ReplenishType = Never
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:43
+#, fuzzy
 msgctxt "h70b94fb9gc92cg428eg841dg96b5f6850725"
 msgid "Amulet of Second Chance"
-msgstr ""
+msgstr "두 번째 기회의 아뮬렛"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1030,7 +1034,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:50
 msgctxt "hd7dfc5d0g270bg44ecg8038ga0ec9b526eba"
 msgid "Extended Cantrips"
-msgstr ""
+msgstr "소마법 연장화"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1050,7 +1054,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:64
 msgctxt "ha94be1f1g1ddcg4c9cga735g6e3d8956b9fa"
 msgid "Quickened Cantrips"
-msgstr ""
+msgstr "소마법 신속화"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1060,7 +1064,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:71
 msgctxt "h2ae2afb5gd50eg4d06g893dgc473b933d76f"
 msgid "Counterspell"
-msgstr ""
+msgstr "주문차단"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1068,9 +1072,10 @@ msgstr ""
 #. Name = Interrupt_Scarab_Of_Protection
 #. ReplenishType = Never
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:78
+#, fuzzy
 msgctxt "h7d02c746g1eaeg413cga478g599fd904245f"
 msgid "Scarab of Protection"
-msgstr ""
+msgstr "보호의 스카라베"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1080,7 +1085,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:85
 msgctxt "h53b2acd7ga777g4c62g8b2eg9cdb910db192"
 msgid "Infernal Resistance"
-msgstr ""
+msgstr "지옥 저항"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1090,7 +1095,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:92
 msgctxt "h2cba659cgd104g4931gb375g2dc1b1c8a590"
 msgid "Legendary Evasion"
-msgstr ""
+msgstr "전설적 회피"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1100,7 +1105,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:99
 msgctxt "h76cc8a84g9f7fg4d3egacefg684184d5101b"
 msgid "Absorb Elements"
-msgstr ""
+msgstr "원소 흡수"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1109,7 +1114,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:8
 msgctxt "hc07a2620g8a77g4878g80bcg399f36479595"
 msgid "These coins can power Infernal Engines."
-msgstr ""
+msgstr "이 동전들로 지옥의 엔진에 동력을 공급할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1121,24 +1126,28 @@ msgid ""
 "Must Have <LSTag Type=\"Status\" Tooltip=\"MAG_ZOC_FORCE_CONDUIT\">Force "
 "Conduit</LSTag>."
 msgstr ""
+"반드시 <LSTag Type=\"Status\" Tooltip=\"MAG_ZOC_FORCE_CONDUIT\">힘의 도관</LSTag>을 "
+"지니고 있어야만 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
 #. HandlePath = DisplayName
 #. Identifier = CE_Status_LOW_RAPHAEL_PILLARCOUNTER_1_False
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:20
+#, fuzzy
 msgctxt "h56b5082ag099eg4d90g91cfg3b87828c122e"
 msgid "Soul Pillar Proximity"
-msgstr ""
+msgstr "영혼의 기둥 가까움"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
 #. HandlePath = DisplayName
 #. Identifier = CE_Status_LOW_RAPHAEL_PILLARCOUNTER_1_True
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:27
+#, fuzzy
 msgctxt "hd6d881cag5d8fg4608g8495g3233b0763449"
 msgid "Proximity to Pillar"
-msgstr ""
+msgstr "기둥과 가까움"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1147,7 +1156,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:34
 msgctxt "h28a5b507geaeeg44f3ga907g3b210dd48994"
 msgid "Soul Pillar Proximity"
-msgstr ""
+msgstr "영혼의 기둥 가까움"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1156,7 +1165,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:41
 msgctxt "h1a9e355fg9af7g4ec6g9c69ga398fec670f9"
 msgid "Soul Pillar Proximity"
-msgstr ""
+msgstr "영혼의 기둥 가까움"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -2755,8 +2764,7 @@ msgid ""
 "Inspiration Points can be spent to reroll <LSTag Tooltip=\"AbilityCheck\""
 ">Ability Checks</LSTag>."
 msgstr ""
-"영감 점수를 사용해 <LSTag Tooltip=\"AbilityCheck\">능력치 검사</LSTag> "
-"결과를 다시 굴릴 수 있습니다."
+"고양감 점수를 사용해 <LSTag Tooltip=\"AbilityCheck\">능력치 검사</LSTag> 결과를 다시 굴릴 수 있습니다."
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -5620,7 +5628,7 @@ msgstr "추진력을 가지고 있어야 합니다."
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:837
 msgctxt "h328e27e8g8a1ag4eddga437ga05a17986062"
 msgid "Cannot be Immobilised."
-msgstr "이동 불가에 면역입니다."
+msgstr "이동 불가 상태가 될 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5983,16 +5991,10 @@ msgstr ""
 #. HandlePath = Description
 #. ExactMatch = AbilityScoreIncrease
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:8
-#, fuzzy
-#| msgid ""
-#| "Increase one Ability by 2, or two Abilities by 1. You can't increase an "
-#| "Ability above 20 using this feature."
 msgctxt "hdf3e5485gb8a0g4cfdgb6a8g739df90f7fc6"
 msgid ""
 "You increase one Ability by 2, or two Abilities by 1, to a maximum of 20."
-msgstr ""
-"능력치 하나를 2 만큼 올리거나, 두 개의 능력치를 각각 1 만큼 올립니다. 이 "
-"요소를 이용해서 능력치 하나를 20 보다 높게 올릴 수는 없습니다."
+msgstr "하나의 능력치를 2 만큼, 혹은 두 개의 능력치를 각각 1 만큼, 최대 20 까지 올립니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6008,11 +6010,6 @@ msgstr "능력치 향상"
 #. HandlePath = Description
 #. ExactMatch = Athlete
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:15
-#, fuzzy
-#| msgid ""
-#| "Increase <LSTag Tooltip=\"Strength\">Strength</LSTag> or <LSTag Tooltip="
-#| "\"Dexterity\">Dexterity</LSTag> by 1, to a maximum of 20. When you are "
-#| "Prone, standing up uses less movement."
 msgctxt "h4b921d5bg6e70g455cga6fcg68c4e67f9067"
 msgid ""
 "Your <LSTag Tooltip=\"Strength\">Strength</LSTag> or <LSTag Tooltip="
@@ -6022,9 +6019,11 @@ msgid ""
 "<LSTag Type=\"Spell\" Tooltip=\"Projectile_Jump\">Jump</LSTag> distance also "
 "increases by 50%."
 msgstr ""
-"<LSTag Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip=\"Dexterity\""
-">민첩</LSTag>이 1 만큼 증가합니다. 엎어진 뒤 일어날 때, 이동 속도가 덜 "
-"소모됩니다. 해당 특기로 달성할 수 있는 최대 능력치는 20 입니다."
+"<LSTag Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip=\"Dexterity\">민첩</"
+"LSTag>이 1 만큼, 최대 20 까지 증가합니다.\n"
+"\n"
+"엎어진 뒤 일어날 때, 이동 속도가 훨씬 덜 소모됩니다. 또한 <LSTag Type=\"Spell\" Tooltip="
+"\"Projectile_Jump\">도약</LSTag> 거리가 50% 증가합니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6080,9 +6079,9 @@ msgid ""
 "\"ArmourClass\">Armour Class</LSTag> while wielding a melee weapon in each "
 "hand. You cannot dual-wield <LSTag Tooltip=\"Heavy\">Heavy</LSTag> weapons."
 msgstr ""
-"각 손에 근접 무기를 착용 중이면 <LSTag Tooltip=\"ArmourClass\">방어도</"
-"LSTag>에 +1 보너스를 얻습니다. 경량 무기가 아니더라도 양손에 무기를 착용할 "
-"수 있습니다."
+"<LSTag Tooltip=\"Light\">경량</LSTag> 무기가 아니더라도 쌍수 무기 전투술을 사용할 수 있고, 쌍수 착용 중 "
+"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +1 보너스를 얻습니다. <LSTag Tooltip="
+"\"Heavy\">중량</LSTag> 무기는 쌍수로 착용할 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6143,20 +6142,14 @@ msgstr "대형 무기 전문가"
 #. HandlePath = Description
 #. ExactMatch = HeavilyArmored
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:43
-#, fuzzy
-#| msgid ""
-#| "Gain <LSTag Tooltip=\"ArmourProficiency\">Armour Proficiency</LSTag> with "
-#| "Heavy Armour and increase your <LSTag Tooltip=\"Strength\">Strength</LSTag> "
-#| "by 1, to a maximum of 20."
 msgctxt "had223ab5g0589g4d3egb17fg594c2f46167a"
 msgid ""
 "You gain <LSTag Tooltip=\"ArmourProficiency\">Armour Proficiency</LSTag> "
 "with Heavy Armour and your <LSTag Tooltip=\"Strength\">Strength</LSTag> "
 "increases by 1, to a maximum of 20."
 msgstr ""
-"중갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고 "
-"<LSTag Tooltip=\"Strength\">근력</LSTag>이 1 만큼 증가합니다. 해당 특기로 "
-"달성할 수 있는 최대 능력치는 20 입니다."
+"중갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고 <LSTag Tooltip="
+"\"Strength\">근력</LSTag>이 1 만큼, 최대 20 까지 증가합니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6172,11 +6165,6 @@ msgstr "단단히 무장함"
 #. HandlePath = Description
 #. ExactMatch = LightlyArmored
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:50
-#, fuzzy
-#| msgid ""
-#| "Gain <LSTag Tooltip=\"ArmourProficiency\">Armour Proficiency</LSTag> with "
-#| "Light Armour and increase your <LSTag Tooltip=\"Strength\">Strength</LSTag> "
-#| "or <LSTag Tooltip=\"Dexterity\">Dexterity</LSTag> by 1, to a maximum of 20."
 msgctxt "hc36945e7g176dg471egb73bg2c7f2ef68f8c"
 msgid ""
 "You gain <LSTag Tooltip=\"ArmourProficiency\">Armour Proficiency</LSTag> "
@@ -6184,9 +6172,8 @@ msgid ""
 "<LSTag Tooltip=\"Dexterity\">Dexterity</LSTag> increases by 1, to a maximum "
 "of 20."
 msgstr ""
-"경갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고 "
-"<LSTag Tooltip=\"Dexterity\">민첩</LSTag>이 1 만큼 증가합니다. 해당 특기로 "
-"달성할 수 있는 최대 능력치는 20 입니다."
+"경갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고 <LSTag Tooltip="
+"\"Dexterity\">민첩</LSTag>이 1 만큼, 최대 20 까지 증가합니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6477,12 +6464,6 @@ msgstr "기동"
 #. HandlePath = Description
 #. ExactMatch = ModeratelyArmored
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:113
-#, fuzzy
-#| msgid ""
-#| "Gain <LSTag Tooltip=\"ArmourProficiency\">Armour Proficiency</LSTag> with "
-#| "Medium Armour and shields, and increase your <LSTag Tooltip=\"Strength\""
-#| ">Strength</LSTag> or <LSTag Tooltip=\"Dexterity\">Dexterity</LSTag> by 1, to "
-#| "a maximum of 20."
 msgctxt "he5fd3ca4gd8b9g43eagadaeg328af1b11606"
 msgid ""
 "You gain <LSTag Tooltip=\"ArmourProficiency\">Armour Proficiency</LSTag> "
@@ -6490,10 +6471,9 @@ msgid ""
 ">Strength</LSTag> or <LSTag Tooltip=\"Dexterity\">Dexterity</LSTag> "
 "increases by 1, to a maximum of 20."
 msgstr ""
-"평갑과 방패에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 "
-"얻고, <LSTag Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip="
-"\"Dexterity\">민첩</LSTag>이 1 만큼 상승합니다. 해당 특기로 달성할 수 있는 "
-"최대 능력치는 20 입니다."
+"평갑과 방패에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고, <LSTag "
+"Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip=\"Dexterity\">민첩</LSTag>이 "
+"1 만큼, 최대 20 까지 증가합니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6509,20 +6489,14 @@ msgstr "적당히 무장함"
 #. HandlePath = Description
 #. ExactMatch = Performer
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:120
-#, fuzzy
-#| msgid ""
-#| "Gain <LSTag Tooltip=\"MusicalInstrumentProficiency\">Musical Instrument "
-#| "Proficiency</LSTag> and increase your <LSTag Tooltip=\"Charisma\">Charisma</"
-#| "LSTag> by 1, to a maximum of 20."
 msgctxt "hc4eddf03g5ce0g49cbga79ag2fbcdcdd0db8"
 msgid ""
 "You gain <LSTag Tooltip=\"MusicalInstrumentProficiency\">Musical Instrument "
 "Proficiency</LSTag>, and your <LSTag Tooltip=\"Charisma\">Charisma</LSTag> "
 "increases by 1, to a maximum of 20."
 msgstr ""
-"<LSTag Tooltip=\"MusicalInstrumentProficiency\">악기 숙련도</LSTag>를 얻고, "
-"<LSTag Tooltip=\"Charisma\">매력</LSTag>이 1 만큼 증가합니다. 해당 특기로 "
-"달성할 수 있는 최대 능력치는 20 입니다."
+"<LSTag Tooltip=\"MusicalInstrumentProficiency\">악기 숙련도</LSTag>를 얻고, <LSTag "
+"Tooltip=\"Charisma\">매력</LSTag>이 1 만큼, 최대 20 까지 증가합니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6624,11 +6598,6 @@ msgstr "튼튼함"
 #. HandlePath = Description
 #. ExactMatch = WeaponMaster
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:148
-#, fuzzy
-#| msgid ""
-#| "Increase your <LSTag Tooltip=\"Strength\">Strength</LSTag> or <LSTag Tooltip="
-#| "\"Dexterity\">Dexterity</LSTag> by 1, to a maximum of 20, and gain <LSTag "
-#| "Tooltip=\"Proficiency\">Proficiency</LSTag> with four weapons of your choice."
 msgctxt "hc9f7204dg3d88g4a73g8d0dg553e5833d9db"
 msgid ""
 "You gain <LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> with four "
@@ -6636,10 +6605,9 @@ msgid ""
 "LSTag> or <LSTag Tooltip=\"Dexterity\">Dexterity</LSTag> increases by 1, to "
 "a maximum of 20."
 msgstr ""
-"<LSTag Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip=\"Dexterity\""
-">민첩</LSTag>이 1 만큼 증가하고, 선택한 4 가지 무기에 <LSTag Tooltip="
-"\"Proficiency\">숙련</LSTag>을 얻습니다. 해당 특기로 달성할 수 있는 최대 "
-"능력치는 20 입니다."
+"<LSTag Tooltip=\"Strength\">근력</LSTag> 또는 <LSTag Tooltip=\"Dexterity\">민첩</"
+"LSTag>이 1 만큼, 최대 20 까지 증가하고, 선택한 4 가지 무기에 <LSTag Tooltip=\"Proficiency\">숙련</"
+"LSTag>을 얻습니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -12906,20 +12874,14 @@ msgstr "상급 암흑시야"
 #. HandlePath = Description
 #. ExactMatch = StatusImmunity(SLEEP)
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:70
-#, fuzzy
-#| msgid ""
-#| "The Feywild casts a veil over your mind. You have <LSTag Tooltip=\"Advantage"
-#| "\">Advantage</LSTag> on <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag> "
-#| "against being Charmed, and magic can't put you to sleep."
 msgctxt "hdd2b022fg4703g414bg8a8bg5e6972a858d9"
 msgid ""
 "You have <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag> against being Charmed, and magic can't "
 "put you to sleep."
 msgstr ""
-"페이와일드가 당신의 정신에 장막을 씌웁니다. 마법적으로 잠들지 않으며, 매혹에 "
-"대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
-"\"Advantage\">이점</LSTag>을 가집니다."
+"마법적으로 잠들지 않으며, 매혹에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16656,20 +16618,14 @@ msgstr "엘프"
 #. HandlePath = Description
 #. ExactMatch = StatusImmunity(SLEEP)
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:1295
-#, fuzzy
-#| msgid ""
-#| "The Feywild casts a veil over your mind. You have <LSTag Tooltip=\"Advantage"
-#| "\">Advantage</LSTag> on <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag> "
-#| "against being Charmed, and magic can't put you to sleep."
 msgctxt "hf9fa148ag6bb2g48d5gab33g04d0b3370732"
 msgid ""
 "You have <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag> against being Charmed, and magic can't "
 "put you to sleep."
 msgstr ""
-"페이와일드가 당신의 정신에 장막을 씌웁니다. 마법적으로 잠들지 않으며, 매혹에 "
-"대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
-"\"Advantage\">이점</LSTag>을 가집니다."
+"마법적으로 잠들지 않으며, 매혹에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17046,20 +17002,14 @@ msgstr "하프 엘프"
 #. HandlePath = Description
 #. ExactMatch = StatusImmunity(SLEEP)
 #: Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx:1421
-#, fuzzy
-#| msgid ""
-#| "The Feywild casts a veil over your mind. You have <LSTag Tooltip=\"Advantage"
-#| "\">Advantage</LSTag> on <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag> "
-#| "against being Charmed, and magic can't put you to sleep."
 msgctxt "hc9af6b64gd74ag4433g8fcag32b25ee6bca9"
 msgid ""
 "You have <LSTag Tooltip=\"Advantage\">Advantage</LSTag> on <LSTag Tooltip="
 "\"SavingThrow\">Saving Throws</LSTag> against being Charmed, and magic can't "
 "put you to sleep."
 msgstr ""
-"페이와일드가 당신의 정신에 장막을 씌웁니다. 마법적으로 잠들지 않으며, 매혹에 "
-"대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
-"\"Advantage\">이점</LSTag>을 가집니다."
+"마법적으로 잠들지 않으며, 매혹에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -20140,7 +20090,7 @@ msgstr ""
 #: Shared/Public/Shared/Ruleset/RulesetModifierOptions.lsx:17
 msgctxt "hefd6a61cg3936g44ebgb1e6g18f7340470fa"
 msgid "Balanced"
-msgstr ""
+msgstr "균형"
 
 #. FilePath = Shared/Public/Shared/Ruleset/RulesetModifierOptions.lsx
 #. NodeID = RulesetModifierOption
@@ -20291,7 +20241,7 @@ msgstr ""
 #: Shared/Public/Shared/Ruleset/RulesetModifierOptions.lsx:104
 msgctxt "h2dfaada3g0652g41ceg8a6dg19756b3e135a"
 msgid "Balanced"
-msgstr ""
+msgstr "균형"
 
 #. FilePath = Shared/Public/Shared/Ruleset/RulesetModifierOptions.lsx
 #. NodeID = RulesetModifierOption
@@ -20706,7 +20656,7 @@ msgstr ""
 #: Shared/Public/Shared/Ruleset/RulesetSelectionPresets.lsx:29
 msgctxt "h9098bfc2g6874g40a0gad32g016d164c7d63"
 msgid "Balanced"
-msgstr ""
+msgstr "균형"
 
 #. FilePath = Shared/Public/Shared/Ruleset/RulesetSelectionPresets.lsx
 #. NodeID = RulesetSelectionPreset
@@ -20762,7 +20712,7 @@ msgstr ""
 #: Shared/Public/Shared/Ruleset/Rulesets.lsx:16
 msgctxt "h69ce75b8g5f43g41begb153gb4f99e6572fd"
 msgid "Balanced"
-msgstr ""
+msgstr "균형"
 
 #. FilePath = Shared/Public/Shared/Ruleset/Rulesets.lsx
 #. NodeID = Ruleset
@@ -21817,6 +21767,8 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Can only have <LSTag Tooltip="
 "\"TemporaryHitPoints\">temporary hit points</LSTag> from one source."
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/> <LSTag Tooltip="
+"\"TemporaryHitPoints\">임시 체력</LSTag>은 두 가지 이상의 효과로 중첩되지 않습니다."
 
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -24793,6 +24745,10 @@ msgid ""
 "doubled for Deception and Performance <LSTag Tooltip=\"AbilityCheck\""
 ">Checks</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Charisma\">매력이</LSTag> 1 만큼, 최대 20 까지 증가합니다.\n"
+"\n"
+"기만과 공연 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 대한 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>가 두 배로 증가합니다."
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -24801,7 +24757,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Feats/FeatDescriptions.lsx:9
 msgctxt "h043b0a57ga233g4e36ga311g02054a355b31"
 msgid "Actor"
-msgstr ""
+msgstr "배우"
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -24842,7 +24798,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Feats/FeatDescriptions.lsx:23
 msgctxt "h4fb6d9dfg2ef0g43e1g8ccag7093111a327d"
 msgid "Charger"
-msgstr ""
+msgstr "돌격수"
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -24867,7 +24823,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Feats/FeatDescriptions.lsx:30
 msgctxt "hd025b817g4bf9g4411g8f23g73cd511a0d81"
 msgid "Crossbow Expert"
-msgstr ""
+msgstr "쇠뇌 전문가"
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -24915,7 +24871,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Feats/FeatDescriptions.lsx:44
 msgctxt "hbf51f1d9g5fafg40ceg9a6egbff13973f4a7"
 msgid "Durable"
-msgstr ""
+msgstr "강인함"
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -25114,6 +25070,11 @@ msgid ""
 ">Proficient</LSTag> with have a -5 penalty to their <LSTag Tooltip="
 "\"AttackRoll\">Attack Roll</LSTag>, but deal an additional 10 damage."
 msgstr ""
+"<LSTag Tooltip=\"RangedWeaponAttack\">원거리 무기 공격</LSTag>이 <LSTag Tooltip="
+"\"HighGroundRules\">고지대 규칙</LSTag>에 의한 페널티를 받지 않습니다.\n"
+"\n"
+"<LSTag Tooltip=\"Proficiency\">숙련</LSTag>된 무기를 사용한 원거리 무기 공격이 <LSTag Tooltip="
+"\"AttackRoll\">명중 굴림</LSTag>에 -5 페널티를 갖지만 추가로 10의 피해를 가합니다."
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -25122,7 +25083,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Feats/FeatDescriptions.lsx:107
 msgctxt "h7fd575c5g3a3ag46a8g9a40gcddf1cd2b044"
 msgid "Sharpshooter"
-msgstr ""
+msgstr "명사수"
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -25192,7 +25153,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Feats/FeatDescriptions.lsx:128
 msgctxt "haadef5acg36f8g4affg8c7bg7901735048a8"
 msgid "War Caster"
-msgstr ""
+msgstr "전투 마법사"
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-12 13:54+0000\n"
-"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
+"PO-Revision-Date: 2023-08-13 20:54+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/tutorial/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -241,6 +241,10 @@ msgid ""
 "You can also store items and take long rests here. Visitors may come and go "
 "from your camp throughout your adventure - be they friends or foes. "
 msgstr ""
+"캠프는 휴식, 회복, 그리고 성찰의 장소입니다. 당신은 당신의 동료들과 지금까지의 모험에 대해 이야기하고, 미래의 모험에 함께할 사람을 "
+"선택할 수 있습니다.\n"
+"또한 여기서 아이템을 보관하고 긴 휴식을 취할 수 있습니다. 당신의 모험 내내 친구든 적이든 방문객들이 당신의 캠프에 오고 갈 수 "
+"있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -249,7 +253,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:10
 msgctxt "he372598egbe73g4ce0ga85bgd97ae70b36c4"
 msgid "Camp"
-msgstr ""
+msgstr "야영"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -279,6 +283,10 @@ msgid ""
 "You can also store items and take long rests here. Visitors may come and go "
 "from your camp throughout your adventure - be they friends or foes. "
 msgstr ""
+"캠프는 휴식, 회복, 그리고 성찰의 장소입니다. 당신은 당신의 동료들과 지금까지의 모험에 대해 이야기하고, 미래의 모험에 함께할 사람을 "
+"선택할 수 있습니다.\n"
+"또한 여기서 아이템을 보관하고 긴 휴식을 취할 수 있습니다. 당신의 모험 내내 친구든 적이든 방문객들이 당신의 캠프에 오고 갈 수 "
+"있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -316,6 +324,11 @@ msgid ""
 "[IE_PanelSelect] Open Menu \n"
 "<LSTag Type=\"Image\" Info=\"TutorialShortRestMenu\"/>Initiate Short Rest"
 msgstr ""
+"짧은 휴식을 통해 체력의 절반을 회복하고 쓰러진 캐릭터를 구할 수 있습니다.\n"
+"일부 클래스는 짧은 휴식 중에도 리소스를 복구합니다. 리소스의 툴팁을 조사하여 복구 시점에 대해 자세히 알아보세요.\n"
+"\n"
+"[IE_PanelSelect] 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialShortRestMenu\"/>짧은 휴식 시작하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -362,6 +375,11 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialCamp\"/>Open Rest Menu \n"
 "<LSTag Type=\"Image\" Info=\"TutorialShortRest\"/>Initiate Short Rest"
 msgstr ""
+"짧은 휴식을 통해 체력의 절반을 회복하고 쓰러진 캐릭터를 구할 수 있습니다.\n"
+"일부 클래스는 짧은 휴식 중에도 리소스를 복구합니다. 리소스의 툴팁을 조사하여 복구 시점에 대해 자세히 알아보세요.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialCamp\"/>휴식 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialShortRest\"/>짧은 휴식 시작하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -405,6 +423,12 @@ msgid ""
 "[IE_PanelSelect] Open Menu \n"
 "<LSTag Type=\"Image\" Info=\"TutorialLongRestMenu\"/> Initiate Long Rest"
 msgstr ""
+"모험의 하루를 끝내고 야영지로 향할 수 있습니다. 충분한 야영 용품이 있는 경우 모닥불 또는 침낭과 상호 작용하여 캠프에서 긴 휴식을 "
+"취하면 모든 체력과 자원이 복원되므로, 체력이 부족하고 자원이 고갈되면, 이제 휴식을 취할 시간입니다!\n"
+"밤에 야영지를 방문하면 모여 있는 동료나 추종자들과 이야기를 나누고 관계와 모험을 되돌아볼 수 있습니다.\n"
+"\n"
+"[IE_PanelSelect] 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialLongRestMenu\"/> 긴 휴식 시작하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -413,7 +437,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:40
 msgctxt "h26aaa1aag68b6g4b61ga323g6d5655b9653c"
 msgid "End the Day"
-msgstr ""
+msgstr "하루 마무리"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -455,6 +479,12 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialCamp\"/> Open Rest Menu \n"
 "<LSTag Type=\"Image\" Info=\"TutorialLongRest\"/> Initiate Long Rest"
 msgstr ""
+"모험의 하루를 끝내고 야영지로 향할 수 있습니다. 충분한 야영 용품이 있는 경우 모닥불 또는 침낭과 상호 작용하여 캠프에서 긴 휴식을 "
+"취하면 모든 체력과 자원이 복원되므로, 체력이 부족하고 자원이 고갈되면, 이제 휴식을 취할 시간입니다!\n"
+"밤에 야영지를 방문하면 모여 있는 동료나 추종자들과 이야기를 나누고 관계와 모험을 되돌아볼 수 있습니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialCamp\"/> 휴식 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialLongRest\"/> 긴 휴식 시작하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -485,7 +515,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:54
 msgctxt "h8ba40360gb2dbg457egb91egabf31e47c79f"
 msgid "End the Day"
-msgstr ""
+msgstr "하루 마무리"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -538,7 +568,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:67
 msgctxt "h13c0bde7g8db9g42a6g85e0g04ecfb90763b"
 msgid "End the Day"
-msgstr ""
+msgstr "하루 마무리"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -745,6 +775,11 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/>Recommended for players familiar "
 "with the Dungeons and Dragons tabletop rules. "
 msgstr ""
+"멀티클래스는 여러 클래스로 레벨 업을 진행하는 발전된 캐릭터 빌드 방법입니다. 이러한 조합은 강력할 수도 있는 반면, 고레벨의 몇몇 "
+"클래스의 특성들은 잃을 수 있습니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/>던전 앤 드래곤 테이블탑 규칙에 익숙한 플레이어들에게 "
+"추천합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -753,7 +788,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:140
 msgctxt "hf8945589ge5eeg4e0egaff0gce9ac5d390e6"
 msgid "Multiclassing"
-msgstr ""
+msgstr "멀티 클래스"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -781,6 +816,11 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/>Recommended for players familiar "
 "with the Dungeons and Dragons tabletop rules. "
 msgstr ""
+"멀티클래스는 여러 클래스로 레벨 업을 진행하는 발전된 캐릭터 빌드 방법입니다. 이러한 조합은 강력할 수도 있는 반면, 고레벨의 몇몇 "
+"클래스의 특성들은 잃을 수 있습니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/>던전 앤 드래곤 테이블탑 규칙에 익숙한 플레이어들에게 "
+"추천합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -821,7 +861,7 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu\n"
 " <LSTag Type=\"Image\" Info=\"TutorialLevelUpMenu\"/>  Level Up"
 msgstr ""
-"충분한 경험치를 획득하면 캐릭터의 레벨을 최대 12까지 올릴 수 있습니다. 레벨업을 하면 <LSTag Tooltip=\"HitPoints"
+"충분한 경험치를 획득하면 캐릭터의 레벨을 최대 12까지 올릴 수 있습니다. 레벨 업을 하면 <LSTag Tooltip=\"HitPoints"
 "\">체력</LSTag>, <LSTag Tooltip=\"ProficiencyBonus\">숙련도 보너스</LSTag>, 그리고 클래스 "
 "특성이 증가합니다. 특정 레벨에서- 대부분의 경우 4, 8, 12 - 특기를 고르거나 <LSTag Tooltip=\"Abilities\""
 ">능력치 점수</LSTag>를 올릴 수 있습니다.\n"
@@ -836,7 +876,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:155
 msgctxt "hdb1459abgd464g4506gbcfbgb859154f3187"
 msgid "Level Up"
-msgstr ""
+msgstr "레벨 업"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -875,7 +915,7 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialLevelUp\"/> Click arrow by portrait to "
 "Level Up"
 msgstr ""
-"충분한 경험치를 획득하면 캐릭터의 레벨을 최대 12까지 올릴 수 있습니다. 레벨업을 하면 <LSTag Tooltip=\"HitPoints"
+"충분한 경험치를 획득하면 캐릭터의 레벨을 최대 12까지 올릴 수 있습니다. 레벨 업을 하면 <LSTag Tooltip=\"HitPoints"
 "\">체력</LSTag>, <LSTag Tooltip=\"ProficiencyBonus\">숙련도 보너스</LSTag>, 그리고 클래스 "
 "특성이 증가합니다. 특정 레벨에서- 대부분의 경우 4, 8, 12 - 특기를 고르거나 <LSTag Tooltip=\"Abilities\""
 ">능력치 점수</LSTag>를 올릴 수 있습니다.\n"
@@ -1554,6 +1594,13 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu \n"
 " <LSTag Type=\"Image\" Info=\"TutorialSpellbook\"/> Open Spellbook"
 msgstr ""
+"마법사는 두루마리에서 몇 가지 주문을 배울 수 있는데, 두루마리의 상세 메뉴 또는 주문책 화면을 사용하면 됩니다. 이 주문을 마법사의 "
+"주문서에 복사하려면 값어치 있는 물건, 즉 금화가 필요합니다. 마법사는 시전할 수 있는 최고 레벨보다 높은 레벨의 주문을 배울 수 "
+"없습니다.\n"
+"\n"
+"[IE_ContextMenu] 두루마리의 상세 메뉴를 사용하여 주문 배우기\n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialSpellbook\"/> 주문책 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1602,6 +1649,12 @@ msgid ""
 "[IE_ContextMenu] Use a scroll's Context Menu to learn a spell\n"
 "[IE_ToggleSpells] Open Spellbook"
 msgstr ""
+"마법사는 두루마리에서 몇 가지 주문을 배울 수 있는데, 두루마리의 상세 메뉴 또는 주문책 화면을 사용하면 됩니다. 이 주문을 마법사의 "
+"주문서에 복사하려면 값어치 있는 물건, 즉 금화가 필요합니다. 마법사는 시전할 수 있는 최고 레벨보다 높은 레벨의 주문을 배울 수 "
+"없습니다.\n"
+"\n"
+"[IE_ContextMenu] 두루마리의 상세 메뉴를 사용하여 주문 배우기\n"
+"[IE_ToggleSpells] 주문책 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1667,6 +1720,14 @@ msgid ""
 "\n"
 "[IE_ToggleSpells] Open Action Radial Menu"
 msgstr ""
+"전투는 턴 기반입니다. 캐릭터들은 우선권 (민첩) <LSTag Tooltip=\"AbilityCheck\">판정</LSTag> 굴림을 "
+"해서 누가 먼저 행동할 지 결정합니다. 모든 전투원들은 화면 상단에 우선권 굴림 순서대로 보여지며, 주인공 파티에 대한 태도에 따라 "
+"색깔로 강조됩니다. 아군은 녹색, 적은 빨간색, 중립은 노란색입니다.\n"
+"턴이 진행되는 동안, 캐릭터들은 <LSTag Tooltip=\"Action\">행동</LSTag>, 추가 행동, <LSTag "
+"Tooltip=\"MovementSpeed\">이동</LSTag>을 할 수 있습니다. 턴종료 아이콘을 눌러서 턴을 종료 할 수 있습니다."
+"\n"
+"\n"
+"[IE_ToggleSpells] 행동 원형 메뉴 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1675,7 +1736,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:371
 msgctxt "h7e280450gc375g4ef4g828fg35fb2f8326f2"
 msgid "Combat"
-msgstr ""
+msgstr "전투"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1713,6 +1774,15 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialActionFilter\"/> Show actions\n"
 "<LSTag Type=\"Image\" Info=\"TutorialBonusActionFilter\"/> Show bonus actions"
 msgstr ""
+"전투는 턴 기반입니다. 캐릭터들은 우선권 (민첩) <LSTag Tooltip=\"AbilityCheck\">판정</LSTag> 굴림을 "
+"해서 누가 먼저 행동할 지 결정합니다. 모든 전투원들은 화면 상단에 우선권 굴림 순서대로 보여지며, 주인공 파티에 대한 태도에 따라 "
+"색깔로 강조됩니다. 아군은 녹색, 적은 빨간색, 중립은 노란색입니다.\n"
+"턴이 진행되는 동안, 캐릭터들은 <LSTag Tooltip=\"Action\">행동</LSTag>, 추가 행동, <LSTag "
+"Tooltip=\"MovementSpeed\">이동</LSTag>을 할 수 있습니다. 턴종료 아이콘을 눌러서 턴을 종료 할 수 있습니다."
+"\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialActionFilter\"/> 행동을 의미\n"
+"<LSTag Type=\"Image\" Info=\"TutorialBonusActionFilter\"/> 추가 행동을 의미"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1830,6 +1900,7 @@ msgid ""
 "simultaneously. You can switch between them freely, and take their actions "
 "in any order. "
 msgstr ""
+"우선권 순서에 나란히 있는 파티원은 동시에 행동할 수 있습니다. 캐릭터를 자유롭게 전환할 수 있으며 원하는 순서대로 행동할 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1854,6 +1925,10 @@ msgid ""
 "<LSTag Tooltip=\"MovementSpeed\">movement</LSTag> may be taken in any order "
 "you wish. This is also true for multiplayer characters. "
 msgstr ""
+"전투가 시작되고 턴 순서를 위해 우선권 (민첩) <LSTag Tooltip=\"AbilityCheck\">판정</LSTag> 굴림을 할 "
+"때, 파티원들의 순서가 앞뒤로 직접 맞닿아 있을 수 있습니다. 이런 경우, 파티원들의 <LSTag Tooltip=\"Action\""
+">행동</LSTag>, 추가 행동, <LSTag Tooltip=\"MovementSpeed\">이동</LSTag>을 원하는 아무 순서대로 "
+"조작할 수 있습니다. 멀티플레이어에서도 마찬가지입니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1862,7 +1937,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:410
 msgctxt "hd0dc5bbag37ffg46dag87f5g41cc4c1d9272"
 msgid "Shared Initiative"
-msgstr ""
+msgstr "공유 우선권"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1875,6 +1950,7 @@ msgid ""
 "simultaneously. You can switch between them freely, and take their actions "
 "in any order. "
 msgstr ""
+"우선권 순서에 나란히 있는 파티원은 동시에 행동할 수 있습니다. 캐릭터를 자유롭게 전환할 수 있으며 원하는 순서대로 행동할 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1890,6 +1966,10 @@ msgid ""
 "<LSTag Tooltip=\"MovementSpeed\">movement</LSTag> may be taken in any order "
 "you wish. This is also true for multiplayer characters. "
 msgstr ""
+"전투가 시작되고 턴 순서를 위해 우선권 (민첩) <LSTag Tooltip=\"AbilityCheck\">판정</LSTag> 굴림을 할 "
+"때, 파티원들의 순서가 나란히 있게될 수 있습니다. 이런 경우, 파티원들의 <LSTag Tooltip=\"Action\">행동</"
+"LSTag>, 추가 행동, <LSTag Tooltip=\"MovementSpeed\">이동</LSTag>을 원하는 순서대로 조작할 수 "
+"있습니다. 멀티플레이어에서도 마찬가지입니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2082,6 +2162,8 @@ msgid ""
 "LSTag> when attacked from stealth. Surprised characters cannot move or take "
 "actions or reactions in the first round of combat. "
 msgstr ""
+"캐릭터는 은닉한 상대에게 공격 당했을 때 <LSTag Type=\"Status\" Tooltip=\"SURPRISED\">기습당한</"
+"LSTag> 상태가 됩니다. 기습당한 캐릭터는 전투의 첫 번째 라운드에서 움직이거나 행동, 반응 행동 등을 하지 못합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2090,7 +2172,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:455
 msgctxt "h3ef1ffe8g8776g488eg992fgf731a8b5aeda"
 msgid "Surprised"
-msgstr ""
+msgstr "기습당함"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2115,6 +2197,8 @@ msgid ""
 "LSTag> when attacked from stealth. Surprised characters cannot move or take "
 "actions or reactions in the first round of combat. "
 msgstr ""
+"캐릭터는 은닉한 상대에게 공격 당했을 때 <LSTag Type=\"Status\" Tooltip=\"SURPRISED\">기습당한</"
+"LSTag> 상태가 됩니다. 기습당한 캐릭터는 전투의 첫 번째 라운드에서 움직이거나 행동, 반응 행동 등을 하지 못합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2139,6 +2223,8 @@ msgid ""
 "gain a bonus to the <LSTag Tooltip=\"AttackRoll\">roll</LSTag>, whereas "
 "ranged attacks from below get a penalty."
 msgstr ""
+"고지대는 원거리 공격자에게 유리합니다. 지대 위에서의 원거리 공격은 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag>에 보너스를 받는 반면, 아래에서 원거리 공격은 페널티를 받습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2172,6 +2258,8 @@ msgid ""
 "gain a bonus to the <LSTag Tooltip=\"AttackRoll\">roll</LSTag>, whereas "
 "ranged attacks from below get a penalty."
 msgstr ""
+"고지대는 원거리 공격자에게 유리합니다. 지대 위에서의 원거리 공격은 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag>에 보너스를 받는 반면, 아래에서 원거리 공격은 페널티를 받습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2207,6 +2295,16 @@ msgid ""
 "[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialCureWounds\"/> Heal "
 "downed character"
 msgstr ""
+"파티원의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 0이 되면, <LSTag Type=\"Status\" "
+"Tooltip=\"DOWNED\">쓰러짐</LSTag> 상태가 됩니다. 매 턴마다, 쓰러진 파티원은 살기 위해 죽음 내성 굴림을 "
+"판정합니다. 성공이나 실패 중 한 쪽이 먼저 3번 쌓이면 살거나 죽게 됩니다. 전투중이 아니라면, 쓰러진 캐릭터는 저절로 안정됩니다.\n"
+"행동 중 '도움의 손길'을 사용해서 쓰러진 캐릭터를 살릴 수 있으며, 치유 주문, 혹은 치유 물약을 쓰러진 캐릭터에게 던져서 살릴 수도 "
+"있습니다.\n"
+"\n"
+"[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> 쓰러진 캐릭터 "
+"도와주기\n"
+"[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialCureWounds\"/> 쓰러진 캐릭터 "
+"치유하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2215,7 +2313,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:482
 msgctxt "h48ed9a65gd9ecg4236gbb2dgac025bbd893f"
 msgid "Downed"
-msgstr ""
+msgstr "쓰러짐"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2249,6 +2347,14 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> Help downed character\n"
 "<LSTag Type=\"Image\" Info=\"TutorialCureWounds\"/> Heal downed character"
 msgstr ""
+"파티원의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 0이 되면, <LSTag Type=\"Status\" "
+"Tooltip=\"DOWNED\">쓰러짐</LSTag> 상태가 됩니다. 매 턴마다, 쓰러진 파티원은 살기 위해 죽음 내성 굴림을 "
+"판정합니다. 성공이나 실패 중 한 쪽이 먼저 3번 쌓이면 살거나 죽게 됩니다. 전투중이 아니라면, 쓰러진 캐릭터는 저절로 안정됩니다.\n"
+"행동 중 '도움의 손길'을 사용해서 쓰러진 캐릭터를 살릴 수 있으며, 치유 주문, 혹은 치유 물약을 쓰러진 캐릭터에게 던져서 살릴 수도 "
+"있습니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> 쓰러진 캐릭터 도와주기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialCureWounds\"/> 쓰러진 캐릭터 치유하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2666,6 +2772,12 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> Open Character Sheet "
 "to manage reactions"
 msgstr ""
+"적과의 근접전에서 도망치면 적은 자신의 반응 행동을 사용하여 당신에게 <LSTag Tooltip=\"OpportunityAttack\""
+">기회 공격</LSTag>을 할 수 있으며, 당신도 똑같이 할 수 있습니다. 매 라운드마다 하나의 반응 행동만 쓸 수 있으므로 사용 "
+"횟수를 확인 하세요!\n"
+"\n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 캐릭터 시트를 열어 반응 행동 관리"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2701,6 +2813,11 @@ msgid ""
 "\n"
 "[IE_ToggleReactions] Open Reactions Menu"
 msgstr ""
+"적과의 근접전에서 도망치면 적은 자신의 반응 행동을 사용하여 당신에게 <LSTag Tooltip=\"OpportunityAttack\""
+">기회 공격</LSTag>을 할 수 있으며, 당신도 똑같이 할 수 있습니다. 매 라운드마다 하나의 반응 행동만 쓸 수 있으므로 사용 "
+"횟수를 확인 하세요!\n"
+"\n"
+"[IE_ToggleReactions] 반응 행동 메뉴 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2760,7 +2877,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:604
 msgctxt "hd8e56513ge3f8g4951gb719g3e35ac31924f"
 msgid "The combat log keeps track of your encounters."
-msgstr ""
+msgstr "전투 로그는 당신의 전투과정을 기록합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2787,6 +2904,11 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu \n"
 " <LSTag Type=\"Image\" Info=\"TutorialCombatLog\"/> Open Combat Log"
 msgstr ""
+"전투 로그는 당신의 전투과정을 기록합니다. 그 중에서도 명중 굴림과 피해 굴림을 자세히 보여줍니다. 또한 지금까지의 당신의 모험 과정에 "
+"있었던 대화 기록도 볼 수 있습니다.\n"
+"\n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialCombatLog\"/> 전투 로그 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2795,7 +2917,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:607
 msgctxt "hcbe5bc1eg0ab9g439fg95fdgee94b3111617"
 msgid "Combat Log"
-msgstr ""
+msgstr "전투 로그"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2819,6 +2941,8 @@ msgid ""
 "attack and damage rolls from battles. You can also find the record of the "
 "conversations you've had so far in your adventure there."
 msgstr ""
+"전투 로그는 당신의 전투과정을 기록합니다. 그 중에서도 명중 굴림과 피해 굴림을 자세히 보여줍니다. 또한 지금까지의 당신의 모험 과정에 "
+"있었던 대화 기록도 볼 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2829,7 +2953,7 @@ msgctxt "ha742a199g113eg4c90ga1f0g25887a55d538"
 msgid ""
 "You will automatically use your bonus action to make an off-hand attack "
 "while using two weapons unless you toggle this option. "
-msgstr ""
+msgstr "두 개의 무기를 사용하고 있는 동안 이 옵션을 끄지 않으면, 자동으로 추가 행동을 사용하여 보조 무기 공격을 합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2844,6 +2968,9 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialDualWieldToggle\"/> Toggle automatic "
 "off-hand attacks"
 msgstr ""
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+" <LSTag  Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 캐릭터 시트 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialDualWieldToggle\"/> 자동 보조 무기 공격 토글"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2862,6 +2989,12 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialDualWieldToggle\"/> Toggle off-hand "
 "attacks"
 msgstr ""
+"근접 무기를 양손에 들고 있을 때, 자동으로 추가 행동을 사용하여 두 번째 무기로 추가 공격을 할 수 있습니다. 이 자동 사용은 캐릭터 "
+"시트에서 언제든지 토글할 수 있습니다.\n"
+"\n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+" <LSTag  Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 캐릭터 시트 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialDualWieldToggle\"/> 보조 무기 공격 토글"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2870,7 +3003,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:622
 msgctxt "hf73801a6gde88g4782g97f2g369080579e43"
 msgid "Off-Hand Attack"
-msgstr ""
+msgstr "보조 무기 공격"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2881,7 +3014,7 @@ msgctxt "h2e88ef4ag69e7g49a2g890egc8c551a8360a"
 msgid ""
 "You will automatically use your bonus action to make an off-hand attack "
 "while using two weapons unless you toggle this option. "
-msgstr ""
+msgstr "두 개의 무기를 사용하고 있는 동안 이 옵션을 끄지 않으면, 자동으로 추가 행동을 사용하여 보조 무기 공격을 합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2893,6 +3026,8 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialDualWieldToggle\"/> "
 "[IE_ToggleDualWielding] Toggle Dual Wielding Attacks"
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialDualWieldToggle\"/> "
+"[IE_ToggleDualWielding] 쌍수 무기 공격 토글"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2908,6 +3043,11 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialDualWieldToggle\"/> "
 "[IE_ToggleDualWielding] Toggle Dual Wielding Attacks"
 msgstr ""
+"근접 무기를 양손에 들고 있을 때, 자동으로 추가 행동을 사용하여 두 번째 무기로 추가 공격을 할 수 있습니다. 이 자동 사용은 단축바 "
+"혹은 키보드 단축키를 사용해 언제든지 토글할 수 있습니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialDualWieldToggle\"/> "
+"[IE_ToggleDualWielding] 쌍수 무기 공격 토글"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2918,7 +3058,7 @@ msgctxt "h28ba90cfgc588g485cg8479gb13d4d006bc3"
 msgid ""
 "Your attack was Resisted and the entity took half damage. Examine an entity "
 "to see its Resistances. "
-msgstr "상대가 당신의 공격에 저항해 절반의 피해를 받았습니다. 대상을 조사해 저항 여부를 확인하세요. "
+msgstr "상대가 당신의 공격에 저항해 절반의 피해를 입었습니다. 대상을 조사해 저항 여부를 확인하세요. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2964,7 +3104,7 @@ msgctxt "h2ec60f38g51efg4f3ega7d9g5120ebef02e5"
 msgid ""
 "Your attack was Resisted and the entity took half damage. Examine an entity "
 "to see its Resistances. "
-msgstr "상대가 당신의 공격에 저항해 절반의 피해를 받았습니다. 대상을 조사해 저항 여부를 확인하세요. "
+msgstr "상대가 당신의 공격에 저항해 절반의 피해를 입었습니다. 대상을 조사해 저항 여부를 확인하세요. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4438,7 +4578,7 @@ msgctxt "hf2f9d897g5a83g4357g971agaa0b3a964b06"
 msgid ""
 "Your party is shown on the side of your screen. The portraits show your "
 "characters' health and conditions."
-msgstr ""
+msgstr "파티는 화면 왼쪽편에 보여집니다. 초상화는 캐릭터들의 체력과 상태를 보여줍니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4467,6 +4607,12 @@ msgid ""
 "\n"
 "[IE_PartyManagement] Manage party members"
 msgstr ""
+"파티는 화면 왼쪽편에 보여지고, 초상화는 캐릭터들의 체력과 영향 받는 상태, 레벨업 가능 상태도 보여집니다. 그룹으로 묶여진 파티원은 "
+"숨어있지 않는 한 화면에서 함께 움직입니다. 연결된 초상화를 드래그하여 파티원을 그룹 해제할 수 있으며 그 반대의 경우도 마찬가지입니다. "
+"화면에서 멀리 떨어진 캐릭터는 함께 그룹으로 묶을 수 없습니다.\n"
+"파티에 새로운 파티원을 위한 공간을 만들고 싶다면 동료에게 말을 걸어 언제든지 캠프에서 기다리도록 요청할 수 있습니다.\n"
+"\n"
+"[IE_PartyManagement] 파티원 관리"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4475,7 +4621,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:995
 msgctxt "h19658c8eg485fg4553g9f3dg542e23e68790"
 msgid "Partyline"
-msgstr ""
+msgstr "파티라인"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4486,7 +4632,7 @@ msgctxt "h51e2c147g0234g49c7gbc09ge478c2a521e1"
 msgid ""
 "Your party is shown on the side of your screen. The portraits show your "
 "characters' health and conditions."
-msgstr ""
+msgstr "파티는 화면 왼쪽편에 보여집니다. 초상화는 캐릭터들의 체력과 상태를 보여줍니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4513,6 +4659,10 @@ msgid ""
 "If you want to make room in your party for new allies, you can ask a "
 "companion to wait at camp at any time by speaking to them. "
 msgstr ""
+"파티는 화면 왼쪽편에 보여지고, 초상화는 캐릭터들의 체력과 영향 받는 상태, 레벨업 가능 상태도 보여집니다. 그룹으로 묶여진 파티원은 "
+"숨어있지 않는 한 화면에서 함께 움직입니다. 연결된 초상화를 드래그하여 파티원을 그룹 해제할 수 있으며 그 반대의 경우도 마찬가지입니다. "
+"화면에서 멀리 떨어진 캐릭터는 함께 그룹으로 묶을 수 없습니다.\n"
+"파티에 새로운 파티원을 위한 공간을 만들고 싶다면 동료에게 말을 걸어 언제든지 캠프에서 기다리도록 요청할 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4735,6 +4885,12 @@ msgid ""
 "\n"
 "[IE_PanelSelect] View Inspiration Points"
 msgstr ""
+"고양감을 소비해서 실패한 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag> 혹은 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 대해 다시 주사위를 굴릴 수 있게 합니다. <LSTag "
+"Tooltip=\"BackgroundGoals\">배경 목표</LSTag>를 완료할 때 고양감 점수를 획득합니다. 고양감 점수는 자주 "
+"사용하세요. 쓸 수 있는 고양감 점수는 한 번에 4개까지만 저장되며, 초과된 점수는 경험치로 전환됩니다.\n"
+"\n"
+"[IE_PanelSelect] 고양감 점수 보기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4743,7 +4899,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1052
 msgctxt "hd9ecd1e5g60b8g4b03ga56fg404fc9e06b07"
 msgid "Inspiration"
-msgstr ""
+msgstr "고양감"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4784,6 +4940,12 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"Inspiration\"/> [IE_ToggleInspiration] Open "
 "Inspiration Menu"
 msgstr ""
+"고양감을 소비해서 실패한 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag> 혹은 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 대해 다시 주사위를 굴릴 수 있게 합니다. <LSTag "
+"Tooltip=\"BackgroundGoals\">배경 목표</LSTag>를 완료할 때 고양감 점수를 획득합니다. 고양감 점수는 자주 "
+"사용하세요. 쓸 수 있는 고양감 점수는 한 번에 4개까지만 저장되며, 초과된 점수는 경험치로 전환됩니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"Inspiration\"/> [IE_ToggleInspiration] 고양감 메뉴 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5728,6 +5890,11 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu \n"
 " <LSTag Type=\"Image\" Info=\"TutorialMap\"/> Open Map"
 msgstr ""
+"페이룬 전역의 특정 위치들은 눈에 띄는 순간이동 인장이 표시 되어 있습니다. 웨이포인트라는 것이죠. 영리한 모험가는 이 웨이포인트를 "
+"사용하여 이전에 가본 적이 있는 위치로 즉시 이동할 수 있습니다.\n"
+"\n"
+"[IE_PanelSelect] Open Game Menu \n"
+" <LSTag Type=\"Image\" Info=\"TutorialMap\"/> 지도 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5736,7 +5903,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1292
 msgctxt "hc03b7416g2b96g4451g912cge48ed0ceff6e"
 msgid "Waypoints"
-msgstr ""
+msgstr "웨이포인트"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5771,6 +5938,10 @@ msgid ""
 "\n"
 "[IE_ToggleMap] Open Map"
 msgstr ""
+"페이룬 전역의 특정 위치들은 눈에 띄는 순간이동 인장이 표시 되어 있습니다. 웨이포인트라는 것이죠. 영리한 모험가는 이 웨이포인트를 "
+"사용하여 이전에 가본 적이 있는 위치로 즉시 이동할 수 있습니다.\n"
+"\n"
+"[IE_ToggleMap] Open Map"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5793,7 +5964,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1306
 msgctxt "he600cdbag39e2g4618gb7c0g56ddb980cdc6"
 msgid "Map"
-msgstr ""
+msgstr "지도"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5977,6 +6148,18 @@ msgid ""
 "\"Tooltip\" Tooltip=\"Inspiration\">Inspiration</LSTag> can be used to "
 "reroll if you fail a check. "
 msgstr ""
+"몇몇 행동은 결과 판정을 위해 주사위 굴림이 필요합니다. 능력치 혹은 기술 <LSTag Type=\"Tooltip\" Tooltip="
+"\"Check\">판정</LSTag>이라고 불립니다. 주사위 점수가 특정 숫자(<LSTag Type=\"Tooltip\" Tooltip="
+"\"DifficultyClass\">난이도</LSTag>)보다 높으면 성공입니다. 1을 굴리면 무조건 실패고, 20을 굴리면 무조건 "
+"성공입니다. <LSTag Type=\"Tooltip\" Tooltip=\"Skill\">기술</LSTag> 혹은 <LSTag Type="
+"\"Tooltip\" Tooltip=\"AbilityModifier\">능력치</LSTag> 점수는 주사위 점수에 더해질 수 있습니다. "
+"이 수정치들이 높을 수록, 주사위 점수도 높아지게 됩니다. 능력치 점수는 레벨업함에 따라 증가하기도 하고, 특별한 아이템들을 입수했을 "
+"때도 그렇습니다. 그리고 기술 점수는 <LSTag Type=\"Tooltip\" Tooltip=\"ProficiencyBonus\""
+">숙련</LSTag> 되거나 <LSTag Type=\"Tooltip\" Tooltip=\"Expertise\">전문화</LSTag> "
+"되면서 점수가 오를 수 있습니다.\n"
+"몇몇 판정들은 수동적으로 발생하기도 합니다. 그에 반해, 능동적인 판정은 대화 도중, 자물쇠 따기, 함정 해체 등으로 수행합니다. 주문을 "
+"통해 능동 판정을 유리하게 할 수 있습니다. 그리고 <LSTag Type=\"Tooltip\" Tooltip=\"Inspiration\""
+">고양감</LSTag>을 사용해 실패한 판정에 대해 다시 굴릴 수도 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6025,6 +6208,18 @@ msgid ""
 "\"Tooltip\" Tooltip=\"Inspiration\">Inspiration</LSTag> can be used to "
 "reroll if you fail a check. "
 msgstr ""
+"몇몇 행동은 결과 판정을 위해 주사위 굴림이 필요합니다. 능력치 혹은 기술 <LSTag Type=\"Tooltip\" Tooltip="
+"\"Check\">판정</LSTag>이라고 불립니다. 주사위 점수가 특정 숫자(<LSTag Type=\"Tooltip\" Tooltip="
+"\"DifficultyClass\">난이도</LSTag>)보다 높으면 성공입니다. 1을 굴리면 무조건 실패고, 20을 굴리면 무조건 "
+"성공입니다. <LSTag Type=\"Tooltip\" Tooltip=\"Skill\">기술</LSTag> 혹은 <LSTag Type="
+"\"Tooltip\" Tooltip=\"AbilityModifier\">능력치</LSTag> 점수는 주사위 점수에 더해질 수 있습니다. "
+"이 수정치들이 높을 수록, 주사위 점수도 높아지게 됩니다. 능력치 점수는 레벨업함에 따라 증가하기도 하고, 특별한 아이템들을 입수했을 "
+"때도 그렇습니다. 그리고 기술 점수는 <LSTag Type=\"Tooltip\" Tooltip=\"ProficiencyBonus\""
+">숙련</LSTag> 되거나 <LSTag Type=\"Tooltip\" Tooltip=\"Expertise\">전문화</LSTag> "
+"되면서 점수가 오를 수 있습니다.\n"
+"몇몇 판정들은 수동적으로 발생하기도 합니다. 그에 반해, 능동적인 판정은 대화 도중, 자물쇠 따기, 함정 해체 등으로 수행합니다. 주문을 "
+"통해 능동 판정을 유리하게 할 수 있습니다. 그리고 <LSTag Type=\"Tooltip\" Tooltip=\"Inspiration\""
+">고양감</LSTag>을 사용해 실패한 판정에 대해 다시 굴릴 수도 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6644,6 +6839,8 @@ msgid ""
 "Withers is a strange wraith that commands many powers: he allows you to "
 "resurrect allies, hire help, and change your class. For a price, of course. "
 msgstr ""
+"위더스는 많은 힘을 지닌 수상한 망령입니다. 그는 당신의 동료를 부활시키고, 도우미를 고용하고, 클래스를 바꿀 수 있도록 해줍니다. "
+"물론, 그에 대한 비용을 치러야 합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6652,7 +6849,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1549
 msgctxt "h9f63646agad08g4220gb275ga97af6d18beb"
 msgid "Withers"
-msgstr ""
+msgstr "위더스"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6675,6 +6872,8 @@ msgid ""
 "Withers is a strange wraith that commands many powers: he allows you to "
 "resurrect allies, hire help, and change your class. For a price, of course. "
 msgstr ""
+"위더스는 많은 힘을 지닌 수상한 망령입니다. 그는 당신의 동료를 부활시키고, 도우미를 고용하고, 클래스를 바꿀 수 있도록 해줍니다. "
+"물론, 그에 대한 비용을 치러야 합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6726,6 +6925,13 @@ msgid ""
 "Most classes restore their spell slots on a <LSTag Tooltip=\"LongRest\">Long "
 "Rest</LSTag>. "
 msgstr ""
+"주문을 시전할 수 있는 대부분의 캐릭터는 주문 슬롯이라고 불리는 마법의 자원을 소모하여 주문을 시전합니다. 주문들은 힘에 따라 나뉘어 "
+"지는데, 예를 들면 1 레벨 혹은 그 이하의 주문을 시전하려면 1 레벨 주문 슬롯이 필요합니다. 더 높은 레벨의 주문은 더 높은 레벨의 "
+"주문 슬롯이 필요합니다. 몇몇의 저레벨 주문은 더 높은 주문 슬롯을 이용해 더욱 강력한 효과를 발휘합니다.\n"
+"\n"
+"소규모의 마법효과는 소마법이란 것으로 쓸 수 있는데, 소마법은 주문 슬롯이 필요 없고 레벨업함에 따라 위력이 증가합니다.\n"
+"\n"
+"대부분의 클래스는 주문 슬롯을 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 통해 회복합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6734,7 +6940,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1573
 msgctxt "hb8cf5322gd47bg487ag85d6g09427d1b2a73"
 msgid "Spellcasting"
-msgstr ""
+msgstr "주문시전"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6755,6 +6961,13 @@ msgid ""
 "Most classes restore their spell slots on a <LSTag Tooltip=\"LongRest\">Long "
 "Rest</LSTag>. "
 msgstr ""
+"주문을 시전할 수 있는 대부분의 캐릭터는 주문 슬롯이라고 불리는 마법의 자원을 소모하여 주문을 시전합니다. 주문들은 힘에 따라 나뉘어 "
+"지는데, 예를 들면 1 레벨 혹은 그 이하의 주문을 시전하려면 1 레벨 주문 슬롯이 필요합니다. 더 높은 레벨의 주문은 더 높은 레벨의 "
+"주문 슬롯이 필요합니다. 몇몇의 저레벨 주문은 더 높은 주문 슬롯을 이용해 더욱 강력한 효과를 발휘합니다.\n"
+"\n"
+"소규모의 마법효과는 소마법이란 것으로 쓸 수 있는데, 소마법은 주문 슬롯이 필요 없고 레벨업함에 따라 위력이 증가합니다.\n"
+"\n"
+"대부분의 클래스는 주문 슬롯을 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 통해 회복합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6778,6 +6991,17 @@ msgid ""
 "[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/"
 "><LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/> Sneak Attack"
 msgstr ""
+"로그는 <LSTag Type=\"Spell\" Tooltip=\"Target_SneakAttack\">암습 공격</LSTag>을 이용해 "
+"적에게 막대한 피해를 입힙니다. 멀리서 치명적인 화살을 날리든, 아니면 눈치 채지 못하는 대상에게 칼을 꽂든 상관 없습니다. 어쨌든, "
+"암습 공격은 로그 <i>역시</i> <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>이 <i>있거나</i>, 아군이 적의 근접공격 범위에 있어야 합니다. 로그는 "
+"명중 굴림에 이점을 얻기 위해 추가 행동으로 <LSTag Tooltip=\"Stealth\">은닉</LSTag> 판정을 시도해 볼 수 "
+"있습니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 명중 굴림에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 갖고 있으면 암습 공격을 할 수 없습니다.\n"
+"[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/"
+"><LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/> 암습 공격"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6810,6 +7034,17 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/><LSTag Type=\"Image"
 "\" Info=\"TutorialSneakAttackMelee\"/> Sneak Attack"
 msgstr ""
+"로그는 <LSTag Type=\"Spell\" Tooltip=\"Target_SneakAttack\">암습 공격</LSTag>을 이용해 "
+"적에게 막대한 피해를 입힙니다. 멀리서 치명적인 화살을 날리든, 아니면 눈치 채지 못하는 대상에게 칼을 꽂든 상관 없습니다. 어쨌든, "
+"암습 공격은 로그 <i>역시</i> <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Advantage\">이점</LSTag>이 <i>있거나</i>, 아군이 적의 근접공격 범위에 있어야 합니다. 로그는 "
+"명중 굴림에 이점을 얻기 위해 추가 행동으로 <LSTag Tooltip=\"Stealth\">은닉</LSTag> 판정을 시도해 볼 수 "
+"있습니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 명중 굴림에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 갖고 있으면 암습 공격을 할 수 없습니다.\n"
+"<LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/><LSTag Type=\"Image"
+"\" Info=\"TutorialSneakAttackMelee\"/> 암습 공격"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6878,6 +7113,15 @@ msgid ""
 " <LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/> Indicates you have "
 "Advantage"
 msgstr ""
+"이점이 있을 때 두 개의 주사위를 굴려서 둘 중 더 높은 점수를 취하고, <LSTag Tooltip=\"AbilityCheck\">능력치 "
+"판정</LSTag>, <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag> 또는 <LSTag Tooltip="
+"\"AttackRoll\">명중 굴림</LSTag> 점수에 더하여 판정에 성공할 가능성을 높입니다. 마찬가지로, 불리점은 두 번의 굴림 "
+"중 더 낮은 결과를 취함으로써 성공할 가능성을 낮춥니다. \n"
+"이점과 불리점은 다양한 상황에서 나올 수 있습니다. 예를 들면, <LSTag Type=\"Status\" Tooltip=\"PRONE\""
+">엎어져</LSTag> 있는 적, 당신에 대해 긍정적이거나 부정적인 태도를 보이는 캐릭터, 당신을 돕거나 방해하는 주문 등은 몇 가지 "
+"예에 불과하므로 더 나은 기회를 찾을 수 있게 계속 주시하세요!\n"
+"\n"
+" <LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/> 이점이 있을 때 표시된다"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6886,7 +7130,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1597
 msgctxt "ha84ca615g250ag4aa5g82edg0767893d1c54"
 msgid "Advantage and Disadvantage"
-msgstr ""
+msgstr "이점과 불리점"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6910,6 +7154,15 @@ msgid ""
 " <LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/> Indicates you have "
 "Advantage"
 msgstr ""
+"이점이 있을 때 두 개의 주사위를 굴려서 둘 중 더 높은 점수를 취하고, <LSTag Tooltip=\"AbilityCheck\">능력치 "
+"판정</LSTag>, <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag> 또는 <LSTag Tooltip="
+"\"AttackRoll\">명중 굴림</LSTag> 점수에 더하여 판정에 성공할 가능성을 높입니다. 마찬가지로, 불리점은 두 번의 굴림 "
+"중 더 낮은 결과를 취함으로써 성공할 가능성을 낮춥니다. \n"
+"이점과 불리점은 다양한 상황에서 나올 수 있습니다. 예를 들면, <LSTag Type=\"Status\" Tooltip=\"PRONE\""
+">엎어져</LSTag> 있는 적, 당신에 대해 긍정적이거나 부정적인 태도를 보이는 캐릭터, 당신을 돕거나 방해하는 주문 등은 몇 가지 "
+"예에 불과하므로 더 나은 기회를 찾을 수 있게 계속 주시하세요!\n"
+"\n"
+" <LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/> 이점이 있을 때 표시된다"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6928,6 +7181,11 @@ msgid ""
 "and Dexterity <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and won't be "
 "able to cast spells."
 msgstr ""
+"장비에 대한 숙련도는 캐릭터가 장비 사용에 대해 얼마나 알고 있는지를 반영합니다.\n"
+"무기에 숙련된 경우 공격 굴림에 숙련도 수정치를 추가하고 무기 행동을 사용할 수 있습니다.\n"
+"갑옷이나 방패를 사용하는 경우 숙련되어 있지 않아도 여전히 추가<LSTag Tooltip=\"ArmourClass\">방어도</"
+"LSTag>를 얻을 수 있지만, 힘과 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag "
+"Tooltip=\"Disadvantage\">불리점</LSTag>이 생깁니다. 게다가 주문을 시전할 수 없습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6936,7 +7194,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1605
 msgctxt "hc28c55b6gc7bcg4d52g8e7fge9717013e483"
 msgid "Proficiency (Weapons and Armour)"
-msgstr ""
+msgstr "숙련도 (무기와 방어구)"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6955,6 +7213,11 @@ msgid ""
 "and Dexterity <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and won't be "
 "able to cast spells."
 msgstr ""
+"장비에 대한 숙련도는 캐릭터가 장비 사용에 대해 얼마나 알고 있는지를 반영합니다.\n"
+"무기에 숙련된 경우 공격 굴림에 숙련도 수정치를 추가하고 무기 행동을 사용할 수 있습니다.\n"
+"갑옷이나 방패를 사용하는 경우 숙련되어 있지 않아도 여전히 추가<LSTag Tooltip=\"ArmourClass\">방어도</"
+"LSTag>를 얻을 수 있지만, 힘과 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag "
+"Tooltip=\"Disadvantage\">불리점</LSTag>이 생깁니다. 게다가 주문을 시전할 수 없습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7104,7 +7367,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1660
 msgctxt "h898f2f02ge716g4057gaf94g7e0d05c72f9b"
 msgid "Downed"
-msgstr ""
+msgstr "쓰러짐"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial

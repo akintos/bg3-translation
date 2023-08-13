@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-12 13:53+0000\n"
+"PO-Revision-Date: 2023-08-13 20:53+0000\n"
 "Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/journal/ko/>\n"
 "Language: ko\n"
@@ -5700,7 +5700,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/Markers/e935c625-230c-44ad-ba56-baa503fdb56c.lsx:8
 msgctxt "h8848684ag4389g4389gb29bg55b81efda61f"
 msgid "Last Light"
-msgstr "최후의 불빛"
+msgstr "라스트 라이트"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/Markers/e96dc14b-0d06-4c21-9b50-a8df9ea8df64.lsx
 #. NodeID = Marker
@@ -10442,7 +10442,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx:4481
 msgctxt "h468fe1b6g659fg4b7cg9646g690b203810ca"
 msgid "Meet the tieflings in Last Light."
-msgstr "최후의 불빛에서 티플링들을 만나자."
+msgstr "라스트 라이트에서 티플링들을 만나자."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -13194,7 +13194,7 @@ msgstr "고블린 숙영지에 있는 민타라와 대화하자."
 #: Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx:7215
 msgctxt "h5a05996dg2383g41a9g95abgc12954a2ff79"
 msgid "Travel through the mountain pass."
-msgstr "산 길을 통해 이동하기."
+msgstr "산길을 통해 여정을 떠나자."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -16080,7 +16080,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10043
 msgctxt "h025973f2g6503g49f0gad5fgbdef49030e19"
 msgid "Check the ambushers' possessions."
-msgstr ""
+msgstr "매복자의 소지품을 확인하자."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -16670,7 +16670,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10637
 msgctxt "hed5ce462ga0fcg40ecg8d91g040267509ae9"
 msgid "Check the ambushers' possessions."
-msgstr ""
+msgstr "매복자의 소지품을 확인하자."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -18373,16 +18373,11 @@ msgstr "섀도하트라는 하프엘프를 영입했다. 그녀도 노틸로이�
 #. ID = SawBox
 #. Objective = ORI_COM_Shadowheart_Travel
 #: Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx:1441
-#, fuzzy
-#| msgid ""
-#| "We saw Shadowheart tinkering with a strange box. When we asked her about it, "
-#| "she hid it and refused to answer our questions."
 msgctxt "h0e5a950cg6488g4958g9aa1g5ead4b2090a8"
 msgid ""
 "We saw Shadowheart tinkering with a strange artefact. When we asked her "
 "about it, she hid it and refused to answer our questions."
-msgstr "섀도하트가 기묘한 상자를 만지고 있는 것을 봤다. 그것에 대해 묻자, 그녀는 "
-"상자를 감추며 질문에 답하지 않았다."
+msgstr "섀도하트가 기묘한 유물을 만지작거리는 것을 보았다. 그것에 대해 묻자, 그녀는 유물을 감추며 질문에 답하지 않았다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18600,7 +18595,7 @@ msgctxt "h62cbbacbg24e5g42d1g86bcg4f61c4edf1a6"
 msgid ""
 "We witnessed Shadowheart become stricken by an unusual surge of pain, "
 "emanating from a tiny, unhealed wound on her hand."
-msgstr ""
+msgstr "섀도하트가 손에 난 치유되지 않은 작은 상처에서 비정상적인 통증이 솟구치는 것을 목격했다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18626,6 +18621,7 @@ msgid ""
 "We spoke to Shadowheart about the pain that her mysterious wound inflicted "
 "on her. She pleaded ignorance, though she may be withholding something."
 msgstr ""
+"섀도하트에게 수수께끼의 상처가 그녀에게 준 고통에 대해 이야기를 들어보았다. 그녀는 모른다고 항변했지만, 무언가를 숨기고 있을지도 모른다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18639,6 +18635,8 @@ msgid ""
 "on her. She believes it may be part of her training - punishing her whenever "
 "she strays from Shar's teachings."
 msgstr ""
+"섀도하트에게 수수께끼의 상처가 그녀에게 준 고통에 대해 이야기를 들어보았다. 그녀는 그것이 샤의 가르침에서 벗어날 때마다 자신을 벌하는 "
+"훈련의 일부일지도 모른다고 믿었다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18714,6 +18712,8 @@ msgid ""
 "to have a deep-seated fear of them; we should see if she's willing to talk "
 "about it."
 msgstr ""
+"섀도하트가 늑대를 만나자마자 놀라 반응하는 것을 목격했다. 늑대에 대한 깊은 두려움이 있는 것 같으니 늑대에 대해 이야기 할 의향이 "
+"있는지 알아봐야겠다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -22089,7 +22089,7 @@ msgctxt "hc3655142gef72g44aegba62gd092e59c7267"
 msgid ""
 "The owner of the cellar was more than a doctor - he was a necromancer. And "
 "he was obsessed with a particular book."
-msgstr "지하실의 주인은 그냥 의사가 아닌 강령술사였는데, 어떤 책에 집착했다."
+msgstr "지하실의 주인은 그냥 의사가 아닌 강령술사였는데, 어떤 책에 집착했었다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -36421,7 +36421,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx:31147
 msgctxt "h56968caeg5934g4f6eg8a47ge4216a2e3648"
 msgid "Discover the Artefact's Secrets"
-msgstr ""
+msgstr "유물의 비밀 알아내기"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -36435,6 +36435,8 @@ msgid ""
 "horrible voice. She stubbornly avoids the subject. We should find out more "
 "about it."
 msgstr ""
+"섀도하트는 끔찍한 음성으로부터 우리를 보호해준 것으로 보이는 이상한 유물을 갖고 있다. 그녀는 유물에 대한 얘기를 완강히 회피하고 있다. "
+"우리는 그것에 대해 더 알아내야 한다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -36484,6 +36486,8 @@ msgid ""
 "to gain information about its whereabouts from a dead mind flayer. It must "
 "be powerful. We should find out more about it."
 msgstr ""
+"고블린 왕, 드롤 라그즐린이 우리가 지닌 유물을 언급했다. 그는 죽은 마인드플레이어로부터 그것의 행방에 대한 정보를 알아내려고 한다. "
+"매우 강력한 유물임이 확실하다. 그것에 대해 더 알아내야 한다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -36676,7 +36680,7 @@ msgctxt "h4fead0f8g90c9g4f86gb8deg6ebf2ec7415c"
 msgid ""
 "We saw Shadowheart tinkering with a strange artefact in the night. We should "
 "find out more about it."
-msgstr ""
+msgstr "섀도하트가 밤에 기묘한 유물을 만지작거리는 것을 보았다. 그것에 대해 더 알아내야 한다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -38851,6 +38855,8 @@ msgid ""
 "of the Absolute. The cult's secrets may teach us how to free ourselves of "
 "these parasites."
 msgstr ""
+"꿈의 방문자가 우리에게 문라이즈 타워로 가서 절대자 교단에 침투하라고 했다. 교단의 비밀이 이 기생충들로부터 해방되는 방법을 알려줄지도 "
+"모른다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39469,6 +39475,8 @@ msgid ""
 "of the Absolute. The cult's secrets may teach us how to free ourselves of "
 "these parasites."
 msgstr ""
+"꿈의 방문자가 우리에게 문라이즈 타워로 가서 절대자 교단에 침투하라고 했다. 교단의 비밀이 이 기생충들로부터 해방되는 방법을 알려줄지도 "
+"모른다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -53976,7 +53984,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx:60700
 msgctxt "h682de315g508eg42f8g9a1fg3fcf59fc6543"
 msgid "Travel through the Underdark"
-msgstr "언더다크를 통해 이동하기"
+msgstr "언더다크를 통한 여정"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -54107,7 +54115,7 @@ msgstr "고대 셀루네 신전에서 언더다크로 이어지는 비밀 문을
 #: Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx:60921
 msgctxt "h5c8df67fg3a88g4318gb4deg1ee5cd2286c9"
 msgid "Travel through the Mountain Pass"
-msgstr ""
+msgstr "산길을 통한 여정"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
