@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-13 20:54+0000\n"
-"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
+"PO-Revision-Date: 2023-08-15 04:53+0000\n"
+"Last-Translator: 벨루크 <bellukevt@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/characters/ko/>"
 "\n"
 "Language: ko\n"
@@ -481,7 +481,7 @@ msgstr "시민"
 #: Shared/Public/SharedDev/RootTemplates/419f7506-e068-4750-98c4-19fbb0ce3526.lsx:13
 msgctxt "hee990e58ga421g4c99g89c3g6b23ffdc236b"
 msgid "Attendant"
-msgstr ""
+msgstr "참가자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/7913a6c8-9e93-48a9-8806-9aa1eec30d55.lsx
 #. NodeID = GameObjects
@@ -492,7 +492,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/7913a6c8-9e93-48a9-8806-9aa1eec30d55.lsx:13
 msgctxt "h4d017ecegeeccg457cg85d5g96f8c77ec05d"
 msgid "Refugee"
-msgstr ""
+msgstr "난민"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/261547ce-d9e9-438e-b76b-6c930bb774ee.lsx
 #. NodeID = GameObjects
@@ -558,7 +558,7 @@ msgstr "드워프 경비"
 #: Shared/Public/SharedDev/RootTemplates/f9a56182-8616-4fc2-bc36-6231d3c10a94.lsx:13
 msgctxt "h6c764b0dg6380g4d61g823ag5ed421dd76b0"
 msgid "Civilian"
-msgstr ""
+msgstr "민간인"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/8fa8a765-cf97-4bc2-b6e4-72e0109b4129.lsx
 #. NodeID = GameObjects
@@ -570,7 +570,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/8fa8a765-cf97-4bc2-b6e4-72e0109b4129.lsx:13
 msgctxt "h157a289dg8afbg4ed2g974agfc35361b8b43"
 msgid "Dwarf Citizen"
-msgstr ""
+msgstr "드워프 주민"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/dee42375-8caa-4392-8153-0edec7dec303.lsx
 #. NodeID = GameObjects
@@ -580,7 +580,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/dee42375-8caa-4392-8153-0edec7dec303.lsx:13
 msgctxt "h1b1900aeg4e4cg4ce0gb80agfc007027addb"
 msgid "Citizen"
-msgstr ""
+msgstr "주민"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/413d8d26-12ee-4cdd-822c-8186bb3fc1d4.lsx
 #. NodeID = GameObjects
@@ -590,7 +590,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/413d8d26-12ee-4cdd-822c-8186bb3fc1d4.lsx:13
 msgctxt "h13c30b1fg7564g47e5gb625g609bef63fa10"
 msgid "Attendant"
-msgstr ""
+msgstr "참가자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/c87080dd-c558-42c0-8616-a15bb05a13d3.lsx
 #. NodeID = GameObjects
@@ -600,7 +600,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/c87080dd-c558-42c0-8616-a15bb05a13d3.lsx:13
 msgctxt "h333d2616g4407g4ddfg923ega9afddbe47da"
 msgid "Refugee"
-msgstr ""
+msgstr "난민"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/296b0e66-ea50-4fe5-9c9d-7824994ee891.lsx
 #. NodeID = GameObjects
@@ -656,7 +656,7 @@ msgstr "드워프 경비"
 #: Shared/Public/SharedDev/RootTemplates/34925e5f-a3a1-4cf1-9fce-ea3ab1ca176e.lsx:13
 msgctxt "h5b5e7aaeg0740g4440g9014g699a28cc1a74"
 msgid "Civilian"
-msgstr ""
+msgstr "시민"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/cee70c1d-a1bd-4fcc-80ae-12cdcb32f27c.lsx
 #. NodeID = GameObjects
@@ -850,7 +850,7 @@ msgstr "시민"
 #: Shared/Public/SharedDev/RootTemplates/7d46b53d-6337-4e40-b241-3781447a33d7.lsx:14
 msgctxt "h5ca33d39gb17cg4885gbac2g1d5b7aaf9768"
 msgid "Flesh Golem"
-msgstr ""
+msgstr "살점 골렘"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/9ab35976-3555-4ed7-9343-7e52d8facad5.lsx
 #. NodeID = GameObjects
@@ -1020,9 +1020,10 @@ msgstr ""
 #. GeneratePortrait = Icon_Guardian_Of_Faith_Good
 #. SwarmGroup = GuardianOfFaith
 #: Shared/Public/SharedDev/RootTemplates/d3442b44-ae2c-4d85-b069-c9a3217c351c.lsx:13
+#, fuzzy
 msgctxt "h2ac268f1g864bg4b3fg926agc4c3f3282cbc"
 msgid "Guardian of Faith"
-msgstr ""
+msgstr "운명의 수호자"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/2fbd8b06-7c21-4be8-8de7-78d8819a05ba.lsx
 #. NodeID = GameObjects
@@ -1153,7 +1154,7 @@ msgstr "시민"
 #: Shared/Public/SharedDev/RootTemplates/3f07ea78-017f-4982-8f62-204b921ebf03.lsx:13
 msgctxt "h716d82bdgb2e5g4877gaa54g63ddb2b45fe0"
 msgid "Halfling Citizen"
-msgstr ""
+msgstr "하플링 주민"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/e73abdef-32a8-446b-a9b8-1335ac8474be.lsx
 #. NodeID = GameObjects
@@ -1163,7 +1164,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/e73abdef-32a8-446b-a9b8-1335ac8474be.lsx:13
 msgctxt "hb4313064gcdc6g4301gb47cg612d6c6b76e3"
 msgid "Citizen"
-msgstr ""
+msgstr "주민"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/8ec83b31-f2ea-4cdb-a86a-a3d56a43d9bc.lsx
 #. NodeID = GameObjects
@@ -1173,7 +1174,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/8ec83b31-f2ea-4cdb-a86a-a3d56a43d9bc.lsx:13
 msgctxt "h53557d42g86a5g4fc5gbbcfgdd0a6cecf249"
 msgid "Attendant"
-msgstr ""
+msgstr "참가자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/770d7241-6cd1-47c2-940f-d2066aef4d49.lsx
 #. NodeID = GameObjects
@@ -1183,7 +1184,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/770d7241-6cd1-47c2-940f-d2066aef4d49.lsx:13
 msgctxt "h97a45754g65f1g446agb875gc23e52da9fe9"
 msgid "Refugee"
-msgstr ""
+msgstr "난민"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/02c5c8a8-444b-4b0f-bc25-582a073fd2e8.lsx
 #. NodeID = GameObjects
@@ -1208,7 +1209,7 @@ msgstr "시민"
 #: Shared/Public/SharedDev/RootTemplates/cbb60070-9b32-41f3-ab3b-e65cff9b08b4.lsx:13
 msgctxt "h2fa1680fgb3deg4de0ga89bgb4b9f988808a"
 msgid "Halfling Citizen"
-msgstr ""
+msgstr "하플링 주민"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/9dcfd7aa-9a3e-42e7-842e-23877c260c20.lsx
 #. NodeID = GameObjects
@@ -1218,7 +1219,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/9dcfd7aa-9a3e-42e7-842e-23877c260c20.lsx:13
 msgctxt "hf2d83c73gaf80g4ff2ga4efg6d25c4bf10d4"
 msgid "Citizen"
-msgstr ""
+msgstr "주민"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/11421e21-fe0c-49f4-943c-34909f3ad96b.lsx
 #. NodeID = GameObjects
@@ -1228,7 +1229,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/11421e21-fe0c-49f4-943c-34909f3ad96b.lsx:13
 msgctxt "h5b754780g3cb6g49e3g8ca2g2d384a2d673d"
 msgid "Attendant"
-msgstr ""
+msgstr "참가자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/0fc1e8e9-18e2-407f-8ee2-4de350f15b5f.lsx
 #. NodeID = GameObjects
@@ -19526,7 +19527,7 @@ msgstr "구엑스"
 #: Gustav/Mods/GustavDev/Globals/SCL_Main_A/Characters/_merged.lsx:613
 msgctxt "h5c182d6agcb87g4a0ag8605gab6072c422d3"
 msgid "Servant of Selûne"
-msgstr ""
+msgstr "셀루네의 종"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/SCL_Main_A/Characters/_merged.lsx
 #. NodeID = GameObjects
@@ -19542,7 +19543,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/SCL_Main_A/Characters/_merged.lsx:601
 msgctxt "hf79d994bge201g4ef5g9da1g6f8e0cdd802d"
 msgid "Isobel"
-msgstr ""
+msgstr "이소벨"
 
 #. FilePath = Gustav/Mods/Gustav/Globals/WLD_Main_A/Characters/_merged.lsx
 #. NodeID = GameObjects
@@ -19597,7 +19598,7 @@ msgstr "라파엘"
 #: Gustav/Mods/GustavDev/Globals/SCL_Main_A/Characters/_merged.lsx:2794
 msgctxt "hcd0ad446g1649g4804gad5ag80af5fcf4cb5"
 msgid "Myrkul"
-msgstr ""
+msgstr "머큘"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/END_Main/Characters/_merged.lsx
 #. NodeID = GameObjects
@@ -23281,7 +23282,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_Main_A/Characters/_merged.lsx:52723
 msgctxt "h56e98b50g5effg46aag954dg9518a99f3f3f"
 msgid "Fist J'ehlar"
-msgstr ""
+msgstr "피스트 제라"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_Main_A/Characters/_merged.lsx
 #. NodeID = GameObjects
@@ -51908,7 +51909,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Main_A/Characters/_merged.lsx:7460
 msgctxt "h34212ef3g11bcg4969gb697gba7ef4afe77b"
 msgid "Ha-yoon Kim"
-msgstr ""
+msgstr "김하윤"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Main_A/Characters/_merged.lsx
 #. NodeID = GameObjects

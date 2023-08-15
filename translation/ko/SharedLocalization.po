@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-13 20:53+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-08-15 04:53+0000\n"
+"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/"
 "sharedlocalization/ko/>\n"
 "Language: ko\n"
@@ -84,7 +84,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Localization/ProgressionDescriptions_DisplayName.lsx:15
 msgctxt "h2551509cg162eg46dag9f6dg243bb607b886"
 msgid "Shar's Sight"
-msgstr ""
+msgstr "샤의 시야"
 
 #. key = SharedDev_Shout_DestructiveWave_TooltipOnRollFail
 #. 
@@ -406,14 +406,11 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = ReadyCheck_RegionSwap
 #: Shared/Public/Shared/Localization/ReadyChecks_Descriptions.lsx:57
-#, fuzzy
-#| msgid ""
-#| "Are you ready to move onto your next Adventure? You may be unable to return."
 msgctxt "hf73db232g958eg4f6fgb171gf2ffb945236a"
 msgid ""
 "You are about to progress your adventure. Once you move on, you may not be "
 "able to return. Make sure to tie up any loose ends before advancing! "
-msgstr "다음 모험으로 계속 나아가시겠습니까? 다시 돌아올 수 없을지도 모릅니다."
+msgstr "다음 모험을 진행하려고 합니다. 다시 돌아올 수 없을지도 모릅니다. 진행하기 전에 끝마치지 않은 것들을 마무리 하세요! "
 
 #. key = ReadyCheck_RegionSwap_CanReturn
 #. 
@@ -426,7 +423,7 @@ msgctxt "h7cba185eg98aag4c52g8e37g8c6fcb5dd009"
 msgid ""
 "You are about to progress your adventure. Make sure to tie up any loose ends "
 "before advancing!"
-msgstr ""
+msgstr "다음 모험을 진행하려고 합니다. 진행하기 전에 끝마치지 않은 것들을 마무리 하세요!"
 
 #. key = ReadyCheck_RegionSwap_CanReturn_LowLevel
 #. 
@@ -865,7 +862,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Levels.lsx:8
 msgctxt "h077dd578g3b09g42a4gb861g31b754569ef9"
 msgid "Githyanki Crèche"
-msgstr ""
+msgstr "기스양키 크레셰"
 
 #. key = CRE_Monastery_SUB
 #. 
@@ -876,7 +873,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act1b_Subregions.lsx:22
 msgctxt "h75e422ecg38d9g48ddga908g68084ed967c2"
 msgid "Rosymorn Monastery"
-msgstr ""
+msgstr "장밋빛 아침 수도원"
 
 #. key = CRE_Mountain_SUB
 #. 
@@ -887,7 +884,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act1b_Subregions.lsx:15
 msgctxt "h276c60c7g7670g4a73g8257g76659994af77"
 msgid "Rosymorn Monastery Trail"
-msgstr ""
+msgstr "장밋빛 아침 수도원 오솔길"
 
 #. key = CRE_PlanecasterRoom_SUB
 #. 
@@ -1486,7 +1483,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Misc.lsx:43
 msgctxt "h9b659bc1g872dg4440g87d2gf67f37ae1d1e"
 msgid "Elminster Aumar"
-msgstr ""
+msgstr "엘민스터 아우마르"
 
 #. key = GLO_ThrallOfTheAbsolute_AstralPrism
 #. 
@@ -6036,7 +6033,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:64
 msgctxt "hb326c872gcb67g4e1fga472g3623e26f4ab1"
 msgid "Shadowfell"
-msgstr ""
+msgstr "섀도펠"
 
 #. key = SHA_Sanctum_SUB
 #. 
@@ -6330,7 +6327,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:99
 msgctxt "h79485b46g3631g43fbgb041g909ba04fb92b"
 msgid "Reithwin Masons' Guild"
-msgstr ""
+msgstr "라이스윈 석공 조합"
 
 #. key = TWN_Tollhouse_SUB
 #. 
@@ -6341,7 +6338,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:22
 msgctxt "h3dcd52e0g95f1g4586g95a4g55631f8cc3fd"
 msgid "Reithwin Tollhouse"
-msgstr ""
+msgstr "라이스윈 통행료 징수소"
 
 #. key = TWN_Tollhouse_SecretLair_SUB
 #. 
@@ -6649,7 +6646,7 @@ msgstr "길가의 절벽"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:78
 msgctxt "h232ec9fbg5973g4ca3gaae5g0e06d23a93b2"
 msgid "Crèche Y'llek"
-msgstr ""
+msgstr "크레셰 일레크"
 
 #. key = WAYP_CRE_Exterior
 #. 
@@ -6660,7 +6657,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:71
 msgctxt "hc7b329f3ge6a7g4913gae18g52f1b2e93a73"
 msgid "Trielta Crags"
-msgstr ""
+msgstr "트리엘타 절벽"
 
 #. key = WAYP_CRE_Monastery
 #. 
@@ -6671,7 +6668,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:85
 msgctxt "h4eca312cg5af2g4cb3gab53g458297cfd262"
 msgid "Rosymorn Monastery"
-msgstr ""
+msgstr "장밋빛 아침 수도원"
 
 #. key = WAYP_DEN_Camp
 #. 
@@ -6680,11 +6677,9 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = WAYP_DEN_Camp
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:15
-#, fuzzy
-#| msgid "Silvanus' Grove"
 msgctxt "hb1c65f38gaa8fg4a0agbb07g55713490eef9"
 msgid "Emerald Grove Environs"
-msgstr "실바누스의 숲"
+msgstr "에메랄드 숲 주변"
 
 #. key = WAYP_FOR_Bottomless
 #. 
@@ -6739,7 +6734,7 @@ msgstr "강가의 찻집"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:8
 msgctxt "h637a26d1g7d75g49ffg8241g5c85a19dd837"
 msgid "Last Light Inn"
-msgstr ""
+msgstr "라스트 라이트 여관"
 
 #. key = WAYP_LOW_BaldursGateArea
 #. 
@@ -6761,7 +6756,7 @@ msgstr "발더스 게이트"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:141
 msgctxt "h4e3cced1g705eg4122ga90bg14ed7452038b"
 msgid "Temple of Bhaal"
-msgstr ""
+msgstr "바알의 신전"
 
 #. key = WAYP_LOW_CazadorsPalace
 #. 
@@ -6770,9 +6765,10 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = WAYP_LOW_CazadorsPalace
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:50
+#, fuzzy
 msgctxt "hccb24ec2gdfb0g47f7gad78g2b3d6c821be5"
 msgid "Cazador's Dungeon"
-msgstr ""
+msgstr "카자도르의 지하 감옥"
 
 #. key = WAYP_LOW_CentralWall
 #. 
@@ -6783,7 +6779,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:99
 msgctxt "h0a53b96eg4e61g4507gbda6gd7e3c774f946"
 msgid "Lower City Central Wall"
-msgstr ""
+msgstr "하부 도시 중앙 장벽"
 
 #. key = WAYP_LOW_Cesspool
 #. 
@@ -6794,7 +6790,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:127
 msgctxt "h42e7d83ag89d9g4bacgb9fagd6b122e43aa0"
 msgid "City Sewers"
-msgstr ""
+msgstr "도시 하수도"
 
 #. key = WAYP_LOW_CityBeach
 #. 
@@ -6838,7 +6834,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:92
 msgctxt "hc5a9d8a0g73a0g45bdgaaa8gce37fbbd8570"
 msgid "Basilisk Gate"
-msgstr ""
+msgstr "바실리스크 관문"
 
 #. key = WAYP_LOW_UndercityRuins
 #. 
@@ -6849,7 +6845,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:134
 msgctxt "ha9c3b40bg4b56g45ebg8097gc5d4adb67e86"
 msgid "Undercity Ruins"
-msgstr ""
+msgstr "지하도시 폐허"
 
 #. key = WAYP_MOO_TowerExterior
 #. 
@@ -6860,7 +6856,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:15
 msgctxt "hb6dea9cdgea99g4eeega220ga3f3407913c7"
 msgid "Moonrise Towers"
-msgstr ""
+msgstr "문라이즈 타워"
 
 #. key = WAYP_PLA_Tavern
 #. 
@@ -6882,7 +6878,7 @@ msgstr "와우킨의 쉼터"
 #: Gustav/Mods/Gustav/Localization/Waypointshrines.lsx:29
 msgctxt "h9d6af1d4g60ccg43aagb868gb84df562f9cd"
 msgid "The Risen Road"
-msgstr "솟아오른 길"
+msgstr "치솟은 길"
 
 #. key = WAYP_PLA_ZhentDungeon
 #. 
@@ -6915,7 +6911,7 @@ msgstr "야영지 떠나기"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:162
 msgctxt "h4ff0477eg5154g4c2ag85fbgb40587c3bbed"
 msgid "Road to Baldur's Gate"
-msgstr ""
+msgstr "발더스 게이트로 향하는 길"
 
 #. key = WAYP_SCL_OliverHouse
 #. 
@@ -6926,7 +6922,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:169
 msgctxt "hb545c318g64acg4513g8919g323e1a7fc8fd"
 msgid "Shadowed Battlefield"
-msgstr ""
+msgstr "그림자가 드리운 전장"
 
 #. key = WAYP_SHA_NightsongPrison_Entrance
 #. 
@@ -6937,7 +6933,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:22
 msgctxt "h3a87d28bg29dfg4ae6g87a2g66b1bbb4f371"
 msgid "Verge of the Shadows"
-msgstr ""
+msgstr "그림자의 틈새"
 
 #. key = WAYP_SHA_Temple
 #. 
@@ -6948,7 +6944,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:155
 msgctxt "h24db5261gc912g4e50g892ag138c40beb0dd"
 msgid "Gauntlet of Shar"
-msgstr ""
+msgstr "샤의 시련"
 
 #. key = WAYP_TWN_Center
 #. 
@@ -6959,7 +6955,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:29
 msgctxt "haf7af4edgfa78g4561gaf72gf48740403e84"
 msgid "Reithwin Town"
-msgstr ""
+msgstr "라이스윈 시내"
 
 #. key = WAYP_TWN_Mausoleum
 #. 
@@ -7058,7 +7054,7 @@ msgstr "언더다크 - 수서르 나무"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:43
 msgctxt "h3459c02cgaa5cg4ca3gb47bg1502c37b6483"
 msgid "Rivington"
-msgstr ""
+msgstr "리빙턴"
 
 #. key = WAYP_WYR_SharessCaress
 #. 
@@ -7069,7 +7065,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:57
 msgctxt "h98a10e01gd6c0g4b65gba68g80e9fd519003"
 msgid "South Span of Wyrm's Crossing "
-msgstr ""
+msgstr "고룡 다리 남쪽 구간 "
 
 #. key = WAYP_WYR_WyrmRock
 #. 
@@ -7147,7 +7143,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:50
 msgctxt "he8a783fbg05bbg4a7ega99dg600aefa0eb24"
 msgid "Wyrm's Crossing"
-msgstr ""
+msgstr "고룡 다리"
 
 #. key = WYR_Circus_SUB
 #. 

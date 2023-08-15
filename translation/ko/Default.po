@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-13 20:53+0000\n"
-"Last-Translator: 겐쥐킹 <a8675309@naver.com>\n"
+"PO-Revision-Date: 2023-08-15 04:53+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/default/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -462,7 +462,7 @@ msgstr "[IE_QuickSave] 키를 눌러 빠른 저장이 가능합니다. [IE_Quick
 msgctxt "hf32dddb6g3b5ag4c5ag9993gb911fcba4ac1"
 msgid ""
 "You can lock your hotbar to prevent accidentally moving spells and abilities."
-msgstr "단축창을 고정시켜 주문이나 능력 아이콘이 실수로 이동하는 걸 방지할 수 있습니다."
+msgstr "단축바를 고정시켜 주문이나 능력 아이콘이 실수로 이동하는 걸 방지할 수 있습니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -511,25 +511,23 @@ msgstr "주변 물체를 드래그로 옮길 수 있습니다. 근력이 높은 
 #. HandlePath = Description
 #. HintKey = HINT_MOVE_OBJECTS_PAD
 #: Game/Public/Game/Hints/Hints.lsx:354
-#, fuzzy
 msgctxt "hb4d9d7c8g3c73g4e5dg8546g2b0856021984"
 msgid ""
 "You can move objects in the world by pressing [IE_ContextMenu] to open the "
 "Context Menu and selecting Move."
-msgstr "[IE_ContextMenu] 키를 눌러 컨텍스트 메뉴를 열고, 옮기기를 선택하여 주변 물체를 옮길 수 있습니다."
+msgstr "[IE_ContextMenu] 키를 눌러 상세 메뉴를 열고 옮기기를 선택하여 주변 물체를 옮길 수 있습니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
 #. HandlePath = Description
 #. HintKey = HINT_TACTICALVIEW_CONSOLE
 #: Game/Public/Game/Hints/Hints.lsx:362
-#, fuzzy
 msgctxt "h408acb08g6fadg4f5ag91d5gce255328a472"
 msgid ""
 "Hold [IE_CameraZoomOut] in combat to enter Tactical View. To leave this "
 "view, hold [IE_CameraZoomIn]."
 msgstr ""
-"전투 중에 [IE_CameraZoomOut] 키를 길게 눌러 시야를 전술 모드로 전환할 수 있습니다. 해제하려면 "
+"전투 중에 [IE_CameraZoomOut] 키를 길게 눌러 시야를 전술 모드로 전환할 수 있습니다. 돌아가려면 "
 "[IE_CameraZoomIn] 키를 길게 누르십시오."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
@@ -537,14 +535,13 @@ msgstr ""
 #. HandlePath = Description
 #. HintKey = HINT_HEARING_CRIMES
 #: Game/Public/Game/Hints/Hints.lsx:370
-#, fuzzy
 msgctxt "h733641d5g9062g4e38gba65g4c1e3baa022a"
 msgid ""
 "Even if you can't be seen, some criminal acts can be overheard. <LSTag Type="
 "\"Image\" Info=\"TutorialHide\"/> Hide to reduce noise."
 msgstr ""
-"당신이 보이지 않을지라도 특정 범죄는 소음이 날 수 있습니다. <LSTag Type=\"Image\" Info=\"TutorialHide"
-"\"/> 숨기를 통해 소음을 줄이십시오."
+"당신이 보이지 않아도 특정 범죄는 소음이 날 수 있습니다. <LSTag Type=\"Image\" Info=\"TutorialHide\"/"
+"> 숨기를 통해 소음을 줄이십시오."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -826,15 +823,13 @@ msgstr "윌"
 #. Name = Karlach
 #. Passives = DeathSavingThrows
 #: Gustav/Public/Gustav/Origins/Origins.lsx:136
-#, fuzzy
 msgctxt "hde808ae2g00f3g4658g8c1eg5c2dea714159"
 msgid ""
 "Karlach has escaped ten years of service in the Hells with nothing but the "
 "axe on her back - and the infernal engine blazing furiously where her heart "
 "used to be."
 msgstr ""
-"칼라크는 등에 맨 도끼 한 자루와 한때는 그녀의 심장이 있던 자리에서 맹렬하게 타오르는 지옥의 엔진만을 지닌 채로 지옥에서의 십 년 간의 "
-"복무로부터 탈주하였습니다."
+"칼라크는 등에 맨 도끼 한 자루와 자기 심장을 대체해 맹렬하게 타오르는 지옥의 엔진만 지닌 채 10년을 복무했던 지옥에서 탈주했습니다."
 
 #. FilePath = Gustav/Public/Gustav/Origins/Origins.lsx
 #. NodeID = Origin
@@ -875,8 +870,6 @@ msgstr "파멸의 서기관"
 #. HandlePath = Description
 #. ExactMatch = ActionResourceOverride(ReactionActionPoint,2,0)
 #: Gustav/Public/Gustav/Progressions/ProgressionDescriptions.lsx:34
-#, fuzzy
-#| msgid "Has an additional reaction."
 msgctxt "h1a5433cag9181g43e3g9f64g96e343aa1acc"
 msgid "You have an additional reaction."
 msgstr "추가 반응 행동을 가지고 있습니다."
@@ -973,7 +966,7 @@ msgstr "칼라크의 음성"
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:8
 msgctxt "hb31192e3g460eg46c9g81a5g953e66df08ee"
 msgid "Critical Execution"
-msgstr ""
+msgstr "치명타 처형"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -983,7 +976,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:15
 msgctxt "h1d881b86g5eceg486bg8706g6b9ea9b44795"
 msgid "Paralyzing Critical"
-msgstr ""
+msgstr "마비 치명타"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1021,7 +1014,6 @@ msgstr "방패"
 #. Name = Interrupt_MAG_SecondChance
 #. ReplenishType = Never
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:43
-#, fuzzy
 msgctxt "h70b94fb9gc92cg428eg841dg96b5f6850725"
 msgid "Amulet of Second Chance"
 msgstr "두 번째 기회의 아뮬렛"
@@ -1044,7 +1036,7 @@ msgstr "소마법 연장화"
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:57
 msgctxt "hcacdc7cdgeccdg499eg997dg0515a30f5b62"
 msgid "Close Quarter Spell"
-msgstr ""
+msgstr "근접 주문"
 
 #. FilePath = Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1072,7 +1064,6 @@ msgstr "주문차단"
 #. Name = Interrupt_Scarab_Of_Protection
 #. ReplenishType = Never
 #: Gustav/Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:78
-#, fuzzy
 msgctxt "h7d02c746g1eaeg413cga478g599fd904245f"
 msgid "Scarab of Protection"
 msgstr "보호의 스카라베"
@@ -1134,20 +1125,18 @@ msgstr ""
 #. HandlePath = DisplayName
 #. Identifier = CE_Status_LOW_RAPHAEL_PILLARCOUNTER_1_False
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:20
-#, fuzzy
 msgctxt "h56b5082ag099eg4d90g91cfg3b87828c122e"
 msgid "Soul Pillar Proximity"
-msgstr "영혼의 기둥 가까움"
+msgstr "영혼 기둥 근접성"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
 #. HandlePath = DisplayName
 #. Identifier = CE_Status_LOW_RAPHAEL_PILLARCOUNTER_1_True
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:27
-#, fuzzy
 msgctxt "hd6d881cag5d8fg4608g8495g3233b0763449"
 msgid "Proximity to Pillar"
-msgstr "기둥과 가까움"
+msgstr "기둥 근접성"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1156,7 +1145,7 @@ msgstr "기둥과 가까움"
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:34
 msgctxt "h28a5b507geaeeg44f3ga907g3b210dd48994"
 msgid "Soul Pillar Proximity"
-msgstr "영혼의 기둥 가까움"
+msgstr "영혼 기둥 근접성"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1165,7 +1154,7 @@ msgstr "영혼의 기둥 가까움"
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:41
 msgctxt "h1a9e355fg9af7g4ec6g9c69ga398fec670f9"
 msgid "Soul Pillar Proximity"
-msgstr "영혼의 기둥 가까움"
+msgstr "영혼 기둥 근접성"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1174,7 +1163,7 @@ msgstr "영혼의 기둥 가까움"
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:48
 msgctxt "he1841812g7e91g437fg81aag2dc015b85764"
 msgid "Proximity to Pillar"
-msgstr ""
+msgstr "기둥 근접성"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1183,7 +1172,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:55
 msgctxt "h2d73cb0egd00fg4832ga34cg7b814ab20e5e"
 msgid "Soul Pillar Proximity"
-msgstr ""
+msgstr "영혼 기둥 근접성"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1192,7 +1181,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:62
 msgctxt "h23def009g557eg4638g97b0gda70ddbba5e0"
 msgid "Soul Pillar Proximity"
-msgstr ""
+msgstr "영혼 기둥 근접성"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1201,7 +1190,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:69
 msgctxt "h0b630447ge2a1g4f4ag91ddgf2774bbdc4c3"
 msgid "Soul Pillar Proximity"
-msgstr ""
+msgstr "영혼 기둥 근접성"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1210,7 +1199,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:76
 msgctxt "h4e481dc4g1dd7g4202gb30eg5d9a429d7a7f"
 msgid "Soul"
-msgstr ""
+msgstr "영혼"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1219,7 +1208,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:83
 msgctxt "h91d1694eg7575g4596g93fbgbaeb19d36710"
 msgid "Victim"
-msgstr ""
+msgstr "희생자"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1228,7 +1217,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:90
 msgctxt "hdcb38faeg524dg47c8ga68ag5cb0240c06fc"
 msgid "Victim"
-msgstr ""
+msgstr "희생자"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1237,7 +1226,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:97
 msgctxt "h46f506a5g767eg4607gbec3g16f13bbd5fd9"
 msgid "Incapacitated"
-msgstr ""
+msgstr "무력화"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1246,7 +1235,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:104
 msgctxt "h0663feffgbc65g47b1ga704gef8e414d6311"
 msgid "Incapacitated"
-msgstr ""
+msgstr "무력화"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1255,7 +1244,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:111
 msgctxt "hdf9568a0g1c58g45b7g9c55g408312eabfb1"
 msgid "Invalid move - Bishops move in straight, diagonal lines."
-msgstr ""
+msgstr "불가능한 행마 - 비숍은 대각선을 직선으로 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1264,7 +1253,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:117
 msgctxt "he58cb488g68e4g42dcg8b15g20fb80f7b9c7"
 msgid "Raphael cannot cast certain spells when in Monster Form"
-msgstr ""
+msgstr "라파엘은 괴물 형태에서는 특정 주문을 시전할 수 없습니다"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1273,7 +1262,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:124
 msgctxt "h8f43baadg9bbbg460bg9c8cgb2c6cc8fc35c"
 msgid "Invalid move - Kings move 1 tile in any direction."
-msgstr ""
+msgstr "불가능한 행마 - 킹은 가로, 세로 및 대각선으로 1칸씩만 움직일 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1282,7 +1271,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:130
 msgctxt "haba734e2g4504g4cdegb8e0gd7d692f134af"
 msgid "Invalid move - Kings move 1 tile in any direction."
-msgstr ""
+msgstr "불가능한 행마 - 킹은 가로, 세로 및 대각선으로 1칸씩만 움직일 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1294,6 +1283,7 @@ msgid ""
 "Invalid move - Pawns move 1 tile forward, or 2 tiles if on their original "
 "position, and capture diagonally."
 msgstr ""
+"불가능한 행마 - 폰은 1칸 전진 또는 이동하지 않았을 경우 2칸 전진, 그리고 공격할 때 앞쪽 대각선으로 1칸만 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1305,6 +1295,7 @@ msgid ""
 "Invalid move - Pawns move 1 tile forward, or 2 tiles if on their original "
 "position, and capture diagonally."
 msgstr ""
+"불가능한 행마 - 폰은 1칸 전진 또는 이동하지 않았을 경우 2칸 전진, 그리고 공격할 때 앞쪽 대각선으로 1칸만 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1316,6 +1307,7 @@ msgid ""
 "Invalid move - Pawns move 1 tile forward, or 2 tiles if on their original "
 "position, and capture diagonally."
 msgstr ""
+"불가능한 행마 - 폰은 1칸 전진 또는 이동하지 않았을 경우 2칸 전진, 그리고 공격할 때 앞쪽 대각선으로 1칸만 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1327,6 +1319,7 @@ msgid ""
 "Invalid move - Pawns move 1 tile forward, or 2 tiles if on their original "
 "position, and capture diagonally."
 msgstr ""
+"불가능한 행마 - 폰은 1칸 전진 또는 이동하지 않았을 경우 2칸 전진, 그리고 공격할 때 앞쪽 대각선으로 1칸만 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1338,6 +1331,7 @@ msgid ""
 "Invalid move - Pawns move 1 tile forward, or 2 tiles if on their original "
 "position, and capture diagonally."
 msgstr ""
+"불가능한 행마 - 폰은 1칸 전진 또는 이동하지 않았을 경우 2칸 전진, 그리고 공격할 때 앞쪽 대각선으로 1칸만 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1349,6 +1343,7 @@ msgid ""
 "Invalid move - Pawns move 1 tile forward, or 2 tiles if on their original "
 "position, and capture diagonally."
 msgstr ""
+"불가능한 행마 - 폰은 1칸 전진 또는 이동하지 않았을 경우 2칸 전진, 그리고 공격할 때 앞쪽 대각선으로 1칸만 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1360,6 +1355,7 @@ msgid ""
 "Invalid move - Pawns move 1 tile forward, or 2 tiles if on their original "
 "position, and capture diagonally."
 msgstr ""
+"불가능한 행마 - 폰은 1칸 전진 또는 이동하지 않았을 경우 2칸 전진, 그리고 공격할 때 앞쪽 대각선으로 1칸만 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1368,7 +1364,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:178
 msgctxt "h782da038g2eb9g4beega057gb432216c3f70"
 msgid "Invalid move - Queens move in straight lines in any direction"
-msgstr ""
+msgstr "불가능한 행마 - 퀸은 좌우, 상하, 대각선 모든 방향으로 직선 이동이 가능합니다"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1377,7 +1373,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:184
 msgctxt "hf1b851feg6a99g4b6dgb7d3g2734d348c882"
 msgid "Invalid move - Queens move in straight lines in any direction"
-msgstr ""
+msgstr "불가능한 행마 - 퀸은 좌우, 상하, 대각선 모든 방향으로 직선 이동이 가능합니다"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1386,7 +1382,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:190
 msgctxt "h5fe2950bg23fcg41b7gbbc6gadfac4101ab0"
 msgid "Invalid move - Rooks move horizontally or vertically, in straight lines"
-msgstr ""
+msgstr "불가능한 행마 - 룩은 좌우 또는 상하 직선 방향으로 움직입니다"
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1395,7 +1391,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:196
 msgctxt "hda67a1cagf5b4g4badg91b1g88f93975f5b0"
 msgid "Invalid move - Rooks move horizontally or vertically, in straight lines"
-msgstr ""
+msgstr "불가능한 행마 - 룩은 좌우 또는 상하 직선 방향으로 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1404,7 +1400,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:202
 msgctxt "h892d48c6ga3fbg4f48gba15g6fc71205ff31"
 msgid "Invalid move - Bishops move in straight, diagonal lines."
-msgstr ""
+msgstr "불가능한 행마 - 비숍은 대각선을 직선으로 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1416,6 +1412,7 @@ msgid ""
 "Invalid move - Pawns move 1 tile forward, or 2 tiles if on their original "
 "position, and capture diagonally."
 msgstr ""
+"불가능한 행마 - 폰은 1칸 전진 또는 이동하지 않았을 경우 2칸 전진, 그리고 공격할 때 앞쪽 대각선으로 1칸만 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1424,7 +1421,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:214
 msgctxt "hc09d43e5g3b63g4896g8755gbcfe053b859a"
 msgid "Invalid move - Knights move 1 tile in one direction, 2 in the other."
-msgstr ""
+msgstr "불가능한 행마 - 나이트는 1칸 한 방향, 그리고 2칸 다른 방향으로 이동할 수 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1433,7 +1430,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:232
 msgctxt "ha8b2f103g8832g4746gb44bg7c72957b7407"
 msgid "Target is not the Crown of Karsus."
-msgstr ""
+msgstr "대상이 카서스의 왕관이 아닙니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1487,7 +1484,7 @@ msgstr "긴 휴식을 취해야 합니다."
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:268
 msgctxt "hdb253db0g5274g434fgb6f9gaf41ad18da46"
 msgid "Target must be wearing the matching ring."
-msgstr ""
+msgstr "대상이 알맞은 반지를 착용하고 있어야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1496,7 +1493,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:274
 msgctxt "h449a1af8gf249g4119g9e43g4349e201b0e4"
 msgid "Can't be cast while your new parasite adjusts to your mind and magic."
-msgstr ""
+msgstr "새로운 기생충이 당신의 정신과 마법에 적응하기 전까지 시전할 수 없습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1514,7 +1511,7 @@ msgstr "짧은 휴식을 취해야 합니다."
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:286
 msgctxt "hab62305cga202g4c3bgbc39gd4d225762ea2"
 msgid "Can be used next turn."
-msgstr ""
+msgstr "다음 턴에 사용 가능."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1577,7 +1574,7 @@ msgstr "짧은 휴식을 취해야 합니다."
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:328
 msgctxt "h26badc0age24dg4b6bg83ffg48b1e07e6f66"
 msgid "All Harpers have perished."
-msgstr ""
+msgstr "하퍼가 전부 죽었습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1586,7 +1583,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:334
 msgctxt "h36227353g0c92g4a74ga0e4g2edd97cf249a"
 msgid "Nightsong can no longer help."
-msgstr ""
+msgstr "나이트송은 더이상 도움을 줄 수 없습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1595,7 +1592,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:340
 msgctxt "h45c5a901g3edag4969g9f0dg991d84ccd7a1"
 msgid "The owlbear cub has succumbed to its wounds."
-msgstr ""
+msgstr "새끼 아울베어가 상처를 입고 쓰러졌습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1604,7 +1601,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:346
 msgctxt "h04028a50g6ccbg415egbd05geb8ba93470ac"
 msgid "Rolan has provided all the support he can."
-msgstr ""
+msgstr "롤란이 최선을 다해 도왔습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1613,7 +1610,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:352
 msgctxt "h5f675470g16fcg4b64gb90fg56db0989429f"
 msgid "All of the Iron Hand Grenadiers have died in battle."
-msgstr ""
+msgstr "전투 중 아이언핸드 척탄병이 모두 죽었습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1622,7 +1619,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:358
 msgctxt "h35709900gcaceg4481g97f2gc979b8bccdb2"
 msgid "All allies of the City Watch have perished."
-msgstr ""
+msgstr "시티워치의 모든 동맹이 죽었습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1631,7 +1628,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:364
 msgctxt "h653513e0gafb8g4ee6g9923g71fe3f05f1ea"
 msgid "All veterans have died."
-msgstr ""
+msgstr "베테랑이 모두 죽었습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1640,7 +1637,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:370
 msgctxt "hef9d46eag5c21g429fg9889g84d0a7f6b9d9"
 msgid "The Steel Watcher has died in combat."
-msgstr ""
+msgstr "강철 감시자가 전투에서 사망하였습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1649,7 +1646,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:376
 msgctxt "hfe571ac6g63a6g49e4gb9f3gfbda3070f6ee"
 msgid "Voss has provided all the support he can."
-msgstr ""
+msgstr "보스는 할 수 있는 모든 지원을 다 제공했습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1658,7 +1655,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:382
 msgctxt "h397f8a07g0d92g4e89gb578g57c4f343f974"
 msgid "The Orthon has returned to the Hells and can no longer be summoned."
-msgstr ""
+msgstr "오르쏜은 지옥으로 되돌아갔으며 다시는 소환 할 수 없습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1667,7 +1664,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:388
 msgctxt "h65d6a730gb473g44a3g87a3ge4889bc31c3b"
 msgid "Lady Keene's personal guard has fallen in battle."
-msgstr ""
+msgstr "여군주 키네의 직속 호위병들이 전투에서 쓰러졌습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1676,7 +1673,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:394
 msgctxt "ha9504775g0930g49edgb6b8g4a4062087739"
 msgid "The Elite Zhentarim units have fallen."
-msgstr ""
+msgstr "정예 젠타림 부대가 쓰러졌습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1685,7 +1682,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:400
 msgctxt "h9d64c11dg5742g4dc3ga195gb2a45882d115"
 msgid "All creatures have been killed."
-msgstr ""
+msgstr "모든 크리쳐가 살해 당했습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1694,7 +1691,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:406
 msgctxt "he09b5c0bge58dg4832g93afg119979775161"
 msgid "Isobel's power has already been spent."
-msgstr ""
+msgstr "이소벨의 힘을 이미 사용했습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1703,7 +1700,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:412
 msgctxt "h6669d62dgea70g4db1g90f6g27610303bf00"
 msgid "Mizora has returned to the Hells and is unavailable."
-msgstr ""
+msgstr "미조라는 지옥으로 돌아갔고 사용 할 수 없습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1712,7 +1709,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:418
 msgctxt "h64a8cc50gbb38g49d0g8567g0f2f1afab6d7"
 msgid "The Sharran Shadow Adepts have fallen in battle."
-msgstr ""
+msgstr "샤 신도 그림자 숙련병들이 전투에서 쓰러졌습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1721,7 +1718,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:424
 msgctxt "h173f9a5ag57f8g42e0g9751g03d92712005f"
 msgid "All allies of the Flaming Fist have fallen."
-msgstr ""
+msgstr "모든 플레이밍 피스트 동맹군이 쓰러졌습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1730,7 +1727,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:430
 msgctxt "h14d458f2ge976g474egacbeg1f08af5f804a"
 msgid "Ethel's power has already been spent."
-msgstr ""
+msgstr "에텔의 힘을 이미 사용했습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1739,7 +1736,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:436
 msgctxt "h03611b35g453ag49b0g8523g105b880c3c07"
 msgid "All Gur reinforcements were killed in action."
-msgstr ""
+msgstr "모든 걸 지원 병력이 전투에서 사망하였습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -1748,7 +1745,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:442
 msgctxt "h7c547d09gc02ag4291ga499g04b111fbe049"
 msgid "The Phasm has died."
-msgstr ""
+msgstr "파즘이 사망하였습니다."
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1759,7 +1756,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx:45
 msgctxt "hc8611b18ga677g409ag9897g416d891a25ac"
 msgid "Gortash's Hand"
-msgstr ""
+msgstr "고르타쉬의 손"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1771,7 +1768,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx:84
 msgctxt "h91ed3d48g2a14g4e9fg9e59gb3eafc39bea3"
 msgid "Strange Apple"
-msgstr ""
+msgstr "이상한 사과"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1782,7 +1779,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx:126
 msgctxt "hfd5b788cgbac6g43dbgb4cdg874f1cfb1372"
 msgid "Gortash's Netherstone"
-msgstr ""
+msgstr "고르타쉬의 네더스톤"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1797,6 +1794,7 @@ msgid ""
 "pocket if sold. Very useful... were it not for the fact that it is the "
 "circus genie who owns it."
 msgstr ""
+"판매했을 때 소유자의 주머니로 되돌아오는 대단히 충성스러운 보석. 굉장히 유용합니다... 서커스 지니가 가지고 있지 않더라도 말이죠."
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1807,7 +1805,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx:164
 msgctxt "h25899f37g884fg4db8g9963ga8d1172b555f"
 msgid "Gem of Restitution"
-msgstr ""
+msgstr "반환의 보석"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1818,7 +1816,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx:279
 msgctxt "h66819b39g7537g4a7bg8db9geeb45392b020"
 msgid "The Legend of Ansur"
-msgstr ""
+msgstr "안수르의 전설"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1829,7 +1827,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx:332
 msgctxt "he8fd3ca7gd671g43b8gae61g78a634174bd6"
 msgid "Ring of Murderous Opportunity"
-msgstr ""
+msgstr "살인적인 기회의 반지"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1841,7 +1839,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx:383
 msgctxt "hfe4fa8eegbb90g471bgb427gb3a853ceae6a"
 msgid "Counting House Vault 5 Key"
-msgstr ""
+msgstr "회계사무소 5번 금고 키"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/BG_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1853,7 +1851,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/BG_Main_A/Items/_merged.lsx:8
 msgctxt "h1b0835ddg671fg4b6cga3afg5d8349b433d5"
 msgid "Necklace of Ears"
-msgstr ""
+msgstr "귀의 목걸이"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/BG_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1864,7 +1862,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/BG_Main_A/Items/_merged.lsx:46
 msgctxt "h7173085bga740g44b1gb661g55c644205203"
 msgid "Mist Portal"
-msgstr ""
+msgstr "안개 포탈"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1875,7 +1873,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CRE_Main_A/Items/_merged.lsx:83
 msgctxt "h9b3da45age14cg4c7fga5a8g37034319e762"
 msgid "A round slate with circular symbols etched into it."
-msgstr ""
+msgstr "원형의 문양들이 새겨져 있는 둥근 판."
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1886,7 +1884,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CRE_Main_A/Items/_merged.lsx:84
 msgctxt "he50c912cg3281g4ba6g8c36g7faebe9f2da6"
 msgid "Orpheus, Prince of the Comet, Part Two: Sacrifice"
-msgstr ""
+msgstr "오르페우스, 혜성의 왕자, 두 번째 단계: 희생"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1898,7 +1896,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CRE_Main_A/Items/_merged.lsx:177
 msgctxt "h010b79fegacd2g4316ga044ga162c5477ea1"
 msgid "Githyanki Egg"
-msgstr ""
+msgstr "기스양키 알"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1910,7 +1908,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:44
 msgctxt "h2dad0b57g8416g4c87ga78ag9cd808e33a1e"
 msgid "The Annals of Karsus"
-msgstr ""
+msgstr "카서스의 연대기"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1924,7 +1922,7 @@ msgctxt "ha7b7c30bgaee7g4d00gb6aag7e6b6f84f19d"
 msgid ""
 "Notes on a certain crown named after its creator; used to unmake magic at "
 "its very arcane foundations."
-msgstr ""
+msgstr "마법을 가장 근원적인 수준에서부터 풀어내기 위해 만들어진, 제작자의 이름을 딴 어떤 왕관에 대한 메모."
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1936,7 +1934,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:140
 msgctxt "h1f185bc0g644dg42b6gb2ceg921638178fb7"
 msgid "Letter with Sticky Red Blots"
-msgstr ""
+msgstr "빨갛고 끈적이는 얼룩이 묻은 편지"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1949,7 +1947,7 @@ msgctxt "hb832e679g0216g4843gbca3g1cff4ba76f95"
 msgid ""
 "This stone once belonged to Orin, and is one of three controllers of the "
 "Crown of Karsus."
-msgstr ""
+msgstr "이 돌은 한 때 카서스의 왕관의 세 조종자 중 하나였던 오린의 것 이였습니다."
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1960,7 +1958,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:233
 msgctxt "h1c1bb67eg64adg4f66g9d51g2c9e83fe5065"
 msgid "Orin's Netherstone"
-msgstr ""
+msgstr "오린의 네더스톤"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1972,7 +1970,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:392
 msgctxt "h40ae6751gc692g4103g97b4g10d672d6a99b"
 msgid "Crumpled Note Scrawled in Blood"
-msgstr ""
+msgstr "피로 갈겨쓴 구겨진 노트"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1985,7 +1983,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:484
 msgctxt "h4c946553g67e9g4b9bgb9ebg5285946a00ff"
 msgid "Bloodthirst"
-msgstr ""
+msgstr "피의 갈증"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1996,7 +1994,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:565
 msgctxt "hc23c4a68gccc5g4f57g91c5g1355bf2ead1b"
 msgid "Dirge of The Unholy Assassin"
-msgstr ""
+msgstr "부정한 암살자의 애가"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2007,7 +2005,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:616
 msgctxt "hbe525af8ge682g4ff9gbb3eg824a3264c10e"
 msgid "Netherstone-Pomelled Bloodthirst"
-msgstr ""
+msgstr "네더스톤-자루화 된 피의 갈증"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2019,7 +2017,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:657
 msgctxt "h9d744192g5330g4a69gb817gbd5f454e541b"
 msgid "Kudos on the Murder of Gortash!"
-msgstr ""
+msgstr "고르타쉬 살해에 찬사를!"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2030,7 +2028,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:716
 msgctxt "h6e1b0b41g4563g4556ga104gf08dbe2787b2"
 msgid "Severed Hand"
-msgstr ""
+msgstr "잘린 손"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2041,7 +2039,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:757
 msgctxt "h2bade58ag2285g48c3g9d6cg49cd3d3d3027"
 msgid "Slightly Slimy Note"
-msgstr ""
+msgstr "살짝 끈적이는 메모"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2053,7 +2051,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:849
 msgctxt "hf6e8d400g4ccdg4be6gb20eg8f144305f0ea"
 msgid "Torch of Revocation"
-msgstr ""
+msgstr "취소의 횃불"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2064,7 +2062,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:999
 msgctxt "hbb63ad4egcf4cg4830gae6aga3ea57d2a5c4"
 msgid "Letter to Oskar Fervas"
-msgstr ""
+msgstr "오스카 퍼바스 한테의 편지"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2075,7 +2073,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:1113
 msgctxt "hdeee7d88g56e4g431cg8f76gee2cfd96afd3"
 msgid "Severed Hand"
-msgstr ""
+msgstr "잘린 손"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2086,7 +2084,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:1154
 msgctxt "h35ba5368g5051g4904g9797g09ec9cbdb0ef"
 msgid "Severed Hand"
-msgstr ""
+msgstr "잘린 손"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2097,7 +2095,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:1231
 msgctxt "h0db24b53g997ag4d28gaa1fgf42480b9bbcd"
 msgid "The Elder Brain"
-msgstr ""
+msgstr "엘더 브레인"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2109,7 +2107,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx:1276
 msgctxt "h1a13da6egf3ddg42bcga210g289fc1c39c0d"
 msgid "Kudos on the Murder of Gortash!"
-msgstr ""
+msgstr "고르타쉬 살해에 찬사를!"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/INT_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2120,7 +2118,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/INT_Main_A/Items/_merged.lsx:8
 msgctxt "h0e2c2b35g7429g401bgb5cbg609f118459e9"
 msgid "Volo's Note (Read)"
-msgstr ""
+msgstr "볼로의 쪽지 (읽음)"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/INT_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2131,7 +2129,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/INT_Main_A/Items/_merged.lsx:9
 msgctxt "hf9e3b7b2g1f87g4c44ga7abg913280a2b423"
 msgid "Volo's Note"
-msgstr ""
+msgstr "볼로의 쪽지"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/INT_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2142,7 +2140,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/INT_Main_A/Items/_merged.lsx:17
 msgctxt "h5e9f3d4cg48c3g4f06ga79ag59dfc8ba7c70"
 msgid "Volo's Note (Unread)"
-msgstr ""
+msgstr "볼로의 쪽지 (읽지 않음)"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/IRN_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2154,7 +2152,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/IRN_Main_A/Items/_merged.lsx:8
 msgctxt "h202499e5gfc3cg4395gb25cgd816e83710b9"
 msgid "Heavy Iron Key"
-msgstr ""
+msgstr "무거운 쇠 열쇠"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/IRN_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2166,7 +2164,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/IRN_Main_A/Items/_merged.lsx:9
 msgctxt "h7d8ca399g6633g4079gbaa5g309488d2edd6"
 msgid "Counting House Vault 6 Key"
-msgstr ""
+msgstr "회계 사무소 6번 금고 열쇠"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2177,7 +2175,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/SCL_Main_A/Items/_merged.lsx:8
 msgctxt "h7aafb392g5a5ag4d4fg94d2g0c59520438b8"
 msgid "Ketheric's Netherstone"
-msgstr ""
+msgstr "케서릭의 네더스톤"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2188,7 +2186,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/SCL_Main_A/Items/_merged.lsx:86
 msgctxt "hbe1b4ebcgde93g4e01g8502g9835f850afce"
 msgid "Shadowfell Exit"
-msgstr ""
+msgstr "섀도펠 출구"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2199,7 +2197,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/SCL_Main_A/Items/_merged.lsx:512
 msgctxt "h90dffb60gdb34g49efgb976g5ef326a0f10f"
 msgid "A round slate with circular symbols etched into it."
-msgstr ""
+msgstr "원형 문양들이 새겨져 있는 둥근 판."
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2210,7 +2208,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/SCL_Main_A/Items/_merged.lsx:513
 msgctxt "h96cd8f0ag004bg49f0gbf00gf07ee363e700"
 msgid "Engraved Githyanki Disc"
-msgstr ""
+msgstr "각인된 기스양키 원반"
 
 #. FilePath = Gustav/Mods/Gustav/Globals/TUT_Avernus_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2260,7 +2258,7 @@ msgstr "어두운 정신"
 #: Gustav/Mods/GustavDev/Globals/WLD_Main_A/Items/_merged.lsx:65
 msgctxt "h6e629f82gd0f9g423ag9c77gebe1ac6e1354"
 msgid "A round slate with circular symbols etched into it."
-msgstr ""
+msgstr "원형 문양이 새겨져 있는 둥근 판."
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2271,7 +2269,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/WLD_Main_A/Items/_merged.lsx:66
 msgctxt "h868e2710ga3a9g4764gbcb8g7798d06b2ed6"
 msgid "Engraved Githyanki Disc"
-msgstr ""
+msgstr "각인된 기스양키 원반"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2282,7 +2280,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/WLD_Main_A/Items/_merged.lsx:227
 msgctxt "h5e24bbd9g84b9g4e55g89b0gba622c01cb1b"
 msgid "The Careful Art of Tir'su Ciphers"
-msgstr ""
+msgstr "티르수 암호의 섬세한 예술"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2293,7 +2291,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Globals/WLD_Main_A/Items/_merged.lsx:315
 msgctxt "h4a6e0646g1a95g40ebgaab4gdf6c80958fc2"
 msgid "Sceleritas Fel"
-msgstr ""
+msgstr "스켈레리타스 펠"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2310,6 +2308,8 @@ msgid ""
 "is finally free - free to walk in the sun, free to chase power, and free to "
 "take revenge."
 msgstr ""
+"200년 동안이나 잔인한 주인을 섬기고 나서야, 뱀파이어 스폰 아스타리온은 마침내 자유가 되었습니다 - 태양 아래를 걷는 것도, 힘을 "
+"쫓는 것도, 복수를 하는 것 도 자유입니다."
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2338,6 +2338,8 @@ msgid ""
 "world she doesn't understand, and find a way to serve her people in a plane "
 "that despises her militant kin."
 msgstr ""
+"레이젤은 기스양키 군인으로써 자비 없이 별 들 사이를 누비며 우주를 정복하기 위해 자라왔습니다. 추락한 뒤론, 그녀는 전투 종족인 그녀의 "
+"동족을 혐오하는 이 이해하지 못 할 세상에서, 그녀의 종족을 위해 봉사할 방법을 찾아야 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2362,6 +2364,8 @@ msgid ""
 "Gale's wizarding prowess once earned him the love of Mystra, the goddess of "
 "magic, until his ambition led him to the brink of catastrophe..."
 msgstr ""
+"게일은 한 때 마법 실력 으로 마법의 여신인 미스트라의 사랑까지 얻은 적 이 있습니다, 그의 야망이 그를 재앙의 구렁텅이로 몰아넣기 전 "
+"까지 말이죠..."
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2387,6 +2391,8 @@ msgid ""
 "protect the secrets of her fellow Shar worshippers. Loss and pain are sacred "
 "to her, but her faith is now being tested like never before."
 msgstr ""
+"섀도하트는 동료 샤 숭배자들의 비밀을 보호하기 위해 기억을 지우는 의식까지 기꺼이 받아들였습니다. 상실과 고통은 그녀에게 성스러운 것 "
+"입니다, 그런데 지금, 그녀의 믿음은 그 어느 때 보다 시험 받고 있습니다."
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2413,6 +2419,8 @@ msgid ""
 "an offer of greater power, forcing him into an infernal game he is "
 "struggling to play."
 msgstr ""
+"'변경의 칼날'로 알려진 윌은, 소드 코스트를 어지럽히는 괴물과 데빌들을 쓰러뜨리기 위해 마법을 사용합니다. 가장 절박했던 순간에, 그는 "
+"더 강력한 힘을 위해 거래를 했고, 그는 이제 지옥과도 같은 게임을 시작해야만 합니다."
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2439,6 +2447,10 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/>Your appearance and class can be "
 "fully customised."
 msgstr ""
+"당신이 기억하는 것이라고는 피로 점철된 길밖엔 없습니다. 상상하기도 힘든 잔인함이 당신 내면에서 속삭입니다. 과연 이로부터 달아날 수 "
+"있을까요? 애초에 달아나길 원하나요?\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/>외형과 직업 모두 커스터마이징 가능합니다."
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2448,7 +2460,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:162
 msgctxt "he84eadacg324cg4a52g9a92g13c1970f7115"
 msgid "The Dark Urge"
-msgstr ""
+msgstr "어두운 충동"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2458,7 +2470,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:190
 msgctxt "ha12e8e69gd30ag423fgb57cgb8af04c72ede"
 msgid "Jaheira"
-msgstr ""
+msgstr "자헤이라"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2468,7 +2480,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:212
 msgctxt "hc63fce05g66c5g43f3g8855gd6d5f002290c"
 msgid "Minthara"
-msgstr ""
+msgstr "민타라"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2478,7 +2490,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:234
 msgctxt "h5fa74864gae7bg4a5fg8dfega9af07431c42"
 msgid "Minsc"
-msgstr ""
+msgstr "민스크"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2488,7 +2500,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:255
 msgctxt "h7c2d52eeg0d71g4ba4g8ce5g96af05689e78"
 msgid "Halsin"
-msgstr ""
+msgstr "할신"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2498,7 +2510,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:277
 msgctxt "h1e6f28ceg6e59g4564gae2eg8faacc05b7f7"
 msgid "Alfira"
-msgstr ""
+msgstr "알피라"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2514,6 +2526,10 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/>Your appearance and class can be "
 "fully customised."
 msgstr ""
+"당신이 기억하는 것이라고는 피로 점철된 길밖엔 없습니다. 상상하기도 힘든 잔인함이 당신 내면에서 속삭입니다. 과연 이로부터 달아날 수 "
+"있을까요? 애초에 달아나길 원하나요?\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/>외형과 직업 모두 커스터마이징 가능합니다."
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2523,7 +2539,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:301
 msgctxt "h7df1e27dgb7e4g40a7gad69gd3624accb385"
 msgid "The Dark Urge"
-msgstr ""
+msgstr "어두운 충동"
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2534,7 +2550,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Origins/Origins.lsx:331
 msgctxt "hc012761egbc0bg45f5ga42dga49d1bdc1714"
 msgid "Losiir"
-msgstr ""
+msgstr "로시르"
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -2552,8 +2568,6 @@ msgstr "행동이 부족함"
 #. Name = BonusActionPoint
 #. ReplenishType = Turn
 #: Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:18
-#, fuzzy
-#| msgid "Your secondary resource for combat."
 msgctxt "he0e99cd2g0e0dg4e68ga411g1ddbb114a19b"
 msgid "Your secondary resource in combat."
 msgstr "전투에 사용하는 부가적인 자원입니다."
@@ -2564,19 +2578,14 @@ msgstr "전투에 사용하는 부가적인 자원입니다."
 #. Name = ReactionActionPoint
 #. ReplenishType = Turn
 #: Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:27
-#, fuzzy
-#| msgid ""
-#| "Reactions, such as <LSTag Tooltip=\"OpportunityAttack\">Opportunity Attacks</"
-#| "LSTag>, occur in response to another creature's <LSTag Tooltip=\"Action\""
-#| ">action</LSTag>."
 msgctxt "hb8abe274g41c8g481dgbd39g8a1c1c692457"
 msgid ""
 "Reactions, such as <LSTag Tooltip=\"OpportunityAttack\">Opportunity Attacks</"
 "LSTag>, are responses you can have to events. Reactions can trigger both "
 "during and outside of your turn."
 msgstr ""
-"<LSTag Tooltip=\"OpportunityAttack\">기회 공격</LSTag>과 같은 반응 행동은, "
-"다른 크리쳐의 <LSTag Tooltip=\"Action\">행동</LSTag>에 대응해 발생합니다."
+"<LSTag Tooltip=\"OpportunityAttack\">기회 공격</LSTag>과 같은 반응 행동은 사건에 대해 사용자가 할 "
+"수 있는 반응입니다. 반응 행동은 당신이나 다른 사람의 턴일때 사용 가능합니다."
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -2584,8 +2593,6 @@ msgstr ""
 #. Name = Movement
 #. ReplenishType = Turn
 #: Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:36
-#, fuzzy
-#| msgid "Movement Speed determines how far you can move per turn."
 msgctxt "hc76c8721g97e6g4d63gb106g1ab1dba11266"
 msgid "Movement speed determines how far you can move per turn."
 msgstr "이동 속도는 한 턴에 이동할 수 있는 거리를 나타냅니다."
@@ -2715,7 +2722,7 @@ msgctxt "h8ab829e5g69d0g4319g95c5g93128aa37f69"
 msgid ""
 "Ki is the magic that flows through all living beings. You can use Ki Points "
 "to fuel your advanced monk techniques."
-msgstr ""
+msgstr "기는 모든 생명에 깃든 마법입니다. 기 점수를 고급 몽크 기술로 사용할 수 있습니다."
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -2899,18 +2906,14 @@ msgstr "짧은 휴식 횟수"
 #. Name = ArcaneRecoveryPoint
 #. ReplenishType = Rest
 #: Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:170
-#, fuzzy
-#| msgid ""
-#| "The number and level of <LSTag Tooltip=\"SpellSlot\">spell slots</LSTag> the "
-#| "Arcane Recovery action can restore."
 msgctxt "h7387ca0ag0abag4c7fgaa69ga6b41f39c7de"
 msgid ""
 "The number and level of <LSTag Tooltip=\"SpellSlot\">spell slots</LSTag> the "
 "Arcane Recovery action can restore. You cannot restore spell slots above 5th "
 "level."
 msgstr ""
-"비전 복원 행동을 사용해 복구할 수 있는 <LSTag Tooltip=\"SpellSlot\">주문 "
-"슬롯</LSTag>의 개수와 레벨을 나타냅니다."
+"비전 회복 행동을 사용해 회복할 수 있는 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>의 개수와 레벨을 "
+"나타냅니다. 5레벨을 넘는 주문 슬롯은 회복할 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -2920,7 +2923,7 @@ msgstr ""
 #: Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:171
 msgctxt "h675a67b7g1cc1g4b9ag9536gf42e0b6a4a17"
 msgid "Arcane Recovery Charge"
-msgstr "비전 복원 횟수"
+msgstr "비전 회복 충전"
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -3000,7 +3003,7 @@ msgstr "의식 점수"
 #: Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:206
 msgctxt "hf4691596gcbdbg4cf0g8513gaa65c6c81cfc"
 msgid "The number of Weapon Actions you can use per short rest."
-msgstr ""
+msgstr "짧은 휴식마다 사용 가능한 무기 기술의 횟수."
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -3010,7 +3013,7 @@ msgstr ""
 #: Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:207
 msgctxt "h3e00b615g67dcg49bag9aadgc883a9d800ac"
 msgid "Weapon Action Point"
-msgstr ""
+msgstr "무기 기술 점수"
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -3082,7 +3085,7 @@ msgstr "맹세 선언 충전"
 #: Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:241
 msgctxt "h549f010fg9898g42cdg9db6g9e6cc349ff10"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -3092,7 +3095,7 @@ msgstr ""
 #: Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:249
 msgctxt "h584cd2c9g4d6bg4691ga129g4c4a73413912"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -3102,7 +3105,7 @@ msgstr ""
 #: Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:257
 msgctxt "hae559bcdg709eg44abg848dg0673b4428547"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -3112,7 +3115,7 @@ msgstr ""
 #: Shared/Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:265
 msgctxt "ha288921ag3a53g466eg9b57gcd345977359d"
 msgid "Shadow Spell Slot"
-msgstr ""
+msgstr "그림자 주문 슬롯"
 
 #. FilePath = Shared/Public/Shared/Calendar/DayRanges.lsx
 #. NodeID = DayRange
@@ -3443,13 +3446,11 @@ msgstr "나이탈"
 #. Name = Barbarian
 #. SoundClassType = Barbarian
 #: Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx:13
-#, fuzzy
 msgctxt "h3aa4b4a4g0076g4635gb363g7891e8f2e495"
 msgid ""
 "The strong embrace the wild that hides inside - keen instincts, primal "
 "physicality, and most of all, an unbridled, unquenchable rage."
-msgstr "강자란 예리한 본능, 원초적인 육체, 그리고 무엇보다 채워지지도, 꺼지지도 않는 "
-"분노를 끌어안고 있는 자를 칭합니다."
+msgstr "강자란 예리한 본능, 원초적인 육체, 그리고 무엇보다 채워지지도, 꺼지지도 않는 분노를 끌어안고 있는 자를 칭합니다."
 
 #. FilePath = Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -3468,20 +3469,14 @@ msgstr "바바리안"
 #. Name = BerserkerPath
 #. SoundClassType = Barbarian
 #: Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx:32
-#, fuzzy
-#| msgid ""
-#| "Violence is both a means and an end. You follow a path of untrammeled fury, "
-#| "slick with blood, as you thrill in the chaos of battle, heedless of your own "
-#| "well-being."
 msgctxt "h5fa8a376gee1cg43e2g8f36g12129d82a292"
 msgid ""
 "Violence is both a means and an end. You follow a path of untrammelled fury, "
 "slick with blood, as you thrill in the chaos of battle, heedless of your own "
 "well-being."
 msgstr ""
-"폭력은 수단이자 목적입니다. 걷잡을 수 없는 분노의 길을 따르며 피에 물들어 "
-"있는 당신은, 전투의 혼돈 속에서 황홀경을 맛보며 자신의 안녕 따위는 "
-"아랑곳하지 않습니다."
+"폭력은 수단이자 목적입니다. 걷잡을 수 없는 분노의 길을 따르며 피에 물들어 있는 당신은, 전투의 혼돈 속에서 황홀경을 맛보며 자신의 "
+"안녕 따위는 아랑곳하지 않습니다."
 
 #. FilePath = Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -3879,17 +3874,12 @@ msgstr "엘드리치 나이트"
 #. Name = Monk
 #. SoundClassType = Monk
 #: Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx:293
-#, fuzzy
-#| msgid ""
-#| "You have set aside even your own purity to right wrongs and deliver justice "
-#| "to those who have committed the most grievous sins."
 msgctxt "h565bd24cg663cg4506g9244g42b57c697ef1"
 msgid ""
 "Channel your cosmic enlightenment by deftly dodging and efficiently "
 "disassembling your foes through stunning strikes and a whirlwind of martial "
 "art attacks. "
-msgstr "당신은 잘못을 바로잡고 가장 끔찍한 죄를 저지른 사람들에게 정의를 실현하기 "
-"위해 자신의 순수함마저 버렸습니다."
+msgstr "기습적인 타격과 회오리치는 무예를 통해 적을 능숙하게 피하고 효율적으로 파괴하여 우주적 깨달음을 통달하세요. "
 
 #. FilePath = Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -3898,8 +3888,6 @@ msgstr "당신은 잘못을 바로잡고 가장 끔찍한 죄를 저지른 사�
 #. Name = Monk
 #. SoundClassType = Monk
 #: Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx:294
-#, fuzzy
-#| msgid "Oath of Vengeance"
 msgctxt "h2362f41dg75e2g48c8g8ae6geb1c6e9129f5"
 msgid "Monk"
 msgstr "몽크"
@@ -4269,16 +4257,11 @@ msgstr "악마"
 #. Name = GreatOldOne
 #. SoundClassType = Warlock
 #: Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx:607
-#, fuzzy
-#| msgid ""
-#| "Warlocks bound to eldritch beings in the Far Realms work towards inscrutable "
-#| "goals, gaining strange powers over entropy and the mind."
 msgctxt "hdaab7880g17afg4e6bg92a2gefb96ec722ca"
 msgid ""
 "Warlocks bound to eldritch beings in the Far Realm work towards inscrutable "
 "goals, gaining strange powers over entropy and the mind."
-msgstr "외우주의 엘드리치 존재들과 계약한 워락은 형언할 수 없는 목표를 위해 일하며, "
-"엔트로피와 정신에 대한 기묘한 힘을 얻습니다."
+msgstr "워락은 외우주의 엘드리치와 계약해 형언할 수 없는 목표를 위해 일하며, 엔트로피와 정신에 대한 기묘한 힘을 얻습니다."
 
 #. FilePath = Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -4321,17 +4304,14 @@ msgstr "위저드"
 #. Name = AbjurationSchool
 #. SoundClassType = Wizard
 #: Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx:652
-#, fuzzy
-#| msgid ""
-#| "Abjuration spells summon wards, banish enemies, and nullify magic, suitable "
-#| "for those who wish to defend themselves and others."
 msgctxt "h5b05b200g4933g4807gbd1dgd39cade9e34b"
 msgid ""
 "Abjuration spells summon wards, banish enemies, and nullify magic, suitable "
 "for those who wish to defend themselves and others. Learning Abjuration "
 "spells from scrolls only costs you 25g per spell level, not 50. "
-msgstr "방호계 주문은 방어막을 소환하고, 적을 추방하며, 마법을 무효화하여 자신과 "
-"타인을 보호하고자 하는 이들에게 적합합니다."
+msgstr ""
+"방호계 주문은 방어막을 소환하고, 적을 추방하며, 마법을 무효화하여 자신과 타인을 보호하고자 하는 이들에게 적합합니다. 두루마리로부터 "
+"주문을 배울 때 주문 레벨 당 50 골드 대신 25골드만 소모합니다. "
 
 #. FilePath = Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -4349,18 +4329,15 @@ msgstr "방호계"
 #. Name = EvocationSchool
 #. SoundClassType = Wizard
 #: Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx:667
-#, fuzzy
-#| msgid ""
-#| "Evocation spells focus elemental energy into powerful attacks and "
-#| "enchantments. Those who specialise in this school are known as evokers."
 msgctxt "he03bcffeg9447g47cfgbe07g4ef50cb2606d"
 msgid ""
 "Evocation spells focus elemental energy into powerful attacks and "
 "enchantments. Those who specialise in this school are known as evokers. "
 "Learning Evocation spells from scrolls only costs you 25g per spell level, "
 "not 50. "
-msgstr "방출계 주문은 원소 에너지를 집중해 강력한 공격과 마법을 사용합니다. 이 "
-"학파를 전문적으로 익힌 이들을 기원사라고 부릅니다."
+msgstr ""
+"방출계 주문은 원소 에너지를 집중해 강력한 공격과 마법을 사용합니다. 이 학파에 특화된 자들을 기원사라고 부릅니다. 두루마리로부터 주문을 "
+"배울 때 주문 레벨 당 50 골드 대신 25골드만 소모합니다. "
 
 #. FilePath = Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -4399,7 +4376,7 @@ msgstr "무슨 일 있어?"
 msgctxt "ha1fbd472gce67g47e3g8cd9g8656a835f497"
 msgid ""
 "The default Baldur's Gate 3 dice design - edges worn from countless rolls. "
-msgstr ""
+msgstr "발더스 게이트 3의 기본 주사위입니다. 수도 없는 굴림으로 모서리가 닳아있습니다. "
 
 #. FilePath = Shared/Public/Shared/CustomDice/CustomDice.lsx
 #. NodeID = CustomDice
@@ -4408,7 +4385,7 @@ msgstr ""
 #: Shared/Public/Shared/CustomDice/CustomDice.lsx:9
 msgctxt "h04f866b8gdb2ag4160g8450gf838b7b146bb"
 msgid "Scuffed Metal"
-msgstr ""
+msgstr "닳은 금속"
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -4487,7 +4464,6 @@ msgstr "보유중: [1]."
 #. HandlePath = DisplayName
 #. Identifier = HasNotPassive
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:62
-#, fuzzy
 msgctxt "h821b71c4g8d6bg409dgac46ge67bbec248f0"
 msgid "Missing: [1]."
 msgstr "누락됨: [1]."
@@ -4715,7 +4691,7 @@ msgstr "시체가 너무 손상되었습니다."
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:212
 msgctxt "hf1a19a40g9ebcg46bbg8a05g662f0d61db03"
 msgid "Invalid Target!"
-msgstr ""
+msgstr "유효하지 않은 대상!"
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5082,22 +5058,18 @@ msgstr "페어리 불꽃의 효과를 받는 상태여야 합니다."
 #. HandlePath = DisplayName
 #. Identifier = HasNotHelpableCondition
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:464
-#, fuzzy
-#| msgid "Must Have a Helpable Condition."
 msgctxt "hd629ba1cgdcdcg444eg832dg6c617fa3ea13"
 msgid "This target can't be helped."
-msgstr "도움을 받을 수 있는 상태여야 합니다."
+msgstr "대상이 도움을 받을 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
 #. HandlePath = DisplayName
 #. Identifier = CE_Status_FLANKED_True
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:470
-#, fuzzy
-#| msgid "Target can't be Threatened."
 msgctxt "hc6765e0dg1e93g4f56gb8dag6cc964a15dfd"
 msgid "Can't be Threatened."
-msgstr "대상을 위협할 수 없습니다."
+msgstr "위협할 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5259,7 +5231,7 @@ msgstr "대상이 식물이어야 합니다."
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:578
 msgctxt "hbc389fb7g16cdg4301g85f0gd9b55471bdba"
 msgid "Can't target Dragons."
-msgstr ""
+msgstr "용을 대상으로 지정할 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5268,7 +5240,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:584
 msgctxt "h75db7b12g4da8g42c2gab7agef61634790d2"
 msgid "Target must be a Dragon."
-msgstr ""
+msgstr "대상이 용이어야 합니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5277,7 +5249,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:590
 msgctxt "h5b13ea70gd8d9g4490g8739g05b3db558673"
 msgid "Can't target Aberrations."
-msgstr ""
+msgstr "괴이체를 대상으로 지정할 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5286,7 +5258,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:596
 msgctxt "h7ab51410g0cc4g4a28g9b5eg3cd141c25249"
 msgid "Target must be an Aberration."
-msgstr ""
+msgstr "대상이 괴이체여야 합니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5295,7 +5267,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:602
 msgctxt "h74f96dfag004bg49f4g9210g77485108898a"
 msgid "Can't target Giants."
-msgstr ""
+msgstr "거인을 대상으로 지정할 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5304,7 +5276,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:608
 msgctxt "ha8b10d39gce04g41d4ga8d1gebc8b25b062b"
 msgid "Target must be a Giant."
-msgstr ""
+msgstr "대상이 거인이어야 합니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5313,7 +5285,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:614
 msgctxt "h0e35c8a5g5198g4f6ag8ca1gcca76dad09f7"
 msgid "Cannot affect oozes. "
-msgstr ""
+msgstr "점액에는 효과가 없습니다. "
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5322,7 +5294,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:620
 msgctxt "h292b4703gc1dfg476bgae81g85e03f38f2f1"
 msgid "Target must be an Ooze."
-msgstr ""
+msgstr "대상이 점액이어야 합니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5817,7 +5789,7 @@ msgstr "투명하거나 은신한 상태여야 합니다."
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:968
 msgctxt "hd24dfd77gda52g4cb8ga0a1g6746d6b437d2"
 msgid "Not a summon."
-msgstr ""
+msgstr "소환이 아닙니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5826,7 +5798,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:975
 msgctxt "h9b18ecd6g9f43g4ab8g8bd1g59ca0aea61a5"
 msgid "Not able to consume potions."
-msgstr ""
+msgstr "물약을 사용할 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5871,7 +5843,7 @@ msgstr "대상을 조종할 수 없습니다."
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1005
 msgctxt "he6385787gdb90g4138gbed6g0b9bfc477a13"
 msgid "Target can't be incorporeal."
-msgstr ""
+msgstr "무형을 대상으로 지정할 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5907,7 +5879,7 @@ msgstr "턴 당 한 번만 사용할 수 있습니다."
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1029
 msgctxt "hbdc71130g6cd2g4ef7gb2b3geaccc1625536"
 msgid "Can't harm"
-msgstr ""
+msgstr "해칠 수 없습니다"
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5916,7 +5888,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1035
 msgctxt "hddede71dga520g40d3gbaefgfd527b90a8a4"
 msgid "Can't attack your charmer"
-msgstr ""
+msgstr "매혹한 당사자를 공격할 수 없습니다"
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5925,7 +5897,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1041
 msgctxt "h0b42cb56g20c6g4436gad90g04da21ec631a"
 msgid "Can't become enraged while calmed."
-msgstr ""
+msgstr "진정 중에는 격노할 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5934,7 +5906,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1047
 msgctxt "hde66d347g96ceg4d66g8c4eg5d321aaaaba7"
 msgid "You are unable to heal yourself right now."
-msgstr ""
+msgstr "지금은 자기 자신을 치유할 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5949,6 +5921,10 @@ msgid ""
 "Tooltip=\"PARALYSED\">Paralysed</LSTag>, or <LSTag Type=\"Status\" Tooltip="
 "\"POISONED\">Poisoned</LSTag>."
 msgstr ""
+"대상이 <LSTag Type=\"Status\" Tooltip=\"BLINDED\">실명</LSTag>, <LSTag Type="
+"\"Status\" Tooltip=\"BLOODLESS\">빈혈</LSTag>, <LSTag Type=\"Status\" Tooltip="
+"\"DISEASED\">질병</LSTag>, <LSTag Type=\"Status\" Tooltip=\"PARALYSED\">마비</"
+"LSTag>, or <LSTag Type=\"Status\" Tooltip=\"POISONED\">중독</LSTag> 상태가 아닙니다."
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5957,7 +5933,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1059
 msgctxt "h6e5f7d6bgc0dag499fg8f36gfc707f5b3b27"
 msgid "Cannot harm: Madness"
-msgstr ""
+msgstr "해칠 수 없음: 광기"
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5966,7 +5942,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1065
 msgctxt "ha2459a76g8376g401aga55bgdae42ae17925"
 msgid "Cannot harm: Sanctuary"
-msgstr ""
+msgstr "해칠 수 없음: 성역화"
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5975,7 +5951,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1071
 msgctxt "h808b2041g9663g469cgb086g166b3aace07c"
 msgid "Cannot harm: Hypnotised"
-msgstr ""
+msgstr "해칠 수 없음: 최면"
 
 #. FilePath = Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -5984,7 +5960,7 @@ msgstr ""
 #: Shared/Public/Shared/ErrorDescriptions/ConditionErrors.lsx:1077
 msgctxt "hf06714eegf2e7g4509g8fb4g13463587d4de"
 msgid "Not usable by humanoids."
-msgstr ""
+msgstr "인간형이 사용할 수 없습니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6067,11 +6043,6 @@ msgstr "방어적 결투가"
 #. HandlePath = Description
 #. ExactMatch = DualWielder
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:29
-#, fuzzy
-#| msgid ""
-#| "Gain a +1 bonus to <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> while "
-#| "wielding a melee weapon in each hand. You can use two-weapon fighting even "
-#| "if your weapons aren't light."
 msgctxt "h1909840bg87f1g4029g9be6g974d9233f516"
 msgid ""
 "You can use Two-Weapon Fighting even if your weapons aren't <LSTag Tooltip="
@@ -6097,16 +6068,6 @@ msgstr "쌍수 전문가"
 #. HandlePath = Description
 #. ExactMatch = GreatWeaponMaster
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:36
-#, fuzzy
-#| msgid ""
-#| "When an attack with a Melee Weapon lands a <LSTag Tooltip=\"CriticalHit\""
-#| ">Critical Hit</LSTag> or kills a creature, you can make another <LSTag "
-#| "Tooltip=\"MeleeWeaponAttack\">Melee Weapon Attack</LSTag> as a bonus action "
-#| "that turn. \n"
-#| "\n"
-#| "When attacking with Heavy Melee Weapons you are <LSTag Tooltip=\"Proficiency"
-#| "\">Proficient</LSTag> with, <LSTag Tooltip=\"AttackRoll\">Attack Rolls</"
-#| "LSTag> take a -5 penalty, but their damage increases by 10."
 msgctxt "hea61c527gd53fg46fega454g2bc02f65d75f"
 msgid ""
 "When you land a <LSTag Tooltip=\"CriticalHit\">Critical Hit</LSTag> or kill "
@@ -6120,13 +6081,13 @@ msgid ""
 "5 <LSTag Tooltip=\"AttackRoll\">Attack Roll</LSTag> penalty. (You can toggle "
 "this on and off.)"
 msgstr ""
-"근접 무기 공격이 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중하거나 "
-"대상을 죽이면, 해당 턴에 추가 행동으로써 <LSTag Tooltip=\"MeleeWeaponAttack\""
-">근접 무기 공격</LSTag>을 할 수 있습니다. \n"
+"공격이 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중하거나 <LSTag Tooltip="
+"\"MeleeWeaponAttack\">근접 무기 공격</LSTag>으로 대상을 죽이면, 해당 턴에 <LSTag Type="
+"\"ActionResource\" Tooltip=\"BonusActionPoint\">추가 행동</LSTag>으로 근접 무기 공격을 한 "
+"번 더 할 수 있습니다. \n"
 "\n"
-"<LSTag Tooltip=\"Proficiency\">숙련된</LSTag> 대형 근접 무기로 공격하는 "
-"경우, <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 -5 페널티를 받지만, "
-"피해량이 10 만큼 증가합니다."
+"<LSTag Tooltip=\"Proficiency\">숙련된</LSTag> 대형 근접 무기로 공격하는 경우, <LSTag Tooltip="
+"\"AttackRoll\">명중 굴림</LSTag>에 -5 페널티를 받지만, 피해량이 10 만큼 증가합니다. (토글 가능)"
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6189,13 +6150,6 @@ msgstr "가볍게 무장함"
 #. HandlePath = Description
 #. ExactMatch = MagicInitiateBard
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:57
-#, fuzzy
-#| msgid ""
-#| "Learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell from "
-#| "the bard spell list. You can cast the Level 1 spell once per <LSTag Tooltip="
-#| "\"LongRest\">Long Rest</LSTag>. Your <LSTag Tooltip="
-#| "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
-#| "spells is Charisma."
 msgctxt "hf7652441g0662g41e6ga744g604094d220ac"
 msgid ""
 "You learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell "
@@ -6204,11 +6158,10 @@ msgid ""
 "\"SpellcastingAbility\">Spellcasting Ability</LSTag> for all 3 spells is "
 "Charisma."
 msgstr ""
-"바드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 "
-"주문 하나를 선택해 배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 "
-"휴식</LSTag>당 한 번만 시전 할 수 있습니다. 선택한 3 가지 주문의 <LSTag "
-"Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</LSTag>는 모두 "
-"매력입니다."
+"바드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문은 모두 매력이 <LSTag Tooltip=\"SpellcastingAbility\">주문 시전 "
+"능력치</LSTag>입니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6224,13 +6177,6 @@ msgstr "마법 입문: 바드"
 #. HandlePath = Description
 #. ExactMatch = MagicInitiateCleric
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:64
-#, fuzzy
-#| msgid ""
-#| "Learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell from "
-#| "the cleric spell list. You can cast the Level 1 spell once per <LSTag "
-#| "Tooltip=\"LongRest\">Long Rest</LSTag>. Your <LSTag Tooltip="
-#| "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
-#| "spells is Wisdom."
 msgctxt "h9b2a2c5fg48feg4105g9407ge43a4ace23fc"
 msgid ""
 "You learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell "
@@ -6239,11 +6185,10 @@ msgid ""
 "\"SpellcastingAbility\">Spellcasting Ability</LSTag> for all 3 spells is "
 "Wisdom."
 msgstr ""
-"클레릭 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 "
-"레벨 주문 하나를 선택해 배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\""
-">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. 선택한 3 가지 주문의 <LSTag "
-"Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</LSTag>는 모두 "
-"지혜입니다."
+"클레릭 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문은 모두 지혜가 <LSTag Tooltip=\"SpellcastingAbility\">주문 시전 "
+"능력치</LSTag>입니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6259,13 +6204,6 @@ msgstr "마법 입문: 클레릭"
 #. HandlePath = Description
 #. ExactMatch = MagicInitiateDruid
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:71
-#, fuzzy
-#| msgid ""
-#| "Learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell from "
-#| "the druid spell list. You can cast the Level 1 spell once per <LSTag Tooltip="
-#| "\"LongRest\">Long Rest</LSTag>. Your <LSTag Tooltip="
-#| "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
-#| "spells is Wisdom."
 msgctxt "hf862276agfcbeg4286ga36bge847467f9f93"
 msgid ""
 "You learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell "
@@ -6274,11 +6212,10 @@ msgid ""
 "\"SpellcastingAbility\">Spellcasting Ability</LSTag> for all 3 spells is "
 "Wisdom."
 msgstr ""
-"드루이드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 "
-"레벨 주문 하나를 선택해 배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\""
-">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. 선택한 3 가지 주문의 <LSTag "
-"Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</LSTag>는 모두 "
-"지혜입니다."
+"드루이드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문은 모두 지혜가 <LSTag Tooltip=\"SpellcastingAbility\">주문 시전 "
+"능력치</LSTag>입니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6294,13 +6231,6 @@ msgstr "마법 입문: 드루이드"
 #. HandlePath = Description
 #. ExactMatch = MagicInitiateSorcerer
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:78
-#, fuzzy
-#| msgid ""
-#| "Learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell from "
-#| "the sorcerer spell list. You can cast the Level 1 spell once per <LSTag "
-#| "Tooltip=\"LongRest\">Long Rest</LSTag>. Your <LSTag Tooltip="
-#| "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
-#| "spells is Charisma."
 msgctxt "hb701f39fg2c96g4b96gb07eg28d776679f0b"
 msgid ""
 "You learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell "
@@ -6309,11 +6239,10 @@ msgid ""
 "\"SpellcastingAbility\">Spellcasting Ability</LSTag> for all 3 spells is "
 "Charisma."
 msgstr ""
-"소서러 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 "
-"레벨 주문 하나를 선택해 배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\""
-">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. 선택한 3 가지 주문의 <LSTag "
-"Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</LSTag>는 모두 "
-"매력입니다."
+"소서러 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문은 모두 매력이 <LSTag Tooltip=\"SpellcastingAbility\">주문 시전 "
+"능력치</LSTag>입니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6329,13 +6258,6 @@ msgstr "마법 입문: 소서러"
 #. HandlePath = Description
 #. ExactMatch = MagicInitiateWarlock
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:85
-#, fuzzy
-#| msgid ""
-#| "Learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell from "
-#| "the warlock spell list. You can cast the Level 1 spell once per <LSTag "
-#| "Tooltip=\"LongRest\">Long Rest</LSTag>. Your <LSTag Tooltip="
-#| "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
-#| "spells is Charisma."
 msgctxt "h19708a86g3f85g45f3g9531ge46d90dd5295"
 msgid ""
 "You learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell "
@@ -6344,11 +6266,10 @@ msgid ""
 "\"SpellcastingAbility\">Spellcasting Ability</LSTag> for all 3 spells is "
 "Charisma."
 msgstr ""
-"워락 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 "
-"주문 하나를 선택해 배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 "
-"휴식</LSTag>당 한 번만 시전 할 수 있습니다. 선택한 3 가지 주문의 <LSTag "
-"Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</LSTag>는 모두 "
-"매력입니다."
+"워락 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문은 모두 매력이 <LSTag Tooltip=\"SpellcastingAbility\">주문 시전 "
+"능력치</LSTag>입니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6364,13 +6285,6 @@ msgstr "마법 입문: 워락"
 #. HandlePath = Description
 #. ExactMatch = MagicInitiateWizard
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:92
-#, fuzzy
-#| msgid ""
-#| "Learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell from "
-#| "the wizard spell list. You can cast the Level 1 spell once per <LSTag "
-#| "Tooltip=\"LongRest\">Long Rest</LSTag>. Your <LSTag Tooltip="
-#| "\"SpellcastingAbilityModifier\">Spellcasting Modifier</LSTag> for all 3 "
-#| "spells is Intelligence."
 msgctxt "h50944986g8570g4c14g8faeg51ab9b965898"
 msgid ""
 "You learn 2 <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> and a Level 1 spell "
@@ -6379,11 +6293,10 @@ msgid ""
 "\"SpellcastingAbility\">Spellcasting Ability</LSTag> for all 3 spells is "
 "Intelligence."
 msgstr ""
-"위저드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 "
-"레벨 주문 하나를 선택해 배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\""
-">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. 선택한 3 가지 주문의 <LSTag "
-"Tooltip=\"SpellcastingAbilityModifier\">주문 시전 수정치</LSTag>는 모두 "
-"지능입니다."
+"위저드 주문 목록에서 <LSTag Tooltip=\"Cantrip\">소마법</LSTag> 2 가지와 1 레벨 주문 하나를 선택해 "
+"배웁니다. 1 레벨 주문은 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번만 시전 할 수 있습니다. "
+"선택한 3 가지 주문은 모두 지능이 <LSTag Tooltip=\"SpellcastingAbility\">주문 시전 "
+"능력치</LSTag>입니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6399,12 +6312,6 @@ msgstr "마법 입문: 위저드"
 #. HandlePath = Description
 #. ExactMatch = MartialAdept
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:99
-#, fuzzy
-#| msgid ""
-#| "Learn two manoeuvres from the Battle Master archetype and receive 1 "
-#| "(additional) Superiority Die to fuel them. You regain expended Superiority "
-#| "Dice after a <LSTag Tooltip=\"ShortRest\">Short</LSTag> or <LSTag Tooltip="
-#| "\"LongRest\">Long Rest</LSTag>."
 msgctxt "h1b9bb939ga573g4e5dg8c16g20dfce934df7"
 msgid ""
 "You learn two manoeuvres from the Battle Master subclass and gain a <LSTag "
@@ -6412,9 +6319,10 @@ msgid ""
 "to fuel them. You regain expended Superiority Dice after a <LSTag Tooltip="
 "\"ShortRest\">Short</LSTag> or <LSTag Tooltip=\"LongRest\">Long Rest</LSTag>."
 msgstr ""
-"배틀 마스터의 두 가지 전술을 배우고, 그에 따라 추가 우월성 주사위를 1 개 "
-"얻습니다. 우월성 주사위는 <LSTag Tooltip=\"ShortRest\">Short</LSTag> or "
-"<LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취한 뒤 재충전됩니다."
+"배틀 마스터 서브클래스의 두 가지 전술을 배우고, 그에 따라 추가 <LSTag Type=\"ActionResource\" Tooltip="
+"\"SuperiorityDie\">우월성 주사위</LSTag>를 1 개 얻습니다. 사용한 우월성 주사위는 <LSTag Tooltip="
+"\"ShortRest\">짧은 휴식</LSTag> 이나 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취한 "
+"뒤 재충전됩니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6430,12 +6338,6 @@ msgstr "무술 숙련"
 #. HandlePath = Description
 #. ExactMatch = Mobile
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:106
-#, fuzzy
-#| msgid ""
-#| "Your <LSTag Tooltip=\"MovementSpeed\">Movement Speed</LSTag> increases. When "
-#| "you use the Dash action, difficult terrain doesn't slow you down. Moreover, "
-#| "if you move after making a melee attack, you don't provoke <LSTag Tooltip="
-#| "\"OpportunityAttack\">Opportunity Attacks</LSTag> from your target."
 msgctxt "hea5b6476gaefcg412ag9d1dgb081d4e61c19"
 msgid ""
 "Your <LSTag Tooltip=\"MovementSpeed\">movement speed</LSTag> increases, and "
@@ -6445,10 +6347,11 @@ msgid ""
 "If you move after making a melee attack, you don't provoke <LSTag Tooltip="
 "\"OpportunityAttack\">Opportunity Attacks</LSTag> from your target."
 msgstr ""
-"<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 증가합니다. 질주 행동을 "
-"취하면, 험난한 지형에 의해 이동 속도가 느려지지 않습니다. 나아가, 근접 "
-"공격을 한 뒤 이동하면, 대상에게서 <LSTag Tooltip=\"OpportunityAttack\">기회 "
-"공격</LSTag>을 유발하지 않습니다."
+"<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 증가하고,  <LSTag Type=\"Spell\" "
+"Tooltip=\"Shout_Dash\">질주</LSTag> 시 험난한 지형에 의해 이동 속도가 느려지지 않습니다. \n"
+"\n"
+"근접 공격을 한 뒤 이동하면 대상에게서 <LSTag Tooltip=\"OpportunityAttack\">기회 공격</LSTag>을 "
+"유발하지 않습니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6512,17 +6415,6 @@ msgstr "공연자"
 #. HandlePath = Description
 #. ExactMatch = ShieldMaster
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:127
-#, fuzzy
-#| msgid ""
-#| "Gain a +2 bonus to Dexterity <LSTag Tooltip=\"SavingThrow\">Saving Throws</"
-#| "LSTag> when wielding a shield. \n"
-#| "\n"
-#| "If a spell forces you to make a Dexterity <LSTag Tooltip=\"SavingThrow\""
-#| ">Saving Throw</LSTag>, you can use your reaction to shield yourself and "
-#| "diminish the effect's damage. \n"
-#| "\n"
-#| "On a failed save, you only take half damage. On a successful save, you don't "
-#| "take any damage, even if you normally would."
 msgctxt "h7d3721fbg8c06g47ceg8584g3b7b26d94174"
 msgid ""
 "You gain a +2 bonus to Dexterity <LSTag Tooltip=\"SavingThrow\">Saving "
@@ -6533,14 +6425,10 @@ msgid ""
 "Saving Throw, you only take half damage. On a successful Saving Throw, you "
 "don't take any damage."
 msgstr ""
-"방패를 착용하고 있으면 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
-"LSTag>에 +2 보너스를 얻습니다.\n"
-"\n"
-"주문에 의해 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>이 "
-"요구되면, 반응 행동으로 스스로를 보호해 피해를 줄일 수 있습니다. \n"
-"\n"
-"내성 굴림이 실패한 경우, 절반의 피해만 받습니다. 성공한 경우, 평소와 "
-"마찬가지로 전혀 피해를 입지 않습니다."
+"방패를 착용하고 있으면 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +2 보너스를 얻습니다. "
+"주문에 의해 민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>이 요구되면, <LSTag Type="
+"\"ActionResource\" Tooltip=\"ReactionActionPoint\">반응 행동</LSTag>으로 스스로를 보호해 "
+"피해를 줄일 수 있습니다. 내성 굴림이 실패한 경우 절반의 피해만 받습니다. 성공한 경우 피해를 입지 않습니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6578,8 +6466,6 @@ msgstr "숙련됨"
 #. HandlePath = Description
 #. ExactMatch = Tough
 #: Shared/Public/Shared/Feats/FeatDescriptions.lsx:141
-#, fuzzy
-#| msgid "Hit point maximum increased by 2 for each level."
 msgctxt "h03874726g6ebbg4d7cg9723ge342da628ef1"
 msgid "Your hit point maximum increases by 2 for every level you have gained."
 msgstr "각 레벨 당 최대 체력이 2 씩 증가합니다."
@@ -6925,16 +6811,11 @@ msgstr "코렐론 라레시안"
 #. HandlePath = Description
 #. Name = Garl_Glittergold
 #: Shared/Public/Shared/Gods/Gods.lsx:162
-#, fuzzy
-#| msgid ""
-#| "The Watchful Protector is the king of gnomish gods - a deity of humour, "
-#| "gemcutting, protection, and trickery."
 msgctxt "h37cd82ffga69bg42f5g90e5g104af0637039"
 msgid ""
 "The Watchful Protector is the king of gnomish gods - a deity of humour, gem-"
 "cutting, protection, and trickery."
-msgstr "감시하는 수호자는 노움 신들의 왕이며, 유머, 보석 세공, 보호, 속임수를 "
-"관장하는 신입니다."
+msgstr "감시하는 수호자는 노움 신들의 왕이며, 유머, 보석 세공, 보호, 속임수를 관장하는 신입니다."
 
 #. FilePath = Shared/Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6998,20 +6879,14 @@ msgstr "롤쓰"
 #. HandlePath = Description
 #. Name = Laduguer
 #: Shared/Public/Shared/Gods/Gods.lsx:204
-#, fuzzy
-#| msgid ""
-#| "The Exile is the tyrannical patron of the duergar. His clerics are the "
-#| "unquestioned rulers of duergar society, enforcing cold and callous behavior "
-#| "among his worshippers."
 msgctxt "h6d2fcd7fgd2f9g4d6eg9da9g88973de8cd88"
 msgid ""
 "The Exile is the tyrannical patron of the duergar. His clerics are the "
 "unquestioned rulers of duergar society, enforcing cold and callous behaviour "
 "among his worshippers."
 msgstr ""
-"추방자는 듀에르가의 압제적인 수호신입니다. 그의 클레릭은 듀에르가 사회에서 "
-"무소불위의 권력을 휘두르며, 그 추종자들로 하여금 냉정하고 냉담하게 "
-"행동하도록 강요합니다."
+"추방자는 듀에르가의 압제적인 수호신입니다. 그의 클레릭은 듀에르가 사회에서 무소불위의 권력을 휘두르며, 그 추종자들로 하여금 냉정하고 "
+"냉담하게 행동하도록 강요합니다."
 
 #. FilePath = Shared/Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -7194,7 +7069,7 @@ msgstr "옅은 금발"
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:15
 msgctxt "h0e3d106cg0c6fg43dcgaf99g93c616a1d30e"
 msgid "Ash Blonde"
-msgstr ""
+msgstr "애쉬블론드"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7214,7 +7089,7 @@ msgstr "다크 애쉬 블론드"
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:27
 msgctxt "hf55e82c9gb9a9g410cga514g2eeb38cd78bc"
 msgid "Blonde"
-msgstr ""
+msgstr "금발"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7224,7 +7099,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:33
 msgctxt "h132681e6g3c34g4a92g8cd3ge0fd22681d01"
 msgid "Dark Blonde"
-msgstr ""
+msgstr "어두운 금발"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7234,7 +7109,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:39
 msgctxt "h278a508fge1acg4ec5g8c83gdf37f8777a4a"
 msgid "Strawberry Blonde"
-msgstr ""
+msgstr "붉은 금발"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7244,7 +7119,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:45
 msgctxt "hd2f3f4f7g4665g43dfgac31gcaf2b2149917"
 msgid "Light Brunette"
-msgstr ""
+msgstr "밝은 갈색 금발"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7254,7 +7129,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:51
 msgctxt "h311c2568gd289g4e22gb3e0g3dd1dd987c43"
 msgid "Chestnut"
-msgstr ""
+msgstr "밤색"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7264,7 +7139,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:57
 msgctxt "h4d2e93c4g507cg41dag8e93g18cf17377e58"
 msgid "Brown"
-msgstr ""
+msgstr "브라운"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7274,7 +7149,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:63
 msgctxt "hde805e2ag42f0g4c9aga40fg1db530b82ad2"
 msgid "Dark Brown"
-msgstr ""
+msgstr "다크 브라운"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7284,7 +7159,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:69
 msgctxt "hbb5ecc37gf136g414eg869age48ce68382e2"
 msgid "Grey"
-msgstr ""
+msgstr "은발"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7294,7 +7169,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:75
 msgctxt "h93e22c48ga761g40d4ga235g8acfab9b58d7"
 msgid "White"
-msgstr ""
+msgstr "백발"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7304,7 +7179,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:81
 msgctxt "h830343b1gd0f8g4518g83efg56d642123c7b"
 msgid "Black"
-msgstr ""
+msgstr "흑발"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7314,7 +7189,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:87
 msgctxt "h01187b62g9437g46d8g84d8g27fbdc9077d8"
 msgid "Bright Ginger"
-msgstr ""
+msgstr "밝은 오렌지"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7324,7 +7199,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:93
 msgctxt "h3bd6a427gc970g4cbagbc09gc0eeb8b49beb"
 msgid "Ginger"
-msgstr ""
+msgstr "오렌지"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7334,7 +7209,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:99
 msgctxt "h571032c4g26d7g4363g8855g289e26fa5b11"
 msgid "Dark Ginger"
-msgstr ""
+msgstr "어두운 오렌지"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7344,7 +7219,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:105
 msgctxt "hf04235e0gda2eg4bfbg8236ge443ba8300c3"
 msgid "Red"
-msgstr ""
+msgstr "빨강"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7354,7 +7229,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:111
 msgctxt "h8f0918f6g62dcg464dg8a60g5b3cbf580b2d"
 msgid "Grey Green"
-msgstr ""
+msgstr "회색빛 초록색"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7364,7 +7239,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:117
 msgctxt "hb03a33c4ge364g4698ga5bdg5d23d1325a6f"
 msgid "Grey Blue"
-msgstr ""
+msgstr "그레이블루"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7374,7 +7249,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:123
 msgctxt "h03e46ea9gddddg4be2ga4e8g20602636b0dd"
 msgid "Black"
-msgstr ""
+msgstr "검은색"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -7384,7 +7259,7 @@ msgstr ""
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:129
 msgctxt "h724391bag1002g4e23gabedg7478a3ee33e1"
 msgid "Grey"
-msgstr ""
+msgstr "회색"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -14414,9 +14289,7 @@ msgctxt "hb83ce8edgc3e7g46e5g8324gcbc5a2ad8ebb"
 msgid ""
 "The strong embrace the wild that hides inside - keen instincts, primal "
 "physicality, and most of all, an unbridled, unquenchable rage."
-msgstr ""
-"강한 자들은 내면에 숨어있는 야성을 받아들입니다. 그 야성은 예리한 본능과 "
-"원시적인 육체, 그리고 무엇보다도 채울 수 없는, 구속에서 해방된 격노입니다."
+msgstr "강자란 예리한 본능, 원초적인 육체, 그리고 무엇보다 채워지지도, 꺼지지도 않는 분노를 끌어안고 있는 자를 칭합니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17703,8 +17576,8 @@ msgid ""
 "Astral Sea atop red dragons, bringing their silver swords and psionic might "
 "to bear against any trace of the illithid menace. "
 msgstr ""
-"마인드플레이어의 노예였던 것에서 비롯된 무자비함으로 무장한 기스양키는 은검과 사이오닉 능력으로 일리시드 위협에 맞서 싸우며 레드 드래곤을 "
-"타고 아스트랄계를 비행합니다. "
+"마인드 플레이어의 노예였던 것에서 비롯된 무자비함으로 무장한 기스양키는 은검과 사이오닉 능력으로 일리시드의 위협에 맞서 싸우며 레드 "
+"드래곤을 타고 아스트랄계를 비행합니다. "
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -18605,8 +18478,8 @@ msgid ""
 "Astral Sea atop red dragons, bringing their silver swords and psionic might "
 "to bear against any trace of the illithid menace. "
 msgstr ""
-"마인드플레이어의 노예였던 것에서 비롯된 무자비함으로 무장한 기스양키는 은검과 사이오닉 능력으로 일리시드 위협에 맞서 싸우며 레드 드래곤을 "
-"타고 아스트랄계를 비행합니다. "
+"마인드 플레이어의 노예였던 것에서 비롯된 무자비함으로 무장한 기스양키는 은검과 사이오닉 능력으로 일리시드의 위협에 맞서 싸우며 레드 "
+"드래곤을 타고 아스트랄계를 비행합니다. "
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -20070,7 +19943,7 @@ msgstr ""
 #: Shared/Public/Shared/Ruleset/RulesetModifierOptions.lsx:9
 msgctxt "h5b004e0bg79ddg420ag9fe0g0aa6ff62cb07"
 msgid "Explorer"
-msgstr ""
+msgstr "탐험가"
 
 #. FilePath = Shared/Public/Shared/Ruleset/RulesetModifierOptions.lsx
 #. NodeID = RulesetModifierOption
@@ -20624,9 +20497,10 @@ msgstr ""
 #. Asset = difficulty_01
 #. Name = STORY
 #: Shared/Public/Shared/Ruleset/RulesetSelectionPresets.lsx:9
+#, fuzzy
 msgctxt "h0391e720g05e0g4aefga7adgc720138eef0d"
 msgid "A narrative experience placing story before combat."
-msgstr ""
+msgstr "전투보다 이야기를 우선하는 내러티브적 경험."
 
 #. FilePath = Shared/Public/Shared/Ruleset/RulesetSelectionPresets.lsx
 #. NodeID = RulesetSelectionPreset
@@ -20636,7 +20510,7 @@ msgstr ""
 #: Shared/Public/Shared/Ruleset/RulesetSelectionPresets.lsx:10
 msgctxt "h1952cae3g352ag4808gb08fg44f9f57b53f7"
 msgid "Explorer"
-msgstr ""
+msgstr "탐험가"
 
 #. FilePath = Shared/Public/Shared/Ruleset/RulesetSelectionPresets.lsx
 #. NodeID = RulesetSelectionPreset
@@ -20644,9 +20518,10 @@ msgstr ""
 #. Asset = difficulty_02
 #. Name = BALANCED
 #: Shared/Public/Shared/Ruleset/RulesetSelectionPresets.lsx:28
+#, fuzzy
 msgctxt "hb429db4cg4078g4b26gab53ge26dafc75419"
 msgid "A balanced adventure full of challenging choices."
-msgstr ""
+msgstr "도전적인 선택으로 가득한 균형잡힌 모험."
 
 #. FilePath = Shared/Public/Shared/Ruleset/RulesetSelectionPresets.lsx
 #. NodeID = RulesetSelectionPreset
@@ -20664,9 +20539,10 @@ msgstr "균형"
 #. Asset = difficulty_03
 #. Name = HARDCORE
 #: Shared/Public/Shared/Ruleset/RulesetSelectionPresets.lsx:47
+#, fuzzy
 msgctxt "h9496f911g6df4g4955g94fbgd531e179dfcd"
 msgid "A tough campaign emphasising strategic combat."
-msgstr ""
+msgstr "전략적 전투를 중점으로 한 어려운 캠페인."
 
 #. FilePath = Shared/Public/Shared/Ruleset/RulesetSelectionPresets.lsx
 #. NodeID = RulesetSelectionPreset
@@ -20676,7 +20552,7 @@ msgstr ""
 #: Shared/Public/Shared/Ruleset/RulesetSelectionPresets.lsx:48
 msgctxt "h45da8011g956cg474dga4ecg6efa6794131a"
 msgid "Tactician"
-msgstr ""
+msgstr "전술가"
 
 #. FilePath = Shared/Public/Shared/Ruleset/Rulesets.lsx
 #. NodeID = Ruleset
@@ -23212,6 +23088,8 @@ msgid ""
 "You can use your Luck Points to gain <LSTag Tooltip=\"Advantage\">Advantage</"
 "LSTag>, or force an enemy to redo their roll."
 msgstr ""
+"당신은 딱 필요할 때에 작용하는 불가해한 행운을 가지고 있습니다. 행운 포인트를 사용해 <LSTag Tooltip=\"Advantage\""
+">이점</LSTag>을 얻거나, 적이 주사위를 다시 굴리도록 할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -23597,7 +23475,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx:36
 msgctxt "h64a54728g55f5g4ecegb04ag57a72c5aff40"
 msgid "Knowledge Domain"
-msgstr ""
+msgstr "지식 권역"
 
 #. FilePath = Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -23640,7 +23518,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx:59
 msgctxt "h4bd4988bgc309g4e04g8127g3e3d1cef4082"
 msgid "Nature"
-msgstr ""
+msgstr "자연"
 
 #. FilePath = Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -26283,12 +26161,15 @@ msgstr ""
 #. HandlePath = Description
 #. Type = HalfOrc
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:275
+#, fuzzy
 msgctxt "h3c6f3af8g322eg476eg9ce5g90147ae33dd7"
 msgid ""
 "Creatures of intense emotion, half-orcs are more inclined to act than "
 "contemplate - whether the rage burning their bodies compels them to fight, "
 "or the love filling their hearts inspires acts of incredible kindness."
 msgstr ""
+"격정적인 하프 오크들은 생각보다 행동을 선호합니다. 이들은 몸을 불태우는 분노에 따라 싸움에 몸을 맡기거나, 심장을 채우는 사랑을 따라 "
+"놀라울 정도의 친절을 배풀곤 합니다."
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26297,7 +26178,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:276
 msgctxt "hbd0c0ff7g523dg4242g8e2fg0ac8144f979e"
 msgid "Half-Orc"
-msgstr ""
+msgstr "하프 오크"
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26340,7 +26221,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:288
 msgctxt "he67e289fg72c7g4079ga12bg944ea141aefe"
 msgid "Shar's Sight"
-msgstr ""
+msgstr "샤의 시야"
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26350,7 +26231,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:294
 msgctxt "hcd4f8ea9g647fg4752ga2fcge5a1f12723be"
 msgid "The Justiciar has advantage against targets standing in darkness."
-msgstr ""
+msgstr "저스티시어는 어두운 곳에 서 있는 대상에게 이점을 가집니다."
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26527,7 +26408,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:358
 msgctxt "hbb19e1d9gfc4dg426fgb44dga81893e61308"
 msgid "Knowledge Domain"
-msgstr ""
+msgstr "지식 권역"
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -27218,7 +27099,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Races/Races.lsx:2390
 msgctxt "h41e49168g5dceg4b76g8429g3dc17f66fb20"
 msgid "Half-Orc"
-msgstr ""
+msgstr "하프 오크"
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -27565,6 +27446,8 @@ msgid ""
 "seeks to quench all life.  Even small fires can be extinguished by the "
 "sucking oblivion of the wraith's horrifying existence."
 msgstr ""
+"레이스는 악의 화신으로, 모든 생명을 소멸시키려는 무형의 형태로 응축되어 있습니다.  작은 불조차도 레이스가 빨아들이는 망각에 의해 꺼질 "
+"수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -28080,6 +27963,8 @@ msgid ""
 "seeks to quench all life.  Even small fires can be extinguished by the "
 "sucking oblivion of the wraith's horrifying existence."
 msgstr ""
+"레이스는 악의 화신으로, 모든 생명을 소멸시키려는 무형의 형태로 응축되어 있습니다.  작은 불조차도 레이스가 빨아들이는 망각에 의해 꺼질 "
+"수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race

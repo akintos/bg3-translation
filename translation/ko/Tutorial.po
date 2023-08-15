@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-13 20:54+0000\n"
+"PO-Revision-Date: 2023-08-15 04:54+0000\n"
 "Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/bg3/tutorial/ko/>\n"
 "Language: ko\n"
@@ -22,7 +22,7 @@ msgctxt "h10b8c5b0g0338g4b6cgbc88g9808f190e99e"
 msgid ""
 "The Netherese Weave roiling within you hungers for magic items. Consume an "
 "item or face the consequences. "
-msgstr "네더릴 위브로 인해 마법 아이템에 굶주리고 있습니다. 아이템을 흡수하지 않으면 휴우증에 시달리게 됩니다. "
+msgstr "당신 속에서 요동치는 네더릴 위브가 마법 아이템을 원합니다. 아이템을 흡수하지 않으면 그 결과를 감당해야 합니다. "
 
 #. FilePath = Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -69,12 +69,11 @@ msgstr "비전 굶주림"
 #. HandlePath = KeyboardDescription
 #. TutorialName = AvatarGaleItems
 #: Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx:13
-#, fuzzy
 msgctxt "h53108d9dg62bbg407ag93dbg8365b7975c8a"
 msgid ""
 "The Netherese Weave roiling within you hungers for magic items. Consume an "
 "item or face the consequences. "
-msgstr "네더릴 위브로 인해 마법 아이템에 굶주리고 있습니다. 아이템을 흡수하지 않으면 휴우증에 시달리게 됩니다. "
+msgstr "당신 속에서 요동치는 네더릴 위브가 마법 아이템을 원합니다. 아이템을 흡수하지 않으면 그 결과를 감당해야 합니다. "
 
 #. FilePath = Gustav/Public/GustavDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -296,7 +295,7 @@ msgstr ""
 msgctxt "h7e99c933g9881g4ea7g9446g7df1e8029d2c"
 msgid ""
 "Take a Short Rest to recover half your hit points and some other resources."
-msgstr ""
+msgstr "짧은 휴식을 취하면 체력 절반과 다른 몇몇 자원을 회복합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -308,6 +307,8 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu \n"
 " <LSTag Type=\"Image\" Info=\"TutorialShortRestMenu\"/> Short Rest"
 msgstr ""
+"[IE_PanelSelect] 게임 메뉴 열기 \n"
+" <LSTag Type=\"Image\" Info=\"TutorialShortRestMenu\"/> 짧은 휴식"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -347,7 +348,7 @@ msgstr "짧은 휴식"
 msgctxt "hacb94978g69eag482ega959g48fb4246d621"
 msgid ""
 "Take a Short Rest to recover half your hit points and some other resources."
-msgstr ""
+msgstr "짧은 휴식을 취하면 체력 절반과 다른 몇몇 자원을 회복합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -359,6 +360,8 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialCamp\"/> Open Rest Menu \n"
 "<LSTag Type=\"Image\" Info=\"TutorialShortRest\"/> Initiate Short Rest"
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialCamp\"/> 휴식 메뉴 열기 \n"
+"<LSTag Type=\"Image\" Info=\"TutorialShortRest\"/> 짧은 휴식 시작하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1877,7 +1880,7 @@ msgctxt "hb96e8169g85c9g40dcgb320gef11c3e4907e"
 msgid ""
 "When you're finished, click the button in right corner of your hotbar to end "
 "your turn."
-msgstr ""
+msgstr "턴을 마무리 하려면, 단축바 오른쪽 구석의 버튼을 눌러 턴을 종료합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1978,7 +1981,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:422
 msgctxt "hd27f5021g9260g4862gb777gb967391458d1"
 msgid "Avoid enemy sightlines while sneaking to remain Hidden."
-msgstr ""
+msgstr "계속 은닉하기 위해 적의 시야를 피하십시오."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1987,7 +1990,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:423
 msgctxt "h82ecd12ag629dg4e0bg88e3g89c145bb2202"
 msgid "[IE_ShowWorldTooltips] Show enemy sightlines"
-msgstr ""
+msgstr "[IE_ShowWorldTooltips] 적 시야 보이기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2005,6 +2008,12 @@ msgid ""
 "[IE_ShowWorldTooltips] Show enemy sightlines\n"
 "[IE_ToggleSpells] <LSTag Type=\"Image\" Info=\"TutorialGroupSneak\"/> Sneak"
 msgstr ""
+"시야는 다른 크리쳐가 볼 수 있는 구역을 표시합니다. 시야를 토글하거나 은닉 상태로 진입하면 크리쳐의 시야를 볼 수 있습니다. 숨어 있는 "
+"동안 크리쳐의 시야내로 진입 하는 경우, <LSTag Tooltip=\"Stealth\">은닉</LSTag> 판정을 해서 크리쳐가 당신을 "
+"인식하는지 결정되며, 실패하면 발각될 것입니다. 만약 계속 숨어 있기를 원하면, 이 구역들은 돌아가는 게 좋습니다.\n"
+"\n"
+"[IE_ShowWorldTooltips] 적의 시야 보이기\n"
+"[IE_ToggleSpells] <LSTag Type=\"Image\" Info=\"TutorialGroupSneak\"/> 은닉"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2013,7 +2022,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:425
 msgctxt "h540aa544gf900g48b6g905aga1033403a928"
 msgid "Enemy Sightlines"
-msgstr ""
+msgstr "적 시야"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2022,7 +2031,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:427
 msgctxt "h307bdee7g75fag4f32g9634g457146bbef54"
 msgid "Avoid enemy sightlines while sneaking to remain Hidden."
-msgstr ""
+msgstr "계속 은닉하기 위해 적의 시야를 피하십시오."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2031,7 +2040,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:428
 msgctxt "he3ddaba8g9880g4761g93b7gfc9b82773244"
 msgid "[IE_ShowSneakCones] Show enemy sightlines"
-msgstr ""
+msgstr "[IE_ShowSneakCones] 적 시야 보이기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2049,6 +2058,12 @@ msgid ""
 "[IE_ShowSneakCones] Show enemy sightlines\n"
 "<LSTag Type=\"Image\" Info=\"TutorialGroupSneak\"/> Sneak"
 msgstr ""
+"시야는 다른 크리쳐가 볼 수 있는 구역을 표시합니다. 시야를 토글하거나 은닉 상태로 진입하면 크리쳐의 시야를 볼 수 있습니다. 숨어 있는 "
+"동안 크리쳐의 시야내로 진입 하는 경우, <LSTag Tooltip=\"Stealth\">은닉</LSTag> 판정을 해서 크리쳐가 당신을 "
+"인식하는지 결정되며, 실패하면 발각될 것입니다. 만약 계속 숨어 있기를 원하면, 이 구역들은 돌아가는 게 좋습니다.\n"
+"\n"
+"[IE_ShowSneakCones] 적 시야 보이기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialGroupSneak\"/> 은닉"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2989,7 +3004,7 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialDualWieldToggle\"/> Toggle off-hand "
 "attacks"
 msgstr ""
-"근접 무기를 양손에 들고 있을 때, 자동으로 추가 행동을 사용하여 두 번째 무기로 추가 공격을 할 수 있습니다. 이 자동 사용은 캐릭터 "
+"쌍수 근접 무기를 들고 있을 때, 자동으로 추가 행동을 사용하여 두 번째 무기로 추가 공격을 할 수 있습니다. 이 자동 사용은 캐릭터 "
 "시트에서 언제든지 토글할 수 있습니다.\n"
 "\n"
 "[IE_PanelSelect] 게임 메뉴 열기\n"
@@ -3043,7 +3058,7 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialDualWieldToggle\"/> "
 "[IE_ToggleDualWielding] Toggle Dual Wielding Attacks"
 msgstr ""
-"근접 무기를 양손에 들고 있을 때, 자동으로 추가 행동을 사용하여 두 번째 무기로 추가 공격을 할 수 있습니다. 이 자동 사용은 단축바 "
+"쌍수 근접 무기를 들고 있을 때, 자동으로 추가 행동을 사용하여 두 번째 무기로 추가 공격을 할 수 있습니다. 이 자동 사용은 단축바 "
 "혹은 키보드 단축키를 사용해 언제든지 토글할 수 있습니다.\n"
 "\n"
 "<LSTag Type=\"Image\" Info=\"TutorialDualWieldToggle\"/> "
@@ -3421,6 +3436,8 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialNonLethalToggle\"/> Toggle non-lethal "
 "attacks"
 msgstr ""
+"단축바의 패시브 탭으로 이동\n"
+"<LSTag Type=\"Image\" Info=\"TutorialNonLethalToggle\"/> 비살상 공격 토글"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3436,6 +3453,10 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialNonLethalToggle\"/> Toggle non-lethal "
 "attacks"
 msgstr ""
+"근접공격을 이용해 적을 살상하는 대신 기절 상태로 만들 수 있습니다. 이 옵션은 단축바의 패시브 탭에서 토글 가능합니다.\n"
+"\n"
+"단축바의 패시브 탭으로 이동\n"
+"<LSTag Type=\"Image\" Info=\"TutorialNonLethalToggle\"/> 비살상 공격 토글"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3492,6 +3513,11 @@ msgid ""
 "\n"
 "[IE_ContextMenu] Use the Context Menu on a lock or chest to pick it"
 msgstr ""
+"도둑의 도구<LSTag Type=\"Image\" Info=\"TutorialThievesTools\"/>는 자물쇠를 <LSTag "
+"Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 성공해 따 낼때 사용됩니다. 만약 판정에 실패하면, 도둑의 "
+"도구는 부서집니다. 그러나 걱정하지 마세요. 모든 자물쇠에 대한 열쇠는 어딘가에 있습니다.\n"
+"\n"
+"[IE_ContextMenu] 자물쇠나 상자를 따기 위해 상세메뉴를 사용"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3529,6 +3555,11 @@ msgid ""
 "\n"
 "[IE_ContextMenu] Use the Context Menu on a lock or chest to pick it"
 msgstr ""
+"도둑의 도구<LSTag Type=\"Image\" Info=\"TutorialThievesTools\"/>는 자물쇠를 <LSTag "
+"Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 성공해 따 낼때 사용됩니다. 만약 판정에 실패하면, 도둑의 "
+"도구는 부서집니다. 그러나 걱정하지 마세요. 모든 자물쇠에 대한 열쇠는 어딘가에 있습니다.\n"
+"\n"
+"[IE_ContextMenu] 자물쇠나 상자를 따기 위해 상세메뉴를 사용"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3541,6 +3572,9 @@ msgid ""
 "\"TutorialThievesTools\"/> to pick a lock - or you can find its key.\n"
 "Be warned! Your Thieves' Tools will break on a failed attempt."
 msgstr ""
+"도둑의 도구<LSTag Type=\"Image\" Info=\"TutorialThievesTools\"/>를 사용하여 자물쇠를 따거나, "
+"그에 맞는 열쇠를 찾을 수도 있습니다.\n"
+"조심하세요! 도둑의 도구는 실패하면 부서집니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3549,7 +3583,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:751
 msgctxt "hb2025099ga7a1g46fbg8b9dg25f7f67f1154"
 msgid "[IE_ContextMenu] Open Context Menu to lockpick"
-msgstr ""
+msgstr "[IE_ContextMenu] 자물쇠를 따기 위해 상세 메뉴 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3571,6 +3605,9 @@ msgid ""
 "\"TutorialThievesTools\"/> to pick a lock - or you can find its key.\n"
 "Be warned! Your Thieves' Tools will break on a failed attempt."
 msgstr ""
+"도둑의 도구<LSTag Type=\"Image\" Info=\"TutorialThievesTools\"/>를 사용하여 자물쇠를 따거나, "
+"그에 맞는 열쇠를 찾을 수도 있습니다.\n"
+"조심하세요! 도둑의 도구는 실패하면 부서집니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3579,7 +3616,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:755
 msgctxt "he1887b40g66e4g4c8aga285g1a8822a40213"
 msgid "[IE_ContextMenu] Open Context Menu to lockpick"
-msgstr ""
+msgstr "[IE_ContextMenu] 자물쇠를 따기 위해 상세 메뉴 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3618,6 +3655,12 @@ msgid ""
 "[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialHide\">Hide</LSTag>\n"
 "[IE_ContextMenu] Begin pickpocketing"
 msgstr ""
+"숨어있는 동안 다른 사람의 아이템을 소매치기 할 수 있습니다. 어떤 사람 근처에 숨어 있으면, 소매치기를 위해 상세 메뉴를 사용할 수 "
+"있습니다. 그리고 어떤 아이템들을 훔칠 지 선택합니다. 손재주 판정에 성공하면 아이템을 훔치는데 성공합니다. 더 가치 있는 아이템일수록 "
+"판정은 더 어려워집니다. 판정에 실패하면 당신은 발각되며, 범죄자로 낙인 찍힙니다.\n"
+"\n"
+"[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialHide\">숨기</LSTag>\n"
+"[IE_ContextMenu] 소매치기 시작"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3626,7 +3669,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:766
 msgctxt "hb2afb52egf3f9g4746ga757g0ee6378c99b3"
 msgid "Pickpocketing"
-msgstr ""
+msgstr "소매치기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3664,6 +3707,13 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialHide\"/> Hide\n"
 "[IE_ContextMenu] Begin pickpocketing"
 msgstr ""
+"숨어있는 동안 다른 사람의 아이템을 소매치기할 수 있습니다. 다른 캐릭터 근처에 숨어 있으면, 상세 메뉴에서 소매치기 옵션을 선택해 어떤 "
+"아이템들을 훔칠지 고릅니다. <LSTag Tooltip=\"SleightOfHand\">손재주</LSTag> 판정에 성공하면 아이템을 "
+"훔치는데 성공합니다. 더 가치 있는 아이템일수록 판정은 더 <LSTag Tooltip=\"DifficultyClass\">어려워</"
+"LSTag>집니다. 판정에 실패하면 당신은 발각되며, 범죄자로 낙인찍힙니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialHide\"/> 숨기\n"
+"[IE_ContextMenu] 소매치기 시작"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3688,6 +3738,9 @@ msgid ""
 "causing trouble, characters may call their associated guards on you - "
 "leading to fines, jail time, or possibly worse. "
 msgstr ""
+"기억하세요: 당신이 저지른 행동에 따른 확실한 결과가 존재한다는 것을! 빨간색으로 강조된 아이템들을 가져가면 범죄로 간주되며, 폭력 "
+"행위도 마찬가지입니다. 문제를 일으키면 사람들이 지역 경비원에게 당신을 신고할 수 있습니다. 이는 벌금, 징역형 또는 그보다 더 나쁜 "
+"결과를 초래할 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3721,6 +3774,9 @@ msgid ""
 "causing trouble, characters may call their associated guards on you - "
 "leading to fines, jail time, or possibly worse. "
 msgstr ""
+"기억하세요: 당신이 저지른 행동에 따른 확실한 결과가 존재한다는 것을! 빨간색으로 강조된 아이템들을 가져가면 범죄로 간주되며, 폭력 "
+"행위도 마찬가지입니다. 문제를 일으키면 사람들이 지역 경비원에게 당신을 신고할 수 있습니다. 이는 벌금, 징역형 또는 그보다 더 나쁜 "
+"결과를 초래할 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3820,7 +3876,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:808
 msgctxt "hb4cc1436g359bg4419ga500g705d98991de5"
 msgid "Basic Movement"
-msgstr ""
+msgstr "기본적인 이동"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3851,6 +3907,8 @@ msgid ""
 " to dynamically move characters towards the cursor. Grouped party members "
 "will always move together.  "
 msgstr ""
+"게임내 이동하고 싶은 곳을 클릭하세요. 혹은 [IE_UILeftMouse]을 누르고 있으면 커서가 있는 방향으로 동적으로 움직입니다. "
+"그룹으로 묶여진 파티원들도 같이 움직입니다.  "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3944,7 +4002,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:846
 msgctxt "h983fbea5gd5b3g447dga5e0g8fd5e92faab0"
 msgid "Move your camera to get a look at what lies ahead."
-msgstr ""
+msgstr "카메라를 움직여 앞에 놓인 상황을 살펴보세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4016,6 +4074,9 @@ msgid ""
 "\n"
 "[IE_ShowWorldTooltips] Highlight nearby containers and items"
 msgstr ""
+"새로운 전리품을 더 쉽게 찾을 수 있도록 근처의 항목을 강조 표시할 수 있습니다. \n"
+"\n"
+"[IE_ShowWorldTooltips] 근처의 상자와 아이템 강조 표시하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4057,6 +4118,9 @@ msgid ""
 "\n"
 "[IE_ShowWorldTooltips] Highlight nearby containers and items"
 msgstr ""
+"새로운 전리품을 더 쉽게 찾을 수 있도록 근처의 항목을 강조 표시할 수 있습니다. \n"
+"\n"
+"[IE_ShowWorldTooltips] 근처의 상자와 아이템 강조 표시하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4092,6 +4156,10 @@ msgid ""
 "\n"
 "[IE_ContextMenu] Open Context Menu"
 msgstr ""
+"상세 메뉴에는 아이템을 사용하거나 판매품으로 지정하거나, 다른 파티원에게 보내는 등의 기능이 있습니다. 게임내 특정 아이템들이나 물건들의 "
+"상세 메뉴에는 자물쇠 따기나 등반 같은 특별한 상호작용이 있습니다.\n"
+"\n"
+"[IE_ContextMenu] 상세 메뉴 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4100,7 +4168,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:885
 msgctxt "h47885aa3gd6f9g4e23ga36cg035dc7c60adf"
 msgid "Item Context Menu"
-msgstr ""
+msgstr "아이템 상세 메뉴"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4136,6 +4204,10 @@ msgid ""
 "\n"
 "[IE_ContextMenu] Open Context Menu"
 msgstr ""
+"상세 메뉴에는 아이템을 사용하거나 판매품으로 지정하거나, 다른 파티원에게 보내는 등의 기능이 있습니다. 게임내 특정 아이템들이나 물건들의 "
+"상세 메뉴에는 자물쇠 따기나 등반 같은 특별한 상호작용이 있습니다.\n"
+"\n"
+"[IE_ContextMenu] 상세 메뉴 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4265,6 +4337,9 @@ msgid ""
 "\n"
 "[IE_Action1] Click and drag to move"
 msgstr ""
+"게임내 존재하는 몇몇 물체들을 클릭 중에 드래그하면 물체를 옮길 수 있습니다. 힘이 센 캐릭터일수록 더 무거운 물체를 들 수 있습니다.\n"
+"\n"
+"[IE_Action1] 옮기기 위해 클릭하고 드래그"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4290,6 +4365,10 @@ msgid ""
 "\n"
 "[IE_ContextMenu] Examine weaknesses"
 msgstr ""
+"몇몇 물체들은 비정상적으로 단단해서 한 번에 충분히 강하게 때려야 실제 영향을 받는 것들이 있습니다. 언제든지 단단한 물체나 적을 "
+"조사해서 약점이 있는지 볼 수 있습니다.\n"
+"\n"
+"[IE_ContextMenu] 약점 조사하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4298,7 +4377,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:931
 msgctxt "h4622d00bg7657g4abdg955agd91877340915"
 msgid "Toughness"
-msgstr ""
+msgstr "강도 (단단한 정도)"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4324,6 +4403,10 @@ msgid ""
 "\n"
 "[IE_ContextMenu] Examine weaknesses"
 msgstr ""
+"몇몇 물체들은 비정상적으로 단단해서 한 번에 충분히 강하게 때려야 실제 영향을 받는 것들이 있습니다. 언제든지 단단한 물체나 적을 "
+"조사해서 약점이 있는지 볼 수 있습니다.\n"
+"\n"
+"[IE_ContextMenu] 약점 조사하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4361,6 +4444,10 @@ msgid ""
 "[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialJump\"/> Open Action "
 "Menu and Jump"
 msgstr ""
+"도약을 사용해서 틈새나 함정, 기타 장애물 등을 지나갈 수 있습니다. 힘이 센 캐릭터일 수록 더 멀리 도약할 수 있습니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialJump\"/> [IE_Jump] 도약\n"
+"[IE_ToggleSpells]<LSTag Type=\"Image\" Info=\"TutorialJump\"/> 행동 메뉴를 열고 도약"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4369,7 +4456,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:946
 msgctxt "h281a63bcg7911g4ac6ga0ecga55b852e4558"
 msgid "Jump"
-msgstr ""
+msgstr "도약"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4402,6 +4489,9 @@ msgid ""
 "\n"
 "<LSTag Type=\"Image\" Info=\"TutorialJump\"/> [IE_Jump] Jump"
 msgstr ""
+"도약을 사용해서 틈새나 함정, 기타 장애물 등을 지나갈 수 있습니다. 힘이 센 캐릭터일 수록 더 멀리 도약할 수 있습니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialJump\"/> [IE_Jump] 도약"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4438,6 +4528,11 @@ msgid ""
 "\n"
 "[IE_PartyManagement] Manage party members"
 msgstr ""
+"일부 캐릭터는 임시 동맹으로 파티에 합류합니다. 추종자는 동료 또는 아바타를 따르며, 그 따르는 사람의 초상화 옆에 표시됩니다. 이 "
+"추종자를 선택하면 이동과 행동을 직접 제어할 수 있습니다.\n"
+"추종자는 아이템을 집거나 대화에서 상호 작용할 수 없습니다.\n"
+"\n"
+"[IE_PartyManagement] 파티원 관리"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4446,7 +4541,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:961
 msgctxt "hb79cbc11g6b28g43d3gb3abg5fe8811f9731"
 msgid "Followers"
-msgstr ""
+msgstr "추종자"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4481,6 +4576,9 @@ msgid ""
 "and actions.\n"
 "Followers cannot pick up items or interact in dialogues for you. "
 msgstr ""
+"일부 캐릭터는 임시 동맹으로 파티에 합류합니다. 추종자는 동료 또는 아바타를 따르며, 그 따르는 사람의 초상화 옆에 표시됩니다. 이 "
+"추종자를 선택하면 이동과 행동을 직접 제어할 수 있습니다.\n"
+"추종자는 아이템을 집거나 대화에서 상호 작용할 수 없습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4520,6 +4618,12 @@ msgid ""
 "and goals. If their attitude towards you drops low enough, they will leave - "
 "but if it is high enough, you may form a close bond with them."
 msgstr ""
+"어떤 아군들은 미우나 고우나 당신편에 붙어 있을겁니다. 동료들은 파티의 일원으로서 모험에 동참하거나, 당신이 부를 때까지 캠프에서 기다릴 "
+"수 있습니다. 모든 동료는 당신과 함께 싸웠는지, 캠프에 머물렀는지에 관계없이 동시에 경험치를 얻습니다. 동료가 활성 파티에 있으면 마치 "
+"나의 아바타처럼 움직임과 행동을 제어할 수 있습니다.\n"
+"\n"
+"기억하십시오. 이들은 자신의 의견과 목표를 가지고 생각하고 느끼는 사람들입니다. 당신에 대한 그들의 태도가 매우 낮아지면 그들은 "
+"떠나겠지만, 충분히 높으면 그들과 긴밀한 유대를 형성할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4568,6 +4672,12 @@ msgid ""
 "and goals. If their attitude towards you drops low enough, they will leave - "
 "but if it is high enough, you may form a close bond with them."
 msgstr ""
+"어떤 아군들은 미우나 고우나 당신편에 붙어 있을겁니다. 동료들은 파티의 일원으로서 모험에 동참하거나, 당신이 부를 때까지 캠프에서 기다릴 "
+"수 있습니다. 모든 동료는 당신과 함께 싸웠는지, 캠프에 머물렀는지에 관계없이 동시에 경험치를 얻습니다. 동료가 활성 파티에 있으면 마치 "
+"나의 아바타처럼 움직임과 행동을 제어할 수 있습니다.\n"
+"\n"
+"기억하십시오. 이들은 자신의 의견과 목표를 가지고 생각하고 느끼는 사람들입니다. 당신에 대한 그들의 태도가 매우 낮아지면 그들은 "
+"떠나겠지만, 충분히 높으면 그들과 긴밀한 유대를 형성할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4738,6 +4848,13 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialStealthDimLight\"/>Lightly Obscured\n"
 "<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/>Heavily Obscured"
 msgstr ""
+"숨어 있는 캐릭터가 크리쳐의 시야를 통과해 숨은 상태를 유지하기 위해서는 은신 판정을 통과해야 합니다. 실패하면 발각됩니다. 그림자에 "
+"붙어 다니면 은신이 훨씬 쉬워집니다. 따라서 더 나은 은신처를 만들려면 근처의 광원을 끄십시오. 캐릭터의 초상화 옆에 있는 아이콘은 특정 "
+"영역에서 캐릭터가 얼마나 가려지는지를 보여줍니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialStealthFullLight\"/> 완전히 드러남\n"
+"<LSTag Type=\"Image\" Info=\"TutorialStealthDimLight\"/> 살짝 가려짐\n"
+"<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/> 상당히 가려짐"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4791,6 +4908,13 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialStealthDimLight\"/>Lightly Obscured\n"
 "<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/>Heavily Obscured"
 msgstr ""
+"숨어 있는 캐릭터가 크리쳐의 시야를 통과해 숨은 상태를 유지하기 위해서는 은신 판정을 통과해야 합니다. 실패하면 발각됩니다. 그림자에 "
+"붙어 다니면 은신이 훨씬 쉬워집니다. 따라서 더 나은 은신처를 만들려면 근처의 광원을 끄십시오. 숨어 있는 동안, 마우스 커서는 특정 "
+"영역에서 얼마나 가려질지 보여줍니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialStealthFullLight\"/> 완전히 드러남\n"
+"<LSTag Type=\"Image\" Info=\"TutorialStealthDimLight\"/> 살짝 가려짐\n"
+"<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/> 상당히 가려짐"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4815,6 +4939,8 @@ msgid ""
 "exist in the world. Many of them can change when interacting with elements "
 "like heat or sparks, and can be washed away by water. "
 msgstr ""
+"표면은 주문, 물약, 아이템 등으로 생성될 수 있습니다. 그리고 몇몇 표면은 이미 게임내에 존재합니다. 상당수의 표면들은 열이나 불꽃 "
+"같은 것과 상호작용하여 성질이 바뀌기도 하고, 물로 씻겨 없어지기도 합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4823,7 +4949,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1037
 msgctxt "h9b1a562cg1338g4b73g9a59gca829c7b4a85"
 msgid "Surfaces"
-msgstr ""
+msgstr "표면"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4848,6 +4974,8 @@ msgid ""
 "exist in the world. Many of them can change when interacting with elements "
 "like heat or sparks, and can be washed away by water. "
 msgstr ""
+"표면은 주문, 물약, 아이템 등으로 생성될 수 있습니다. 그리고 몇몇 표면은 이미 게임내에 존재합니다. 상당수의 표면들은 열이나 불꽃 "
+"같은 것과 상호작용하여 성질이 바뀌기도 하고, 물로 씻겨 없어지기도 합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4984,6 +5112,12 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialTorch\"/> Use torch\n"
 "<LSTag Type=\"Image\" Info=\"TutorialLightSpell\"/> Use Light spell"
 msgstr ""
+"어두컴컴한 지역들은 탐험하기 어렵습니다. 어둠속에서의 전투는 <LSTag Type=\"Status\" Tooltip=\"DARKVISION"
+"\">암시야</LSTag>를 갖고 있지 않는 한 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 적용 "
+"받습니다. 더 원활한 탐험을 위해 횃불을 켜거나 빛을 밝혀주는 주문을 시전하십시오.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialTorch\"/> 횃불 사용\n"
+"<LSTag Type=\"Image\" Info=\"TutorialLightSpell\"/> 빛 주문 사용"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4992,7 +5126,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1068
 msgctxt "hc520f9c5ge465g4c6fgb1c1g3804d4020e7c"
 msgid "Darkness"
-msgstr ""
+msgstr "어둠"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5031,6 +5165,12 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialTorch\"/> Use torch\n"
 "<LSTag Type=\"Image\" Info=\"TutorialLightSpell\"/> Use Light spell"
 msgstr ""
+"어두컴컴한 지역들은 탐험하기 어렵습니다. 어둠속에서의 전투는 <LSTag Type=\"Status\" Tooltip=\"DARKVISION"
+"\">암시야</LSTag>를 갖고 있지 않는 한 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 적용 "
+"받습니다. 더 원활한 탐험을 위해 횃불을 켜거나 빛을 밝혀주는 주문을 시전하십시오.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialTorch\"/> 횃불 사용\n"
+"<LSTag Type=\"Image\" Info=\"TutorialLightSpell\"/> 빛 주문 사용"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5060,6 +5200,12 @@ msgid ""
 "[IE_ToggleManualTurnBasedMode] Toggle Turn Based Mode\n"
 "[IE_UIEndTurn] End turn "
 msgstr ""
+"턴제 모드는 게임을 일시정지합니다. 각 라운드는 6초의 시간으로 분할됩니다. 함정을 피하거나 적을 피해 은닉할 때 도움이 됩니다. 턴제 "
+"모드에서는 파티원 외의 게임내 행동들(함정, 표면, 기타 크리쳐들 포함)이 모두 종료된 후에, 파티원들 모두 같은 턴에 행동하고 "
+"움직입니다. 언제든지 턴제 모드를 켜고 끌 수 있습니다.\n"
+"\n"
+"[IE_ToggleManualTurnBasedMode] 턴제 모드 토글\n"
+"[IE_UIEndTurn] 턴 종료 "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5068,7 +5214,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1082
 msgctxt "hb8629504gceeeg4d59g925age4775621ed02"
 msgid "Turn-Based Mode"
-msgstr ""
+msgstr "턴제 모드"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5098,6 +5244,12 @@ msgid ""
 "[IE_UIEnterTurnBased] Toggle Turn Based Mode\n"
 "<LSTag Type=\"Image\" Info=\"TutorialEndTurn\"/> End turn "
 msgstr ""
+"턴제 모드는 게임을 일시정지합니다. 각 라운드는 6초의 시간으로 분할됩니다. 함정을 피하거나 적을 피해 은닉할 때 도움이 됩니다. 턴제 "
+"모드에서는 파티원 외의 게임내 행동들(함정, 표면, 기타 크리쳐들 포함)이 모두 종료된 후에, 파티원들 모두 같은 턴에 행동하고 "
+"움직입니다. 언제든지 턴제 모드를 켜고 끌 수 있습니다.\n"
+"\n"
+"[IE_UIEnterTurnBased] 턴제 모드 토글\n"
+"<LSTag Type=\"Image\" Info=\"TutorialEndTurn\"/> 턴 종료 "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5117,7 +5269,7 @@ msgctxt "h99dfc9d9gd5f4g4531gb3d5gd7225db2b225"
 msgid ""
 "You can switch between holding your ranged or melee weapons. You can find "
 "the buttons in your hotbar."
-msgstr ""
+msgstr "원거리 무기와 근접 무기를 전환할 수 있습니다. 버튼은 단축바에서 찾을 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5159,6 +5311,11 @@ msgid ""
 "\n"
 "[IE_ContextMenu] Open Context Menu to disarm traps"
 msgstr ""
+"함정 없는 던전은 상상할 수 없습니다. 일부는 잘 보이고, 일부는 가장 예리한 눈만 볼 수 있는 숨겨진 함정이 있습니다. 함정이 드러나면 "
+"손재주 판정을 위해 함정 해제 도구를 사용하여 이러한 함정을 해체할 수 있습니다. 조심하세요, 실패하면 도구가 부서지고 함정이 발동됩니다."
+"\n"
+"\n"
+"[IE_ContextMenu] 함정 해제를 위한 상세 메뉴 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5197,6 +5354,11 @@ msgid ""
 "\n"
 "[IE_ContextMenu] Open Context Menu to disarm traps"
 msgstr ""
+"함정 없는 던전은 상상할 수 없습니다. 일부는 잘 보이고, 일부는 가장 예리한 눈만 볼 수 있는 숨겨진 함정이 있습니다. 함정이 드러나면 "
+"손재주 판정을 위해 함정 해제 도구를 사용하여 이러한 함정을 해체할 수 있습니다. 조심하세요, 실패하면 도구가 부서지고 함정이 발동됩니다."
+"\n"
+"\n"
+"[IE_ContextMenu] 함정 해제를 위한 상세 메뉴 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5318,7 +5480,7 @@ msgctxt "hc39ff60age65dg4222ga2b5gceb6b4338755"
 msgid ""
 "This hotbar deck houses generic actions shared among most characters and any "
 "special weapon actions. "
-msgstr ""
+msgstr "이 단축바 덱에는 대부분의 캐릭터가 공유하는 일반 행동과 특수 무기 행동이 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5340,6 +5502,8 @@ msgid ""
 "clicking and dragging the icon. You can manage which items are added "
 "automatically in the Options Menu. "
 msgstr ""
+"사용 가능한 아이템들은 자동으로 단축바에 추가 됩니다. 또한, 아이콘을 클릭 후 드래그하여 제거할 수 있습니다. 옵션에서 어떤 종류의 "
+"아이템들이 자동으로 추가될지 관리할 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5348,7 +5512,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1173
 msgctxt "h58b6abe0g534bg4c1eg9a64g666d011055b1"
 msgid "Hotbar Assignment (Spells)"
-msgstr ""
+msgstr "단축바 등록 (주문)"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5359,7 +5523,7 @@ msgctxt "h4ae4cee0g30bdg429bga466g4369f6af11d3"
 msgid ""
 "To assign a spell to the hotbar, drag its icon from your spellbook to the "
 "desired location. "
-msgstr ""
+msgstr "단축바에 주문을 등록하려면, 주문책 창에서 해당 주문의 아이콘을 드래그하여 원하는 위치에 놓습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5377,7 +5541,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1184
 msgctxt "ha11bf14bg8211g47c1gb574g7868a441aabc"
 msgid "Hotbar Assignment (Items)"
-msgstr ""
+msgstr "단축바 등록 (아이템)"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5388,7 +5552,7 @@ msgctxt "h269c340bg1606g46adg8e87gcb79b5876a25"
 msgid ""
 "To assign an item to the hotbar, drag its icon from your inventory to the "
 "desired location. "
-msgstr ""
+msgstr "단축바에 아이템을 등록하려면, 인벤토리에서 해당 아이템을 드래그하여 원하는 위치에 놓습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5707,6 +5871,13 @@ msgid ""
 "\n"
 "[IE_UITabPrev] Switch to Party View"
 msgstr ""
+"파티 보기에서는 캐릭터 인벤토리, 주문, 반응 행동 등을 관리합니다. 장비 또한 여기서 관리하며, 짐의 중량을 배분하고, 아이템을 "
+"분할하고, 특정 아이템을 찾고, 판매품 표시도 합니다. 또한 파티 보기는 파티원들의 캐릭터 시트를 비교하며 클래스 요소를 자세히 볼 수 "
+"있습니다.\n"
+"\n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 캐릭터 시트 열기\n"
+"[IE_UITabPrev] 파티 보기 전환"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5715,7 +5886,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1260
 msgctxt "h690c31aeg6ad1g4de8g8eb9ga960b04f08c1"
 msgid "Party View"
-msgstr ""
+msgstr "파티 보기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5755,6 +5926,13 @@ msgid ""
 "\"TutorialPartyInventory\"/> Open Party View\n"
 "[IE_DragSingleToggle] and click to select multiple items. "
 msgstr ""
+"파티 보기에서는 캐릭터 인벤토리, 주문, 반응 행동 등을 관리합니다. 장비 또한 여기서 관리하며, 짐의 중량을 배분하고, 아이템을 "
+"분할하고, 특정 아이템을 찾고, 판매품 표시도 합니다. 또한 파티 보기는 파티원들의 캐릭터 시트를 비교하며 클래스 요소를 자세히 볼 수 "
+"있습니다.\n"
+"\n"
+"[IE_TogglePartyCharacterView] <LSTag Type=\"Image\" Info="
+"\"TutorialPartyInventory\"/> 파티 보기 열기\n"
+"[IE_DragSingleToggle] + 클릭으로 여러 아이템 선택 "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6415,6 +6593,9 @@ msgid ""
 "- haggling in a trader's favour will make them like you more and get you "
 "better prices in future. "
 msgstr ""
+"많은 사람들이 당신과 거래를 하려고 하지만, 당신이 얼마나 호감을 받는지에 따라 거래 조건이 달라집니다.\n"
+"당신은 빠르게 아이템을 사고 팔기 위해 거래를 할 수 있습니다. 또는 더 나은 가격을 얻기 위해 흥정할 수 있습니다. 상인의 호의에 따라 "
+"흥정하면 그들은 당신을 더 좋아하게 되고 미래에 더 나은 가격에 거래 할 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6450,6 +6631,9 @@ msgid ""
 "- haggling in a trader's favour will make them like you more and get you "
 "better prices in future. "
 msgstr ""
+"많은 사람들이 당신과 거래를 하려고 하지만, 당신이 얼마나 호감을 받는지에 따라 거래 조건이 달라집니다.\n"
+"당신은 빠르게 아이템을 사고 팔기 위해 거래를 할 수 있습니다. 또는 더 나은 가격을 얻기 위해 흥정할 수 있습니다. 상인의 호의에 따라 "
+"흥정하면 그들은 당신을 더 좋아하게 되고 미래에 더 나은 가격에 거래 할 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6771,6 +6955,8 @@ msgid ""
 "You can knock out or flee from a temporarily hostile entity and return "
 "later. They might resent you, but will not be actively hostile. "
 msgstr ""
+"일시적 적대 상태인 개체를 기절시키거나 그로부터 도망친 이후에 다시 돌아올 수 있습니다. 당신을 싫어하겠지만, 노골적으로 적대하진 않을 "
+"것입니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6792,7 +6978,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1536
 msgctxt "h7f0aecefge874g45ebga010g85b9abe820fa"
 msgid "Temporarily Hostile"
-msgstr ""
+msgstr "일시적 적대"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6804,6 +6990,8 @@ msgid ""
 "You can knock out or flee from a temporarily hostile entity and return "
 "later. They might resent you, but will not be actively hostile. "
 msgstr ""
+"일시적 적대 상태인 개체를 기절시키거나 그로부터 도망친 이후에 다시 돌아올 수 있습니다. 당신을 싫어하겠지만, 노골적으로 적대하진 않을 "
+"것입니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7061,6 +7249,12 @@ msgid ""
 "Hold [IE_CameraZoomOut] to enter Tactical View\n"
 "Hold [IE_CameraZoomIn] to leave Tactical View"
 msgstr ""
+"카메라를 회전하고 이동시켜 주변을 더 잘 볼 수 있으며, 카메라를 완전히 줌아웃하여 탑 다운 시점에서 화면을 볼 수 있게 전술 보기를 "
+"사용할 수 있습니다.\n"
+"\n"
+"[IE_CameraRotate] 카메라 회전\n"
+"[IE_CameraZoomOut] 고정해서 전술보기로 진입\n"
+"[IE_CameraZoomIn] 고정해서 전술보기 나가기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7069,7 +7263,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1589
 msgctxt "h2c22ee10gf47bg475ag838ag95d4884193f9"
 msgid "Camera Controls"
-msgstr ""
+msgstr "카메라 조작"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7090,6 +7284,15 @@ msgid ""
 "[IE_ToggleTacticalCamera] Enter Tactical View\n"
 "[IE_CameraCenter] Centre Camera"
 msgstr ""
+"카메라를 회전하고 움직여서 주위의 더 좋은 시야를 확보할 수 있습니다. 전술 보기를 사용하여 탑다운 시점으로 볼 수도 있습니다. 화면내 "
+"요소들이 복잡해 보이거나 카메라를 너무 멀리 옮겼다면, 언제든 현재의 캐릭터로 다시 초점을 맞출 수 있습니다.\n"
+"\n"
+"[IE_FreeCameraToggleMouseRotate] [IE_CameraRotateRight] [IE_CameraRotateLeft]"
+" 카메라 회전\n"
+"[IE_CameraForward] [IE_CameraLeft] [IE_CameraBackward] [IE_CameraRight] 카메라 "
+"이동\n"
+"[IE_ToggleTacticalCamera] 전술보기로 진입\n"
+"[IE_CameraCenter] 카메라를 캐릭터로 이동"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7121,7 +7324,7 @@ msgstr ""
 ">엎어져</LSTag> 있는 적, 당신에 대해 긍정적이거나 부정적인 태도를 보이는 캐릭터, 당신을 돕거나 방해하는 주문 등은 몇 가지 "
 "예에 불과하므로 더 나은 기회를 찾을 수 있게 계속 주시하세요!\n"
 "\n"
-" <LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/> 이점이 있을 때 표시된다"
+" <LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/> 이점이 있을 때 표시됨"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7162,7 +7365,7 @@ msgstr ""
 ">엎어져</LSTag> 있는 적, 당신에 대해 긍정적이거나 부정적인 태도를 보이는 캐릭터, 당신을 돕거나 방해하는 주문 등은 몇 가지 "
 "예에 불과하므로 더 나은 기회를 찾을 수 있게 계속 주시하세요!\n"
 "\n"
-" <LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/> 이점이 있을 때 표시된다"
+" <LSTag Type=\"Image\" Info=\"TutorialAdvantage\"/> 이점이 있을 때 표시됨"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
