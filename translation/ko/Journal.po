@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-15 04:53+0000\n"
+"PO-Revision-Date: 2023-08-16 08:55+0000\n"
 "Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/journal/ko/>\n"
+"Language-Team: Korean <http://waldo.team/projects/bg3/journal/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3754,7 +3754,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/Markers/9445ff2c-7da7-425d-be69-42f778e46bde.lsx:8
 msgctxt "h65101d8fg4746g4c27gb5cegfa6e8b76e37a"
 msgid "Masons Guild"
-msgstr ""
+msgstr "석공 조합"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/Markers/947361f5-f521-45da-baa2-7cc2edb45ff8.lsx
 #. NodeID = Marker
@@ -4546,7 +4546,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/Markers/c070c9d8-e42a-4061-b5ba-56e4c75b2b96.lsx:8
 msgctxt "h20a2e7c7g8908g4a04ga24eg7be7c00d1714"
 msgid "Lucretious"
-msgstr ""
+msgstr "루크레셔스"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/Markers/c0867ea6-dae2-4474-a03a-db445f7a52ac.lsx
 #. NodeID = Marker
@@ -4630,7 +4630,7 @@ msgstr "적대적인 고블린"
 #: Gustav/Mods/GustavDev/Story/Journal/Markers/c2acc86b-f2d3-4f39-ab98-6e1cca45c829.lsx:8
 msgctxt "hcdc3ef44g25dag431egb608g44e0adc460f3"
 msgid "House in Deep Shadows"
-msgstr ""
+msgstr "깊은 어둠 속의 집"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/Markers/c2c5776c-beaa-4e6c-aba2-922f13d54f85.lsx
 #. NodeID = Marker
@@ -8000,11 +8000,9 @@ msgstr "강령술사의 책을 찾자."
 #. ObjectiveID = ORI_COM_Wyll_HuntKarlach
 #. QuestID = ORI_COM_Wyll
 #: Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1919
-#, fuzzy
-#| msgid "Find the Goblin Camp."
 msgctxt "h36e32c8cgd539g4166gbe8bg52e3e61e34ea"
 msgid "Hunt down Karlach."
-msgstr "고블린 캠프를 찾자."
+msgstr "칼라크를 추적하자."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -11732,7 +11730,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5751
 msgctxt "h80602bb1g1e79g4987gbfd9g781161a5668c"
 msgid "Explore the powers your parasite gives you."
-msgstr ""
+msgstr "기생충이 제공하는 힘을 살펴본다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -13514,7 +13512,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx:7507
 msgctxt "hf0a5d9d7g02edg40abgad54gc68ff80fa144"
 msgid "Get help from the cleric Isobel."
-msgstr ""
+msgstr "클레릭 이소벨에게서 도움을 받자."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -16270,7 +16268,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10223
 msgctxt "hbe342248gedd0g44b3g8267ga71546d38406"
 msgid "Investigate the Masons' Guild."
-msgstr ""
+msgstr "석공 조합을 조사하자."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -46459,6 +46457,8 @@ msgid ""
 "Jaheira told us to speak to a cleric called Isobel for help traversing the "
 "shadow curse. Isobel protects Last Light from the shadow curse."
 msgstr ""
+"이소벨이란 이름의 클레릭에게 그림자 저주를 가로지르는 데 필요한 도움을 요청하라고 자헤이라가 말했다. 이소벨은 그림자 저주로부터 최후의 "
+"빛을 지키고 있다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48778,7 +48778,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx:52071
 msgctxt "h47edce0cg3436g4f59ga175g5d3ed1667aab"
 msgid "Embrace Your Potential"
-msgstr ""
+msgstr "잠재력을 받아들이기"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48851,7 +48851,7 @@ msgctxt "hc8023404g7354g4253gadcdgaa65bb11bcb6"
 msgid ""
 "We used the power of our parasite to exert an influence beyond our selves. "
 "How far does this power go?"
-msgstr ""
+msgstr "우리는 기생충의 힘을 이용해 우리 자신을 넘어선 영향력을 행사했습니다. 이 힘의 범위는 어디까지일까요?"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48862,7 +48862,7 @@ msgstr ""
 msgctxt "hf9727ed0gf993g4fe6gb5fbg2f9fc8b8c653"
 msgid ""
 "We found a special parasite like our own - we were drawn to its potential. "
-msgstr ""
+msgstr "우리와 같은 특별한 기생충을 발견했고, 그 잠재력에 매료되었습니다. "
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep

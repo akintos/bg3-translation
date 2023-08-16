@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-15 04:54+0000\n"
-"Last-Translator: 조선인 <kimkikim141@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/books/ko/>\n"
+"PO-Revision-Date: 2023-08-16 08:54+0000\n"
+"Last-Translator: 김대현 <kim0322kr@gmail.com>\n"
+"Language-Team: Korean <http://waldo.team/projects/bg3/books/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -258,7 +258,6 @@ msgstr "연금술의 기초 제 9권. 격통 속에서도 훌륭한 이타심으
 #. Type = item
 #. Stats = BOOK_Alchemy_SerpentVenom
 #: Shared/Public/SharedDev/RootTemplates/32d92bb6-23f4-43bf-a979-8cf895479853.lsx:13
-#, fuzzy
 msgctxt "hf95703c3g8b6bg4508g8cddg0e05836f24a4"
 msgid "On Serpent Venom Toxin"
 msgstr "뱀의 맹독성에 대해"
@@ -882,12 +881,12 @@ msgstr ""
 "훌륭한 추출물이 나오느니\n"
 "\n"
 "비늘의 부재가 계속해서 문제가 되고 있다 (안 그런적은 있나, 하하.)\n"
-"가끔 잠에서 깨면 흰 시트에 진홍색으로 내 몸의 흔적이 남는다. 무슨 범죄 현장 처럼.\n"
+"가끔 잠에서 깨면 흰 시트에 진홍색으로 내 몸의 흔적이 남는다. 무슨 범죄 현장처럼.\n"
 "\n"
 "[빈 공간에 누군가 아래와 같은 주석을 달아 놨습니다:]\n"
 "\n"
 "영약 - 한 번에 하나만 복용할 수 있으며 긴 휴식에 들기 전까지 지속\n"
-"물약 - 한 번에 여러 개 복용할 수 있지만 영약 만큼 길게 지속되지 않음."
+"물약 - 한 번에 여러 개 복용할 수 있지만 영약만큼 길게 지속되지 않음."
 
 #. key = BOOK_Alchemy_SerpentVenom
 #. 
@@ -1058,9 +1057,9 @@ msgstr ""
 "[발타자르 본인의 꼼꼼한 필체로 기록된 실험 노트입니다.]\n"
 "\n"
 "\n"
-"명백한 결함은 차치하더라도, 고르타쉬가 나이에 어울리지 않을 정도로 과학에 소질이 있다는 것은 부인할 수 없다. 그의 최신 발명품이 "
+"명백한 결함은 차치하고서라도, 고타쉬가 나이에 어울리지 않을 정도로 과학에 소질이 있다는 것은 부인할 수 없다. 그의 최신 발명품이 "
 "나오기 전의 일리시드 도서관은 줄지어 서 있는 통 속의 뇌에 불과했지만, 그 장치 덕분에 새 피실험체를 추가할 때와 직접적으로 소통해야 "
-"할 때를 제외하고, 단순히 기억을 열람해야 할 때는 더 이상 싸이오닉 능력을 쓸 필요가 없어졌다.\n"
+"할 때를 제외하고, 단순히 기억을 열람해야 할 때는 더 이상 사이오닉 능력을 쓸 필요가 없어졌다.\n"
 "\n"
 "최근에 들어온 피실험체들에게도 제멋대로 장치를 실험하려 들거나, 내 작업대에 두개골 부스러기를 흘려 놓고 안 치우는 습관만 고치면 얼마나 "
 "좋을까.\n"
@@ -1073,11 +1072,10 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_COL_GortashNotes
 #: Gustav/Mods/GustavDev/Localization/Act2_Books.lsx:610
-#, fuzzy
 msgctxt "h3de2f184gbac0g4bdbgb590g12cb4932de3e"
 msgid ""
 "[A letter from 'E.V.' to 'B' regarding automatons called 'steel watchers'.]"
-msgstr "['E.V'가 'B'에게 보내는, '강철의 감시자'라 불리는 자동인형에 대한 편지.]"
+msgstr "['강철의 감시자'라 불리는 자동인형에 대해 'E.V'가 'B'에게 쓴 편지.]"
 
 #. key = BOOK_GEN_History_BhaalspawnTestimonials_000_3e3c378f-49d1-466c-8236-95e21bdd8211
 #. 
@@ -1086,7 +1084,6 @@ msgstr "['E.V'가 'B'에게 보내는, '강철의 감시자'라 불리는 자동
 #. HandlePath = Content
 #. UUID = BOOK_GEN_History_BhaalspawnTestimonials_000_3e3c378f-49d1-466c-8236-95e21bdd8211
 #: Gustav/Public/GustavDev/Localization/generated_books.lsx:5657
-#, fuzzy
 msgctxt "h85c53e2dg9edeg415dg8b7dg153b0715638d"
 msgid ""
 "[The guild seal on the inside of the cover belongs to a printmaking "
@@ -1128,7 +1125,7 @@ msgstr ""
 "\n"
 "'언제나 가장 먼저 떠오르는 건 사레복과 그의 동료들이지. 이 모든 게 네쉬켈의 철 쪼가리에서 시작되었다는 것을 알고 있나? 그 녀석들, "
 "어찌나 자주 싸웠는지 모두 손에 쥔 채로 무기가 썩을 줄 알았어. 당시, 나는 장사가 안되는 게 문제라고 생각했지, 그 남자를 바알의 "
-"아들이라고 생각한 적은 없었네.' - 임종할 때 인터뷰한 암의 용병\n"
+"아들이라고 생각한 적은 없었네.' - 임종할 때 인터뷰한 앰의 용병\n"
 "\n"
 "'감히 내 앞에서 그의 이름을 말하나? 나의 여주인님께서 그 천벌 받을 놈들과 싸우다 재가 되셨거늘. 바알을 저주하고, 이레니쿠스를 "
 "저주하고, 네놈을 저주하리라!' - 아스카틀라 빈민가의 적대적인 뱀파이어\n"
@@ -1160,11 +1157,10 @@ msgstr "악보"
 #. HandlePath = Content
 #. UUID = BOOK_UNI_WYR_IlmaterMusicSheet
 #: Gustav/Public/GustavDev/Localization/generated_books.lsx:4691
-#, fuzzy
 msgctxt "h7f48d0a6g282cg481ag97e1g74f1d58d12fe"
 msgid ""
 "[An elegiac fugue in the key of D minor, entitled 'Ode to the Oppressed.']"
-msgstr "['억압받는 자에게 바치는 찬가'라는 제목의 D단조 애가조의 둔주곡]]"
+msgstr "['억압받는 자에게 바치는 찬가'라는 제목의 D단조 애가조의 둔주곡]"
 
 #. key = BOOK_UNI_WYR_LifeOfGortash
 #. 
@@ -1173,7 +1169,6 @@ msgstr "['억압받는 자에게 바치는 찬가'라는 제목의 D단조 애�
 #. HandlePath = Content
 #. UUID = BOOK_UNI_WYR_LifeOfGortash
 #: Gustav/Public/GustavDev/Localization/generated_books.lsx:2374
-#, fuzzy
 msgctxt "ha071462fg1813g4182gbaf6g063d5acac82a"
 msgid ""
 "The True Life of 'Lord' Gortash \n"
@@ -1201,28 +1196,28 @@ msgid ""
 "Gortash's most powerful defenders but also his greatest vulnerability, since "
 "they're all controlled from one central nexus."
 msgstr ""
-"고르타쉬 '경'의 인생\n"
-"반스 파르놀의 자서전 원고\n"
-"목차 개요, 최종본:\n"
-"-엔버 플림에서 생존을 위해 몸부림치다\n"
-"-치기 어린 날들, 플림에서의 전과 목록\n"
-"-힙사이드 리버들과 함께한 범죄 조직 시절\n"
-"-동일 인물, 다른 이름: 플림에서의 새 출발\n"
-"-게이트의 세련된 두목\n"
-"-개인 사업자로 세탁하다\n"
-"-'경쟁업자? 있었는데요 없었습니다'\n"
-"-무기 밀수에 힘쓰다\n"
-"-젠트에 몸담았던 시절을 뒤로 하다\n"
+"고타쉬 '경'의 진짜 인생\n"
+"반스 파놀이 집필한 전기\n"
+"목차 개요, 최종 편집본:\n"
+"-엔버 플림, 생존을 위한 몸부림\n"
+"-유소년 중범죄. 플림의 빨간줄 기록\n"
+"-조직 시절. 힙사이드 약탈단\n"
+"-같은 얼굴, 새 이름. 플림에서 고타쉬로\n"
+"-게이트의 세련된 범죄계 거물\n"
+"-'개인 사업자'\n"
+"-'경쟁업자? 나랑 맞붙고 다 죽었지'\n"
+"-힘으로 무기 밀수업 접수\n"
+"-'젠트 놈들 시절은 갔다'\n"
 "-베인의 검은 손\n"
 "-...바알의 피 묻은 손과 악수하다\n"
-"-'모든 걸 다 가졌어도 부족해'\n"
-"-정말 기발한 계획\n"
-"-케서릭 쏘름의 위엄\n"
-"-곤디안의 신분체계를 뿌리뽑다\n"
-"-'고르타쉬 경이라 부르게'\n"
+"-'모든 걸 다 가진다 해도 부족해'\n"
+"-완전 기발한 계획\n"
+"-케서릭 쏨의 위엄\n"
+"-곤드 지배층의 목을 치다\n"
+"-'고타쉬 <b>경</b>이라 불러라'\n"
 "\n"
-"참고: 주조장에서 탈출한 곤디안을 인터뷰하여 얻은 정보를 토대로 강철의 감시자에 대한 항목을 추가하세요. 대충 감시자들은 고르타쉬의 가장 "
-"강력한 호위이지만, 하나의 중앙 넥서스로부터 통제되기 때문에 가장 큰 약점이기도 하다는 내용이면 될 겁니다."
+"<b>붙임</b>: 대장간에서 탈출한 그 곤드 신자와 면담해 얻은 정보를 토대로 강철 감시자에 대한 항목을 추가할 것. 대충 감시자는 "
+"고타쉬의 가장 강력한 호위병이지만 중앙 연결부에서 모든 감시자를 통제하므로 가장 큰 약점이기도 하다는 내용이면 될 것이다."
 
 #. key = BOOK_UNI_WYR_PleaOfRes
 #. 
@@ -1231,15 +1226,14 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = BOOK_UNI_WYR_PleaOfRes
 #: Gustav/Public/GustavDev/Localization/generated_books.lsx:4698
-#, fuzzy
 msgctxt "h1ea8e766ge2c0g4f5fg8a76gc7a812793569"
 msgid ""
 "[An hastily scrawled and slightly damp Plea of Rest, requesting to be freed "
 "of Ilmater's service for the duration of a tenday, as the writer mourns "
 "Father Lorgan.]"
 msgstr ""
-"[살짝 젖었고 급하게 쓰인 휴직 신청서. 로간 신부를 추모하기 위해 일메이터를 섬기는 직무로부터 열흘간 해방되기를 요청한다고 "
-"쓰여있습니다. ]"
+"[급하게 휘갈겨 썼고 살짝 축축한 휴직 신청서. 로간 신부를 추모하는 열흘간 일메이터를 섬기는 예배를 면하게 해주십사 하고 요청하는 "
+"내용입니다. ]"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/749e96c9-7748-433b-bf78-f6d6422840ed.lsx
 #. NodeID = GameObjects
@@ -1358,12 +1352,11 @@ msgstr "볼로의 님프 행동 완벽 안내서"
 #. Type = item
 #. Icon = Item_BOOK_Wizards_Tome_Generic_G
 #: Gustav/Public/Gustav/RootTemplates/f5eb9707-169e-47ce-bb3d-5d25d6fa8aa6.lsx:18
-#, fuzzy
 msgctxt "hba5263e5gb46cg4ca0ga8c8gada21897f101"
 msgid ""
 "The heavily edited draft of a book that examines the activities of nymphs in "
 "GREAT detail."
-msgstr "님프의 활동을 <b>무척이나</b> 상세하게 조사한, 수많은 수정을 거친 책의 초안본."
+msgstr "수정된 흔적이 빼곡하며 님프의 활동을 <b>무척이나</b> 상세하게 조사한 책 원고."
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/8c5f1f1a-1bd5-408f-a072-cd7c8991dd39.lsx
 #. NodeID = GameObjects
@@ -1383,13 +1376,12 @@ msgstr "볼로의 님프 행동 완벽 안내서 (서명됨)"
 #. Type = item
 #. Icon = Item_BOOK_Wizards_Tome_Generic_G
 #: Gustav/Public/Gustav/RootTemplates/8c5f1f1a-1bd5-408f-a072-cd7c8991dd39.lsx:18
-#, fuzzy
 msgctxt "h24d0a239gb0d5g46f9gb35egdb1cefe80397"
 msgid ""
 "A fawning dedication opens this heavily edited draft of a book that examines "
 "the activities of nymphs in GREAT detail."
 msgstr ""
-"님프의 활동을 <b>무척이나</b> 상세하게 조사한, 수많은 수정을 거친 책의 초안본의 초입부를 아첨하는 문체의 헌정사가 열고 있습니다."
+"수정된 흔적이 빼곡하며 님프의 활동을 <b>무척이나</b> 상세하게 조사한 책 원고의 초입부를 알랑거리는 헌정사가 열고 있습니다."
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/14d9b664-b4e4-4e22-a83f-7fafd09f61f5.lsx
 #. NodeID = GameObjects
@@ -1445,15 +1437,14 @@ msgstr "영혼에 관한 이 책의 초안은 분명히 작업 중인 작품이�
 #. HandlePath = Content
 #. UUID = CAMP_SwordCoastMap
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:799
-#, fuzzy
 msgctxt "h13aac684g8ee3g4206g919fg74599e79f2e7"
 msgid ""
 "[This map of the Sword Coast sprawls from the deep forest of Tethir to the "
 "frigid Spine of the World, its topography worn by ancient ink and the "
 "constant trade between mortal hands.]"
 msgstr ""
-"[이 소드 코스트의 지도는 깊은 숲 테티르에서부터 얼어붙은 <b>세상의 등뼈</b>까지 뻗어있고, 각 지형 묘사는 세월의 풍파와 끊임없는 "
-"소유자 변경에 의해 흐릿해져 있습니다.]"
+"[이 소드 코스트 지도는 깊은 숲 테티르부터 얼어붙은 세상의 등뼈까지 뻗어 있습니다. 각 지형은 끊임없이 교역하는 필멸자들의 손에서 "
+"오래된 잉크로 묘사되었습니다.]"
 
 #. key = CHA_BookOfTheDead
 #. 
@@ -1462,7 +1453,6 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = CHA_BookOfTheDead
 #: Gustav/Mods/Gustav/Localization/Act1_Books.lsx:365
-#, fuzzy
 msgctxt "hc47a5871g2066g4bbag8159gac5d279b26d9"
 msgid ""
 "[Fine dust coats the pages of this weathered book. Beneath the bone-white "
@@ -1472,11 +1462,11 @@ msgid ""
 "Ivain Arkenson, Oghma - Internal Rot.\n"
 "Devryn Stoutt, Selûne - Fever."
 msgstr ""
-"[고운 먼지가 낡은 책의 페이지에 쌓여 있습니다. 뼈처럼 흰 가루 아래에 수백 개의 부고가 깨알같이 기록되어 있습니다.]\n"
+"[고운 먼지가 이 낡은 책의 낱장들을 덮고 있습니다. 뼈처럼 흰 가루 아래에 수백 개의 부고가 깨알같은 글씨로 기록되어 있습니다.]\n"
 "\n"
-"일메이터의 그로비안 티플- 익사.\n"
-"오그마의 르베인 아켄슨- 장기부패.\n"
-"셀루네의 데번 스타우트- 열병."
+"그로비안 티플, 일메이터 - 익사.\n"
+"이베인 아켄슨, 오그마 - 장기 부패.\n"
+"데브린 스타우트, 셀루네 - 열병."
 
 #. key = CHA_Crypt_BookOfRestoredGods
 #. 
@@ -1601,12 +1591,12 @@ msgid ""
 "a mixture of bone and ash is consecrated. Upon the names of the dead we "
 "spread the offering, imbuing the ink with the essense of death, of our God..."
 msgstr ""
-"[곰팡이 때문에 잉크가 희미해졌지만, 두루마리의 서두는 아직 읽을 수 있습니다.]\n"
+"[곰팡이가 피어올라 대부분 오염되었지만, 두루마리의 서두만은 아직 읽을 수 있습니다.]\n"
 "\n"
 "*봉인 의식*\n"
 "\n"
-"우리 신은 사소한 의식 따위 신경 쓰지 않는다. 봉인만이 중요하며, 성심을 다하여 경외심으로 지켜보는 것이 중요하다. 봉인 날에 뼈와 "
-"재의 혼합물을 봉헌한다. 죽은 자의 이름 위에 제물을 뿌리며, 잉크에 죽음, 우리 신의 본질을 불어넣는다..."
+"우리 신은 사소한 의식 따윈 신경 쓰지 않는다. 오직 봉인만이 중요하며, 엄격한 숭앙 아래 목도함이 필수일지어다. 봉인의 날이 다가오면, "
+"뼈와 재의 혼합물이 봉헌된다. 망자들의 이름 위에 우리는 제물을 뿌리고, 우리 신의 죽음의 정수를 잉크에 불어넣는다..."
 
 #. key = CHA_SeluneChapel_Diary
 #. 
@@ -1648,7 +1638,6 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = CMP_ZevlorsAppeal_OrinsLetter
 #: Gustav/Mods/GustavDev/Localization/Act3_Books.lsx:1065
-#, fuzzy
 msgctxt "h0db7e6c8gbdd7g4de5g9bddgea2d9d5ec4f5"
 msgid ""
 "Such tender trappings you use to make your followers think themselves safe. "
@@ -1665,15 +1654,15 @@ msgid ""
 "\n"
 "Orin the Red"
 msgstr ""
-"이런 의미 없는 장식으로 네 추종자들에게 안전하다는 착각을 주다니, 가소롭구나. 이 살덩어리는 네 애완동물이었지? 내 칼날을 위한 훌륭한 "
-"캔버스가 되어줬고, 비명은 감미로운 합창과도 같더구나.\n"
+"이런 연약한 장식으로 네 추종자들에게 안전하다는 착각을 주다니. 이 살덩어리는 네 애완동물이었지? 이놈은 내 칼날을 위한 훌륭한 캔버스가 "
+"되어줬고, 그 비명은 가장 감미로운 합창이었지.\n"
 "\n"
 "내 살육을 목격하는 건 영광스러운 일이지만, 이건 시작에 불과해. 곧, 곧 너는 내 부정한 손이 자아낸 끔찍한 파괴의 광경을, 바알이 "
 "꿈꾸던 세상을 목격하게 될 것이다.\n"
 "\n"
 "너는 어떤 우상으로 만들어 줄까? 네 부하들은 어떤 조각상으로 만들까?\n"
 "\n"
-"너는 내 걸작이 될 것 같구나.\n"
+"너는 내 걸작이 될 거야.\n"
 "\n"
 "붉은 오린"
 
@@ -1684,7 +1673,6 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = CMP_ZevlorsAppeal_OrinsLetter_NotMet
 #: Gustav/Mods/GustavDev/Localization/Act3_Books.lsx:2801
-#, fuzzy
 msgctxt "h41aed001g7305g44acg88ebg93b4a4414c41"
 msgid ""
 "So, you stagger into Baldur's Gate at last.\n"
@@ -1704,14 +1692,14 @@ msgid ""
 msgstr ""
 "드디어 발더스 게이트로 와주었구나. \n"
 "\n"
-"내가 준비한 선물은 마음에 들었느냐? 내 칼날을 위한 훌륭한 캔버스가 되어줬고, 비명은 감미로운 합창과도 같더구나.\n"
+"내가 준비한 선물이 마음에 들었으면 좋겠어. 그놈은 내 칼날을 위한 훌륭한 캔버스가 되어줬고, 그 비명은 가장 감미로운 합창이었지.\n"
 "\n"
 "내 살육을 목격하는 건 영광스러운 일이지만, 이건 시작에 불과해. 곧, 곧 너는 내 부정한 손이 자아낸 끔찍한 파괴의 광경을, 바알이 "
 "꿈꾸던 세상을 목격하게 될 것이다.\n"
 "\n"
 "너는 어떤 우상으로 만들어 줄까? 네 부하들은 어떤 조각상으로 만들까?\n"
 "\n"
-"너는 내 걸작이 될 것 같구나.\n"
+"너는 내 걸작이 될 거야.\n"
 "\n"
 "붉은 오린"
 
@@ -1722,7 +1710,6 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = COL_Barracks_Journal_HairyHenry
 #: Gustav/Mods/GustavDev/Localization/Act2_Books.lsx:680
-#, fuzzy
 msgctxt "h6505feb5g1d68g4d06ga4b7g4a31305422df"
 msgid ""
 "These slick innards, these fluid chambers. How long have we been here, "
@@ -1731,9 +1718,9 @@ msgid ""
 "this looks real. I am in a kraken belly. I am turned inside-upside. I am "
 "dead. Myrkul's Gray Waste always sounded peaceful. Not like this"
 msgstr ""
-"이 매끈한 내부 구조와 구불구불한 방들. 대체 여기서 얼마나 오랫동안 쓰랄을 만들었지? 더는 하고 싶지 않아... 이미 머큘도 내 "
-"머릿속에 회오리치는 공포에 묻혀버렸어. 뼈의 군주께선 겁쟁이를 원하시지 않아. 이젠 무엇이 진짜인지 모르겠어. 지금 크라켄의 배 속에 "
-"있나? 안팎으로-아니, 위아래가 뒤집힌 건가? 벌써 죽은 걸지도. 머큘의 회색 황폐는 항상 평화롭게 들렸어. 이렇지는"
+"이 매끈한 내부 구조와 구불구불한 방들. 대체 여기서 얼마나 오랫동안 하수인을 만들었지? 더는 하고 싶지 않다... 이미 머큘도 내 "
+"머릿속에 회오리치는 공포에 묻혀버렸다. 뼈의 군주께선 겁쟁이를 원하시지 않아. 이젠 무엇이 진짜인지 모르겠다. 내가 지금 크라켄의 배 "
+"속에 있나? 안팎으로, 아니, 위아래가 뒤집힌 건가? 벌써 죽은 걸지도. 머큘의 회색 황폐는 항상 평화롭게 들렸어. 이렇지는"
 
 #. key = COL_Barracks_Journal_Ironfinger
 #. 
@@ -1742,7 +1729,6 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = COL_Barracks_Journal_Ironfinger
 #: Gustav/Mods/GustavDev/Localization/Act2_Books.lsx:694
-#, fuzzy
 msgctxt "hba5c1b43g1e13g4727g8770g20ad9a5a7474"
 msgid ""
 "She's... she's going to put one in me any day. Kressa, who was initiated the "
@@ -1753,9 +1739,11 @@ msgid ""
 "Kressa... I remember when we were just stomping on ant piles and raising "
 "them back up. Our very first deaths. I hope you remember, somewhere."
 msgstr ""
-"크...크레사가 언젠가 나한테 집어넣을 거야. 나와 함께 입교했던 그 크레사가, 내가 자는 도중에 귀에 기생충을 넣어버릴 거라고. "
-"발타자르가 윤허한 것보다 연구를 진행하려면 마음껏 실험할 애완동물이 필요할 테지.\n"
-"크레사... 아직도 함께 개미집이나 허물다가 다시 지었던 시절의 기억이 생생한데. 우리가 처음 죽은 날도. 과연 너는 기억하고 있을까."
+"크... 크레사가 언젠가 나한테도 집어넣고 말 거야. 몇 년 전, 정확히 같은 시간에 함께 입교했던 그 크레사가, 내가 자고 있을 때 "
+"귓속에 기생충을 넣어버릴 거라고. 발타자르가 눈 감아줄 범위보다 멀리 가려면, 안전하게 숨겨 둘 노예 하나가 필요할 테니. 마음껏 실험할 "
+"애완동물 없이는 감당할 수 없을걸.\n"
+"크레사... 아직도 함께 개미집이나 허물었다가 다시 지었던 시절의 기억이 생생한데. 우리가 처음 죽은 날도. 네 마음 속 어딘가에 남아 "
+"있기를."
 
 #. key = COL_Barracks_Journal_Magthew
 #. 
@@ -1963,6 +1951,22 @@ msgid ""
 "\n"
 "Ha! Orin was right about her sibling. - Balth."
 msgstr ""
+"아버지, 용서하소서. 당신께서 없애리라 맹세하신 적들의 선택 받은 자에 감탄할 수 밖에 없습니다. 엔버 고타쉬의 천재성이 우리를 "
+"진행시키겠지만 두려워 마십시오. 베인 추종자들은 항상 똑같은 어리석음에 빠집니다. 그들은 파괴의 아름다움을 알지 못 하나이다. 절대자의 "
+"거짓말이 새로운 노예들로부터 거짓된 사랑을 얻겠지만 군대가 충분히 커지게 되면 그들을 장악해 이 사악한 세상에 종말을 가져오겠습니다.\n"
+"\n"
+"고타쉬의 훌륭한 계획이 속속들이 보입니다. 고타쉬와 케서릭 그리고 저는 왕관을 통제할 수 있는 네더릴 유물을 빼앗아 일리시드의 원대한 "
+"계획을 조종할 겁니다. 오랜 적이자 끔찍한 후원자인 세 사신은 아주 잠깐만 동맹이 될 것입니다.\n"
+"\n"
+"아버지시여, 당신은 저를 이 세상에 마지막으로 살아있는 영혼이 되도록 만드셨나이다. 제 힘이 강연해지고, 때가 되면 당신의 제단 위에 "
+"고타쉬와 케서릭을 죽여 바치고 세상이 그 마지막 숨을 내쉴 때 저 또한 죽겠나이다.\n"
+"\n"
+"아버지시여, 이 모든 것이 끝나면 살아 숨쉬는 것은 존재하지 않을 것입니다. 모두가 죽을 것입니다. 모두가 당신을 위해 죽을 것입니다. "
+"당신을 자랑스럽게 하겠나이다.\n"
+"\n"
+"[페이지 바닥에 다른 필체로 쓰여진 메모]\n"
+"\n"
+"하! 오린이 제 동생에 대해 옳았구만. - 발트"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/c74c706e-1f1b-4740-96a7-615b97633275.lsx
 #. NodeID = GameObjects
@@ -1981,7 +1985,6 @@ msgstr "유예된 뇌변이"
 #. HandlePath = Content
 #. UUID = COL_Colony_SuspendedCeremorphosis
 #: Gustav/Public/GustavDev/Localization/generated_books.lsx:1646
-#, fuzzy
 msgctxt "h9cdf7d02g8668g4038gafeeg3ce05f6107c7"
 msgid ""
 "Dictated to Scribe Yanthus by Enver Gortash \n"
@@ -2001,16 +2004,16 @@ msgid ""
 "host is far beyond the usual range of an elder brain's psionic control. This "
 "phenomenon is spectacularly useful, given our ambitions."
 msgstr ""
-"엔더 고르타쉬가 얀투스 서기에게 구술한 내용\n"
+"엔더 고타쉬가 얀투스 서기에게 구술한 내용\n"
 "\n"
-"뇌변이, 일리시드 유충이 숙주 지성체를 마인드 플레이어로 변화시키는 것. 보통은 감염 이후 열흘 안에 발생하지만, 우리의 포로인 엘더 "
-"브레인이 '낳은' 올챙이는 카서스의 왕관에서 나오는 강력한 네더리스 마법에 의해 강화되어 있다.\n"
+"뇌변이는 일리시드 유충이 숙주 지성체를 마인드 플레이어로 변화시키는 것이다. 보통은 감염 이후 열흘 안에 발생하지만, 우리의 포로인 엘더 "
+"브레인이 '낳은' 올챙이는 카서스의 왕관에서 나오는 강력한 네더릴 마법에 의해 강화되어 있다.\n"
 "\n"
 "강화된 올챙이들은 숙주에게 일종의 '유예된' 뇌변이를 유발하는데, 그건 숙주가 텔레파시의 영향력에 민감해지고, 심지어 절대자, 우리의 "
 "엘더 브레인으로부터의 강제력에 취약해지도록 한다. 우리의 목적에 한정짓자면 이 변경점에는 두 가지 핵심 요소가 있다. 첫째, 숙주가 "
 "절대자의 정신적 하인으로 전락하는 과정은 철저히 숙주의 인식 바깥에서 발생하며, 그들은 노예 상태를 편안하고 자연스럽게 받아들인다. "
-"절대로 의식적인 의문을 제기하지 않는다. 둘째, 노예 상태는 숙주가 엘더 브레인의 사이오닉 제어 사정거리를 훨씬 벗어난 뒤에도 유지 "
-"된다. 이 현상은 우리의 야망을 고려할 때 굉장히 유용하다."
+"절대로 의식적인 의문을 제기하지 않는다. 둘째, 노예 상태는 숙주가 엘더 브레인의 사이오닉 제어 사정거리를 훨씬 벗어난 뒤에도 유지된다. "
+"이 현상은 우리의 야망을 성취하는 데 무척 도움이 될 것이다."
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/56d64ba9-6d78-43d3-b114-7a10a8b95123.lsx
 #. NodeID = GameObjects
@@ -2571,7 +2574,7 @@ msgid ""
 "General Ketheric Thorm"
 msgstr ""
 "레이븐가드 공작을 다치지 않게, 무엇보다도 바로 즉시 데리고 오라. 공작이 오기 전까지 문라이즈 타워는 그 사명을 수행할 수 없다. "
-"성공하는 자는 포상을 받을 것이다. 실패하는 자는 먼저 나의 분노를, 이어서 고르타쉬의 분노를, 그리고 다시 나의 분노를 마주하게 될 "
+"성공하는 자는 포상을 받을 것이다. 실패하는 자는 먼저 나의 분노를, 이어서 고타쉬의 분노를, 그리고 다시 나의 분노를 마주하게 될 "
 "것이다.\n"
 "\n"
 "케서릭 쏨 장군"
@@ -4196,12 +4199,11 @@ msgid ""
 msgstr ""
 "할신,\n"
 "\n"
-"그림자땅을 통과하는 게 엘터렐 세금을 피하는 영리한 방법이라고 생각하던 "
-"암니안 상인들한테서 받은 거야. 정말, <i>진심</i> 드로우한테 잡히게 놔두고 "
-"싶었는데. 아무튼 엔클레이브에 대해 듣더니 보상이라고 이걸 주더군. 우리가 "
-"장신구 받으려고 일하는 용병도 아닌데.\n"
-"넌 이걸 쓸모 있는 걸로 바꿀 수 있겠지? 칼 같은 걸로. 여기 상황은 점점 안 "
-"좋아지기만 하네.\n"
+"그림자땅을 통과하는 게 엘터렐 세금을 피하는 영리한 방법이라고 생각하던 앰의 상인들한테서 받은 거야. 정말, <i>진심</i> 드로우한테 "
+"잡히게 놔두고 싶었는데. \n"
+"\n"
+"아무튼 엔클레이브에 대해 듣더니 보상이라고 이걸 주더군. 우리가 장신구 받으려고 일하는 용병도 아닌데.\n"
+"넌 이걸 쓸모 있는 걸로 바꿀 수 있겠지? 칼 같은 걸로. 여기 상황은 점점 안 좋아지기만 하네.\n"
 "\n"
 "- D"
 
@@ -8981,42 +8983,6 @@ msgstr "이 대량 생산된 책의 표지에 바알의 상징을 모방한 값�
 #. HandlePath = Content
 #. UUID = GEN_History_BhaalspawnTestimonials
 #: Gustav/Mods/Gustav/Localization/Generic_Books.lsx:575
-#, fuzzy
-#| msgid ""
-#| "[The guild seal on the inside of the cover belongs to a printmaking "
-#| "collective in Baldur's Gate.]\n"
-#| "\n"
-#| "\"Of course I remember. Knew the second that girl was walking that she'd be "
-#| "trouble. Little thief, always in everyone's business. And that ward of "
-#| "Gorion went right along with her. No surprise a wicked god's blood was "
-#| "running in their veins.\"\n"
-#| "- Anonymous, Candlekeep\n"
-#| "\n"
-#| "\"Sarevok and his lot are always the first ones that come to mind. You know "
-#| "this all started with a bit of iron in Nashkel? Everyone thought their "
-#| "weapons would rot out of their hands. Back then, I thought the problem was "
-#| "bad trade. Never took the man for a son of Bhaal.\"\n"
-#| "- Amnian Mercenary, interviewed on his deathbed\n"
-#| "\n"
-#| "\"You dare speak that name to me? My mistress was turned to ash fighting "
-#| "those forsaken wretches. I curse Bhaal, I curse Irenicus, and I curse you!\""
-#| "\n"
-#| "- Hostile Vampire, Athkatla Slums\n"
-#| "\n"
-#| "\"The Five tore Tethyr to pieces. I don't think anyone expected more "
-#| "Bhaalspawn showing up would fix the war that a pack of them started. Then "
-#| "again, they were all inclined to killing each other, eh? Good riddance. "
-#| "Here's hoping every last one of them has been wiped off the face of Faerûn.\""
-#| "\n"
-#| "- Saradush Merchant, retired\n"
-#| "\n"
-#| "\"I'm not authorized to be talking about any murder with someone like you. "
-#| "Take it up at the Seatower if you want to argue. But honestly, who cares if "
-#| "a Bhaalspawn got it stuck to them? Their father's the killing type, after "
-#| "all.\"\n"
-#| "- Flaming Fist Gauntlet, Baldur's Gate\n"
-#| "\n"
-#| "[Several hundred more interviews follow, most of them terse.]\n"
 msgctxt "h68330aefgdfdbg4c24g92c6gdcfcd52f9a5e"
 msgid ""
 "[The guild seal on the inside of the cover belongs to a printmaking "
@@ -9063,7 +9029,7 @@ msgstr ""
 "'언제나 가장 먼저 떠오르는 건 사레복과 그의 동료들이지. 이 모든 게 네쉬켈의 철 쪼가리에서 시작되었다는 것을 알고 있나? 그 녀석들, "
 "어찌나 자주 싸웠는지 모두 손에 쥔 채로 무기가 썩을 줄 알았어. 당시, 나는 장사가 안되는 게 문제라고 생각했지, 그 남자를 바알의 "
 "아들이라고 생각한 적은 없었네.'\n"
-"- 임종할 때 인터뷰한 암의 용병\n"
+"- 임종할 때 인터뷰한 앰의 용병\n"
 "\n"
 "'감히 내 앞에서 그의 이름을 말하나? 나의 여주인님께서 그 천벌 받을 놈들과 싸우다 재가 되셨거늘. 바알을 저주하고, 이레니쿠스를 "
 "저주하고, 네놈을 저주하리라!'\n"
@@ -47078,7 +47044,7 @@ msgstr ""
 msgctxt "hec41ed2fgbaf7g4dc4g9322gf1cbd8d151f6"
 msgid ""
 "Congratulations on finding this place, thief - but your journey ends here."
-msgstr ""
+msgstr "이 장소를 찾아낸 걸 축하한다, 도둑아. 하지만 네 여정은 여기서 끝이야."
 
 #. key = TWN_MasonsGuild_MasonsDiary
 #. 

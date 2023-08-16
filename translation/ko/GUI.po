@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-15 04:53+0000\n"
-"Last-Translator: Hinokey <nateray42@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/gui/ko/>\n"
+"PO-Revision-Date: 2023-08-16 08:54+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"Language-Team: Korean <http://waldo.team/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -316,12 +316,12 @@ msgstr "주문 변경"
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:2203
 msgctxt "h6fab4aa1g78cfg4ba0g8780g9cd83024c867"
 msgid "Gained a Cantrip"
-msgstr "캔트립 획득"
+msgstr "소마법 획득"
 
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:2213
 msgctxt "ha189856cg69abg41abg9dc7gecd0cae356b6"
 msgid "Gained [1] Cantrips"
-msgstr "캔트립 [1]개 획득"
+msgstr "소마법 [1]개 획득"
 
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:2225
 msgctxt "h81cb54a5g6cbag4863g8aa6g7f2df64e495c"
@@ -3734,9 +3734,8 @@ msgid ""
 "your <LSTag Tooltip=\"Strength\">Strength</LSTag> if your Dexterity is "
 "higher."
 msgstr ""
-"만약 당신의 민첩<LSTag Tooltip=\"Dexterity\">Dexterity</LSTag>이 근력<LSTag "
-"Tooltip=\"Strength\">Strength</LSTag> 보다 높다면, 근력이 아닌 민첩에 따라 "
-"수치가 증가합니다."
+"만약 당신의 <LSTag Tooltip=\"Dexterity\">민첩</LSTag>이 <LSTag Tooltip=\"Strength\""
+">근력</LSTag> 보다 높다면, 근력이 아닌 민첩에 따라 수치가 증가합니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3222
 msgctxt "hed951236g8283g4cafgb782g053ae0e08595"
@@ -4074,8 +4073,8 @@ msgid ""
 ">Proficiency</LSTag>, and which do not have the <LSTag Tooltip=\"TwoHanded\""
 ">two-handed weapons</LSTag> or heavy properties. "
 msgstr ""
-"몽크 무기는 몽크의 <LSTag Tooltip=\"Proficiency\">숙련</LSTag> 무기로, <LSTag Tooltip="
-"\"TwoHanded\">양손 무기</LSTag> 나 무거움 속성이 없습니다. "
+"몽크 무기는 몽크 캐릭터가 <LSTag Tooltip=\"Proficiency\">숙련</LSTag>되어 있으며, <LSTag "
+"Tooltip=\"TwoHanded\">양손 무기</LSTag>가 아니고 무거움 속성이 없는 무기를 말합니다. "
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3481
 msgctxt "h15f47a7cg8dd9g411fgb258gd1795b955fb6"
@@ -7551,13 +7550,13 @@ msgstr "이동 불가"
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:286
 msgctxt "h987efa83g0f3bg416dga3dfg7a588084af78"
 msgid "Reduced movement"
-msgstr "감소된 이동"
+msgstr "이동 감소됨"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:208
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:293
 msgctxt "h709568ceg6653g4caag90afg57b5be47ca55"
 msgid "Reduced movement"
-msgstr "감소된 이동"
+msgstr "이동 감소됨"
 
 #: Game/Public/Game/GUI/Widgets/CursorText_c.xaml:212
 #: Game/Public/Game/GUI/Widgets/CursorText.xaml:297
@@ -9038,7 +9037,7 @@ msgstr "대사"
 #: Game/Public/Game/GUI/Library/NotificationLib.xaml:455
 msgctxt "ha81a7198g8adag4775g8bceg7376da401478"
 msgid "Save Failed"
-msgstr "내성 실패"
+msgstr "판정 실패"
 
 #: Game/Public/Game/GUI/Widgets/JournalDialogues.xaml:325
 #: Game/Public/Game/GUI/Widgets/JournalDialogues_c.xaml:380

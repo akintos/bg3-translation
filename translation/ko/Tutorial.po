@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-15 04:54+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/bg3/tutorial/ko/>\n"
+"PO-Revision-Date: 2023-08-16 08:54+0000\n"
+"Last-Translator: Dieyoung <karsyutian@naver.com>\n"
+"Language-Team: Korean <http://waldo.team/projects/bg3/tutorial/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -864,13 +864,13 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu\n"
 " <LSTag Type=\"Image\" Info=\"TutorialLevelUpMenu\"/>  Level Up"
 msgstr ""
-"충분한 경험치를 획득하면 캐릭터의 레벨을 최대 12까지 올릴 수 있습니다. 레벨 업을 하면 <LSTag Tooltip=\"HitPoints"
-"\">체력</LSTag>, <LSTag Tooltip=\"ProficiencyBonus\">숙련도 보너스</LSTag>, 그리고 클래스 "
-"특성이 증가합니다. 특정 레벨에서- 대부분의 경우 4, 8, 12 - 특기를 고르거나 <LSTag Tooltip=\"Abilities\""
-">능력치 점수</LSTag>를 올릴 수 있습니다.\n"
+"경험치를 충분히 획득하면 캐릭터의 레벨을 최대 12까지 올릴 수 있습니다. 레벨 업을 하면 <LSTag Tooltip=\"HitPoints"
+"\">체력</LSTag>과 <LSTag Tooltip=\"ProficiencyBonus\">숙련 보너스</LSTag>가 증가하고, 클래스 "
+"특성을 얻습니다. 특정 레벨(대부분의 클래스의 경우 4, 8, 12)이 되면 특기를 고르거나 <LSTag Tooltip="
+"\"Abilities\">능력치 점수</LSTag>를 올릴 수 있습니다. \n"
 "\n"
 "[IE_PanelSelect] 게임 메뉴 열기\n"
-"<LSTag Type=\"Image\" Info=\"TutorialLevelUpMenu\"/> 레벨업"
+"<LSTag Type=\"Image\" Info=\"TutorialLevelUpMenu\"/> 레벨 업"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -918,12 +918,12 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialLevelUp\"/> Click arrow by portrait to "
 "Level Up"
 msgstr ""
-"충분한 경험치를 획득하면 캐릭터의 레벨을 최대 12까지 올릴 수 있습니다. 레벨 업을 하면 <LSTag Tooltip=\"HitPoints"
-"\">체력</LSTag>, <LSTag Tooltip=\"ProficiencyBonus\">숙련도 보너스</LSTag>, 그리고 클래스 "
-"특성이 증가합니다. 특정 레벨에서- 대부분의 경우 4, 8, 12 - 특기를 고르거나 <LSTag Tooltip=\"Abilities\""
-">능력치 점수</LSTag>를 올릴 수 있습니다.\n"
+"경험치를 충분히 획득하면 캐릭터의 레벨을 최대 12까지 올릴 수 있습니다. 레벨 업을 하면 <LSTag Tooltip=\"HitPoints"
+"\">체력</LSTag>과 <LSTag Tooltip=\"ProficiencyBonus\">숙련 보너스</LSTag>가 증가하고, 클래스 "
+"특성을 얻습니다. 특정 레벨(대부분의 클래스의 경우 4, 8, 12)이 되면 특기를 고르거나 <LSTag Tooltip="
+"\"Abilities\">능력치 점수</LSTag>를 올릴 수 있습니다. \n"
 "\n"
-"<LSTag Type=\"Image\" Info=\"TutorialLevelUp\"/> 초상화 옆의 화살표를 클릭해 레벨업"
+"<LSTag Type=\"Image\" Info=\"TutorialLevelUp\"/> 초상화 옆의 화살표를 클릭해 레벨 업"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -952,7 +952,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:170
 msgctxt "h64b3682bgc135g491cg8602g18b61a881f64"
 msgid "Summons"
-msgstr ""
+msgstr "소환"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -962,7 +962,7 @@ msgstr ""
 msgctxt "h135c51c8g44fag46b3gafb6ged483d0691e4"
 msgid ""
 "You have summoned a creature. Click on its portrait to control its actions."
-msgstr ""
+msgstr "당신은 생명체를 소환했습니다. 초상화를 클릭해서 행동을 조작하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2685,7 +2685,7 @@ msgctxt "h0636633dgdc92g4fe8gb120g859bab5602b0"
 msgid ""
 "A member of your adventuring party has died! Use a Scroll of Revivify to "
 "bring them back to life."
-msgstr ""
+msgstr "동료 파티원이 사망했습니다! 부활시키려면 재활성화의 두루마리를 사용하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2721,7 +2721,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:565
 msgctxt "hd0dd77b0gfcf2g462fg9e84gba7f793ecc50"
 msgid "Character Death"
-msgstr ""
+msgstr "캐릭터 사망"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2732,7 +2732,7 @@ msgctxt "h04e432edg1156g4cc6ga41fg2d8b79f94221"
 msgid ""
 "A member of your adventuring party has died! Use a Scroll of Revivify to "
 "bring them back to life."
-msgstr ""
+msgstr "동료 파티원이 사망했습니다! 부활시키려면 재활성화의 두루마리를 사용하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2743,7 +2743,7 @@ msgctxt "h3ed77526g91ceg41bfga851g568749cbebc0"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialRevivifyScroll\"/> Use Scroll of "
 "Revivify"
-msgstr ""
+msgstr "<LSTag Type=\"Image\" Info=\"TutorialRevivifyScroll\"/> 재활성화의 두루마리 사용"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3147,7 +3147,7 @@ msgctxt "h71b80290g9e1cg481eg9a74g177290cd9e3c"
 msgid ""
 "This entity was Vulnerable to your attack and took double damage. Examine an "
 "entity to see its Vulnerabilities. "
-msgstr ""
+msgstr "이 대상은 당신의 공격에 취약하므로 두배의 피해를 입었습니다. 대상을 조사해 취약점을 확인해 보세요. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3176,7 +3176,7 @@ msgctxt "h0f1443d7g29a1g4ed7g9ef5g0c5cbfaad91d"
 msgid ""
 "This entity was Vulnerable to your attack and took double damage. Examine an "
 "entity to see its Vulnerabilities. "
-msgstr ""
+msgstr "이 대상은 당신의 공격에 취약하므로 두배의 피해를 입었습니다. 대상을 조사해 취약점을 확인해 보세요. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6466,6 +6466,8 @@ msgid ""
 "means you won't add your proficiency bonus to attack rolls with this weapon "
 "or use its special weapon actions. "
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialRedWarning\"/> 훈련을 받지 않아, 이 무기의 명중 굴림에 "
+"숙련 보너스를 더하거나 특수 무기 행동을 사용할 수 없습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7384,11 +7386,11 @@ msgid ""
 "and Dexterity <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and won't be "
 "able to cast spells."
 msgstr ""
-"장비에 대한 숙련도는 캐릭터가 장비 사용에 대해 얼마나 알고 있는지를 반영합니다.\n"
-"무기에 숙련된 경우 공격 굴림에 숙련도 수정치를 추가하고 무기 행동을 사용할 수 있습니다.\n"
-"갑옷이나 방패를 사용하는 경우 숙련되어 있지 않아도 여전히 추가<LSTag Tooltip=\"ArmourClass\">방어도</"
-"LSTag>를 얻을 수 있지만, 힘과 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag "
-"Tooltip=\"Disadvantage\">불리점</LSTag>이 생깁니다. 게다가 주문을 시전할 수 없습니다."
+"장비에 대한 숙련은 캐릭터가 장비 사용에 대해 얼마나 알고 있는지를 나타냅니다.\n"
+"무기에 숙련된 경우, 명중 굴림에 숙련 수정치가 더해지고, 무기 행동을 사용할 수 있습니다.\n"
+"숙련되지 않은 갑옷이나 방패를 사용하는 경우, 추가 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>는 그대로 "
+"얻을 수 있지만, 힘과 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>이 생기고, 주문도 시전할 수 없게 됩니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7397,7 +7399,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1605
 msgctxt "hc28c55b6gc7bcg4d52g8e7fge9717013e483"
 msgid "Proficiency (Weapons and Armour)"
-msgstr "숙련도 (무기와 방어구)"
+msgstr "숙련 (무기와 방어구)"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7416,11 +7418,11 @@ msgid ""
 "and Dexterity <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and won't be "
 "able to cast spells."
 msgstr ""
-"장비에 대한 숙련도는 캐릭터가 장비 사용에 대해 얼마나 알고 있는지를 반영합니다.\n"
-"무기에 숙련된 경우 공격 굴림에 숙련도 수정치를 추가하고 무기 행동을 사용할 수 있습니다.\n"
-"갑옷이나 방패를 사용하는 경우 숙련되어 있지 않아도 여전히 추가<LSTag Tooltip=\"ArmourClass\">방어도</"
-"LSTag>를 얻을 수 있지만, 힘과 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag "
-"Tooltip=\"Disadvantage\">불리점</LSTag>이 생깁니다. 게다가 주문을 시전할 수 없습니다."
+"장비에 대한 숙련은 캐릭터가 장비 사용에 대해 얼마나 알고 있는지를 나타냅니다.\n"
+"무기에 숙련된 경우, 명중 굴림에 숙련 수정치가 더해지고, 무기 행동을 사용할 수 있습니다.\n"
+"숙련되지 않은 갑옷이나 방패를 사용하는 경우, 추가 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>는 그대로 "
+"얻을 수 있지만, 힘과 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>이 생기고, 주문도 시전할 수 없게 됩니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
