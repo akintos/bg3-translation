@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-16 08:53+0000\n"
-"Last-Translator: Hinokey <nateray42@gmail.com>\n"
+"PO-Revision-Date: 2023-08-16 16:54+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/default/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -409,8 +409,7 @@ msgctxt "h1a7c974ag6f3bg4c57ga318ga13fb4c535fe"
 msgid ""
 "Standing in dark areas obscures you, making it harder for enemies to hit you "
 "or spot you when you are hiding."
-msgstr "어두운 곳에 있으면 가려집니다. 공격이 적중하기 어려워지고, 은신했을 경우엔 "
-"찾기 어려워집니다."
+msgstr "어두운 곳에 있으면 그늘에 가려집니다. 공격이 적중하기 어려워지고, 숨어있을 경우엔 찾기 어려워집니다."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -19289,16 +19288,11 @@ msgstr "좀비"
 #. HandlePath = Description
 #. Name = Hellsboar
 #: Shared/Public/Shared/Races/Races.lsx:30134
-#, fuzzy
-#| msgid ""
-#| "Evil, wicked creatures from the Lower Planes that labour under the "
-#| "leadership of lawful archdevils or chaotic demon princes."
 msgctxt "hd03759f1g0714g42a6g8d5bg7f692830e9da"
 msgid ""
 "Grafted with infernal iron and burning with hellfire, these porcine brutes "
 "are filled with a distinct brand of malice. "
-msgstr "하부 차원에서 서식하는 악하고 뒤틀린 크리쳐로, 질서를 따르는 아크데블이나 "
-"혼돈을 따르는 데몬 왕자의 통솔 아래 부역합니다."
+msgstr "불타는 철 조립되어  지옥불로 타오르는 이 돼지같은 괴물들은 독특한 악의로 가득 차 있습니다. "
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -19314,15 +19308,11 @@ msgstr "헬스보어"
 #. HandlePath = Description
 #. Name = Imp
 #: Shared/Public/Shared/Races/Races.lsx:30142
-#, fuzzy
-#| msgid ""
-#| "Evil, wicked creatures from the Lower Planes that labour under the "
-#| "leadership of lawful archdevils or chaotic demon princes."
 msgctxt "hb59b7b7egf12dg4187gbd84ge5f5ad46c897"
 msgid ""
 "Cackling peddlers of infernal mischief, imps bind themselves to the service "
 "of more powerful devils who furnish them with commands. "
-msgstr "하부 차원에서 서식하는 악하고 뒤틀린 크리쳐로, 질서를 따르는 아크데블이나 혼돈을 따르는 데몬 왕자의 통솔 아래 부역합니다. "
+msgstr "지긋지긋하게 장난치며 고함치는 불량배들, 임프들은 그들에게 명령하는 더 강력한 데빌에게 종속되어 있습니다. "
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -19346,8 +19336,7 @@ msgctxt "h45df1f93g0a8eg4720g9d67gb7e2d2b3cf54"
 msgid ""
 "Scarlet-eyed and bitter-tempered, cambion are the bastard children of devils "
 "and mortals, a fusion of two Planes in one body. "
-msgstr "하부 차원에서 서식하는 악하고 뒤틀린 크리쳐로, 질서를 따르는 아크데블이나 "
-"혼돈을 따르는 데몬 왕자의 통솔 아래 부역합니다."
+msgstr "붉은 눈과 사나운 성격을 가진 캠비온은 데블과 인간의 잡종으로, 두 차원이 하나의 몸에 융합된 존재입니다. "
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -19828,7 +19817,7 @@ msgctxt "h465dc37dg304dg4745gbd0eg81f210051ab8"
 msgid ""
 "You will only have a single save slot, and the game will autosave when a "
 "party member dies."
-msgstr ""
+msgstr "단 1개의 세이브 슬롯만 사용할 수 있으며, 파티원이 죽으면 게임이 자동으로 저장됩니다."
 
 #. FilePath = Shared/Public/Shared/Ruleset/RulesetModifiers.lsx
 #. NodeID = RulesetModifier
@@ -19882,7 +19871,7 @@ msgstr ""
 #: Shared/Public/Shared/Ruleset/RulesetModifiers.lsx:66
 msgctxt "h87e0a478ge24cg4ca2g811bg94c135167ee2"
 msgid "Proficiency Bonus"
-msgstr ""
+msgstr "숙련도 보너스"
 
 #. FilePath = Shared/Public/Shared/Ruleset/RulesetModifiers.lsx
 #. NodeID = RulesetModifier
@@ -19892,7 +19881,7 @@ msgstr ""
 #: Shared/Public/Shared/Ruleset/RulesetModifiers.lsx:76
 msgctxt "h02ad053dg990fg46a1ga917g45ebb7e2d6ca"
 msgid "Only HP counts of characters controlled by players will be displayed."
-msgstr ""
+msgstr "플레이어가 조종하는 캐릭터들의 체력만 표시합니다."
 
 #. FilePath = Shared/Public/Shared/Ruleset/RulesetModifiers.lsx
 #. NodeID = RulesetModifier
@@ -20170,9 +20159,10 @@ msgstr "전술가"
 #. HandlePath = Description
 #. Name = DIFFICULTY_EASY
 #: Shared/Public/Shared/Ruleset/Rulesets.lsx:8
+#, fuzzy
 msgctxt "h366531b1gb52dg4fa2ga934g52d4f63c0407"
 msgid "A narrative experience placing story before combat."
-msgstr ""
+msgstr "전투보다 스토리 진행을 우선하여 내용을 감상할 수 있습니다."
 
 #. FilePath = Shared/Public/Shared/Ruleset/Rulesets.lsx
 #. NodeID = Ruleset
@@ -20569,7 +20559,7 @@ msgstr "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 대형 또는 거대형 대
 msgctxt "hb84cd9a8g6c8eg469dg80b7g741a548b7ec2"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Targets must be Medium or Small."
-msgstr ""
+msgstr "<LSTag Type=\"Image\" Info=\"SoftWarning\"/>중형 또는 소형을 대상으로 해야 합니다."
 
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -20705,7 +20695,7 @@ msgctxt "hfe8affadg80afg4864g9a64g3299f85ee49a"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Target must be a beast or a "
 "humanoid corpse."
-msgstr ""
+msgstr "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 야수나 인간형의 시체를 대상으로 해야 합니다."
 
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -20723,7 +20713,7 @@ msgstr ""
 #: Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx:196
 msgctxt "hd20c8ee7gbdf8g431cg8878g436f98347ee0"
 msgid "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> No effect on undead."
-msgstr ""
+msgstr "<LSTag Type=\"Image\" Info=\"SoftWarning\"/>언데드에게는 효과가 없습니다."
 
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -21021,7 +21011,7 @@ msgctxt "h2a0fb3f5g008eg41bbg86e1g3319cebc7548"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Can't be summoned again if "
 "killed in combat. "
-msgstr ""
+msgstr "전투에서 죽으면 다시 소환할 수 없습니다. "
 
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -21203,6 +21193,8 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Elves and undead can't be "
 "Paralysed by this attack."
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/>엘프와 언데드는 이 공격을 받고 마비 상태에 빠지지 "
+"않습니다."
 
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -21213,6 +21205,8 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Elves and undead cannot be "
 "Paralysed by this attack."
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/>엘프와 언데드는 이 공격을 받고 마비 상태에 빠지지 "
+"않습니다."
 
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -21411,7 +21405,7 @@ msgstr "레벨이 높아지면 더 높은 체력을 지닌 크리쳐에게 영�
 #: Shared/Public/Shared/TooltipExtras/TooltipUpcastDescriptions.lsx:79
 msgctxt "h61a84623g8dc7g49a0g974eg825010073b9e"
 msgid "Create more and stronger undead at higher levels."
-msgstr ""
+msgstr "레벨이 높아지면 보다 강력하고 더 많은 언데드를 만들어 냅니다."
 
 #. FilePath = Shared/Public/Shared/TooltipExtras/TooltipUpcastDescriptions.lsx
 #. NodeID = TooltipUpcastDescriptions
@@ -22718,7 +22712,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:54
 msgctxt "hcee44ad9g4dfeg4b48ga198g4fb15ef3a263"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22728,7 +22722,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:61
 msgctxt "hb281c2d4gcbf9g4aaagaa3ag8b7e7e2b09a7"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22738,7 +22732,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:68
 msgctxt "h3684c637gf08cg4408g9ff9g13be4ec91c8b"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22748,7 +22742,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:75
 msgctxt "h5410c1e8g00fbg4694ga75eg20a1407aabcb"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22758,7 +22752,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:82
 msgctxt "h077872cfgde01g4869gae0dgd3b2898c6bc9"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22768,7 +22762,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:89
 msgctxt "hbf0aa0dcg6c70g4664g896egfa536b3f907f"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22778,7 +22772,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:96
 msgctxt "hbfe45006gfe5eg4e01gb855g4b55a3ef6bbb"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22788,7 +22782,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:103
 msgctxt "hd4805a67g93a4g4a1ag9dfag49499a52f106"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22798,7 +22792,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:110
 msgctxt "h3084f826g84f8g4087ga75ag06b1d00b23d3"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22808,7 +22802,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:117
 msgctxt "h7a4209bege027g47f8g99d3gc8f442047557"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22818,7 +22812,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:124
 msgctxt "h495efecbg638eg4c94g8cf3gce1c1b555a65"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22828,7 +22822,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:131
 msgctxt "he204f594g45c6g490ega9a0g8f0a88eb0dcc"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22838,7 +22832,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:138
 msgctxt "h8dfe3f37g2eeeg4ef3gbf76g45b5df4ad84a"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22848,7 +22842,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:145
 msgctxt "h264dd8b4g2a9dg4fa6gbf9fgdbdca597cb02"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22858,7 +22852,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:152
 msgctxt "h578599d3gbb1cg4f01g8ff7gf0c495559f06"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22868,7 +22862,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:159
 msgctxt "h691b76a6g41f4g45f5g8db7g8830e00e173f"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22878,7 +22872,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:166
 msgctxt "h1ee2bcd5g878fg425dg9b55g7d000f37f2f7"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22888,7 +22882,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:173
 msgctxt "h55a4d682gabf6g4827g858fg0e2009264033"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22898,7 +22892,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:180
 msgctxt "hfb329bf6gea02g46fbgbcfeg5b8b9f4be8a8"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22908,7 +22902,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:187
 msgctxt "h2fa44960g7995g4430g89e5gedf9ac3baab2"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22918,7 +22912,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:194
 msgctxt "h359a41d2g5e20g4b14g82b7g5965b58fb9c2"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22928,7 +22922,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:201
 msgctxt "he2739739ge901g48ceg9b85g822e3605e609"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22938,7 +22932,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:208
 msgctxt "h0de8472cg83dfg4e2bgba25gee1708ae02d9"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22948,7 +22942,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:215
 msgctxt "h94d230eeg8006g4678g9062gf096e29442e7"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22958,7 +22952,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:222
 msgctxt "h10d03246g2d67g46fcga7d0g9286d2850619"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22968,7 +22962,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:229
 msgctxt "hae105dfdge9d8g474ega772g59ae0924b8c5"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22978,7 +22972,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:236
 msgctxt "h996e2dbcgea52g42dbgb24bgd87d6524fd60"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22988,7 +22982,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:243
 msgctxt "ha84fbc52gf19ag4acbg933fgcfb2068661e5"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -22998,7 +22992,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:250
 msgctxt "h4759d08eg3f42g4ec7gb0c9g149d2487783a"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -23008,7 +23002,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:257
 msgctxt "ha9544314g2543g4756ga27age54d672f4247"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -23018,7 +23012,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:264
 msgctxt "h760e5ae8g55a5g4d78gabcagb39e5e99bfc8"
 msgid "%%% EMPTY"
-msgstr ""
+msgstr "%%% EMPTY"
 
 #. FilePath = Shared/Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -24164,7 +24158,7 @@ msgstr ""
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:368
 msgctxt "h0c1e75a5g85eeg43dega648gbbcc39516f4c"
 msgid "Cannot attack a target that is in the Ethereal Plane."
-msgstr ""
+msgstr "에테리얼 차원에 있는 대상은 공격할 수 없습니다."
 
 #. FilePath = Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -24510,7 +24504,7 @@ msgctxt "hb678b565g086fg415eg80dcg71905c52c9e5"
 msgid ""
 "When making weapon attacks, you roll your damage dice twice and use the "
 "highest result."
-msgstr ""
+msgstr "무기 공격 시 데미지 주사위를 두 번 던지고 그 중 높은 숫자를 사용합니다."
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -24714,7 +24708,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Gods/Gods.lsx:9
 msgctxt "h663b9c65g69dag4e80g90bcgf7b4989876a1"
 msgid "Bahamut"
-msgstr ""
+msgstr "바하무트"
 
 #. FilePath = Shared/Public/SharedDev/Gods/Gods.lsx
 #. NodeID = God
@@ -24727,6 +24721,8 @@ msgid ""
 "at all costs. He has held an ancient and immutable grudge against the elven "
 "pantheon since Corellon Larethian took his eye. "
 msgstr ""
+"이 외눈박이 신은 오크들의 수호신이자 어떤 희생을 치러서라도 승리를 얻어내는 전쟁과 정복의 신입니다. 코렐론 라레시안 때문에 한쪽 눈을 "
+"잃은 이후부터 엘프 만신전에 대해 뿌리 깊은 원한을 품어 왔습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Gods/Gods.lsx
 #. NodeID = God

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-16 08:54+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-08-16 16:53+0000\n"
+"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/item/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -769,7 +769,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/08c6df14-d97a-4a83-9c76-ddde8b3716b9.lsx:15
 msgctxt "he00e52b2ge625g4a40g9f8agba7314035458"
 msgid "Flail Snail Shell Shard Extract"
-msgstr ""
+msgstr "도리깨 달팽이 껍질 조각 추출물"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/b00e1d1b-4421-4711-8de3-6ef15d0117b5.lsx
 #. NodeID = GameObjects
@@ -1918,7 +1918,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/a602b074-9743-4ef8-b9ed-e8ba9aa68949.lsx:9
 msgctxt "h35d1027fg1990g4cd4ga757g249d172ef8e4"
 msgid "Vitriol of Putrefied Tumour"
-msgstr ""
+msgstr "부패한 종기 황산"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/a602b074-9743-4ef8-b9ed-e8ba9aa68949.lsx
 #. NodeID = GameObjects
@@ -1930,7 +1930,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/a602b074-9743-4ef8-b9ed-e8ba9aa68949.lsx:10
 msgctxt "he3921c7ag129dg4334gadfag49fe7b620556"
 msgid "Putrefied Tumour"
-msgstr ""
+msgstr "부패한 종기"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/a6015724-3ee4-4398-b157-a33b1024a7d4.lsx
 #. NodeID = GameObjects
@@ -2693,7 +2693,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/8f7f7240-0218-4aa9-b849-bc2f57e21b5e.lsx:15
 msgctxt "h9b058fffgcd33g4268g9619g76298e9e45c3"
 msgid "Divine Bone Shard"
-msgstr ""
+msgstr "신성한 뼛조각"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/001f36eb-a95b-455c-9fb7-ed6ae5f071b8.lsx
 #. NodeID = GameObjects
@@ -2729,7 +2729,7 @@ msgstr "불호박"
 #: Shared/Public/Shared/RootTemplates/083c07c0-3edf-4ac7-8b60-6b4888626b57.lsx:17
 msgctxt "hc8f1569eg0746g421agb5fbgbd6f0b2e7b71"
 msgid "Flail Snail Shell Shard"
-msgstr ""
+msgstr "도리깨 달팽이 껍질 조각"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/083c07c0-3edf-4ac7-8b60-6b4888626b57.lsx
 #. NodeID = GameObjects
@@ -2740,7 +2740,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/083c07c0-3edf-4ac7-8b60-6b4888626b57.lsx:15
 msgctxt "h7303c76dg763dg4ba7g8f07g104d61ed9ba6"
 msgid "Flail Snail Shell Shard"
-msgstr ""
+msgstr "도리깨 달팽이 껍질 조각"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/25940d8a-110b-4f0e-82df-af8c6b15fb34.lsx
 #. NodeID = GameObjects
@@ -3484,7 +3484,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/b7cf1a87-b128-4282-ba38-eb884875d725.lsx:15
 msgctxt "h858991b6g4c23g4669g8cb2gb020d0dc2d1c"
 msgid "Putrefied Tumour"
-msgstr ""
+msgstr "부패한 종기"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/1db12e7c-e88b-4151-af11-4e2010ef319d.lsx
 #. NodeID = GameObjects
@@ -3590,7 +3590,7 @@ msgid ""
 "Type=\"Status\" Tooltip=\"SURPRISED\">Surprised</LSTag>. Replaces effects "
 "from other elixirs when drunk. "
 msgstr ""
-"우선권에 +5의 보너스를 얻습니다. 추가로, <LSTag Type=\"Status\" Tooltip=\"SURPRISED\">기습당함</"
+"우선권에 +5 보너스를 얻습니다. 추가로, <LSTag Type=\"Status\" Tooltip=\"SURPRISED\">기습당함</"
 "LSTag>에 면역이 됩니다. 다른 영약의 효과를 대체합니다. "
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/17066367-7b64-402e-951d-9dcc1407c278.lsx
@@ -4570,6 +4570,8 @@ msgid ""
 "targets immolate upon taking fire damage, dealing [1] to everyone and "
 "everything nearby."
 msgstr ""
+"무기 공격이 적중하면 대상에게 2 턴 동안 기름을 묻힙니다. 기름이 묻은 대상이 화염 피해를 받으면 불타올라 인접한 모든 것들에 [1]를 "
+"가합니다."
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/bb750807-895b-468d-81e1-4378797d11ca.lsx
 #. NodeID = GameObjects
@@ -4582,7 +4584,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/bb750807-895b-468d-81e1-4378797d11ca.lsx:15
 msgctxt "h32bb5a11g2d66g4f74gb30egdbd4abe05893"
 msgid "Oil of Combustion"
-msgstr ""
+msgstr "타오르는 기름"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/955d3880-3d10-4fb5-845b-96b6b52aef9a.lsx
 #. NodeID = GameObjects
@@ -19855,14 +19857,13 @@ msgstr "이 물약이 담긴 플라스크는 흔히 전투가 시작되기 전 �
 #. Icon = Item_CONS_Potion_Heroism
 #. Stats = OBJ_Potion_Of_Heroism
 #: Shared/Public/Shared/RootTemplates/bb27cc17-5af9-4d53-818b-3e620f3f59f2.lsx:21
-#, fuzzy
-#| msgid ""
-#| "Increase your <LSTag Tooltip=\"HitPoints\">hit point</LSTag> maximum by 10."
 msgctxt "he873af54g80d9g45f7g9e67gb2b728f5df6c"
 msgid ""
 "Gain 10 <LSTag Tooltip=\"TemporaryHitPoints\">temporary hit points</LSTag> "
 "and become <LSTag Type=\"Status\" Tooltip=\"BLESS\">Blessed</LSTag>."
-msgstr "최대 <LSTag Tooltip=\"HitPoints\">체력</LSTag>이 10 만큼 증가합니다."
+msgstr ""
+"10 만큼의 <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 얻고 <LSTag Type="
+"\"Status\" Tooltip=\"BLESS\">축복</LSTag> 상태가 됩니다."
 
 #. FilePath = Shared/Public/Shared/RootTemplates/bb27cc17-5af9-4d53-818b-3e620f3f59f2.lsx
 #. NodeID = GameObjects
@@ -32312,7 +32313,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/b45b431d-6307-4232-b1c8-805efb5c927b.lsx:9
 msgctxt "hcc7a52b2gdc12g408bg8151gc41226efb30d"
 msgid "%%% Do not destub - Archery Target"
-msgstr ""
+msgstr "%%% Do not destub - Archery Target"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/f2bca895-1fc5-4d93-b6b2-011b5cc89fc5.lsx
 #. NodeID = GameObjects
@@ -55109,7 +55110,7 @@ msgstr "깃털 낙하의 두루마리"
 #: Shared/Public/Shared/RootTemplates/6e13fbf8-3db5-4420-8691-653d5ecb753e.lsx:15
 msgctxt "h1bf2ca48g540ag4625g9d3bgcb4a19ea93fb"
 msgid "Scroll of Feign Death"
-msgstr "위장된 죽음의 두루마리"
+msgstr "죽음 가장의 두루마리"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/fb975b01-40d5-49a3-b60a-d2f13a1f8009.lsx
 #. NodeID = GameObjects
@@ -55120,7 +55121,7 @@ msgstr "위장된 죽음의 두루마리"
 #: Shared/Public/Shared/RootTemplates/fb975b01-40d5-49a3-b60a-d2f13a1f8009.lsx:8
 msgctxt "he9be11e2ga11dg459fg8f0dgf41a80b00f91"
 msgid "Scroll of Find Familiar"
-msgstr ""
+msgstr "패밀리어 찾기의 두루마리"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/fdfe5d75-0e8b-47f8-b128-d57081cb8981.lsx
 #. NodeID = GameObjects
@@ -57229,7 +57230,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/ac9e04d9-c43c-45f2-9922-a17675ef98b5.lsx:20
 msgctxt "h4895ccd8g2c53g4a46g8169g80899e01f13a"
 msgid "A strong paralytic poison."
-msgstr ""
+msgstr "강한 마비 독."
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/ac9e04d9-c43c-45f2-9922-a17675ef98b5.lsx
 #. NodeID = GameObjects
@@ -60530,6 +60531,7 @@ msgctxt "h6aa770e3g932fg4e73gb39ag3b54bf9a5fd9"
 msgid ""
 "%%% Do not destub - Deprecated - Item Interactions - PreProd Prototype - Mug"
 msgstr ""
+"%%% Do not destub - Deprecated - Item Interactions - PreProd Prototype - Mug"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/721dcc51-9733-463b-87c5-6afcda6fef65.lsx
 #. NodeID = GameObjects
@@ -76325,7 +76327,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/5c6904cc-5bb0-4ed9-a97c-b2df9aa2a9b6.lsx:23
 msgctxt "hf186ac27gc6d8g4673gb280ga88fb98f08e6"
 msgid "Shadow Vestige"
-msgstr ""
+msgstr "그림자의 흔적"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/637f2b2f-9947-406e-b942-8b3b884172c0.lsx
 #. NodeID = GameObjects
@@ -77110,7 +77112,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/7becedf0-a90a-40d3-a726-e4e671f3d73f.lsx:9
 msgctxt "hef1a3bc9gbd71g413cg9ddeg26308cd7cb71"
 msgid "True Love's Embrace"
-msgstr ""
+msgstr "진정한 사랑의 포옹"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/bf59a1e5-e3d1-48f1-9970-4aa3fdcaa780.lsx
 #. NodeID = GameObjects
@@ -77138,7 +77140,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/bf59a1e5-e3d1-48f1-9970-4aa3fdcaa780.lsx:9
 msgctxt "hf909376fgdf83g47adga77fg25ca9a6563f8"
 msgid "True Love's Caress"
-msgstr ""
+msgstr "진정한 사랑의 애무"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/8838eb53-ed3d-4d64-9fe7-a82ab7249c18.lsx
 #. NodeID = GameObjects
@@ -77166,6 +77168,8 @@ msgid ""
 "\"Target_FeignDeath\">Feign Death</LSTag> once per <LSTag Tooltip=\"ShortRest"
 "\">Short Rest</LSTag>. "
 msgstr ""
+"이 부츠는 착용자가 <LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag>당 한 번, <LSTag Type="
+"\"Spell\" Tooltip=\"Target_FeignDeath\">죽음 가장</LSTag>을 시전할 수 있게 합니다. "
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/8838eb53-ed3d-4d64-9fe7-a82ab7249c18.lsx
 #. NodeID = GameObjects
@@ -77176,7 +77180,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/8838eb53-ed3d-4d64-9fe7-a82ab7249c18.lsx:14
 msgctxt "h0c24ca85g98ebg4368gb695ge50b34bd60d2"
 msgid "Boots of Apparent Death"
-msgstr ""
+msgstr "외관상의 죽음 부츠"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/afb45f49-67f3-4930-80d3-afaa97cafb34.lsx
 #. NodeID = GameObjects
@@ -77489,7 +77493,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/7ee0b513-403b-4fe3-a445-b599defa9331.lsx:15
 msgctxt "h517c6cddge273g4573g99e1ga107ea675a1e"
 msgid "Rat Bat"
-msgstr ""
+msgstr "쥐방망이"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/cb2b1ac8-5589-464f-ac9f-ccd6fd27ebed.lsx
 #. NodeID = GameObjects
@@ -77569,7 +77573,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/3f12408f-22b1-4a02-bd8c-e513c3407ccf.lsx:24
 msgctxt "h5e2b8002ga7adg49cdga56eg8638a5c4de33"
 msgid "The Waning Moon"
-msgstr ""
+msgstr "저무는 달"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/1ec327be-3b7f-4502-9586-860e057e09ae.lsx
 #. NodeID = GameObjects

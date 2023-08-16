@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-16 08:54+0000\n"
-"Last-Translator: 조선인 <kimkikim141@naver.com>\n"
+"PO-Revision-Date: 2023-08-16 16:53+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/roottemplates/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3078,7 +3078,7 @@ msgstr "은제 로켓"
 #: Shared/Public/Shared/RootTemplates/56a22382-b609-4d91-a3b4-e335cbd0d446.lsx:17
 msgctxt "h23825c9fgdcb6g4aabgbbfag6673dc4b9873"
 msgid "%%% No destub - Alchemy Device"
-msgstr ""
+msgstr "%%% No destub - Alchemy Device"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/71a8606e-7ad2-4a04-9af3-9b57716a2c1b.lsx
 #. NodeID = GameObjects
@@ -3088,7 +3088,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/71a8606e-7ad2-4a04-9af3-9b57716a2c1b.lsx:17
 msgctxt "hd0ed6d27g6634g4e26g8ae0g64302955e879"
 msgid "%%% No destub - Alchemy Device"
-msgstr ""
+msgstr "%%% No destub - Alchemy Device"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/50a2cddb-53e3-4d35-933f-6cbdb5440034.lsx
 #. NodeID = GameObjects
@@ -3098,7 +3098,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/50a2cddb-53e3-4d35-933f-6cbdb5440034.lsx:17
 msgctxt "h10bd34b5gcdd0g4ebfga91ag316344debe49"
 msgid "%%% No destub - Alchemy Device"
-msgstr ""
+msgstr "%%% No destub - Alchemy Device"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/4c1a1026-07dd-45de-8259-eb2ee3ce1b31.lsx
 #. NodeID = GameObjects
@@ -3108,7 +3108,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/4c1a1026-07dd-45de-8259-eb2ee3ce1b31.lsx:17
 msgctxt "hdbd1dcd8g2accg4c38gb722g172759574e56"
 msgid "%%% No destub - Alchemy Device"
-msgstr ""
+msgstr "%%% No destub - Alchemy Device"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/19f5bedc-8885-4bd4-b857-e17710d3c323.lsx
 #. NodeID = GameObjects
@@ -3118,7 +3118,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/19f5bedc-8885-4bd4-b857-e17710d3c323.lsx:17
 msgctxt "h6a3999d1g2432g4489g9f30g591266e4ac57"
 msgid "%%% No destub - Alchemy Device"
-msgstr ""
+msgstr "%%% No destub - Alchemy Device"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/87f65420-7a70-449b-aea7-de51a086ae36.lsx
 #. NodeID = GameObjects
@@ -3128,7 +3128,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/87f65420-7a70-449b-aea7-de51a086ae36.lsx:17
 msgctxt "h0db7c247g44fcg4c05gb5a1g578ce591ec4b"
 msgid "%%% No destub - Alchemy Device"
-msgstr ""
+msgstr "%%% No destub - Alchemy Device"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/aa19d8f5-1a22-44a8-9c63-51c4451804c3.lsx
 #. NodeID = GameObjects
@@ -6338,7 +6338,7 @@ msgstr "나무 해치"
 #: Shared/Public/Shared/RootTemplates/d317550c-2a77-454b-b6b8-0352be331c22.lsx:15
 msgctxt "hf9f3874cg6ecdg48f3g99a9g186f2a725644"
 msgid "%%% No destub - Druid Menhir Platform Door PLACEHOLDER"
-msgstr ""
+msgstr "%%% No destub - Druid Menhir Platform Door PLACEHOLDER"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/5af7fc30-cc25-41af-964a-1e2f92bb71cc.lsx
 #. NodeID = GameObjects
@@ -13618,11 +13618,9 @@ msgstr "중독 상태를 부여합니다."
 #. Icon = Surface_Poison
 #. RollConditions = Character() and not SavingThrow(Ability.Constitution, SourceSpellDC(11),AdvantageOnPoisoned())
 #: Shared/Public/Shared/RootTemplates/f58b42b0-ab8e-4342-b7e2-daa61ee97628.lsx:20
-#, fuzzy
-#| msgid "Poison"
 msgctxt "h3252bb32g9bcfg4dd4gbc9dg5839ad5b509a"
 msgid "Simple Toxin"
-msgstr "독"
+msgstr "단순 독소"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/1cdb25bc-8026-4ea4-adcf-04476755eee4.lsx
 #. NodeID = GameObjects
