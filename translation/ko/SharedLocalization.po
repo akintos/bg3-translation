@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-16 16:54+0000\n"
-"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
+"PO-Revision-Date: 2023-08-17 19:54+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/sharedlocalization/ko/>"
 "\n"
 "Language: ko\n"
@@ -95,7 +95,7 @@ msgstr "샤의 시야"
 #: Shared/Public/SharedDev/Localization/Shout_TooltipOnRollFail.lsx:8
 msgctxt "h7a66c3ffg58e7g44ebgb04ag87fcab60cda4"
 msgid "ApplyStatus(PRONE,100,1)"
-msgstr ""
+msgstr "ApplyStatus(PRONE,100,1)"
 
 #. key = SharedDev_Target_InsectPlague_TooltipOnRollFail
 #. 
@@ -312,7 +312,7 @@ msgstr "잠자리에 들겠습니까?"
 #: Shared/Public/Shared/Localization/ReadyChecks_Descriptions.lsx:50
 msgctxt "heb3d52f1ge7bbg48b4ga1abg6792e905e1bc"
 msgid "Someone in your camp still wishes to speak to you."
-msgstr ""
+msgstr "야영지에 있는 누군가가 아직 당신과 대화하고 싶어합니다."
 
 #. key = ReadyCheck_EndNight_TalksLeft
 #. 
@@ -395,9 +395,10 @@ msgstr "야영지가 접근 불가 상태라 하루를 마무리할 수 없습�
 #. HandlePath = Content
 #. UUID = ReadyCheck_PartyMemberNotReady
 #: Shared/Public/Shared/Localization/ReadyChecks_Descriptions.lsx:85
+#, fuzzy
 msgctxt "h056e3dacg3ed5g4d7egb791g96c8af3f4e51"
 msgid "A member of your party is not ready to proceed."
-msgstr ""
+msgstr "현재 동료가 준비를 마치지 않았습니다."
 
 #. key = ReadyCheck_RegionSwap
 #. 
@@ -438,6 +439,8 @@ msgid ""
 "Warning: the area you are about to enter will be bitterly difficult for a "
 "party of your level."
 msgstr ""
+"더 진행하기 전에 매듭짓지 못한 일을 끝내고 오십시오!\n"
+"경고: 진입하려는 지역은 현재 파티 레벨에겐 매우 어려운 난이도입니다."
 
 #. key = ReadyCheck_RegionSwap_LowLevel
 #. 
@@ -452,6 +455,8 @@ msgid ""
 "Warning: the area you are about to enter will be bitterly difficult for a "
 "party of your level."
 msgstr ""
+"더 진행하기 전에 매듭짓지 못한 일을 끝내고 오십시오!\n"
+"경고: 진입하려는 지역은 현재 파티 레벨에겐 매우 어려운 난이도입니다."
 
 #. key = ReadyCheck_YouAreNotReady
 #. 
@@ -474,7 +479,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Levels.lsx:29
 msgctxt "h258bbcadgec46g444dga457gb0586a94db42"
 msgid "Wyrm's Crossing"
-msgstr ""
+msgstr "고룡 다리"
 
 #. key = CAMP_SUB
 #. 
@@ -6944,7 +6949,7 @@ msgstr "그림자의 틈새"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:155
 msgctxt "h24db5261gc912g4e50g892ag138c40beb0dd"
 msgid "Gauntlet of Shar"
-msgstr "샤의 시련"
+msgstr "샤의 건틀릿"
 
 #. key = WAYP_TWN_Center
 #. 
@@ -6966,7 +6971,7 @@ msgstr "라이스윈 시내"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:36
 msgctxt "h277aa925gcf35g4838g8ac8g127d3fc7aa54"
 msgid "Grand Mausoleum"
-msgstr ""
+msgstr "대영묘"
 
 #. key = WAYP_UND_AdamantineForge
 #. 
@@ -7076,7 +7081,7 @@ msgstr "고룡 다리 남쪽 구간 "
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:64
 msgctxt "h7cdce094gccd2g4178gb049gd9832c187c85"
 msgid "Wyrm's Rock"
-msgstr ""
+msgstr "고룡 바위"
 
 #. key = WLD_Main_A
 #. 
@@ -7099,7 +7104,7 @@ msgstr "황야"
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:183
 msgctxt "h4d760537g6289g472bgbd75gfea13ca859d6"
 msgid "Alchemy & Potions Shop"
-msgstr ""
+msgstr "연금술과 물약 상점"
 
 #. key = WYR_Axe_SUB
 #. 
@@ -7110,7 +7115,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:1107
 msgctxt "h73f3aaacg5ed3g4f3bg94bagd678b3bd0264"
 msgid "Danthelon's Dancing Axe"
-msgstr ""
+msgstr "단셀론의 춤추는 도끼"
 
 #. key = WYR_BigBarn_SUB
 #. 
@@ -7165,7 +7170,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:218
 msgctxt "h1ea729d5g9e08g4c9fg8a37gaf737a5516d4"
 msgid "Astarion the Sensuous"
-msgstr ""
+msgstr "감각적인 아스타리온"
 
 #. key = WYR_Circus_StatueName_Gale
 #. 
@@ -7176,7 +7181,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:225
 msgctxt "h197ebe85ga8dcg4265gbc9fg0de9d8d7878d"
 msgid "Gale the Erudite"
-msgstr ""
+msgstr "박식한 게일"
 
 #. key = WYR_Circus_StatueName_Generic
 #. 
@@ -7187,7 +7192,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:281
 msgctxt "hf1119933g5789g4976g9cd4gab6005a110f7"
 msgid "True Hero of Baldur's Gate"
-msgstr ""
+msgstr "발더스 게이트의 진정한 영웅"
 
 #. key = WYR_Circus_StatueName_Halsin
 #. 
@@ -7198,7 +7203,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:267
 msgctxt "h3cf553c5g8f04g4071g8f10g79fd2ee57fd1"
 msgid "Halsin the Immense"
-msgstr ""
+msgstr "웅대한 할신"
 
 #. key = WYR_Circus_StatueName_Jaheira
 #. 
@@ -7209,7 +7214,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:274
 msgctxt "hff603de5g1770g4cc0gbdb7g55cc23273aab"
 msgid "Jaheira the Spring Chicken"
-msgstr ""
+msgstr "봄의 닭 자헤이라"
 
 #. key = WYR_Circus_StatueName_Karlach
 #. 
@@ -7220,7 +7225,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:232
 msgctxt "h6ca7b038g210ag4058ga5e3g22b3222d4756"
 msgid "Karlach the Fierce"
-msgstr ""
+msgstr "맹렬한 칼라크"
 
 #. key = WYR_Circus_StatueName_Laezel
 #. 
@@ -7231,7 +7236,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:239
 msgctxt "hbcaf9899gabb0g4878g9d0ag03ca580be961"
 msgid "Lae'zel the Stern"
-msgstr ""
+msgstr "근엄한 레이젤"
 
 #. key = WYR_Circus_StatueName_Minsc
 #. 
@@ -7240,9 +7245,10 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = WYR_Circus_StatueName_Minsc
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:253
+#, fuzzy
 msgctxt "h725b14d5gced7g4929g96d0gdccfafc6adf5"
 msgid "Minsc the Hamstersome"
-msgstr ""
+msgstr "햄스터스러운 민스크"
 
 #. key = WYR_Circus_StatueName_Minthara
 #. 
@@ -7253,7 +7259,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:260
 msgctxt "hba59e075g0f37g44e6ga32fga11c0018b570"
 msgid "Minthara the Relentless"
-msgstr ""
+msgstr "가차없는 민타라"
 
 #. key = WYR_Circus_StatueName_Shadowheart
 #. 
@@ -7264,7 +7270,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:246
 msgctxt "h20e1bee0gdc46g470cg81a3g9c489e69eba6"
 msgid "Shadowheart the Passionate"
-msgstr ""
+msgstr "열성적인 섀도하트"
 
 #. key = WYR_Circus_StatueName_Wyll
 #. 
@@ -7275,7 +7281,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:211
 msgctxt "h5edccf36g3d01g44acg8616g54171168593e"
 msgid "Wyll the Illustrious"
-msgstr ""
+msgstr "저명한 윌"
 
 #. key = WYR_CourageTrial_TimerName
 #. 
@@ -7308,7 +7314,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:1100
 msgctxt "h8f128e0cga9b4g4891g90e4g3a6233998af0"
 msgid "Fraygo's Flophouse"
-msgstr ""
+msgstr "프레이고의 여인숙"
 
 #. key = WYR_Fortress_SUB
 #. 
@@ -7319,7 +7325,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:8
 msgctxt "hdc11b485gf404g413aga6a4g61c055db0dc2"
 msgid "Wyrm's Rock Fortress"
-msgstr ""
+msgstr "고룡 바위 요새"
 
 #. key = WYR_GurCamp_SUB
 #. 
@@ -7330,7 +7336,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:204
 msgctxt "h7c3349b4g640ag402aga8c8g7e2d3cb8fce8"
 msgid "Gur Camp"
-msgstr ""
+msgstr "구르 야영지"
 
 #. key = WYR_Jungle_SUB
 #. 
@@ -7341,7 +7347,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:106
 msgctxt "hefb76633ga94ag4941g9d63g2e40c121168b"
 msgid "Jungle"
-msgstr ""
+msgstr "정글"
 
 #. key = WYR_KillDirectorGortash_GortashAfterCeremony
 #. 
@@ -7396,7 +7402,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:1065
 msgctxt "ha1f5e2eegb131g4a3egb059ge166ac12c91e"
 msgid "Open Hand Temple"
-msgstr ""
+msgstr "열린 손의 신전"
 
 #. key = WYR_OpenHand_LowerCityPass
 #. 
@@ -7443,7 +7449,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:15
 msgctxt "h8001ffc8ge083g41adg8c90g530d7e301bc5"
 msgid "Wyrm's Rock Prison"
-msgstr ""
+msgstr "고룡 바위 감옥"
 
 #. key = WYR_RivingtonGeneral_SUB
 #. 
@@ -7465,7 +7471,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:190
 msgctxt "h64210e60g1627g4c28g8530g57b7f363c6ad"
 msgid "Rivington"
-msgstr ""
+msgstr "리빙턴"
 
 #. key = WYR_SentientAmulet_Corpse_000
 #. 
@@ -7476,7 +7482,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Misc.lsx:218
 msgctxt "hfb27bb02g80c3g4828gbc83gc6a0d6f7361b"
 msgid "Shirra Clarwen"
-msgstr ""
+msgstr "시라 클라웬"
 
 #. key = WYR_SentientAmulet_Corpse_001
 #. 
@@ -7531,7 +7537,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:141
 msgctxt "h8acd7f0bg8f4dg4462gbe3bg37014c8da146"
 msgid "Sharess' Caress Basement"
-msgstr ""
+msgstr "샤레스의 애무 지하실"
 
 #. key = WYR_SharessCaress_Drow_SUB
 #. 
@@ -7586,7 +7592,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:36
 msgctxt "hbe9e7932g4d73g42e0ga53dge2d096b98b66"
 msgid "Sharess' Caress"
-msgstr ""
+msgstr "샤레스의 애무"
 
 #. key = WYR_SharessCaress_UpperRooms_SUB
 #. 
@@ -7597,7 +7603,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:148
 msgctxt "he156a751ge29ag4c14g8a60gcef86c3a90fd"
 msgid "Sharess' Caress Upper Floor"
-msgstr ""
+msgstr "샤레스의 애무 상층"
 
 #. key = WYR_South_SUB
 #. 

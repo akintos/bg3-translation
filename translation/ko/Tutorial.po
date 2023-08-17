@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-16 16:54+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-08-17 19:54+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/tutorial/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -497,11 +497,12 @@ msgstr ""
 #. HandlePath = ControllerDescription
 #. TutorialName = End the day (depleted short rest resource)
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:52
+#, fuzzy
 msgctxt "hf712d886gd4cag46beg8a6cg2f8b80f9d77d"
 msgid ""
 "Your replenishable resources are dwindling, but you've already taken 2 Short "
 "Rests. Take a Long Rest to restore hit points and other resources."
-msgstr ""
+msgstr "보충 가능한 자원이 바닥났지만, 이미 2번의 짧은 휴식을 취했습니다. 긴 휴식을 취해 체력과 다른 자원들을 회복하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -530,11 +531,12 @@ msgstr "하루 마무리"
 #. HandlePath = KeyboardDescription
 #. TutorialName = End the day (depleted short rest resource)
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:56
+#, fuzzy
 msgctxt "hd40af6eag1f62g4608g8147g14a59f7113ef"
 msgid ""
 "Your replenishable resources are dwindling, but you've already taken 2 Short "
 "Rests. Take a Long Rest to restore hit points and other resources."
-msgstr ""
+msgstr "보충 가능한 자원이 바닥났지만, 이미 2번의 짧은 휴식을 취했습니다. 긴 휴식을 취해 체력과 다른 자원들을 회복하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -554,11 +556,12 @@ msgstr ""
 #. HandlePath = ControllerDescription
 #. TutorialName = End the day (depleted long rest resource)
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:65
+#, fuzzy
 msgctxt "hb425fb6bgb45dg417ag9e41ga1a0624d4ea1"
 msgid ""
 "Your replenishable resources are dwindling. Take a Long Rest to restore hit "
 "points and other resources."
-msgstr ""
+msgstr "보충 가능한 자원이 바닥났습니다. 긴 휴식을 취해 체력과 다른 자원들을 회복하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -977,7 +980,7 @@ msgstr "소환"
 msgctxt "h135c51c8g44fag46b3gafb6ged483d0691e4"
 msgid ""
 "You have summoned a creature. Click on its portrait to control its actions."
-msgstr "당신은 생명체를 소환했습니다. 초상화를 클릭해서 행동을 조작하세요."
+msgstr "크리쳐를 소환했습니다. 초상화를 클릭해서 행동을 조작하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3853,9 +3856,10 @@ msgstr ""
 #. HandlePath = ControllerDescription
 #. TutorialName = Basic Movement
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:805
+#, fuzzy
 msgctxt "h98941c34g1838g41d6g91e3gd07c1ae46b9a"
 msgid "Move to start your adventure."
-msgstr ""
+msgstr "이동으로 모험을 시작하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3898,9 +3902,10 @@ msgstr "기본적인 이동"
 #. HandlePath = KeyboardDescription
 #. TutorialName = Basic Movement
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:810
+#, fuzzy
 msgctxt "he774020cg6ef9g49cbgbf62g7d10186467d9"
 msgid "Move to start your adventure."
-msgstr ""
+msgstr "이동으로 모험을 시작하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3909,7 +3914,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:811
 msgctxt "h6b419f16gb529g4483gbf20g134644af0149"
 msgid "Click the ground or hold [IE_UILeftMouse] to move towards your cursor."
-msgstr ""
+msgstr "지면을 클릭하거나 [IE_UILeftMouse]을 누르고 있으면 커서가 있는 곳으로 이동합니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3922,8 +3927,8 @@ msgid ""
 " to dynamically move characters towards the cursor. Grouped party members "
 "will always move together.  "
 msgstr ""
-"게임내 이동하고 싶은 곳을 클릭하세요. 혹은 [IE_UILeftMouse]을 누르고 있으면 커서가 있는 방향으로 동적으로 움직입니다. "
-"그룹으로 묶여진 파티원들도 같이 움직입니다.  "
+"목적지를 클릭해 이동합니다. [IE_UILeftMouse]을 누르고 있으면 커서가 있는 방향으로 이동합니다. 그룹으로 묶여진 파티원들도 "
+"같이 움직입니다.  "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4035,9 +4040,10 @@ msgstr ""
 #. HandlePath = DisplayTitle
 #. TutorialName = Center View
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:855
+#, fuzzy
 msgctxt "h45dc26d1g5ea7g44d7g9147g117a0251215e"
 msgid "Centre Camera"
-msgstr ""
+msgstr "중앙으로 카메라 이동"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4046,18 +4052,21 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:857
 msgctxt "h1f846c63gd23ag4f82gb5aagfa4d8cb3c3c7"
 msgid "You can always refocus the camera around your current character. "
-msgstr ""
+msgstr "언제든지 현재 캐릭터에게로 카메라를 이동할 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
 #. HandlePath = KeyboardInputList
 #. TutorialName = Center View
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:858
+#, fuzzy
 msgctxt "hbcb13773g7f42g4169g951dg24ebc67a568d"
 msgid ""
 "[IE_CameraCenter] Centre camera\n"
 "[IE_UILeftMouse] Double-click portrait to centre camera"
 msgstr ""
+"[IE_CameraCenter] 중앙으로 카메라 이동\n"
+"[IE_UILeftMouse] 초상화를 더블클릭해 중앙으로 카메라 이동"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6147,7 +6156,7 @@ msgid ""
 "custom markers. You can also teleport to waypoints you have discovered by "
 "selecting them."
 msgstr ""
-"이곳은 당신 주변의 지도입니다. 퀘스트의 위치를 확인할 수 있고, 사용자 지정 마커를 놓을 수도 있습니다. 또한 이미 발견한 웨이포인트를 "
+"이것은 당신 주변의 지도입니다. 퀘스트의 위치를 확인할 수 있고, 사용자 지정 마커를 놓을 수도 있습니다. 또한 이미 발견한 웨이포인트를 "
 "선택함으로써 텔레포트할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
@@ -6170,7 +6179,7 @@ msgid ""
 "custom markers. You can also teleport to waypoints you have discovered by "
 "selecting them."
 msgstr ""
-"이곳은 당신 주변의 지도입니다. 퀘스트의 위치를 확인할 수 있고, 사용자 지정 마커를 놓을 수도 있습니다. 또한 이미 발견한 웨이포인트를 "
+"이것은 당신 주변의 지도입니다. 퀘스트의 위치를 확인할 수 있고, 사용자 지정 마커를 놓을 수도 있습니다. 또한 이미 발견한 웨이포인트를 "
 "선택함으로써 텔레포트할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
@@ -6313,8 +6322,8 @@ msgid ""
 "Some dialogue options require a skill check - a dice roll that must meet or "
 "exceed a target number. Your character's skills add a bonus to this roll."
 msgstr ""
-"일부 대화 선택지는 기술 판정을 요구합니다. 주사위 굴림이 특정 숫자와 같거나 더 높아야 합니다. 캐릭터의 기술은 주사위 굴림에 보너스를 "
-"더해줍니다."
+"일부 대화 선택지는 기술 판정을 요구합니다. 성공하려면, 주사위를 굴려 나온 값이 특정 숫자와 같거나 더 높아야 합니다. 캐릭터의 기술은 "
+"주사위 굴림에 보너스를 더해줍니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6373,8 +6382,8 @@ msgid ""
 "Some dialogue options require a skill check - a dice roll that must meet or "
 "exceed a target number. Your character's skills add a bonus to this roll."
 msgstr ""
-"일부 대화 선택지는 기술 판정을 요구합니다. 주사위 굴림이 특정 숫자와 같거나 더 높아야 합니다. 캐릭터의 기술은 주사위 굴림에 보너스를 "
-"더해줍니다."
+"일부 대화 선택지는 기술 판정을 요구합니다. 성공하려면, 주사위를 굴려 나온 값이 특정 숫자와 같거나 더 높아야 합니다. 캐릭터의 기술은 "
+"주사위 굴림에 보너스를 더해줍니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7450,7 +7459,7 @@ msgid ""
 "Failing on a skill check will mean you'll fail, no matter what your Ability "
 "Modifier is. "
 msgstr ""
-"기술 판정 주사위 굴림에서 1이 나왔습니다. 대실패입니다. 스킬 판정의 대실패는 능력 수정치 값과 무관하게 실패함을 의미합니다. "
+"기술 판정 주사위 굴림에서 1이 나왔습니다. 대실패입니다. 기술 판정에서 대실패하면, 능력 수정치와 무관하게 무조건 실패합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7472,7 +7481,7 @@ msgid ""
 "Failing on a skill check will mean you'll fail, no matter what your Ability "
 "Modifier is. "
 msgstr ""
-"기술 판정 주사위 굴림에서 1이 나왔습니다. 대실패입니다. 스킬 판정의 대실패는 능력 수정치 값과 무관하게 실패함을 의미합니다. "
+"기술 판정 주사위 굴림에서 1이 나왔습니다. 대실패입니다. 기술 판정에서 대실패하면, 능력 수정치와 무관하게 무조건 실패합니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial

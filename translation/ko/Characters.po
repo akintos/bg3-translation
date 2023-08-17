@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-16 16:53+0000\n"
-"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
+"PO-Revision-Date: 2023-08-17 19:54+0000\n"
+"Last-Translator: cajanbleman <kkomr5918@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/characters/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -184,7 +184,6 @@ msgstr "흡혈오징어의 촉수"
 #. Stats = Alioramus
 #. GeneratePortrait = Icon_Diloph
 #: Shared/Public/SharedDev/RootTemplates/77633009-400a-45e7-b13f-bf96782d6df4.lsx:13
-#, fuzzy
 msgctxt "h37e6c2cdg59a7g4bf2gbec7g701894a0daae"
 msgid "Alioramus"
 msgstr "알리오라무스"
@@ -290,10 +289,9 @@ msgstr "아이"
 #. GeneratePortrait = Icon_Demon_Raphael
 #. Archetype = act3_LOW_Raphael
 #: Shared/Public/SharedDev/RootTemplates/e7e3c5ee-b26d-43e0-874c-0776a6b20221.lsx:36
-#, fuzzy
 msgctxt "h9921d203g750fg4f88gaf9fg879926b7623c"
 msgid "Master of the House"
-msgstr "집주인"
+msgstr "집의 주인"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/b48a8e70-ef46-41e3-a0d3-40f9846cfc08.lsx
 #. NodeID = GameObjects
@@ -1005,7 +1003,7 @@ msgstr "고블린"
 #: Shared/Public/SharedDev/RootTemplates/704a9343-2f4c-49a1-b936-c6d0594ade86.lsx:14
 msgctxt "hdce2593eged0ag46d2ga7ceg298f43c3f87c"
 msgid "Gremishka"
-msgstr ""
+msgstr "그레미쉬카"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/d3442b44-ae2c-4d85-b069-c9a3217c351c.lsx
 #. NodeID = GameObjects
@@ -1019,10 +1017,9 @@ msgstr ""
 #. GeneratePortrait = Icon_Guardian_Of_Faith_Good
 #. SwarmGroup = GuardianOfFaith
 #: Shared/Public/SharedDev/RootTemplates/d3442b44-ae2c-4d85-b069-c9a3217c351c.lsx:13
-#, fuzzy
 msgctxt "h2ac268f1g864bg4b3fg926agc4c3f3282cbc"
 msgid "Guardian of Faith"
-msgstr "운명의 수호자"
+msgstr "믿음의 수호자"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/2fbd8b06-7c21-4be8-8de7-78d8819a05ba.lsx
 #. NodeID = GameObjects
@@ -1239,7 +1236,7 @@ msgstr "참가자"
 #: Shared/Public/SharedDev/RootTemplates/0fc1e8e9-18e2-407f-8ee2-4de350f15b5f.lsx:13
 msgctxt "h8ecb3216g56a5g4bbbg83bcge70d5e9f61c9"
 msgid "Refugee"
-msgstr ""
+msgstr "피난민"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/244cc192-7cf3-4a24-a782-693e429f3d74.lsx
 #. NodeID = GameObjects
@@ -1327,7 +1324,7 @@ msgstr "주민"
 #: Shared/Public/SharedDev/RootTemplates/b3d4b256-a744-4cf7-a398-65841e496a05.lsx:13
 msgctxt "h5365b3dfga1a3g4729g9008ga3972cd6f24e"
 msgid "Attendant"
-msgstr ""
+msgstr "참가자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/78135efd-8895-4226-884b-a59bc94536ba.lsx
 #. NodeID = GameObjects
@@ -1424,7 +1421,7 @@ msgstr "주민"
 #: Shared/Public/SharedDev/RootTemplates/0fb4772e-e077-433c-9813-11827c424ff5.lsx:13
 msgctxt "h99146c52g78e4g4143g83eeg3bc875bbef11"
 msgid "Attendant"
-msgstr ""
+msgstr "참가자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/1807912e-b6ff-4bc9-96f6-c53b1b1ef0ce.lsx
 #. NodeID = GameObjects
@@ -1434,7 +1431,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/1807912e-b6ff-4bc9-96f6-c53b1b1ef0ce.lsx:13
 msgctxt "h8cedf8deg6545g4fe2g9ed8ga657edb7271c"
 msgid "Refugee"
-msgstr ""
+msgstr "피난민"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/ea1bef08-30f0-49e4-ad7e-c4ddca32f95c.lsx
 #. NodeID = GameObjects
@@ -1459,8 +1456,6 @@ msgstr "인간 주민"
 #. Equipment = EQP_Kuotoa_Spear
 #. GeneratePortrait = Icon_Kuotoa
 #: Shared/Public/Shared/RootTemplates/c1fb77cf-cfa8-4027-b86b-decc3ff92739.lsx:16
-#, fuzzy
-#| msgid "Kuo-toa"
 msgctxt "h00f23eeeg22e0g41e0gad7cga7041cdfd248"
 msgid "Kuo-Toa"
 msgstr "쿠오토아"
@@ -1476,7 +1471,7 @@ msgstr "쿠오토아"
 #: Shared/Public/SharedDev/RootTemplates/c3088274-30cd-4267-a1ac-eed82c4f2b2c.lsx:14
 msgctxt "h628f810dgf835g4eb5gaf80g7650c1e9ebfe"
 msgid "Meenlock"
-msgstr ""
+msgstr "민록"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/a3db5896-d711-46fc-b3ed-0d950a2186fa.lsx
 #. NodeID = GameObjects
@@ -1506,7 +1501,7 @@ msgstr "마그마 메피트"
 #: Shared/Public/Shared/RootTemplates/ba310c25-3d52-4fd2-b405-da42209ad536.lsx:13
 msgctxt "h2af250e3gbf5cg4e87gaed8gc09f41a747c2"
 msgid "Merregon"
-msgstr ""
+msgstr "메레곤"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/e4da9179-d4e9-4e3d-af1b-b2c287732e18.lsx
 #. NodeID = GameObjects
@@ -1576,7 +1571,7 @@ msgstr "마노타우로스"
 #: Shared/Public/SharedDev/RootTemplates/a07771ba-cf1e-4819-862d-be98caf05326.lsx:14
 msgctxt "h0c24295ag2bd7g4e74g89e1g5622bae2b3a2"
 msgid "Netherbrain Tentacle"
-msgstr ""
+msgstr "네더브레인 촉수"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/ffbfa269-041f-4525-ac23-d0e975051bee.lsx
 #. NodeID = GameObjects
@@ -1588,7 +1583,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/ffbfa269-041f-4525-ac23-d0e975051bee.lsx:14
 msgctxt "h959fe1dfg91cbg44c3gbb8dg25047555e635"
 msgid "Netherbrain"
-msgstr ""
+msgstr "네더브레인"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/a28ef6b9-4dbb-4617-8345-37fe56101c29.lsx
 #. NodeID = GameObjects
@@ -1621,7 +1616,7 @@ msgstr "오우거"
 #: Shared/Public/Shared/RootTemplates/ac992788-8553-4200-b920-47e72bbd4384.lsx:15
 msgctxt "hf84b6fc8g2f7ag4799gad4bg181f53da9045"
 msgid "Ogre"
-msgstr ""
+msgstr "오우거"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/6240f9ef-fc81-4301-8ea7-de4a0ad4e57e.lsx
 #. NodeID = GameObjects
@@ -1743,7 +1738,7 @@ msgstr "늑대"
 #: Shared/Public/SharedDev/RootTemplates/6cd3948f-e293-4935-bf88-ac4b9a790d2e.lsx:13
 msgctxt "hb68f9a9fg2661g4b81g9b94g83e49c5c4b29"
 msgid "Skeletal Hound"
-msgstr ""
+msgstr "해골 사냥개"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/d5676054-fe07-4c6d-8433-b79b33a80a89.lsx
 #. NodeID = GameObjects
@@ -1782,7 +1777,7 @@ msgstr "감시하는 수정구"
 #: Shared/Public/SharedDev/RootTemplates/51a3532d-6d5d-4f17-a347-55ce80a6ef6b.lsx:14
 msgctxt "hcc6f3991g7959g42e4gac0cgb585399d300e"
 msgid "Shambling Mound"
-msgstr ""
+msgstr "움직이는 땅"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/dfa62397-bf6c-4bb5-b561-bfd5b8415bd0.lsx
 #. NodeID = GameObjects
@@ -1893,7 +1888,7 @@ msgstr "티플링 경비"
 #: Shared/Public/SharedDev/RootTemplates/44762dc3-7e35-44b9-8f90-34981c291ffc.lsx:14
 msgctxt "h17f455bdge9d5g4f83g83d2g0cbe037c6478"
 msgid "Dark Justiciar"
-msgstr ""
+msgstr "다크 저스티시어"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/531d498b-2ad0-4ebc-b272-e445faf3e38c.lsx
 #. NodeID = GameObjects
@@ -1919,7 +1914,7 @@ msgstr "해골"
 #: Shared/Public/SharedDev/RootTemplates/b32ff1dc-5de0-46e7-8a0b-8e085b1fc318.lsx:14
 msgctxt "h3b5bade4g7190g4fb2gb2efg32780910a4eb"
 msgid "Giant Skeleton"
-msgstr ""
+msgstr "해골 거인"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/23befed4-4436-4dd1-bbb7-26879bfc3198.lsx
 #. NodeID = GameObjects
@@ -1930,7 +1925,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/23befed4-4436-4dd1-bbb7-26879bfc3198.lsx:14
 msgctxt "he05f8109g72e6g48f3g9065g958b35cd81b8"
 msgid "Spectre"
-msgstr ""
+msgstr "악령"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/d9f878df-5c96-4ab1-87e4-a6c9d655dfae.lsx
 #. NodeID = GameObjects
@@ -1983,7 +1978,7 @@ msgstr "포탑"
 #: Shared/Public/SharedDev/RootTemplates/8263edbc-154b-4c2c-aa23-125c590cce6c.lsx:14
 msgctxt "hac7b092bg18feg4e20g9f49g5fd02a39c92f"
 msgid "Butler of Bhaal"
-msgstr ""
+msgstr "바알의 집사"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/e32a1c7a-93db-4a3d-b21f-ca9cbff85190.lsx
 #. NodeID = GameObjects
@@ -2008,7 +2003,7 @@ msgstr "파랑어치"
 #: Shared/Public/SharedDev/RootTemplates/758e59f2-ecee-47c6-ba77-6e2df034b39c.lsx:13
 msgctxt "h6f8efc31gc784g448fg8a51g01ecd2d104d7"
 msgid "Blue Jay"
-msgstr ""
+msgstr "파랑 어치"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/fea0d69b-1dfb-4cef-af32-960a915d4145.lsx
 #. NodeID = GameObjects
@@ -2021,7 +2016,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/fea0d69b-1dfb-4cef-af32-960a915d4145.lsx:16
 msgctxt "hc492420fgde6cg4f6cgb45cg2975c4010eac"
 msgid "Pigeon"
-msgstr ""
+msgstr "비둘기"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/a7ae5b16-c35e-4179-bc60-d8dd364dcd40.lsx
 #. NodeID = GameObjects
@@ -2046,7 +2041,7 @@ msgstr "비전 포탑"
 #: Shared/Public/SharedDev/RootTemplates/cb9eb989-68f1-47a6-af63-b69967260a41.lsx:15
 msgctxt "h750ab174g2619g4b7bg86e7g937798a1fb47"
 msgid "Needle Blight"
-msgstr ""
+msgstr "가시 블라이트"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/eccd3da9-5ca0-4403-806a-439d12978dcb.lsx
 #. NodeID = GameObjects
@@ -2061,7 +2056,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/eccd3da9-5ca0-4403-806a-439d12978dcb.lsx:14
 msgctxt "h756587e5g76b2g4927gb694ge48e4148b38f"
 msgid "Shadow-Cursed Needle Blight"
-msgstr ""
+msgstr "그림자 저주를 받은 가시 블라이트"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/b2c4a7c7-41c3-4171-8f77-30e16f551ca4.lsx
 #. NodeID = GameObjects
@@ -2074,7 +2069,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/b2c4a7c7-41c3-4171-8f77-30e16f551ca4.lsx:16
 msgctxt "hdc478165gd83fg44bagad9dg0e290967b5bc"
 msgid "Vine Blight"
-msgstr ""
+msgstr "덩굴 블라이트"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/e9cd3bf8-6e97-47c4-9bac-106f46123141.lsx
 #. NodeID = GameObjects
@@ -2089,7 +2084,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/e9cd3bf8-6e97-47c4-9bac-106f46123141.lsx:14
 msgctxt "h071533d3g18d1g4760gaeb5g2d0e8f85ea24"
 msgid "Shadow-Cursed Vine Blight"
-msgstr ""
+msgstr "그림자 저주를 받은 덩굴 블라이트"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/b9186958-8507-4076-ade5-0a3b43763997.lsx
 #. NodeID = GameObjects
@@ -2119,7 +2114,7 @@ msgstr "멧돼지"
 #: Shared/Public/SharedDev/RootTemplates/b0e8e97e-9c77-43d9-a68e-6ee1aac48166.lsx:14
 msgctxt "hccbc6dffg3133g47d8gb549g1c82a7a4df7f"
 msgid "Crawling Claw"
-msgstr ""
+msgstr "기어 다니는 손"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/6aac7aa0-9a97-4c6a-82d9-f1e3aad461bf.lsx
 #. NodeID = GameObjects
@@ -2133,7 +2128,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/6aac7aa0-9a97-4c6a-82d9-f1e3aad461bf.lsx:14
 msgctxt "h4a76daa7g1bbdg49e2g851agbdf9c5275adb"
 msgid "Bat"
-msgstr ""
+msgstr "박쥐"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/b2754d31-198e-4ae6-87ec-5399a3669639.lsx
 #. NodeID = GameObjects
@@ -2172,7 +2167,7 @@ msgstr "큰곰"
 #: Gustav/Public/GustavDev/RootTemplates/2b290dbd-0f5f-4a65-8d23-481fa40f7aa8.lsx:13
 msgctxt "hd0e5af5dg3585g43a7g805dg9a679166f70a"
 msgid "Ursa Major"
-msgstr ""
+msgstr "큰 곰"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/533d21da-878c-421d-a372-54e0125ae3bb.lsx
 #. NodeID = GameObjects
@@ -2184,7 +2179,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/533d21da-878c-421d-a372-54e0125ae3bb.lsx:13
 msgctxt "hd2340ebeg86d3g4090g819ag02aff7b1a31c"
 msgid "Ursa Major"
-msgstr "큰곰자리"
+msgstr "큰 곰"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/041f7544-d1fc-446d-b439-2108c02896ed.lsx
 #. NodeID = GameObjects
@@ -2197,7 +2192,7 @@ msgstr "큰곰자리"
 #: Gustav/Public/GustavDev/RootTemplates/041f7544-d1fc-446d-b439-2108c02896ed.lsx:13
 msgctxt "hfdd421edgbb72g4689gafa7g5a030394ab90"
 msgid "Ursa Major"
-msgstr ""
+msgstr "큰 곰"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/df74b830-20ec-4fc3-b09e-3b82e7db8f80.lsx
 #. NodeID = GameObjects
@@ -2210,7 +2205,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/df74b830-20ec-4fc3-b09e-3b82e7db8f80.lsx:13
 msgctxt "h01acd116gd535g48a7g838dgf79736d68e29"
 msgid "Ursa Ingens"
-msgstr ""
+msgstr "거대 곰"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/77cbfb55-0c74-43f7-b864-4d8f5c3229d2.lsx
 #. NodeID = GameObjects
@@ -2291,7 +2286,7 @@ msgstr "곰"
 #: Gustav/Public/GustavDev/RootTemplates/7d3466c7-af68-48c2-a601-8c5e4d8af9ec.lsx:13
 msgctxt "h664f86d2g963ag47a5ga1b3g5b0011cb9dad"
 msgid "Polar Bear"
-msgstr ""
+msgstr "북극곰"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/d7ed7e22-a442-40fd-a537-94b5ae2ae7f9.lsx
 #. NodeID = GameObjects
@@ -2317,7 +2312,7 @@ msgstr "북극곰"
 #: Gustav/Public/GustavDev/RootTemplates/5a2b902b-ae95-4d26-a930-3453adf5cf8b.lsx:14
 msgctxt "h2e82b61ag3550g4b43gb6a1gde68606bf495"
 msgid "Raven"
-msgstr ""
+msgstr "큰까마귀"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/319efbbe-f9f3-4584-804e-3e17d47d1136.lsx
 #. NodeID = GameObjects
@@ -2343,7 +2338,7 @@ msgstr "스펙테이터"
 #: Shared/Public/SharedDev/RootTemplates/3fa146c8-7fe0-44fd-9028-0ac2ccac2d44.lsx:14
 msgctxt "hf85a886dgb5f1g4025gb85bg7e46685bd8a1"
 msgid "Azer"
-msgstr ""
+msgstr "에이저르"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/07d79901-9cb9-41e7-a289-e8b38432d24e.lsx
 #. NodeID = GameObjects
@@ -2357,7 +2352,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/07d79901-9cb9-41e7-a289-e8b38432d24e.lsx:13
 msgctxt "h9bbbce69gd7bag4fabg90acg98a1c30dec2c"
 msgid "Dryad"
-msgstr ""
+msgstr "드라이어드"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/1d13a1ff-4ce5-4281-bbc6-d782a403e652.lsx
 #. NodeID = GameObjects
@@ -2371,7 +2366,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/1d13a1ff-4ce5-4281-bbc6-d782a403e652.lsx:14
 msgctxt "h32c0e61dgc248g48c6g8512g0b757e2a2d5f"
 msgid "Giant Eagle"
-msgstr ""
+msgstr "거대 독수리"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/be71d66c-5328-490f-b962-4fdb7ca2647f.lsx
 #. NodeID = GameObjects
@@ -2383,7 +2378,6 @@ msgstr ""
 #. SpellSet = CommonSummonActions
 #. BloodSurfaceType = SurfaceNone
 #: Shared/Public/Shared/RootTemplates/be71d66c-5328-490f-b962-4fdb7ca2647f.lsx:14
-#, fuzzy
 msgctxt "h8fcdc1ffgc618g489bg9cbeg4a95daa7b2a1"
 msgid "Verres"
 msgstr "베레스"
@@ -2398,7 +2392,7 @@ msgstr "베레스"
 #: Shared/Public/SharedDev/RootTemplates/a6297d2a-5c08-4206-a661-00a776802160.lsx:13
 msgctxt "h5de6b6d4gfbdeg4fadg9df2g074e023b0454"
 msgid "Verres Major"
-msgstr ""
+msgstr "큰 베레스"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/4ab10523-7e35-4a68-9afa-4839c484c579.lsx
 #. NodeID = GameObjects
@@ -2423,7 +2417,7 @@ msgstr "베레스 자리"
 #: Shared/Public/SharedDev/RootTemplates/f756eba3-1140-4be4-96f7-ca9706be60b6.lsx:13
 msgctxt "hfc6a4223ga275g48cdg9575gaf75e276b706"
 msgid "Verres Major"
-msgstr ""
+msgstr "큰 베레스"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/aa0bc9e6-65db-4471-9c35-8ff3412212d6.lsx
 #. NodeID = GameObjects
@@ -2436,7 +2430,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/aa0bc9e6-65db-4471-9c35-8ff3412212d6.lsx:14
 msgctxt "h63b9eaecg2876g4318gbb4dg111520975876"
 msgid "Verres Calamitosus"
-msgstr ""
+msgstr "파멸의 베레스"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/3e9ad4d7-f3d5-48b9-8b58-6cf9d3324923.lsx
 #. NodeID = GameObjects
@@ -2474,7 +2468,7 @@ msgstr "하급 헬스보어"
 #: Gustav/Public/GustavDev/RootTemplates/a9fd6ff6-61b2-4ab9-b4bd-2a605c5f423d.lsx:13
 msgctxt "h5266dc77g0533g4b4cga9a8gff4ae3c1804c"
 msgid "Vengeful Boar"
-msgstr ""
+msgstr "복수심에 불타는 멧돼지"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/9c699956-3729-432a-aa64-b03b0ffcb7c7.lsx
 #. NodeID = GameObjects
@@ -2515,7 +2509,7 @@ msgstr "멧돼지"
 #: Gustav/Public/GustavDev/RootTemplates/a6d6bd9e-3c69-4b5d-81d5-8d680a489223.lsx:14
 msgctxt "h23ed9e33geb35g482cg941eg7f74846ab5aa"
 msgid "Boo"
-msgstr ""
+msgstr "부"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/6f65f77f-4583-4dd7-be15-b737d0175061.lsx
 #. NodeID = GameObjects
@@ -2527,7 +2521,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/6f65f77f-4583-4dd7-be15-b737d0175061.lsx:13
 msgctxt "h2a24273dgc9b1g4723gbd3bg275a5fff68ae"
 msgid "Boo"
-msgstr ""
+msgstr "부"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/b7bf5b22-7604-4756-b6de-3a42a09b414e.lsx
 #. NodeID = GameObjects
@@ -2540,7 +2534,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/b7bf5b22-7604-4756-b6de-3a42a09b414e.lsx:13
 msgctxt "h2a45c31cgb4c8g4a07g96f3g4ed0f3c20e88"
 msgid "Brewer"
-msgstr ""
+msgstr "양조자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/123fdf80-baf8-4d9c-8e23-16746fc81702.lsx
 #. NodeID = GameObjects
@@ -2555,7 +2549,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/123fdf80-baf8-4d9c-8e23-16746fc81702.lsx:15
 msgctxt "h2529888egf634g447fg9e9ag18c2f44defda"
 msgid "Brewer_A"
-msgstr ""
+msgstr "양조자_A"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/7e21aca5-5937-44e8-b0ef-26b39cd846f3.lsx
 #. NodeID = GameObjects
@@ -2570,7 +2564,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/7e21aca5-5937-44e8-b0ef-26b39cd846f3.lsx:15
 msgctxt "h326b362cg51d3g49c9ga5e2g2dcfc2c43125"
 msgid "Brewer"
-msgstr ""
+msgstr "양조자"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/0ea356fc-7a6f-4c60-8017-86349e2777ab.lsx
 #. NodeID = GameObjects
@@ -2597,7 +2591,7 @@ msgstr "불레이"
 #: Shared/Public/Shared/RootTemplates/fadaf082-bac3-49f4-90a4-27c8af02d81d.lsx:16
 msgctxt "hd4f234c1gc072g4aa8ga55fgaddfb7aa7052"
 msgid "Chicken"
-msgstr ""
+msgstr "닭"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/09c718c6-7f54-4777-81bb-e946fbbb99b9.lsx
 #. NodeID = GameObjects
@@ -2635,7 +2629,7 @@ msgstr "%%% No destub - TEST Human Male Base"
 #: Shared/Public/SharedDev/RootTemplates/372fa6e6-35ee-43dc-ae2f-54c84e4728be.lsx:13
 msgctxt "h5b80e6d1gb5b8g4217gb69dg4489e94e07ce"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/712a09e9-47f1-43d2-863a-4fc6e5cbf0b2.lsx
 #. NodeID = GameObjects
@@ -2647,7 +2641,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/712a09e9-47f1-43d2-863a-4fc6e5cbf0b2.lsx:13
 msgctxt "hc2d73415g1790g4d75g8b05g62f6f389b751"
 msgid "Civilian"
-msgstr ""
+msgstr "시민"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/fe959c45-c3fb-40b4-b73d-9fc0fcbfd4a9.lsx
 #. NodeID = GameObjects
@@ -2659,7 +2653,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/fe959c45-c3fb-40b4-b73d-9fc0fcbfd4a9.lsx:13
 msgctxt "h3ac3b0ebg2803g4a84gae20gec9344063cdb"
 msgid "Civilian"
-msgstr ""
+msgstr "시민"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/b97d6438-5e53-4966-a137-b63a32e2fe5e.lsx
 #. NodeID = GameObjects
@@ -2671,7 +2665,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/b97d6438-5e53-4966-a137-b63a32e2fe5e.lsx:13
 msgctxt "haeb6ce06g9cbcg4be8gb78cg28c734e04ac6"
 msgid "Civilian"
-msgstr ""
+msgstr "시민"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/c6595cca-8f09-4e45-92b8-10e0f79af304.lsx
 #. NodeID = GameObjects
@@ -2683,7 +2677,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/c6595cca-8f09-4e45-92b8-10e0f79af304.lsx:13
 msgctxt "hcd956fffgabf6g45dfg9a92gaa6abad65242"
 msgid "Civilian"
-msgstr ""
+msgstr "시민"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/d1e09b1b-fcc3-4f5d-b6dd-3678e862346b.lsx
 #. NodeID = GameObjects
@@ -2695,7 +2689,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/d1e09b1b-fcc3-4f5d-b6dd-3678e862346b.lsx:13
 msgctxt "h6f9acf68g780eg4155g9001gafb9e0c7a1bf"
 msgid "Civilian"
-msgstr ""
+msgstr "시민"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/f79cbcbc-38d9-42a4-8161-ff012948e736.lsx
 #. NodeID = GameObjects
@@ -2706,7 +2700,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/f79cbcbc-38d9-42a4-8161-ff012948e736.lsx:13
 msgctxt "ha090fb13gae45g4c98ga7cfg098c1142de03"
 msgid "Civilian"
-msgstr ""
+msgstr "시민"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/e8d29eff-5c93-4f53-b996-0a769cb4aefd.lsx
 #. NodeID = GameObjects
@@ -2718,7 +2712,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/e8d29eff-5c93-4f53-b996-0a769cb4aefd.lsx:33
 msgctxt "hdc96a942g3c7ag434agb49fg03aaf478bfbb"
 msgid "Sword of the Moonmaiden"
-msgstr ""
+msgstr "달처녀의 검"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/e8d29eff-5c93-4f53-b996-0a769cb4aefd.lsx
 #. NodeID = GameObjects
@@ -2730,7 +2724,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/e8d29eff-5c93-4f53-b996-0a769cb4aefd.lsx:13
 msgctxt "h1c0afa19g1a50g47f8gb5f1g070d6e4f9822"
 msgid "Dame Aylin"
-msgstr ""
+msgstr "여기사 아일린"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/97dbc968-38bc-4dd4-912a-5585b626e620.lsx
 #. NodeID = GameObjects
@@ -2738,11 +2732,9 @@ msgstr ""
 #. Name = CINE_Hyena_A_Wounded
 #. Type = character
 #: Shared/Public/Shared/RootTemplates/97dbc968-38bc-4dd4-912a-5585b626e620.lsx:13
-#, fuzzy
-#| msgid "Cinematic_Hyena"
 msgctxt "h423d7124gb822g4ec2gb51dg3d71af3017f8"
 msgid "Hyena"
-msgstr "Cinematic_Hyena"
+msgstr "하이에나"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/d3f6b34e-a655-46db-a8e8-f64c009e4fa2.lsx
 #. NodeID = GameObjects
@@ -2754,7 +2746,7 @@ msgstr "Cinematic_Hyena"
 #: Shared/Public/Shared/RootTemplates/d3f6b34e-a655-46db-a8e8-f64c009e4fa2.lsx:13
 msgctxt "h95a5ced9g1874g44f7gb00agb251f6f42e14"
 msgid "Civilian"
-msgstr ""
+msgstr "시민"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/c7dadad9-d229-4273-bdb0-38c63afd36b0.lsx
 #. NodeID = GameObjects
@@ -2768,7 +2760,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/c7dadad9-d229-4273-bdb0-38c63afd36b0.lsx:14
 msgctxt "h6bab8cd4g5a38g4513g99d4g8f01c4ff53b5"
 msgid "Mage Hand"
-msgstr ""
+msgstr "마법의 손"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/edd7fd89-cf8f-45e9-8b12-713374525547.lsx
 #. NodeID = GameObjects
@@ -2786,7 +2778,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/edd7fd89-cf8f-45e9-8b12-713374525547.lsx:21
 msgctxt "h53128b5dg8e2ag48d0gaa11g6ab3d48c33e5"
 msgid "Mind Flayer"
-msgstr ""
+msgstr "마인드 플레이어"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/4823f70d-38a3-4bf4-97aa-f379d850be3a.lsx
 #. NodeID = GameObjects
@@ -2803,7 +2795,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/4823f70d-38a3-4bf4-97aa-f379d850be3a.lsx:21
 msgctxt "h623dfc7fg5381g450fg88e5gebffdf7a098f"
 msgid "Mind Flayer"
-msgstr ""
+msgstr "마인드 플레이어"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/a8240a68-1d48-4391-a878-765bcb1390e0.lsx
 #. NodeID = GameObjects
@@ -2814,7 +2806,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/a8240a68-1d48-4391-a878-765bcb1390e0.lsx:13
 msgctxt "h7ddf684fg9178g49a2g9052g8d2923d255fb"
 msgid "Mystra"
-msgstr ""
+msgstr "미스트라"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/b26d7a6d-1c26-4410-af2e-3f935eb82963.lsx
 #. NodeID = GameObjects
@@ -2840,7 +2832,7 @@ msgstr "윌"
 #: Shared/Public/Shared/RootTemplates/e76c1f56-8e21-4c17-818a-4cb8553c6dee.lsx:13
 msgctxt "h7266c36dgc6a8g4983g9d2ege36beb3aba5e"
 msgid "Drow"
-msgstr ""
+msgstr "드로우"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/e83c7f66-5aed-4fcd-b052-2e8b6974755a.lsx
 #. NodeID = GameObjects
@@ -2851,7 +2843,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/e83c7f66-5aed-4fcd-b052-2e8b6974755a.lsx:13
 msgctxt "h3b1060b8g5f05g4800g81f3g302563727ccd"
 msgid "Drow"
-msgstr ""
+msgstr "드로우"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/5dd629b4-e2f9-44e8-82b8-9120d13223e9.lsx
 #. NodeID = GameObjects
@@ -2862,7 +2854,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/5dd629b4-e2f9-44e8-82b8-9120d13223e9.lsx:13
 msgctxt "hda99b3c0gb716g4576g982ag6feb113f63c5"
 msgid "Drow"
-msgstr ""
+msgstr "드로우"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/aa05e498-85d9-4bfa-8945-306b739c3825.lsx
 #. NodeID = GameObjects
@@ -2873,7 +2865,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/aa05e498-85d9-4bfa-8945-306b739c3825.lsx:13
 msgctxt "h5a00d717ge3d8g4d9dga439g3e07527aad1a"
 msgid "Drow"
-msgstr ""
+msgstr "드로우"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/766339e3-5b6c-459a-b33b-c0cce8e62d00.lsx
 #. NodeID = GameObjects
@@ -2884,7 +2876,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/766339e3-5b6c-459a-b33b-c0cce8e62d00.lsx:13
 msgctxt "hea6a7afag9943g4e28ga2c9g391709fd1755"
 msgid "Drow"
-msgstr ""
+msgstr "드로우"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/96d4c80a-cb16-47ec-85d8-34ec50976e5f.lsx
 #. NodeID = GameObjects
@@ -2895,7 +2887,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/96d4c80a-cb16-47ec-85d8-34ec50976e5f.lsx:13
 msgctxt "h0abda9e1g3ee9g4955gafaeg7fa0fd84f988"
 msgid "Mangled Corpse Bedding"
-msgstr ""
+msgstr "시체로 엮은 침대"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/a6c79f47-7157-408c-8370-8a4a9d8ea603.lsx
 #. NodeID = GameObjects
@@ -2984,7 +2976,7 @@ msgstr "캠비온"
 #: Shared/Public/SharedDev/RootTemplates/6708ae4b-8dcf-4812-bdba-fd5fe1c343f6.lsx:13
 msgctxt "hedb4ec86g3de9g4da3g8eaeg1aca7418c2e2"
 msgid "Cambion"
-msgstr ""
+msgstr "캠비온"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/3868e8dd-d271-43fa-a2fc-198f2938b7ba.lsx
 #. NodeID = GameObjects
@@ -3024,7 +3016,7 @@ msgstr "창조된 고양이"
 #: Shared/Public/SharedDev/RootTemplates/0a1875c9-fb09-45e0-9b52-484014eb0329.lsx:13
 msgctxt "h415d46c1ge087g4d5dg968bg503169adb7af"
 msgid "Gremishka"
-msgstr ""
+msgstr "그레미쉬카"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/a4d03902-0382-4f88-866d-3bb2225a69a3.lsx
 #. NodeID = GameObjects
@@ -3038,7 +3030,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/a4d03902-0382-4f88-866d-3bb2225a69a3.lsx:15
 msgctxt "hffa7248dg482dg4ba1g82b0g1ff75c5d3e75"
 msgid "Cat"
-msgstr ""
+msgstr "고양이"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/04975002-a4ac-4eac-beae-7b44c939c354.lsx
 #. NodeID = GameObjects
@@ -3061,7 +3053,7 @@ msgstr "고양이"
 #: Shared/Public/SharedDev/RootTemplates/6aa3f505-4827-423c-ba5e-68fbaee2da15.lsx:13
 msgctxt "h3dd4102eg96bbg4943g9f3fg35091c746360"
 msgid "Githyanki girl"
-msgstr ""
+msgstr "기스양키 여자아이"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/7e69f39f-c34f-4f7b-bfac-29678f77ce10.lsx
 #. NodeID = GameObjects
@@ -3071,7 +3063,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/7e69f39f-c34f-4f7b-bfac-29678f77ce10.lsx:13
 msgctxt "h449735bdg29a2g4a4egb021gb0ae8ca51ebe"
 msgid "Githyanki Child"
-msgstr ""
+msgstr "기스양키 아이"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/04e5ff98-d32b-45ce-bfe7-be7f59cbcbd8.lsx
 #. NodeID = GameObjects
@@ -3104,7 +3096,7 @@ msgstr "고블린 남자아이"
 #: Shared/Public/Shared/RootTemplates/103a2972-63d5-4046-a263-d805a8d672e4.lsx:13
 msgctxt "hbb3711b9gf27fg4f20g88f3g2db7dbcea00b"
 msgid "Human Girl"
-msgstr ""
+msgstr "인간 여자아이"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/ae0e2da5-1846-4250-af42-aef9f188a09a.lsx
 #. NodeID = GameObjects
@@ -3123,11 +3115,9 @@ msgstr "인간 남자아이"
 #. Name = Child_Tieflings_Female
 #. Type = character
 #: Shared/Public/Shared/RootTemplates/a5766603-e5dc-49a2-9856-75383e2279b5.lsx:14
-#, fuzzy
-#| msgid "Tiefling Girl"
 msgctxt "h2260ae66g82dbg4be7g8559g9f2ba7eb0e4a"
 msgid "Mol"
-msgstr "티플링 여자아이"
+msgstr "몰"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/80ca9a84-00c2-45c6-892e-bf6f07a5af3e.lsx
 #. NodeID = GameObjects
@@ -3152,7 +3142,7 @@ msgstr "티플링 남자아이"
 #: Shared/Public/SharedDev/RootTemplates/05157722-2144-4712-922b-20ae9ff5f88f.lsx:13
 msgctxt "h23a8d794g1786g4040ga5ffg077997f9fce0"
 msgid "Phantasm"
-msgstr ""
+msgstr "환영"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/1a3d9848-f86e-4f4c-bba5-125ab605c69e.lsx
 #. NodeID = GameObjects
@@ -3192,7 +3182,7 @@ msgstr "할신"
 #: Gustav/Public/GustavDev/RootTemplates/104a4a59-a923-4673-957a-4b48691f6bb8.lsx:14
 msgctxt "h268422e6g171dg4146g9191g01c0766db90e"
 msgid "Halsin"
-msgstr ""
+msgstr "할신"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/50daafea-3ce4-4cc6-ae4e-56966a0f4e12.lsx
 #. NodeID = GameObjects
@@ -3233,7 +3223,7 @@ msgstr "창조된 게"
 #: Shared/Public/SharedDev/RootTemplates/21ac7288-39b8-478f-a827-cf8eb4b824e6.lsx:16
 msgctxt "h7202295eg2619g457dg93dbg042a0cdd740b"
 msgid "Crawling Claw"
-msgstr ""
+msgstr "기어 다니는 손"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/9144def4-42a7-4094-8512-6cad134d1514.lsx
 #. NodeID = GameObjects
@@ -3339,9 +3329,10 @@ msgstr "휘감는 덩굴"
 #. Equipment = EQP_DeathKnight
 #. Archetype = deathKnight
 #: Shared/Public/SharedDev/RootTemplates/6af43896-e495-460c-ba68-98f7f0826644.lsx:14
+#, fuzzy
 msgctxt "h68930754g3a35g4f65g9f61g3bebb1f5ab87"
 msgid "Death Knight"
-msgstr ""
+msgstr "데스 나이트"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/2337e270-3c93-4088-8439-7c7450b99179.lsx
 #. NodeID = GameObjects
@@ -3355,7 +3346,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/2337e270-3c93-4088-8439-7c7450b99179.lsx:13
 msgctxt "haade74bdga00eg4c24g8bc3g1e70cadcabcd"
 msgid "Deva"
-msgstr ""
+msgstr "데바"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/27970026-0038-48e1-a1ef-5d7230aab00d.lsx
 #. NodeID = GameObjects
@@ -3368,7 +3359,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/27970026-0038-48e1-a1ef-5d7230aab00d.lsx:13
 msgctxt "h7aa5c7d3gd404g4c67gb3afg82076b15dc64"
 msgid "Dilophosaurus"
-msgstr ""
+msgstr "딜로포사우루스"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/fca74933-fb42-45c0-af31-c9f806368453.lsx
 #. NodeID = GameObjects
@@ -3381,7 +3372,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/fca74933-fb42-45c0-af31-c9f806368453.lsx:13
 msgctxt "h98901340g0dc5g47cfga1e3ga6229c7dcff7"
 msgid "Dilophosaurus"
-msgstr ""
+msgstr "딜로포사우루스"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/c6ad9c71-43a9-410b-8e3e-219a0a7fddc8.lsx
 #. NodeID = GameObjects
@@ -3395,7 +3386,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/c6ad9c71-43a9-410b-8e3e-219a0a7fddc8.lsx:13
 msgctxt "hb5a8f290g1a38g40ddgada4g172ab2f9d1d6"
 msgid "Djinni"
-msgstr ""
+msgstr "지니"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/e24a3159-32cf-42af-972d-96069116fe8d.lsx
 #. NodeID = GameObjects
@@ -3406,7 +3397,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/e24a3159-32cf-42af-972d-96069116fe8d.lsx:13
 msgctxt "hb1b8f172gcd60g4b8eg81dcg4898ddb1b90c"
 msgid "Djinni"
-msgstr ""
+msgstr "지니"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/343975da-acc9-4803-8caf-2aed017e3ca8.lsx
 #. NodeID = GameObjects
@@ -3435,7 +3426,7 @@ msgstr "개"
 #: Shared/Public/SharedDev/RootTemplates/b5deaa14-03b5-41c6-8372-7a9d758b4dfb.lsx:13
 msgctxt "h49577017gbdd0g4a69gb6f3gbfe24bee3d02"
 msgid "Scratch"
-msgstr ""
+msgstr "스크래치"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/9c2e4682-89ca-4648-9325-41723bc7ac52.lsx
 #. NodeID = GameObjects
@@ -3449,7 +3440,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/9c2e4682-89ca-4648-9325-41723bc7ac52.lsx:15
 msgctxt "hed4e2ac0g6d8dg4c9fgb41fg421d9fb5a0b1"
 msgid "Dog"
-msgstr ""
+msgstr "개"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/ee047ba2-e209-40b6-8783-2bb30fc961c1.lsx
 #. NodeID = GameObjects
@@ -3463,7 +3454,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/ee047ba2-e209-40b6-8783-2bb30fc961c1.lsx:15
 msgctxt "h2780a6fbgfff0g4cebg9515gb951d3483004"
 msgid "Dog"
-msgstr ""
+msgstr "개"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/2b71e708-e21f-4842-b836-1178216632c6.lsx
 #. NodeID = GameObjects
@@ -3477,7 +3468,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/2b71e708-e21f-4842-b836-1178216632c6.lsx:15
 msgctxt "hef99171ag0ce1g4d20g9900ga6b2d8369ba3"
 msgid "Dog"
-msgstr ""
+msgstr "개"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/834f22b8-e28d-44b6-b6f2-1f7f7cf5149b.lsx
 #. NodeID = GameObjects
@@ -3490,7 +3481,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/834f22b8-e28d-44b6-b6f2-1f7f7cf5149b.lsx:13
 msgctxt "h18535b94g3301g4729gb647gd0007eea58a0"
 msgid "Ghost Dog"
-msgstr ""
+msgstr "유령 개"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/5d9bb3fb-0202-4a1a-9611-ff063fc15850.lsx
 #. NodeID = GameObjects
@@ -3540,7 +3531,7 @@ msgstr "레드 드래곤"
 #: Shared/Public/SharedDev/RootTemplates/3fda261c-d560-4052-92d2-ba20beef7de0.lsx:13
 msgctxt "h81576086gb8e6g46a1gab18g44f91597c329"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/ae28c845-86ad-47b3-8d1b-d430cf3d5c51.lsx
 #. NodeID = GameObjects
@@ -3552,7 +3543,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/ae28c845-86ad-47b3-8d1b-d430cf3d5c51.lsx:13
 msgctxt "h616a5731g5436g4d06gb0a1g9c05c9d28386"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/61298d46-dd9e-48c4-8ebd-92f215db7cc7.lsx
 #. NodeID = GameObjects
@@ -3564,7 +3555,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/61298d46-dd9e-48c4-8ebd-92f215db7cc7.lsx:13
 msgctxt "h1fc1ff95gaf0ag4f95gb9b5g86d5801ddf5d"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/cc908c12-5f3f-42ae-b28c-c215c396b4bf.lsx
 #. NodeID = GameObjects
@@ -3578,7 +3569,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/cc908c12-5f3f-42ae-b28c-c215c396b4bf.lsx:13
 msgctxt "h91694715g52fcg44c9g817fgf34474a39792"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/f7178ad6-7e4c-4592-980a-641d501444c9.lsx
 #. NodeID = GameObjects
@@ -3590,7 +3581,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/f7178ad6-7e4c-4592-980a-641d501444c9.lsx:13
 msgctxt "h789a1b34g8042g4140g9480g4f317e064d76"
 msgid "Blue Dragonborn"
-msgstr ""
+msgstr "블루 드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/87849c24-ba52-45bc-bb1a-fc54955fceb3.lsx
 #. NodeID = GameObjects
@@ -3602,7 +3593,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/87849c24-ba52-45bc-bb1a-fc54955fceb3.lsx:13
 msgctxt "ha441ac55g903cg4073gb273gaac64dbf6954"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/5c5fd1d8-f767-4376-b178-e6b7f681eb8b.lsx
 #. NodeID = GameObjects
@@ -3614,7 +3605,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/5c5fd1d8-f767-4376-b178-e6b7f681eb8b.lsx:13
 msgctxt "h5b111b74g8bb4g4d2egb605g8f846ff925bc"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/95cbe3fa-28c8-4ba7-8918-4235e7ae8a35.lsx
 #. NodeID = GameObjects
@@ -3626,7 +3617,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/95cbe3fa-28c8-4ba7-8918-4235e7ae8a35.lsx:13
 msgctxt "h52eef4b6gb388g41eag8348g5dd586c9b1a5"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/d6e0e773-100a-40b4-a2f9-bdffa34d7021.lsx
 #. NodeID = GameObjects
@@ -3638,7 +3629,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/d6e0e773-100a-40b4-a2f9-bdffa34d7021.lsx:13
 msgctxt "hbe7cf4cbgb0d7g4bfcg9445ge4a259875bfd"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/37919d74-95a0-414f-8010-0409277b3c86.lsx
 #. NodeID = GameObjects
@@ -3650,7 +3641,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/37919d74-95a0-414f-8010-0409277b3c86.lsx:13
 msgctxt "hd3130fedga9b3g4fc8g9eb2gec66e0dfa737"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/9d247072-9c2b-49f4-83a3-4654a13cbbd9.lsx
 #. NodeID = GameObjects
@@ -3662,7 +3653,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/9d247072-9c2b-49f4-83a3-4654a13cbbd9.lsx:13
 msgctxt "hbac13b61g66d1g4702g8853gb8b2ae8d4344"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/8a2a4574-6822-4080-b925-096c5ac477a8.lsx
 #. NodeID = GameObjects
@@ -3675,7 +3666,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/8a2a4574-6822-4080-b925-096c5ac477a8.lsx:13
 msgctxt "hc026e26dg8e88g4310g90b7g7152cfd0801a"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/ae7bfa09-87f7-4c34-ad55-513153eeddc4.lsx
 #. NodeID = GameObjects
@@ -3698,7 +3689,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/SharedDev/RootTemplates/28935863-ea65-48ad-9dae-82f3d1268bf7.lsx:13
 msgctxt "h6a4fe9e7gd2b3g4573gb75bg8038e3935e6d"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/75f86685-a8f6-43dd-993f-399eb3488ff9.lsx
 #. NodeID = GameObjects
@@ -3710,7 +3701,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/75f86685-a8f6-43dd-993f-399eb3488ff9.lsx:13
 msgctxt "had681bf4g5693g4b6ag8fd6gf96ff91e6264"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/1b25c1f9-8dc3-44aa-a4fe-c9dc602e14a6.lsx
 #. NodeID = GameObjects
@@ -3724,7 +3715,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/1b25c1f9-8dc3-44aa-a4fe-c9dc602e14a6.lsx:13
 msgctxt "h0814e9a2g0f7bg44eag8126g249f4834df25"
 msgid "Gold Dragonborn Fighter"
-msgstr ""
+msgstr "골드 드래곤본 파이터"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/0cbee16f-54aa-4cbf-b75f-a7c34966b2b6.lsx
 #. NodeID = GameObjects
@@ -3735,7 +3726,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/0cbee16f-54aa-4cbf-b75f-a7c34966b2b6.lsx:13
 msgctxt "hbc1b2637gad02g441cg9a7ag261e28346650"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/c53142e2-6cb4-4cce-a778-eb39a608a86e.lsx
 #. NodeID = GameObjects
@@ -3747,7 +3738,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/c53142e2-6cb4-4cce-a778-eb39a608a86e.lsx:13
 msgctxt "hffec3059g28a8g45adg8192g79e9ec6b1f14"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/6c737cbd-3a0a-4ac9-a1d2-7794291e9951.lsx
 #. NodeID = GameObjects
@@ -3761,7 +3752,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/6c737cbd-3a0a-4ac9-a1d2-7794291e9951.lsx:13
 msgctxt "hb51487e0g4401g435eg9426gace54083a12c"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/b2efbaf9-a4aa-48d9-9660-a025235e9db3.lsx
 #. NodeID = GameObjects
@@ -3774,7 +3765,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/b2efbaf9-a4aa-48d9-9660-a025235e9db3.lsx:13
 msgctxt "hd8efdc2fgf326g46d6gb1d9gc46b99b6ce0d"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/f7fc1cc8-5d9e-4ef0-a96f-440e8ce8728e.lsx
 #. NodeID = GameObjects
@@ -3797,7 +3788,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/SharedDev/RootTemplates/ff8e0e5c-fd02-4bef-bfa2-02ff41b52d15.lsx:13
 msgctxt "he4812730g6cd3g48c1gac3ag9b733d12469d"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/c9d72c15-e76f-46cb-ad3f-ea04f2d97a3a.lsx
 #. NodeID = GameObjects
@@ -3808,7 +3799,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/c9d72c15-e76f-46cb-ad3f-ea04f2d97a3a.lsx:13
 msgctxt "h231dc30cg5e55g44eeg97a8g06f3bcfcc598"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/14b67648-261d-475b-b57c-9d5fa936c43a.lsx
 #. NodeID = GameObjects
@@ -3819,7 +3810,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/14b67648-261d-475b-b57c-9d5fa936c43a.lsx:13
 msgctxt "hf125a953gf8e5g4ca2gbe24gef2764811226"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/e42265c2-0a4c-4789-90ec-27665d7f35d6.lsx
 #. NodeID = GameObjects
@@ -3830,7 +3821,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/e42265c2-0a4c-4789-90ec-27665d7f35d6.lsx:13
 msgctxt "hcc01b3b9g0cf2g48b7g82a9g219a18a0728f"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/6c8fbd8b-2b8e-4fbd-9144-69506a98b9a9.lsx
 #. NodeID = GameObjects
@@ -3841,7 +3832,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/6c8fbd8b-2b8e-4fbd-9144-69506a98b9a9.lsx:13
 msgctxt "ha1f6dee2g5e17g450agaff8g1855c1dc2bcf"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/d314aee7-f711-4e6f-8a93-bbe9292e7758.lsx
 #. NodeID = GameObjects
@@ -3852,7 +3843,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/d314aee7-f711-4e6f-8a93-bbe9292e7758.lsx:13
 msgctxt "h178823dcgeb2dg4044g93b5g1f4f248eda8c"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/92f0ebda-0023-4a7c-b0ac-64392c382db5.lsx
 #. NodeID = GameObjects
@@ -3900,7 +3891,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/SharedDev/RootTemplates/476b4547-b945-4c7b-83f6-91890f531d01.lsx:13
 msgctxt "hc62e7a40g2109g44a0g8d29g22acf3b074f3"
 msgid "Fist of Bane"
-msgstr ""
+msgstr "베인의 주먹"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/END_Main/Characters/_merged.lsx
 #. NodeID = GameObjects
@@ -3912,7 +3903,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/END_Main/Characters/_merged.lsx:18067
 msgctxt "ha7cb9fe6g9400g4847g965egc5ddfa597357"
 msgid "Dead Civilian"
-msgstr ""
+msgstr "죽은 민간인"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/57da6308-c779-4ec0-9102-8773aee3f073.lsx
 #. NodeID = GameObjects
@@ -3995,11 +3986,9 @@ msgstr "하사관 쓰린"
 #. GeneratePortrait = Icon_Dwarf_Male
 #. Archetype = melee
 #: Shared/Public/Shared/RootTemplates/55afea2c-0b8f-4960-9228-de4dd1e27beb.lsx:14
-#, fuzzy
-#| msgid "Ranged Stone Guard"
 msgctxt "hbfc372dcg7835g40e9g827bg7cf78dbab31b"
 msgid "Melee Stone Guard"
-msgstr "원거리 돌 수호병"
+msgstr "근접 돌 수호병"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/9fdc6378-be22-4063-bfb8-e0492323205f.lsx
 #. NodeID = GameObjects
@@ -4157,7 +4146,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/011a64ae-8e3c-40b8-890d-67ae115af451.lsx:13
 msgctxt "h4e573a98g7b36g4861gbff3gc5bdc8d9e369"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/14ca31e4-2254-48bd-8e39-72c25658a8d7.lsx
 #. NodeID = GameObjects
@@ -4447,7 +4436,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/f33a4f90-f94e-4ed9-a6b1-0912e6b36c59.lsx:13
 msgctxt "h1a13846cgfebag423fgb843g207ea46f78aa"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/390fa204-255c-4f60-a4f4-60d341a65dec.lsx
 #. NodeID = GameObjects
@@ -4623,7 +4612,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/Shared/RootTemplates/73874d46-00e5-4bd1-91cc-49baf95a8226.lsx:13
 msgctxt "h4810f776g1676g4804g9c56g478ab72532d6"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/04cfb697-0c5e-4f41-9a7a-1d024e507d7e.lsx
 #. NodeID = GameObjects
@@ -4650,7 +4639,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/Shared/RootTemplates/d58976d5-ab26-41e5-a87a-26b3e27278ba.lsx:13
 msgctxt "hc338eb32g6155g43c9g90fcg596061ae42c9"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/2b1e28f5-cd0b-4b45-a8e9-2c528b770146.lsx
 #. NodeID = GameObjects
@@ -4758,7 +4747,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/Shared/RootTemplates/d726d0f6-370c-4642-908d-f76e6619998e.lsx:13
 msgctxt "h3261d28bga702g4b30g9e5egb77519a6e551"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/f6b61604-330a-42cf-a2e6-3b5074fd624e.lsx
 #. NodeID = GameObjects
@@ -4785,7 +4774,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/Shared/RootTemplates/e8169a2a-e140-407b-aa4f-1fc0e5d57a5d.lsx:13
 msgctxt "hb78d8231g0f4dg478egb0beg1b223727b63f"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/c65620d4-8652-48c3-bb5c-0d9a00713ad6.lsx
 #. NodeID = GameObjects
@@ -5170,7 +5159,7 @@ msgstr "기스양키"
 #: Shared/Public/Shared/RootTemplates/bdefb0d5-4cec-4878-9230-7d7dba7b62cf.lsx:13
 msgctxt "h6ec73614gb9a8g44b6gadfdg838db4841887"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/74672dc8-497c-4d9c-92b7-7347ab643e43.lsx
 #. NodeID = GameObjects
@@ -5380,7 +5369,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/c7f03941-b89c-4aa3-b74a-ad358b000331.lsx:13
 msgctxt "h96264672g8267g4fd7g8b86g3493b0edf24a"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/be97477c-a045-4d43-b084-b9727d73832b.lsx
 #. NodeID = GameObjects
@@ -5546,7 +5535,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/Shared/RootTemplates/01051ea7-1980-448f-9e24-9951f8b39670.lsx:13
 msgctxt "h476b3cf9g061eg407cgb3bbgd84b0a8cefbc"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/aa7f4765-06bb-4b66-b688-4ec088fb374b.lsx
 #. NodeID = GameObjects
@@ -5637,7 +5626,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/Shared/RootTemplates/37ad50dd-f6fd-4962-a32d-15481bacab6d.lsx:13
 msgctxt "h1f5a9798g3e72g4b72gacdeg5716545581f0"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/c91d15ef-916a-4640-9ca6-32bcc8988641.lsx
 #. NodeID = GameObjects
@@ -6166,7 +6155,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/93bca9b7-7817-4899-9376-3665bd95d822.lsx:13
 msgctxt "he8f67120gdcb6g4091g91ffg94650e05190b"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/7192e06e-e23f-4a24-99be-6618fa3ee2c9.lsx
 #. NodeID = GameObjects
@@ -6231,7 +6220,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/fe8c3f06-cc26-4f72-baa8-5706fb0140bb.lsx:14
 msgctxt "he4b69f44g3cb8g477egab7bg24bcce100ea0"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/b72a646a-55b1-4823-bcbb-12a1ed142312.lsx
 #. NodeID = GameObjects
@@ -6332,7 +6321,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/4a54b4a2-8500-4207-964f-4ecfb9cdb778.lsx:13
 msgctxt "h9acabc81g541cg487dga7e7gcbcef30d667e"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/adaf9e39-82b1-4479-8be5-68ffc561d42d.lsx
 #. NodeID = GameObjects
@@ -6452,7 +6441,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/SharedDev/RootTemplates/f1b30e64-6f44-484f-8f90-f9d0c34a6e8c.lsx:13
 msgctxt "h120a75adg2de7g40begbd2ag93a1b9dbad2e"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/2f661afa-d227-447d-ad97-4f0b064ba2d5.lsx
 #. NodeID = GameObjects
@@ -6506,7 +6495,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/Shared/RootTemplates/9e9fb855-135b-423f-a7ce-0e9c98e6d06f.lsx:13
 msgctxt "h618ae231g65fag466agbcf1g2c1648d0ab9a"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/ad34ac05-41d3-4d49-8c86-3d124b607105.lsx
 #. NodeID = GameObjects
@@ -6573,7 +6562,7 @@ msgstr "꿈의 방문자"
 #: Shared/Public/Shared/RootTemplates/c9d74a0f-4022-4113-ac06-05828dfa85a1.lsx:13
 msgctxt "h32ee883fg97ecg4b07g8fcagbea009c78dc7"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/6ceeb144-f1d5-4265-9df7-60a7a4b35b34.lsx
 #. NodeID = GameObjects
@@ -7281,7 +7270,7 @@ msgstr "에텔 이모"
 #: Shared/Public/Shared/RootTemplates/39240785-d534-47fd-85c4-f4a80c00c98b.lsx:13
 msgctxt "hd5c82adag80b3g47b4g9813g3aee961d84b3"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/df4aee69-40ea-480d-aa96-1abe82c28b66.lsx
 #. NodeID = GameObjects
@@ -7865,7 +7854,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/99812de4-8dfc-4a78-80af-9c342c023ade.lsx:13
 msgctxt "h287d705fgddf7g4ba4gb3a5g304d154dfe7a"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/a65d2095-5756-429b-ba10-23f6e451e379.lsx
 #. NodeID = GameObjects
@@ -9128,7 +9117,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/cc1b177d-5053-4472-b1e2-8c3e42fc17da.lsx:13
 msgctxt "h041ae185gdd00g4174gb2d2g9a6a19b482a5"
 msgid "Meenlock"
-msgstr ""
+msgstr "민록"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/53af9627-5afb-4985-a584-3fa532b3078e.lsx
 #. NodeID = GameObjects
@@ -10894,7 +10883,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/001b64f6-4918-4045-8197-878cf263e893.lsx:15
 msgctxt "h41b6e723ge4e3g468bgb022g62ad8d10ac8a"
 msgid "Master of the House"
-msgstr ""
+msgstr "집의 주인"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/1f9da419-8224-42e8-894a-8907cb978360.lsx
 #. NodeID = GameObjects
@@ -10908,7 +10897,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/1f9da419-8224-42e8-894a-8907cb978360.lsx:25
 msgctxt "hfae47b78g5af3g4db5gafa8ge8b849f07ed4"
 msgid "Master of the House"
-msgstr ""
+msgstr "집의 주인"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/1f9da419-8224-42e8-894a-8907cb978360.lsx
 #. NodeID = GameObjects
@@ -23298,7 +23287,7 @@ msgstr "피스트 제라"
 #: Gustav/Mods/GustavDev/Levels/SCL_Main_A/Characters/_merged.lsx:3151
 msgctxt "h6eccbe7dg2a45g4b80gbe47gdd181b2277a3"
 msgid "Fist Gretta"
-msgstr ""
+msgstr "피스트 그레타"
 
 #. FilePath = Gustav/Mods/GustavDev/Globals/SCL_Main_A/Characters/_merged.lsx
 #. NodeID = GameObjects
@@ -54063,7 +54052,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/e72703ea-c0dc-44a1-aab8-d7b7269f7458.lsx:14
 msgctxt "h9fcaad02g0f06g45c7gb7feg37f1e053d728"
 msgid "Shadow Mastiff"
-msgstr ""
+msgstr "그림자 마스티프"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/5ab70e1b-1771-450b-8116-d218aa6bc04f.lsx
 #. NodeID = GameObjects
@@ -54085,7 +54074,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/94696b69-bd4b-4ddb-885a-51790025f758.lsx:14
 msgctxt "h573b6c12g6fcfg4070gaaabg3a15c1728b6c"
 msgid "Shadow Mastiff"
-msgstr ""
+msgstr "그림자 마스티프"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/59f23ffe-cfb0-4e2b-a678-f8cdcdf312fd.lsx
 #. NodeID = GameObjects
@@ -54095,7 +54084,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/59f23ffe-cfb0-4e2b-a678-f8cdcdf312fd.lsx:14
 msgctxt "h1525f2adgf069g470fg9f99g032e3e45a3ed"
 msgid "Shadow"
-msgstr ""
+msgstr "그림자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/066133a8-5dce-4636-8ba1-13efb1140c54.lsx
 #. NodeID = GameObjects
@@ -54110,7 +54099,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/066133a8-5dce-4636-8ba1-13efb1140c54.lsx:15
 msgctxt "h8f5184e9g5169g40aega13eg254508b81ed3"
 msgid "Wraith"
-msgstr ""
+msgstr "망령"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/ecfc157f-b689-47ac-8dcb-22fdb6861c01.lsx
 #. NodeID = GameObjects
@@ -54621,7 +54610,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/5f3c0946-affb-4e95-a5b3-fd0a78d2dec8.lsx:13
 msgctxt "h3230c5a2g9972g4afagbe10gce5e8490ef2f"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/30d1ede6-0ec4-4c39-ac2d-cae488da939f.lsx
 #. NodeID = GameObjects
@@ -54742,7 +54731,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/f2c424e6-86e6-44e2-b04e-928482e9a76f.lsx:13
 msgctxt "h6d6dcd74g9fdag4d04g84cag6bc1b1384d80"
 msgid "Illusory Double"
-msgstr ""
+msgstr "환영 복제"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/d826021b-2974-443c-85b1-4aee6e71ba10.lsx
 #. NodeID = GameObjects
@@ -56245,7 +56234,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/d022e2f8-3154-43f9-a08d-698013dbbf12.lsx:13
 msgctxt "hd5692b8egd29dg424fgaffbged64be4a6f59"
 msgid "Fallen Champion"
-msgstr ""
+msgstr "챔피언 시체"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/f8d34abe-68ce-4c45-961e-71a49fd64bcd.lsx
 #. NodeID = GameObjects
@@ -56258,7 +56247,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/f8d34abe-68ce-4c45-961e-71a49fd64bcd.lsx:13
 msgctxt "h3ba8d854g35ccg4ddegbc0cg2795cade02be"
 msgid "Fallen Wizard"
-msgstr ""
+msgstr "위저드 시체"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/64d6ff73-0287-42af-aefd-61d7f26366c0.lsx
 #. NodeID = GameObjects
@@ -56273,7 +56262,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/64d6ff73-0287-42af-aefd-61d7f26366c0.lsx:13
 msgctxt "hc21607e0g0fb9g4dfcg8546g7e3eb901ad47"
 msgid "Fallen Fighter"
-msgstr ""
+msgstr "파이터 시체"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/d58daa19-9c44-4753-9442-1ccffe5efdfe.lsx
 #. NodeID = GameObjects
@@ -56288,7 +56277,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/d58daa19-9c44-4753-9442-1ccffe5efdfe.lsx:13
 msgctxt "h2d816c86ge656g4d72g9571gd7d32021b204"
 msgid "Fallen Ranger"
-msgstr ""
+msgstr "레인저 시체"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/41da0eff-b533-43cc-a014-218f7d23fa11.lsx
 #. NodeID = GameObjects
@@ -56328,7 +56317,7 @@ msgstr "루푸스"
 #: Shared/Public/SharedDev/RootTemplates/557fec99-a8d7-466e-8b33-517082e5d8fb.lsx:13
 msgctxt "hf69b8d7fg15ecg4f4dg9d93gf1e1d626307a"
 msgid "Lupus Major"
-msgstr ""
+msgstr "큰 루푸스"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/b428c4e0-d3ca-449c-a5c5-9e0fb310081a.lsx
 #. NodeID = GameObjects
@@ -56352,7 +56341,7 @@ msgstr "이리자리"
 #: Shared/Public/SharedDev/RootTemplates/74a96845-f868-4843-8941-9dfa27be92ed.lsx:13
 msgctxt "h0851efd0gc66fg480dgadcdgd50da7b4f436"
 msgid "Lupus Major"
-msgstr ""
+msgstr "큰 루푸스"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/62fd6540-17dd-405e-b305-1d88d77e8a08.lsx
 #. NodeID = GameObjects
@@ -56364,7 +56353,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/62fd6540-17dd-405e-b305-1d88d77e8a08.lsx:13
 msgctxt "h1be98449g5622g4511ga994g00d58d5c41fa"
 msgid "Lupus Optumus"
-msgstr ""
+msgstr "거대 루푸스"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/67f39af3-b9ea-4e95-8237-7aa4f6bd7cef.lsx
 #. NodeID = GameObjects

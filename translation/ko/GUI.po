@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-16 08:54+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-08-17 19:54+0000\n"
+"Last-Translator: Hinokey <nateray42@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -462,8 +462,7 @@ msgctxt "hb7bf72ebgcd1ag40fbg9f1eg85d9a5853d4d"
 msgid ""
 "Your Proficiency Bonus is doubled for any ability check that uses either of "
 "your chosen Proficiencies."
-msgstr "당신의 숙련도 보너스는 당신이 선택한 숙련도 중 하나라도 사용하는 능력치 판정 "
-"시에 두 배로 적용됩니다."
+msgstr "선택한 숙련 기술을 사용해 능력치 판정을 할 때 숙련 보너스가 두 배로 적용됩니다."
 
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:3528
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3076
@@ -748,7 +747,7 @@ msgstr "면역"
 #: Game/Public/Game/GUI/Library/PartyInventoryTemplates_c.xaml:283
 msgctxt "h5f15514bgc4fcg4386ga1c3g65fbf8bc2ef5"
 msgid "Carrying Capacity Exceeded"
-msgstr "무게 제한 초과"
+msgstr "무게 한도 초과"
 
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates.xaml:442
 msgctxt "h33818cfagfc3bg4ba8g8d37g45c69b3fb3cf"
@@ -1287,8 +1286,7 @@ msgid ""
 "Your current <LSTag Tooltip=\"CampSupplies\">camp supplies</LSTag>. You need "
 "[1] supplies to fully rest."
 msgstr ""
-"보유중인 <LSTag Tooltip=\"CampSupplies\">야영 물자</LSTag>. 완전히 "
-"휴식하려면 [1] 개가 필요합니다."
+"보유한 <LSTag Tooltip=\"CampSupplies\">야영 물자</LSTag>. 완전히 휴식하려면 [1]만큼 필요합니다."
 
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:3730
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3257
@@ -2015,7 +2013,7 @@ msgstr "전투 참가!"
 #: Game/Public/Game/GUI/Library/NotificationLib.xaml:794
 msgctxt "h51fcadf4g025cg48f0g8078gb56eab76182c"
 msgid "Entering Turn-Based Mode"
-msgstr "턴 기반 모드 진입"
+msgstr "턴제 모드 진입"
 
 #: Game/Public/Game/GUI/Library/NotificationLib.xaml:796
 msgctxt "hefa1c8f2gcf03g4617gb089g26bedf1c1f08"
@@ -2404,15 +2402,15 @@ msgid ""
 "Proficiency with a weapon allows you to add your Proficiency bonus to the "
 "Attack roll for any Attack you make with that weapon. "
 msgstr ""
-"군용 무기를 효과적으로 사용하기 위해 특화 훈련이 필요합니다.\n"
-"무기 숙련도는 공격 시 판정에 숙련도 보너스를 부여합니다. "
+"군용 무기를 효과적으로 사용하려면 특수한 훈련이 필요합니다.\n"
+"숙련된 무기를 사용해 공격하면 명중 굴림에 숙련 보너스가 더해집니다. "
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:1271
 msgctxt "hf7123068g3be1g4e48g966agf6c32e7fbf0a"
 msgid ""
 "This character is not <LSTag Tooltip=\"Proficiency\">Proficient</LSTag> with "
 "any simple weapons."
-msgstr "단순 무기에 대한 <LSTag Tooltip=\"Proficiency\">숙련도</LSTag> 가 없습니다."
+msgstr "단순 무기에 <LSTag Tooltip=\"Proficiency\">숙련</LSTag> 되어 있지 않습니다."
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:1272
 msgctxt "h9d841c8dgffceg4615g911dga68cf21b5cc9"
@@ -2421,8 +2419,8 @@ msgid ""
 "Proficiency with a weapon allows you to add your Proficiency bonus to the "
 "Attack roll for any Attack you make with that weapon. "
 msgstr ""
-"대부분은 단순 무기를 능숙하게 사용할 수 있습니다.\n"
-"특정 무기에 대한 숙련도는 해당 무기를 사용하는 모든 공격에 대한 명중 굴림에 숙련 보너스를 더해줍니다. "
+"대부분의 사람들은 단순 무기를 능숙하게 사용할 수 있습니다. \n"
+"숙련된 무기를 사용해 공격하면 명중 굴림에 숙련 보너스가 더해집니다. "
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:1468
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:1469
@@ -2575,7 +2573,7 @@ msgstr "추가 특성"
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:3200
 msgctxt "h20f2c1b6g2815g402ag8549gd6042c56c6db"
 msgid "Saving Throw Proficiencies"
-msgstr "내성 굴림 숙련도"
+msgstr "내성 굴림 숙련"
 
 #: Game/Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:2129
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:8527
@@ -2993,7 +2991,7 @@ msgstr "원거리 공격"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:1089
 msgctxt "hc36a544fg6ae1g45f0gb74aga36d2961a9b1"
 msgid "Proficiency"
-msgstr "숙련도"
+msgstr "숙련"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:1229
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:1238
@@ -3561,8 +3559,8 @@ msgid ""
 "check's <LSTag Tooltip=\"DifficultyClass\">Difficulty Class</LSTag>."
 msgstr ""
 "행동이 성공적인지 판정합니다. 주사위 굴림, 당신의 <LSTag Tooltip=\"AbilityModifier\">능력 수정치</"
-"LSTag>, 아무 종류의 보너스, 그리고 판정의 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag>에 "
-"따라 성공 여부가 정해집니다."
+"LSTag>,보너스, 그리고 판정의 <LSTag Tooltip=\"DifficultyClass\">난이도</LSTag>에 따라 성공 "
+"여부가 정해집니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3082
 msgctxt "heb5af8afgc5feg469cg8511gb6e0ce14510f"
@@ -4090,10 +4088,10 @@ msgid ""
 msgstr ""
 "맹렬한 훈련은 전쟁의 도구를 사용자의 신체처럼 쓸 수 있게 합니다.\n"
 "\n"
-"무기에 숙련되어있다면 <LSTag Tooltip=\"AttackRoll\">공격 굴림</LSTag>에 <LSTag Tooltip="
-"\"ProficiencyBonus\">숙련도 보너스</LSTag>가 더해지고 특수 무기 공격을 사용할 수 있습니다.\n"
+"무기에 숙련되어있다면, <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>가 더해지고 특수 무기 공격을 사용할 수 있습니다.\n"
 "\n"
-"숙련도는 재주나 클래스를 통해 얻을 수 있습니다. "
+"숙련은 특기나 클래스를 통해 얻을 수 있습니다. "
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3488
 msgctxt "h776f82a2gd944g43cag8cfdg644b87077f31"
@@ -4110,12 +4108,12 @@ msgid ""
 msgstr ""
 "부족한 훈련은 수비의 근간을 흔들리게 합니다.\n"
 "\n"
-"방어구 숙련이 없는 방어구와 방패를 장착하면 주문 시전이 불가해지고, 근력과 민첩 <LSTag Tooltip=\"AbilityCheck\""
-">판정</LSTag>, <LSTag Tooltip=\"AttackRoll\">공격 굴림</LSTag>, <LSTag Tooltip="
+"숙련되지 않은 방어구나 방패를 장착하면 주문을 시전할 수 없게 되고, 근력과 민첩 <LSTag Tooltip=\"AbilityCheck\""
+">판정</LSTag>, <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip="
 "\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 "
-"부여합니다.\n"
+"가지게 됩니다.\n"
 "\n"
-"숙련도는 재주나 클래스를 통해 얻을 수 있습니다. "
+"숙련은 특기나 클래스를 통해 얻을 수 있습니다. "
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:3495
 msgctxt "hfa24f52dg98aag452fga843g24bd1c792907"
@@ -4615,7 +4613,7 @@ msgstr "<LSTag Type=\"Image\" Info=\"Ellipsis\"/>"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6133
 msgctxt "he8ad7cd6g0ffag472ega526g52c8ef0560f1"
 msgid "Toggleable Passive Feature"
-msgstr "켜거나 끌 수 있는 내제 요소"
+msgstr "켜거나 끌 수 있는 패시브 요소"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6162
 msgctxt "h0600e546g6545g4d00g8794g72aad11f278a"
@@ -4703,7 +4701,7 @@ msgstr "보조 무기 전용"
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6800
 msgctxt "h23929a25gb39ag409bga61ag1b0e9d6f5852"
 msgid "Proficiency with this weapon type unlocks:"
-msgstr "무기 유형의 숙련도로 해금:"
+msgstr "이 무기 유형에 대한 숙련으로 해금:"
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6846
 msgctxt "h12ae3447g8e06g4f92gb0e0gcaeb349c6066"
@@ -4742,8 +4740,8 @@ msgstr ""
 "아이템의 무게는 옮기거나, 들어올리거나, 투척 시 <LSTag Tooltip=\"Strength\">근력</LSTag>요구량에 영향을 "
 "끼치며, 아이템 투척 피해에 영향을 줍니다.\n"
 "\n"
-"(장비한 아이템을 제외한) 운반중인 아이템의 무게는 <LSTag Tooltip=\"CarryWeight\">무게 제한</LSTag>에 "
-"포함됩니다."
+"(장비한 아이템을 제외한) 운반중인 아이템의 총 무게는 <LSTag Tooltip=\"CarryWeight\">무게 한도</LSTag>를 "
+"넘을 수 없습니다."
 
 #: Game/Public/Game/GUI/Library/Tooltips.xaml:6955
 msgctxt "hcea50cc0gbeebg4aaeg992bgdb79cbfef7e8"
@@ -6164,7 +6162,7 @@ msgstr "하위종족"
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:362
 msgctxt "h3003476bg9facg4159g87e1gd9f70aee88eb"
 msgid "General"
-msgstr ""
+msgstr "일반"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:375
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:653
@@ -6533,7 +6531,7 @@ msgstr "선택한 클래스에 권장되는 값으로 능력치 점수를 할당
 #: Game/Public/Game/GUI/Widgets/CharacterRespec.xaml:430
 msgctxt "h14f4a0e4gb495g4a75gb318g6d5d322fd738"
 msgid "<LSTag Tooltip=\"Proficiency\">Skill Proficiencies</LSTag>"
-msgstr "<LSTag Tooltip=\"Proficiency\">기술 숙련도</LSTag>"
+msgstr "<LSTag Tooltip=\"Proficiency\">기술 숙련</LSTag>"
 
 #: Game/Public/Game/GUI/Widgets/CharacterCreation.xaml:2228
 #: Game/Public/Game/GUI/Widgets/CharacterCreation_c.xaml:3105
@@ -7170,9 +7168,7 @@ msgid ""
 "You may customise your skill proficiencies in the list below. If you are "
 "Proficient in a Skill, you add a bonus to those skill checks, making you "
 "more likely to succeed."
-msgstr ""
-"아래 목록에서 기술 숙련도를 커스터마이징 할 수 있습니다. 기술 숙련도가 높으면 해당 기술 판정에 보너스가 추가되어 성공 확률이 "
-"높아집니다."
+msgstr "아래 목록에서 기술 숙련을 고를 수 있습니다. 숙련된 기술을 사용한 기술 판정에는 보너스가 더해져 성공 확률이 높아집니다."
 
 #: Game/Public/Game/GUI/Widgets/CharacterRespec_c.xaml:823
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3821
@@ -8223,7 +8219,7 @@ msgstr "당신이 운반할 수 있는 무게"
 #: Game/Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4359
 msgctxt "h3faf5e3cg719dg4b1cgb21egf2afeafb0eea"
 msgid "Carrying Capacity"
-msgstr "무게 제한"
+msgstr "무게 한도"
 
 #: Game/Public/Game/GUI/Widgets/Examine_c.xaml:749
 #: Game/Public/Game/GUI/Widgets/PartyCharacterSheet_c.xaml:131
@@ -10121,7 +10117,7 @@ msgstr "캐릭터 시트"
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:3772
 msgctxt "h406620e5g846cg4c3eg9e50g1fb3041a894c"
 msgid "Gold"
-msgstr "골드"
+msgstr "금화"
 
 #: Game/Public/Game/GUI/Widgets/PartyPanel.xaml:321
 #: Game/Public/Game/GUI/Library/DataTemplates.xaml:3758
