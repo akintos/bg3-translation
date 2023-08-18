@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-17 19:54+0000\n"
-"Last-Translator: cajanbleman <kkomr5918@gmail.com>\n"
+"PO-Revision-Date: 2023-08-18 23:54+0000\n"
+"Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/default/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2416,8 +2416,8 @@ msgid ""
 "an offer of greater power, forcing him into an infernal game he is "
 "struggling to play."
 msgstr ""
-"'변경의 칼날'로 알려진 윌은, 소드 코스트를 어지럽히는 괴물과 데빌들을 쓰러뜨리기 위해 마법을 사용합니다. 가장 절박했던 순간에, 그는 "
-"더 강력한 힘을 위해 거래를 했고, 그는 이제 지옥과도 같은 게임을 시작해야만 합니다."
+"'변경의 칼날'로 알려진 윌은 자신의 마법으로 소드 코스트를 어지럽히는 괴물과 데빌들을 쓰러뜨립니다. 어느 절망스러웠던 순간, 그는 보다 "
+"강력한 존재가 건넨 제안을 받아들였고, 지옥과도 같은 놀음판에서 고군분투를 벌이는 처지가 되고 말았습니다."
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -2444,7 +2444,7 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/>Your appearance and class can be "
 "fully customised."
 msgstr ""
-"당신이 기억하는 건 피로 점철된 길뿐입니다. 상상조차 하기 힘든 잔인함이 당신 내면에서 속삭여대죠. 과연 그 속삼임에서 벗어날 수 "
+"당신이 기억하는 건 피로 점철된 길뿐입니다. 상상조차 하기 힘든 잔인함이 당신 내면에서 속삭여대죠. 과연 그 속삭임에서 벗어날 수 "
 "있을까요? 애초에 그럴 생각이 있긴 한지요?\n"
 "\n"
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/>외형과 직업 모두 커스터마이징 가능합니다."
@@ -18554,12 +18554,10 @@ msgid ""
 "towards achieving the Grand Design - their dream of once more controlling "
 "empires that span the multiverse."
 msgstr ""
-"사이오닉 폭군이자 노예상이며, 차원 사이를 항해하는 자들로, 지성을 지닌 "
-"크리쳐의 뇌를 주식으로 삼습니다.\n"
+"사이오닉 폭군이자 노예상이며, 차원 사이를 항해하는 자들로, 지성을 지닌 크리쳐의 뇌를 주식으로 삼습니다.\n"
 "\n"
-"대부분은 엘더 브레인에게 헌신하는 하이브마인드 식민지에 속해 있으며, 그들 "
-"모두가 다시 한 번 우주를 아우르는 제국을 지배하려는 꿈인 위대한 설계를 "
-"달성하기 위해 노력합니다."
+"대부분은 엘더 브레인에게 헌신하는 하이브마인드 식민지에 속해 있으며, 그들 모두가 다시 한 번 우주를 아우르는 제국을 지배하려는 꿈인 "
+"원대한 설계를 달성하기 위해 노력합니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -19288,7 +19286,7 @@ msgctxt "hd03759f1g0714g42a6g8d5bg7f692830e9da"
 msgid ""
 "Grafted with infernal iron and burning with hellfire, these porcine brutes "
 "are filled with a distinct brand of malice. "
-msgstr "불타는 철 조립되어  지옥불로 타오르는 이 돼지같은 괴물들은 독특한 악의로 가득 차 있습니다. "
+msgstr "지옥의 무쇠가 접합되어 지옥불로 타오르는, 돼지와 같이 생긴 이 괴물들은 뚜렷한 악의로 가득 차 있습니다. "
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -23908,20 +23906,24 @@ msgstr "이미 공연중입니다."
 #. HandlePath = DisplayName
 #. Identifier = CE_Status_FLESH_TO_STONE_1_True
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:224
+#, fuzzy
 msgctxt "hff572a0egbe9fg4b50g8163g6ae9d3f244d5"
 msgid ""
 "Target is already affected by <LSTag Type=\"Spell\" Tooltip="
 "\"Target_FleshToStone\">Flesh to Stone</LSTag>."
 msgstr ""
+"대상은 이미 <LSTag Type=\"Spell\" Tooltip=\"Target_FleshToStone\">육체에서 돌로</"
+"LSTag>에 영향을 받았습니다."
 
 #. FilePath = Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
 #. HandlePath = DisplayName
 #. Identifier = CE_Tag_DIVINE_INTERVENTION_USED_True
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:230
+#, fuzzy
 msgctxt "h98de6689ge667g45fcg84c1g47d67660d4af"
 msgid "Divine Intervention has already been used."
-msgstr ""
+msgstr "신성의 개입이 이미 사용되었습니다."
 
 #. FilePath = Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -23937,9 +23939,10 @@ msgstr "긴 휴식을 취해야 합니다."
 #. HandlePath = DisplayName
 #. Identifier = CE_Status_KI_RESONATION_True
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:242
+#, fuzzy
 msgctxt "h86dfe9fbg22abg4809g9be2g40664952ce8d"
 msgid "Target must not already be resonating."
-msgstr ""
+msgstr "대상은 공명하지 않는 상태여야 합니다."
 
 #. FilePath = Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -24122,9 +24125,10 @@ msgstr "<LSTag Type=\"Status\" Tooltip=\"SLEEP\">수면</LSTag>에 면역"
 #. HandlePath = DisplayName
 #. Identifier = CE_Tag_STEEL_WATCHER_False
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:344
+#, fuzzy
 msgctxt "h54d9cccag5013g47cdg821eg79ae13581088"
 msgid "Can only be used by Steel Watchers."
-msgstr ""
+msgstr "강철 감시단만이 사용할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -24220,9 +24224,10 @@ msgstr "해당 레벨의 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</LSTag>이 �
 #. HandlePath = DisplayName
 #. Identifier = CE_Status_KNOCKED_OUT_False
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:404
+#, fuzzy
 msgctxt "h31bd946fgdf13g440dg929bg850c0742cce8"
 msgid "Target is not Prone, Asleep or Knocked Out."
-msgstr ""
+msgstr "대상은 엎어지거나, 잠에 들거나 나가떨어지지 않았습니다."
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -24293,7 +24298,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Feats/FeatDescriptions.lsx:23
 msgctxt "h4fb6d9dfg2ef0g43e1g8ccag7093111a327d"
 msgid "Charger"
-msgstr "돌격수"
+msgstr "돌격병"
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -24549,6 +24554,11 @@ msgid ""
 "creature with an Opportunity Attack, it can no longer move for the rest of "
 "its turn."
 msgstr ""
+"근접 공격 범위 내의 적이 아군을 공격하면 <LSTag Type=\"ActionResource\" Tooltip="
+"\"ReactionActionPoint\">반응 행동</LSTag>을 통해 해당 적을 무기로 공격할 수 있습니다.\n"
+"\n"
+"<LSTag Tooltip=\"OpportunityAttack\">기회 공격</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 가지며, 크리쳐에게 기회 공격을 명중시키면 대상은 해당 턴에 더 이상 이동할 수 없습니다."
 
 #. FilePath = Shared/Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -24711,12 +24721,14 @@ msgstr "폴암의 달인"
 #. HandlePath = Description
 #. Name = Bahamut
 #: Shared/Public/SharedDev/Gods/Gods.lsx:8
+#, fuzzy
 msgctxt "h852ed21cga23ag44b3gac83g3bff6a430bea"
 msgid ""
 "The Angel of the Seven Heavens is the dragon god of justice. His ideals of "
 "mercy and just authority keep him locked in an inexorable rivalry with his "
 "sister, Tiamat. "
 msgstr ""
+"정의의 용신은 일곱 천상의 천사입니다. 자비와 정의에 대한 용신의 이상은 그를 누이 티아매트와의 끝없는 대립 관계에 가둬 놓았습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Gods/Gods.lsx
 #. NodeID = God
@@ -24755,12 +24767,15 @@ msgstr "그루무쉬"
 #. HandlePath = Description
 #. Name = Tiamat
 #: Shared/Public/SharedDev/Gods/Gods.lsx:36
+#, fuzzy
 msgctxt "h43449cdegb4ceg4d65ga235g45e772b9b555"
 msgid ""
 "Tiamat the Many-Mawed is a roiling mass of avarice and hate currently "
 "trapped within the Nine Hells. The dragon god of greed eternally plots her "
 "escape, as do her many fanatics in world of Toril."
 msgstr ""
+"다섯 아가리 티아매트는 아홉 지옥에 갇혀 있는 탐욕과 증오의 뒤틀린 집합체입니다. 탐욕의 용신은 토릴의 많은 광신자들이 그렇듯 그곳에서 "
+"영원히 그녀의 탈출을 도모하고 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Gods/Gods.lsx
 #. NodeID = God
@@ -24777,12 +24792,13 @@ msgstr "티아매트"
 #. Name = Hireling_Barbarian
 #. Passives = DeathSavingThrows
 #: Shared/Public/SharedDev/Origins/Origins.lsx:14
+#, fuzzy
 msgctxt "he3410664g2b45g458dgb406g1693363b1673"
 msgid ""
 "Eldra Luthrinn, slayer of people, monsters, and cups of sweet pear tea, was "
 "shown a watery grave when hunting Absolutists in the valleys of the "
 "Chionthar."
-msgstr ""
+msgstr "인간과 괴물, 그리고 달콤한 배차 학살자인 엘드라 루트린은 차온타르 계곡에서 절대자들을 사냥할 때 익사한 줄 알려졌다."
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -24792,7 +24808,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Origins/Origins.lsx:15
 msgctxt "h498af8dag4a43g40dfg820bgd866e9109eaf"
 msgid "Eldra Luthrinn"
-msgstr ""
+msgstr "엘드라 루스린"
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -24814,7 +24830,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Origins/Origins.lsx:37
 msgctxt "h19b11762gad8eg4de1g8598gbbf6431d8c1b"
 msgid "Brinna Brightsong"
-msgstr ""
+msgstr "브리나 브라이트송"
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -24835,9 +24851,10 @@ msgstr ""
 #. Name = Hireling_Cleric
 #. Passives = DeathSavingThrows
 #: Shared/Public/SharedDev/Origins/Origins.lsx:59
+#, fuzzy
 msgctxt "ha179a7b0g375cg4cfdgae3dge74d722c0629"
 msgid "Zenith Feur'sel"
-msgstr ""
+msgstr "제니스 푀르셀"
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -24860,7 +24877,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Origins/Origins.lsx:82
 msgctxt "h51b33525g162ag4454gacdagc49ec815bf6a"
 msgid "Danton"
-msgstr ""
+msgstr "단톤"
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -24906,7 +24923,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Origins/Origins.lsx:126
 msgctxt "h9372b7f8g91f3g4f39g884eg0f75dfff07b4"
 msgid "Sina'zith"
-msgstr ""
+msgstr "시나지스"
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -24930,7 +24947,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Origins/Origins.lsx:147
 msgctxt "had7df2feg3eaag43abgacb4gd57517c59bfd"
 msgid "Kerz"
-msgstr ""
+msgstr "케르즈"
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -24951,9 +24968,10 @@ msgstr ""
 #. Name = Hireling_Ranger
 #. Passives = DeathSavingThrows
 #: Shared/Public/SharedDev/Origins/Origins.lsx:169
+#, fuzzy
 msgctxt "he1ea5bcdgd3c2g4c74g86deg93defc0406de"
 msgid "Ver'yll Wenkiir"
-msgstr ""
+msgstr "베리일 웬키르"
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -24976,7 +24994,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Origins/Origins.lsx:190
 msgctxt "h888ea7fage1cfg4431gbbd5g334d4a5f240d"
 msgid "Maddala Deadeye"
-msgstr ""
+msgstr "마달라 데드아이"
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -24999,7 +25017,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Origins/Origins.lsx:211
 msgctxt "ha5ebd440g5997g48a2gbbc5g7685e3084924"
 msgid "Jacelyn"
-msgstr ""
+msgstr "재슬린"
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -25022,7 +25040,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Origins/Origins.lsx:233
 msgctxt "h0810e586g112cg4aa9gb665g3a04a3ef1a2b"
 msgid "Kree Derryck"
-msgstr ""
+msgstr "크리 데릭"
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -25044,9 +25062,10 @@ msgstr ""
 #. Name = Hireling_Wizard
 #. Passives = DeathSavingThrows
 #: Shared/Public/SharedDev/Origins/Origins.lsx:256
+#, fuzzy
 msgctxt "h2b7fe12ege3e4g42f0g8b9bg6ee81c206ea1"
 msgid "Sir Fuzzalump"
-msgstr ""
+msgstr "푸자룸프 경"
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -25376,12 +25395,15 @@ msgstr "신비한 지식"
 #. HandlePath = Description
 #. Type = Duergar
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:111
+#, fuzzy
 msgctxt "h252782f6g1378g4788gb7d8gcdde14bce92d"
 msgid ""
 "Once enslaved by the eldritch mind flayers, duergar adapted to freedom with "
 "harsh practicality. Their cold demeanours and gifts of stealth are well-"
 "known throughout the Underdark."
 msgstr ""
+"마인드 플레이어의 노예였던 듀에르가들은 엄격한 실용주의로 자유에 적응했습니다. 그들의 차가운 행실과 은신 능력은 언더다크 전역에 익히 "
+"알려져 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -25397,12 +25419,15 @@ msgstr "듀에르가"
 #. HandlePath = Description
 #. Type = Dragonborn
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:118
+#, fuzzy
 msgctxt "hd96a4b1dgf5eag4249gaa62ga8203c8a6c59"
 msgid ""
 "Dragonborn hatch with different natural <LSTag Tooltip=\"Resistant\""
 ">Resistances</LSTag> and devastating breath attacks based on their scale "
 "pigment."
 msgstr ""
+"드래곤본은 비늘 색깔에 따라 각기 다른 선천적인 <LSTag Tooltip=\"Resistant\">저항</LSTag>과 숨결 공격을 "
+"가진 채 부화합니다."
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -25829,12 +25854,13 @@ msgstr "하프 오크"
 #. HandlePath = Description
 #. SelectorId = DefensiveTactics
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:281
+#, fuzzy
 msgctxt "hc1e426dbg4679g4b9eg9cf6gab7579076c1c"
 msgid ""
 "Faced with enemies that can instil dread, attack in frenzied bursts, and "
 "swarm in great numbers, rangers inevitably develop cunning methods of "
 "defence."
-msgstr ""
+msgstr "공포를 조장하며 격렬한 공격을 떼지어 퍼붓는 적들을 상대한 레인저들은 결국 노련한 방어전술을 숙달할 수 밖에 없습니다."
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -25916,7 +25942,7 @@ msgstr "원소의 신봉자"
 msgctxt "hfd6a3dc4g8c47g44b1g9b7ag2960dac65c11"
 msgid ""
 "You can manipulate spores and fungi to augment yourself and harm your foes."
-msgstr ""
+msgstr "포자와 균류를 조종하여 자신을 강화하고 적에게 피해를 줄 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26500,7 +26526,7 @@ msgctxt "h030672c5ga470g4bb2gaaf6g8892cd2758d1"
 msgid ""
 "Your versatile knack for the arcane lets you learn magic from every "
 "discipline. Choose some additional spells to add to your repertoire."
-msgstr ""
+msgstr "비전을 자유자재로 다룰 수 있는 당신은 모든 분야의 마법을 배울 수 있습니다. 주문을 골라서 시전 가능한 마법들을 늘려 보세요."
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26774,7 +26800,7 @@ msgctxt "h6f0f14b5g9645g491eg9b4fg9abdb14567be"
 msgid ""
 "Clever but craven reptilians that overcome their physical ineptitude by "
 "banding together."
-msgstr ""
+msgstr "영악하지만 비겁한 파충류입니다. 무리를 이룸으로써 불리한 신체적 조건을 극복합니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -26811,11 +26837,12 @@ msgstr "다크 저스티시어"
 #. Name = Blight
 #. RaceSoundSwitch = Blight
 #: Shared/Public/SharedDev/Races/Races.lsx:4189
+#, fuzzy
 msgctxt "h4d74e1a6g2075g40cbgb013g31bf2c5db8fc"
 msgid ""
 "These awakened plants, gifted with intelligence and mobility, plague lands "
 "contaminated with darkness."
-msgstr ""
+msgstr "지성과 기동성을 갖춘 이 깨어난 식물은 어둠으로 물든 땅을 오염시킵니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -26823,9 +26850,10 @@ msgstr ""
 #. Name = Blight
 #. RaceSoundSwitch = Blight
 #: Shared/Public/SharedDev/Races/Races.lsx:4190
+#, fuzzy
 msgctxt "h6a0f15bag5598g438fgbbc3g76ab35b73126"
 msgid "Blight"
-msgstr "역병"
+msgstr "마름병"
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -26876,16 +26904,17 @@ msgctxt "h768d478fg8ed4g4ce7gbda1g235f9a0e9358"
 msgid ""
 "These elves were transformed by the Shadowfell, until nothing remained but a "
 "mournful, joyless existence between life and death."
-msgstr ""
+msgstr "원래 엘프였던 이들은 섀도펠로 인해 변형되었고, 지금은 삶과 죽음 사이에서 애절하고 무기력한 존재로서 살아갈 뿐입니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
 #. HandlePath = DisplayName
 #. Name = ShadarKai
 #: Shared/Public/SharedDev/Races/Races.lsx:4224
+#, fuzzy
 msgctxt "h6362370ag39d0g407fgaff0g3d98f3bb161e"
 msgid "Shadar-Kai"
-msgstr ""
+msgstr "샤다카이"
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race

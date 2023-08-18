@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-17 19:54+0000\n"
-"Last-Translator: cajanbleman <kkomr5918@gmail.com>\n"
+"PO-Revision-Date: 2023-08-18 23:54+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/item/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1321,7 +1321,7 @@ msgstr "이 물질을 살짝 입술에 대보면 먹먹한 소리가 파동치�
 #: Shared/Public/SharedDev/RootTemplates/d08620da-0fa0-413a-88e7-631f901c568e.lsx:15
 msgctxt "hb5898d63g7d5fg43c0g9fc4gb322b1b934bd"
 msgid "Suspension of Mergrass"
-msgstr "머그라스의 부유물"
+msgstr "머그라스 현탁액"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/d08620da-0fa0-413a-88e7-631f901c568e.lsx
 #. NodeID = GameObjects
@@ -1409,7 +1409,7 @@ msgstr "쑥염"
 #: Shared/Public/SharedDev/RootTemplates/b707f039-af1d-456d-a606-1604f1d776c1.lsx:17
 msgctxt "h17f4e11eg623cg4792g8299g44ca7b320a38"
 msgid "Mugwort"
-msgstr ""
+msgstr "쑥"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/2ebad980-402d-4178-84dd-e41bb10155ce.lsx
 #. NodeID = GameObjects
@@ -1995,7 +1995,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/09bf68c6-db55-4405-b6dd-ba2d9a38e1ca.lsx:16
 msgctxt "h2bc65441ge4ceg4820gbb46g3b29a3ca8d19"
 msgid "Suspension of Snake Venom"
-msgstr ""
+msgstr "뱀독 현탁액"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/09bf68c6-db55-4405-b6dd-ba2d9a38e1ca.lsx
 #. NodeID = GameObjects
@@ -2035,7 +2035,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/1d4227ab-0f38-48fe-bee0-e15b0118fc55.lsx:15
 msgctxt "h7bc90741g1e3bg43c4gad15gdb231ecb6f1f"
 msgid "Suspension of Spider Silk"
-msgstr "거미줄 부유물"
+msgstr "거미줄 현탁액"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/1d4227ab-0f38-48fe-bee0-e15b0118fc55.lsx
 #. NodeID = GameObjects
@@ -2190,7 +2190,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/b0f6b7b9-1b7a-4027-99a8-8dba41d715a2.lsx:15
 msgctxt "ha291d197g38b0g4f5fg9e47g17697e1f32f8"
 msgid "Suspension of Troll Tongue"
-msgstr "트롤의 혀 승화물"
+msgstr "트롤의 혀 현탁액"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/b0f6b7b9-1b7a-4027-99a8-8dba41d715a2.lsx
 #. NodeID = GameObjects
@@ -3977,7 +3977,7 @@ msgstr "교활한 움직임의 영약"
 #: Shared/Public/SharedDev/RootTemplates/6f328fc5-6f54-4aad-959d-0825290a2763.lsx:19
 msgctxt "h600d70a1g5873g4f9cg9742g244a861700a1"
 msgid "A small bottle, filled to the brim with arcane energy."
-msgstr ""
+msgstr "비전 에너지로 가득 찬 작은 병."
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/6f328fc5-6f54-4aad-959d-0825290a2763.lsx
 #. NodeID = GameObjects
@@ -4595,11 +4595,12 @@ msgstr "타오르는 기름"
 #. Stats = ALCH_Solution_Oil_DamageAttackBuff
 #. TechnicalDescriptionParams = 1
 #: Shared/Public/SharedDev/RootTemplates/955d3880-3d10-4fb5-845b-96b6b52aef9a.lsx:24
+#, fuzzy
 msgctxt "h955e7e61g57e9g42fbg9d35g899dd8177e28"
 msgid ""
 "The flecks of shimmering crystal suspended within this murky oil make it hum "
 "with arcane potential. "
-msgstr ""
+msgstr "비전 마법의 잠재력을 품은 반짝이는 결정의 조각들이 탁한 기름 안에서 웅웅거리고 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/955d3880-3d10-4fb5-845b-96b6b52aef9a.lsx
 #. NodeID = GameObjects
@@ -5017,7 +5018,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/4d801c1a-691e-47c8-88e7-78367b4e2c8e.lsx:15
 msgctxt "hc92135e2gcc38g444cg9fedg9c1233141fb3"
 msgid "Potion of Angelic Slumber"
-msgstr ""
+msgstr "천상의 수면 물약"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/b0ff8d30-5825-49d4-8cd4-ebf3a3d0a024.lsx
 #. NodeID = GameObjects
@@ -22234,7 +22235,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/4c8f5873-ece7-4dd9-84b1-a7446b819d4e.lsx:15
 msgctxt "hf24af10dgedeeg438dgabe9gd84db589302e"
 msgid "Berry Bush"
-msgstr ""
+msgstr "베리 덤불"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/3bcd4164-3937-4722-8670-55e0c8c83d51.lsx
 #. NodeID = GameObjects
@@ -26996,7 +26997,7 @@ msgstr "석재 서판"
 #: Shared/Public/SharedDev/RootTemplates/1919b0e7-1bf2-4ed9-b3fd-97a34b9a12ea.lsx:15
 msgctxt "hf0d1c228g1b6eg4ad1g8d0cg1783c25950f0"
 msgid "Prison Cage"
-msgstr ""
+msgstr "수감 철창"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/36e5e9a3-0e8c-447f-9714-6034a93058ad.lsx
 #. NodeID = GameObjects
@@ -27007,7 +27008,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/36e5e9a3-0e8c-447f-9714-6034a93058ad.lsx:15
 msgctxt "hd32fb450ga143g4277g8e0egc4b29daa155e"
 msgid "Prison Cage"
-msgstr ""
+msgstr "수감 철창"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/f466e795-6ad3-4151-8aa0-7835b94270fb.lsx
 #. NodeID = GameObjects
@@ -27039,11 +27040,9 @@ msgstr "족쇄"
 #. Icon = Item_DEC_Dungeon_SharTemple_Orb_A
 #. Stats = OBJ_Indestructible_Light
 #: Shared/Public/Shared/RootTemplates/a45cb225-064c-4727-ac88-f8aec2824ccb.lsx:15
-#, fuzzy
-#| msgid "Umbral Orb"
 msgctxt "h9fe5cf7cga62bg440fg80c2g61afb83de7d7"
 msgid "Umbral Gem"
-msgstr "그림자 구체"
+msgstr "암영 보석"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/3e9c9dd2-6fdd-4565-a7a0-dc0fe9b50f0b.lsx
 #. NodeID = GameObjects
@@ -27054,7 +27053,7 @@ msgstr "그림자 구체"
 #: Shared/Public/Shared/RootTemplates/3e9c9dd2-6fdd-4565-a7a0-dc0fe9b50f0b.lsx:16
 msgctxt "h6c977e20g32b5g4336g91adg15add6462e27"
 msgid "Gem Socket"
-msgstr "보석홈"
+msgstr "보석 홈"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/2c17e294-2b38-40d1-9235-6e126f522466.lsx
 #. NodeID = GameObjects
@@ -27065,7 +27064,7 @@ msgstr "보석홈"
 #: Shared/Public/Shared/RootTemplates/2c17e294-2b38-40d1-9235-6e126f522466.lsx:16
 msgctxt "h75f316c9g4348g45b1g9b3ag7b7931ea1c22"
 msgid "Umbral Gem"
-msgstr "그림자 보석"
+msgstr "암영 보석"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/fd8002fd-6469-484a-96c3-92bc929e591e.lsx
 #. NodeID = GameObjects
@@ -43245,7 +43244,7 @@ msgctxt "he85f2a8cgf168g4c19gb92bg0eb2ae478896"
 msgid ""
 "Full ripe berries that taste tart, and burst at the slightest bite, and "
 "stain your fingers."
-msgstr ""
+msgstr "잘 익은 베리입니다. 살짝만 씹어도 시큼한 즙이 터지고, 손가락을 붉게 물들입니다."
 
 #. FilePath = Shared/Public/Shared/RootTemplates/b0943b65-5766-414a-903d-28de8790370a.lsx
 #. NodeID = GameObjects
@@ -43257,7 +43256,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/b0943b65-5766-414a-903d-28de8790370a.lsx:16
 msgctxt "h33f4d0edg28adg4f18g9151gf4a3dddb1ec1"
 msgid "Raspberry"
-msgstr ""
+msgstr "라즈베리"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/74744687-42eb-4023-b65c-64dfe0e9b45f.lsx
 #. NodeID = GameObjects
@@ -55729,7 +55728,7 @@ msgstr "투명화 감지의 두루마리"
 #: Shared/Public/SharedDev/RootTemplates/d2573c9b-6de2-45bd-8032-b8a59432f4b5.lsx:8
 msgctxt "h64a04cefg290ag4eb4g9fc0gaf25308067a2"
 msgid "Scroll of Seeming"
-msgstr ""
+msgstr "변장의 두루마리"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/2ad118cb-b11f-45ca-a206-7575bbbaccc6.lsx
 #. NodeID = GameObjects
@@ -67255,6 +67254,9 @@ msgid ""
 "contextually dusty connotations. How about Lunar Lady? Keeps the "
 "alliteration, too.' - Margaery Henderplum"
 msgstr ""
+"'셀루네 여신의 칭호 중 하나인 '달처녀'는 교단 내에서 종종 논쟁의 대상이 되어 왔습니다. 일반적인 상징물은 처녀성에 대한 가정을 "
+"확실히 부정하고 있습니다. 그보다 중요한 것은, '처녀'라는 표현 자체가 약간 불순한 의미를 담고 있다는 것이지요. '암월의 여인'은 "
+"어떻습니까? 이러면 음운도 맞출 수 있지요.' - 마저리 헨더플럼"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/d2fe9a24-affd-464a-b757-a48d6f50dd7d.lsx
 #. NodeID = GameObjects
@@ -68266,7 +68268,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/22c74b5e-bef2-41b1-b9ed-f4acc766d4ee.lsx:16
 msgctxt "ha87b0364g1656g46fbgbff6g5d7b54c6a6b1"
 msgid "Trap Disarm Toolkit"
-msgstr "함정 해제 도구킷"
+msgstr "함정 해제 도구"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/239edfa9-46b4-44ad-b0c4-faa4421a8a57.lsx
 #. NodeID = GameObjects
@@ -80298,7 +80300,7 @@ msgstr "칼라크의 속옷"
 #: Gustav/Public/GustavDev/RootTemplates/185ab1be-e93d-4518-b053-d6d4d7168d68.lsx:15
 msgctxt "hd127a06cg7befg4213g97cbg66450884eb42"
 msgid "Built for function rather than fun. "
-msgstr ""
+msgstr "재미보다는 기능에 중점을 두고 있습니다. "
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/185ab1be-e93d-4518-b053-d6d4d7168d68.lsx
 #. NodeID = GameObjects
@@ -80615,4 +80617,4 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/9dc895b8-4247-44e3-a343-60622843ff09.lsx:16
 msgctxt "h43dacf1dg57c6g4654ga620g377467112985"
 msgid "Gortash Coronation Poster"
-msgstr ""
+msgstr "고타쉬의 대관식 벽보"

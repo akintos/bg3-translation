@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-17 19:54+0000\n"
-"Last-Translator: 조선인 <kimkikim141@naver.com>\n"
+"PO-Revision-Date: 2023-08-18 23:53+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/system/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1288,7 +1288,7 @@ msgstr "이동"
 
 msgctxt "ha2091829gbdecg43a6g9d9ag16043dbe52b9"
 msgid "[1] used [2]."
-msgstr "[1]: [2] 섭취."
+msgstr "[1]: [2] 사용."
 
 msgctxt "h7d32577dg477cg4f89g815cg87642153ca00"
 msgid "[1] shares [3] with [2]"
@@ -2279,7 +2279,7 @@ msgstr "상태이상 때문에 도망칠 수 없습니다!"
 
 msgctxt "hb144646cg0249g4715gbdf1gdf9e1b77133e"
 msgid "Target group is too far away!"
-msgstr "대상 무리가 너무 멀리 있음!"
+msgstr "대상 그룹이 너무 멀리 있음!"
 
 msgctxt "h2b9871b5g1f2eg469dg8df3g8b2bbdf949c4"
 msgid "[1] kilograms"
@@ -4311,7 +4311,7 @@ msgstr "소환사의 비전"
 
 msgctxt "h4e0fd129g61efg4766ga765g3bc94bf57619"
 msgid "Send to Camp"
-msgstr "캠프로 보내기"
+msgstr "야영지로 보내기"
 
 msgctxt "h21db8ebbg9c9dg4133g8c81g9eadf1f91a59"
 msgid "Lv[1] Racial Feature"
@@ -6021,7 +6021,7 @@ msgstr "탐험가 모드"
 
 msgctxt "hc215a03eg656fg4c3ag998cg0d8c269013dd"
 msgid "[1] on [2]"
-msgstr "[2]: [1] 시전"
+msgstr "[2]에게 [1]"
 
 msgctxt "h87bdc369gb6deg45c7gb1cbg425e03bbd061"
 msgid "Throw"
@@ -6352,13 +6352,13 @@ msgctxt "h2d6aa236g5a59g4ff3ga31bgd7b4f44b98e8"
 msgid "Accept"
 msgstr "확인"
 
-#, fuzzy
-#| msgid "Toggle Turn-Based Mode"
 msgctxt "hb5fe0a29g2affg419ag8fa6gdd40b49a48f5"
 msgid ""
 "Map\n"
 "(Hold) Journal"
-msgstr "턴제 모드 전환"
+msgstr ""
+"지도\n"
+"(길게 누르기) 일지"
 
 msgctxt "h97354bfaged14g479cg9a4dgbda2fdd3f08f"
 msgid "Dice roll: [1]"
@@ -7398,11 +7398,9 @@ msgctxt "he55242fcg73f9g4454g9cd5g593e49e2dd66"
 msgid "Investigation Check success!"
 msgstr "조사 판정 성공!"
 
-#, fuzzy
-#| msgid "Camera shake"
 msgctxt "hf0c15325gc3b4g42fbgb94dgc2f7e6048369"
 msgid "Camera Shake"
-msgstr "카메라 흔들기"
+msgstr "카메라 흔들림"
 
 #, fuzzy
 msgctxt "h426a1ab7g2b5fg460bg836ag6254d0c16f84"

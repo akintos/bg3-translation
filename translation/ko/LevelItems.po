@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-17 19:54+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-08-18 23:53+0000\n"
+"Last-Translator: Hinokey <nateray42@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/levelitems/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,6 @@ msgstr ""
 #. Name = BOOK_UNI_WYR_LetterFromNeverwinter
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/BGO_Main_A/Items/_merged.lsx:81
-#, fuzzy
 msgctxt "h3ff6916cg34d0g4cc9g8879g15c1bcf4f13c"
 msgid "Scented Letter"
 msgstr "향기나는 편지"
@@ -58,7 +57,7 @@ msgstr "새로운 의상 아이디어"
 #: Gustav/Mods/Gustav/Levels/BGO_Main_A/Items/_merged.lsx:743
 msgctxt "h41594f22gb1f9g4c9ag85a2gab2747cdb18c"
 msgid "Sunlit Cavemouth"
-msgstr ""
+msgstr "햇빛 드는 동굴 입구"
 
 #. FilePath = Gustav/Mods/Gustav/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -103,7 +102,7 @@ msgstr "엮은 책"
 #: Gustav/Mods/Gustav/Levels/BGO_Main_A/Items/_merged.lsx:1217
 msgctxt "h7d4cafe0ge30fg4323ga1f4g51fb2e33c240"
 msgid "The Would-Be Saint"
-msgstr ""
+msgstr "성자 지망생"
 
 #. FilePath = Gustav/Mods/Gustav/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -676,10 +675,9 @@ msgstr "횃불"
 #. Name = S_CAMP_Tent_Minsc_000
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/SYS_Menuscreen_Camp_A/Items/_merged.lsx:980
-#, fuzzy
 msgctxt "hc13cfd0dg498fg4781gacdag50cc25d1d8ad"
 msgid "Minsc's Tent"
-msgstr "밍스크의 텐트"
+msgstr "민스크의 천막"
 
 #. FilePath = Gustav/Mods/Gustav/Levels/SYS_Menuscreen_Camp_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1011,7 +1009,6 @@ msgstr "불꽃"
 #. Name = S_TUT_PlayerPod_002
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/TUT_Avernus_C/Items/_merged.lsx:2189
-#, fuzzy
 msgctxt "h936a180bg16e3g4a11gae3eg592a9e99dea2"
 msgid "Mind Flayer Pod"
 msgstr "마인드 플레이어 포드"
@@ -3463,16 +3460,11 @@ msgstr "녹슨 열쇠"
 #. Name = S_DEN_PoisonCabinetKey
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:23834
-#, fuzzy
-#| msgid ""
-#| "A small, simple key, like the ones made for closets and cabinets. Found in a "
-#| "chest in the Druid Grove."
 msgctxt "hc6f8e858gb166g4cfeg8e6cgb782121a03e7"
 msgid ""
 "A small, simple key, like the ones made for closets and cabinets. Found in a "
 "chest in the Emerald Grove."
-msgstr "옷장이나 보관함용으로 보이는 작고 단순한 열쇠입니다. 드루이드의 숲에 있는 "
-"상자에서 발견되었습니다."
+msgstr "옷장이나 보관함에 쓰이는 작고 단순한 열쇠입니다. 드루이드의 숲에 있는 상자에서 발견되었습니다."
 
 #. FilePath = Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3693,14 +3685,9 @@ msgstr "응고된 혈액이 담긴 병. 라벨에는 악필로 다음과 같이 
 #. Name = S_GOB_TempleAccess_Lorebook
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:26068
-#, fuzzy
-#| msgid ""
-#| "The aged pages of this journal are flaking at the edges, but their contents "
-#| "remain clear."
 msgctxt "hf74f7bfeg3057g4d9bgb8fdg0e42f6aa3b80"
 msgid "An aged journal."
-msgstr "이 일지의 오래된 페이지들은 가장자리가 벗겨져 나가고 있음에도, 내용은 비교적 "
-"선명히 남아 있습니다."
+msgstr "낡은 일지."
 
 #. FilePath = Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3709,11 +3696,9 @@ msgstr "이 일지의 오래된 페이지들은 가장자리가 벗겨져 나가
 #. Name = S_GOB_TempleAccess_Lorebook
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:26069
-#, fuzzy
-#| msgid "Priestess' Journal"
 msgctxt "hae7061cdgc7fag4e6egba0eg38f01a48b79e"
 msgid "Selûnite Journal"
-msgstr "여사제의 일지"
+msgstr "셀루네의 일지"
 
 #. FilePath = Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3862,8 +3847,6 @@ msgstr "경고 편지"
 #. Name = UND_GnomeVillage_Letter
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:27158
-#, fuzzy
-#| msgid "Water-damaged Letter"
 msgctxt "h3f445696gcbeag4a25g9466gfeabf9ea74d1"
 msgid "Water-Damaged Letter"
 msgstr "물에 젖은 편지"
@@ -3875,8 +3858,6 @@ msgstr "물에 젖은 편지"
 #. Name = LOOT_SCROLL_MageArmor_001
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:27206
-#, fuzzy
-#| msgid "Scroll of Mage Armor"
 msgctxt "h9073c76egb22ag4c01g849dgc9f04bd9ab65"
 msgid "Scroll of Mage Armour"
 msgstr "마법 갑주 두루마리"
@@ -4831,11 +4812,9 @@ msgstr "연습용 표적"
 #. Name = S_DEN_Thieflings_MolNote
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:44919
-#, fuzzy
-#| msgid "A letter written in the fanciful script of a well-practiced adolescent."
 msgctxt "hb1bbb05dgd6eeg4c60g91f9g7f8e85bc2bcb"
 msgid "A letter written in the fanciful script of a well-practised adolescent."
-msgstr "오랜 연습으로 멋들어진 필체로 쓸 수 있게 된 청소년이 쓴 편지입니다."
+msgstr "숙련된 청소년이 멋들어진 필체로쓴 편지입니다."
 
 #. FilePath = Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5525,16 +5504,11 @@ msgstr "수습생의 배낭"
 #. Name = S_FOR_MarkedPost_Poster
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:56029
-#, fuzzy
-#| msgid ""
-#| "A weathered, dog-earred poster seeking information about a string of "
-#| "disappearances around Moonhaven."
 msgctxt "h91c9e51dgad3fg4a84g80a0gf9d0b7f67339"
 msgid ""
 "A weathered, dog-eared poster seeking information about a string of "
 "disappearances around Moonhaven."
-msgstr "문헤이븐 근처 연쇄 실종에 관한 제보를 요청하는 포스터. 닳아 헤지고 모서리는 "
-"접혀 있습니다."
+msgstr "문헤이븐 근처 연쇄 실종에 관한 제보를 요청하는 포스터. 닳아 헤지고 모서리는 접혀 있습니다."
 
 #. FilePath = Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5644,12 +5618,9 @@ msgstr "올라가기"
 #. Name = S_UND_NarrativeLoot_HairGrowingTonic
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:58525
-#, fuzzy
-#| msgid "A bottle of thick liquid labeled: 'Murmath's property: HANDS OFF!'"
 msgctxt "h89420abagf7dfg45e8gb13fg19d6757c793b"
 msgid "A bottle of thick liquid labelled: 'Murmath's property: HANDS OFF!'"
-msgstr "'무르마스의 소유물: 손 떼시오!' 라는 라벨이 붙어 있는, 진한 액체가 들어있는 "
-"병"
+msgstr "'무르마스의 소유물: <b>손 떼시오!</b>' 라는 라벨의 진한 액체가 든 병"
 
 #. FilePath = Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5827,15 +5798,11 @@ msgstr "광명회 여행자의 상자 열쇠"
 #. Name = S_UND_ClericResearch
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:60657
-#, fuzzy
-#| msgid ""
-#| "A research paper on Sussur Tree flowers. Only the first paragraph is "
-#| "finished."
 msgctxt "he11876cdg5c75g4cf4ga3e3ga624f499ba33"
 msgid ""
 "A research paper on sussur tree flowers. Only the first paragraph is "
 "finished."
-msgstr "수서르 나무 꽃에 대한 연구서. 첫 문단만 써져 있습니다."
+msgstr "수서르 나무 꽃에 대한 연구서. 첫 문단만 써 있습니다."
 
 #. FilePath = Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22291,7 +22258,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:2623
 msgctxt "hc6bd5f3bgedcbg4677gaeffge6817ccc7b71"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22302,7 +22269,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:2624
 msgctxt "ha24ab6d6gc083g4741g9d62g417cd109406c"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22347,7 +22314,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:3417
 msgctxt "h027f3896gb3b5g4678gb1c7g618d07fa5fbb"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22359,7 +22326,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:3418
 msgctxt "hfa7a7e72gdb2bg4ed1gb0e3g323350d21241"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22494,7 +22461,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:5054
 msgctxt "h28ca997cg4eb7g472fgb7dcg8d687fc3f20e"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22506,7 +22473,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:5055
 msgctxt "hf8a2928cg0b70g4d79g9b7bg2cde72955c0a"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22530,7 +22497,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:5495
 msgctxt "hcbdfa065gaf83g41aaga0bfg5c7204b89e42"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22542,7 +22509,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:5496
 msgctxt "h13fef6cbg0aa1g40c8gac9fg975378f7a5a3"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22664,7 +22631,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:7154
 msgctxt "h45d0116bg1575g449dga0e0g15bad45c9248"
 msgid "Portal to the Material Plane"
-msgstr ""
+msgstr "물질계로 통하는 포탈"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22846,7 +22813,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:9166
 msgctxt "h9e579d76gf84dg478fg831cgde766d25fa29"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22858,7 +22825,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:9167
 msgctxt "hcdb83898ged13g4b6fg965ega3ae9ace8fa1"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22869,7 +22836,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:9252
 msgctxt "h8a05a389g8b62g405cgb061g82d59e78ebed"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22880,7 +22847,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:9253
 msgctxt "h4751c55agd2b8g4bebga26eg0677c0788e65"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22959,7 +22926,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:10532
 msgctxt "h0b6b6978gc4c0g428eg8371g10ad0d1f1085"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22971,7 +22938,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:10534
 msgctxt "ha9453764g96deg4e5fgb572g15cf0b8d4dae"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22982,7 +22949,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:11174
 msgctxt "h798d0714g766fg4ac6ga5c5g3c392d67dc47"
 msgid "Secret Stairway"
-msgstr ""
+msgstr "비밀 계단"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23070,7 +23037,7 @@ msgstr "라샌더의 피"
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:11905
 msgctxt "h47d4498egb040g40bbg8f53g311e1cb555d5"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23081,7 +23048,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:11906
 msgctxt "h1203e572gbdfag419agab3bg626bbf2e7bf6"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -35034,7 +35001,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:161662
 msgctxt "h63a9f0e3g95ceg45dagaa43gd4965c300a07"
 msgid "Exposed Secret Stairway"
-msgstr ""
+msgstr "드러난 비밀 계단"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -37403,7 +37370,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/INT_Main_A/Items/_merged.lsx:919
 msgctxt "h29343286g87bcg4551g843dg104408fdcfc5"
 msgid "Portal to the Material Plane"
-msgstr ""
+msgstr "물질계로 통하는 포탈"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/IRN_CIN_HostageCell_A/Items/_merged.lsx
 #. NodeID = GameObjects
