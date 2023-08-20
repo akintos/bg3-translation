@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-18 23:53+0000\n"
+"PO-Revision-Date: 2023-08-20 06:54+0000\n"
 "Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/journal/ko/>\n"
 "Language: ko\n"
@@ -239,7 +239,7 @@ msgstr "올리"
 #: Gustav/Mods/GustavDev/Story/Journal/Markers/0a14ef13-4825-4b45-b036-a0dce54f711a.lsx:8
 msgctxt "hf6bf1debg70e1g4959ga870g0307a3479f76"
 msgid "Devil"
-msgstr "악마"
+msgstr "데빌"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/Markers/0a38fd67-aadb-9a6b-005e-7eedc204ade1.lsx
 #. NodeID = Marker
@@ -899,7 +899,7 @@ msgstr "열린 손의 신전 - 지하실"
 #: Gustav/Mods/GustavDev/Story/Journal/Markers/224bfddf-68b3-ee9a-3a17-0f2e7c408af5.lsx:8
 msgctxt "h17499441g4c01g418ag9617g2c4749256bd8"
 msgid "Sharess' Caress"
-msgstr ""
+msgstr "샤레스의 애무"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/Markers/226a7f76-3f07-4d19-af3d-35ca8a23f018.lsx
 #. NodeID = Marker
@@ -2962,7 +2962,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/Markers/6ddd07ce-13cc-485b-a588-5442a092cb85.lsx:8
 msgctxt "hdd76cca3g6d96g454cg937eg7ee2c0506a65"
 msgid "Strange Ox"
-msgstr ""
+msgstr "이상한 황소"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/Markers/6e25a494-d90e-6e75-d7b4-e224cb898293.lsx
 #. NodeID = Marker
@@ -3356,9 +3356,10 @@ msgstr ""
 #. MarkerLevel = SCL_Main_A
 #. MarkerTargetObjectType = Item
 #: Gustav/Mods/GustavDev/Story/Journal/Markers/825970b1-f236-4145-bc6f-6400f1ce84b0.lsx:8
+#, fuzzy
 msgctxt "h4a043b76g83d2g4d0bg80a9g8b574ca92e53"
 msgid "Thorm Mausoleum"
-msgstr ""
+msgstr "쏨 가문의 영묘"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/Markers/82c92582-0265-4540-8749-bc5e52a7e537.lsx
 #. NodeID = Marker
@@ -4330,7 +4331,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/Markers/b760a4be-f519-4d02-b015-173a7a58ce26.lsx:8
 msgctxt "hb098076fgc9aag4368ga074gbb74bb755db8"
 msgid "Astral Plane Portal"
-msgstr "아스트랄계 포탈"
+msgstr "아스트랄 차원 포탈"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/Markers/b7841ce2-d1e9-433e-b3a4-247368da0602.lsx
 #. NodeID = Marker
@@ -7052,7 +7053,7 @@ msgstr "데리스와 대화하자. "
 #: Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx:891
 msgctxt "h04d488e9g22bdg4848ga21cg5b79d94b92a9"
 msgid "Tell Benryn where Miri is."
-msgstr "베일렌에게 미리의 위치를 알려주자."
+msgstr "벤린에게 미리의 위치를 알려주자."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -9948,7 +9949,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx:3955
 msgctxt "hd3f4f694gbf0ag4ec9ga8d7g2d65ca15d81b"
 msgid "Free Orpheus."
-msgstr ""
+msgstr "오르페우스 해방."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -12971,7 +12972,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6973
 msgctxt "h4e5c4a83gfbb3g473agac96g23f57b9ab353"
 msgid "Investigate the Thorm Mausoleum."
-msgstr ""
+msgstr "쏨 가문의 영묘를 조사하자."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -27036,16 +27037,12 @@ msgstr "에텔 이모에게 도움 받기"
 #. ID = ToldEthelAboutTadpoleInGrove
 #. Objective = GLO_Tadpole_SUB_Hag_AskEthelHelp
 #: Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx:15798
-#, fuzzy
-#| msgid ""
-#| "We met an eccentric old lady in the grove. She's confident she can remove "
-#| "our parasites and invited us to her teahouse."
 msgctxt "h0e7a8e7eg882dg4679ga42ag4099b2ba8fa1"
 msgid ""
 "We met an eccentric old lady in the Emerald Grove. She's confident she can "
 "remove our parasites and invited us to her teahouse."
-msgstr "우리는 숲에서 특이한 노파를 만났다. 그녀는 분명 자신이 우리 기생충을 "
-"제거해줄 수 있을거라며 그녀의 찻집으로 우리를 초대했다."
+msgstr ""
+"우리는 에메랄드 숲에서 특이한 노파를 만났다. 그녀는 분명 자신이 우리 기생충을 제거해줄 수 있을거라며 그녀의 찻집으로 우리를 초대했다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38098,7 +38095,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx:34030
 msgctxt "h4f8df5a0g9095g4cd7ga0ddga55f305a81e3"
 msgid "Free Orpheus"
-msgstr ""
+msgstr "오르페우스 해방"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38921,6 +38918,8 @@ msgid ""
 "Thorm Mausoleum to find the 'Nightsong'. This Nightsong seems to be the key "
 "to his invulnerability. We should follow this lead."
 msgstr ""
+"우린 발타자르의 일기를 발견해 그가 '나이트송'을 찾는 임무를 맡아 쏨 가문의 영묘로 떠났다는 사실을 알아냈다. 이 나이트송이란 존재가 "
+"케서릭을 불사로 만드는 열쇠인 듯하다. 이 단서를 쫓아야 한다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39094,6 +39093,8 @@ msgid ""
 "Thorm Mausoleum to find the 'Nightsong'. This relic seems to be the key to "
 "Ketheric's invulnerability. If we want to defeat him, we'll need to find it."
 msgstr ""
+"우린 발타자르의 일기를 발견해 그가 '나이트송'을 찾는 임무를 맡아 쏨 가문의 영묘로 향한 사실을 알아냈다. 이 유물이 케서릭을 불사로 "
+"만드는 열쇠인 듯하다. 그를 상대로 승리하려면 나이트송을 찾아내야 한다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -53515,7 +53516,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx:59860
 msgctxt "h4930bea7g6ef0g42daga237gee3bed63188f"
 msgid "Find Ketheric Thorm's Relic"
-msgstr ""
+msgstr "케서릭 쏨의 유물을 찾아내자"
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -53599,6 +53600,8 @@ msgid ""
 "to find a relic called the 'Nightsong'. It seems to be the key to Ketheric's "
 "invulnerability."
 msgstr ""
+"우린 발타자르의 일기를 발견해 그가 '나이트송'을 찾는 임무를 맡아 쏨 가문의 영묘로 향했다는 사실을 알아냈다. 나이트송이란 유물이 "
+"케서릭을 불사로 만드는 열쇠로 보인다."
 
 #. FilePath = Gustav/Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep

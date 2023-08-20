@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-18 23:54+0000\n"
-"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
+"PO-Revision-Date: 2023-08-20 06:54+0000\n"
+"Last-Translator: Favmir <nevirful@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/sharedlocalization/ko/>"
 "\n"
 "Language: ko\n"
@@ -395,10 +395,9 @@ msgstr "야영지가 접근 불가 상태라 하루를 마무리할 수 없습�
 #. HandlePath = Content
 #. UUID = ReadyCheck_PartyMemberNotReady
 #: Shared/Public/Shared/Localization/ReadyChecks_Descriptions.lsx:85
-#, fuzzy
 msgctxt "h056e3dacg3ed5g4d7egb791g96c8af3f4e51"
 msgid "A member of your party is not ready to proceed."
-msgstr "현재 동료가 준비를 마치지 않았습니다."
+msgstr "아직 진행 준비가 되지 않은 동료가 있습니다."
 
 #. key = ReadyCheck_RegionSwap
 #. 
@@ -411,7 +410,7 @@ msgctxt "hf73db232g958eg4f6fgb171gf2ffb945236a"
 msgid ""
 "You are about to progress your adventure. Once you move on, you may not be "
 "able to return. Make sure to tie up any loose ends before advancing! "
-msgstr "다음 모험을 진행하려고 합니다. 다시 돌아올 수 없을지도 모릅니다. 진행하기 전에 끝마치지 않은 것들을 마무리 하세요! "
+msgstr "다음 모험을 진행하시겠습니까? 다시 돌아올 수 없을지도 모릅니다. 진행하기 전에 끝마치지 않은 것들을 마무리 하세요! "
 
 #. key = ReadyCheck_RegionSwap_CanReturn
 #. 
@@ -424,7 +423,7 @@ msgctxt "h7cba185eg98aag4c52g8e37g8c6fcb5dd009"
 msgid ""
 "You are about to progress your adventure. Make sure to tie up any loose ends "
 "before advancing!"
-msgstr "다음 모험을 진행하려고 합니다. 진행하기 전에 끝마치지 않은 것들을 마무리 하세요!"
+msgstr "다음 모험을 진행하시겠습니까? 진행하기 전에 끝마치지 않은 것들을 마무리 하세요!"
 
 #. key = ReadyCheck_RegionSwap_CanReturn_LowLevel
 #. 
@@ -439,7 +438,7 @@ msgid ""
 "Warning: the area you are about to enter will be bitterly difficult for a "
 "party of your level."
 msgstr ""
-"더 진행하기 전에 매듭짓지 못한 일을 끝내고 오십시오!\n"
+"진행하기 전에 끝마치지 않은 것들을 마무리 하세요!\n"
 "경고: 진입하려는 지역은 현재 파티 레벨에겐 매우 어려운 난이도입니다."
 
 #. key = ReadyCheck_RegionSwap_LowLevel
@@ -455,7 +454,7 @@ msgid ""
 "Warning: the area you are about to enter will be bitterly difficult for a "
 "party of your level."
 msgstr ""
-"더 진행하기 전에 매듭짓지 못한 일을 끝내고 오십시오!\n"
+"진행하기 전에 끝마치지 않은 것들을 마무리 하세요!\n"
 "경고: 진입하려는 지역은 현재 파티 레벨에겐 매우 어려운 난이도입니다."
 
 #. key = ReadyCheck_YouAreNotReady
@@ -467,7 +466,7 @@ msgstr ""
 #: Shared/Public/Shared/Localization/ReadyChecks_Descriptions.lsx:113
 msgctxt "h2e7a2776g3849g4bf2g9afegb6291f581c61"
 msgid "You are not ready to proceed."
-msgstr ""
+msgstr "진행할 준비가 되지 않았습니다."
 
 #. key = BGO_Main_A
 #. 
@@ -723,7 +722,7 @@ msgstr "약해진 마인드 플레이어"
 #: Gustav/Mods/GustavDev/Localization/Act1b_Subregions.lsx:78
 msgctxt "hc1206dc3gfca3g42aag8f9cgf1582169f58f"
 msgid "Astral Plane"
-msgstr "아스트랄계"
+msgstr "아스트랄 차원"
 
 #. key = CRE_AstralPrison_Entering_ReadyCheck
 #. 
@@ -1288,7 +1287,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/ReadyChecks_Descriptions.lsx:78
 msgctxt "h73bb9674gb05eg4078gb022gb389439a5a45"
 msgid "Are you ready to leave the Astral Plane?"
-msgstr ""
+msgstr "아스트랄 차원으로 떠날 준비를 마쳤습니까?"
 
 #. key = END_ReadyMessage_MorphicPool
 #. 
@@ -1477,7 +1476,7 @@ msgstr "당신의 동료가 영구히 파티를 떠났습니다."
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:288
 msgctxt "h3be76eb4g1ce0g4db5g9421g6d64c46c8095"
 msgid "Strange Ox"
-msgstr ""
+msgstr "이상한 황소"
 
 #. key = GLO_ElminsterName
 #. 
@@ -5870,7 +5869,7 @@ msgstr "구역을 떠납니다. 계속하시겠습니까?"
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:15
 msgctxt "h59c3e724g16bdg4d0egba2eg73294335da76"
 msgid "A member of your party is not ready to proceed."
-msgstr ""
+msgstr "아직 진행 준비가 되지 않은 동료가 있습니다."
 
 #. key = Message_ProgressingWorldState
 #. 
