@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-20 06:54+0000\n"
-"Last-Translator: ChrisK <chriskim666@gmail.com>\n"
+"PO-Revision-Date: 2023-08-22 11:54+0000\n"
+"Last-Translator: Jellyfish <kms16933@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/default/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1635,7 +1635,7 @@ msgstr "베테랑이 모두 죽었습니다."
 #: Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:370
 msgctxt "hef9d46eag5c21g429fg9889g84d0a7f6b9d9"
 msgid "The Steel Watcher has died in combat."
-msgstr "강철 감시자가 전투에서 사망하였습니다."
+msgstr "스틸 워치가 전투에서 사망하였습니다."
 
 #. FilePath = Gustav/Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -2362,7 +2362,7 @@ msgid ""
 "Gale's wizarding prowess once earned him the love of Mystra, the goddess of "
 "magic, until his ambition led him to the brink of catastrophe..."
 msgstr ""
-"게일은 한때 마법 실력으로 마법의 여신 미스트라의 사랑까지 얻었습니다. 그의 야망이 그를 재앙의 구렁텅이로 몰아넣기 전까지 말이죠..."
+"게일은 한때 훌륭한 마법 실력으로 마법의 여신 미스트라의 사랑을 받았습니다. 그의 야망이 그를 파국의 끝으로 몰아넣기 전까지는 말이죠..."
 
 #. FilePath = Gustav/Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -6130,7 +6130,8 @@ msgid ""
 "of 20."
 msgstr ""
 "경갑에 <LSTag Tooltip=\"ArmourProficiency\">방어구 숙련</LSTag>을 얻고 <LSTag Tooltip="
-"\"Dexterity\">민첩</LSTag>이 1 만큼, 최대 20 까지 증가합니다."
+"\"Strength\">근력</LSTag> 또는 <LSTag Tooltip=\"Dexterity\">민첩</LSTag>이 1 만큼, 최대 "
+"20 까지 증가합니다."
 
 #. FilePath = Shared/Public/Shared/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -8035,7 +8036,7 @@ msgstr "잎사귀"
 #: Shared/Public/Shared/Lists/ColorDefinitions.lsx:597
 msgctxt "h58743011g15dcg4550gb252ge095ef8babc5"
 msgid "Gold"
-msgstr "금화"
+msgstr "골드"
 
 #. FilePath = Shared/Public/Shared/Lists/ColorDefinitions.lsx
 #. NodeID = ColorDefinition
@@ -16184,8 +16185,7 @@ msgctxt "h0d2a13c0gbf72g4d22g8af6g41a65155de5a"
 msgid ""
 "The most common face to see in Faerûn, humans are known for their tenacity, "
 "creativity, and endless capacity for growth."
-msgstr "페이룬에서 가장 흔한 종으로, 인간은 그들의 끈기, 창의력, 그리고 한계가 없는 "
-"성장으로 유명합니다."
+msgstr "페이룬에서 가장 흔한 종인 인간은 끈기, 창의력, 그리고 끝없는 성장성을 지닌 것으로 유명합니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16205,8 +16205,7 @@ msgctxt "h81db5ca1gf9c6g48c5gb679g002911bd6067"
 msgid ""
 "With an ethereal countenance and long lifespans, elves are at home with "
 "nature's power, flourishing in light and dark alike."
-msgstr "아름다운 얼굴과 긴 수명을 지닌 엘프는 빛과 어둠 모두에서 번성하는 자연의 "
-"힘을 지닌 존재입니다."
+msgstr "하늘이 내린 용모와 긴 수명을 보유한 엘프는 자연의 힘에 눙숙하며 빛과 어둠, 두 모든 곳에서 번성하는 종족입니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16433,8 +16432,7 @@ msgctxt "h2723f954g169cg47fdg8d0dgb03e5c2cbd0a"
 msgid ""
 "Durable and unyielding as their homes of stone, dwarves are some of the "
 "finest warriors, miners, and smiths of Faerûn."
-msgstr "돌로 된 그들의 고향만큼이나 튼튼하고 꺾이지 않는 드워프들은, 페이룬에서 가장 "
-"훌륭한 전사이며, 광부이자, 대장장이입니다."
+msgstr "자신들의 돌로 지어진 집 만큼이나 튼튼하고 굳센 드워프는 페이룬에서 가장 뛰어난 전사이자, 광부, 대장장이입니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16858,9 +16856,7 @@ msgctxt "h80cfd587g4803g4d58g8e5ag58431c7b716f"
 msgid ""
 "Small, clever, and energetic, gnomes use their long lives to explore "
 "Faerûn's brightest corners and darkest depths."
-msgstr ""
-"작고 영리하며 에너지가 넘치는 노움들은 그들의 긴 수명을 활용해 페이룬의 가장 "
-"밝은 구석과 가장 어두운 골짜기 아래까지 탐험합니다."
+msgstr "작고 영리하며 기운 넘치는 노움들은 긴 수명을 활용해 페이룬의 가장 밝은 구석과 가장 어두운 심연 곳곳을 탐구하며 지냅니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17194,7 +17190,7 @@ msgctxt "h00af73b1g0dbag4df8gbbb9g6db60d51db02"
 msgid ""
 "Mephistopheles tieflings draw power from Cania, the archdevil's glacial "
 "realm, and have a particular affinity for arcane magic."
-msgstr "메피스토펠레스 티플링들은 아크 데빌의 빙하 차원, 카니아로부터 그들의 힘을 끌어내며, 비전 마법에 특히 친밀합니다."
+msgstr "메피스토펠레스 티플링들은 아크데빌의 빙하 차원, 카니아로부터 그들의 힘을 끌어내며, 비전 마법에 특히 친밀합니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17254,8 +17250,8 @@ msgid ""
 "Astral Sea atop red dragons, bringing their silver swords and psionic might "
 "to bear against any trace of the illithid menace. "
 msgstr ""
-"마인드 플레이어의 노예였던 것에서 비롯된 무자비함으로 무장한 기스양키는 은검과 사이오닉 능력으로 일리시드의 위협에 맞서 싸우며 레드 "
-"드래곤을 타고 아스트랄계를 비행합니다. "
+"마인드 플레이어의 노예 시절 무자비한 성정이 형성된 기스양키는, 레드 드래곤에 올라 타 아스트랄계를 누비고 다니며, 일리시드의 그 어떤 "
+"위협도 놓치지 않고 은검과 사이오닉 능력으로 맞서 싸웁니다. "
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17478,8 +17474,7 @@ msgctxt "h2994b091g4bedg4119gbc9bg47002fd0af27"
 msgid ""
 "The most common face in Faerûn, humans are known for their tenacity, "
 "creativity, and endless capacity for growth."
-msgstr "페이룬에서 가장 흔한 종인 인간은 그들의 끈기, 창의력, 그리고 한계가 없는 "
-"성장으로 유명합니다."
+msgstr "페이룬에서 가장 흔한 종인 인간은 끈기, 창의력, 그리고 끝없는 성장성을 지닌 것으로 유명합니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17503,8 +17498,7 @@ msgctxt "haa694136gf18dg4bf2gab33gf65e3c99fd1a"
 msgid ""
 "With ethereal countenances and long lifespans, elves are at home with "
 "nature's power, flourishing in light and dark alike."
-msgstr "매우 아름다운 얼굴과 긴 수명을 지닌 엘프는 빛과 어둠 모두에서 번성하는 "
-"자연의 힘을 지닌 존재입니다."
+msgstr "하늘이 내린 용모와 긴 수명을 보유한 엘프는 자연의 힘에 눙숙하며 빛과 어둠, 두 모든 곳에서 번성하는 종족입니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17650,8 +17644,7 @@ msgctxt "hf22e3dd7g0b0ag4d29g8531g60ec664b1293"
 msgid ""
 "As durable and unyielding as their homes of stone, dwarves are some of the "
 "finest warriors, miners, and smiths of Faerûn."
-msgstr "그들의 돌로 지은 집 만큼이나 튼튼하고 강인한 드워프는 페이룬에서 가장 뛰어난 "
-"전사이자, 광부, 대장장이입니다."
+msgstr "자신들의 돌로 지어진 집 만큼이나 튼튼하고 굳센 드워프는 페이룬에서 가장 뛰어난 전사이자, 광부, 대장장이입니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17849,9 +17842,7 @@ msgctxt "hd31ae4dbg018ag4c40g9e4eg8dea6b03e1bc"
 msgid ""
 "Small, clever, and energetic, gnomes use their long lives to explore "
 "Faerûn's brightest corners and darkest depths."
-msgstr ""
-"작고 영리하며 에너지가 넘치는 노움들은 그들의 긴 수명을 활용해 페이룬의 가장 "
-"밝은 구석과 가장 어두운 골짜기 아래까지 탐험합니다."
+msgstr "작고 영리하며 기운 넘치는 노움들은 긴 수명을 활용해 페이룬의 가장 밝은 구석과 가장 어두운 심연 곳곳을 탐구하며 지냅니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -18116,8 +18107,8 @@ msgid ""
 "Astral Sea atop red dragons, bringing their silver swords and psionic might "
 "to bear against any trace of the illithid menace. "
 msgstr ""
-"마인드 플레이어의 노예였던 것에서 비롯된 무자비함으로 무장한 기스양키는 은검과 사이오닉 능력으로 일리시드의 위협에 맞서 싸우며 레드 "
-"드래곤을 타고 아스트랄계를 비행합니다. "
+"마인드 플레이어의 노예 시절 무자비한 성정이 형성된 기스양키는, 레드 드래곤에 올라 타 아스트랄계를 누비고 다니며, 일리시드의 그 어떤 "
+"위협도 놓치지 않고 은검과 사이오닉 능력으로 맞서 싸웁니다. "
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -19280,7 +19271,7 @@ msgctxt "hd03759f1g0714g42a6g8d5bg7f692830e9da"
 msgid ""
 "Grafted with infernal iron and burning with hellfire, these porcine brutes "
 "are filled with a distinct brand of malice. "
-msgstr "지옥의 무쇠가 접합되어 지옥불로 타오르는, 돼지와 같이 생긴 이 괴물들은 뚜렷한 악의로 가득 차 있습니다. "
+msgstr "지옥 철과 합체되어 지옥불로 타오르는 돼지같이 생긴 이 괴물들은 뚜렷한 악의로 가득 차 있습니다. "
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -21483,7 +21474,7 @@ msgctxt "h65e7afdag4928g428bg8fc4g444cb4cfe93f"
 msgid ""
 "A character in your party is dead! Use a Scroll of Revivify to resurrect "
 "them."
-msgstr "파티의 캐릭터가 사망했습니다! 부활시키려면 재활성화의 두루마리를 사용하세요."
+msgstr "파티의 캐릭터가 사망했습니다! 부활시키려면 소생의 두루마리를 사용하세요."
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -21492,7 +21483,7 @@ msgstr "파티의 캐릭터가 사망했습니다! 부활시키려면 재활성�
 #: Shared/Public/Shared/Tutorials/ModalTutorials.lsx:31
 msgctxt "hfd0497deg1d3ag4f56gaf75g94b2700a089f"
 msgid "Revivify"
-msgstr "재활성화"
+msgstr "소생"
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -21503,7 +21494,7 @@ msgctxt "h078c0f47g128bg4deag9c80g5942314ec320"
 msgid ""
 "A character in your party is dead! Use a Scroll of Revivify to resurrect "
 "them."
-msgstr "파티의 캐릭터가 사망했습니다! 부활시키려면 재활성화의 두루마리를 사용하세요."
+msgstr "파티의 캐릭터가 사망했습니다! 부활시키려면 소생의 두루마리를 사용하세요."
 
 #. FilePath = Shared/Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -23841,6 +23832,9 @@ msgid ""
 "again by the spell until after a <LSTag Tooltip=\"LongRest\">Long "
 "Rest</LSTag>."
 msgstr ""
+"영향을 받은 개체가 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 성공하여 <LSTag Type="
+"\"Spell\" Tooltip=\"Target_InstinctiveCharm\">본능적인 매혹</LSTag>에 저항하였습니다. "
+"<LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취하기 전까지는 다시 대상으로 지정할 수 없습니다."
 
 #. FilePath = Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -24120,10 +24114,9 @@ msgstr "<LSTag Type=\"Status\" Tooltip=\"SLEEP\">수면</LSTag>에 면역"
 #. HandlePath = DisplayName
 #. Identifier = CE_Tag_STEEL_WATCHER_False
 #: Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:344
-#, fuzzy
 msgctxt "h54d9cccag5013g47cdg821eg79ae13581088"
 msgid "Can only be used by Steel Watchers."
-msgstr "강철 감시단만이 사용할 수 있습니다."
+msgstr "스틸 워치만이 사용할 수 있습니다."
 
 #. FilePath = Shared/Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -24842,7 +24835,7 @@ msgid ""
 "Eldra Luthrinn, slayer of people, monsters, and cups of sweet pear tea, was "
 "shown a watery grave when hunting Absolutists in the valleys of the "
 "Chionthar."
-msgstr "인간과 괴물, 그리고 달콤한 배차 학살자인 엘드라 루트린은 차온타르 계곡에서 절대자들을 사냥할 때 익사한 줄 알려졌다."
+msgstr "인간과 괴물, 그리고 달콤한 배차 학살자인 엘드라 루트린은 차온타르 계곡에서 절대자 신도들을 사냥할 때 익사한 줄 알려졌다."
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -24860,11 +24853,12 @@ msgstr "엘드라 루스린"
 #. Name = Hireling_Bard
 #. Passives = DeathSavingThrows
 #: Shared/Public/SharedDev/Origins/Origins.lsx:36
+#, fuzzy
 msgctxt "h0e8378d5g4785g4ebbg88efg0c8741b88d40"
 msgid ""
 "Brinna Brightsong's bawdy crooning was silenced by an Absolute bloodbutcher "
 "after a controversial performance in a Triel tavern. "
-msgstr ""
+msgstr "브리나 브라이트송의 외설적인 노래는 트리엘 선술집에서의 논란이 된 공연 이후 절대자 피의 도살자에 의해 멈췄습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -25962,12 +25956,16 @@ msgstr "어두운 복수"
 #. HandlePath = Description
 #. SelectorId = FourElements
 #: Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx:307
+#, fuzzy
 msgctxt "he2264900gad99g45b9g82c9g0a03cb4599ea"
 msgid ""
 "You can use <LSTag Type=\"ActionResource\" Tooltip=\"KiPoint\">ki</LSTag> to "
 "power magic that harnesses the elements. These spells also trigger <LSTag "
 "Type=\"Spell\" Tooltip=\"Target_UnarmedStrike_Monk\">Unarmed Strike</LSTag>."
 msgstr ""
+"<LSTag Type=\"ActionResource\" Tooltip=\"KiPoint\">기</LSTag>를 사용해 원소를 활용하는 "
+"마법을 강화할 수 있습니다. 이 주문은 <LSTag Type=\"Spell\" Tooltip="
+"\"Target_UnarmedStrike_Monk\">비무장 공격</LSTag>을 발동시킵니다."
 
 #. FilePath = Shared/Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -26904,20 +26902,22 @@ msgstr "마름병"
 #. HandlePath = Description
 #. Name = Meazel
 #: Shared/Public/SharedDev/Races/Races.lsx:4198
+#, fuzzy
 msgctxt "hda18a9a7gf5adg41dcg9aefg7c70299729ef"
 msgid ""
 "Twisted, cruel hermits affected by the Shadowfell. Imbued with magic, they "
 "move through the shadows to snatch their victims."
-msgstr ""
+msgstr "섀도펠의 영향을 받아 뒤틀려진, 잔혹한 은둔자. 마법이 주입된 이들은 그림자 속에서 희생자를 낚아챕니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
 #. HandlePath = DisplayName
 #. Name = Meazel
 #: Shared/Public/SharedDev/Races/Races.lsx:4199
+#, fuzzy
 msgctxt "hc64f1633g864fg46d2g993eg89954b50a2bf"
 msgid "Meazel"
-msgstr ""
+msgstr "미젤"
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -26965,11 +26965,12 @@ msgstr "샤다카이"
 #. HandlePath = Description
 #. Name = Ghost
 #: Shared/Public/SharedDev/Races/Races.lsx:4231
+#, fuzzy
 msgctxt "hc4518abdg7921g49d2ga1fdg0880705a04be"
 msgid ""
 "The soul of a once-living creature, bound to the material plane by its "
 "desire to resolve some unfinished task from its life."
-msgstr ""
+msgstr "한때 살아있었던 이들의 영혼은, 물질계에 묶여 생전 마치지 못한 것을 끝마치려는 욕망만을 갈구합니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -26986,12 +26987,13 @@ msgstr "고스트"
 #. Name = CrawlingClaw
 #. RaceSoundSwitch = Crawling_Claw
 #: Shared/Public/SharedDev/Races/Races.lsx:4239
+#, fuzzy
 msgctxt "hb2f75cbegad9dg4b11gb461gfe42596a5414"
 msgid ""
 "Severed from their owners and skittering along on digits still stiff with "
 "rigor mortis, these hands can squeeze the breath from a throat in an "
 "instant. "
-msgstr ""
+msgstr "잘려 나간 손은 사후 경직된 손가락으로 잽싸게 움직이며 단번에 목을 조를 수도 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -27001,7 +27003,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Races/Races.lsx:4240
 msgctxt "h9fa90375g0755g4407g9a53g92e03995f134"
 msgid "Crawling Claw"
-msgstr ""
+msgstr "기어다니는 손"
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -27009,11 +27011,12 @@ msgstr ""
 #. Name = TollCollector
 #. RaceSoundSwitch = Toll_Collector
 #: Shared/Public/SharedDev/Races/Races.lsx:4256
+#, fuzzy
 msgctxt "hb966eacdg1e8bg4be1g8129g4c809c406a63"
 msgid ""
 "Bloated and putrescent with the rigors of undeath, the master of the "
 "Tollhouse gleams, a cursed avatar of greed."
-msgstr ""
+msgstr "불사의 고통으로 부풀고 부패한 통행료 징수소의 주인이자 저주받은 탐욕의 화신."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -27030,12 +27033,14 @@ msgstr "언데드"
 #. HandlePath = Description
 #. Name = Gremishka
 #: Shared/Public/SharedDev/Races/Races.lsx:4273
+#, fuzzy
 msgctxt "h33d017a9g2617g496agb944g71592206f1fd"
 msgid ""
 "The vicious product of spells gone wrong, these cat-like creatures delight "
 "in tormenting magic-users, relishing in the unstable effect magic has on "
 "them."
 msgstr ""
+"주문 실패의 피조물인 고양이 형상의 이 사악한 생물은 마법 사용자들을 고문하고, 이들 안의 불안정한 마법 잔재를 맛보는 걸 즐깁니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -27073,11 +27078,12 @@ msgstr "언데드"
 #. HandlePath = Description
 #. Name = ShadowMastiff
 #: Shared/Public/SharedDev/Races/Races.lsx:4298
+#, fuzzy
 msgctxt "hb244d89dgb71bg48f8g82f4ga64424602e5f"
 msgid ""
 "Often moving as a pack, these hounds of the Shadowfell slink from shadow to "
 "shadow, always on the hunt."
-msgstr ""
+msgstr "자주 떼지어 다니는 섀도우펠의 사냥개들은 그림자 속에서 은밀히 움직이며 사냥을 계속합니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -27093,20 +27099,22 @@ msgstr "그림자 마스티프"
 #. HandlePath = Description
 #. Name = Phasm
 #: Shared/Public/SharedDev/Races/Races.lsx:4306
+#, fuzzy
 msgctxt "h8ca7bd3bg8489g4d20g8d01gcba53499a5db"
 msgid ""
 "Hungry for new experiences, these creatures use any tactic - as well as "
 "their ability to polymorph - to sate their curiosity."
-msgstr ""
+msgstr "신선한 경험에 굶주린 이 생물은 호기심을 충족시키기 위해 모든 수단을 - 물론 변신 능력도 - 동원합니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
 #. HandlePath = DisplayName
 #. Name = Phasm
 #: Shared/Public/SharedDev/Races/Races.lsx:4307
+#, fuzzy
 msgctxt "h8fa83e25g707eg4b01g9bffga794397c78ad"
 msgid "Phasm"
-msgstr ""
+msgstr "파즘"
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -27484,7 +27492,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Races/Races.lsx:4478
 msgctxt "h2ee316f9g7bb7g4e8eg999dg884f18546521"
 msgid "Steel Watcher"
-msgstr ""
+msgstr "스틸 와쳐"
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -27585,7 +27593,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Races/Races.lsx:4524
 msgctxt "h3cb5f076gae61g456cga59ag4827ae7832d3"
 msgid "Death Knight"
-msgstr ""
+msgstr "죽음의 기사"
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -27730,7 +27738,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Races/Races.lsx:4580
 msgctxt "h49af715cgbd5bg4b87g9fcdg48c1695ab683"
 msgid "Vengeful Imp"
-msgstr ""
+msgstr "복수심에 불타는 임프"
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race

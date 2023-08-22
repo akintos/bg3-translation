@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-20 06:54+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-08-22 11:54+0000\n"
+"Last-Translator: Favmir <nevirful@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/tutorial/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -327,10 +327,10 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialShortRestMenu\"/>Initiate Short Rest"
 msgstr ""
 "짧은 휴식을 통해 체력의 절반을 회복하고 쓰러진 캐릭터를 구할 수 있습니다.\n"
-"일부 클래스는 짧은 휴식 중에도 리소스를 복구합니다. 리소스의 툴팁을 조사하여 복구 시점에 대해 자세히 알아보세요.\n"
+"일부 클래스는 짧은 휴식으로도 자원을 회복합니다. 자원의 툴팁을 보고 회복 시점에 대해 자세히 알아보세요.\n"
 "\n"
 "[IE_PanelSelect] 메뉴 열기\n"
-"<LSTag Type=\"Image\" Info=\"TutorialShortRestMenu\"/>짧은 휴식 시작하기"
+"<LSTag Type=\"Image\" Info=\"TutorialShortRestMenu\"/>짧은 휴식 취하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -380,10 +380,10 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialShortRest\"/>Initiate Short Rest"
 msgstr ""
 "짧은 휴식을 통해 체력의 절반을 회복하고 쓰러진 캐릭터를 구할 수 있습니다.\n"
-"일부 클래스는 짧은 휴식 중에도 리소스를 복구합니다. 리소스의 툴팁을 조사하여 복구 시점에 대해 자세히 알아보세요.\n"
+"일부 클래스는 짧은 휴식으로도 자원을 회복합니다. 자원의 툴팁을 보고 회복 시점에 대해 자세히 알아보세요.\n"
 "\n"
 "<LSTag Type=\"Image\" Info=\"TutorialCamp\"/>휴식 메뉴 열기\n"
-"<LSTag Type=\"Image\" Info=\"TutorialShortRest\"/>짧은 휴식 시작하기"
+"<LSTag Type=\"Image\" Info=\"TutorialShortRest\"/>짧은 휴식 취하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1322,7 +1322,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:274
 msgctxt "h4a6d05e8gbc65g4fd6g9a4cg2d18a0bacb9d"
 msgid "Hidden (Attack Advantage)"
-msgstr ""
+msgstr "숨기 (공격 이점)"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1333,7 +1333,7 @@ msgctxt "he1c3ebacg9e28g45c3gb3e6g0e212d755fb2"
 msgid ""
 "Move out of enemy sight and Hide. Hidden assailants get Advantage on "
 "attacks. "
-msgstr ""
+msgstr "적의 시야에서 벗어나 숨으세요. 숨은 공격자는 공격에 이점을 얻습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2466,6 +2466,8 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> <LSTag Type=\"Image\" "
 "Info=\"TutorialCureWounds\"/> Help character"
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> <LSTag Type=\"Image\" "
+"Info=\"TutorialCureWounds\"/> 캐릭터 돕기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2573,6 +2575,9 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> <LSTag Type=\"Image\" "
 "Info=\"TutorialCureWounds\"/> Help character"
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialDismissWildShape\"/> 야생 형상 해제\n"
+"<LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> <LSTag Type=\"Image\" "
+"Info=\"TutorialCureWounds\"/> 캐릭터 돕기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2737,7 +2742,7 @@ msgctxt "h0636633dgdc92g4fe8gb120g859bab5602b0"
 msgid ""
 "A member of your adventuring party has died! Use a Scroll of Revivify to "
 "bring them back to life."
-msgstr "동료 파티원이 사망했습니다! 부활시키려면 재활성화의 두루마리를 사용하세요."
+msgstr "동료 파티원이 사망했습니다! 부활시키려면 소생의 두루마리를 사용하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2752,7 +2757,7 @@ msgid ""
 msgstr ""
 "[IE_ToggleSpells] 행동 원형 메뉴 열기\n"
 "\n"
-"<LSTag Type=\"Image\" Info=\"TutorialRevivifyScroll\"/>재활성화의 두루마리 사용하기"
+"<LSTag Type=\"Image\" Info=\"TutorialRevivifyScroll\"/>소생의 두루마리 사용하기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2787,7 +2792,7 @@ msgctxt "h04e432edg1156g4cc6ga41fg2d8b79f94221"
 msgid ""
 "A member of your adventuring party has died! Use a Scroll of Revivify to "
 "bring them back to life."
-msgstr "동료 파티원이 사망했습니다! 부활시키려면 재활성화의 두루마리를 사용하세요."
+msgstr "동료 파티원이 사망했습니다! 부활시키려면 소생의 두루마리를 사용하세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2798,7 +2803,7 @@ msgctxt "h3ed77526g91ceg41bfga851g568749cbebc0"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialRevivifyScroll\"/> Use Scroll of "
 "Revivify"
-msgstr "<LSTag Type=\"Image\" Info=\"TutorialRevivifyScroll\"/> 재활성화의 두루마리 사용"
+msgstr "<LSTag Type=\"Image\" Info=\"TutorialRevivifyScroll\"/> 소생의 두루마리 사용"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4050,6 +4055,8 @@ msgid ""
 "Use [IE_FreeCameraToggleMouseRotate], [IE_CameraRotateRight], or "
 "[IE_CameraRotateLeft] to rotate the camera."
 msgstr ""
+"[IE_FreeCameraToggleMouseRotate], [IE_CameraRotateRight], 또는 "
+"[IE_CameraRotateLeft] 키를 눌러서 카메라를 회전해 보세요."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4869,6 +4876,7 @@ msgid ""
 "Your party is full. To recruit more people, you must send a companion back "
 "to camp in dialogue - where you can always add them back to the party later. "
 msgstr ""
+"파티가 가득 찼습니다. 인원을 더 모집하고 싶다면 동료와 대화해 야영지로 보내세요. 그곳에서 언제든 다시 파티에 참여시킬 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4877,7 +4885,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1008
 msgctxt "hb1d42bbfg9540g47f7ga20dg38b1bf211d33"
 msgid "Full Party"
-msgstr ""
+msgstr "파티 가득 참"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4889,6 +4897,7 @@ msgid ""
 "Your party is full. To recruit more people, you must send a companion back "
 "to camp in dialogue - where you can always add them back to the party later. "
 msgstr ""
+"파티가 가득 찼습니다. 인원을 더 모집하고 싶다면 동료와 대화해 야영지로 보내세요. 그곳에서 언제든 다시 파티에 참여시킬 수 있습니다. "
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4899,7 +4908,7 @@ msgctxt "h7761d895g29d8g4dc2ga9e4g829b2ae70273"
 msgid ""
 "Shadows aid a stealthy approach. The icon next to your character name "
 "indicates your shadow cover."
-msgstr ""
+msgstr "그림자 안에 있으면 은밀하게 행동하기 좋습니다. 그림자에 얼마나 가려졌는지는 캐릭터의 이름 옆에 있는 아이콘에 표시됩니다."
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5082,7 +5091,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1050
 msgctxt "hcbc442d1g84b1g42cag9976gc63b410c7dc9"
 msgid "[IE_PanelSelect] View Inspiration Points"
-msgstr ""
+msgstr "[IE_PanelSelect] 고양감 점수 보기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5139,6 +5148,7 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"Inspiration\"/> [IE_ToggleInspiration] Open "
 "Inspiration Menu"
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"Inspiration\"/> [IE_ToggleInspiration] 고양감 메뉴 열기"
 
 #. FilePath = Shared/Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial

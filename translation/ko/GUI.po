@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-20 06:54+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-08-22 11:54+0000\n"
+"Last-Translator: Valentyne <louisvalentine21@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -523,16 +523,14 @@ msgstr "신앙 선택"
 
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:3972
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3278
-#, fuzzy
-#| msgid "Your chosen Class must prepare spells before using them."
 msgctxt "he47d6cc7g50c3g4ab6g9027g2c54a173db29"
 msgid ""
 "You can only cast from a limited selection of spells at a time. Select which "
 "spells you have prepared from the total list of spells you know. Spells must "
 "be prepared outside of combat."
 msgstr ""
-"당장 선택 가능한 주문에 한하여서만 시전 할 수 있습니다. 당신이 알고 있는 모든 주문 중 어떤 주문을 준비해 둘 지 선택하십시오. "
-"주문은 전투 중이 아닐 때에만 준비할 수 있습니다."
+"한 번에 제한된 수의 주문만 선택하여 시전할 수 있습니다. 알고 있는 전체 주문 중에서 어떤 주문을 준비할지 선택하세요. 주문은 전투 "
+"중이 아닐 때에만 준비할 수 있습니다."
 
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:3976
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:3279
@@ -544,7 +542,7 @@ msgstr "준비된 주문"
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:2625
 msgctxt "h6ea184f4g802bg4712gac5cgdeaee9390e44"
 msgid "Show Ancestry"
-msgstr ""
+msgstr "혈통 보기"
 
 #: Game/Public/Game/GUI/Library/CCLib_k.xaml:4239
 #: Game/Public/Game/GUI/Library/CCLib_c.xaml:2868
@@ -2494,7 +2492,7 @@ msgstr "가시성 토글"
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2045
 msgctxt "h806a6b7cg41e7g4865gad5bg27046273972c"
 msgid "Toggle Overclothes"
-msgstr ""
+msgstr "겉옷 토글"
 
 #: Game/Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2060
 msgctxt "hfd571216g8e69g4699g8396gb764f90db389"
