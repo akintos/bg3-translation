@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-22 11:54+0000\n"
-"Last-Translator: 로켓 <nick0406@naver.com>\n"
+"PO-Revision-Date: 2023-08-23 12:53+0000\n"
+"Last-Translator: Favmir <nevirful@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/sharedlocalization/ko/>"
 "\n"
 "Language: ko\n"
@@ -438,7 +438,7 @@ msgid ""
 "Warning: the area you are about to enter will be bitterly difficult for a "
 "party of your level."
 msgstr ""
-"진행하기 전에 끝마치지 않은 것들을 마무리 하세요!\n"
+"진행하시겠습니까? 진입 전에 끝마치지 않은 것들을 마무리 하세요!\n"
 "경고: 진입하려는 지역은 현재 파티 레벨에겐 매우 어려운 난이도입니다."
 
 #. key = ReadyCheck_RegionSwap_LowLevel
@@ -454,7 +454,7 @@ msgid ""
 "Warning: the area you are about to enter will be bitterly difficult for a "
 "party of your level."
 msgstr ""
-"진행하기 전에 끝마치지 않은 것들을 마무리 하세요!\n"
+"진행하시겠습니까? 진입 전에 끝마치지 않은 것들을 마무리 하세요!\n"
 "경고: 진입하려는 지역은 현재 파티 레벨에겐 매우 어려운 난이도입니다."
 
 #. key = ReadyCheck_YouAreNotReady
@@ -5882,7 +5882,7 @@ msgctxt "h6cfe88d4g6dedg40edga8bbg19e3e77e49cc"
 msgid ""
 "Are you sure you want to proceed? Depending on your choices, the state of "
 "the region could change and some active quests may become unavailable."
-msgstr ""
+msgstr "계속 진행하시겠습니까? 당신의 선택에 따라 이 지역의 상황이 변하거나 일부 활성화된 퀘스트가 비활성화될 수 있습니다."
 
 #. key = ORI_Laezel_OrpheusChapter1_RealDisplayName
 #. 
@@ -5981,7 +5981,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:29
 msgctxt "h071b85bbg86d4g41c7g9703g873173410daa"
 msgid "Commander Lightfeather"
-msgstr ""
+msgstr "라이트페더 사령관"
 
 #. key = Posthouse_Tressym_Unknown
 #. 
@@ -6237,7 +6237,7 @@ msgstr "\"완벽\""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:183
 msgctxt "h0c5aa226g032eg40c7gb4b0gc332ec30469c"
 msgid "Sharran Sanctuary"
-msgstr ""
+msgstr "샤 교도의 성소"
 
 #. key = TWN_Distillery_AlchemyStash_Note
 #. 
@@ -6298,7 +6298,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:190
 msgctxt "hc2101075ga435g4cbegb08bgaa2db1f842f9"
 msgid "House of Healing - Morgue"
-msgstr ""
+msgstr "치유의 집 - 시체안치소"
 
 #. key = TWN_Hospital_SUB
 #. 
@@ -6309,7 +6309,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:106
 msgctxt "hd4d0ee23g63ddg4ed0gb871g96162f939bba"
 msgid "House of Healing"
-msgstr ""
+msgstr "치유의 집"
 
 #. key = TWN_LiftingTheCurse_Spirit
 #. 
@@ -6353,7 +6353,7 @@ msgstr "라이스윈 통행료 징수소"
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:85
 msgctxt "he7fa6823g84bcg46c4g96cbg011ebc842cd2"
 msgid "Tollhouse Hideaway"
-msgstr ""
+msgstr "통행료 징수소 은닉처"
 
 #. key = UND_AdamantineForge_SUB
 #. 
@@ -6738,7 +6738,7 @@ msgstr "강가의 찻집"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:8
 msgctxt "h637a26d1g7d75g49ffg8241g5c85a19dd837"
 msgid "Last Light Inn"
-msgstr "라스트 라이트 여관"
+msgstr "최후의 빛 여관"
 
 #. key = WAYP_LOW_BaldursGateArea
 #. 
@@ -6805,7 +6805,7 @@ msgstr "도시 하수도"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:120
 msgctxt "h4b4a6b21g0ebcg4da1gb56ag23624fed304f"
 msgid "Heapside Strand"
-msgstr ""
+msgstr "힙사이드 수로"
 
 #. key = WAYP_LOW_DocksArea
 #. 
@@ -7069,7 +7069,7 @@ msgstr "리빙턴"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:57
 msgctxt "h98a10e01gd6c0g4b65gba68g80e9fd519003"
 msgid "South Span of Wyrm's Crossing "
-msgstr "고룡 다리 남쪽 구간 "
+msgstr "고룡 다리 남쪽 경간 "
 
 #. key = WAYP_WYR_WyrmRock
 #. 
@@ -7125,7 +7125,7 @@ msgstr "단셀론의 춤추는 도끼"
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:99
 msgctxt "h50dfc24cge0f4g4b4bg8390ge65569746342"
 msgid "Requisitioned Barn"
-msgstr ""
+msgstr "징발된 외양간"
 
 #. key = WYR_Blacksmith_Cellar_SUB
 #. 
@@ -7136,7 +7136,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:22
 msgctxt "h0bbd1d33g3d42g4185g9180g914f5fc6765c"
 msgid "Angleiron's Cellar"
-msgstr ""
+msgstr "앵글아이언의 지하실"
 
 #. key = WYR_Bridge_SUB
 #. 
@@ -7379,7 +7379,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:85
 msgctxt "hb6c7a441g928ag4292gacd1g4bba47f94157"
 msgid "Arfur's Basement"
-msgstr ""
+msgstr "아르푸르의 지하실"
 
 #. key = WYR_MerchantsHouse_SUB
 #. 
@@ -7390,7 +7390,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:197
 msgctxt "haa5843edg6210g4614gb2fag7cc0300aa9bf"
 msgid "Arfur's Mansion"
-msgstr ""
+msgstr "아르푸르의 저택"
 
 #. key = WYR_OpenHandTemple_SUB
 #. 
@@ -7437,7 +7437,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:1072
 msgctxt "hf2e3a5edg98cdg4a70gb452g764b7786ceba"
 msgid "Sword Coast Couriers"
-msgstr ""
+msgstr "소드 코스트 특송"
 
 #. key = WYR_Prison_SUB
 #. 
@@ -7613,7 +7613,7 @@ msgstr "샤레스의 애무 상층"
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:1093
 msgctxt "h2a22bdc1g09f4g4bfdg9c9ag325926540b07"
 msgid "South Span Checkpoint"
-msgstr ""
+msgstr "남쪽 경간 검문소"
 
 #. key = WYR_Windmill_SUB
 #. 
@@ -7624,7 +7624,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:1086
 msgctxt "hfd9273a2g5e41g409egb601gb6f4c26476a4"
 msgid "Abandoned Windmill"
-msgstr ""
+msgstr "버려진 풍차"
 
 #. key = WYR_Windmill_SUB_Basement
 #. 
@@ -7635,7 +7635,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:1121
 msgctxt "hc71da789gd4dbg4466g89f3ga427f864e932"
 msgid "Windmill Basement"
-msgstr ""
+msgstr "풍차 지하실"
 
 #. key = WYR_Wyrmway_SUB
 #. 
@@ -7646,7 +7646,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:239
 msgctxt "h08bdc639g96d9g4d2bga6b6g0eebe727f82e"
 msgid "The Wyrmway"
-msgstr ""
+msgstr "고룡길"
 
 #. key = WYR_Wyrmway_SUB_Chess
 #. 
@@ -7657,7 +7657,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:232
 msgctxt "hc52cd0c1g2409g4028gb6a3g7ad7ea5e1ea9"
 msgid "Chamber of Strategy"
-msgstr ""
+msgstr "전략의 방"
 
 #. key = WYR_Wyrmway_SUB_Courage
 #. 
@@ -7668,7 +7668,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:260
 msgctxt "h62032abbge9d4g41c3gb887gc454936958df"
 msgid "Chamber of Courage"
-msgstr ""
+msgstr "용기의 방"
 
 #. key = WYR_Wyrmway_SUB_DragonArena
 #. 
@@ -7679,7 +7679,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:267
 msgctxt "h5ee0be5fg0896g4c79gb238g2eef6e759826"
 msgid "Dragon's Sanctum"
-msgstr ""
+msgstr "드래곤의 성소"
 
 #. key = WYR_Wyrmway_SUB_Insight
 #. 
@@ -7690,7 +7690,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:253
 msgctxt "hac5978c1gc49dg4bf3g9442g3e1a506c04c4"
 msgid "Chamber of Insight"
-msgstr ""
+msgstr "통찰의 방"
 
 #. key = WYR_Wyrmway_SUB_Justice
 #. 
@@ -7701,7 +7701,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:246
 msgctxt "hca085011g2469g4350gb084g6d042c8ccc5a"
 msgid "Chamber of Justice"
-msgstr ""
+msgstr "정의의 방"
 
 #. key = WYR_Wyrmway_SolutionPainting1Name
 #. 
