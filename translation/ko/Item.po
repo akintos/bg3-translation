@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-23 12:53+0000\n"
+"PO-Revision-Date: 2023-08-24 16:35+0000\n"
 "Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/item/ko/>\n"
 "Language: ko\n"
@@ -4687,11 +4687,12 @@ msgstr ""
 #. TechnicalDescriptionParams = -1;-1d4
 #. Type = item
 #: Shared/Public/SharedDev/RootTemplates/01985597-fceb-47d1-93ae-9cc9928ed9e7.lsx:8
+#, fuzzy
 msgctxt "h779594acgea92g4155g8bd5g39e85bbb0f24"
 msgid ""
 "Gazing through the glass bottle, everything seems shrunken and contracted - "
 "almost gaunt."
-msgstr ""
+msgstr "이 유리병 너머로 보이는 것들은, 전부 작고 약하며 거의 수척해보이기까지 합니다."
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/01985597-fceb-47d1-93ae-9cc9928ed9e7.lsx
 #. NodeID = GameObjects
@@ -4702,6 +4703,7 @@ msgstr ""
 #. TechnicalDescriptionParams = -1;-1d4
 #. Type = item
 #: Shared/Public/SharedDev/RootTemplates/01985597-fceb-47d1-93ae-9cc9928ed9e7.lsx:18
+#, fuzzy
 msgctxt "h20fb3dc2geb06g4090gab48g8709ac0e72fc"
 msgid ""
 "Coat your weapon in oil: it receives a [1] penalty to damage, but targets "
@@ -4710,6 +4712,9 @@ msgid ""
 "Tooltip=\"AbilityCheck\">Checks</LSTag> and saves. They also receive a [2] "
 "penalty to melee damage."
 msgstr ""
+"무기에 바릅니다. 피해량에 [1] 페널티를 받지만, 공격 대상은 건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
+"LSTag>에 실패하면 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 내성 굴림에 <LSTag "
+"Tooltip=\"Disadvantage\">불리점</LSTag>을 받고, 근접 공격 피해량에 [2] 페널티를 받습니다."
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/01985597-fceb-47d1-93ae-9cc9928ed9e7.lsx
 #. NodeID = GameObjects
@@ -4722,7 +4727,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/01985597-fceb-47d1-93ae-9cc9928ed9e7.lsx:9
 msgctxt "h311f76a7ga060g4146ga683gfd11ff1a3d89"
 msgid "Oil of Diminution"
-msgstr ""
+msgstr "약화의 기름"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/e4f7cb7f-1cb3-411b-b078-f4ac25b750a8.lsx
 #. NodeID = GameObjects
@@ -30374,7 +30379,7 @@ msgstr "머그잔"
 #: Shared/Public/Shared/RootTemplates/2add6f00-eb1c-4f86-bf7f-73e2c68ad5de.lsx:19
 msgctxt "h13caa591g1bb0g4b09gac21g42820690b72c"
 msgid "Worn smooth by warmed hands."
-msgstr "따뜻한 손으로 닳아 해졌습니다."
+msgstr "따뜻한 손에 닳아 해졌습니다."
 
 #. FilePath = Shared/Public/Shared/RootTemplates/2add6f00-eb1c-4f86-bf7f-73e2c68ad5de.lsx
 #. NodeID = GameObjects
@@ -35125,7 +35130,7 @@ msgstr "어망"
 #: Shared/Public/Shared/RootTemplates/df2f61bb-be7c-48d0-a9fd-1bfe8d5be73a.lsx:23
 msgctxt "h6f744071ge8fag461fg9e49g6b1205d27d50"
 msgid "A length of strong, hand-braided rope."
-msgstr "손으로 땋은 튼튼한 로프입니다."
+msgstr "손으로 땋은 튼튼한 밧줄입니다."
 
 #. FilePath = Shared/Public/Shared/RootTemplates/df2f61bb-be7c-48d0-a9fd-1bfe8d5be73a.lsx
 #. NodeID = GameObjects
@@ -54174,9 +54179,8 @@ msgid ""
 "seen any of the like, yet part of you recognises it as a component of some "
 "bigger machine."
 msgstr ""
-"이 외계 물체에서 이상한 에너지가 윙윙거립니다. 이런 물체를 본 적이 없다고 "
-"확신하지만, 마음 한구석에서는 이 물체가 거대한 기계의 부품이라는 것을 "
-"알아챕니다."
+"이 외계 물체에서 이상한 에너지가 윙윙거립니다. 이런 물체는 처음 보는 것 같지만, 당신의 일부가 이 물체가 다른 기계의 부품이라는 것을 "
+"알아봅니다."
 
 #. FilePath = Shared/Public/Shared/RootTemplates/6ce06d40-aef0-405d-9860-98c0df7cbe1b.lsx
 #. NodeID = GameObjects
@@ -54187,7 +54191,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/6ce06d40-aef0-405d-9860-98c0df7cbe1b.lsx:15
 msgctxt "h025f2815g456eg4691g9068g76e77699f87c"
 msgid "Eldritch Rune"
-msgstr "엘드리치의 룬"
+msgstr "섬뜩한 룬"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/d1896edc-a99f-4ccb-9748-2eed1a6d691d.lsx
 #. NodeID = GameObjects
@@ -64073,7 +64077,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/98f2cb6a-e268-4f99-aac3-62edabd8774c.lsx:15
 msgctxt "hc12c7653gca52g4374gbc91gdd93cea6355e"
 msgid "Concussion Grenade"
-msgstr ""
+msgstr "뇌진탕 수류탄"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/f36d0687-46e4-4899-930e-8f635e50948e.lsx
 #. NodeID = GameObjects
@@ -64087,6 +64091,7 @@ msgid ""
 "Grant nearby Steel Watchers an additional <LSTag Tooltip=\"Action\">action</"
 "LSTag> with roiling arcana."
 msgstr ""
+"요동치는 비전으로 주변의 모든 스틸 와쳐에게 <LSTag Tooltip=\"Action\">행동</LSTag>을 하나 더 부여합니다."
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/f36d0687-46e4-4899-930e-8f635e50948e.lsx
 #. NodeID = GameObjects
@@ -68978,8 +68983,7 @@ msgctxt "h46992bbcgdba8g4f86g8049ge699885f93a9"
 msgid ""
 "This collection of hooks, picks, and wrenches is extensive enough to pick "
 "any lock - if you've got the necessary skills."
-msgstr "이 갈고리, 집게와 렌치의 컬렉션은 필요한 기술만 있다면 어떤 자물쇠라도 열 수 "
-"있을 만큼 다양합니다."
+msgstr "이 갈고리, 송곳과 렌치 묶음에 적당한 기술만 더해진다면 어떤 자물쇠라도 열 수 있습니다."
 
 #. FilePath = Shared/Public/Shared/RootTemplates/08851ac0-3bfa-44f3-80c6-6ab0536f0e10.lsx
 #. NodeID = GameObjects
@@ -70019,7 +70023,7 @@ msgstr "파괴용 망치"
 #: Shared/Public/Shared/RootTemplates/63400c5f-cc10-4009-8d8f-b01dbb47060a.lsx:33
 msgctxt "h842090d3g7f2dg43a3g81dbga04fd640b88d"
 msgid "A length of strong, hand-braided rope."
-msgstr "손으로 땋은 튼튼한 로프입니다."
+msgstr "손으로 땋은 튼튼한 밧줄입니다."
 
 #. FilePath = Shared/Public/Shared/RootTemplates/a79a6a96-0ce7-4f17-b915-1c381dfa0edf.lsx
 #. NodeID = GameObjects
@@ -72493,7 +72497,7 @@ msgstr "이 두루마리는 아직 누구도 읽지 않았습니다."
 #: Gustav/Public/GustavDev/RootTemplates/c56a5d58-ac72-43c8-bf7d-06355e3ec7f8.lsx:15
 msgctxt "h19b3b5c2gd90ag4a37gb710g595a91f1cb32"
 msgid "Stained Letter"
-msgstr ""
+msgstr "얼룩진 편지"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/7b290606-909c-437b-991a-f2e125d271bb.lsx
 #. NodeID = GameObjects
@@ -74379,7 +74383,7 @@ msgstr "이 목걸이의 보석과 진주는 마치 보이지 않는 달빛을 �
 #: Gustav/Public/Gustav/RootTemplates/e7bf966a-b611-4c36-89fe-0a3b28393d97.lsx:11
 msgctxt "hcc13650cge610g4c82gac4agf6403872c0cc"
 msgid "Amulet of Selûne's Chosen"
-msgstr "셀루네의 초즌의 아뮬렛"
+msgstr "셀루네의 선택받은 자의 아뮬렛"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/3d57c1a7-2dee-4a0f-aa7a-e7b6574b75e3.lsx
 #. NodeID = GameObjects

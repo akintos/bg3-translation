@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-23 12:53+0000\n"
-"Last-Translator: 로켓 <nick0406@naver.com>\n"
+"PO-Revision-Date: 2023-08-24 16:34+0000\n"
+"Last-Translator: EDIX <mbc1982@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/stats/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1711,8 +1711,8 @@ msgid ""
 "bonus to <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> and damage."
 msgstr ""
 "시전자가 <LSTag Type=\"Status\" Tooltip=\"MAG_CHARGED_LIGHTNING\">번개 충전</LSTag> "
-"상태일 때, 이 무기는 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 데미지에 +[1]만큼의 보너스를 "
-"받습니다."
+"상태일 때, 이 무기는 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 피해량에 +[1] 보너스를 "
+"가집니다."
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Passive.txt:1045
 msgctxt "hf40271e5g32dfg4c20ga383g511bed0866a4"
@@ -2434,8 +2434,8 @@ msgid ""
 ">Strength</LSTag> by 2 and grant <LSTag Tooltip=\"Resistant\">Resistance</"
 "LSTag> to physical damage."
 msgstr ""
-"턴당 한번의 추가 공격을 얻습니다. <LSTag Tooltip=\"Strength\">근력</LSTag>이 2 증가하고 물리 데미지 "
-"<LSTag Tooltip=\"Resistant\">저항</LSTag>을 제공합니다."
+"턴당 한 번의 추가 공격을 얻습니다. <LSTag Tooltip=\"Strength\">근력</LSTag>이 2 증가하고 물리 피해에 "
+"<LSTag Tooltip=\"Resistant\">저항</LSTag>을 부여합니다."
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Spell_Shout.txt:300
 msgctxt "h97a78675g2dd2g4decg8ca0g932983f97cd6"
@@ -3163,8 +3163,8 @@ msgid ""
 "increased by 2 and has <LSTag Tooltip=\"Resistant\">Resistance</LSTag> to "
 "all physical damage."
 msgstr ""
-"아울베어가 격노 상태입니다! <LSTag Tooltip=\"Strength\">근력</LSTag>이 2 증가하고 모든 물리 "
-"데미지에<LSTag Tooltip=\"Resistant\">저항</LSTag>을 가집니다."
+"아울베어가 격노 상태입니다! <LSTag Tooltip=\"Strength\">근력</LSTag>이 2 증가하고 모든 물리 피해에 "
+"<LSTag Tooltip=\"Resistant\">저항</LSTag>을 가집니다."
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Status_BOOST.txt:102
 msgctxt "h66008ef3gebabg4c9bg9738g6505b7480ea9"
@@ -3198,7 +3198,7 @@ msgid ""
 "\"Strength\">Strength</LSTag> increased by 2 and has <LSTag Tooltip="
 "\"Resistant\">Resistance</LSTag> to physical damage."
 msgstr ""
-"크리쳐가 격노 상태입니다! <LSTag Tooltip=\"Strength\">근력</LSTag>이 2 증가하고 모든 물리 데미지에 "
+"크리쳐가 격노 상태입니다! <LSTag Tooltip=\"Strength\">근력</LSTag>이 2 증가하고 모든 물리 피해에 "
 "<LSTag Tooltip=\"Resistant\">저항</LSTag>을 가집니다."
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Status_BOOST.txt:136
@@ -3238,7 +3238,7 @@ msgid ""
 "<LSTag Tooltip=\"Resistant\">Resistance</LSTag> to all physical damage."
 msgstr ""
 "부티르가 격노 상태입니다! <LSTag Tooltip=\"Strength\">근력</LSTag>이 4 증가하고 방어도가 2 감소하며 모든 "
-"물리 데미지에<LSTag Tooltip=\"Resistant\">저항</LSTag>을 가집니다."
+"물리 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 가집니다."
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Status_BOOST.txt:170
 msgctxt "hbf684453g96d0g41e2ga059g786bb9c43d73"
@@ -4197,7 +4197,7 @@ msgid ""
 "Perception Checks. Additionally, you have Disadvantage when attacking Hags."
 msgstr ""
 "위협 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 +[1] 보너스를 얻지만, 지각 판정과 마녀를 향한 "
-"공격 굴림에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
+"명중 굴림에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Status_BOOST.txt:1074
 msgctxt "hb0eb29acg72f3g4258ga9feg1b3373708b84"
@@ -5527,7 +5527,7 @@ msgid ""
 "Gale is <LSTag Tooltip=\"Immune\">Immune</LSTag> to Fire, Acid, Cold, Force, "
 "and Thunder damage unless the damage dealt exceeds 10 points."
 msgstr ""
-"게일은 10 이하의 화염, 산성, 냉기, 역장, 그리고 천둥 데미지에 <LSTag Tooltip=\"Immune\""
+"게일은 10 이하의 화염, 산성, 냉기, 역장, 그리고 천둥 피해에 <LSTag Tooltip=\"Immune\""
 ">면역</LSTag>입니다."
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Status_BOOST.txt:2410
@@ -6033,7 +6033,7 @@ msgctxt "h8ac4f74egaa35g4277ga785g646ea05269db"
 msgid ""
 "The creature takes half damage on a successful <LSTag Tooltip=\"SavingThrow\""
 ">Saving Throws</LSTag>.."
-msgstr "<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 성공하면 절반의 데미지만 입습니다."
+msgstr "<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 성공하면 절반의 피해만 입습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Interrupt.txt:25
 msgctxt "hac87e9a5g95dcg4df9g92d6ga9848e3256ae"
@@ -6297,8 +6297,8 @@ msgid ""
 "LSTag>. Take half damage from the next elemental attack targetting you, and "
 "deal an additional [1] of that element type on your next attack."
 msgstr ""
-"<LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag>당 한번 원소 데미지를 흡수합니다. 다음 원소 데미지 공격에서 "
-"절반의 피해만 입고, 자신의 공격에 동일 원소 데미지 [1]를 부여합니다."
+"<LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag>당 한번 원소 피해를 흡수합니다. 다음 원소 공격에서 절반의 "
+"피해만 입고, 자신의 다음 공격은 동일 원소 유형의 [1]를 추가로 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3
 msgctxt "h87ebf676g2b1cg45dega9c8g48c5fdc78b03"
@@ -6669,10 +6669,10 @@ msgid ""
 msgstr ""
 "치라이 와르가즈에게 흡수당하고 있습니다.\n"
 "\n"
-"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 -[1] 페널티를 받고 정신 데미지에 <LSTag "
-"Tooltip=\"Vulnerable\">취약</LSTag>상태가 됩니다.\n"
+"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 -[1] 페널티를 받고 정신 피해에<LSTag "
+"Tooltip=\"Vulnerable\">취약</LSTag>한 상태가 됩니다.\n"
 "\n"
-"영향을 받는 개체가 치라이 와르가즈에게 피해를 입히면 해제됩니다."
+"영향을 받는 개체가 치라이 와르가즈에게 피해를 가하면 상태가 종료됩니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:244
 msgctxt "h687fc25egc94bg4693ga12fgde45084c7caa"
@@ -6970,7 +6970,7 @@ msgid ""
 "Tooltip=\"CriticalHit\">Critical Hit</LSTag>."
 msgstr ""
 "<LSTag Type=\"Status\" Tooltip=\"DOPPELGANGER_OFFBALANCE\">도플갱어에게 매복</"
-"LSTag>당한 크리쳐에게 가해지는 <LSTag Tooltip=\"AttackRoll\">공격 굴림</LSTag>이 성공하면 <LSTag "
+"LSTag>당한 크리쳐에게 가해지는 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>이 성공하면 <LSTag "
 "Tooltip=\"CriticalHit\">치명타</LSTag>로 적중합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:438
@@ -7539,8 +7539,8 @@ msgid ""
 "This creature can see through magical and non-magical darkness, and cannot "
 "be <LSTag Type=\"Status\" Tooltip=\"BLINDED\">Blinded</LSTag>."
 msgstr ""
-"이 그리쳐는 어둠(마법적이든 일반적이든) 너머로 볼 수 있으며, <LSTag Type=\"Status\" Tooltip=\"BLINDED"
-"\">실명</LSTag> 상태가 될 수 없습니다."
+"이 크리쳐는 마법적인 어둠과 일반적인 어둠 속에서도 앞을 볼 수 있으며, <LSTag Type=\"Status\" Tooltip="
+"\"BLINDED\">실명</LSTag> 상태가 될 수 없습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:921
 msgctxt "h0812a2adg04cfg4fe6g9281gff418f2f3572"
@@ -7880,8 +7880,8 @@ msgid ""
 "LSTag>. Take half damage from the next elemental attack targetting you, and "
 "deal an additional [1] of that element type on your next attack."
 msgstr ""
-"<LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag>당 한번 원소 피해를 흡수합니다. 내가 받는 원소 피해량이 "
-"절반으로 감소하고 다음 공격에 공격받은 것과 동일한 원소 피해를 [1] 만큼 더합니다."
+"<LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag>당 한번 원소 피해를 흡수합니다. 다음 원소 공격에서 절반의 "
+"피해만 입고, 자신의 다음 공격은 동일 원소 유형의 [1]를 추가로 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:1159
 msgctxt "habe46d08g7762g41c0g9cefgeb22e36285c7"
@@ -8427,9 +8427,10 @@ msgstr ""
 "\"POISONED\">중독</LSTag> 상태가 됩니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:1498
+#, fuzzy
 msgctxt "h6ca28184gb0eeg41b9g8888g184e7c14bb1a"
 msgid "Deadly Derivation"
-msgstr ""
+msgstr "치명적인 파생물"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:1499
 msgctxt "hae52437bg1cb5g44b5gba3ag6f068ba6caff"
@@ -8840,7 +8841,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:1724
 msgctxt "h14b285aag980cg4e8dg9d1fgec61e7aba0e4"
 msgid "Craterous Wounds"
-msgstr ""
+msgstr "구멍투성이 상처"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:1725
 msgctxt "h485c5d37g241dg453fg8555g0406d28f1476"
@@ -9252,7 +9253,7 @@ msgctxt "he337f1fcg5a97g4d5bg8549g223c6666402a"
 msgid ""
 "The wearer deals an additional [1] damage with Throw Attacks and attacks "
 "made with Improvised Weapons."
-msgstr "착용자의 던지기 공격과 즉석 무기 공격에 [1] 데미지가 추가됩니다."
+msgstr "착용자의 던지기 공격과 즉석 무기 공격이 [1] 피해를 추가로 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:1965
 msgctxt "h0e3d676dgb72ag49ccga11dgbee694921181"
@@ -9408,7 +9409,7 @@ msgid ""
 "You have <LSTag Tooltip=\"Resistant\">Resistance</LSTag> to Fire damage and "
 "a +[1] bonus to <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
-"화염 데미지에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 가지고 <LSTag Tooltip="
+"화염 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 가지고 <LSTag Tooltip="
 "\"SavingThrow\">내성 굴림</LSTag>에 +[1] 보너스를 받습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2043
@@ -9423,13 +9424,13 @@ msgid ""
 "caster receives <LSTag Type=\"Status\" Tooltip=\"BURNING\">Burning</LSTag> "
 "for [1] turns. "
 msgstr ""
-"<LSTag Tooltip=\"SavingThrow\">내성굴림</LSTag>에 성공 할 경우, 시전자가 [1] 턴 동안 <LSTag "
-"Type=\"Status\" Tooltip=\"BURNING\">연소</LSTag>상태가 됩니다. "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 성공할 경우, 그 굴림을 요구한 시전자가 [1] 턴 "
+"동안 <LSTag Type=\"Status\" Tooltip=\"BURNING\">연소</LSTag> 상태를 얻습니다. "
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2052
 msgctxt "ha2e6afcbga851g4e2ag9549g76cc692e371b"
 msgid "Prime Aegis of Fire"
-msgstr "근본의 화염 아이기스"
+msgstr "최상급 화염 아이기스"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2053
 msgctxt "hec8a356bg9a34g47e3g9718g33bf490de21a"
@@ -9438,8 +9439,8 @@ msgid ""
 "cannot be <LSTag Type=\"Status\" Tooltip=\"BURNING\">Burned</LSTag>. You "
 "take [1] less damage from all sources."
 msgstr ""
-"화염 데미지에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 가지고 <LSTag Type=\"Status\" "
-"Tooltip=\"BURNING\">연소</LSTag>상태가 될 수 없습니다. 모든 공격에서 받는 데미지가 [1] 줄어듭니다."
+"화염 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 가지고 <LSTag Type=\"Status\" "
+"Tooltip=\"BURNING\">연소</LSTag>상태가 될 수 없습니다. 받는 모든 피해가 [1] 만큼 감소합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2059
 msgctxt "h91cca6d7g0284g43a2gb588g6cdb5ab2f2ee"
@@ -9791,7 +9792,7 @@ msgstr "비무장 공격이 [1]를 추가로 가합니다."
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2265
 msgctxt "hef04c685gfd96g4d0agb950g926c389af051"
 msgid "Enervating Suffusion"
-msgstr ""
+msgstr "충만한 기운"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2266
 msgctxt "h4c860630gfa22g4594g8072g8cb631da79db"
@@ -9836,7 +9837,7 @@ msgstr "영혼 주먹"
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2300
 msgctxt "h5d5921d7ga940g4f9cg823ag82f51da007e3"
 msgid "Soul Catching"
-msgstr "영혼 잡이"
+msgstr "영혼잡이"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2301
 msgctxt "hcf8b49ceg8a03g49aegab8bgfb7d29ccddf0"
@@ -10341,7 +10342,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2615
 msgctxt "h14bb2ed0gfdfcg41d1g8f4fg7616054f5657"
 msgid "Dolor Amarus"
-msgstr ""
+msgstr "쓰라린 비탄"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2616
 msgctxt "hbea31881gb41cg4adagbd4cg6fc6bd561bf2"
@@ -10497,8 +10498,8 @@ msgid ""
 "\"INVISIBILITY\">Invisible</LSTag>."
 msgstr ""
 "<LSTag Type=\"Status\" Tooltip=\"SNEAKING\">은신</LSTag>이나 <LSTag Type=\"Status"
-"\" Tooltip=\"INVISIBILITY\">투명화</LSTag> 상태일 때 이 무기로 크리쳐를 타격 시 <LSTag Type="
-"\"Status\" Tooltip=\"BLEEDING\">출혈</LSTag>을 유발시킬 수 있습니다."
+"\" Tooltip=\"INVISIBILITY\">투명화</LSTag> 상태일 때 이 무기로 크리쳐를 타격 하면, 일정 확률로 "
+"<LSTag Type=\"Status\" Tooltip=\"BLEEDING\">출혈</LSTag>을 부여합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2722
 msgctxt "h4c517878gaff7g4cf9g80ebg1485fb167ac4"
@@ -10544,7 +10545,7 @@ msgstr "소서러의 혼돈의 파도가 활성화된 동안, 주문을 시전�
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2747
 msgctxt "h80f06681g9c71g4a7bgb770ge9b92fe57621"
 msgid "Semblance of Fey"
-msgstr ""
+msgstr "페이의 외형"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2748
 msgctxt "h97001f34g2ef6g49aagbf29g835b5fe703c7"
@@ -10616,7 +10617,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2781
 msgctxt "h9e579063gc086g4828g8837g5b3067d8554d"
 msgid "Malebolge Stinger"
-msgstr ""
+msgstr "말볼그 스팅어"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2782
 msgctxt "h11a618a5g6bd5g4d48gaba1gfc7784d80d99"
@@ -10798,7 +10799,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2883
 msgctxt "h74969443gf85bg45b4ga2b3g40a4fe7911ba"
 msgid "Withering Cut"
-msgstr ""
+msgstr "시드는 상처"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:2884
 msgctxt "h1c73d482ga6f3g4c33g90edg4b33345cb51d"
@@ -11292,7 +11293,7 @@ msgstr "자신의 턴이 시작될 때, 반지가 활성화되어 [1]을 회복�
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3187
 msgctxt "hda1ad612g90d3g4f5fgb5e5g5e7a603b4dab"
 msgid "Quickspell Flinger"
-msgstr ""
+msgstr "신속주문 장갑"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3188
 msgctxt "hc41d1544g8799g4a29g96e0g36bb86d5610c"
@@ -11368,7 +11369,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3248
 msgctxt "hcf3081ddgc627g475egb71cg50f14009c883"
 msgid "Seeking Spell"
-msgstr ""
+msgstr "유도 주문"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3249
 msgctxt "hf10d3b19gf204g481ag81e0gc655e95b51b3"
@@ -11402,7 +11403,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3267
 msgctxt "h7f619e1dg61e8g446fgbed3g01accb98ff97"
 msgid "Heightened Manoeuvre"
-msgstr ""
+msgstr "고조된 전술"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3268
 msgctxt "h8037c92bgc50cg4c88g8c13gbea95b500b18"
@@ -11411,6 +11412,8 @@ msgid ""
 "Tooltip=\"SavingThrow\">Saving Throws</LSTag> against your manoeuvre and "
 "weapon actions. "
 msgstr ""
+"적들은 당신의 전술과 무기 행동에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag "
+"Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다. "
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3273
 msgctxt "h8f08f8b4g66b1g4be7g893fg68d406c9ebbf"
@@ -11438,11 +11441,13 @@ msgid ""
 "hand, gain a +[1] bonus to melee weapon <LSTag Tooltip=\"AttackRoll\">Attack "
 "Rolls</LSTag>."
 msgstr ""
+"주 무기 슬롯에만 무기를 착용 중이고 다른 손에는 아무것도 들고 있지 않다면, 근접 무기 <LSTag Tooltip=\"AttackRoll"
+"\">명중 굴림</LSTag>에 +[1] 보너스를 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3287
 msgctxt "hd469eb69g0af9g4f77g97b0gdbbdd3f05b85"
 msgid "Arming Enhancement"
-msgstr ""
+msgstr "무장 강화"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3288
 msgctxt "h2a657122g5511g42d2ga7e8g190bd43c0c2a"
@@ -11582,7 +11587,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3367
 msgctxt "h5d2ad051g524cg4307gb74cge85e1245e5f0"
 msgid "Titan Weapon"
-msgstr ""
+msgstr "타이탄 무기"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3368
 msgctxt "h03946d5bg81a1g4ec9gb7a2g1e6167466678"
@@ -11685,7 +11690,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3449
 msgctxt "h6733d65aga377g4052gb2e7gf10e8512c9fa"
 msgid "Favoured Weapon"
-msgstr ""
+msgstr "축복받은 무기"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3450
 msgctxt "h1f089d51gf8c4g4f13g8c86gbee87cae12f0"
@@ -11718,7 +11723,7 @@ msgstr "이 무기는 [1]를 추가로 가합니다."
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3480
 msgctxt "h2ce0bd6fg790cg4832g81afg3464d4d21af1"
 msgid "Synchronicity"
-msgstr ""
+msgstr "동기성"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3481
 msgctxt "hedcef69fgf78cg469cg901fg33e2f56f43bd"
@@ -11864,7 +11869,7 @@ msgid ""
 "Surge</LSTag>, gain a +[1] bonus to <LSTag Tooltip=\"AttackRolls\">Attack "
 "Rolls</LSTag> for the rest of your turn."
 msgstr ""
-"<LSTag Type=\"Spell\" Tooltip=\"Shout_Action_Surge\">연쇄 행동</LSTag>을 사용하면, "
+"<LSTag Type=\"Spell\" Tooltip=\"Shout_Action_Surge\">행동 연쇄</LSTag>를 사용하면, "
 "자신의 남은 턴 동안 <LSTag Tooltip=\"AttackRolls\">명중 굴림</LSTag>에 +[1] 보너스를 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3568
@@ -12018,25 +12023,25 @@ msgctxt "h484ad669gd0d2g4ac1g8b26g4139664ff70b"
 msgid ""
 "This weapon ignores <LSTag Tooltip=\"Resistant\">Resistance</LSTag> to "
 "Slashing damage."
-msgstr "베기 피해에 대한 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 무시합니다."
+msgstr "이 무기는 베기 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 무시합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3651
 msgctxt "h6df483dcgeefbg442bg854dg1eb273db281e"
 msgid ""
 "This weapon ignores Bludgeoning <LSTag Tooltip=\"Resistant\""
 ">Resistance</LSTag>."
-msgstr ""
+msgstr "이 무기는 부수기 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 무시합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3657
 msgctxt "hedc32751gca54g4e29g9ea8g97826a3e7079"
 msgid ""
 "This weapon ignores Piercing <LSTag Tooltip=\"Resistant\">Resistance</LSTag>."
-msgstr ""
+msgstr "이 무기는 찌르기 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 무시합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3662
 msgctxt "hb842e1f3gf3d9g46afg8d0bg290abf0e5b73"
 msgid "Defensive Attack"
-msgstr ""
+msgstr "방어적 공격"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3663
 msgctxt "hfc1795e9gea2eg4cb6gb4ffg2c92e6558887"
@@ -12046,21 +12051,24 @@ msgid ""
 "Class</LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag> bonus "
 "by [1]."
 msgstr ""
+"자신의 턴에 처음 공격할 때, 이 무기의 강화 수치를 [1] 만큼 감소해 자신의 <LSTag Tooltip=\"ArmourClass\""
+">방어도</LSTag>와 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 [1] 보너스를 얻을 수 "
+"있습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3672
 msgctxt "h03b77761gef65g431eg88bcg92ee8dfbdc68"
 msgid "Odd Gift"
-msgstr ""
+msgstr "이상한 선물"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3673
 msgctxt "hb7754685g2505g4588gac42g98e1cb73f633"
 msgid "While wearing Khalid's Gift, Jaheira cannot be cursed."
-msgstr ""
+msgstr "칼리드의 선물을 착용하고 있을 때, 자헤이라는 저주에 면역을 갖습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3681
 msgctxt "hb8dd4732g3001g4d6cg8f16g068a319d910e"
 msgid "Dwarven Thrower"
-msgstr ""
+msgstr "드워프 투척꾼"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3682
 msgctxt "h1d02dd81g5bfag4743g8dd3gb5b6b214b9b9"
@@ -12068,6 +12076,7 @@ msgid ""
 "A dwarf throwing this warhammer deals an extra [1]. If the target is a "
 "Large, Huge, or Gargantuan creature, the strike deals an additional [2]."
 msgstr ""
+"드워프가 이 워해머를 던지면, [1]를 추가로 가합니다. 대상이 대형, 거대형, 또는 특대형 크리쳐라면, 추가로 [2]를 더 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3687
 msgctxt "h4f3a22fcg44a3g4a63g83f2gb2d97a9ae6b0"
@@ -12087,47 +12096,47 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3695
 msgctxt "h764e17b6g7179g47c8g8664g036ea0aa47c8"
 msgid "General's Memory"
-msgstr ""
+msgstr "장군의 기억"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3696
 msgctxt "h2ed514c9g96e6g475bg932dg7f04972ab91c"
 msgid ""
 "Shar's gift increases your <LSTag Tooltip=\"Strength\">Strength</LSTag> by 2."
-msgstr ""
+msgstr "샤의 선물이 당신의 <LSTag Tooltip=\"Strength\">근력</LSTag>을 2 만큼 증가시킵니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3701
 msgctxt "hb02a88e5g864cg4426g95b0gcc86b1085a81"
 msgid "Thief's Memory"
-msgstr ""
+msgstr "도둑의 기억"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3702
 msgctxt "hd0ec7abfgc889g4a08g97d4g3ccaa00cb076"
 msgid ""
 "Shar's gift increases your <LSTag Tooltip=\"Dexterity\">Dexterity</LSTag> by "
 "2."
-msgstr ""
+msgstr "샤의 선물이 당신의 <LSTag Tooltip=\"Dexterity\">민첩</LSTag>을 2 만큼 증가시킵니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3707
 msgctxt "h0e4c9f31gfa23g4544g9730gcda4fb40bfd6"
 msgid "Barbarian's Memory"
-msgstr ""
+msgstr "바바리안의 기억"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3708
 msgctxt "h50bd9b3bg0203g4e57gab98g1338dcaa014c"
 msgid ""
 "Shar's gift increases your <LSTag Tooltip=\"Constitution\">Constitution</"
 "LSTag> by 2."
-msgstr ""
+msgstr "샤의 선물이 당신의 <LSTag Tooltip=\"Constitution\">건강</LSTag>을 2 만큼 증가시킵니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3713
 msgctxt "hb1db5d26g99b3g48ccga162gab74e91c7afa"
 msgid "Wizard's Memory"
-msgstr ""
+msgstr "위저드의 기억"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3714
 msgctxt "h53c7cbf4g7ca5g46c4g802dg61047a6a812c"
 msgid "Shar's gift floods your mind with fresh and remarkable intellect."
-msgstr ""
+msgstr "샤의 선물이 당신의 <LSTag Tooltip=\"Intelligence\">지능</LSTag>을 2 만큼 증가시킵니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3719
 msgctxt "h25b44863g8bafg415ag8ae4gda0cb9d8a79a"
@@ -12138,34 +12147,34 @@ msgstr ""
 msgctxt "h116bd776g2cfcg4002gac75gfd18109f8879"
 msgid ""
 "Shar's gift increases your <LSTag Tooltip=\"Wisdom\">Wisdom</LSTag> by 2."
-msgstr ""
+msgstr "샤의 선물이 당신의 <LSTag Tooltip=\"Wisdom\">지혜</LSTag>를 2 만큼 증가시킵니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3725
 msgctxt "h5b94094fg088ag444dg82afgdb331ca4eaaf"
 msgid "Bard's Memory"
-msgstr ""
+msgstr "바드의 기억"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3726
 msgctxt "hcca339d6gca0cg4ab1gb10eg3d32c605de1a"
 msgid ""
 "Shar's gift increases your <LSTag Tooltip=\"Charisma\">Charisma</LSTag> by 2."
-msgstr ""
+msgstr "샤의 선물이 당신의 <LSTag Tooltip=\"Charisma\">매력</LSTag>을 2 만큼 증가시킵니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3731
 msgctxt "h9390661dg6108g458eg888cg642df559f83b"
 msgid "Patriar's Memory"
-msgstr ""
+msgstr "귀족의 기억"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3732
 msgctxt "h1c3cc6a5g5e6bg4504g9fd2gf5c13a5a9322"
 msgid ""
 "Shar's gift increases your <LSTag Tooltip=\"Charisma\">Charisma</LSTag> by 2."
-msgstr ""
+msgstr "샤의 선물이 당신의 <LSTag Tooltip=\"Charisma\">매력</LSTag>을 2 만큼 증가시킵니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3738
 msgctxt "hdadaf99eg1673g4539gad27gf3dc1f79cec3"
 msgid "First Blood"
-msgstr ""
+msgstr "첫 번째 피"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3739
 msgctxt "h08f15931gd582g4f59g895fgdc8dc638977b"
@@ -12174,11 +12183,13 @@ msgid ""
 "LSTag> upon targets that have maximum <LSTag Tooltip=\"HitPoints\">hit "
 "points</LSTag>."
 msgstr ""
+"최대 <LSTag Tooltip=\"HitPoints\">체력</LSTag>을 보유중인 대상을 타격하면, <LSTag Type="
+"\"Status\" Tooltip=\"BLEEDING\">출혈</LSTag>을 부여합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3747
 msgctxt "h8f2a224bgad37g432bga00bg834b44cb5b4d"
 msgid "Glorious Pointy Hat"
-msgstr ""
+msgstr "영예로운 뾰족 모자"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3748
 msgctxt "hca666c07ga586g4b9bg807dg8036f42b632c"
@@ -12187,6 +12198,8 @@ msgid ""
 "LSTag> equal to your Intelligence <LSTag Tooltip=\"AbilityModifier\""
 ">Modifier</LSTag>."
 msgstr ""
+"지능 <LSTag Tooltip=\"AbilityModifier\">수정치</LSTag>를 설득 <LSTag Tooltip="
+"\"AbilityCheck\">판정</LSTag> 결과에 더합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3753
 msgctxt "h18484316gdd73g4d78g9454gd3f8a456cf22"
@@ -12222,7 +12235,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3765
 msgctxt "hc16c35dcged4fg49ceg8379gdaf90a12448e"
 msgid "Astral Zealot"
-msgstr ""
+msgstr "아스트랄의 광전사"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3766
 msgctxt "hcc4974e9gb0c3g4df1gbf20g824c4c7842bc"
@@ -12236,7 +12249,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3771
 msgctxt "h3fa47fb6gc860g4956gaa1eg5c49d4c5c7d0"
 msgid "Wizard of Waterdeep"
-msgstr ""
+msgstr "워터딥의 위저드"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3772
 msgctxt "h65dce724ge135g4c1cga8e0gce4ae48ee1e5"
@@ -12276,7 +12289,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3789
 msgctxt "h92b35a3fgc289g4607gacc8g61fe537cc0cf"
 msgid "Blood War Veteran"
-msgstr ""
+msgstr "피의 전쟁 참전용사"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3790
 msgctxt "h2e7c5f0fg3e6dg4d8ag96d1g4375cac2efe7"
@@ -12290,7 +12303,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3795
 msgctxt "h51b825b4g1025g4cb8g8407ga295e810a00c"
 msgid "Underdark Exile"
-msgstr ""
+msgstr "언더다크 추방자"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3796
 msgctxt "h4ef3b420gc6efg4defgb1f4gd216eab398a6"
@@ -12332,7 +12345,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3813
 msgctxt "h2ee00891g2110g474fgacf1gbaadee635f1c"
 msgid "Legend of Baldur's Gate"
-msgstr ""
+msgstr "발더스 게이트의 전설"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3814
 msgctxt "h86f2588eg73e9g4fc3g9a22g562cea0c79af"
@@ -12346,7 +12359,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3819
 msgctxt "h1f8f4992ge642g4467gb701gf06ba4c304ae"
 msgid "Unwavering Bull"
-msgstr ""
+msgstr "물러서지 않는 황소"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3820
 msgctxt "ha949757fgd645g4f7bgaa2eg3eeb1c638446"
@@ -12356,11 +12369,14 @@ msgid ""
 "Throws</LSTag> against being <LSTag Type=\"Status\" Tooltip=\"RESTRAINED\""
 ">Restrained</LSTag>."
 msgstr ""
+"의지에 반해 이동될 수 없으며 <LSTag Type=\"Status\" Tooltip=\"RESTRAINED\">구속</LSTag> "
+"상태에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 갖습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3825
 msgctxt "hf4be6025ga0a7g4a91gab10g47cc61eaa38d"
 msgid "Nimble As a Cat"
-msgstr ""
+msgstr "고양이의 날렵함"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3826
 msgctxt "hbd68b0a2gc85bg4646ga088g487d42a0b9d6"
@@ -12369,6 +12385,8 @@ msgid ""
 "Throws</LSTag> and also increase your <LSTag Type=\"Spell\" Tooltip="
 "\"Projectile_Jump\">Jump</LSTag> distance by [2]."
 msgstr ""
+"민첩 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +[1] 보너스를 얻고 <LSTag Type="
+"\"Spell\" Tooltip=\"Projectile_Jump\">도약</LSTag> 거리가 [2] 만큼 증가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3832
 msgctxt "h66afe6c4gda90g4c0bgab22g9c0c9ff03924"
@@ -12382,11 +12400,13 @@ msgid ""
 "generates [1] turns of <LSTag Type=\"Status\" Tooltip=\"MAG_VIOLENCE\""
 ">Wrath</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"RAGE\">격노</LSTag> 상태 동안, 착용자는 [1] 턴 동안 "
+"<LSTag Type=\"Status\" Tooltip=\"MAG_VIOLENCE\">분노</LSTag> 효과도 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3838
 msgctxt "h0d95fe10gdd02g41f8g91fcgac832eadc51c"
 msgid "Mountainous Poise"
-msgstr ""
+msgstr "태산 같은 균형"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3839
 msgctxt "hf633200cgd324g42f1gb7efg6100e0e6bbfb"
@@ -12395,11 +12415,13 @@ msgid ""
 "Defence</LSTag>, you also benefit from the effect of <LSTag Type=\"Status\" "
 "Tooltip=\"BLADE_WARD\">Blade Ward</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"PATIENT_DEFENCE\">침착한 방어</LSTag>가 활성화 된 동안, "
+"<LSTag Type=\"Status\" Tooltip=\"BLADE_WARD\">칼날 방호</LSTag>의 효과도 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3846
 msgctxt "h36797947gb3dbg4ab1gb332gf0e8ebca97ba"
 msgid "Breezeswift Speed"
-msgstr ""
+msgstr "산들바람 같은 속도"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3847
 msgctxt "h7f19dc10gc8a6g4398g8dcbg4e7497c7f351"
@@ -12409,11 +12431,14 @@ msgid ""
 "has <LSTag Tooltip=\"Advantage\">Advantage</LSTag> and deals an additional "
 "[1]."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"STEP_OF_THE_WIND\">바람의 길</LSTag>이 활성화 된 동안, "
+"자신의 다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>은 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>을 가지며 [1]를 추가로 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3855
 msgctxt "h78aa5befg4b75g4115gb534g25d949fe9089"
 msgid "Authority"
-msgstr ""
+msgstr "권위"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3856
 msgctxt "h54078601g3f91g4beeg8c81g10ce13d5fba1"
@@ -12422,11 +12447,13 @@ msgid ""
 "<LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> and Insight <LSTag Tooltip="
 "\"AbilityCheck\">Checks</LSTag>."
 msgstr ""
+"위협과 통찰 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 <LSTag Tooltip=\"Advantage"
+"\">이점</LSTag>을 가집니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3861
 msgctxt "h975e649dg0003g48a7gb416g6ee8596889f4"
 msgid "Scintillating"
-msgstr ""
+msgstr "재기발랄"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3862
 msgctxt "h4afeab0agcaa1g45fcg8097g149d6bca59f7"
@@ -12434,6 +12461,8 @@ msgid ""
 "You gain a +[1] bonus to Charisma <LSTag Tooltip=\"AbilityCheck\">Checks</"
 "LSTag> and <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"매력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>과 <LSTag Tooltip=\"SavingThrow\""
+">내성 굴림</LSTag>에 +[1] 보너스를 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3869
 msgctxt "h6be57554g7c70g4a43ga368geff5984a9024"
@@ -12449,13 +12478,13 @@ msgid ""
 "\"INVISIBILITY\">Invisible</LSTag>."
 msgstr ""
 "<LSTag Type=\"Status\" Tooltip=\"SNEAKING\">은신</LSTag>이나 <LSTag Type=\"Status"
-"\" Tooltip=\"INVISIBILITY\">투명화</LSTag> 상태일 때 이 무기로 크리쳐를 타격 시 <<LSTag Type="
-"\"Status\" Tooltip=\"BURNING\">연소</LSTag>를 유발시킬 수 있습니다."
+"\" Tooltip=\"INVISIBILITY\">투명화</LSTag> 상태일 때 이 무기로 크리쳐를 타격하면, 일정 확률로 <LSTag "
+"Type=\"Status\" Tooltip=\"BURNING\">연소</LSTag> 상태를 부여합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3876
 msgctxt "h409a130eg0873g41b9gbee5g1142c6cc85a5"
 msgid "Cunning Combo"
-msgstr ""
+msgstr "교활한 콤보"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3877
 msgctxt "h86247aa2gc661g4301g8201g47849046268d"
@@ -12464,11 +12493,13 @@ msgid ""
 "attack against it as a <LSTag Type=\"ActionResource\" Tooltip="
 "\"ReactionActionPoint\">reaction</LSTag>."
 msgstr ""
+"목표를 근거리에서 쏠때, <LSTag Type=\"ActionResource\" Tooltip=\"ReactionActionPoint\""
+">반응 행동</LSTag>으로 추가 근접 공격을 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3885
 msgctxt "hc4fc035dg20a0g4cf1gb88cgedf06ed1c4f5"
 msgid "Selûne's Protection"
-msgstr ""
+msgstr "셀루네의 보호"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3886
 msgctxt "h431b5b51gfdbdg4380gb856geed9f805f98c"
@@ -12477,6 +12508,9 @@ msgid ""
 "Armour</LSTag>, each successful <LSTag Tooltip=\"SavingThrow\">Saving Throw</"
 "LSTag> causes the source of the Saving Throw to take [1]."
 msgstr ""
+"착용자의 <LSTag Type=\"Status\" Tooltip=\"MAGE_ARMOR\">마법 갑주</LSTag>가 활성화 된 동안 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 성공할 때마다, 그 굴림을 유발한 대상은 [1]를 "
+"입습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3893
 msgctxt "h549d278egc3fag4964ga852gc40cc58ff446"
@@ -12496,7 +12530,7 @@ msgstr "%%% Mag Shield Amulet Resource"
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3915
 msgctxt "hcbc3f9f4g25eeg4d5egb2fegc4ba164df2be"
 msgid "Slippery Slapsticky"
-msgstr ""
+msgstr "슬랩스틱 코미디"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3916
 msgctxt "h9efa37e5g80f9g4502g9265g9a0859e891f8"
@@ -12507,11 +12541,15 @@ msgid ""
 "\">Saving Throws</LSTag> or become stricken with <LSTag Type=\"Status\" "
 "Tooltip=\"HIDEOUS_LAUGHTER\">Laughter</LSTag>."
 msgstr ""
+"자신이 <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎어짐</LSTag> 상태에 빠지면, [1] 내에 "
+"<LSTag Tooltip=\"Intelligence\">지능</LSTag> [2] 이상을 지닌 적대적 크리쳐는 지혜 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>을 통과해야 하며, 실패 시 <LSTag Type=\"Status\" "
+"Tooltip=\"HIDEOUS_LAUGHTER\">끔찍한 웃음</LSTag> 상태를 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3923
 msgctxt "he6797966g4751g4bc0g9b4cg049c7a113b37"
 msgid "Lickspittle's Alertness"
-msgstr ""
+msgstr "아첨꾼의 조심성"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3924
 msgctxt "h172cdd77gc0fcg449dg9a17g5192e9d9b9d1"
@@ -12520,11 +12558,13 @@ msgid ""
 "\"MAG_MOMENTUM\">Momentum</LSTag> equal to their Charisma <LSTag Tooltip="
 "\"AbilityModifier\">Modifier</LSTag>."
 msgstr ""
+"전투가 시작할 때, 착용자는 자신의 매력 <LSTag Tooltip=\"AbilityModifier\">수정치</LSTag>와 동일한 "
+"수치의 <LSTag Type=\"Status\" Tooltip=\"MAG_MOMENTUM\">추진력</LSTag>을 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3928
 msgctxt "h2296d6f7g91f1g4f43g9dd4g84b36310ff67"
 msgid "Multitasking"
-msgstr ""
+msgstr "멀티태스킹"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3929
 msgctxt "hbf34f9d1gdb79g4121gb57bg9456939e6996"
@@ -12533,6 +12573,8 @@ msgid ""
 "\"Concentration\">Concentrating</LSTag> <LSTag Tooltip=\"SavingThrow\""
 ">Saving Throws</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"Concentration\">집중</LSTag> <LSTag Tooltip=\"SavingThrow\""
+">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3935
 msgctxt "h38489231gcd0eg4f03gbfa2g50c8183b44ac"
@@ -12540,11 +12582,13 @@ msgid ""
 "Add your Dexterity <LSTag Tooltip=\"AbilityModifier\">Modifier</LSTag> to "
 "your <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 자신의 민첩 <LSTag Tooltip="
+"\"AbilityModifier\">수정치</LSTag>를 더합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3939
 msgctxt "h46ecfcf8g86aag4e80gaa8egf74117d40060"
 msgid "Sharpened Snare"
-msgstr ""
+msgstr "뾰족한 올가미"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3940
 msgctxt "h959646e7g1c2eg4ac7gb68ag8ba364746eb7"
@@ -12554,11 +12598,14 @@ msgid ""
 "attacks and spells that inflict <LSTag Type=\"Status\" Tooltip=\"RESTRAINED\""
 ">Restrained</LSTag>."
 msgstr ""
+"크리쳐들은 <LSTag Type=\"Status\" Tooltip=\"RESTRAINED\">구속</LSTag> 상태를 부여하는 당신의 "
+"공격과 주문에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3945
 msgctxt "h2cdf4116g2c4cg4a51g9c7fg1424a9ec52bd"
 msgid "Lunar Bestial Vitality"
-msgstr ""
+msgstr "달빛 야수의 생명력"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3946
 msgctxt "h40c36acbgbe90g4d36gb648gb697cf3c08f3"
@@ -12574,7 +12621,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3954
 msgctxt "h9c84f7a8gdd50g4a36g8281gd1ba6cebe344"
 msgid "Lunar Bestial Fortitude"
-msgstr ""
+msgstr "달빛 야수의 용기"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3955
 msgctxt "h64d8133fg293eg426cg8518gd5ba4a57a9c0"
@@ -12584,11 +12631,14 @@ msgid ""
 "<LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag> against spells. This "
 "effect persists while using your druidic Wild Shape ability."
 msgstr ""
+"<LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +[1] 보너스를 가집니다. 또한 주문에 대한 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</"
+"LSTag>을 가집니다. 이 효과는 자신의 드루이드 야생 형상 동안 지속됩니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3963
 msgctxt "h234db041gd92cg4e81g947dga3d7455adf88"
 msgid "Green Bed Regeneration"
-msgstr ""
+msgstr "녹지 재생"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3964
 msgctxt "h69dc5c65g3dcbg444bga685gd2d3af58f4ed"
@@ -12598,21 +12648,24 @@ msgid ""
 "\"DIFFICULT_TERRAIN_VINES\">Vine Surface</LSTag> regain [1] <LSTag Tooltip="
 "\"HitPoints\">hit points</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"PLANT_GROWTH\">식물 성장 표면</LSTag> 또는 <LSTag "
+"Type=\"Status\" Tooltip=\"DIFFICULT_TERRAIN_VINES\">덩굴 표면</LSTag>에서 자신의 턴을 "
+"시작하면, <LSTag Tooltip=\"HitPoints\">체력</LSTag>을 [1] 만큼 회복합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3970
 msgctxt "hdda3053ag7164g4d53g8c3eg2c589aac4117"
 msgid "Nature's Embrace"
-msgstr ""
+msgstr "자연의 포옹"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3971
 msgctxt "hbd9c0eeagdb2fg491fg9da2g73bc01ccfa82"
 msgid "Increase your Wild Shape Charge by [1]."
-msgstr ""
+msgstr "야생 형상 충전이 [1] 회 증가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3979
 msgctxt "haf646c1bga3c7g44a0ga15ag1041fa9d779e"
 msgid "Spore Sacks"
-msgstr ""
+msgstr "포자 주머니"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3980
 msgctxt "h30ebaec0gd8c8g48f4gaf4cg856391de4d61"
@@ -12624,11 +12677,16 @@ msgid ""
 "and <LSTag Type=\"Spell\" Tooltip=\"Projectile_MAG_WhiteSporeCloud\">Haste "
 "Spores</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"SYMBIOTIC_ENTITY\">공생체</LSTag>가 활성화 된 동안, "
+"<LSTag Type=\"Spell\" Tooltip=\"Projectile_MAG_GreenSporeCloud\">비버뱅 포자</"
+"LSTag>, <LSTag Type=\"Spell\" Tooltip=\"Projectile_MAG_BlackSporeCloud\""
+">티마스크 포자</LSTag>, 그리고 <LSTag Type=\"Spell\" Tooltip="
+"\"Projectile_MAG_WhiteSporeCloud\">가속 포자</LSTag>를 퍼뜨릴 수 있습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3988
 msgctxt "ha1f0d968g3513g4f08gaa1dgd19390f4de3f"
 msgid "Malefic Funghi"
-msgstr ""
+msgstr "유해 버섯"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3989
 msgctxt "h9b1ea610g1207g4090gb646g1a48bf2ddf48"
@@ -12637,11 +12695,13 @@ msgid ""
 ">Spell Save DC</LSTag> and when dealing Necrotic damage, they deal an "
 "additional [2]."
 msgstr ""
+"착용자가 괴저 피해를 가할 때 <LSTag Tooltip=\"SpellDifficultyClass\">주문 내성 난이도</LSTag>에 "
+"+[1] 보너스를 얻으며, 추가로 [2]를 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3995
 msgctxt "hb0e873c6g4df1g4fd4g98d2g57169d3bc4a1"
 msgid "Invisible Weapon"
-msgstr ""
+msgstr "투명 무기"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3996
 msgctxt "he8dba608g10efg40ebga7aag1fa2e6a7af1e"
@@ -12650,11 +12710,14 @@ msgid ""
 ">Invisible</LSTag> while equipped. It loses this property for [1] rounds on "
 "a missed <LSTag Tooltip=\"AttackRoll\">Attack Roll</LSTag>."
 msgstr ""
+"이 무기는 착용 시 <LSTag Type=\"Status\" Tooltip=\"MAG_INVISIBLE_WEAPON\">투명</"
+"LSTag> 상태가 됩니다. <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 실패하면, [1] 턴 동안 "
+"이 효과가 사라집니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4005
 msgctxt "h1a478e3cg6b90g439fgb50fg113a8b8a3e44"
 msgid "Gregarious Caster"
-msgstr ""
+msgstr "사교적인 시전자"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4006
 msgctxt "hc5cd47f0g25f7g4b7fgadafg90c0b05b6b3b"
@@ -12662,6 +12725,8 @@ msgid ""
 "Your <LSTag Tooltip=\"Cantrip\">cantrips</LSTag> deal additional damage "
 "equal to your Charisma <LSTag Tooltip=\"AbilityModifier\">Modifier</LSTag>."
 msgstr ""
+"자신의 <LSTag Tooltip=\"Cantrip\">소마법</LSTag>이 매력 <LSTag Tooltip="
+"\"AbilityModifier\">수정치</LSTag> 만큼 추가 피해를 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4012
 msgctxt "hf29c2ac9gea2eg4f2bg9ef8g84032470ed90"
@@ -12675,23 +12740,25 @@ msgid ""
 "<LSTag Tooltip=\"TemporaryHitPoints\">temporary hit points</LSTag> equal to "
 "their Charisma <LSTag Tooltip=\"AbilityModifier\">Modifier</LSTag>."
 msgstr ""
+"착용자의 턴이 시작할 때, 망토가 활성화되어 자신의 매력 <LSTag Tooltip=\"AbilityModifier\">수정치</"
+"LSTag> 만큼의 <LSTag Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 부여합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4017
 msgctxt "h019c26f6g67b0g4b19ga98eg843c9d76d379"
 msgid "Marksmanship"
-msgstr ""
+msgstr "사격술"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4018
 msgctxt "hf2c566d6g5f9dg4519g87adg898d5c07515c"
 msgid ""
 "You gain a +[1] bonus to <LSTag Tooltip=\"AttackRoll\">Attack Roll</LSTag> "
 "and Thrown Attack Rolls."
-msgstr ""
+msgstr "<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 던지기 명중 굴림에 +[1] 보너스를 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4025
 msgctxt "h598434a6gfe2dg4699g9313gf394cee73b28"
 msgid "Weave Eater"
-msgstr ""
+msgstr "위브 이터"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4026
 msgctxt "hae88f6c6g67d6g45f4g97b2g6c49cae22770"
@@ -12699,6 +12766,8 @@ msgid ""
 "Whenever the wearer succeeds a <LSTag Tooltip=\"SavingThrow\">Saving Throw</"
 "LSTag> against a spell, they regain [1]."
 msgstr ""
+"착용자가 주문에 대한 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 성공할 때마다, [1]을 "
+"회복합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4035
 msgctxt "he2993c8agaf9bg4ad6gbda0ga1ab9c713457"
@@ -12713,28 +12782,28 @@ msgstr "%%% EMPTY"
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4074
 msgctxt "h377b9451ga080g4bc0g9efbgcb8e897ee89b"
 msgid "Unstable Blood"
-msgstr ""
+msgstr "불안정안 피"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4075
 msgctxt "h1d7e490ag8ba5g4fa1gb403gb5f878db8065"
 msgid ""
 "Your blood is now highly flammable and will explode in the contact with fire."
-msgstr ""
+msgstr "피가 가연성 물질로 변해 불꽃에 닿으면 폭발할 것입니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4081
 msgctxt "h889f3defg1867g41d9g9156g4214228bb7d6"
 msgid "Shoe Slinger"
-msgstr ""
+msgstr "신발 투척꾼"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4082
 msgctxt "h7984dd4ege626g4e84gab3bg8cc8d99930e5"
 msgid "Returns to its owner when thrown. On a hit, deal an additional [1]."
-msgstr ""
+msgstr "던지면 되돌아옵니다. 타격 시, [1]를 추가로 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4087
 msgctxt "h9c0a0fa3g2f7cg4abegb722g00429e52ed3d"
 msgid "Booze Remedy"
-msgstr ""
+msgstr "술 치유"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4088
 msgctxt "hd5f00800gb586g4a40ga10eg2088507ded6d"
@@ -12743,11 +12812,13 @@ msgid ""
 "Tooltip=\"DRUNK\">Drunk</LSTag>. Additionally, increase the duration of your "
 "inebriation by [2] rounds."
 msgstr ""
+"이 아뮬렛을 착용하고 있으면, <LSTag Type=\"Status\" Tooltip=\"DRUNK\">취함</LSTag> 상태인 동안 "
+"매 턴 [1]만큼 회복합니다. 추가로 취함 상태의 지속 시간을 [2] 턴 늘립니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4096
 msgctxt "h4d5c1fb0gb705g4e4egab52ga2b36cb23715"
 msgid "Snowy Liver"
-msgstr ""
+msgstr "새하얀 간"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4097
 msgctxt "h09243535g5cfbg42ddg9346gad31b0646ea8"
@@ -12759,35 +12830,39 @@ msgid ""
 "Constitution <LSTag Tooltip=\"AbilityModifier\">Modifier</LSTag> at the "
 "start of your turn."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"DRUNK\">취함</LSTag> 상태인 동안 건강 <LSTag Tooltip="
+"\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가지며, "
+"자신의 턴이 시작할 때 건강 <LSTag Tooltip=\"AbilityModifier\">수정치</LSTag> 만큼의 <LSTag "
+"Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4103
 msgctxt "haa3b59abg12d0g44e2g9033g883f065f8a03"
 msgid "Sharp Caster"
-msgstr ""
+msgstr "정교한 시전자"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4104
 msgctxt "hd1cbaf2ag4e5cg4df7g8f8fg197e53d44907"
 msgid ""
 "When you roll a 1 or 2 on a damage die(s) for a Spell Attack, that die(s) is "
 "rerolled once."
-msgstr ""
+msgstr "주문 피해 굴림에 1 또는 2 를 굴리면, 다시 한 번 굴릴 수 있습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4112
 msgctxt "h5f0a3ebfg6fb0g44f0g9de9g973568b24da3"
 msgid "Ambusher's Streak"
-msgstr ""
+msgstr "매복자의 습격"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4113
 msgctxt "h4878c5c6g7a02g4579g9755g52e5563b5af8"
 msgid ""
 "In combat, you deal an additional [1] against creatures that haven't taken a "
 "turn yet."
-msgstr ""
+msgstr "전투 동안, 아직 턴을 시작하지 않은 크리쳐에게 [1]를 추가로 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4120
 msgctxt "h84fdac7ag5a95g4353g89afga173c248e384"
 msgid "Spellmight"
-msgstr ""
+msgstr "강력한 주문"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4121
 msgctxt "h868f2019ga9c6g45dfgba27gd7a4a396e1e8"
@@ -12796,11 +12871,13 @@ msgid ""
 "Roll</LSTag>, you can take a -[1] penalty to the roll to deal an additional "
 "[2] damage."
 msgstr ""
+"<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>을 요구하는 주문을 시전할 때, 그 굴림에 -[1] 페널티를 "
+"받고 [2] 피해를 추가로 가할 수 있습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4138
 msgctxt "h68f8c634g7382g4cddgafcbg713b17b6ea13"
 msgid "Innate Fortitude"
-msgstr ""
+msgstr "내면의 용기"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4139
 msgctxt "h62d5952cg9b4fg4b84ga3f8gcdd4514c8c24"
@@ -12811,6 +12888,10 @@ msgid ""
 "\"SavingThrow\">Saving Throw</LSTag> with <LSTag Tooltip=\"Advantage\""
 ">Advantage</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>당 한 번, <LSTag Type=\"ActionResource\""
+" Tooltip=\"ReactionActionPoint\">반응 행동</LSTag>을 사용해 자신의 <LSTag Tooltip="
+"\"AttackRoll\">명중 굴림</LSTag> 또는 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
+"LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 부여할 수 있습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4145
 msgctxt "h80496588gd399g46c1gbd7ega4b71998baf3"
@@ -12820,7 +12901,7 @@ msgstr "%%% Amulet of Second Chance Resource"
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4150
 msgctxt "h2d49b835g1466g4935g930ag6904dc1abbf6"
 msgid "Aegis Palms"
-msgstr ""
+msgstr "수호의 손바닥"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4151
 msgctxt "ha1f9a714g92c3g4d83g8092gf281102e6794"
@@ -12830,11 +12911,15 @@ msgid ""
 "Tooltip=\"Teleportation_Revivify\">Revive</LSTag> a creature it gains the "
 "effect of <LSTag Type=\"Status\" Tooltip=\"DEATH_WARD\">Death Ward</LSTag>."
 msgstr ""
+"크리쳐를 치유하면, 그 대상은 <LSTag Type=\"Status\" Tooltip=\"BLADE_WARD\">칼날 방호</LSTag> "
+"효과를 얻습니다. 크리쳐를 <LSTag Type=\"Spell\" Tooltip=\"Teleportation_Revivify\">소생</"
+"LSTag>시키면, 그 대상은 <LSTag Type=\"Status\" Tooltip=\"DEATH_WARD\">죽음 방호</LSTag> "
+"효과를 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4158
 msgctxt "hb4ac62f5ge99cg4444ga5abgf43280b2d7cc"
 msgid "Sanctified Weapon"
-msgstr ""
+msgstr "신성화된 무기"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4159
 msgctxt "h445e9b46ge733g47e6gb9d8g2228137cb674"
@@ -12842,23 +12927,25 @@ msgid ""
 "Undead creatures struck by this weapon are possibly <LSTag Type=\"Status\" "
 "Tooltip=\"TURNED\">Turned</LSTag>."
 msgstr ""
+"이 무기에 적중당한 언데드 크리쳐는 일정 확률로 <LSTag Type=\"Status\" Tooltip=\"TURNED\""
+">퇴치</LSTag>됩니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4164
 msgctxt "h619cb81dg6586g4cebgb47cgab92cd6bd7fb"
 msgid "Partial Ceremorphosis"
-msgstr ""
+msgstr "부분 뇌변이"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4165
 msgctxt "he0c97cf5g428bg48feg9cc8gcd858736e55d"
 msgid ""
 "You are in the early stages of transformation - gaining access to more "
 "aberrant powers as you evolve your illithid potential."
-msgstr ""
+msgstr "초기 변이 단계에 들어섰습니다. 일리시드 잠재력을 받아들여 진화하면 더욱 괴이한 효과를 얻을 것입니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4172
 msgctxt "hdc1db1dbg2fb4g437dg8038g8830c1e1f6c1"
 msgid "Boon of the Raven Queen"
-msgstr ""
+msgstr "까마귀 여왕의 선물"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4173
 msgctxt "h6426444agc69bg46bdg9ff5g7b2d00a6e737"
@@ -12868,23 +12955,26 @@ msgid ""
 "Wild Shaped, you also gain <LSTag Type=\"Status\" Tooltip=\"FEATHER_FALL\""
 ">Feather Fall</LSTag>."
 msgstr ""
+"이 아뮬렛을 착용하고 있으면 도약과 비행 거리가 [1] 만큼 증가합니다. 또한 <LSTag Type=\"Status\" Tooltip="
+"\"POLYMORPH_SHEEP\">형상 변환</LSTag>되거나 야생 형상을 취하는 동안, <LSTag Type=\"Status\" "
+"Tooltip=\"FEATHER_FALL\">깃털 낙하</LSTag> 효과를 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4182
 msgctxt "he785858ag7691g416ag94f2ga4aa3df93e88"
 msgid "Martial Bravery"
-msgstr ""
+msgstr "전장의 용기"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4183
 msgctxt "hfe4b3cd8g2225g4ae7g943bgd4a38ab21ccb"
 msgid ""
 "Your weapon and unarmed attacks deal an additional [1] damage while "
 "surrounded by [2] or more foes."
-msgstr ""
+msgstr "[2]명 이상의 적에게 둘러싸인 상태라면 무기 공격이 [1] 피해를 추가로 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4189
 msgctxt "he41aa240ged98g4210gbd26g404b10295b9a"
 msgid "Raven Servant: Deathvine"
-msgstr ""
+msgstr "까마귀의 종: 죽음덩굴"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4197
 msgctxt "h4fee7303gaa08g4f42g8015g32dac81ab6a1"
@@ -12933,7 +13023,7 @@ msgstr "당신은 이 무기에 <LSTag Tooltip=\"WeaponProficiency\">숙련</LST
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4213
 msgctxt "hb388bcbdg27bfg4e3dgba15g2d59caac5afb"
 msgid "Shadow-Blinding"
-msgstr ""
+msgstr "그림자 실명"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4214
 msgctxt "h2ca281a2g63dbg4fa9gb8b9g6737566c8515"
@@ -12942,16 +13032,18 @@ msgid ""
 "a chance of <LSTag Type=\"Status\" Tooltip=\"BLINDED\">Blind</LSTag> your "
 "target."
 msgstr ""
+"<LSTag Tooltip=\"Advantage\">이점</LSTag>을 가지고 공격하면, 일정 확률로 대상을 <LSTag Type="
+"\"Status\" Tooltip=\"BLINDED\">실명</LSTag>시킵니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4221
 msgctxt "ha92ec59eg7282g4c4bga663g310b1f9b8986"
 msgid "Helldusk Armour"
-msgstr ""
+msgstr "지옥황혼 갑옷"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4226
 msgctxt "h48bb2d01g941eg4b49g9699g9dfb77fe6c98"
 msgid "Sharran Veil"
-msgstr ""
+msgstr "샤의 베일"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4227
 msgctxt "h0f004aa2gf5feg4e58g95aega4c9fa758e3a"
@@ -12960,23 +13052,25 @@ msgid ""
 "also grants you a +[1] bonus to all <LSTag Tooltip=\"SavingThrow\">Saving "
 "Throws</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"SHIELD_OF_FAITH\">신앙의 방패</LSTag>가 모든 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에도 +[1] 보너스를 부여합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4235
 msgctxt "he226a345g3586g4cb9g9ac2gc914caeab8e0"
 msgid "Absolute's Aegis"
-msgstr ""
+msgstr "절대자의 아이기스"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4236
 msgctxt "hec5604e3gf6c3g4c6dg92d9g35d80511f4d0"
 msgid ""
 "If the wielder bears the Absolute's Brand, all damage received from spells "
 "is reduced by [1]."
-msgstr ""
+msgstr "착용자에게 절대자의 낙인이 새겨져 있다면, 주문으로 받는 모든 피해가 [1] 만큼 감소합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4242
 msgctxt "hf510d627ga38ag4d17g84d8g733e553d6a34"
 msgid "Outer-Entity Slayer"
-msgstr ""
+msgstr "이계체 학살자"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4243
 msgctxt "ha990c466g812dg402eg9e2dg760c1b9317cb"
@@ -12984,6 +13078,8 @@ msgid ""
 "When wielded against fey, fiends, or undead foes, this weapon has a +[1] "
 "bonus to Damage and <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag>."
 msgstr ""
+"이 무기는 페이, 마족, 또는 언데드 적을 상대할 때 피해와 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag>에 +[1] 보너스를 가집니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4248
 msgctxt "h7ed1c986g72dbg4bbegad4dg608a316b3124"
@@ -13002,62 +13098,62 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4254
 msgctxt "haa570060gbf61g4d83ga5b6gf6477f4d7827"
 msgid "Throwing: Fire Damage"
-msgstr ""
+msgstr "던지기: 화염 피해"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4255
 msgctxt "hfeda547ege905g4b4bgb842gf3b6812ecae3"
 msgid "When launched at a target, deal an additional [1]."
-msgstr ""
+msgstr "대상에게 던지면, [1]를 추가로 가합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4261
 msgctxt "ha624187ag8051g4a51g8799gd1cd8b95aa81"
 msgid "Throwing: Cold Damage"
-msgstr ""
+msgstr "던지기: 냉기 피해"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4267
 msgctxt "h27bc7938gb294g4d7ag940ege7e61b0ea379"
 msgid "Throwing: Lightning Damage"
-msgstr ""
+msgstr "던지기: 번개 피해"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4273
 msgctxt "hf74ba241g9bc7g4f62g8ea6gfb70bf85cf11"
 msgid "Throwing: Thunder Damage"
-msgstr ""
+msgstr "던지기: 천둥 피해"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4279
 msgctxt "h81b5c6eag12b6g4cd4g9606g9b05d9a3eb40"
 msgid "Throwing: Acid Damage"
-msgstr ""
+msgstr "던지기: 산성 피해"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4285
 msgctxt "hfc481ea1g006ag4a3cg867fgb300cc810ece"
 msgid "Poisonous Fling"
-msgstr ""
+msgstr "맹독성 투척"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4291
 msgctxt "h738e4bd0gb027g4e43ga175g5fb023b22450"
 msgid "Throwing: Necrotic Damage"
-msgstr ""
+msgstr "던지기: 괴저 피해"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4297
 msgctxt "h3524f981gc97dg4bd6ga66fga5b030e55f97"
 msgid "Throwing: Force Damage"
-msgstr ""
+msgstr "던지기: 역장 피해"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4307
 msgctxt "h68436050gd9f7g4038gb6f6g1f06e408020b"
 msgid "Homing Weapon"
-msgstr ""
+msgstr "귀소성 무기"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4308
 msgctxt "ha01f647dg4607g45c9g9ac4g404d4ee6ea6e"
 msgid "This weapon will return to its owner when thrown."
-msgstr ""
+msgstr "이 무기를 던지면 주인에게 되돌아옵니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4312
 msgctxt "h288f889egab55g420egb392gc7a97b8b6f49"
 msgid "Melee Caster"
-msgstr ""
+msgstr "근접 시전자"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4313
 msgctxt "h1a06cccage994g4729ga129g5f7b78876437"
@@ -13074,7 +13170,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4317
 msgctxt "h890f2495g90acg44eagbb53gb3c656727f74"
 msgid "Infernal Weapon"
-msgstr ""
+msgstr "지옥 무기"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4318
 msgctxt "h331065f7gcbd9g4ac8gb694gdd08ec00dfeb"
@@ -13082,16 +13178,18 @@ msgid ""
 "On a hit, the affected entity deals an additional [1] and can possibly "
 "<LSTag Type=\"Status\" Tooltip=\"POISONED\">Poison</LSTag> its target. "
 msgstr ""
+"타격 시, 영향을 받은 개체는 [1]를 추가로 가하며 일정 확률로 대상에게 <LSTag Type=\"Status\" Tooltip="
+"\"POISONED\">중독</LSTag>을 부여합니다. "
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4328
 msgctxt "hdd8cdd77g706cg4d0aga0dbg7b7311e988e0"
 msgid "Monk's Madness"
-msgstr ""
+msgstr "몽크의 광기"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4329
 msgctxt "hd71a908cg9b92g4f2cg8923g38d506eba4ce"
 msgid "Affected entity has -[1] to Wisdom."
-msgstr ""
+msgstr "영향을 받은 개체는 지혜에 -[1]을 가집니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4344
 msgctxt "hf169bbf0g3239g4e65g8c25g79558cab2e81"
@@ -13125,23 +13223,25 @@ msgid ""
 "LSTag>, you gain [1] <LSTag Tooltip=\"TemporaryHitPoints\">temporary hit "
 "points</LSTag>."
 msgstr ""
+"대상의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>을 0 으로 떨어뜨리면, 자신은 [1] 만큼의 <LSTag "
+"Tooltip=\"TemporaryHitPoints\">임시 체력</LSTag>을 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4386
 msgctxt "ha4dffb82g9997g4ec1g8e94g33d42d50cb8e"
 msgid "Natural Pugilist"
-msgstr ""
+msgstr "타고난 권투선수"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4387
 msgctxt "hcb9ac4edg7027g4630ga4e7gadfdd949ac1a"
 msgid ""
 "You gain a +[1] bonus to Unarmed <LSTag Tooltip=\"AttackRoll\">Attack Rolls</"
 "LSTag> and damage."
-msgstr ""
+msgstr "비무장 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 피해량에 +[1] 보너스를 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4487
 msgctxt "h611b2ceega648g4a37gab51g8600d20410ae"
 msgid "Gleamdancer"
-msgstr ""
+msgstr "서광의 춤꾼"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4488
 msgctxt "hfda409bcg9214g4c2ag964dgbd30910179a9"
@@ -13149,6 +13249,8 @@ msgid ""
 "When this dagger is wielded in the off-hand, the wielder gains a +[1] bonus "
 "to <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag>."
 msgstr ""
+"이 단검을 보조 무기 슬롯에 착용하면, <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +[1] 보너스를 "
+"얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4495
 msgctxt "h5b743049g5654g443fg99a7g8083963419bd"
@@ -13158,28 +13260,28 @@ msgstr "%%% Absorb Element Cloak Resource"
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4502
 msgctxt "ha55985b1ge175g47a2gaacfgebdd23baf55d"
 msgid "Temperature Adjusment"
-msgstr ""
+msgstr "온도 조정"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4503
 msgctxt "hd936a43cgbb38g4d1fg8d88g809cb0c37a7e"
 msgid "You have resistance to Fire and Cold Damage."
-msgstr ""
+msgstr "화염과 냉기 피해에 저항을 가집니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4508
 msgctxt "h3ae9810fg8fcbg4ea0g9f78g6f980082af6f"
 msgid "Strider Movement"
-msgstr ""
+msgstr "활보자의 움직임"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4509
 msgctxt "hdf8d6ed1ge78cg497dgb6d9gc6859d4bda3f"
 msgid ""
 "You gain <LSTag Type=\"Status\" Tooltip=\"LONGSTRIDER\">Longstrider</LSTag>."
-msgstr ""
+msgstr "<LSTag Type=\"Status\" Tooltip=\"LONGSTRIDER\">활보</LSTag>를 얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4514
 msgctxt "h023a13dag70b3g462bg9cc4g5f975fc4a69a"
 msgid "Artificial Sight"
-msgstr ""
+msgstr "인공 시야"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4515
 msgctxt "h07192f92g8374g4bbdg97bfg0a0a055b80d2"
@@ -13193,7 +13295,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4521
 msgctxt "hb6643fc0gd765g4419g943dgc346e5cfded3"
 msgid "Seeking Blood"
-msgstr ""
+msgstr "피 추적자"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4522
 msgctxt "hc228df1eg4e70g4fb7ga28fgf653836ed444"
@@ -13201,11 +13303,13 @@ msgid ""
 "You gain a +[1] bonus to <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> "
 "when attacking creatures that have already taken damage."
 msgstr ""
+"이미 피해를 입은 크리쳐를 공격할 때 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 +[1] 보너스를 "
+"얻습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4528
 msgctxt "h0633c5c1g0427g4169g8b1fgde5e1605d387"
 msgid "Blood Thirst"
-msgstr ""
+msgstr "피의 갈증"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4529
 msgctxt "ha0b53930g3ba7g425ag8901g41585c661758"
@@ -13214,26 +13318,28 @@ msgid ""
 "your full health. If you don't deal any damage this turn, you take [2] at "
 "the end of your turn."
 msgstr ""
+"자신이 피해를 입은 상태인 한 비무장 및 근접 공격이 [1]를 추가로 가합니다. 자신이 이번 턴에 아무런 피해도 입지 않았다면, 턴 종료 "
+"시에 [2]를 입습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4546
 msgctxt "he0ec1632g3cbfg403ag8e34g517746d4ca65"
 msgid "Glowing"
-msgstr ""
+msgstr "발광"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4547
 msgctxt "h421799bfg3dddg4551gbda7g9393ba476751"
 msgid "This object shines with a glowing light in a radius of [1]."
-msgstr ""
+msgstr "이 물체는 환하게 빛나며 [1] 반경을 밝힙니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4549
 msgctxt "hf3ba729ege018g4ab4g8262g4447da7884f1"
 msgid "Toggle this to douse and rekindle the light."
-msgstr ""
+msgstr "불을 켜거나 끄려면 토글하십시오."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4556
 msgctxt "haa3f3b2dg9b3bg4791g9032gc919b181c661"
 msgid "Gleamdance Dagger: Glowing"
-msgstr ""
+msgstr "서광의 춤꾼 단검: 발광"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4564
 msgctxt "hec96635egf6c2g4646g919fgd221b2fe1b36"
@@ -13243,22 +13349,22 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4571
 msgctxt "h94355919gb5d7g4be2gbc3fg87db0265943d"
 msgid "Gontr Mael: Glowing"
-msgstr ""
+msgstr "곤트르 마엘: 발광"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:4578
 msgctxt "hddc19688gfbffg473cgbdeeg606fc4f261a2"
 msgid "Moonlight Glaive: Glowing"
-msgstr ""
+msgstr "달빛 글레이브: 발광"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:34
 msgctxt "h51003c7fg1636g4060g8fb9g5483457e487e"
 msgid "Poison Eruption"
-msgstr ""
+msgstr "독성 분출"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:35
 msgctxt "h8376c514g00e3g42bdg8902g56fb4e995ba1"
 msgid "Explode and create a poisonous cloud."
-msgstr ""
+msgstr "폭발하여 독성 구름을 생성합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:51
 msgctxt "ha4849a3agd3acg45c9g9cefg355bfc84be9e"
@@ -13268,39 +13374,39 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:65
 msgctxt "h9f23ac38g0c64g4c2egb9begd9f2aeec029e"
 msgid "Death Bloom"
-msgstr ""
+msgstr "죽음 만개"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:66
 msgctxt "h61377937gd846g45b1ga00eg360dde7ca6eb"
 msgid ""
 "Expel a wave of baleful energy that damages all nearby creatures and objects."
-msgstr ""
+msgstr "해로운 에너지를 발산해 주변의 모든 크리쳐와 사물에 피해를 입힙니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:84
 msgctxt "hb2650009gf979g4f64g8ef1gbb2c6f384978"
 msgid "Death Bloom"
-msgstr ""
+msgstr "죽음 만개"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:85
 msgctxt "hcb35e6e2g2d05g4588g9605gebf49f2d7948"
 msgid ""
 "Expel a wave of baleful energy that damages all nearby creatures and objects."
-msgstr ""
+msgstr "해로운 에너지를 발산해 주변의 모든 크리쳐와 사물에 피해를 입힙니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:100
 msgctxt "h3f099053g826eg4522g9806ga8a86334cb3b"
 msgid "Soul Release"
-msgstr ""
+msgstr "영혼 해방"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:101
 msgctxt "h4adb2493g6672g43bdgb05fgccc8e32fd182"
 msgid "Release the soul of a weakened undead."
-msgstr ""
+msgstr "약화된 언데드의 영혼을 해방합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:164
 msgctxt "he0b246f2g5db2g4fb3g9b00gc5f48a0f9bcc"
 msgid "Concussion Grenade"
-msgstr ""
+msgstr "뇌진탕 수류탄"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:165
 msgctxt "h774cafd4ge266g497dg9fdbgfcaea17510fd"
@@ -13310,7 +13416,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:182
 msgctxt "hbe5861f0gda5eg407cg966fgfaf065006642"
 msgid "Crush the Defiant"
-msgstr ""
+msgstr "도전자 분쇄"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:183
 msgctxt "h3854b4fbgc9e5g409bg91d7g9cda5aad63f9"
@@ -13319,6 +13425,8 @@ msgid ""
 "knocking any survivors <LSTag Type=\"Status\" Tooltip=\"PRONE\">Prone</"
 "LSTag>. "
 msgstr ""
+"베인의 전능한 주먹이 떨어져 그 아래에 있는 이들의 의지와 신체를 분쇄합니다. 피해에서 살아남은 크리쳐는 <LSTag Type="
+"\"Status\" Tooltip=\"PRONE\">엎어짐</LSTag> 상태에 빠집니다. "
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:202
 msgctxt "hb3fa27a6g504dg4c44gb302g6b0803e31356"
@@ -13328,32 +13436,32 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:203
 msgctxt "h689469ebg0d20g4051g9bc8g8893a7b5ceff"
 msgid "Tug a target into range."
-msgstr ""
+msgstr "대상을 범위 내로 끌어당깁니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:214
 msgctxt "hf721267bg07a9g4b8bg92e7ga7d5c77439af"
 msgid "Incineration Caster: Overheat"
-msgstr ""
+msgstr "소각 시전자: 과열"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:215
 msgctxt "h32cc8fcbg286ag4fefg9db9g5d3d4ff60bc9"
 msgid "Malfunction, exploding outwards in a fiery mess. "
-msgstr ""
+msgstr "오작동, 폭발하여 맹렬한 불씨를 내뿜습니다. "
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:232
 msgctxt "h516f60d9g38d7g4ff6gaff8g0342b929a4ef"
 msgid "Apply Reflectoguard"
-msgstr ""
+msgstr "반사 보호구 적용"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:233
 msgctxt "hc8b5fb91g3302g48a9ga6d5g2d073f7188eb"
 msgid "Reflect all projectiles to their origin."
-msgstr ""
+msgstr "모든 투사체를 반사해 발사 지점으로 되돌립니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:249
 msgctxt "h46feef31g2560g42acgbf85g85144a448ea6"
 msgid "Steel Watch Overclock Protocol"
-msgstr ""
+msgstr "스틸 워치 오버클럭 프로토콜"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:250
 msgctxt "h382b1d99g05e5g4efegb356g10fd6afc2b31"
@@ -13361,11 +13469,12 @@ msgid ""
 "Grant nearby Steel Watchers an additional <LSTag Tooltip=\"Action\">action</"
 "LSTag> with roiling arcana."
 msgstr ""
+"요동치는 비전으로 주변의 모든 스틸 와쳐에게 <LSTag Tooltip=\"Action\">행동</LSTag>을 하나 더 부여합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:279
 msgctxt "h9d5c2473gcb33g4f53gaec1gd2c60b67e09d"
 msgid "Ensnaring Shock Explosion"
-msgstr ""
+msgstr "구속의 충격 폭발"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:294
 msgctxt "h7797242agd746g4197g9d2bg2ff084507610"
@@ -13375,42 +13484,42 @@ msgstr "망자 되살리기"
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:295
 msgctxt "he4b942a4g616dg44d1gbfb5gc4612577daf6"
 msgid "Turn a corpse into a zombie."
-msgstr ""
+msgstr "시체를 좀비로 되살립니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:309
 msgctxt "h7ad12a2bg9d88g4593g8c32g46a12174403d"
 msgid "Lunar Flare"
-msgstr ""
+msgstr "달의 불길"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:310
 msgctxt "hc2fdc7cdgba8fg48e4gb0a8gcfc98e3d358b"
 msgid ""
 "Fire a mote of moonlight that spills roiling Holy Fire in a [1] radius where "
 "it impacts."
-msgstr ""
+msgstr "달빛의 티끌을 던져 목표 지점의 [1] 반경을 신성한 불꽃으로 뒤덮습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:336
 msgctxt "h5abad6b5gd171g4245gb6e1gd4e4e92b1ae9"
 msgid "Grating Trap"
-msgstr ""
+msgstr "창살 함정"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:337
 msgctxt "h35fbff5eg5371g4a9dg9468g30c954d1b50f"
 msgid ""
 "The iron grating rises up, piercing anyone standing on the trap, and pushing "
 "them back [1]."
-msgstr ""
+msgstr "쇠창살이 솟아올라 함정을 밟고 있는 모두를 찌르고 [1] 멀리 밀어냅니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:380
 msgctxt "hcb73c6a3g3f94g418bg8e9egee9a2ae1b414"
 msgid "Firewine Explosion"
-msgstr ""
+msgstr "불꽃포도주 폭발"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:381
 msgctxt "h1f32f0dagbc60g48f5g976agf2cb6e1df9ac"
 msgid ""
 "Fire ignites the alcohol remaining in the corpse, creating an explosion."
-msgstr ""
+msgstr "시체에 남은 알코올에서 불꽃이 타오르며 폭발합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:401
 msgctxt "h0221c73eg2c74g48fbg96ffg1a4a29ba74f8"
@@ -13669,7 +13778,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:791
 msgctxt "hc660ae90g4d69g4fe3ga0afg061582281c53"
 msgid "Explode and create a poisonous cloud."
-msgstr ""
+msgstr "폭발하여 독성 구름을 생성합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Projectile.txt:817
 msgctxt "h6fefa3beg84fbg4c2bg8f22g13981bd823c2"
@@ -14531,7 +14640,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Shout.txt:725
 msgctxt "heaa50e40g0b6ag49edgaea5g4e81a6132c51"
 msgid "Whossa Large Fellow?"
-msgstr ""
+msgstr "이제 누가 더 크지?"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Shout.txt:726
 msgctxt "h86e85ad6g52bfg4b81gb878g8169d2647c72"
@@ -17732,14 +17841,13 @@ msgid "Elemental Retort"
 msgstr "원소의 앙갚음"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Target.txt:3789
-#, fuzzy
 msgctxt "h8ea43c38gaaf4g4e69g9da2g54a35cff7c98"
 msgid ""
 "When you take damage, you can retaliate, blasting your attacker with the "
 "elemental damage of each myrmidon currently <LSTag Type=\"Passive\" Tooltip="
 "\"LOW_RamazithsTower_ElementalSiphon\">Siphoned</LSTag>."
 msgstr ""
-"데미지를 입을 때, 현재 <LSTag Type=\"Passive\" Tooltip="
+"피해를 받으면, 현재 <LSTag Type=\"Passive\" Tooltip="
 "\"LOW_RamazithsTower_ElementalSiphon\">흡수된</LSTag> 각 미르미돈의 속성으로 반격합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Target.txt:3826
@@ -18255,7 +18363,7 @@ msgstr "은빛의 검"
 msgctxt "h44bcfd62g6c87g4942g97bcg5b5ab92c7bf2"
 msgid ""
 "Summon Dame Aylin, Selûne's shining paladin, to join your side in battle."
-msgstr "곁에서 함께 싸우는 셀루네의 빛나는 팔라딘, 여기사 에일린을 소환합니다."
+msgstr "셀루네의 빛나는 팔라딘, 여기사 에일린을 소환합니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Target.txt:5122
 msgctxt "h8eadfd16g2e13g4590gb62bg633680a154ed"
@@ -20167,7 +20275,7 @@ msgctxt "h9fff9fd1gf400g419dgaf9fgd488e0ecf0c3"
 msgid ""
 "Affected entity is <LSTag Tooltip=\"Resistant\">Resistant</LSTag> to "
 "Necrotic damage until your next Long Rest."
-msgstr "해당 개체는 다음 긴 휴식까지 괴사 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 갖습니다."
+msgstr "해당 개체는 다음 긴 휴식까지 괴저 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 갖습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:1491
 msgctxt "h09d92b05gfbf2g42d9g96c3gceb7bb3c4e31"
@@ -23837,7 +23945,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:6085
 msgctxt "hf90fb763g3a25g4075ga3fbgfe294d4fa243"
 msgid "Outer-Entity Slayer"
-msgstr ""
+msgstr "이계체 학살자"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:6086
 msgctxt "h5da79beeg134fg4c60gab0bg3b8d4a3cc2c3"
@@ -23845,6 +23953,8 @@ msgid ""
 "When wielded against fey, fiends, or undead foes, this weapon has a +[1] "
 "bonus to Damage and <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag>."
 msgstr ""
+"이 무기는 페이, 마족, 또는 언데드 적을 상대할 때 피해와 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag>에 +[1] 보너스를 가집니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:6096
 msgctxt "h71e83d44g98cfg46a0ga4b9gbc97f9018792"
@@ -26205,7 +26315,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:9019
 msgctxt "hff20dc94gf553g4830ga727gd26c466e90f4"
 msgid "Throwing: Fire Damage"
-msgstr ""
+msgstr "던지기: 화염 피해"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:9020
 msgctxt "h888b7919ga078g4c61g95e6g0c70bc1cdc05"
@@ -26755,7 +26865,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:9936
 msgctxt "h55d9dbeeg4973g4343gb34bg6ffac681f557"
 msgid "Sharran Retribution"
-msgstr ""
+msgstr "샤의 응징"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:9937
 msgctxt "h58ab682fga8d0g4939g83feg0edbd1ffc068"
@@ -26763,6 +26873,8 @@ msgid ""
 "<LSTag Type=\"Status\" Tooltip=\"SHIELD_OF_FAITH\">Shield of Faith</LSTag> "
 "reduces all damage by [1] and deals [2] back at the attacker."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"SHIELD_OF_FAITH\">신앙의 방패</LSTag>가 받는 모든 피해를 "
+"[1] 만큼 감소시키고 공격자에게 [2]를 되돌려줍니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:9950
 msgctxt "hc39e090bgeb2eg4898g9f6bg8ba8a37b0c4a"
@@ -28507,7 +28619,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_INCAPACITATED.txt:206
 msgctxt "he117d030ga042g40b7g9f74gce163f534a33"
 msgid "Soul Caged"
-msgstr ""
+msgstr "영혼 감옥"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_INCAPACITATED.txt:207
 msgctxt "hefa6f302gb34bg45b2g9c15gc3b8919f9901"
@@ -28640,6 +28752,11 @@ msgid ""
 "The Nightsong can be <LSTag Type=\"Spell\" Tooltip=\"Target_Help\">Helped</"
 "LSTag> out of the Soul Cage."
 msgstr ""
+"영혼 감옥이 나이트송을 구속해 케서릭을 모든 피해에 <LSTag Tooltip=\"Immune\">면역</LSTag>으로 만들어주는 "
+"수단으로 이용합니다.\n"
+"\n"
+"나이트송은 <LSTag Type=\"Spell\" Tooltip=\"Target_Help\">도움의 손길</LSTag>로 영혼 감옥에서 "
+"벗어날 수 있습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_INCAPACITATED.txt:413
 msgctxt "hf43f76ccg08a6g4450g8528gcf414c9a08e5"
@@ -30561,7 +30678,7 @@ msgctxt "h4290e9c1ga5abg4f18g8243g7410a1457f60"
 msgid ""
 "You can see normally in darkness, both magical and non-magical, to a "
 "distance of [1]."
-msgstr "어둠(마법적이든 일반적이든) 속에서도 최대 [1] 앞까지 볼 수 있습니다."
+msgstr "마법적인 어둠과 일반적인 어둠 속에서도 [1] 앞까지 볼 수 있습니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Passive.txt:603
 msgctxt "ha21fd129ga099g435ag9297gc77a566a5901"
@@ -30655,7 +30772,7 @@ msgstr "레벨 6에 도달하면, 번개 피해를 입히는 주문이 강화되
 #: Shared/Public/Shared/Stats/Generated/Data/Passive.txt:660
 msgctxt "h7af63d37g3b73g49b9gb516gc3dd467a81da"
 msgid "Draconic Ancestry: Copper (Acid)"
-msgstr "드래곤 조상: 코퍼 (산성)"
+msgstr "드래곤 조상: 카퍼 (산성)"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Passive.txt:661
 msgctxt "h7e8c10feg3700g4bd3gac10g84e6d924e34b"
@@ -32277,9 +32394,9 @@ msgid ""
 ">Religion</LSTag> thanks to your studies of people and the things they "
 "believe in."
 msgstr ""
-"사람, 그리고 그들이 믿는 존재에 대한 연구 덕분에 당신은 <LSTag Tooltip=\"Insight\">통찰</LSTag> 과 "
-"<LSTag Tooltip=\"Religion\">종교</LSTag> 분야에서 <LSTag Tooltip=\"Proficiency\""
-">숙련</LSTag> 을 가집니다."
+"사람, 그리고 그들이 믿는 것에 대한 연구 덕분에 당신은 <LSTag Tooltip=\"Insight\">통찰</LSTag>과 "
+"<LSTag Tooltip=\"Religion\">종교</LSTag>에 <LSTag Tooltip=\"Proficiency\">숙련</"
+"LSTag> 을 가집니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Passive.txt:1669
 msgctxt "hca6dc39agec99g4571g8f52gaa41b7ec2f69"
@@ -37174,7 +37291,7 @@ msgstr ""
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Shout.txt:9
 msgctxt "ha19696e1gf837g4665g86feg7e149abcfa12"
 msgid "Action Surge"
-msgstr "연쇄 행동"
+msgstr "행동 연쇄"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Shout.txt:10
 msgctxt "h0ef20d23g3616g4c1cg8300gb41624ac5de7"
@@ -37670,7 +37787,7 @@ msgstr ""
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Shout.txt:739
 msgctxt "h93442687gdbfbg40ebg813cg0ecb8528ee0f"
 msgid "Step of the Wind: Disengage"
-msgstr ""
+msgstr "바람의 걸음: 철수"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Shout.txt:740
 msgctxt "h2f7dc989gaaeeg428fga015g48d998672c01"
@@ -40070,7 +40187,7 @@ msgstr "보조 무기로 근접 공격을 가합니다."
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Target.txt:220
 msgctxt "hca5ca0e1g2bd1g4977g8766g3cd014581c7f"
 msgid "Unarmed Strike"
-msgstr "비무장 공격"
+msgstr "비무장 타격"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Target.txt:221
 msgctxt "h5b6f4e2aga544g4bbag96feg8b26b8d634f2"
@@ -41623,7 +41740,7 @@ msgid ""
 "\">Attack Roll</LSTag>, <LSTag Tooltip=\"AbilityCheck\">Ability Check</"
 "LSTag>, or <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag>."
 msgstr ""
-"아군을 고무시켜 다음 <LSTag Tooltip=\"AttackRoll\">공격 굴림</LSTag>, <LSTag Tooltip="
+"아군을 고무시켜 다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip="
 "\"AbilityCheck\">능력치 판정</LSTag>, 또는 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
 "LSTag>에 +[1] 보너스를 부여합니다."
 
@@ -41640,7 +41757,7 @@ msgid ""
 "LSTag>, <LSTag Tooltip=\"SavingThrow\">Saving Throw</LSTag>, weapon damage, "
 "or  <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag>."
 msgstr ""
-"아군을 고무시켜 다음 <LSTag Tooltip=\"AttackRoll\">공격 굴림</LSTag>, <LSTag Tooltip="
+"아군을 고무시켜 다음 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip="
 "\"AbilityCheck\">능력치 판정</LSTag>, <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
 "LSTag>, 무기 피해, 또는 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +[1] 보너스를 "
 "부여합니다."
@@ -41885,7 +42002,7 @@ msgid ""
 "receives <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on <LSTag "
 "Tooltip=\"AttackRoll\">Attack Rolls</LSTag>."
 msgstr ""
-"당신의 다음 턴까지 대상은 체력을 회복할 수 없습니다. 대상이 언데드라면 또한 <LSTag Tooltip=\"AttackRoll\">공격 "
+"당신의 다음 턴까지 대상은 체력을 회복할 수 없습니다. 대상이 언데드라면 또한 <LSTag Tooltip=\"AttackRoll\">명중 "
 "굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 부여합니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Target.txt:3898
@@ -46066,7 +46183,7 @@ msgid ""
 "Throws</LSTag>."
 msgstr ""
 "움직일 수 없습니다. 해당 개체를 향한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>은 <LSTag "
-"Tooltip=\"Advantage\">이점</LSTag>을 가지는 반면, 자신의 공격 굴림은 <LSTag Tooltip="
+"Tooltip=\"Advantage\">이점</LSTag>을 가지는 반면, 자신의 명중 굴림은 <LSTag Tooltip="
 "\"Disadvantage\">불리점</LSTag>을 가집니다. 또한 민첩 <LSTag Tooltip=\"SavingThrow\">내성 "
 "굴림</LSTag>에도 불리점을 가집니다."
 
@@ -46664,7 +46781,7 @@ msgstr "자신의 턴 종료 시 [1]를 입습니다."
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:1491
 msgctxt "h129c8bc7g2be9g4f49g89e6geaaebf8922c4"
 msgid "Action Surge"
-msgstr "연쇄 행동"
+msgstr "행동 연쇄"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:1492
 msgctxt "h8c2092e1gd9a7g400cg9350gab9a4bf3ee98"
@@ -50734,9 +50851,10 @@ msgid ""
 msgstr "최근에 화염 피해를 입지 않은 한, 우드 워드가 뒤틀린 덩굴 표면 위에서 턴을 시작하면 [1]을 회복합니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:5887
+#, fuzzy
 msgctxt "hc1376f1bg8657g4767ga526g4424ef674648"
 msgid "Regeneration Broken"
-msgstr ""
+msgstr "재생 끊김"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:5888
 msgctxt "hebd2c791g3582g4015gbe19gcd54b692374a"
@@ -50744,6 +50862,8 @@ msgid ""
 "The wood woad was damaged by Fire and will not <LSTag Type=\"Status\" "
 "Tooltip=\"WOOD_WOAD_REGENERATION\">regenerate</LSTag>."
 msgstr ""
+"우드 워드가 화염에 피해를 받아 <LSTag Type=\"Status\" Tooltip=\"WOOD_WOAD_REGENERATION\""
+">재생</LSTag>하지 못합니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_BOOST.txt:5898
 msgctxt "h191cd202g748eg43c8g8c9eg6d5adcf7d8a1"
@@ -52352,7 +52472,7 @@ msgid ""
 "reactions.<Br><Br>Attacks against the entity are always <LSTag Tooltip="
 "\"CriticalHit\">Critical Hits</LSTag> if the attacker is within [1]."
 msgstr ""
-"영향을 받은 개체는 움직이거나 행동, 추가 행동, 또는 반응 행동을 취할 수 없습니다.<Br><Br>[1] 내에서 개체를 향해 가해지는 "
+"영향을 받은 개체는 이동하거나 행동, 추가 행동, 또는 반응 행동을 취할 수 없습니다.<Br><Br>[1] 내에서 개체를 향해 가해지는 "
 "공격은 반드시 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중합니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_INCAPACITATED.txt:83
@@ -52504,7 +52624,7 @@ msgid ""
 "reactions.<Br><Br>Attacks against the entity are always <LSTag Tooltip="
 "\"CriticalHit\">Critical Hits</LSTag> if the attacker is within [1]."
 msgstr ""
-"영향을 받은 개체는 움직이거나 행동, 추가 행동, 또는 반응 행동을 취할 수 없습니다.<Br><Br>[1] 내에서 개체를 향해 가해지는 "
+"영향을 받은 개체는 이동하거나 행동, 추가 행동, 또는 반응 행동을 취할 수 없습니다.<Br><Br>[1] 내에서 개체를 향해 가해지는 "
 "공격은 반드시 <LSTag Tooltip=\"CriticalHit\">치명타</LSTag>로 적중합니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Status_INCAPACITATED.txt:315
@@ -57675,7 +57795,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:2812
 msgctxt "hb7a685afg8222g4725g9420g8314f41bd005"
 msgid "Fear of Wolves"
-msgstr "늑대의 공포"
+msgstr "늑대 공포증"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:2813
 msgctxt "hc90fd4f8g791dg499cg8366g9f1ece78ce66"
@@ -57685,9 +57805,9 @@ msgid ""
 "\"SavingThrow\">Saving Throw</LSTag> or become <LSTag Type=\"Status\" "
 "Tooltip=\"FRIGHTENED\">Frightened</LSTag>."
 msgstr ""
-"섀도하트는 늑대와 마주치게 되면 공포감으로 머리를 콕콕 쑤시는 듯한 고통을 느낍니다 . 그녀가 늑대류의 생물로부터 [1] 이내에 "
-"들어서면, 지혜 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>을 통과해야 하며, 그렇지 못하면 "
-"<LSTag Type=\"Status\" Tooltip=\"FRIGHTENED\">공포</LSTag> 상태가 됩니다."
+"섀도하트는 늑대와 마주치면 공포감으로 머리를 콕콕 쑤시는 듯한 고통을 느낍니다. 늑대류 크리쳐의 [1] 이내에 들어서면 지혜 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>을 통과해야 하며, 실패하면 <LSTag Type=\"Status\" "
+"Tooltip=\"FRIGHTENED\">공포</LSTag> 상태가 됩니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:2820
 msgctxt "ha1c4fa79ge1c9g4693ga2bfgbf104cc00623"
@@ -58250,7 +58370,7 @@ msgstr "연금술 재료"
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3374
 msgctxt "h67a9a88dg7632g4aafg94f5g4a9d618470bb"
 msgid "Combine 3 of these to create a <hl>Suspension</hl>."
-msgstr "같은 것 3개를 결합해 <hl>혼합액</hl>으로 만듭니다."
+msgstr "같은 것 3개를 결합해 <hl>현탁액</hl>으로 만듭니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3378
 msgctxt "h739f3c11g15bfg4332g89e4g0c12fa17fb0d"
@@ -58260,7 +58380,7 @@ msgstr "연금술 추출물"
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3379
 msgctxt "h14368745g7363g48a2g97dcg9b30fc17d20e"
 msgid "Combine with <hl>Salts</hl> to stabilise this extract's fiery nature."
-msgstr ""
+msgstr "<hl>염</hl>과 결합해 이 추출물의 불과 같은 기운을 안정화합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3383
 msgctxt "h93d05e19ge95eg4e17g86e8g5d99a457cbc3"
@@ -58270,7 +58390,7 @@ msgstr "연금술 추출물"
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3384
 msgctxt "h4579db1dg569bg45ccgb479g70cc28c85ff1"
 msgid "Combine with <hl>Essence</hl> to rekindle the magic in this extract."
-msgstr "<hl>정수</hl>와 결합시켜 이 추출물에 있는 마법을 다시 살리십시오."
+msgstr "<hl>정수</hl>와 결합해 이 추출물의 마법을 되살립니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3388
 msgctxt "he9fee405ge3f7g47b6gad0fg7f763ec8391a"
@@ -58278,12 +58398,13 @@ msgid "Alchemical Extract"
 msgstr "연금술 추출물"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3389
+#, fuzzy
 msgctxt "h2bc4bdf5g1cb8g4471ga5b5g96aa8fafbb95"
 msgid ""
 "Combine with <hl>Ashes</hl> to release the arcane properties of this airy "
 "extract, creating a potion that will dramatically increase your jump "
 "distance."
-msgstr ""
+msgstr "<hl>잿가루</hl>와 결합해 이 추출물의 비전적 성질을 해방하여, 도약 거리를 크게 증가시키는 물약을 만듭니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3393
 msgctxt "h66a09901gcc6fg4595gbaafg30a7fa07f98e"
@@ -58294,7 +58415,7 @@ msgstr "연금술 추출물"
 msgctxt "h408946a0gafd0g4941ga0d5gc5d8dc83d643"
 msgid ""
 "Combine with <hl>Essence</hl> to liberate this airy extract's true potential."
-msgstr "<hl>정수</hl>와 결합시켜 이 가벼운 추출물의 진정한 잠재력을 해방시키십시오."
+msgstr "<hl>정수</hl>와 결합해 이 가벼운 추출물의 진정한 잠재력을 해방합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3398
 msgctxt "hc12340b4g61feg4736g86e9g363e504dbe52"
@@ -58304,7 +58425,7 @@ msgstr "연금술 추출물"
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3399
 msgctxt "h3674c6a0gcf2fg4a62g8b39gbb49974b1622"
 msgid "Combine with a <hl>Suspension</hl> to create a powerful solution."
-msgstr ""
+msgstr "<hl>현탁액</hl>과 결합해 강력한 용액을 만듭니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3403
 msgctxt "hcb433cefg5b20g484eg8f8cg24e49c816d37"
@@ -58314,7 +58435,7 @@ msgstr "연금술 추출물"
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3404
 msgctxt "h6a523fb1gb661g477bg9addg06805a0504d5"
 msgid "Combine with <hl>Vitriol</hl> for a first-rate solution."
-msgstr ""
+msgstr "<hl>황산염</hl>과 결합해 최상급 용액을 만듭니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3408
 msgctxt "hec3b8286g596dg4528ga5acgfafdcd334c52"
@@ -58324,7 +58445,7 @@ msgstr "연금술 추출물"
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3409
 msgctxt "h9010aa08g3b3eg4472ga5a4g727bd7979e73"
 msgid "Combine with a <hl>Sublimate</hl> for an airy but potent solution."
-msgstr ""
+msgstr "<hl>승화물</hl>과 결합해 가볍고도 강력한 용액을 만듭니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3413
 msgctxt "hc1de9db3gef41g4538ga75cgb1492f31fa7c"
@@ -58335,7 +58456,7 @@ msgstr "연금술 추출물"
 msgctxt "h1444f43ag3144g4e12ga6bag96467a546729"
 msgid ""
 "Combine with <hl>Vitriol</hl> to give this watery extract the power it needs."
-msgstr ""
+msgstr "<hl>황산염</hl>과 결합해 이 묽은 추출물에 힘을 부여합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3418
 msgctxt "h5683dfc6gf4aeg4da9g80cagec56695592fa"
@@ -58347,7 +58468,7 @@ msgctxt "h53ff7b22g7d0cg4082g9079g4b7a47879d1b"
 msgid ""
 "Combine with <hl>Salts</hl> to ground the magic contained in this ephemeral "
 "extract."
-msgstr ""
+msgstr "<hl>염</hl>과 결합해 이 덧없는 추출물의 마법을 잡아둡니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3423
 msgctxt "hc30c351dg88d1g467bg8d9cg8973139805af"
@@ -58359,7 +58480,7 @@ msgctxt "h2794ed5cg77f0g4a95g9a67gae8ec43d5802"
 msgid ""
 "Combine with a <hl>Suspension</hl> as not to dull the extract's vibrant "
 "magic."
-msgstr ""
+msgstr "<hl>현탁액</hl>과 결합해 이 추출물이 가진 마법의 힘을 유지합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3428
 msgctxt "he73da671g2abfg4c03gb768g4e61026dd889"
@@ -58371,7 +58492,7 @@ msgctxt "hd6a23808g204eg4738g8dbbgbde5774d6548"
 msgid ""
 "Combine with <hl>Ashes</hl> to burn away this extract's more repulsive "
 "aspects."
-msgstr ""
+msgstr "<hl>잿가루</hl>와 결합해 이 추출물의 부작용을 제거합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3433
 msgctxt "h36129f39gd393g45c7gb733ge01d9129640a"
@@ -58381,7 +58502,7 @@ msgstr "연금술 추출물"
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3434
 msgctxt "h3fbaf4efg854fg4b9dg9bddg8f06bc997b33"
 msgid "Combine with a <hl>Sublimate</hl> to purify this foul extract."
-msgstr ""
+msgstr "<hl>승화물</hl>과 결합해 이 추출물을 정화합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3438
 msgctxt "hed68c037g2edcg4c02ga829gaad44bee8d0a"
@@ -58653,7 +58774,7 @@ msgstr "우월한 재료"
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3655
 msgctxt "h55624d56g5e10g488cgaaeeg5d15ed233e60"
 msgid "You take [1] less Slashing damage."
-msgstr "베기에 받는 피해가 [1] 감소합니다."
+msgstr "받는 베기 피해가 [1] 만큼 감소합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3667
 msgctxt "h0a027cf9g063cg4e7fg89f0g09fe6fb0ab68"
@@ -58728,7 +58849,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3745
 msgctxt "h05e94d9eg15feg4151gae95g17ba0c3c39c7"
 msgid "Magical Plate"
-msgstr ""
+msgstr "마법 갑옷"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3746
 msgctxt "hcfffddb5g33c6g45c7gb3e8g153bd1bcbf70"
@@ -58751,13 +58872,13 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3771
 msgctxt "h1ef55a95g7073g4a06g82feg1cb443bce5a8"
 msgid "Stealthy"
-msgstr ""
+msgstr "은밀함"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3772
 msgctxt "h3e1bf121gff26g45fbg8fcdgcc2b96ca7298"
 msgid ""
 "Gain a +[1] bonus to Stealth <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>."
-msgstr ""
+msgstr "은신 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 +[1] 보너스를 얻습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Projectile.txt:15
 msgctxt "h9425b988gfa9fg4032g9858g68069eb341a2"
@@ -60196,7 +60317,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:439
 msgctxt "h1a94c127ga841g4d55g9c05g2b85ce506e91"
 msgid "Step of the Wind: Dash"
-msgstr ""
+msgstr "바람의 걸음: 질주"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:440
 msgctxt "h1edbc190gdde8g4b3bgbfa6g294167324391"
@@ -60205,11 +60326,13 @@ msgid ""
 "longer requires a <LSTag Type=\"ActionResource\" Tooltip=\"BonusActionPoint\""
 ">bonus action</LSTag>."
 msgstr ""
+"<LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 두 배가 됩니다. 도약에 <LSTag Type="
+"\"ActionResource\" Tooltip=\"BonusActionPoint\">추가 행동</LSTag>이 필요하지 않게 됩니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:468
 msgctxt "h4feee684g3659g46eega6cbg55cc38432e79"
 msgid "Step of the Wind: Disengage"
-msgstr ""
+msgstr "바람의 걸음: 철수"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:469
 msgctxt "h2ec77490g6d3bg4a26gb11fg38e9fb30e4cd"
@@ -60218,6 +60341,9 @@ msgid ""
 ">Disengaging</LSTag>. Jump no longer requires a <LSTag Type=\"ActionResource"
 "\" Tooltip=\"BonusActionPoint\">bonus action</LSTag>."
 msgstr ""
+"<LSTag Type=\"Spell\" Tooltip=\"Shout_Disengage\">철수</LSTag>해 안전하게 후퇴합니다. "
+"도약에 <LSTag Type=\"ActionResource\" Tooltip=\"BonusActionPoint\">추가 행동</"
+"LSTag>이 필요하지 않게 됩니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:483
 msgctxt "h078a4616g2b89g4cedg9ecagd5f4a5ec4a51"
@@ -60705,6 +60831,9 @@ msgid ""
 "\"Advantage\">Advantage</LSTag> on Dexterity <LSTag Tooltip=\"SavingThrow\""
 ">Saving Throws</LSTag>."
 msgstr ""
+"당신을 상대로 한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>은 <LSTag Tooltip="
+"\"Disadvantage\">불리점</LSTag>을 가집니다. 당신은 민첩 <LSTag Tooltip=\"SavingThrow\">내성 "
+"굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:1858
 msgctxt "hd5070378gecd0g4aa7g9f64ge8d6f81b84ff"
@@ -62774,12 +62903,12 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:708
 msgctxt "h69adc5a5ge60ag4affg84a0gd14490176db0"
 msgid "Unarmed Strike"
-msgstr ""
+msgstr "비무장 타격"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:709
 msgctxt "hefec7f3fg7e34g4a1ag97a4gc4223e9e32b4"
 msgid "Swiftly strike an enemy as a bonus action."
-msgstr ""
+msgstr "추가 행동으로 적을 빠르게 타격합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:914
 msgctxt "h2a89f409gcf03g491eg9ceeg7fb7d582775c"
@@ -68021,7 +68150,7 @@ msgctxt "h1b60bee0geb62g4184ga679g1e7f6de42926"
 msgid ""
 "The paladin and any nearby fiends and undead deal an additional [1] to "
 "damage dealt with melee weapons."
-msgstr "팔라딘과 근처의 마족과 언데드는 근접 무기 피해량이 [1] 증가합니다."
+msgstr "팔라딘과 근처의 마족, 언데드는 근접 무기 피해량이 [1] 증가합니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:206
 msgctxt "hfa4ad8dfge9efg4f7fg8bc2g664c49a83964"
@@ -70271,7 +70400,7 @@ msgstr "%%% EMPTY"
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:3439
 msgctxt "h1d553970g7ee0g4268g9dbeg81ea881399fb"
 msgid "Step of the Wind"
-msgstr ""
+msgstr "바람의 걸음"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:3440
 msgctxt "hf9ce7c6eg3eb7g4d8bgafeagcb5e423b7b76"
@@ -70279,6 +70408,8 @@ msgid ""
 "Jumping no longer requires a <LSTag Type=\"ActionResource\" Tooltip="
 "\"BonusActionPoint\">bonus action</LSTag>."
 msgstr ""
+"<LSTag Type=\"ActionResource\" Tooltip=\"BonusActionPoint\">추가 행동</LSTag>을 "
+"사용하지 않고 도약할 수 있습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:3450
 #, fuzzy
