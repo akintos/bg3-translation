@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-24 16:34+0000\n"
-"Last-Translator: EDIX <mbc1982@naver.com>\n"
+"PO-Revision-Date: 2023-08-27 03:53+0000\n"
+"Last-Translator: DaeHyun <eoen166@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/levelitems/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6195,8 +6195,7 @@ msgctxt "h50f09920g17cfg419dg8bcegc2bd5d39b894"
 msgid ""
 "A letter from 'Amarith' to 'Lenore', expressing the former's concern about "
 "the latter's pet bulette."
-msgstr "레노어의 애완 불레이에 대한 걱정을 표현하고 있는, '아마리스'가 '레노어'에게 "
-"보내는 편지."
+msgstr "레노어의 애완 불레트에 대한 걱정을 표현하고 있는, '아마리스'가 '레노어'에게 보내는 편지."
 
 #. FilePath = Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -9126,19 +9125,11 @@ msgstr ""
 #. Name = S_FOR_Scroll_SummonQuasit
 #. Type = item
 #: Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:120180
-#, fuzzy
-#| msgid ""
-#| "Summon a quasit from the Lower Planes.\n"
-#| "\n"
-#| "<i>The scroll is destroyed upon use. </i>"
 msgctxt "h1596affdg6d91g4e88g9f32gdfeff9be34fc"
 msgid ""
 "Summon a quasit from the Lower Planes. <i>The scroll is destroyed upon "
 "use.</i>"
-msgstr ""
-"하위 위상으로부터 콰지트를 소환합니다.\n"
-"\n"
-"<i>두루마리는 사용 후 없어집니다. </i>"
+msgstr "하위 위상으로부터 콰지트를 소환합니다. <i>두루마리는 사용 후 없어집니다. </i>"
 
 #. FilePath = Gustav/Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12150,7 +12141,7 @@ msgstr "양초"
 #: Gustav/Mods/Gustav/Levels/WLD_ZhentarimBasement_B/Items/_merged.lsx:2447
 msgctxt "h095a377fgbc02g4653g9bbagf484263f9a91"
 msgid "Stone Wall"
-msgstr ""
+msgstr "돌벽"
 
 #. FilePath = Gustav/Mods/Gustav/Levels/WLD_ZhentarimBasement_B/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12194,7 +12185,7 @@ msgstr "바리케이드"
 #: Gustav/Mods/GustavDev/Levels/BGH_ArtistHouse_A/Items/_merged.lsx:1604
 msgctxt "h96a67362g9adfg43c9gb128gdccf4d91166f"
 msgid "Rotting Basket"
-msgstr ""
+msgstr "썩어가는 바구니"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_ArtistHouse_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12205,7 +12196,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_ArtistHouse_A/Items/_merged.lsx:2554
 msgctxt "h87381fb5g680eg404ega52fg420e2ba2e203"
 msgid "Cutting Board"
-msgstr ""
+msgstr "도마"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_ArtistHouse_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12216,7 +12207,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_ArtistHouse_A/Items/_merged.lsx:3118
 msgctxt "h7ec9bd9cg9df3g4b8dg961agce5dfd6b7f77"
 msgid "Cutting Board"
-msgstr ""
+msgstr "도마"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_ArtistHouse_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12227,7 +12218,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_ArtistHouse_A/Items/_merged.lsx:4436
 msgctxt "h7ab30098gc4c9g45e3g8cc4gb8d5eceadbda"
 msgid "Disguise Kit"
-msgstr ""
+msgstr "위장 도구"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_ArtistHouse_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12238,7 +12229,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_ArtistHouse_A/Items/_merged.lsx:7516
 msgctxt "h1d9cf67bg6a13g41bdg8596g3c84f16b2d34"
 msgid "Mirror"
-msgstr ""
+msgstr "거울"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BaldursMouthGazette_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12249,7 +12240,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BaldursMouthGazette_A/Items/_merged.lsx:3812
 msgctxt "h67d5a23ag6324g453bgb62dgf7db1bbc1a4d"
 msgid "Baldur's Mouth Gazette"
-msgstr ""
+msgstr "발더스 마우스 신문"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BaldursMouthGazette_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12260,7 +12251,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BaldursMouthGazette_A/Items/_merged.lsx:3822
 msgctxt "h97267eedga7d9g4ca6gb643gca3e4a3bfa52"
 msgid "Baldur's Mouth Gazette"
-msgstr ""
+msgstr "발더스 마우스 신문"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BaldursMouthGazette_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12271,7 +12262,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BaldursMouthGazette_A/Items/_merged.lsx:4069
 msgctxt "h41288dcdg4ddeg48c9g830ag00a57b00701b"
 msgid "Baldur's Mouth Gazette"
-msgstr ""
+msgstr "발더스 마우스 신문"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BaldursMouthGazette_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12282,7 +12273,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BaldursMouthGazette_A/Items/_merged.lsx:4081
 msgctxt "h48df9bd8g4f53g4969g98dfgfd850f579d71"
 msgid "Baldur's Mouth Gazette"
-msgstr ""
+msgstr "발더스 마우스 신문"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BaldursMouth_Basement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12293,7 +12284,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BaldursMouth_Basement_A/Items/_merged.lsx:248
 msgctxt "h97f9045fgb7cbg4c07g875eg05a654066945"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BaldursMouth_Basement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12304,7 +12295,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BaldursMouth_Basement_A/Items/_merged.lsx:954
 msgctxt "h85dd239bg4851g408ag9668ge41ddce7f8df"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BlushingMermaidCellarB/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12315,7 +12306,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BlushingMermaidCellarB/Items/_merged.lsx:707
 msgctxt "ha5ccbd9cg28b6g441cg9337ge946e33a3ca2"
 msgid "Candles"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BlushingMermaid_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12326,7 +12317,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BlushingMermaid_A/Items/_merged.lsx:189
 msgctxt "h24e84846gce5fg47d0g9c7fg4d0b1aee28c7"
 msgid "Drink up!"
-msgstr ""
+msgstr "마셔!"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BlushingMermaid_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12348,7 +12339,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BlushingMermaid_A/Items/_merged.lsx:4624
 msgctxt "h1d9ff665g8312g4f75g9abfge20a34542cc3"
 msgid "Silver Plate"
-msgstr ""
+msgstr "은 접시"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BlushingMermaid_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12359,7 +12350,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BlushingMermaid_A/Items/_merged.lsx:5927
 msgctxt "he6272f2fgd62cg4fa3ga770g12df536b397b"
 msgid "Rickety Chair"
-msgstr ""
+msgstr "흔들리는 의자"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BlushingMermaid_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12370,7 +12361,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BlushingMermaid_A/Items/_merged.lsx:6360
 msgctxt "hc54b0017gcb04g466egb41fg1f28c5f7bb81"
 msgid "Wooden Lid"
-msgstr ""
+msgstr "나무 뚜껑"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_BonecloaksApothecary_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12414,7 +12405,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_BonecloaksApothecary_Basement_A/Items/_merged.lsx:2312
 msgctxt "h0e3df303g84f2g4160g8870g1b40ee75cf67"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_CountingHouseVaultConnection_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12640,7 +12631,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Countinghouse_C/Items/_merged.lsx:6167
 msgctxt "h39335fd5g08e6g4467g8655g780d35e0e73b"
 msgid "Landscape"
-msgstr ""
+msgstr "풍경화"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Countinghouse_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12663,7 +12654,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_DiabolistHouse_A_ART/Items/_merged.lsx:2111
 msgctxt "hbb40397fgdda1g42e3g9426g9df6195cd0de"
 msgid "Portrait of a Noble"
-msgstr ""
+msgstr "귀족의 초상화"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_DiabolistHouse_A_ART/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12685,7 +12676,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_DiabolistHouse_A_ART/Items/_merged.lsx:3502
 msgctxt "h78883e25gd481g4729g981ag36ea6294cab8"
 msgid "Portrait of a Noble"
-msgstr ""
+msgstr "귀족의 초상화"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_DiabolistHouse_A_ART/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12696,7 +12687,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_DiabolistHouse_A_ART/Items/_merged.lsx:3895
 msgctxt "h19f258aag9135g4862gb730g3f0c1869ab6b"
 msgid "Wooden Box"
-msgstr ""
+msgstr "목재 상자"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_DiabolistHouse_A_ART/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12718,7 +12709,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_DiabolistHouse_A_ART/Items/_merged.lsx:5722
 msgctxt "h6df8393dgd478g4c92g86c9g1845d9d594f7"
 msgid "Portrait of a Noble"
-msgstr ""
+msgstr "귀족의 초상화"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_ElfSongTavern_A_Art/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12784,7 +12775,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_FigaroCosmeticShop_A/Items/_merged.lsx:153
 msgctxt "h2d1c1fd4gcbb6g439egb6fcg08f97aa9752f"
 msgid "Bottle"
-msgstr ""
+msgstr "병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_FigaroCosmeticShop_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12806,7 +12797,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_FigaroCosmeticShop_A/Items/_merged.lsx:4463
 msgctxt "hef40e6cfg5070g4de6g9c41g4b49eaacad64"
 msgid "Rosewood Desk"
-msgstr ""
+msgstr "자단 책상"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_FigaroCosmeticShop_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12828,7 +12819,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:8
 msgctxt "hc759935dgf03cg4090g9eeeg67742359032a"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12839,7 +12830,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:243
 msgctxt "hf0a85db0g5b05g4891g881bgc324286836da"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12850,7 +12841,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:503
 msgctxt "h1d0bfe14gda13g46ecg8eb8g7d4a57470eaa"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12861,7 +12852,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:570
 msgctxt "hb89dc51egc5e2g46d2g87e9g899be819e437"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12872,7 +12863,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:637
 msgctxt "hf2533c4eg2f11g4846gbab2ga2df4d284d3b"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12883,7 +12874,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:864
 msgctxt "hfa52ce43g180bg4a43g8ed3g2c20a7799c9e"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12894,7 +12885,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:967
 msgctxt "hd2141c0ag7b7fg46b1g932dgaeb193ae67f5"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12916,7 +12907,7 @@ msgstr "철제 횃불"
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:1350
 msgctxt "h8b46c201ge5f5g44cdgbb66g3a7d4f4c415a"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12927,7 +12918,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:1782
 msgctxt "h140bf2e6g9111g4b83g8013g71ef645f7144"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12949,7 +12940,7 @@ msgstr "철제 횃불"
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:2213
 msgctxt "h7b6964f8g7d00g4671ga3f6g7174e8505256"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12960,7 +12951,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:2284
 msgctxt "h7d5fc40ag8152g4980g818fg3bed68504544"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12971,7 +12962,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:2481
 msgctxt "h913b4977gfba0g4aabg9b6eg28220c58da82"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12982,7 +12973,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx:2585
 msgctxt "he60b1eb7gf0b1g42a6gba55gc670b396fa0c"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_Highberrys_cellar_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13015,7 +13006,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_House_of_Grief/Items/_merged.lsx:313
 msgctxt "ha727a3a7g848ag43bag9a04gd158d2b69502"
 msgid "Wine Goblet"
-msgstr ""
+msgstr "와인잔"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_House_of_Grief/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13114,7 +13105,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_SteelWatchFoundry_B/Items/_merged.lsx:1873
 msgctxt "h2b5549acgcfd3g49d6gaeb1g9de0b12b304b"
 msgid "Table"
-msgstr ""
+msgstr "탁자"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_SteelWatchFoundry_B/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13125,7 +13116,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGH_SteelWatchFoundry_B/Items/_merged.lsx:1929
 msgctxt "h637363bag2f35g45c2g9ceega4ed6c6e21e3"
 msgid "Table"
-msgstr ""
+msgstr "탁자"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGH_SteelWatchFoundry_B/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13444,7 +13435,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_HouseOfHope_C/Items/_merged.lsx:5458
 msgctxt "ha72cfec3g99b0g4b8eg9af5gdefeb2be3b0d"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_HouseOfHope_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13466,7 +13457,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_HouseOfHope_C/Items/_merged.lsx:6121
 msgctxt "hea357b3egb23ag46b6g8966gf2acee1792aa"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_HouseOfHope_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13838,7 +13829,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:3060
 msgctxt "h3a8ebe25gc1c0g4fb5gad42gd54a6b0fa19c"
 msgid "Bone"
-msgstr ""
+msgstr "뼈"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -16143,7 +16134,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:33943
 msgctxt "h544e68f7gd636g4331gb390g0cd215f013d8"
 msgid "Coffin"
-msgstr ""
+msgstr "관"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -16154,7 +16145,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:34184
 msgctxt "h555bbe1cg9eaag47e0ga4cbg10d442623e07"
 msgid "Coffin"
-msgstr ""
+msgstr "관"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -16165,7 +16156,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:34232
 msgctxt "h69ff2165g9518g4824gb813g09492b581308"
 msgid "Coffin"
-msgstr ""
+msgstr "관"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -16483,7 +16474,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:38546
 msgctxt "hb4bf9bf1g76dfg40bag9d7cg979991f7054d"
 msgid "Letter"
-msgstr ""
+msgstr "편지"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17468,7 +17459,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:3336
 msgctxt "h6226306ag7c04g48bfg8226ge8f48fb19633"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17490,7 +17481,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:4892
 msgctxt "h711fe925g75ebg438dg8668gbec81fd0a357"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17590,7 +17581,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:8525
 msgctxt "h284e17b4g209eg4033g9c34gdfb457e3ef79"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17612,7 +17603,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:9497
 msgctxt "h3a51177ag77b6g4e9dg97b1g1be0625a8004"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17656,7 +17647,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:12760
 msgctxt "h15f0066eg39fag41aeg97d5g193ecb5bb342"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17700,7 +17691,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:15302
 msgctxt "haaef62b2g142fg4a58g9e0eg2c5c166968e8"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17723,7 +17714,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:15900
 msgctxt "h886f3cffgd043g4c23g9aa9g968bbf662e86"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17734,7 +17725,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:15969
 msgctxt "hcdca3fa5g2ba8g410bg8c91g7df3647b4245"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17745,7 +17736,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:17199
 msgctxt "hc2990d26g9671g48d0ga942g7dcdab4bc948"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17779,7 +17770,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:18648
 msgctxt "h400bc993g8e50g4c44g86dbg531bb254af1d"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17856,7 +17847,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_SmugglerTunnel_A/Items/_merged.lsx:9131
 msgctxt "h028821c4g25eeg4336gafadg06a19ec46c1e"
 msgid "Stone Wall"
-msgstr ""
+msgstr "돌벽"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_SteelWatchLabControlCenter_B/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -18043,7 +18034,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx:4579
 msgctxt "hc0475186g4035g49e3gb22egbeb2270eb8aa"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -18054,7 +18045,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx:4763
 msgctxt "h0c150ca0gacf0g4a7dgb7c8g12aa35e80711"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -18087,7 +18078,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx:5892
 msgctxt "h5fcb8409ga0dag4b15ga1d7g8425b2254fd9"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -18098,7 +18089,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx:6772
 msgctxt "hfcf72be4g1504g497bga43bge879a6760c3a"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -18109,7 +18100,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx:7097
 msgctxt "h288a2c3bg9adeg42b2g94c3ge1ee935343bb"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -18209,7 +18200,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_UC_Ruins_B/Items/_merged.lsx:8460
 msgctxt "h9cfe8af2gbaf3g422fgbbebg6ca649c39a98"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_UC_Ruins_B/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -18366,7 +18357,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:5581
 msgctxt "h3bfd4217g225cg4a9eg8276ga1f1ac6b135e"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -18607,7 +18598,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:18738
 msgctxt "h85841340gb802g4078g8011gebaaf939c39e"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -19059,7 +19050,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:44160
 msgctxt "h0f31719dg0c1ag4f11g8bacg812bbdae67b3"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -19136,7 +19127,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:50438
 msgctxt "h50f98901g217fg4476gb31fg9ea1da16b50e"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -19472,7 +19463,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:74779
 msgctxt "hd315088fg4b12g4448gacbag920dfb969ec3"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -19584,7 +19575,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:80254
 msgctxt "h2035fc77g3e59g451fgaeeag2cbc3adfdbbf"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -19707,7 +19698,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:87878
 msgctxt "h7011df67gc92dg4c42gabdcgc48df84ad9e2"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -19938,7 +19929,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:100936
 msgctxt "hfe5a25d8g6febg4471g9905ge88b3ef1946d"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -20097,7 +20088,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:110490
 msgctxt "h6952e470g5671g4936gbcb6g4640a9c4f55d"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -20176,7 +20167,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:120744
 msgctxt "hec35263bg1a45g4541g9416g02d7c65cff8d"
 msgid "Door"
-msgstr ""
+msgstr "문"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -20277,7 +20268,7 @@ msgstr "상자"
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:127890
 msgctxt "hbdaaf121gb272g40f9g80fbg1bf72617fe03"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -20752,7 +20743,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:162083
 msgctxt "h763d4f31gd7fdg4d1cgab01g4920941babae"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21362,7 +21353,7 @@ msgstr "향"
 #: Gustav/Mods/GustavDev/Levels/CMP_SharTemple_A/Items/_merged.lsx:335
 msgctxt "hccbffdc1g2390g4a94gbcdcgfc3fc0b600bd"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CMP_SharTemple_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21463,7 +21454,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:2321
 msgctxt "heaa04992g4a1fg41f8g908egb05d1192237c"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21584,7 +21575,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:7609
 msgctxt "he7c67eb4g008bg475agba16g863643c97a19"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21617,7 +21608,7 @@ msgstr "포대자루"
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:8823
 msgctxt "hb0dee9e4g907cg4bebg8e7bgb17f1d40c2f4"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21639,7 +21630,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:11045
 msgctxt "hc5441d37g9b6ag42a8g830cg2801426db070"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21650,7 +21641,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:11455
 msgctxt "h101e57b0g2e9bg42d7g905bg71445ebc06f0"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21661,7 +21652,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:11786
 msgctxt "h8d9441c9g6973g430dg978cg41382a0c6a61"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21672,7 +21663,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:11831
 msgctxt "h27316f80g367bg42bbg8a8ag02bbccc537ca"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21727,7 +21718,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:15087
 msgctxt "h0a57b252ge1c9g4b2cgab16gae2627b34c49"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21826,7 +21817,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:19536
 msgctxt "hef6a781dg5340g4217g90ccg9d9d8c29de9b"
 msgid "Rope"
-msgstr ""
+msgstr "밧줄"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21870,7 +21861,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:20531
 msgctxt "h661b5661ga847g42e2gb4a6g1bbe1a5d9744"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21936,7 +21927,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:29044
 msgctxt "he1bba187gecadg4169g9033gdba45e36efae"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -21958,7 +21949,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:29327
 msgctxt "hef9e9d0fgd7deg4e7agb73bg89a3b5845b2a"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22069,7 +22060,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:34767
 msgctxt "hb97b7114g1569g4922gb8b9g9d5c7ef897b2"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22555,7 +22546,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:5791
 msgctxt "h5f6f4596gc652g431cga759g47a75fc5ad36"
 msgid "His Holy Blood, Vol. 2, Paladin Vaseid"
-msgstr "그분의 신성한 피, 제 2권. 팔라딘 바사이드 지음"
+msgstr "그분의 신성한 피, 제 2권. 팔라딘 바사이드 씀"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22700,7 +22691,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:8171
 msgctxt "hc404a608gd48cg40dbg8ffdgc2c69880e5b4"
 msgid "His Holy Blood, Vol. 3, Dawnmaster Vaseid"
-msgstr "그분의 신성한 피, 제 3권. 던마스터 바사이드 지음"
+msgstr "그분의 신성한 피, 제 3권. 던마스터 바사이드 씀"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -22882,7 +22873,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:9604
 msgctxt "h1e80145eg4b88g4ec3gbcd5ge27134ca9f28"
 msgid "His Holy Blood, Vol. 1, Dawnmaster Dovaer"
-msgstr "그분의 신성한 피, 제 1권. 던마스터 도바에르 지음"
+msgstr "그분의 신성한 피, 제 1권. 던마스터 도바에르 씀"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23106,7 +23097,7 @@ msgstr "의식용 메이스"
 #: Gustav/Mods/GustavDev/Levels/CTY_CIN_SeluniteCourtyard_A/Items/_merged.lsx:1217
 msgctxt "h896e4191ged83g42f4gbb3ag4d46bd108ebc"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Catacombs_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23304,7 +23295,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Catacombs_A/Items/_merged.lsx:16880
 msgctxt "hbd681b9ag5f47g4415g847fg5ed4cb4f274c"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Catacombs_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23348,7 +23339,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx:738
 msgctxt "h100bd260gbe45g468egab3agd1865a7734fd"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23381,7 +23372,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx:4221
 msgctxt "h894b17ddgdfd2g424cg97c8gad3b3e9041fd"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23458,7 +23449,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx:12007
 msgctxt "h66bc0356g4e3fg4b40gb31fg6f35e0af3c8b"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23513,7 +23504,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx:17361
 msgctxt "h927ff1d2gd749g4381gaa85ga5c56d08047a"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23535,7 +23526,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_DevilandSmithBasement/Items/_merged.lsx:137
 msgctxt "h9ce6ebdag641ag46b5ga2a6g251b43693b4a"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_DevilandSmithBasement/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23546,7 +23537,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_DevilandSmithBasement/Items/_merged.lsx:174
 msgctxt "h514aa226g76c4g49a0g85eegf29f31bc1be3"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_DevilandSmithBasement/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23601,7 +23592,7 @@ msgstr "침대"
 #: Gustav/Mods/GustavDev/Levels/CTY_DjinniLamp_A/Items/_merged.lsx:2153
 msgctxt "hf64d2048ge7deg4a79g9f84g043c10f56a49"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_DockWarehouseBasement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24122,7 +24113,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:3629
 msgctxt "h2f0cabc4g50fdg4528gbafaga3ac832404b0"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24368,7 +24359,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:36937
 msgctxt "hfa37a532gaf6dg4461gac7eg2df77637546f"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24390,7 +24381,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:40624
 msgctxt "h904a768fg1f65g450bg81eegc6a9ce18167e"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24412,7 +24403,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:41761
 msgctxt "h29fcd3dcg8b17g4326gb915g26373894cbbc"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24423,7 +24414,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:42046
 msgctxt "hec7031c1g62f0g4247g9595g798f207002f4"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24434,7 +24425,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:43675
 msgctxt "h24fb5cf9g7f49g48fdgbfc5g5593029bf561"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24467,7 +24458,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:50214
 msgctxt "h170e27adgea2cg4989gabe1gaa39fc3d2063"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24478,7 +24469,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:51070
 msgctxt "h75cccd98g102fg4b1bg96e4g902ee7b41b79"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24489,7 +24480,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:51110
 msgctxt "h767f8ab7g8c2dg4f2dgb425gcf1ee6d31a72"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24511,7 +24502,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:51879
 msgctxt "h316eda7fge141g45ecga131g1dd0ee5f19e9"
 msgid "Door"
-msgstr ""
+msgstr "문"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24578,7 +24569,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:62001
 msgctxt "he0478c28g12d4g4076ga92cgbbb30a9bf733"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24589,7 +24580,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:62477
 msgctxt "h6eff0afcg45d7g4551g98d2g8c35b9f11fdc"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24611,7 +24602,7 @@ msgstr "상자"
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:63927
 msgctxt "h928e43abg5a8cg4bd8gbdcdg469709c4c951"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24622,7 +24613,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:67129
 msgctxt "h1261a3efge7f8g4b50gb961g940fd9d82df3"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24644,7 +24635,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:67890
 msgctxt "hb0caa2a9gca9dg44a9g996bgbc9f49de7e2b"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24732,7 +24723,7 @@ msgstr "우편함"
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:79551
 msgctxt "h58631d15g9430g4d40ga387gd439b8e9fa4a"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24765,7 +24756,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:81110
 msgctxt "h4c575bf9ge1d6g422bgb60bga75021a246f8"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24776,7 +24767,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:83596
 msgctxt "h91d70c2fgac83g4d85g99c0g076271d57478"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24798,7 +24789,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:90738
 msgctxt "h321e485dgd739g4b0cg91e4gcd9c0c231464"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24820,7 +24811,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:91866
 msgctxt "ha241ed05g9d6ag4ffdg9860g517e6f612079"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24842,7 +24833,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:93963
 msgctxt "hdf644629g694bg4cdagb2b1gb1475d80b5c4"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24853,7 +24844,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:94453
 msgctxt "h0514b590gd8efg48b2g82a8g93054aa641c2"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24886,7 +24877,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:99332
 msgctxt "h3ac4d6c3g2d9eg4997g9858g2628334dec87"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24931,7 +24922,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:104611
 msgctxt "h16b73fb0g199ag466ag913bg9802e5c78641"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24942,7 +24933,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:105874
 msgctxt "h85df85c3g0e3bg4c16g80c7g8c59192c90b5"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24987,7 +24978,7 @@ msgstr "가고일 머리"
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:109760
 msgctxt "h4f449c90gae29g4518g902ag85fd044559a5"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25031,7 +25022,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:117518
 msgctxt "hdcbd79dbg80f6g479bgba19g1ec160a8c800"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25054,7 +25045,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:119861
 msgctxt "h6196be3ag529cg45b7g9e01g9286d75fdd94"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25087,7 +25078,7 @@ msgstr "상자"
 #: Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:123838
 msgctxt "h2d9c9f44ge663g45fdg912bg1493ff9d49c9"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25245,7 +25236,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:1828
 msgctxt "h9bcc4f1agbb54g4c6bgb4c5g857d103dfbed"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25256,7 +25247,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:1944
 msgctxt "h3b69dbfdg0ed4g471dg95d7g037bd3aca241"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25303,7 +25294,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:2529
 msgctxt "h44f18e08g216fg4cf8gb89ag77f7c300986a"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25438,7 +25429,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:5396
 msgctxt "h05bf3c50g1e68g42adgab8fgfad964c508d4"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25850,7 +25841,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:12086
 msgctxt "h8993a952g0a08g4828gbb8eg35c824abf41a"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25861,7 +25852,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:12202
 msgctxt "h5dfa14c9g51b2g469aga932gc3de3642f4a7"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26026,7 +26017,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:14550
 msgctxt "h5cccaeb0gc018g448dga58fgfca6b55f8663"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26272,7 +26263,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:18367
 msgctxt "h70b31b84g6523g4e9bg9f21g7628fc2d52e1"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26523,7 +26514,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:22924
 msgctxt "h81cf32deg2686g44a9g827bgc951e1d9d711"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26579,7 +26570,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:23642
 msgctxt "h7c4d8f72gee96g41a3g850ag1f37d12d014d"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26835,7 +26826,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:28633
 msgctxt "heb17a5f8g8eddg467fg8b98ga9a3d6c62a8f"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27152,7 +27143,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:34263
 msgctxt "h079abfc5g84a2g41cag8fc3g69d533e3361a"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27198,7 +27189,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:35029
 msgctxt "h1cfb5150g67fag425egb2cfg471e01ba91dd"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27287,7 +27278,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:36087
 msgctxt "hca692f41gba5ag45fcgb1aeg29b009de0f15"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27356,7 +27347,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:37402
 msgctxt "hc108c423g7801g464ag909fgcf3d9da0f707"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27436,7 +27427,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:38454
 msgctxt "h3f1d9629g1488g45bbg888fgb7868b1020a2"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27562,7 +27553,7 @@ msgstr "발더스 게이트"
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:40924
 msgctxt "h3388526cgf606g4805g979bgd0c96da03275"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -28547,7 +28538,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:55916
 msgctxt "hd87032dbgd0dfg47c1gbec2g8531f87eea8c"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -28686,7 +28677,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:57156
 msgctxt "h01cf210bg787ag492dgb714g68ad52f7402e"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -29006,7 +28997,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:62013
 msgctxt "ha5676094g107ag4129g9a1agc2d5e41d8a97"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -29248,7 +29239,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:64823
 msgctxt "ha0195808gede5g447eg8f25ged5018c5a609"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -29906,7 +29897,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:74225
 msgctxt "hed41484dgd41cg49cfgb1b6gec8920136323"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -30000,7 +29991,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:75317
 msgctxt "hbd8417degf610g4534g96b8g60118cb09d1a"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -30164,7 +30155,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:79302
 msgctxt "h1e24eb2age5a5g424bg8d6dg0f26bf48bce2"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -30337,7 +30328,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:81908
 msgctxt "h19f338f2g81b3g4993g9477g33ae01f3e339"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -30406,7 +30397,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:82729
 msgctxt "h53442981gda03g4b68gad0bgbce690fa2deb"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -30769,7 +30760,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:87101
 msgctxt "h2e4c5e25gb859g4f03g954ag57c6a98ae303"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -30814,7 +30805,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:87946
 msgctxt "h12fc58fag56b5g4bb2ga45egc5f5b3d0fa43"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -30904,7 +30895,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:89977
 msgctxt "h94894d88g4763g4638ga22cgd8af6b70040b"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -30928,7 +30919,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:90894
 msgctxt "h5fcddd76gcaf7g4947g942aga229d47ea32e"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -31011,7 +31002,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:92884
 msgctxt "h0300059cgaa99g4d48g9647g9b42cba12fb2"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -31022,7 +31013,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:93446
 msgctxt "hc619df26gf6e5g417ag8c93gd4ecc5ac9118"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -31167,7 +31158,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:95420
 msgctxt "h69469e01ga8c4g40dagb870g49697cd23bca"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -31222,7 +31213,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:96055
 msgctxt "hf138a30bgcdfeg4efeg97a6gbc693c383853"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -31267,7 +31258,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:96669
 msgctxt "h4f6cad55gae13g484cg8ceegc189415ccb96"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -31539,7 +31530,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:101371
 msgctxt "ha7846aaagaab2g44a9g9af4g42a4142d6f30"
 msgid "Door"
-msgstr ""
+msgstr "문"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -31550,7 +31541,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:101413
 msgctxt "hd9a6d900g64c7g430fg9e6fg4b24b6787cc3"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -32071,7 +32062,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:109448
 msgctxt "h4b2047f4g80c0g4e46gbfc1g60c1ee8b9aca"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -32439,7 +32430,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:114456
 msgctxt "h80ac927agaac8g45d2gb6dfg39eb50a98c54"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -32450,7 +32441,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:114982
 msgctxt "h9821fedag0a3dg42dcgba1bg365d8ca3e23b"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -32619,7 +32610,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:117645
 msgctxt "h74c44e00gc315g44a3ga8d7g5447ef8f3e7a"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -32630,7 +32621,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:117929
 msgctxt "he7c3b94ageb74g43bbgb2bbgbc33e9df925f"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -32653,7 +32644,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:118100
 msgctxt "h611f2cf3g8249g4926ga488g248f5f01a559"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -32865,7 +32856,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:121371
 msgctxt "h709f2045gddcdg419fga76aga5b63195d95d"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -32935,7 +32926,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:122928
 msgctxt "hbcc9c2fegd70ag4503g8719g6c9384d7ae1e"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -33077,7 +33068,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:127487
 msgctxt "h0513e0e4g7d15g4ec5gb5feg5fe1db310fe7"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -33278,7 +33269,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:130941
 msgctxt "hb007e228g600bg48cagbbf6g6d5d723d0f53"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -33324,7 +33315,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:131514
 msgctxt "h403bcabdgd3f3g4a5eg9263g6443637d3df0"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -33660,7 +33651,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:137151
 msgctxt "h359632a6ga653g4da1gbcf8g9b98956be45c"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -33906,7 +33897,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:141710
 msgctxt "hb1077afag7fa5g456eg969bgf4da5f111156"
 msgid "Habits of Patriars"
-msgstr ""
+msgstr "귀족의 습관"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -34211,7 +34202,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:149022
 msgctxt "h9eb5e0bcg0674g489cgaf25g2aec2258f4be"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -34278,7 +34269,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:149926
 msgctxt "hcfd2d1a1gb124g4c54g8726gba6a4bacf8bc"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -34360,7 +34351,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:151788
 msgctxt "hcdf8a6c6gd8c3g4b3fga061g03784e5a5d8a"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -34418,7 +34409,7 @@ msgctxt "h9960b032gbadfg4e27g8ca1ga19d1cd2c35a"
 msgid ""
 "A journal of scandalous information compromising various patriars of the "
 "Upper City."
-msgstr ""
+msgstr "상부 도시의 갖가지 낯 뜨거운 호족 스캔들 잡지"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -34696,7 +34687,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:158056
 msgctxt "hef85b7dfgfcbbg431cgaeb7g83fe638c1614"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -34831,7 +34822,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:160275
 msgctxt "h43e83661g1344g4911g8e24gfb952d2fff5f"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -34991,7 +34982,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:161508
 msgctxt "h0745e037g1e22g4c9cga243g4917023a44ec"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -35205,7 +35196,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:163939
 msgctxt "h2d557c6bgd719g4ee0gadd5g017ca3793e16"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -35319,7 +35310,7 @@ msgstr "철제 횃불"
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:424
 msgctxt "hab96f8c0g791bg4ae3g8ddage5156da090d0"
 msgid "Door"
-msgstr ""
+msgstr "문"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -35429,7 +35420,7 @@ msgstr "철제 횃불"
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:2887
 msgctxt "h496a7358g2502g4e64gac93geb545e3a670a"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -35451,7 +35442,7 @@ msgstr "철제 횃불"
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:3454
 msgctxt "h3d39c0cag0d03g48b8g98e7gc66c37cac86a"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -35528,7 +35519,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:6139
 msgctxt "heaef8b35gbf7cg4c44g8c1ag368fa8156948"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -35673,7 +35664,7 @@ msgstr "철제 횃불"
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:8964
 msgctxt "h50407c52g7e35g4e73ga290ga7af5be5ed83"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -35706,7 +35697,7 @@ msgstr "철제 횃불"
 #: Gustav/Mods/GustavDev/Levels/CTY_MurderTribunal_A/Items/_merged.lsx:9113
 msgctxt "hf87fc020gd463g4887g9386g4bf9eb229deb"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_MusicStore_Basement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -35817,7 +35808,7 @@ msgstr "횃불"
 #: Gustav/Mods/GustavDev/Levels/CTY_PhilgraveBasement_A/Items/_merged.lsx:2154
 msgctxt "h26ecf0cdg1c3eg49ecg96bag26266fdf7976"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/CTY_PhilgraveBasement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -36236,7 +36227,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/END_HighHall_C/Items/_merged.lsx:538
 msgctxt "h231fb861ge6d6g45a9g9568g4a162c5b3331"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/END_HighHall_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -36269,7 +36260,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/END_HighHall_C/Items/_merged.lsx:4224
 msgctxt "h54bb3eb8gbd41g4496gbe00gb9af51710ed9"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/END_HighHall_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -36423,7 +36414,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/END_HighHall_C/Items/_merged.lsx:14754
 msgctxt "h5a5273fcg56c4g487cg9131g148fe42638d5"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/END_Main/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -37783,7 +37774,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/LT_CTY_WineFestival/Items/_merged.lsx:572
 msgctxt "hcc30b6d9ga01bg42e1ga8eeg84883c938a8b"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/LT_CTY_WineFestival/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38069,7 +38060,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/LT_CTY_WineFestival/Items/_merged.lsx:2440
 msgctxt "hf7121b4dga5fcg411ag8c40g82d8d964f5a1"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/LT_CTY_WineFestival/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38214,7 +38205,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:8
 msgctxt "h6e8fa49cg69c0g4086g9c0bg69d7a8c334dc"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38225,7 +38216,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:429
 msgctxt "ha3d313c5gce25g48bdgb54fge2671a901c1a"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38236,7 +38227,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:637
 msgctxt "h1ff4e12bgfa7eg4ad9g8668ga6ebe8609cc3"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38247,7 +38238,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:755
 msgctxt "h7944bd32gb813g4c87g901egcdc63bd70b1c"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38258,7 +38249,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:929
 msgctxt "hacb8ac34gbd8bg4f94g90b1g8ff81fb1a707"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38269,7 +38260,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:1314
 msgctxt "h71f14d75gcb4fg4fefgbad3g44f399476c93"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38280,7 +38271,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:1583
 msgctxt "h4290f45fgaf52g46d5g93d5g3c183f727052"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38291,7 +38282,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:1623
 msgctxt "h03421e71g290eg48a5gb668g56e565a46b88"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38302,7 +38293,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:1763
 msgctxt "h204d5a4ag7c30g4084ga293g1e19402a7de1"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38324,7 +38315,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:1842
 msgctxt "h8443e966g18f9g4d0dgbdb5g067793d85ec1"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38335,7 +38326,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:2036
 msgctxt "hacc52185g3fc1g49dfg8181g3df1039dc80c"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38346,7 +38337,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:2245
 msgctxt "he5867327g1a8bg4ddcgbba1gc8cb2b84dbb7"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38357,7 +38348,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:2612
 msgctxt "h746c6629g79aag4b2bgb443g809c32c7e0bc"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38368,7 +38359,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:2729
 msgctxt "h19b30c13gf3c2g475bg958bgd380020ca762"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38379,7 +38370,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:2769
 msgctxt "h8bcefa44g5002g4af8ga871gae3c85acc51a"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38390,7 +38381,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:2925
 msgctxt "h482f493dg7ffag436fga7b6g1fc767dfcd44"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38401,7 +38392,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:3174
 msgctxt "hd504495dg98fcg4739g8c07gb4c2822de63a"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38412,7 +38403,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:3381
 msgctxt "h54118f97g33eeg4f77g979dg66001fa31377"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38423,7 +38414,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:3482
 msgctxt "he02c5b77g3596g4d03g966fg5ce16f684dce"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38434,7 +38425,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:3636
 msgctxt "hd9b6a895g48e4g47f7ga1deg790378899aba"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38445,7 +38436,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:3976
 msgctxt "h52fe13f5ga0bag4ae9gb2a8g2063977eb1c4"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38456,7 +38447,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:4264
 msgctxt "hcb257826g77ceg450fg9889gf9fbbafe26b0"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38478,7 +38469,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:4611
 msgctxt "h5e43b1deg1218g44d0gb1f4g326cfc8867e8"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38489,7 +38480,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:4651
 msgctxt "hd6c86d11gd7beg4565ga227g5fee1c903e22"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38500,7 +38491,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:5377
 msgctxt "h00504d7fg0450g42d9gb291gd5c9c1f28757"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38511,7 +38502,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:5822
 msgctxt "h5b02f12egba56g4f94g9072g130dc1a5714f"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38522,7 +38513,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:5863
 msgctxt "he8788382g8bf3g48bdg8288gdd758cd68bdb"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38533,7 +38524,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:6191
 msgctxt "h38bb15a6g7db9g40f7gacc8gf3db790635b6"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38544,7 +38535,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:6269
 msgctxt "h8458c570g3f7dg4129g9ccfg6fe1d4086c10"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38555,7 +38546,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:6309
 msgctxt "ha5a85071g253cg4eccg9651gf9d7134616d5"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38566,7 +38557,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:6582
 msgctxt "hc6066c5ag9508g433egb711g3969a0d7653a"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38577,7 +38568,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:7073
 msgctxt "hd14ffa2cga9bbg4f3fg8e49g2ffc1918267e"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38588,7 +38579,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:7114
 msgctxt "ha7c234bage32eg4734ga14dgd49093b76f56"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38599,7 +38590,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:7171
 msgctxt "h268bfc15g52b6g4229g846bg993638de5beb"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38610,7 +38601,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:7211
 msgctxt "hb36da371g50f3g4f9cg9f29g821da4890b59"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38621,7 +38612,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:7289
 msgctxt "h05c599d1gbee5g4720g9b37gea69b70770e2"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38632,7 +38623,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:7330
 msgctxt "h37ddbdc5geddfg4ac4g9d10g613b54c351ed"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38643,7 +38634,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:7371
 msgctxt "h6497e474gb5a9g4353gbc43geb7fefbc2df1"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38654,7 +38645,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:7743
 msgctxt "h810f69c7g7230g416cgbef3g8f08e84a7fab"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38665,7 +38656,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:8035
 msgctxt "he90ee4d4g621eg4765ga385g2d893206df19"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38676,7 +38667,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:8075
 msgctxt "h26cfb536gc666g4a63ga39bge001fe81d6bc"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38687,7 +38678,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:8115
 msgctxt "hcad8dbc2g11b8g4148g9986g1631a2b1057c"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38709,7 +38700,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:8362
 msgctxt "h8aa769a2gd59fg4ff7gb78fge40080589e6a"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38720,7 +38711,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:8402
 msgctxt "h9fa4f465gf926g49deg9757g2b39f0553339"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38731,7 +38722,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:8475
 msgctxt "hca9f22b3g086dg40f3g9194gc4b25e2c2ce7"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38742,7 +38733,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:8646
 msgctxt "h80deeb7agb70eg4b12g9dd1g8caec144c7da"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38753,7 +38744,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:8824
 msgctxt "he37b1404gece7g4e9egb71eg71e28764161f"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38764,7 +38755,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:8963
 msgctxt "h36a3f35ag23b0g4845ga23eg35eaadb30f93"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38775,7 +38766,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:9003
 msgctxt "h39ea5c84g1ab3g4392gb64bgde5a684b68e8"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38786,7 +38777,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:9043
 msgctxt "h2c9da956gf521g464eg9a55gb82be853ff03"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38808,7 +38799,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:9366
 msgctxt "h19e8e20cg0872g4f3ega375g77e51a221641"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38819,7 +38810,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:9422
 msgctxt "ha3319bd5g75cag4f10ga9ddge91663544116"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38830,7 +38821,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:9500
 msgctxt "hf74033ebg4a41g4065g95b4g7bc2acd7ca21"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38841,7 +38832,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:9540
 msgctxt "h673b5e74gdd7eg4f99ga376g7593f2cdb83e"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38852,7 +38843,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:9580
 msgctxt "hef8b8b1bg4d10g4993gb393g37416d50d693"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38863,7 +38854,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:9751
 msgctxt "h5185bc81g431fg4b57ga625gc954a38d08a8"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38874,7 +38865,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:9829
 msgctxt "hcad62a5fg191ag439cgb1c9g8305193548ff"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38885,7 +38876,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:10050
 msgctxt "h91be3bcfgcad2g461dgb67cg37a92db2baf6"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38896,7 +38887,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:10130
 msgctxt "ha1bf3292g8a02g4325g98feg6cfe60830f4f"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38907,7 +38898,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:10475
 msgctxt "h8919a63bg0f96g44a2ga959g8a30efcca34a"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38918,7 +38909,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:10515
 msgctxt "h33b7d631geb95g49fbgbe7cg9f27ac91f7d3"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38929,7 +38920,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:10782
 msgctxt "h1adcdacaga88fg4e3dgb0a4g32bcb1fdb442"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38940,7 +38931,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:11189
 msgctxt "hb1f7f25ag06f4g49dcgbb6bg4d4df9741ce7"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38951,7 +38942,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:11398
 msgctxt "h8fb5b8edg0c5cg448dg8fd9g4e17c837c957"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38962,7 +38953,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:11899
 msgctxt "h96ceeb69g02bag461fgb34dg6b7d3401f013"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38973,7 +38964,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:11972
 msgctxt "h970195a4gc387g408ega181g0dde30c4f9bc"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -38984,7 +38975,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_CIN_UncursedTown_A/Items/_merged.lsx:12012
 msgctxt "ha84e5bcegea3cg4746gb00eg8364e548ed7b"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_Campfire_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -39243,7 +39234,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:3832
 msgctxt "h97997c4bg79afg41bfg94b3g2763df0a4ddd"
 msgid "Beheading the Bitterroots"
-msgstr ""
+msgstr "비터루트 수장 제거"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -41006,7 +40997,7 @@ msgctxt "had180884gbd1fg4703g9f54gb883c324a9d2"
 msgid ""
 "Black ash and flecks of dead skin coat the spine and cover of this decaying "
 "tome."
-msgstr ""
+msgstr "검은 재와 죽은 피부 조각이 낡은 책의 책등과 표지에 덮여 있습니다."
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -41161,7 +41152,7 @@ msgstr "문라이즈 타워"
 #: Gustav/Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:42565
 msgctxt "h67c6de36g6af1g47f7ga1bcg97caea43cf0c"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -42365,7 +42356,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:65363
 msgctxt "h69f4107agf1a4g4725g83d2g8fed43bafd18"
 msgid "Stairs"
-msgstr ""
+msgstr "계단"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -43051,7 +43042,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:78186
 msgctxt "hf44c2424gea5bg408cgb951g8d3f628e8912"
 msgid "Stone Wall"
-msgstr ""
+msgstr "돌벽"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -43106,7 +43097,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_Mausoleum_E/Items/_merged.lsx:5021
 msgctxt "hedbacb08gd873g4942g92e9g4916bfb8fce5"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_Mausoleum_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -43554,7 +43545,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:1902
 msgctxt "hf06370e9g27deg4ea1gb2f6gc70056dcbfb8"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -43722,7 +43713,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:23328
 msgctxt "h733eb883gf7e8g4823g9750gcf02a91b5e5b"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -43909,7 +43900,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:58588
 msgctxt "hb6a30c09g9ef5g47e1g85cdga6b009c62cd4"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -43976,7 +43967,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:65342
 msgctxt "h14485b02g5bb7g485ag8c43g53b1747b1038"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -44009,7 +44000,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:76675
 msgctxt "h1d2be0cbg5930g4b4agb9a1g2004c4b5e2ef"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -44288,7 +44279,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:127607
 msgctxt "h54dfc2fcg953fg4dc9gb1e6g6cd9babc40de"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45269,7 +45260,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx:24579
 msgctxt "h0c049f0ege5deg457cg823dg90f6b620cdf6"
 msgid "Stone Wall"
-msgstr ""
+msgstr "돌벽"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45481,7 +45472,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_Main_A/Items/_merged.lsx:2885
 msgctxt "ha254fb9bg0871g46e7ga5d4g2354a1e2e239"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45645,7 +45636,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:3239
 msgctxt "h7a228420g7ca6g4bb5g970cg2c122d4e6db2"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45678,7 +45669,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:4455
 msgctxt "hc7e1e4d2g6d19g4297gb7fcg50380f37307e"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45722,7 +45713,7 @@ msgstr "횃불"
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:5386
 msgctxt "ha33183d1g15bbg40b7g8ea2g93ab063050c0"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45744,7 +45735,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:6208
 msgctxt "h6ec509b6gbb03g4d16gabcbg8637813af941"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45766,7 +45757,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:6953
 msgctxt "h38288aaagf403g47e3gaeedgb40eb7cb6406"
 msgid "Wooden Boxes"
-msgstr ""
+msgstr "나무 상자"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45777,7 +45768,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:7236
 msgctxt "hbcd412c7gbb23g43cbgbbfcgde7245be6a58"
 msgid "Granite Chair"
-msgstr ""
+msgstr "화강암 의자"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45788,7 +45779,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:7575
 msgctxt "h025354acg31ffg4984gadcag7fd65881ebc8"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45799,7 +45790,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:7938
 msgctxt "h562591e5g1319g4a6agae36gc13c85fe05d1"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45810,7 +45801,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:8930
 msgctxt "h5d103d76gbdb2g4f22gaff1g528c3b35c9a7"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45821,7 +45812,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:9386
 msgctxt "hecaca9d4g6973g4318ga05fg0d262d2fec0a"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45832,7 +45823,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:10196
 msgctxt "h943e866bgcfa9g4f96ga09eg771058b9c491"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45843,7 +45834,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:10440
 msgctxt "h39ee76d4g89c5g418fg9beag665b69c89d83"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45898,7 +45889,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:16385
 msgctxt "h98ba6828g9c9dg41b7g8a8bg0499fbb0474f"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45909,7 +45900,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:16932
 msgctxt "h8ca99f69g44b3g45b2gb55bgb596d518e52a"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -45997,7 +45988,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:22890
 msgctxt "h4d271527gec72g4a65g9930gc33d0f7ddf4d"
 msgid "Granite Bench"
-msgstr ""
+msgstr "화강암 벤치"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46030,7 +46021,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:24479
 msgctxt "h1a9a1a88g6f3dg4852gae07gf432cd0bc1ab"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46041,7 +46032,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:25302
 msgctxt "h46e884edg7bf9g49e1g8ee2g70024e4cc67e"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46052,7 +46043,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:25486
 msgctxt "h5553945ag688fg4468gbb38g4992f66c5f0b"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46096,7 +46087,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:26994
 msgctxt "hea4b18cbgb80fg4934gaa73g9ae1f92e4681"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46129,7 +46120,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:29049
 msgctxt "h83b95327ga47fg4478ga44bgda59f06f1a7e"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46140,7 +46131,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:30469
 msgctxt "h8012e718gc08fg4430g82a1gc0f0c649888e"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46162,7 +46153,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:30932
 msgctxt "ha66ea81cg2f3bg431cgb6f6g40f6ccd3d06a"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46184,7 +46175,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:34735
 msgctxt "hf41ee3ebg75eag4732g9289g9d5fe16b2bef"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46250,7 +46241,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:38757
 msgctxt "h26a40da8g2e77g446dgaeb3gc39b5a53f379"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46283,7 +46274,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:40770
 msgctxt "h9c774b21gc1cfg4a60gb2e2g6453cd68d667"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46294,7 +46285,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:40910
 msgctxt "h5fc8d84bgc904g4796g9046g2de1e0749f9f"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46305,7 +46296,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:41166
 msgctxt "ha925cd20gc739g4d91gaa0cg7e10cca08ede"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46393,7 +46384,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:48672
 msgctxt "haab675e6g9373g4117ga3b7g643967fb6ec7"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46404,7 +46395,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:48781
 msgctxt "h780dddfbg59e6g47e6g860fg77f982d04638"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46437,7 +46428,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:51840
 msgctxt "h6a9a17aagf130g47e5g9b3ag38197bd094ce"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46448,7 +46439,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:52099
 msgctxt "ha14a8fc0g1d16g4d35gabe2ga7bc707cd2a4"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -46514,7 +46505,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx:55525
 msgctxt "h1aeebfe1gd514g47a1g9c2bge184438cce7b"
 msgid "Candle"
-msgstr ""
+msgstr "양초"
 
 #. FilePath = Gustav/Mods/GustavDev/Levels/WLD_SharTemple_E/Items/_merged.lsx
 #. NodeID = GameObjects

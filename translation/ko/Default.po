@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-24 16:34+0000\n"
+"PO-Revision-Date: 2023-08-27 03:53+0000\n"
 "Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/default/ko/>\n"
 "Language: ko\n"
@@ -534,13 +534,14 @@ msgstr ""
 #. HandlePath = Description
 #. HintKey = HINT_HEARING_CRIMES
 #: Game/Public/Game/Hints/Hints.lsx:370
+#, fuzzy
 msgctxt "h733641d5g9062g4e38gba65g4c1e3baa022a"
 msgid ""
 "Even if you can't be seen, some criminal acts can be overheard. <LSTag Type="
 "\"Image\" Info=\"TutorialHide\"/> Hide to reduce noise."
 msgstr ""
-"당신이 보이지 않아도 특정 범죄는 소음이 날 수 있습니다. <LSTag Type=\"Image\" Info=\"TutorialHide\"/"
-"> 숨기를 통해 소음을 줄이십시오."
+"보이지 않는 곳에서 범죄를 저질러도 소음이 발생할 수 있습니다. <LSTag Type=\"Image\" Info=\"TutorialHide"
+"\"/> 숨기를 통해 소음을 줄이십시오."
 
 #. FilePath = Game/Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -3446,7 +3447,9 @@ msgctxt "h3aa4b4a4g0076g4635gb363g7891e8f2e495"
 msgid ""
 "The strong embrace the wild that hides inside - keen instincts, primal "
 "physicality, and most of all, an unbridled, unquenchable rage."
-msgstr "강자란 예리한 본능, 원초적인 육체, 그리고 무엇보다 채워지지도, 꺼지지도 않는 분노를 끌어안고 있는 자를 칭합니다."
+msgstr ""
+"강자라면 응당 내면에 감춰진 야성을 포용하는 법입니다. 예리한 본능, 원초적인 육체 능력, 그리고 그 무엇보다 억제할 수도, 막을 수도 "
+"없는 분노를 말이죠."
 
 #. FilePath = Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -3519,9 +3522,8 @@ msgid ""
 "You know music is more than a fancy - it is power. Through study and "
 "adventure, you have mastered song, speech, and the magic within."
 msgstr ""
-"당신은 음악이 그저 단순한 상상이 아니라 힘을 지니고 있다는 것을 알고 "
-"있습니다. 당신은 공부와 모험을 통해 노래와 연설, 그리고 그것들이 지닌 마법에 "
-"숙련되었습니다."
+"당신은 음악이 그저 단순한 심상이 아닌, 힘이란 사실을 알고 있습니다. 당신은 공부와 모험을 통해 노래와 연설, 그리고 거기에 내재된 "
+"마법에 통달했습니다."
 
 #. FilePath = Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -3593,8 +3595,7 @@ msgctxt "hac77027cg6dd2g4e7ega824gfbdbc91b6f05"
 msgid ""
 "Clerics are representatives of the gods they worship, wielding potent divine "
 "magic for good or ill."
-msgstr "클레릭은 자신이 섬기는 신의 대리인으로, 선이나 악을 행하기 위해 강력한 신성 "
-"마법을 휘두릅니다."
+msgstr "클레릭은 자신이 섬기는 신의 대리인으로, 강력한 신성 마법을 휘둘러 선이나 악을 행합니다."
 
 #. FilePath = Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -3731,9 +3732,8 @@ msgid ""
 "animals. Mastery of Wild Shape allows them to transform into beasts from all "
 "over the Realms."
 msgstr ""
-"드루이드들은 자연 원소의 힘을 쏟아내며, 동물과 깊은 유대감을 갖습니다. 야생 "
-"형상을 수련하여 포가튼 렐름에 걸쳐 존재하는 다양한 종류의 야수로 변신할 수도 "
-"있습니다."
+"드루이드는 자연 원소의 힘을 쏟아내며, 동물과 깊은 유대감을 나눕니다. 야생 형상을 숙달하여 포가튼 렐름 전역에 존재하는 다양한 종류의 "
+"야수로 변신할 수도 있습니다."
 
 #. FilePath = Shared/Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -14182,7 +14182,9 @@ msgctxt "hb83ce8edgc3e7g46e5g8324gcbc5a2ad8ebb"
 msgid ""
 "The strong embrace the wild that hides inside - keen instincts, primal "
 "physicality, and most of all, an unbridled, unquenchable rage."
-msgstr "강자란 예리한 본능, 원초적인 육체, 그리고 무엇보다 채워지지도, 꺼지지도 않는 분노를 끌어안고 있는 자를 칭합니다."
+msgstr ""
+"강자라면 응당 내면에 감춰진 야성을 포용하는 법입니다. 예리한 본능, 원초적인 육체 능력, 그리고 그 무엇보다 억제할 수도, 막을 수도 "
+"없는 분노를 말이죠."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -14337,8 +14339,7 @@ msgctxt "hac286466gb2bcg4b51g932bgcfd555bd619d"
 msgid ""
 "Clerics are representatives of the gods they worship, wielding potent divine "
 "magic for good or ill."
-msgstr "클레릭은 자신이 섬기는 신의 대리인으로, 선이나 악을 행하기 위해 강력한 신성 "
-"마법을 휘두릅니다."
+msgstr "클레릭은 자신이 섬기는 신의 대리인으로, 강력한 신성 마법을 휘둘러 선이나 악을 행합니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16320,7 +16321,7 @@ msgid ""
 "Wood elves spend their reclusive lives in Faerûn's forests. Decades of "
 "training in archery and camouflage is enhanced by an otherworldly swiftness."
 msgstr ""
-"이 엘프들은 페이룬의 숲 속에 은둔해 살아갑니다. 이들이 수십 년간 익힌 궁술과 위장술은 초인적인 기민성으로 더욱 강화되었습니다."
+"우드 엘프들은 페이룬의 숲 속에 은둔해 살아갑니다. 이들이 수십 년간 익힌 궁술과 위장술은 초인적인 기민성으로 더욱 강화되었습니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16474,8 +16475,8 @@ msgid ""
 "Gold dwarves are known for their confidence and keen intuition. The culture "
 "of their Deep Kingdom values family, ritual, and fine craftsmanship."
 msgstr ""
-"황금 드워프들은 그들의 자신감과 날카로운 직감으로 유명합니다. 그들의 지하 "
-"왕국 문화는 가족, 의식, 그리고 장인 정신을 중요히 여깁니다."
+"황금 드워프는 자신감 있고 직감이 예리한 것으로 유명합니다. 이들의 지하 왕국은 가족, 의례, 그리고 우수한 장인 정신을 중시하는 문화를 "
+"지녔습니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16519,8 +16520,8 @@ msgid ""
 "cynical mindset, yet shield dwarves will endure anything to restore their "
 "ancestral homelands. "
 msgstr ""
-"방패 드워프는 고블린과 오크와의 전쟁에서 고대 왕국 영토를 대부분 내주며 오랜 몰락의 길을 걸어왔습니다. 이러한 거대한 상실로 인해 "
-"냉소적인 사고방식이 굳어졌지만, 그들은 고향을 되찾기 위해서라면 무엇이든 견뎌낼 것입니다. "
+"방패 드워프는 고블린과 오크와 치른 전쟁으로 고대 왕국 영토의 상당 부분을 내어주며 오랜 몰락의 길을 걸어왔습니다. 이 손실로 인해 "
+"사고방식이 냉소적이게 됐지만, 조상의 고향을 되찾을 수만 있다면 무엇이든 감수할 이들이기도 합니다. "
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16542,9 +16543,8 @@ msgid ""
 "grim cruelty. Their stealth and viciousness makes them feared throughout the "
 "Underdark."
 msgstr ""
-"한 때 사악한 마인드 플레이어에 의해 노예로 전락했던 듀에르가는 그들의 음침한 "
-"잔혹함으로 자유에 적응했습니다. 그들의 은밀함과 사악함으로 인해 언더다크 "
-"전역에서 두려움의 대상이 되곤 합니다."
+"한때 무시무시한 마인드 플레이어의 노예 신세였던 듀에르가는 소름끼치는 잔혹함으로 자유에 적응했습니다. 특유의 은밀성과 악랄함 때문에 "
+"언더다크 전역에서 두려움을 받습니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16652,8 +16652,8 @@ msgctxt "hbc83a6c3gd5f9g4236g96ffgc5abb08732f8"
 msgid ""
 "A touch of the Feywild remains in half-elves with this bloodline, and even "
 "those untrained in magic possess a hint of wild power."
-msgstr "하프엘프의 혈통에 페이와일드의 흔적이 남아 있어, 훈련되지 않은 이들도 약간의 "
-"와일드 매직을 가지고 있습니다."
+msgstr ""
+"이 하프 엘프들의 혈통에는 페이와일드의 흔적이 남아 있어, 따로 훈련을 하지 않은 이조차도 약간의 와일드 매직을 부릴 줄 압니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16702,9 +16702,8 @@ msgid ""
 "for stealth. Yet many break away from isolation in Faerûn's forests to "
 "explore the rest of the Realms."
 msgstr ""
-"그들의 우드 엘프 조상처럼, 이 하프 엘프들은 빠른 발걸음과 뛰어난 은신 기술을 "
-"지니고 있습니다. 하지만 많은 이들이 페이룬의 숲에서 은둔하는 생활을 떠나 "
-"대륙을 탐험합니다."
+"자신들의 근원인 우드 엘프들처럼, 이 하프 엘프들도 재빠른 발놀림과 뛰어난 은신 능력을 지니고 있습니다. 다만 이들 중 상당수는 페이룬의 "
+"숲 속 은둔 생활 대신 대륙을 탐험하는 삶을 살죠."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16877,8 +16876,8 @@ msgid ""
 "rare sight in Faerûn. They master magic and craftsmanship in their distant, "
 "idyllic groves."
 msgstr ""
-"사촌들보다도 키가 더 작고, 두 배는 더 은둔적인 숲 노움들은 페이룬에서 보기 "
-"드뭅니다. 이들은 머나먼 곳의 목가적인 숲에서 살며 마법과 손재주를 익힙니다."
+"사촌들보다도 키 작고, 두 배는 더 은둔적인 숲 노움들은 페이룬에서 모습을 보기가 힘듭니다. 이들은 머나먼 목가적인 숲 속에서 지내며 "
+"마법과 손재주를 갈고닦습니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -16920,8 +16919,7 @@ msgctxt "h7d0a711bgf34dg4dfbgba40g558886487ccc"
 msgid ""
 "More guarded than their surface cousins, deep gnomes survive in the "
 "Underdark with darkvision and skilful stealth."
-msgstr "그들의 지상 사촌들보다 더 경계심이 강한 딥 노움은 암흑시야와 숙련된 은신술로 "
-"언더다크에서 살아남습니다."
+msgstr "지상 쪽 사촌들보다 더 경계심이 강한 딥 노움은 암흑시야와 숙련된 은신술로 언더다크에서 살아남습니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17102,8 +17100,8 @@ msgid ""
 "Legends say dwarven blood gave stronghearts their hardiness. Resilient to "
 "poison and wellsprings of endurance, these halflings easily hold their own."
 msgstr ""
-"전설에 따르면 드워프의 피가 스트롱하트들에게 강인함을 선사했다고 합니다. "
-"독에 강하고 넘쳐나는 인내심을 지닌 이 하플링들은 손쉽게 자신을 지킵니다."
+"전설에 따르면 스트롱하트들의 강인함은 드워프의 핏줄에서 비롯된 것이라고 합니다. 독에 대한 내성과 넘쳐나는 인내력을 지닌 이 하플링들은 "
+"쉽게 꺾이지 않습니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17168,7 +17166,7 @@ msgctxt "h67c811ceg310dg4a5dg8fd9g4c89d3e62e11"
 msgid ""
 "Bound to Nessus, the deepest layer of the hells, Asmodeus tieflings wield "
 "fire and darkness like the notorious archdevil himself. "
-msgstr "지옥의 가장 깊은 층, 네수스에 종속된 이 티플링들은 마치 악명높은 아크데빌과도 같이 불꽃과 어둠을 다룰 수 있습니다. "
+msgstr "지옥의 가장 깊은 층, 네수스에 종속된 아스모데우스 티플링들은 그 악명높은 아크데빌처럼 불과 어둠을 다룰 수 있습니다. "
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17188,7 +17186,8 @@ msgctxt "h00af73b1g0dbag4df8gbbb9g6db60d51db02"
 msgid ""
 "Mephistopheles tieflings draw power from Cania, the archdevil's glacial "
 "realm, and have a particular affinity for arcane magic."
-msgstr "메피스토펠레스 티플링들은 아크데빌의 빙하 차원, 카니아로부터 그들의 힘을 끌어내며, 비전 마법에 특히 친밀합니다."
+msgstr ""
+"메피스토펠레스 티플링들은 아크데빌이 다스리는 빙하 영역, 카니아로부터 자신들의 힘을 끌어내며, 비전 마법에 특별한 친화력을 지녔습니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17208,7 +17207,7 @@ msgctxt "h1af6aeccg4554g4c1fgade2g0708ea6432ae"
 msgid ""
 "Tieflings bound to Zariel can channel searing flame on a whim to punish "
 "their enemies."
-msgstr "자리엘과 연관된 티플링은 타오르는 불길을 간단히 시전해 적을 불태울 수 있습니다."
+msgstr "자리엘과 연관된 이 티플링들은 타오르는 불꽃을 간단히 쏟아내 적을 징벌할 수 있습니다."
 
 #. FilePath = Shared/Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17594,9 +17593,8 @@ msgid ""
 "with bright red eyes so those in the Underdark will learn to fear them on "
 "sight."
 msgstr ""
-"멘조베란잔의 롤쓰 교단에서 길러진 이 드로우들은 타락하고 무자비한 여신의 "
-"미덕을 찬양합니다. 롤쓰는 그녀의 추종자들에게 선명한 붉은 빛의 눈을 주어 온 "
-"언더다크가 드로우를 보는 것만으로도 두려움에 떨게 만듭니다."
+"멘조베란잔의 롤쓰 교단이 길러 낸 이 드로우들은 자신들의 타락하고 무자비한 여신의 덕목을 구현하는 자들입니다. 롤쓰는 자신의 추종자들에게 "
+"선홍빛의 눈을 표식으로 주는데, 언더다크 내에서 이 눈은 두려움의 대상이 됩니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17617,8 +17615,7 @@ msgid ""
 "Seldarine drow can be found seeking allies from all over Faerûn, aiming to "
 "settle their conflict with Lolth - and each other - by any means necessary."
 msgstr ""
-"셀다린 드로우는 페이룬 전역에서 동맹을 구하여 무슨 수를 써서라도 롤쓰와의 "
-"분쟁을, 그리고 다른 드로우들과의 분쟁을 끝내고자 합니다."
+"셀다린 드로우는 페이룬 전역에서 동맹을 구하고 다니며 무슨 수를 써서라도 롤쓰와의 분쟁을, 그리고 동족 간의 분쟁을 종식하고자 합니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17663,8 +17660,9 @@ msgctxt "h901ac0f9g41d7g4df8g8787g1450a5813ca8"
 msgid ""
 "These dwarves are known for their confidence and keen intuition. The culture "
 "of their Deep Kingdom values family, ritual, and fine craftsmanship."
-msgstr "이 드워프는 자신감과 예리한 직감으로 유명합니다. 이들의 지하 왕국의 문화는 "
-"가족, 의식, 그리고 장인 정신을 중시합니다."
+msgstr ""
+"이 드워프들은 자신감 있고 직감이 예리한 것으로 유명합니다. 이들의 지하 왕국은 가족, 의례, 그리고 우수한 장인 정신을 중시하는 문화를 "
+"지녔습니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17688,9 +17686,8 @@ msgid ""
 "to adopt a cynical mindset, but they will endure anything to restore their "
 "ancestral homelands."
 msgstr ""
-"고블린과 오크와의 고대 전쟁에서 큰 손실을 입은 드워프들은 냉소적인 "
-"사고방식을 갖게 되었지만, 조상의 고향을 되찾기 위해서라면 무엇이든 견뎌낼 "
-"것입니다."
+"고블린과 오크와 치른 고대 전쟁에서 막대한 손실을 입은 이 드워프들은 냉소적인 사고방식을 갖게 되었지만, 조상의 고향을 되찾기 위해서라면 "
+"그 무엇이든 감수할 이들입니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17715,8 +17712,8 @@ msgid ""
 "harsh practicality. Their cold demeanours and gift of stealth are well-known "
 "throughout the Underdark."
 msgstr ""
-"한 때 사악한 마인드 플레이어에 의해 노예로 전락했던 듀에르가는 그들의 음침한 잔혹함으로 자유에 적응했습니다. 그들의 은밀함과 사악함으로 "
-"인해 언더다크 전역에서 두려움의 대상이 되곤 합니다."
+"한때 무시무시한 마인드 플레이어의 노예 신세였던 듀에르가는 무자비한 실용주의로 자유에 적응했습니다. 냉혹한 품행과 타고난 은밀성으로 "
+"언더다크 전역에서 명성이 자자합니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17764,8 +17761,8 @@ msgctxt "hb9157c3ag6d11g49b3g8017ga4918505845d"
 msgid ""
 "A touch of the Feywild remains in half-elves with this bloodline, and even "
 "those untrained in magic possess a hint of wild power."
-msgstr "하프엘프의 혈통에 페이와일드의 흔적이 남아 있어, 훈련되지 않은 이들도 약간의 "
-"와일드 매직을 가지고 있습니다."
+msgstr ""
+"이 하프 엘프들의 혈통에는 페이와일드의 흔적이 남아 있어, 따로 훈련을 하지 않은 이조차도 약간의 와일드 매직을 부릴 줄 압니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17789,9 +17786,8 @@ msgid ""
 "eye for stealth. Yet many break away from isolation in Faerûn's forests to "
 "explore the rest of the Realms."
 msgstr ""
-"그들의 우드 엘프 조상처럼, 이 하프 엘프들은 빠른 발걸음과 뛰어난 은신 기술을 "
-"지니고 있습니다. 하지만 많은 이들이 페이룬의 숲에서 은둔하는 생활을 떠나 "
-"대륙을 탐험합니다."
+"자신들의 근원인 우드 엘프들처럼, 이 하프 엘프들도 재빠른 발놀림과 뛰어난 은신 능력을 지니고 있습니다. 다만 이들 중 상당수는 페이룬의 "
+"숲 속 은둔 생활 대신 대륙을 탐험하는 삶을 살죠."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17815,8 +17811,8 @@ msgid ""
 "While half-drow inherited a few magical gifts, they aren't usually raised in "
 "the Underdark."
 msgstr ""
-"대부분의 하프 드로우는 셀다린 드로우와 지상인 사이에서 태어납니다. 이들은 "
-"어느 정도 마법적인 재능을 타고나며, 언더다크에서 자라는 경우는 거의 없습니다."
+"대부분의 하프 드로우는 셀다린 드로우와 지상인 사이에서 태어납니다. 이들은 어느 정도 마법적인 재능을 타고나며, 언더다크에서 자라는 "
+"경우는 별로 없습니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17861,8 +17857,7 @@ msgctxt "hd99cc12fg0ee8g4d57gae6bgddfb6157222c"
 msgid ""
 "The most commonly seen gnomes on Faerûn's surface, rock gnomes are named as "
 "such for their hardiness and affinity for metal."
-msgstr "바위 노움은 지상 세계에서 가장 흔히 볼 수 있는 노움으로, 튼튼한 신체와 "
-"금속에 대한 애착 때문에 그런 이름이 붙었습니다."
+msgstr "지상 세계에서 가장 흔하게 보이는 노움 종으로, 튼튼한 신체에 금속에 대한 애착 때문에 바위 노움이란 명칭이 붙었습니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17883,8 +17878,7 @@ msgctxt "h2e97d09cgb4b2g433fga6c6geee1d40789f0"
 msgid ""
 "More guarded than their surface cousins, deep gnomes survive in the "
 "Underdark with darkvision and skilful stealth."
-msgstr "그들의 지상 사촌들보다 더 경계심이 강한 딥 노움은 암흑시야와 숙련된 은신술로 "
-"언더다크에서 살아남습니다."
+msgstr "지상 쪽 사촌들보다 더 경계심이 강한 딥 노움은 암흑시야와 숙련된 은신술로 언더다크에서 살아남습니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17908,8 +17902,8 @@ msgid ""
 "rare sight in Faerûn. They master magic and craftsmanship in their distant, "
 "idyllic groves."
 msgstr ""
-"사촌들보다도 키가 더 작고, 두 배는 더 은둔적인 숲 노움들은 페이룬에서 보기 "
-"드뭅니다. 이들은 머나먼 곳의 목가적인 숲에서 살며 마법과 손재주를 익힙니다."
+"사촌들보다도 키 작고, 두 배는 더 은둔적인 숲 노움들은 페이룬에서 모습을 보기가 힘듭니다. 이들은 머나먼 목가적인 숲 속에서 지내며 "
+"마법과 손재주를 갈고닦습니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17956,8 +17950,7 @@ msgctxt "h14fc6eb0g8414g48b0ga7d3gc2398c8745d1"
 msgid ""
 "Stealthy but social, these halflings travel all over Faerûn to make names "
 "for themselves."
-msgstr "은밀하지만 사교적인 이 하플링들은 페이룬 전역을 돌아다니며 자신의 이름을 "
-"알립니다."
+msgstr "눈에 띄지 않게 굴면서도 사교적인 이 하플링들은 페이룬 전역을 돌아다니며 자신의 이름을 날립니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -17981,8 +17974,8 @@ msgid ""
 "Resistant to poison and wellsprings of endurance, these halflings easily "
 "hold their own."
 msgstr ""
-"전설에 따르면 드워프의 피가 스트롱하트들에게 강인함을 선사했다고 합니다. "
-"독에 강하고 넘쳐나는 인내심을 지닌 이 하플링들은 손쉽게 자신을 지킵니다."
+"전설에 따르면 스트롱하트들의 강인함은 드워프의 핏줄에서 비롯된 것이라고 합니다. 독에 대한 내성과 넘쳐나는 인내력을 지닌 이 하플링들은 "
+"쉽게 꺾이지 않습니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -18032,7 +18025,7 @@ msgid ""
 "the ability to wield fire and darkness from the archdevil Asmodeus' infernal "
 "bloodline."
 msgstr ""
-"지옥의 가장 깊은 층, 네수스에 종속된 이 티플링들은 아크데빌 아스모데우스의 지옥 혈통으로부터 화염과 어둠을 휘두르는 능력을 물려받습니다."
+"지옥의 가장 깊은 층, 네수스에 종속된 이 티플링들은 아크데빌 아스모데우스의 지옥 혈통으로서 불과 어둠을 다루는 능력을 물려받았습니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -18054,8 +18047,7 @@ msgctxt "h896a9bfdg85c1g4c72g8a30gcad470e0148f"
 msgid ""
 "Descended from the archdevil Mephistopheles, these tieflings are gifted with "
 "a particular affinity for arcane magic."
-msgstr "아크데빌 메피스토펠레스의 후손인 이 티플링들은 비전 마법에 대한 특별한 "
-"친화력을 타고났습니다."
+msgstr "아크데빌 메피스토펠레스의 후손인 이 티플링들은 비전 마법에 특별한 친화력을 타고났습니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -18077,8 +18069,7 @@ msgctxt "he29ab168g8b3eg41eeg8cb0ga9820f1e7971"
 msgid ""
 "Tieflings from Zariel's bloodline are empowered with martial strength, and "
 "can channel searing flame to punish their enemies."
-msgstr "자리엘 혈통의 티플링들은 무력을 타고나며, 타오르는 불꽃을 쏟아내어 적들을 "
-"징벌할 수 있습니다."
+msgstr "자리엘의 혈통인 이 티플링들은 무력을 타고나며, 타오르는 불꽃을 쏟아내 적을 징벌할 수 있습니다."
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -18967,7 +18958,7 @@ msgctxt "hedd33693g291fg415dgbae8g4f7180aa796d"
 msgid ""
 "The bulette's deep burrowing and powerful leap makes it an apex predator in "
 "nearly every terrain it finds itself in. "
-msgstr "깊은 굴을 파고 힘차게 도약하는 불레이는 거의 모든 지형에서 정점 포식자입니다. "
+msgstr "깊은 굴을 파고 힘차게 도약하는 불레트는 거의 모든 지형에서 정점 포식자입니다. "
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -18976,7 +18967,7 @@ msgstr "깊은 굴을 파고 힘차게 도약하는 불레이는 거의 모든 �
 #: Shared/Public/Shared/Races/Races.lsx:29946
 msgctxt "h03744768g801cg4cafga634g667ed4a66eef"
 msgid "Bulette"
-msgstr "불레이"
+msgstr "불레트"
 
 #. FilePath = Shared/Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -27249,11 +27240,12 @@ msgstr "비행 구울"
 #. HandlePath = Description
 #. Name = GiantEagle
 #: Shared/Public/SharedDev/Races/Races.lsx:4372
+#, fuzzy
 msgctxt "h3e50f52ag2b43g47c1ga292ge30935e44dc8"
 msgid ""
 "Though noble and giant in stature, these eagles are barely smarter than "
 "their smaller counterparts"
-msgstr ""
+msgstr "고귀하고 거대한 풍채를 지녔으나, 이 독수리들은 훨씬 작은 경쟁 상대들보다 멍청합니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -27269,11 +27261,12 @@ msgstr "거대 독수리"
 #. HandlePath = Description
 #. Name = Ghoul
 #: Shared/Public/SharedDev/Races/Races.lsx:4380
+#, fuzzy
 msgctxt "h778b2737g9877g44c4g8155g284133c22c18"
 msgid ""
 "Driven by their insatiable hunger for humanoid flesh, ghouls usually roam "
 "the night in packs."
-msgstr ""
+msgstr "인육에 대한 끝없는 갈망에 사로잡힌 구울은 한밤중 무리 지어 배회합니다."
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -27300,9 +27293,10 @@ msgstr ""
 #. HandlePath = DisplayName
 #. Name = UndeadFace
 #: Shared/Public/SharedDev/Races/Races.lsx:4389
+#, fuzzy
 msgctxt "h9790c682gc836g4d95g9a26gfc899731fefb"
 msgid "Grim Visage"
-msgstr ""
+msgstr "섬뜩한 얼굴"
 
 #. FilePath = Shared/Public/SharedDev/Races/Races.lsx
 #. NodeID = Race

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-24 16:34+0000\n"
-"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
+"PO-Revision-Date: 2023-08-27 03:53+0000\n"
+"Last-Translator: P!neappl3 <koroundjoo@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/sharedlocalization/ko/>"
 "\n"
 "Language: ko\n"
@@ -520,11 +520,9 @@ msgstr "사원 입구"
 #. HandlePath = Content
 #. UUID = CHA_UpperFloor_SUB
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:274
-#, fuzzy
-#| msgid "Bedchamber"
 msgctxt "h725fa33bg8ce9g4e4fg929cgcf5384f11937"
 msgid "Refectory"
-msgstr "침실"
+msgstr "식당"
 
 #. key = COL_Barracks_SUB
 #. 
@@ -788,7 +786,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act1b_Subregions.lsx:57
 msgctxt "h7a6d0993g9c8cg40fegaf0cg83a3a08a6d4e"
 msgid "Classroom"
-msgstr ""
+msgstr "교실"
 
 #. key = CRE_DoctorsOffice_SUB
 #. 
@@ -821,7 +819,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act1b_Subregions.lsx:8
 msgctxt "had7b3fe5g7b01g431bgb55eg006be318143b"
 msgid "Crèche Y'llek"
-msgstr ""
+msgstr "크레셰 일레크"
 
 #. key = CRE_Hatchery_SUB
 #. 
@@ -832,7 +830,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act1b_Subregions.lsx:43
 msgctxt "h5c6fffcbg3453g4effg95dfgb1caa32666fa"
 msgid "Hatchery"
-msgstr ""
+msgstr "부화장"
 
 #. key = CRE_Infirmary_SUB
 #. 
@@ -1687,7 +1685,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:393
 msgctxt "h9245d43agab92g4bbcga1dcg98d4297f3b8e"
 msgid "Decrepit Sanctuary"
-msgstr ""
+msgstr "쇠락한 성소"
 
 #. key = HAG_HagHouse_SUB
 #. 
@@ -1830,7 +1828,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:71
 msgctxt "h24616573gce13g4d82gbe50g6db469619604"
 msgid "Last Light Inn"
-msgstr ""
+msgstr "최후의 빛 여관"
 
 #. key = HAV_Haven_SUB_Cellar
 #. 
@@ -1841,7 +1839,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:134
 msgctxt "h88162115ga9acg4b08gb2beg66b7f003286d"
 msgid "Last Light Inn - Cellar"
-msgstr ""
+msgstr "최후의 빛 여관 - 지하 저장고"
 
 #. key = HAV_IsobelRoom_SUB
 #. 
@@ -1908,7 +1906,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:246
 msgctxt "h679be310g1278g45edga66fg448c3d21ec45"
 msgid "Wyrm's Lookout"
-msgstr ""
+msgstr "고룡 감시탑"
 
 #. key = INT_Main_A
 #. 
@@ -1920,7 +1918,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Levels.lsx:22
 msgctxt "had6bedf7g7ec0g4c85g9fa5g4dfc1e08e3db"
 msgid "Wyrm's Lookout"
-msgstr ""
+msgstr "고룡 감시탑"
 
 #. key = IRN_IronThrone_DestructionTimer
 #. 
@@ -1942,7 +1940,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:918
 msgctxt "h76a6734aga30ag4a52gb49bgf118e78ac5cc"
 msgid "Iron Throne"
-msgstr ""
+msgstr "아이언 스론"
 
 #. key = IRN_Main_A
 #. 
@@ -1954,7 +1952,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Levels.lsx:43
 msgctxt "h26ca090eg11e8g4dddg837bg458977d0dc08"
 msgid "Iron Throne"
-msgstr ""
+msgstr "아이언 스론"
 
 #. key = LOW_BaldursGate_NoFurtherMessage
 #. 
@@ -2086,7 +2084,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:435
 msgctxt "h8474a16cgf7aag4387g9353g53c1e2158279"
 msgid "Bhaal Temple"
-msgstr ""
+msgstr "바알 신전"
 
 #. key = LOW_Bibliophile_SUB
 #. 
@@ -2227,9 +2225,10 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = LOW_CentralWatchTower_SUB
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:519
+#, fuzzy
 msgctxt "h94f24b66g9db5g4fc2g9c27g7f53fb2a4856"
 msgid "Central Watch Tower"
-msgstr ""
+msgstr "중앙 감시탑"
 
 #. key = LOW_City_SUB
 #. 
@@ -2429,7 +2428,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:295
 msgctxt "h9fe4eb7dg7d80g4a0eg9519g821d1f41abe2"
 msgid "Elfsong Tavern"
-msgstr ""
+msgstr "엘프송 여관"
 
 #. key = LOW_Elfsong_Basement_SUB
 #. 
@@ -2440,7 +2439,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:309
 msgctxt "ha2f31ffag3f3ag4826gaf39g5fb2fb76aa88"
 msgid "Elfsong Tavern Basement"
-msgstr ""
+msgstr "엘프송 여관 지하실"
 
 #. key = LOW_Elfsong_PrivateRoom_SUB
 #. 
@@ -2832,7 +2831,7 @@ msgctxt "h18e6ec71g3bbbg4f9eg9a5fgc82b76e66c8c"
 msgid ""
 "After the Elturel Disaster: How to ward your home against the Infernal (no "
 "herbal remedies, we promise)"
-msgstr ""
+msgstr "엘투렐 재난 이후: 지옥으로부터 당신의 집을 보호하는 방법 (약초 요법 아님, 약속드립니다)"
 
 #. key = LOW_Gazette_Article028
 #. 
@@ -2857,7 +2856,7 @@ msgstr ""
 msgctxt "had7fb6b4g9f2ag4e76g8703g3d6feb1a48cc"
 msgid ""
 "Woe in Waterdeep! Reports of a magical explosion that levelled half the city!"
-msgstr ""
+msgstr "워터딥을 덮친 슬픔! 도시 절반을 무너뜨린 마법적 폭발 보고돼!"
 
 #. key = LOW_Gazette_Article030
 #. 
@@ -2868,7 +2867,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:449
 msgctxt "h9a1fda54g384fg44bbg9adfgd046346dfe01"
 msgid "Feywild's Circus comes to town with famous Dribbles the Clown!"
-msgstr ""
+msgstr "페이와일드 서커스가 유명한 광대 드리블스와 함께 도시에 방문!"
 
 #. key = LOW_Gazette_Article031
 #. 
@@ -2879,7 +2878,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:456
 msgctxt "h05249ea5g92c7g43d3gb870g8fed23eed825"
 msgid "Donation Drive open at the Refugee Camp - Give a Little, Help a Lot"
-msgstr ""
+msgstr "난민 야영지에서 기부 운동 개최 - 작은 기부도 큰 도움이 됩니다"
 
 #. key = LOW_Gazette_Article032
 #. 
@@ -2892,7 +2891,7 @@ msgctxt "h34678d33g5137g4b5cg9b90g01abebd76120"
 msgid ""
 "Pressure mounting between Baldurians and Refugees. \"We can't risk taking "
 "spies of the Absolute in!\""
-msgstr ""
+msgstr "발더인과 난민 사이 압력 가중. \"절대자의 첩자들을 들여보낼 위험을 감수할 수 없다!\""
 
 #. key = LOW_Gazette_Article033
 #. 
@@ -2903,7 +2902,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:470
 msgctxt "hf3fe6c26g88ddg42b8gb3d9g72ffc2b9391a"
 msgid "Reports of ships sailing by night along the beaches of Wyrm's Crossing"
-msgstr ""
+msgstr "고룡 다리 강변으로 오밤중에 항해하는 함선들 목격돼"
 
 #. key = LOW_Gazette_Article034
 #. 
@@ -2915,7 +2914,7 @@ msgstr ""
 msgctxt "hc1b58ac6g0c32g4cabg9555gfeee036dde26"
 msgid ""
 "Postmaster Danzo Arkwright in trouble: what is happening to our letters?"
-msgstr ""
+msgstr "곤경에 처한 우체국장 단조 아크라이트: 편지는 어떻게 되나?"
 
 #. key = LOW_Gazette_Article035
 #. 
@@ -2937,7 +2936,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:491
 msgctxt "h6d49ebe8gd1cbg4284gae99g8d31f732346f"
 msgid "Elfsong Tavern under rat invasion"
-msgstr ""
+msgstr "엘프송 여관이 쥐의 침공을 받아"
 
 #. key = LOW_Gazette_Article037
 #. 
@@ -2948,7 +2947,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:498
 msgctxt "h565e89c8g6adfg40b8gafbdg23a9ee652b75"
 msgid "Steel Watch Foundry Decimated by Dastardly Sabotage!"
-msgstr ""
+msgstr "스틸 워치 주조소, 비열한 방해공작으로 파괴돼!"
 
 #. key = LOW_Gazette_Article038
 #. 
@@ -2959,7 +2958,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:505
 msgctxt "h1787b9b1g66c7g4cf9gbbb4g82f8b7a2e177"
 msgid "Escape From Castle Wyrm Rock: Counsellor Florrick Flees!"
-msgstr ""
+msgstr "고룡 바위 성채 탈옥: 자문관 플로릭 도주!"
 
 #. key = LOW_Gazette_Article039
 #. 
@@ -2970,7 +2969,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:512
 msgctxt "hc077b7ebgd1ddg4744g9507ge950c2084114"
 msgid "An Inauspicious Death: The Hanging of Counsellor Florrick. "
-msgstr ""
+msgstr "불길한 죽음: 자문관 플로릭, 교수형에 처해져 "
 
 #. key = LOW_Gazette_Article040
 #. 
@@ -2981,7 +2980,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:519
 msgctxt "h523b2b58gd90dg4754ga948g31dc8af5b6cc"
 msgid "Counsellor turned Conspirator Florrick Will Hang Tomorrow!"
-msgstr ""
+msgstr "자문관에서 음모 공모자로 변모한 플로릭, 내일 교수형 집행!"
 
 #. key = LOW_Gazette_Article041
 #. 
@@ -2992,7 +2991,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:526
 msgctxt "h4b46b26ag0ebeg498cga04cgfaf14397002d"
 msgid "The City Shakes But No Ground Breaks: The Mouth Investigates"
-msgstr ""
+msgstr "지진 없는 진동: 발더스 마우스 탐사기획"
 
 #. key = LOW_Gazette_Article042
 #. 
@@ -3060,7 +3059,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:568
 msgctxt "he030fe0ag71c9g4b5bg8c11gf6970f8e49d7"
 msgid "Bloris Meadhoney Gives YOU Money Saving Advice"
-msgstr ""
+msgstr "블로리스 미드허니가 <b>여러분께</b> 알려드리는 절약 팁"
 
 #. key = LOW_Gazette_Article048
 #. 
@@ -3071,7 +3070,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:575
 msgctxt "h4685ba8eg0120g4711ga52dgf017f250350d"
 msgid "Murder In Baldur's Gate? The Mouth Investigates"
-msgstr ""
+msgstr "발더스 게이트의 살인? 발더스 마우스 탐사기획"
 
 #. key = LOW_Gazette_Article049
 #. 
@@ -3082,7 +3081,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:582
 msgctxt "h6914d29egab40g4d30ga02fg0118414db62b"
 msgid "Baldurian Tourists: \"Chult's Too Humid and Dangerous\""
-msgstr ""
+msgstr "발더인 여행객, \"출트는 너무 습하고 위험해\""
 
 #. key = LOW_Gazette_Article099
 #. 
@@ -3095,7 +3094,7 @@ msgctxt "hdd7e0c75g581ag4b14gbc78gf086ce73578f"
 msgid ""
 "Lord Gortash to take a hard stance on refugees: None is welcome within the "
 "Inner City. "
-msgstr ""
+msgstr "고타쉬 경, 난민에 강경 입장을 밝혀. '내부 도시에서는 아무도 환영하지 않는다' "
 
 #. key = LOW_Gazette_Article100
 #. 
@@ -3108,7 +3107,7 @@ msgctxt "h223671edg4a22g4c30g9f83g0cfece5d35a5"
 msgid ""
 "Feywild's Circus struck by tragedy: Dribbles the Clown killed and replaced "
 "by absolute spy."
-msgstr ""
+msgstr "비극이 페이와일드 서커스를 덮쳐: 광대 드리블스, 살해당하고 절대자 첩자가 그 자리를 대신해."
 
 #. key = LOW_Gazette_Article101
 #. 
@@ -3148,6 +3147,7 @@ msgid ""
 "Murder at Lathander's feet: Head Priest killed within the Open Hand Temple's "
 "wall.  Investigator Valeria on the case."
 msgstr ""
+"라샌더의 발 밑에서 살인 사건이 벌어지다: 열린 손의 신전 내부에서 수석 사제가 살해 당했다. 수사관 발레리아가 사건을 조사 중."
 
 #. key = LOW_Gazette_Article104
 #. 
@@ -3160,7 +3160,7 @@ msgctxt "hba9290c7g4271g4814ga3b5ge3524839e117"
 msgid ""
 "Checkpoint to Wyrm's Crossing attacked by Deep Gnomes.  Steel Watchers "
 "shrugs damage. "
-msgstr ""
+msgstr "딥 노움들이 고룡 다리 검문소를 공격해... 스틸 워쳐는 별다른 피해 없어. "
 
 #. key = LOW_Gazette_Article105
 #. 
@@ -3211,7 +3211,7 @@ msgctxt "h575a944dg9ff6g4282g9192gbfc5e11d62c5"
 msgid ""
 "Gortash's Coronation imminent: witness the ascension of Baldur's Gate first "
 "Archduke."
-msgstr "고타쉬 경의 대관식이 임박하다. 발더스 게이트 최초의 공왕 즉위를 지켜보시라."
+msgstr "고타쉬 경의 대관식 임박. 발더스 게이트 최초의 공왕 즉위를 지켜보시라."
 
 #. key = LOW_Gazette_Article109
 #. 
@@ -3222,7 +3222,7 @@ msgstr "고타쉬 경의 대관식이 임박하다. 발더스 게이트 최초�
 #: Gustav/Mods/GustavDev/Localization/Act3_Gazette.lsx:1072
 msgctxt "h30266b82g29c4g4062gaa26g4b36f1a37ea0"
 msgid "New Archduke Ceremony interrupted by unknown vagrant. "
-msgstr "정체불명의 부랑자가 새로운 공왕의 즉위식을 방해하다. "
+msgstr "정체불명의 부랑자가 새로운 공왕의 즉위식을 방해해 "
 
 #. key = LOW_Gazette_Article110
 #. 
@@ -4987,7 +4987,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:701
 msgctxt "hbe60743dg6d48g48d0g874dgec63aca427be"
 msgid "Mortuary"
-msgstr ""
+msgstr "영안실"
 
 #. key = LOW_KurwinCoffin_PriestOfJergal_Mausoleum_SUB
 #. 
@@ -6094,7 +6094,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:148
 msgctxt "h7deb1841gaf07g4de4g86b8g87e8b9c00fda"
 msgid "Nightsong's Prison"
-msgstr ""
+msgstr "나이트송의 감옥"
 
 #. key = SHA_Temple_SUB_PlatformsTrial
 #. 
@@ -6807,7 +6807,7 @@ msgstr "도시 하수도"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:120
 msgctxt "h4b4a6b21g0ebcg4da1gb56ag23624fed304f"
 msgid "Heapside Strand"
-msgstr "힙사이드 수로"
+msgstr "힙사이드 강변"
 
 #. key = WAYP_LOW_DocksArea
 #. 
@@ -6818,7 +6818,7 @@ msgstr "힙사이드 수로"
 #: Gustav/Mods/GustavDev/Localization/Waypointshrines2.lsx:113
 msgctxt "h1518916egd7b5g45a0gbebfg7994ed25f6c4"
 msgid "Grey Harbour Docks"
-msgstr ""
+msgstr "회색 항구 부두"
 
 #. key = WAYP_LOW_MorphicPoolDock
 #. 
@@ -7381,7 +7381,7 @@ msgstr "공왕 지명자"
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:85
 msgctxt "hb6c7a441g928ag4292gacd1g4bba47f94157"
 msgid "Arfur's Basement"
-msgstr "아르푸르의 지하실"
+msgstr "아르퍼의 지하실"
 
 #. key = WYR_MerchantsHouse_SUB
 #. 
@@ -7392,7 +7392,7 @@ msgstr "아르푸르의 지하실"
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:197
 msgctxt "haa5843edg6210g4614gb2fag7cc0300aa9bf"
 msgid "Arfur's Mansion"
-msgstr "아르푸르의 저택"
+msgstr "아르퍼의 저택"
 
 #. key = WYR_OpenHandTemple_SUB
 #. 
@@ -7418,6 +7418,9 @@ msgid ""
 "\n"
 "- Investigator Valeria"
 msgstr ""
+"이 통행증을 소유한 자는 하부 도시 출입이 가능함.\n"
+"\n"
+"- 수사관 발레리아"
 
 #. key = WYR_PaintingPuzzle_SolutionPaintingShroudedName
 #. 
@@ -7428,7 +7431,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Misc.lsx:22
 msgctxt "h543d851bg845cg4585g9a14ga657e051f94c"
 msgid "Shrouded Painting"
-msgstr ""
+msgstr "가려진 그림"
 
 #. key = WYR_Posthouse_SUB
 #. 
@@ -7549,7 +7552,7 @@ msgstr "샤레스의 애무 지하실"
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:176
 msgctxt "hdb7fbb75g814fg45e5gaa81gd68c4df063bc"
 msgid "Underdark Pleasures"
-msgstr ""
+msgstr "언더다크의 쾌락"
 
 #. key = WYR_SharessCaress_Grotto_SUB
 #. 
@@ -7560,7 +7563,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:169
 msgctxt "h7718e8aeg584eg495fgb60fgcf4089951680"
 msgid "Nymph's Grotto"
-msgstr ""
+msgstr "님프의 동굴"
 
 #. key = WYR_SharessCaress_Library_SUB
 #. 
@@ -7571,7 +7574,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:155
 msgctxt "h10f2582cgb175g4233ga72dgdd8bc44d84c3"
 msgid "Elminster's Library"
-msgstr ""
+msgstr "엘민스터의 서재"
 
 #. key = WYR_SharessCaress_Raphael_SUB
 #. 
@@ -7582,7 +7585,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:162
 msgctxt "hae152186g8b03g499bg8bedg4fd691f1e52c"
 msgid "Devil's Den"
-msgstr ""
+msgstr "데빌의 소굴"
 
 #. key = WYR_SharessCaress_SUB
 #. 

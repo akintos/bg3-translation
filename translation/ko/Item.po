@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-24 16:35+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-08-27 03:53+0000\n"
+"Last-Translator: Milesand <me@dicemice.me>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/item/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6673,7 +6673,7 @@ msgstr "앉기"
 #: Shared/Public/Shared/RootTemplates/5912447d-0772-43d2-a5f6-9d1b6d682e79.lsx:15
 msgctxt "h2c51cb76gcba7g4011gb86ag0eb2b2849f05"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/7247886b-1a8b-4a4f-bf1b-2a01f4a09e5b.lsx
 #. NodeID = GameObjects
@@ -7601,7 +7601,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/e7164d35-c1c0-431f-a66e-95ab94de0f5f.lsx:15
 msgctxt "h4e7a0480g0680g4649g8d85g67af67674f6d"
 msgid "Stairs"
-msgstr ""
+msgstr "계단"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/09f9b091-2a66-468c-b881-bf7565326c93.lsx
 #. NodeID = GameObjects
@@ -7612,7 +7612,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/09f9b091-2a66-468c-b881-bf7565326c93.lsx:15
 msgctxt "h70f783c5g9984g46c2g827ag4616a429d3fd"
 msgid "Stairs"
-msgstr ""
+msgstr "계단"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/a057601a-ab34-494e-96c3-a1f7e372ea92.lsx
 #. NodeID = GameObjects
@@ -7623,7 +7623,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/a057601a-ab34-494e-96c3-a1f7e372ea92.lsx:15
 msgctxt "h96b36402g267fg4fd2ga51eg720e3d2be0ae"
 msgid "Stairs"
-msgstr ""
+msgstr "계단"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/6dcf4e0a-505f-4d88-b1d9-8f9a179cd04e.lsx
 #. NodeID = GameObjects
@@ -7713,7 +7713,7 @@ msgstr "밧줄"
 #: Shared/Public/Shared/RootTemplates/df9bfad7-4ee6-4eac-8b16-5d826323ac1d.lsx:16
 msgctxt "hed08d164geed8g47abga2f8gb2a587e7efe7"
 msgid "Roof"
-msgstr ""
+msgstr "지붕"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/f40f85ab-b548-43fd-81e7-16f2cf7bcebe.lsx
 #. NodeID = GameObjects
@@ -7722,11 +7722,9 @@ msgstr ""
 #. Type = item
 #. Icon = Item_BLD_Village_House_Door_A_Wood_Scenery_B
 #: Shared/Public/Shared/RootTemplates/f40f85ab-b548-43fd-81e7-16f2cf7bcebe.lsx:16
-#, fuzzy
-#| msgid "Ruined Bridge"
 msgctxt "hc8c390d0ge902g49e5g8559ga93458a2fe1e"
 msgid "Roof"
-msgstr "파괴된 다리"
+msgstr "지붕"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/cd8fb23f-9139-4cef-bb63-8e41ef1000d7.lsx
 #. NodeID = GameObjects
@@ -8153,11 +8151,9 @@ msgstr "승강기"
 #. Type = item
 #. Icon = Item_Quest_CMB_ThrowingRock
 #: Shared/Public/Shared/RootTemplates/5a2750a8-6772-472f-bd78-c28b15409ed8.lsx:16
-#, fuzzy
-#| msgid "Statue"
 msgctxt "hd9601155g635eg477dg8e63g8934cd4e4054"
 msgid "Stone"
-msgstr "조각상"
+msgstr "돌"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/06292fb5-ad54-488d-96b0-cd3e9b2ab8e5.lsx
 #. NodeID = GameObjects
@@ -8480,7 +8476,7 @@ msgstr "나무 계단"
 #: Gustav/Public/Gustav/RootTemplates/ec1c3c97-6c0d-409a-9bf3-0bc2c0a31071.lsx:15
 msgctxt "h89c97b46g4655g4035ga9aag203bf81a6cb2"
 msgid "Stairs"
-msgstr ""
+msgstr "계단"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/f02c0745-a28d-4f77-9a22-b8f0cf527b13.lsx
 #. NodeID = GameObjects
@@ -8514,7 +8510,7 @@ msgstr "나무 계단"
 #: Shared/Public/Shared/RootTemplates/7a6446c5-8ed8-4e79-b708-92104f5ac5a3.lsx:16
 msgctxt "hfe5be2ceg0a22g42c1g9a1egba6c71d75de1"
 msgid "Stone"
-msgstr ""
+msgstr "돌"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/81ffc495-9b64-459e-942b-1afa00683653.lsx
 #. NodeID = GameObjects
@@ -8524,11 +8520,9 @@ msgstr ""
 #. Icon = Item_BLD_GEN_WaypointShrine_A_
 #. AnubisConfigName = WaypointShrine
 #: Shared/Public/Shared/RootTemplates/81ffc495-9b64-459e-942b-1afa00683653.lsx:16
-#, fuzzy
-#| msgid "Ancient Rune Circle"
 msgctxt "h0f934edfgec95g4980g996bg6a48c66e0f62"
 msgid "Ancient Sigil Circle"
-msgstr "고대 룬의 원"
+msgstr "고대 인장의 원"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/3b269df9-1582-4201-9968-0899d309faa5.lsx
 #. NodeID = GameObjects
@@ -8539,7 +8533,7 @@ msgstr "고대 룬의 원"
 #: Shared/Public/Shared/RootTemplates/3b269df9-1582-4201-9968-0899d309faa5.lsx:14
 msgctxt "hd247092eg6260g489eg950fge3f5e1c8a11a"
 msgid "Cage"
-msgstr ""
+msgstr "우리"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/cc51df85-792b-4d9a-8ec5-eff598720e5e.lsx
 #. NodeID = GameObjects
@@ -8550,7 +8544,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/cc51df85-792b-4d9a-8ec5-eff598720e5e.lsx:15
 msgctxt "hd89a2350g9cd1g460eg89e8g4bbbac874c11"
 msgid "Zaith'isk"
-msgstr ""
+msgstr "자이트이스크"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/34ef8c95-6d5c-435a-b7ac-a96cd8520887.lsx
 #. NodeID = GameObjects
@@ -8561,7 +8555,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/34ef8c95-6d5c-435a-b7ac-a96cd8520887.lsx:15
 msgctxt "h4fffe2c7g94a4g4974g8b6ag1105af6cce20"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/e1365f64-b585-4750-b696-6bde2824c015.lsx
 #. NodeID = GameObjects
@@ -9322,7 +9316,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/5a96311a-4f13-479e-8531-4485b05e937e.lsx:22
 msgctxt "hb128f456g778ag4983g9a79g0b71d7c608aa"
 msgid "Paddle"
-msgstr ""
+msgstr "노"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/5a96311a-4f13-479e-8531-4485b05e937e.lsx
 #. NodeID = GameObjects
@@ -9333,7 +9327,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/5a96311a-4f13-479e-8531-4485b05e937e.lsx:16
 msgctxt "h698aa68agc841g4731ga339g25349688cb6b"
 msgid "Paddle"
-msgstr ""
+msgstr "노"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/6bf36554-d207-4601-8956-90b751063d8b.lsx
 #. NodeID = GameObjects
@@ -9366,7 +9360,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/46406b2e-3080-4fb5-ab93-cf76416719ff.lsx:22
 msgctxt "h27e81ec0g5398g4408ga7edgf3de1f0f7e38"
 msgid "Rope"
-msgstr ""
+msgstr "밧줄"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/46406b2e-3080-4fb5-ab93-cf76416719ff.lsx
 #. NodeID = GameObjects
@@ -9377,7 +9371,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/46406b2e-3080-4fb5-ab93-cf76416719ff.lsx:15
 msgctxt "h0bc9beaag47efg45a4ga576gdef296fd95ce"
 msgid "Rope"
-msgstr ""
+msgstr "밧줄"
 
 #. FilePath = Gustav/Public/Gustav/RootTemplates/ea88e966-92fb-4dba-9059-61289eae8c70.lsx
 #. NodeID = GameObjects
@@ -23860,7 +23854,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/6eb50b21-44ad-429f-99ad-866b29f51c1a.lsx:15
 msgctxt "h115889bbg89a9g48e4g87bdgaac1273b8987"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/4b4c57c0-c688-47b8-abc2-23bd4666c3e0.lsx
 #. NodeID = GameObjects
@@ -23871,7 +23865,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/4b4c57c0-c688-47b8-abc2-23bd4666c3e0.lsx:15
 msgctxt "hbb24ca66g1b46g407bg969dgf8ff15e466c3"
 msgid "Mailbox"
-msgstr ""
+msgstr "우편함"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/32bcb0ee-cb01-4e47-bc98-29667f4d7946.lsx
 #. NodeID = GameObjects
@@ -23883,7 +23877,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/32bcb0ee-cb01-4e47-bc98-29667f4d7946.lsx:15
 msgctxt "h3b4529aeg2b40g46a9gaab6g9f6b0c42853f"
 msgid "Wooden Box"
-msgstr ""
+msgstr "목재 상자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/71784077-effb-4fa4-b3ad-5b5b9524c52e.lsx
 #. NodeID = GameObjects
@@ -23895,7 +23889,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/71784077-effb-4fa4-b3ad-5b5b9524c52e.lsx:15
 msgctxt "h6bba1877g07dcg47e9g9032g2c28c84e356a"
 msgid "Tiered Shelves"
-msgstr ""
+msgstr "층형 선반"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/f16e344c-4a5f-4b11-a28a-0db4dcf26eb7.lsx
 #. NodeID = GameObjects
@@ -23907,7 +23901,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/f16e344c-4a5f-4b11-a28a-0db4dcf26eb7.lsx:15
 msgctxt "h51baaaa8gb8ebg4cf4gbd59gf8d8b6da43ff"
 msgid "Tiered Shelves"
-msgstr ""
+msgstr "층형 선반"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/bbecb0c0-27fe-4b15-a93c-9191ecf576a0.lsx
 #. NodeID = GameObjects
@@ -23919,7 +23913,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/bbecb0c0-27fe-4b15-a93c-9191ecf576a0.lsx:15
 msgctxt "h3def8f14gcd23g40a8g96f7g464c88776e60"
 msgid "Tiered Shelves"
-msgstr ""
+msgstr "층형 선반"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/388bcad1-52dd-403f-af62-31519538deb6.lsx
 #. NodeID = GameObjects
@@ -23931,7 +23925,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/388bcad1-52dd-403f-af62-31519538deb6.lsx:15
 msgctxt "h07608f66g6b37g47adg931fg167561d9e7a5"
 msgid "Tiered Shelves"
-msgstr ""
+msgstr "층형 선반"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/b4e278dc-75f2-4431-898a-df54f50af015.lsx
 #. NodeID = GameObjects
@@ -23943,7 +23937,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/b4e278dc-75f2-4431-898a-df54f50af015.lsx:15
 msgctxt "hbb0b52e5g2964g4931gbad6g327b8c21d347"
 msgid "Tiered Shelves"
-msgstr ""
+msgstr "층형 선반"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/d18da240-7cff-4781-9b7c-1a7ae6ec70ce.lsx
 #. NodeID = GameObjects
@@ -23955,7 +23949,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/d18da240-7cff-4781-9b7c-1a7ae6ec70ce.lsx:15
 msgctxt "h31d1fea4g1985g4f93ga8b3gc36d66d07786"
 msgid "Tiered Shelves"
-msgstr ""
+msgstr "층형 선반"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/6d8a2b0b-660f-4b6b-b6e8-f06a2ea075ed.lsx
 #. NodeID = GameObjects
@@ -23967,7 +23961,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/6d8a2b0b-660f-4b6b-b6e8-f06a2ea075ed.lsx:15
 msgctxt "hc0ee70cag1d0eg4115g94bcg43b2a10ec615"
 msgid "Newspapers"
-msgstr ""
+msgstr "신문"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/4ad39918-1dbc-4bcf-8d1d-48408eeb61e6.lsx
 #. NodeID = GameObjects
@@ -23979,7 +23973,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/4ad39918-1dbc-4bcf-8d1d-48408eeb61e6.lsx:15
 msgctxt "hc22be43eg31e9g4fbfga62bge1428ecca9dd"
 msgid "Newspapers"
-msgstr ""
+msgstr "신문"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/a8cc1528-abb3-4b40-82eb-0fa0e3dc2264.lsx
 #. NodeID = GameObjects
@@ -23991,7 +23985,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/a8cc1528-abb3-4b40-82eb-0fa0e3dc2264.lsx:15
 msgctxt "h21161850g3fc7g4085g92d9g6d9eec556267"
 msgid "Newspapers"
-msgstr ""
+msgstr "신문"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/39c18118-510a-4cee-8484-84c8b8ef13bd.lsx
 #. NodeID = GameObjects
@@ -24003,7 +23997,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/39c18118-510a-4cee-8484-84c8b8ef13bd.lsx:15
 msgctxt "h3bfee788g801fg413dg96bcge2b1cb01e628"
 msgid "Tiered Shelves"
-msgstr ""
+msgstr "층형 선반"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/df6d7906-9147-481a-91fe-ded84e3c2c0a.lsx
 #. NodeID = GameObjects
@@ -24015,7 +24009,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/df6d7906-9147-481a-91fe-ded84e3c2c0a.lsx:15
 msgctxt "hc8995b2cg55e2g4345g8bfegbc703325e987"
 msgid "Tiered Shelves"
-msgstr ""
+msgstr "층형 선반"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/71419203-792d-4eb5-8917-e91e45eeab0d.lsx
 #. NodeID = GameObjects
@@ -24027,7 +24021,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/71419203-792d-4eb5-8917-e91e45eeab0d.lsx:15
 msgctxt "hc0b3169cgb1f6g4dc5ga26fg419fbe34f54d"
 msgid "Tiered Shelves"
-msgstr ""
+msgstr "층형 선반"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/3100b710-50bb-4fa9-ab99-e0dc0e7545de.lsx
 #. NodeID = GameObjects
@@ -24039,7 +24033,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/3100b710-50bb-4fa9-ab99-e0dc0e7545de.lsx:15
 msgctxt "h047b5294g10fag4233ga1adg658510f8c48e"
 msgid "Tiered Shelves"
-msgstr ""
+msgstr "층형 선반"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/1efc32e7-7687-4004-98cf-b6aa296485eb.lsx
 #. NodeID = GameObjects
@@ -25046,7 +25040,7 @@ msgstr "혈액병 선반"
 #: Shared/Public/SharedDev/RootTemplates/653a2a58-007e-4e6d-8516-b5ceb25e62ea.lsx:15
 msgctxt "h7579b8fdg7031g45d1gb623g033bcfe6a1e7"
 msgid "Broken Barricade"
-msgstr ""
+msgstr "부서진 바리케이드"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/8a5af0d9-febf-4e97-b701-cc79c3372d2b.lsx
 #. NodeID = GameObjects
@@ -25069,7 +25063,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/acd48b70-1792-4a75-924d-35449a4db1d4.lsx:15
 msgctxt "h363fdb27g5b09g45bfg8e9bgb9b3a18dc8aa"
 msgid "Broken Barricade"
-msgstr ""
+msgstr "부서진 바리케이드"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/ba6dc814-55e8-4e32-8916-f242952615f5.lsx
 #. NodeID = GameObjects
@@ -25080,7 +25074,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/ba6dc814-55e8-4e32-8916-f242952615f5.lsx:15
 msgctxt "h13f5160bg187cg4293ga881g6c4704e32d6f"
 msgid "Broken Barricade"
-msgstr ""
+msgstr "부서진 바리케이드"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/8a820ff8-0e49-4fb6-88e4-f50db6b22636.lsx
 #. NodeID = GameObjects
@@ -25091,7 +25085,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/8a820ff8-0e49-4fb6-88e4-f50db6b22636.lsx:15
 msgctxt "h7cfb1f93g137bg4188gbfbbg75d6118f4aaa"
 msgid "Broken Barricade"
-msgstr ""
+msgstr "부서진 바리케이드"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/89ee6cd6-ff3d-410e-9f18-69ce5370889f.lsx
 #. NodeID = GameObjects
@@ -25102,7 +25096,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/89ee6cd6-ff3d-410e-9f18-69ce5370889f.lsx:15
 msgctxt "h46b98c27gab6cg4b18g8411g78c9a0eb1a47"
 msgid "Broken Barricade"
-msgstr ""
+msgstr "부서진 바리케이드"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/3dc66194-7623-4790-8fec-b460a43e2c26.lsx
 #. NodeID = GameObjects
@@ -25113,7 +25107,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/3dc66194-7623-4790-8fec-b460a43e2c26.lsx:15
 msgctxt "h0bf997cbgf5adg41cdg9e7bg4b81a3e12254"
 msgid "Broken Barricade"
-msgstr ""
+msgstr "부서진 바리케이드"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/dd6a7ec5-eea5-4661-a6ad-65a1ba9c1b8a.lsx
 #. NodeID = GameObjects
@@ -25124,7 +25118,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/dd6a7ec5-eea5-4661-a6ad-65a1ba9c1b8a.lsx:15
 msgctxt "hce1a6ec8ge5fbg4a16ga1fbg8e442419857b"
 msgid "Broken Barricade"
-msgstr ""
+msgstr "부서진 바리케이드"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/29f5891c-41fb-4d10-8f9a-921e298d0c85.lsx
 #. NodeID = GameObjects
@@ -28229,7 +28223,7 @@ msgstr "보글거리는 가마솥"
 #: Shared/Public/SharedDev/RootTemplates/c53cb7c8-8426-4ef3-9603-19ede92261eb.lsx:15
 msgctxt "hc34d6061g7235g410ag9a6cg559992eae92f"
 msgid "Wooden Box"
-msgstr ""
+msgstr "목재 상자"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/0d7999b0-21da-4473-82bf-1a28dfcf4aa7.lsx
 #. NodeID = GameObjects
@@ -28241,7 +28235,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/0d7999b0-21da-4473-82bf-1a28dfcf4aa7.lsx:15
 msgctxt "h1193ca09g7b4eg497eg9384g78395467b065"
 msgid "Lid"
-msgstr ""
+msgstr "뚜껑"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/aae857fb-9be5-414c-8974-51b8c079bb4c.lsx
 #. NodeID = GameObjects
@@ -28253,7 +28247,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/aae857fb-9be5-414c-8974-51b8c079bb4c.lsx:15
 msgctxt "hf4d42de8gc80bg40e7g8a98gde10a156cda4"
 msgid "Wooden Boxes"
-msgstr ""
+msgstr "나무 상자"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/d2188460-9932-4cc1-b9af-628ad707a617.lsx
 #. NodeID = GameObjects
@@ -29684,7 +29678,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/b145444f-3337-49ee-86f7-060df50e91d5.lsx:15
 msgctxt "h033a2b96g580ag4007g9895gb6eab1e9e4c9"
 msgid "Rope"
-msgstr ""
+msgstr "밧줄"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/e0077691-57a2-42a0-b1d7-2672681c6ff7.lsx
 #. NodeID = GameObjects
@@ -32025,7 +32019,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/2cdf1ad6-a09e-4908-b53d-9b7d91722d20.lsx:15
 msgctxt "hb1ffdc68gdbc6g4203gac57g56352d5d0df9"
 msgid "Ancient Sigil Circle"
-msgstr ""
+msgstr "고대 인장의 원"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/3c8017a0-e976-40c1-a962-b7bc61b9ff41.lsx
 #. NodeID = GameObjects
@@ -32690,7 +32684,7 @@ msgstr "발더란 조각상"
 #: Shared/Public/SharedDev/RootTemplates/8fed1dc9-b461-4f0b-8a7b-d305671b7097.lsx:15
 msgctxt "hd18f09d3ge988g4d77g8301g86376e809a23"
 msgid "Broken Barricade"
-msgstr "파괴된 바리케이드"
+msgstr "부서진 바리케이드"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/5b3bc983-77e3-4871-b6d1-90426c0599f6.lsx
 #. NodeID = GameObjects
@@ -37470,11 +37464,9 @@ msgstr ""
 #. Type = item
 #. Stats = OBJ_Door_Heavy
 #: Shared/Public/Shared/RootTemplates/0cff4479-c5c0-46ec-93c5-11d5bbe037da.lsx:17
-#, fuzzy
-#| msgid "Ornate Door"
 msgctxt "h1c409a1bg52e7g4a5egab84g3a943ee73473"
 msgid "Door"
-msgstr "장식된 문"
+msgstr "문"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/e3788a92-b380-4787-a813-d1f126093a54.lsx
 #. NodeID = GameObjects
@@ -38205,7 +38197,7 @@ msgstr "침대"
 #: Shared/Public/Shared/RootTemplates/348c4b69-36b3-4618-be3c-de0c1b307677.lsx:15
 msgctxt "hf050b8efg83f5g4220g8152g7af083677ff0"
 msgid "Broken Barricade"
-msgstr ""
+msgstr "부서진 바리케이드"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/05a88104-6e07-4c9c-915e-dee8d37304a9.lsx
 #. NodeID = GameObjects
@@ -38240,7 +38232,7 @@ msgstr "침대"
 #: Shared/Public/Shared/RootTemplates/9ac7f386-651c-41fa-aaa4-67096a138625.lsx:15
 msgctxt "ha467a711g1c50g4fc0g84d1g2ed59094e740"
 msgid "Broken Barricade"
-msgstr ""
+msgstr "부서진 바리케이드"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/4ff99592-71aa-4b70-9e98-6a6cbb6ebfd9.lsx
 #. NodeID = GameObjects
@@ -44279,11 +44271,9 @@ msgstr ""
 #. Icon = Item_BLD_GEN_WaypointShrine_A_
 #. AnubisConfigName = WaypointShrine
 #: Shared/Public/Shared/RootTemplates/2dab7df1-7914-4748-b329-b4fe8b60fcc9.lsx:15
-#, fuzzy
-#| msgid "Ancient Rune Circle"
 msgctxt "hdcef1548g1f03g4a4bga48dgab32332fcf86"
 msgid "Ancient Sigil Circle"
-msgstr "고대 룬의 원"
+msgstr "고대 인장의 원"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/5d2efb42-800a-4d6f-b239-db98790ea70b.lsx
 #. NodeID = GameObjects
@@ -47184,7 +47174,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/19c7bbb1-29f5-4ec9-a72c-74a73318f8da.lsx:13
 msgctxt "ha62d19a1g818fg473bg8d83gf165a548160e"
 msgid "Dye Remover"
-msgstr ""
+msgstr "염료 제거제"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/51cd678b-6a27-490d-b4d1-17cc89a32e40.lsx
 #. NodeID = GameObjects
@@ -54891,7 +54881,7 @@ msgstr "착란의 두루마리"
 #: Shared/Public/SharedDev/RootTemplates/c0e92dfa-29cf-46e8-8b35-8bded679df64.lsx:8
 msgctxt "h828bc901g960eg4a77ga8fag979c7c49ec96"
 msgid "Scroll of Conjure Elemental"
-msgstr ""
+msgstr "정령 소환의 두루마리"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/a30864e5-06f0-4d14-9ea4-cb6870c0ddfe.lsx
 #. NodeID = GameObjects
@@ -54903,7 +54893,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/a30864e5-06f0-4d14-9ea4-cb6870c0ddfe.lsx:8
 msgctxt "hb77dc224g01d7g4e75g91b1g6c8c76a8c302"
 msgid "Scroll of Conjure Minor Elemental"
-msgstr ""
+msgstr "하급 정령 소환의 두루마리"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/17f828a4-5684-42dd-9f08-ff99ba43358a.lsx
 #. NodeID = GameObjects
@@ -54915,7 +54905,7 @@ msgstr ""
 #: Shared/Public/SharedDev/RootTemplates/17f828a4-5684-42dd-9f08-ff99ba43358a.lsx:13
 msgctxt "he5a64c5dg5a96g41e1g8ac6ga6440d9bb50b"
 msgid "Scroll of Counterspell"
-msgstr ""
+msgstr "주문 차단의 두루마리"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/701a7df0-728e-494a-ab2f-146aed4e8c7f.lsx
 #. NodeID = GameObjects
@@ -55421,7 +55411,7 @@ msgstr "투명화의 두루마리"
 #: Shared/Public/SharedDev/RootTemplates/795e4282-27c3-4177-b532-9e6559a26531.lsx:15
 msgctxt "h51274d5bg2a5fg4a1agbf6egf75f4699b013"
 msgid "Scroll of Greater Invisibility"
-msgstr ""
+msgstr "상급 투명화의 두루마리"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/3c8db4fb-c10b-415d-b9cd-c3254265b778.lsx
 #. NodeID = GameObjects
@@ -55493,7 +55483,7 @@ msgstr "활보의 두루마리"
 #: Shared/Public/Shared/RootTemplates/2ccab07d-0ccb-45e6-8f43-8ffb6a62da11.lsx:17
 msgctxt "h2c74a2ffg9814g4a0cg9ed6geb4eb852b8fd"
 msgid "Scroll of Mage Armour"
-msgstr "마법 갑주의 두루마리"
+msgstr "마법 갑주 두루마리"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/945cd4f0-991b-4663-b72e-790d49fee27e.lsx
 #. NodeID = GameObjects
@@ -55577,7 +55567,7 @@ msgstr "환영 살해자의 두루마리"
 #: Shared/Public/SharedDev/RootTemplates/6ac3b9ab-fdb4-47e8-8a35-91747de2afc8.lsx:8
 msgctxt "h8aeb8655gafa5g4c3fg89dagf5070ada54e3"
 msgid "Scroll of Planar Binding"
-msgstr ""
+msgstr "차원 속박 두루마리"
 
 #. FilePath = Shared/Public/SharedDev/RootTemplates/389da9ab-bee7-447c-9bed-f1021ddc94d4.lsx
 #. NodeID = GameObjects
@@ -61170,7 +61160,7 @@ msgstr "가고일 머리"
 #: Shared/Public/Shared/RootTemplates/c047e052-2178-4009-8255-6a0654a4a214.lsx:15
 msgctxt "h2d8e0999gc919g4288ga917gd1d69a530d61"
 msgid "Vent"
-msgstr ""
+msgstr "분출구"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/55ceabb9-ad38-4893-8090-6ebf5e2e1b3b.lsx
 #. NodeID = GameObjects
@@ -61182,7 +61172,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/55ceabb9-ad38-4893-8090-6ebf5e2e1b3b.lsx:15
 msgctxt "hf103db8dg14d7g40d6gb069gd38f0cd73d03"
 msgid "Vent"
-msgstr ""
+msgstr "분출구"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/fe6cf45c-5af0-48cf-862d-0d3e15d83ecc.lsx
 #. NodeID = GameObjects
@@ -61194,7 +61184,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/fe6cf45c-5af0-48cf-862d-0d3e15d83ecc.lsx:15
 msgctxt "h11615ec3gbf72g4142g9cb2gf73445b7535e"
 msgid "Vent"
-msgstr ""
+msgstr "분출구"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/7e4be20d-4601-4dde-976b-927bf04f6489.lsx
 #. NodeID = GameObjects
@@ -61205,7 +61195,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/7e4be20d-4601-4dde-976b-927bf04f6489.lsx:15
 msgctxt "h8de4b6a3ga015g4998gaf92g3e1d6f7793b3"
 msgid "Vent"
-msgstr ""
+msgstr "분출구"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/8eecceb4-cbc6-4e11-a33e-8a19a401c48f.lsx
 #. NodeID = GameObjects
@@ -62508,11 +62498,9 @@ msgstr ""
 #. Icon = Item_PUZ_GEN_Trap_Gaspit_Cave_A
 #. Stats = OBJ_GenericImmutableAttackableObject
 #: Shared/Public/Shared/RootTemplates/adb0c3c8-c68c-4149-8bc1-dcc3f70d1d16.lsx:16
-#, fuzzy
-#| msgid "Ruptured Stone"
 msgctxt "h6e0ea0f9g26fdg4d10gaea1g09860741c94e"
 msgid "Vent"
-msgstr "파열된 돌"
+msgstr "분출구"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/c0289866-d060-470c-aa13-dcc69f07b67a.lsx
 #. NodeID = GameObjects
@@ -62522,11 +62510,9 @@ msgstr "파열된 돌"
 #. Icon = Item_PUZ_GEN_Trap_Gaspit_Cave_A
 #. Stats = OBJ_GenericImmutableAttackableObject
 #: Shared/Public/Shared/RootTemplates/c0289866-d060-470c-aa13-dcc69f07b67a.lsx:16
-#, fuzzy
-#| msgid "Ruptured Stone"
 msgctxt "h5793c1d2g8736g42d2g915agd6a872d61533"
 msgid "Vent"
-msgstr "파열된 돌"
+msgstr "분출구"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/6be7dce3-c912-4c36-98a1-18ccea6c5564.lsx
 #. NodeID = GameObjects
@@ -62539,7 +62525,7 @@ msgstr "파열된 돌"
 #: Shared/Public/Shared/RootTemplates/6be7dce3-c912-4c36-98a1-18ccea6c5564.lsx:15
 msgctxt "h9f8474aagd5a6g41b9gb518gf1f35e974c99"
 msgid "Vent"
-msgstr ""
+msgstr "분출구"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/d1731f83-865c-4346-a784-72c3aebe7a9e.lsx
 #. NodeID = GameObjects
@@ -62550,7 +62536,7 @@ msgstr ""
 #: Shared/Public/Shared/RootTemplates/d1731f83-865c-4346-a784-72c3aebe7a9e.lsx:9
 msgctxt "h6580dd51ga0adg4c43g9ebbg7875210d0507"
 msgid "Vent"
-msgstr "환기구"
+msgstr "분출구"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/da227cc8-e5de-4cd8-89ea-9792a13c78fd.lsx
 #. NodeID = GameObjects
@@ -62561,7 +62547,7 @@ msgstr "환기구"
 #: Shared/Public/Shared/RootTemplates/da227cc8-e5de-4cd8-89ea-9792a13c78fd.lsx:9
 msgctxt "h53695134gcb24g4d83g8056g61586f34a584"
 msgid "Vent"
-msgstr "환기구"
+msgstr "분출구"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/2f7795eb-6b3f-4763-adb8-717a994e6124.lsx
 #. NodeID = GameObjects
@@ -62816,7 +62802,7 @@ msgstr "나무 경첩"
 #: Shared/Public/Shared/RootTemplates/899736a3-984a-46fd-b54b-78bb55c42d80.lsx:15
 msgctxt "h1655a897g83b8g4c7dgac0ag97fa4c56ee66"
 msgid "Rope"
-msgstr ""
+msgstr "밧줄"
 
 #. FilePath = Shared/Public/Shared/RootTemplates/5f9e795a-94d2-4d0f-ac45-850043d62c63.lsx
 #. NodeID = GameObjects
@@ -65177,7 +65163,7 @@ msgctxt "ha19f9861g562dg4b48g9ee0g525f0922274d"
 msgid ""
 "Barely-perceptible magic flows from this unusual device. It is searching, "
 "seeking, listening..."
-msgstr ""
+msgstr "간신히 느껴질 정도의 마법이 흘러나오는 이 특이한 장치는 관찰하고 탐색하며 듣고 있습니다..."
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/2a11a29e-ee3e-4ad7-9d06-beb79efea4e5.lsx
 #. NodeID = GameObjects
@@ -65329,7 +65315,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/RootTemplates/b673f1dc-d925-4811-a78e-53adcce847e8.lsx:13
 msgctxt "he3e07ba7gb475g4133gb126g36c4a97f3b22"
 msgid "Flawed Helldusk Gloves"
-msgstr ""
+msgstr "결함이 있는 지옥황혼 장갑"
 
 #. FilePath = Gustav/Public/GustavDev/RootTemplates/b9eeaebb-9b00-4552-940f-5d829a66e8cb.lsx
 #. NodeID = GameObjects
