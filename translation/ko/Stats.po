@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-27 03:54+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-08-28 07:54+0000\n"
+"Last-Translator: Milesand <me@dicemice.me>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/stats/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -270,8 +270,7 @@ msgstr "밤의 보행자"
 msgctxt "h82ca5839gf1a5g4a10g8781g70fa32685532"
 msgid ""
 "Can't be Enwebbed, Entangled, or Ensnared and can't slip on grease or ice."
-msgstr "거미줄에 묶이거나, 뒤얽히거나, 덫에 걸리지 않으며 기름이나 얼음 표면에서 "
-"미끄러지지 않습니다."
+msgstr "거미줄에 묶이거나, 뒤얽히거나, 덫에 걸리지 않으며 기름막이나 얼음 표면에서 미끄러지지 않습니다."
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Passive.txt:187
 msgctxt "h15ea5ab7ga7c1g4047g94fegf1ae979a0679"
@@ -2306,7 +2305,7 @@ msgstr "이제 뭐가 뭐지?"
 #: Gustav/Public/Gustav/Stats/Generated/Data/Spell_Shout.txt:52
 msgctxt "h7abd425ag0935g41d8gb92bg87fffa7706f5"
 msgid "A Coven of Hags"
-msgstr "마녀의 집회"
+msgstr "해그의 집회"
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Spell_Shout.txt:53
 msgctxt "h33e02d61g4075g42f7gb854g7942d3f5b3ef"
@@ -3293,7 +3292,7 @@ msgstr "%%% EMPTY"
 #: Gustav/Public/Gustav/Stats/Generated/Data/Status_BOOST.txt:239
 msgctxt "hb6865c88g2719g49d9gbed4geefe2146f052"
 msgid "Hag's Trickery"
-msgstr "마녀의 속임수"
+msgstr "해그의 속임수"
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Status_BOOST.txt:240
 msgctxt "h0acca4f9g9eaag41e1gafa8g26de96e3a606"
@@ -4194,7 +4193,7 @@ msgid ""
 ">Checks</LSTag>, but <LSTag Tooltip=\"Disadvantage\">Disadvantage</LSTag> on "
 "Perception Checks. Additionally, you have Disadvantage when attacking Hags."
 msgstr ""
-"위협 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 +[1] 보너스를 얻지만, 지각 판정과 마녀를 향한 "
+"위협 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 +[1] 보너스를 얻지만, 지각 판정과 해그를 향한 "
 "명중 굴림에 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 가집니다."
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Status_BOOST.txt:1074
@@ -11134,8 +11133,8 @@ msgid ""
 "You gain a +[1] bonus to <LSTag Tooltip=\"ArmourClass\">Armour Class</LSTag> "
 "as long as you are not wearing armour or holding a shield. "
 msgstr ""
-"당신은 갑옷이나 방패를 장착하지 않았을 시 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +[1] "
-"보너스를 얻습니다. "
+"갑옷과 방패를 장착하지 않았을 시 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>에 +[1] 보너스를 "
+"얻습니다. "
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3089
 #, fuzzy
@@ -11966,8 +11965,8 @@ msgid ""
 "and <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag> as long as you are "
 "not wearing armour or holding a shield."
 msgstr ""
-"갑옷을 입거나 방패를 들고 있지 않는 한, <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>와 <LSTag "
-"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 +[1] 보너스를 가집니다."
+"갑옷과 방패를 장착하지 않으면, <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>와 <LSTag Tooltip="
+"\"SavingThrow\">내성 굴림</LSTag>에 +[1] 보너스를 가집니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Passive.txt:3624
 msgctxt "hb6812072g2949g4a49ga6feg9a77f66608f2"
@@ -19395,14 +19394,14 @@ msgstr ""
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:402
 msgctxt "hcec3f978gf51fg4075g9a02g9bcec83c4af8"
 msgid "Umbral Tremor"
-msgstr ""
+msgstr "암영 떨림"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:403
 msgctxt "h14a2d44dgfa15g4ee1ga844gc73f580ade7d"
 msgid ""
 "The Umbral Tremor is about to open - unleashing the Nightsinger's fell "
 "hordes."
-msgstr ""
+msgstr "암영 떨림이 곧 열립니다. 나이트싱어의 끔찍한 무리가 풀려날 것입니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:412
 msgctxt "h60d279aage482g4593ga62fgcddfc5a39fdf"
@@ -19414,7 +19413,7 @@ msgctxt "h84ac9012g61b5g46e7g98a4g4cf50d331636"
 msgid ""
 "The umbral tremor has opened, ready to unleash hordes of creatures into the "
 "world. "
-msgstr ""
+msgstr "암영 떨림이 열리고, 수많은 괴물들이 풀려날 준비가 끝났습니다. "
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:439
 msgctxt "h066cd26dgda4fg45b4gb2a0g53ec1da54c62"
@@ -20267,6 +20266,8 @@ msgid ""
 "The Lady of Loss <LSTag Type=\"Status\" Tooltip=\"HEX_DEXTERITY\">Hexes</"
 "LSTag> you, causing a temporary lapse in your agility. "
 msgstr ""
+"상실의 여인의 <LSTag Type=\"Status\" Tooltip=\"HEX_DEXTERITY\">주박</LSTag>으로, 일시적으로 "
+"민첩성이 낮아졌습니다. "
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:1484
 msgctxt "haca458e5g81e7g4f99gb0ceg1ceb2d81b798"
@@ -20316,7 +20317,7 @@ msgstr "%%% EMPTY"
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:1570
 msgctxt "ha07eacd8g338bg49c1g92b7g80f49f6c5b8f"
 msgid "Drenched"
-msgstr ""
+msgstr "젖음"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:1571
 msgctxt "h6849131cgedecg4ef0g8913g43d586946b04"
@@ -22332,9 +22333,10 @@ msgid "%%% EMPTY"
 msgstr "%%% EMPTY"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:3836
+#, fuzzy
 msgctxt "hfa1da9bdgf5f0g4d1eg8739g464af37853c6"
 msgid "Orphic Favour Aura"
-msgstr ""
+msgstr "오르페우스의 호의 오라"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:3837
 msgctxt "h231e4f4bg5e1ag4cd5gaf62gc1f2361efef4"
@@ -22356,9 +22358,10 @@ msgid "%%% EMPTY"
 msgstr "%%% EMPTY"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:3869
+#, fuzzy
 msgctxt "hd23a7132g571eg43d5gbb4ag42e6e8cccec4"
 msgid "Orphic Favour"
-msgstr ""
+msgstr "오르페우스의 호의"
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:3870
 msgctxt "h27e35224gfb27g420dg8d42g75876cb2f5c5"
@@ -34066,10 +34069,9 @@ msgid ""
 ">Disadvantage</LSTag> on <LSTag Tooltip=\"AttackRoll\">Attack Rolls</LSTag> "
 "and <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
-"태양빛 아래에 있으면, 마이코니드는 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
-"LSTag>, <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>, 그리고 <LSTag "
-"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
-">불리점</LSTag>을 가집니다."
+"태양빛 아래에 있으면, 이 크리쳐는 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\">불리점</"
+"LSTag>을 가집니다."
 
 #: Shared/Public/Shared/Stats/Generated/Data/Passive.txt:2736
 msgctxt "h78b2a708g650cg4018g82feg46eb06679e8d"
@@ -43931,7 +43933,7 @@ msgstr ""
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Target.txt:7616
 msgctxt "h242fcc04gb150g4189g8536g39b58871b18a"
 msgid "Grease"
-msgstr "기름"
+msgstr "기름막"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Target.txt:7617
 msgctxt "h42aaeb3cg28a1g41bag825bg4811a61d980c"
@@ -58115,7 +58117,7 @@ msgctxt "hb4c205f3g696eg43a8g9029g621af4764afa"
 msgid ""
 "Creatures suffering Falling damage because of your actions take an "
 "additional [1]."
-msgstr "나로 인해 낙하 피해를 받는 크리쳐는 추가적으로 [1]를 입습니다."
+msgstr "당신에 의해 낙하 피해를 받는 크리쳐는 추가적으로 [1]를 입습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3212
 msgctxt "hfcae7ee4ga159g4d66g9b6fgfc08e6598fe4"
@@ -58127,7 +58129,7 @@ msgctxt "hf74ce2cdg109cg4ceega38eg80c841a052e8"
 msgid ""
 "Creatures suffering Falling damage because of your actions take an "
 "additional [1]."
-msgstr "나로 인해 낙하 피해를 받는 크리쳐는 추가적으로 [1]를 입습니다."
+msgstr "당신에 의해 낙하 피해를 받는 크리쳐는 추가적으로 [1]를 입습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Passive.txt:3223
 msgctxt "h57d57defg5399g41e2g8a9aga47b5bdc6eda"
@@ -60977,7 +60979,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:2225
 msgctxt "hf25c4768g3846g4b20gaa2cgd0cfb645b8b6"
 msgid "Umbral Shroud"
-msgstr ""
+msgstr "암영 장막"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Shout.txt:2242
 msgctxt "h74568d66g69ffg454bga0e4gfee4722858d9"
@@ -63429,9 +63431,10 @@ msgid ""
 msgstr ""
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:1960
+#, fuzzy
 msgctxt "hcb427756g6947g43b0g80c3gf17b4b3ac64e"
 msgid "Greater Restoration"
-msgstr ""
+msgstr "상급 회복"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:1961
 msgctxt "h9fc6ec82g6ba9g415eg8ff2g7fe00698f877"
@@ -64151,7 +64154,7 @@ msgstr "대상의 두려움을 환영으로 나타내 괴롭힙니다. 대상은
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:4298
 msgctxt "hc2b39233g3229g4fbegbaaegd9b4723dad2a"
 msgid "Planar Binding"
-msgstr ""
+msgstr "차원 구속"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:4299
 msgctxt "h833d664bge7feg4259g982cgfbf47c1b9d74"
@@ -64779,7 +64782,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:5751
 msgctxt "hac305facg0c0dg4926gace8gba070783b288"
 msgid "Planar Ally"
-msgstr ""
+msgstr "차원 협력"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:5752
 msgctxt "h0db0f9b8g6826g4497gb5e3g246f467d7d90"
@@ -64789,7 +64792,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:5770
 msgctxt "h3f8734d9g3324g46eeg9878gcc639dc91192"
 msgid "Planar Ally: Djinni"
-msgstr ""
+msgstr "차원 협력: 지니"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:5771
 msgctxt "h8bc660fdgf267g4d05g93fagf6579eab7a7e"
@@ -64804,7 +64807,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:5793
 msgctxt "h4ab2fb3fg8918g452egba44g86095c6eb0d7"
 msgid "Planar Ally: Deva"
-msgstr ""
+msgstr "차원 협력: 데바"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:5794
 msgctxt "ha6f9ef8dg3f7bg4948g847egd55da10cd56c"
@@ -64819,7 +64822,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:5815
 msgctxt "h3768758egcd98g4f3eg8bacg5649969e15b2"
 msgid "Planar Ally: Cambion"
-msgstr ""
+msgstr "차원 협력: 캠비온"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:5816
 msgctxt "h0d01c4fdge1b1g4ba2gbdadg20adf3f649e0"
@@ -67426,7 +67429,7 @@ msgstr "서로 연결된 두 개의 순간이동 차원문을 생성합니다."
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Teleportation.txt:113
 msgctxt "h1adc4bd5gc7ccg4bfbga430gf17735cd7b07"
 msgid "Displace"
-msgstr ""
+msgstr "변위"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Teleportation.txt:114
 msgctxt "h4b1bb6f0g3783g41f1ga112ga02032a298a6"
@@ -70152,7 +70155,7 @@ msgstr "%%% Phantasmal Killer Damage"
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:2965
 msgctxt "hc2f2796bg1b57g4674gab9bg922011d16f49"
 msgid "Seized By Planar Binding"
-msgstr ""
+msgstr "차원 구속에 포획됨"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:2966
 msgctxt "he51c81d2g2b3cg452cgb619ga3078a38daff"
@@ -73215,14 +73218,14 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6890
 msgctxt "h8a26487cg5e85g4e73ga897gcc99388233ca"
 msgid "Displace"
-msgstr ""
+msgstr "변위"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6891
 msgctxt "he841314egb916g4777g8923gd16483742d23"
 msgid ""
 "Creatures suffering Falling damage because of your actions take an "
 "additional [1]."
-msgstr ""
+msgstr "당신에 의해 낙하 피해를 받는 크리쳐는 추가적으로 [1]를 입습니다."
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6903
 msgctxt "h1eae02fagf8eeg4f63g9b3bgd031a52eb312"
@@ -74717,7 +74720,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_INVISIBLE.txt:26
 msgctxt "h9f4bc3c5gff04g40cdga551gd4058e65ed58"
 msgid "Umbral Shroud"
-msgstr ""
+msgstr "암영 장막"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_INVISIBLE.txt:36
 msgctxt "h17d32d34g187eg46b1g938fg20d567df6eb4"

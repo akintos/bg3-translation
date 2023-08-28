@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-27 03:53+0000\n"
-"Last-Translator: P!neappl3 <koroundjoo@gmail.com>\n"
+"PO-Revision-Date: 2023-08-28 07:53+0000\n"
+"Last-Translator: 조선인 <kimkikim141@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/sharedlocalization/ko/>"
 "\n"
 "Language: ko\n"
@@ -49,7 +49,7 @@ msgctxt "h523be9e1g294fg4460gb30cg1e95b6fe8896"
 msgid ""
 "The Justiciar has <LSTag Tooltip=\"Advantage\">Advantage</LSTag> against "
 "targets standing in darkness."
-msgstr ""
+msgstr "저스티시어는 어둠 속에 있는 대상을 상대로 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 갖습니다."
 
 #. key = GustavDev_ProgressionDescriptions_New_Stat_0_DisplayName
 #. 
@@ -60,7 +60,7 @@ msgstr ""
 #: Gustav/Public/GustavDev/Localization/ProgressionDescriptions_DisplayName.lsx:8
 msgctxt "he5f6aedcg0beeg4868g9bb0g3f225b39d047"
 msgid "Dark Vengeance"
-msgstr ""
+msgstr "어두운 복수"
 
 #. key = GustavDev_ProgressionDescriptions_New_Stat_1_Description
 #. 
@@ -73,7 +73,7 @@ msgctxt "h2f0af513ge364g493bgbe51g24103c91738b"
 msgid ""
 "The Justiciar cannot be <LSTag Type=\"Status\" Tooltip=\"BLINDED\""
 ">Blinded</LSTag>."
-msgstr ""
+msgstr "저스티시어는 <LSTag Type=\"Status\" Tooltip=\"BLINDED\">실명</LSTag>할 수 없습니다."
 
 #. key = GustavDev_ProgressionDescriptions_New_Stat_1_DisplayName
 #. 
@@ -225,8 +225,6 @@ msgstr "우물"
 #. HandlePath = Content
 #. UUID = CraftingStationsItemComboPreviewData_Wetstone_Tooltip
 #: Shared/Public/Shared/Localization/ItemCombinations.lsx:22
-#, fuzzy
-#| msgid "Wetstone"
 msgctxt "h5a122598g32b0g4182g8debg6d9a7b46d669"
 msgid "Whetstone"
 msgstr "숫돌"
@@ -533,7 +531,7 @@ msgstr "식당"
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:239
 msgctxt "h503d4b73g2a2bg4dc3gaac6g33c1d24a047c"
 msgid "Barracks"
-msgstr ""
+msgstr "병영"
 
 #. key = COL_Colony_SUB
 #. 
@@ -544,7 +542,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:197
 msgctxt "hb8dd9b74gb83bg4e88ga670g0c019958ed5b"
 msgid "Mind Flayer Colony"
-msgstr ""
+msgstr "마인드 플레이어 군락지"
 
 #. key = COL_Morgue_SUB
 #. 
@@ -555,7 +553,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:211
 msgctxt "ha89714e4gabd5g4006g832fga92fafd7bfeb"
 msgid "Morgue"
-msgstr ""
+msgstr "시체안치소"
 
 #. key = COL_NecroLab_SUB
 #. 
@@ -564,9 +562,10 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = COL_NecroLab_SUB
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:225
+#, fuzzy
 msgctxt "hf05398dbge0d3g4be6g8a93g943b9b9a4fb1"
 msgid "Necrotic Laboratory"
-msgstr ""
+msgstr "괴사 실험실"
 
 #. key = COL_NecroLab_ZombieName_DrowCommander
 #. 
@@ -577,7 +576,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:169
 msgctxt "hb4b60282g2367g482eg870fgc990e0651c32"
 msgid "Zombie Minthara"
-msgstr ""
+msgstr "좀비 민타라"
 
 #. key = COL_NecroLab_ZombieName_GnomePrisoner_001
 #. 
@@ -588,7 +587,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:155
 msgctxt "h7d773420ga771g4f33g8ad6g0227518be2f3"
 msgid "Zombie Nimble"
-msgstr ""
+msgstr "좀비 님블"
 
 #. key = COL_NecroLab_ZombieName_GnomePrisoner_002
 #. 
@@ -599,7 +598,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:162
 msgctxt "h99098056g9402g4222ga3bbgf8124f394b9b"
 msgid "Zombie Nickels"
-msgstr ""
+msgstr "좀비 니켈스"
 
 #. key = COL_NecroLab_ZombieName_GoblinKing
 #. 
@@ -610,7 +609,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:176
 msgctxt "ha4202375ga763g4cd4g8fd3g03b5bbf465a0"
 msgid "Zombie Dror Ragzlin"
-msgstr ""
+msgstr "좀비 드롤 라그즐린"
 
 #. key = COL_NecroLab_ZombieName_ProdigyBrother
 #. 
@@ -621,7 +620,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:190
 msgctxt "hc44e6c4cgb636g4367gb7b4gd9224bc56df2"
 msgid "Zombie Cal"
-msgstr ""
+msgstr "좀비 칼"
 
 #. key = COL_NecroLab_ZombieName_ProdigySister
 #. 
@@ -632,7 +631,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:183
 msgctxt "h68e54fb8g593cg403ag978ag840ad282763c"
 msgid "Zombie Lia"
-msgstr ""
+msgstr "좀비 리아"
 
 #. key = COL_NecroLab_ZombieName_Tiefling_010
 #. 
@@ -643,7 +642,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:204
 msgctxt "h0d3016eeg35a0g4da8gb997g08139370c993"
 msgid "Zombie Lakrissa"
-msgstr ""
+msgstr "좀비 라크리사"
 
 #. key = COL_NecroLab_ZombieName_Wulbren
 #. 
@@ -654,7 +653,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:148
 msgctxt "hc3f1c82age13eg48afg8379gaaa951e8b2f9"
 msgid "Zombie Wulbren"
-msgstr ""
+msgstr "좀비 울브렌"
 
 #. key = COL_NecroLab_ZombieName_YoungLover_01
 #. 
@@ -665,7 +664,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:197
 msgctxt "h7eea9961gc3bbg435bga32fge7460f8cc8a3"
 msgid "Zombie Danis"
-msgstr ""
+msgstr "좀비 다니스"
 
 #. key = COL_Oubliette_SUB
 #. 
@@ -676,7 +675,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:218
 msgctxt "h98bf3bc5gccafg4fe3gb4e7ge5441e6cdc49"
 msgid "Oubliette"
-msgstr ""
+msgstr "지하굴"
 
 #. key = COL_TadpolingCentre_SUB
 #. 
@@ -685,9 +684,10 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = COL_TadpolingCentre_SUB
 #: Gustav/Mods/GustavDev/Localization/Act2_Subregions.lsx:232
+#, fuzzy
 msgctxt "h4164edfbge910g4a1cg926eg46515b10a094"
 msgid "Tadpoling Centre"
-msgstr ""
+msgstr "올챙이 주입소"
 
 #. key = CRA_Beach_SUB
 #. 
@@ -731,7 +731,7 @@ msgstr "아스트랄 차원"
 #: Gustav/Mods/GustavDev/Localization/ReadyChecks_Descriptions.lsx:22
 msgctxt "hbb4deb16g2b93g4c43gb5e3g7d1832e021db"
 msgid "Are you sure you want to enter the Astral Prism?"
-msgstr ""
+msgstr "정말로 아스트랄 프리즘에 들어가시겠습니까?"
 
 #. key = CRE_AstralPrison_Leaving_ReadyCheck
 #. 
@@ -753,7 +753,7 @@ msgstr "정말로 아스트랄 프리즘을 떠나시겠습니까?"
 #: Gustav/Mods/GustavDev/Localization/Act1b_Misc.lsx:29
 msgctxt "hd2034941g99a0g45e2g9abag21a93d9a2bf5"
 msgid "Escape the crèche or disarm the device!"
-msgstr ""
+msgstr "크레셰를 탈출하거나 장치를 무력화하세요!"
 
 #. key = CRE_Brewery_DrunkKoboldName
 #. 
@@ -764,7 +764,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act1b_Misc.lsx:8
 msgctxt "h7649ad7dg9d81g48dcga05ag3ab242416280"
 msgid "Klinksie"
-msgstr ""
+msgstr "클링시"
 
 #. key = CRE_CaptainsQuarters_SUB
 #. 
@@ -775,7 +775,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act1b_Subregions.lsx:50
 msgctxt "haa7e9717gae12g4bf4g87dbg45f5e4bcfe57"
 msgid "Captain's Quarters"
-msgstr ""
+msgstr "대장의 방"
 
 #. key = CRE_Classroom_SUB
 #. 
@@ -797,7 +797,7 @@ msgstr "교실"
 #: Gustav/Mods/GustavDev/Localization/Act1b_Subregions.lsx:71
 msgctxt "hd3bd91e5g5a8bg41dbg9348g677dad23eada"
 msgid "Doctor's Office"
-msgstr ""
+msgstr "의사의 진료실"
 
 #. key = CRE_General_MageHandGremishkaName
 #. 
@@ -808,7 +808,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act1b_Misc.lsx:15
 msgctxt "h10ebddc0gb736g4552g91a6g9b371459872f"
 msgid "Gremishka's Mage Hand"
-msgstr ""
+msgstr "그레미쉬카의 마법사 손"
 
 #. key = CRE_GithCreche_SUB
 #. 
@@ -841,7 +841,7 @@ msgstr "부화장"
 #: Gustav/Mods/GustavDev/Localization/Act1b_Subregions.lsx:36
 msgctxt "he1582056g1990g4081gb80cgf3d7e79520a0"
 msgid "Infirmary"
-msgstr ""
+msgstr "의무실"
 
 #. key = CRE_Lance_CountdownToExplosionTimer
 #. 
@@ -850,9 +850,10 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = CRE_Lance_CountdownToExplosionTimer
 #: Gustav/Mods/GustavDev/Localization/Act2_QuestTimers.lsx:22
+#, fuzzy
 msgctxt "h47d06265g64e1g4b6fg8f9bg420017861fc4"
 msgid "Escape before the Crèche is destroyed"
-msgstr ""
+msgstr "크레셰가 파괴되기 전에 탈출하세요"
 
 #. key = CRE_Main_A
 #. 
@@ -897,7 +898,7 @@ msgstr "장밋빛 아침 수도원 오솔길"
 #: Gustav/Mods/GustavDev/Localization/Act1b_Subregions.lsx:64
 msgctxt "h645ea8fege915g4182gabeegcbe63fbb1aab"
 msgid "Inquisitor's Chamber"
-msgstr ""
+msgstr "심문관의 방"
 
 #. key = CRE_SecretChamber_SUB
 #. 
@@ -908,7 +909,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act1b_Subregions.lsx:29
 msgctxt "h5eff97a7gba84g4724gb776ge89292710d9e"
 msgid "Secret Chamber"
-msgstr ""
+msgstr "비밀 방"
 
 #. key = CTY_Main_A
 #. 
@@ -1129,7 +1130,7 @@ msgstr "지하 통로"
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:862
 msgctxt "hefd8984bg9ae6g41d8gaf85gb0bde073a126"
 msgid "The Watch Citadel "
-msgstr ""
+msgstr "워치 성채 "
 
 #. key = END_HighHallInterior_ReachNetherbrainQuestMessage
 #. 
@@ -1151,7 +1152,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:911
 msgctxt "h8aeb5ad8gf0e4g4aa7gaf83gc53b1ef71787"
 msgid "Upper City Sewers"
-msgstr ""
+msgstr "상부 도시 하수도"
 
 #. key = END_HighHall_Courtyard_SUB
 #. 
@@ -1496,7 +1497,7 @@ msgstr "엘민스터 아우마르"
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:106
 msgctxt "hafd3975dg8254g4974gb826g90feac4c2403"
 msgid "She has found you through the depths of the astral plane..."
-msgstr ""
+msgstr "그분께서 아스트랄 플레인 깊숙이 있는 당신을 찾아내셨습니다..."
 
 #. key = GLO_ThrallOfTheAbsolute_DaisyDistrust
 #. 
@@ -1505,9 +1506,10 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = GLO_ThrallOfTheAbsolute_DaisyDistrust
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:134
+#, fuzzy
 msgctxt "hd2243a1agd042g4597g9694g601e5a2783ab"
 msgid "Down your own path, you only find Her..."
-msgstr ""
+msgstr "당신만의 길을 따라가서, 오직 그분을 찾았을 뿐입니다..."
 
 #. key = GLO_ThrallOfTheAbsolute_DestroyedStone
 #. 
@@ -1551,7 +1553,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:99
 msgctxt "h4e6a31bega809g426cg8a8agabf2cf5991d1"
 msgid "You've succumbed to Her, now part of the Grand Design..."
-msgstr ""
+msgstr "당신은 그분께 굴복하여, 이제 원대한 설계의 일부가 되었습니다..."
 
 #. key = GLO_ThrallOfTheAbsolute_Uppercity
 #. 
@@ -1586,7 +1588,7 @@ msgstr "새로운 지역으로 진입합니다. 모험을 계속하시겠습니�
 #: Gustav/Mods/Gustav/Localization/Act1_Misc.lsx:141
 msgctxt "h7aa8e194g3acdg4b2ag978eg1fa813ff0b26"
 msgid "Chicken Chase"
-msgstr ""
+msgstr "닭 몰이"
 
 #. key = GOB_Festivities_SUB
 #. 
@@ -1663,7 +1665,7 @@ msgstr "워그 우리"
 #: Gustav/Mods/GustavDev/Localization/Misc.lsx:36
 msgctxt "h6729e6eeg8016g43dega67cg96f19fa2f4a5"
 msgid "Tara"
-msgstr ""
+msgstr "타라"
 
 #. key = HAG_DruidMeetingSpot_SUB
 #. 
@@ -1674,7 +1676,7 @@ msgstr ""
 #: Gustav/Mods/Gustav/Localization/Act1_Subregions.lsx:386
 msgctxt "he0302e87g2159g4189g8c0eg67e539c6deba"
 msgid "Druid Sanctuary"
-msgstr ""
+msgstr "드루이드 성소"
 
 #. key = HAG_DruidMeetingSpot_SUB_Revealed
 #. 
@@ -1817,7 +1819,7 @@ msgstr "썩은 늪지"
 #: Gustav/Mods/GustavDev/Localization/Act2_QuestTimers.lsx:8
 msgctxt "h0a892a2fg03cbg41e5g8b1eg80b720023d3f"
 msgid "Defend the portal until Halsin returns!"
-msgstr ""
+msgstr "할신이 돌아오기 전까지 포탈을 지키세요!"
 
 #. key = HAV_Haven_SUB
 #. 
@@ -1895,7 +1897,7 @@ msgstr "정말로 아스트랄 차원을 떠나시겠습니까?"
 #: Gustav/Mods/GustavDev/Localization/Act2_QuestTimers.lsx:15
 msgctxt "h1f14ddcag76aeg43e8g8a8fgffe4faacfe97"
 msgid "Escape to the portal before the Absolute takes control!"
-msgstr ""
+msgstr "절대자가 장악하기 전에 포탈로 탈출하세요!"
 
 #. key = INT_Intermezzo_SUB
 #. 
@@ -1927,9 +1929,10 @@ msgstr "고룡 감시탑"
 #. HandlePath = Content
 #. UUID = IRN_IronThrone_DestructionTimer
 #: Gustav/Mods/GustavDev/Localization/Act3_QuestTimers.lsx:15
+#, fuzzy
 msgctxt "h31e97cc2g16b4g454bg992ega5062c3fd5c8"
 msgid "Escape to the submersible dock before the Iron Throne collapses."
-msgstr ""
+msgstr "아이언 스론이 무너지기 전에 잠수함 부두로 탈출하세요."
 
 #. key = IRN_IronThrone_SUB
 #. 
@@ -1965,7 +1968,7 @@ msgctxt "hb5cc1673g9411g497fg85d1gf4a61d63fc25"
 msgid ""
 "You cannot go further. The Netherbrain's Influence is simply too strong for "
 "your tadpoled companions to handle."
-msgstr ""
+msgstr "더 이상 나아갈 수 없습니다. 올챙이가 박힌 동료들이 견디기에는 네더브레인의 영향력이 너무 강합니다."
 
 #. key = LOW_BaldursGate_TheGate_SUB
 #. 
@@ -1987,7 +1990,7 @@ msgstr "발더스 게이트"
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:687
 msgctxt "h9dd5a70egff30g4370ga584g111965061b35"
 msgid "Baldur's Mouth Basement"
-msgstr ""
+msgstr "발더스 마우스 지하실"
 
 #. key = LOW_BaldursMouth_DraftWithEttvardsNotesB
 #. 
@@ -2008,6 +2011,14 @@ msgid ""
 "now. \n"
 " -Ettvard </i>"
 msgstr ""
+"<b>발더스 마우스 관보</b>\n"
+"\n"
+" 절때쟈 교단 침투자들이 고라쉬의 안줜을 위협하다\n"
+" 폭똥을 선둉하는 이방인들이 도난과 약탈 저질러\n"
+" 그림자 저주에서 장화된 사람들인가, 저주 운반자들인가?\n"
+" \n"
+"<i>이 병신같은 오타를 고치고 나서 바로 인쇄하도록 해.\n"
+" -에트바드</i>"
 
 #. key = LOW_BaldursMouth_SUB
 #. 
@@ -2018,7 +2029,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:470
 msgctxt "he5888a27gd8a0g486bgad38gc40a0000e110"
 msgid "Baldur's Mouth"
-msgstr ""
+msgstr "발더스 마우스"
 
 #. key = LOW_BasiliskGate_Barracks_SUB
 #. 
@@ -2029,7 +2040,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:456
 msgctxt "h72c07d24g392cg4a9egb290gb4f9988d6580"
 msgid "Basilisk Gate Barracks"
-msgstr ""
+msgstr "바실리스크 관문 병영"
 
 #. key = LOW_BasiliskGate_Prison_SUB
 #. 
@@ -2040,7 +2051,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:841
 msgctxt "hd5bc2e95g5e46g4ad2g87cag9202304317b2"
 msgid "Heapside Prison"
-msgstr ""
+msgstr "힙사이드 감옥"
 
 #. key = LOW_BasiliskGate_SUB
 #. 
@@ -2051,7 +2062,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:449
 msgctxt "h4441dffbg965fg49f6ga922g644edd14f7d0"
 msgid "Basilisk Gate"
-msgstr ""
+msgstr "바실리스크 관문"
 
 #. key = LOW_BellyOftheBeast_Submersible_SUB
 #. 
@@ -2062,7 +2073,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:946
 msgctxt "hc47d154egc2edg43b6g832eg3e00c8702abc"
 msgid "Submersible"
-msgstr ""
+msgstr "잠수함"
 
 #. key = LOW_BhaalTemple_ChosensRoom_SUB
 #. 
@@ -2073,7 +2084,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:442
 msgctxt "hc00dcf8cga59ag4735g844fg954e8b016def"
 msgid "Bhaal Temple - The Chosen's Room"
-msgstr ""
+msgstr "바알 신전 - 선택받은 자의 방"
 
 #. key = LOW_BhaalTemple_Temple_SUB
 #. 
@@ -2093,9 +2104,10 @@ msgstr "바알 신전"
 #. HandlePath = Content
 #. UUID = LOW_Bibliophile_SUB
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:589
+#, fuzzy
 msgctxt "hd8684d77gbddcg45dcga6e6gd008287278a5"
 msgid "The Bibliophile"
-msgstr ""
+msgstr "애서가"
 
 #. key = LOW_BloodMerchant_SUB
 #. 
@@ -2150,7 +2162,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:1051
 msgctxt "ha5061563g6073g4cb6g88ccgb352c503b189"
 msgid "Bonecloack's Basement"
-msgstr ""
+msgstr "본클록스 지하실"
 
 #. key = LOW_BonecloakApothecary_SUB
 #. 
@@ -2161,7 +2173,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:512
 msgctxt "h01704daaga1a4g45c5gad76gea29cc321731"
 msgid "Bonecloak's Apothecary"
-msgstr ""
+msgstr "본클록스 약재상"
 
 #. key = LOW_CandulhallowsTombstones_SUB
 #. 
@@ -2172,7 +2184,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:477
 msgctxt "h7e4383b9g3515g4ad7ga645g7d300d0f7af6"
 msgid "Candulhallow's Tombstones"
-msgstr ""
+msgstr "칸덜할로우의 묘비 제작소"
 
 #. key = LOW_CazadorsPalace_Ascendant
 #. 
@@ -2216,7 +2228,7 @@ msgstr ""
 #: Gustav/Mods/GustavDev/Localization/Act3_Misc.lsx:36
 msgctxt "h9c1c2ba7g815cg474ag82d4g87597ea0b334"
 msgid "Zombie Astarion"
-msgstr ""
+msgstr "좀비 아스타리온"
 
 #. key = LOW_CentralWatchTower_SUB
 #. 
@@ -2239,7 +2251,7 @@ msgstr "중앙 감시탑"
 #: Gustav/Mods/GustavDev/Localization/Act3_Subregions.lsx:127
 msgctxt "hfb9003a3g6b25g4808gb680g27eeb44beff0"
 msgid "Lower City"
-msgstr ""
+msgstr "하부 도시"
 
 #. key = LOW_CountingHouse_Docks_SUB
 #. 
