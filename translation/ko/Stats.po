@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 00:37+0900\n"
-"PO-Revision-Date: 2023-08-28 07:54+0000\n"
-"Last-Translator: Milesand <me@dicemice.me>\n"
+"PO-Revision-Date: 2023-08-28 22:31+0000\n"
+"Last-Translator: darkgaia <darkgaia@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/stats/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -815,7 +815,7 @@ msgstr "거인의 힘의 파편"
 #: Gustav/Public/Gustav/Stats/Generated/Data/Passive.txt:519
 msgctxt "hc29527b5gf34eg4759g8deag0c9e1d252a47"
 msgid "Increases <LSTag Tooltip=\"Strength\">Strength</LSTag> to 15."
-msgstr "<LSTag Tooltip=\"Strength\">근력</LSTag>이 15 로 증가합니다."
+msgstr "<LSTag Tooltip=\"Strength\">근력</LSTag>이 19로 증가합니다."
 
 #: Gustav/Public/Gustav/Stats/Generated/Data/Passive.txt:524
 msgctxt "h0f2d47bfg327ag4585g90bdg92bab0865b6a"
@@ -15864,7 +15864,7 @@ msgid ""
 msgstr ""
 "주문 피해를 입힐 때, 대상에 <LSTag Type=\"Status\" Tooltip=\"MAG_ACID_NOXIOUS_FUMES\""
 ">유독 가스</LSTag> 피해를 [1] 턴 가합니다. 케레스카의 산성효과를 적용받는 동안 <LSTag Type=\"Spell\" "
-"Tooltip=\"Target_Cloudkill\">죽은안개</LSTag>와 <LSTag Type=\"Spell\" Tooltip="
+"Tooltip=\"Target_Cloudkill\">살인 구름</LSTag>과 <LSTag Type=\"Spell\" Tooltip="
 "\"Projectile_RayOfSickness\">질병 광선</LSTag>을 시전할 수 있습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Spell_Shout.txt:3026
@@ -26298,7 +26298,7 @@ msgstr ""
 "Tooltip=\"ProficiencyBonus\">숙련 보너스</LSTag>에 해당하는 추가 산성 피해를 가합니다. 주문 피해를 가하면 "
 "대상에게 [1]턴 동안 <LSTag Type=\"Status\" Tooltip=\"MAG_ACID_NOXIOUS_FUMES\">유독 "
 "가스</LSTag>를 유발합니다. 케레스카의 산성 효과를 받는 동안 <LSTag Type=\"Spell\" Tooltip="
-"\"Target_Cloudkill\">죽음안개</LSTag>와 <LSTag Type=\"Spell\" Tooltip="
+"\"Target_Cloudkill\">살인 구름</LSTag>과 <LSTag Type=\"Spell\" Tooltip="
 "\"Projectile_RayOfSickness\">쇠약 광선</LSTag>을 시전할 수 있습니다."
 
 #: Gustav/Public/GustavDev/Stats/Generated/Data/Status_BOOST.txt:8994
@@ -34830,7 +34830,7 @@ msgstr ""
 #: Shared/Public/Shared/Stats/Generated/Data/Passive.txt:3118
 msgctxt "h1cc9f73fg2bfcg498fgb487gfd6d5eea74fc"
 msgid "Drow Poison"
-msgstr ""
+msgstr "드로우 독"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Passive.txt:3119
 msgctxt "hc0e52698g396cg48c2g8d2bge8a83b69da4d"
@@ -36462,7 +36462,7 @@ msgstr ""
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Projectile.txt:3237
 msgctxt "hf5aaffa3g7cccg422eg95a6gb38d93d8064d"
 msgid "Drow Poison"
-msgstr ""
+msgstr "드로우 독"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Projectile.txt:3238
 msgctxt "hb9499e9ag7981g4b73gbdaag1d773d1625cd"
@@ -44243,7 +44243,7 @@ msgstr "[1]를 가하고 일정 확률로 [2]를 추가로 입습니다."
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Target.txt:8470
 msgctxt "ha86fe589gf68dg4c99gb1f4g7024d059a6a5"
 msgid "Demonic Bite"
-msgstr "악마의 이빨"
+msgstr "데몬의 이빨"
 
 #: Shared/Public/Shared/Stats/Generated/Data/Spell_Target.txt:8471
 msgctxt "hf230d3eeg86c9g41c5g8a6agbfb431165558"
@@ -53262,7 +53262,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Interrupt.txt:144
 msgctxt "hff08e0f3g51c5g4035g88a5gc62df0f40b36"
 msgid "Psionic Dominance"
-msgstr ""
+msgstr "사이오닉 지배"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Interrupt.txt:145
 msgctxt "h12a36ce9g5886g4c82ga429g86007c9ef2a0"
@@ -65144,7 +65144,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:6445
 msgctxt "h0c808d8egae78g4b69gb965ga051f9a670d2"
 msgid "Cloudkill"
-msgstr "죽음안개"
+msgstr "살인 구름"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:6446
 msgctxt "h584b32dfg9cccg40b4gbb89g7e9472389f58"
@@ -65612,7 +65612,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:7490
 msgctxt "hd721d18dgf2a8g4080ga858g3c8c78f0d870"
 msgid "Psionic Dominance"
-msgstr ""
+msgstr "사이오닉 지배"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Target.txt:7516
 msgctxt "hf667134dge956g466dg8ba4g0834c024ffd2"
@@ -67452,7 +67452,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Throw.txt:30
 msgctxt "hf8ad4c6cga40dg4819g9fb4gcfda7dd78672"
 msgid "Telekinesis"
-msgstr ""
+msgstr "염동력"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Spell_Throw.txt:31
 msgctxt "h61f5eba0geafdg4567gb72ag46ec17c988b0"
@@ -72565,7 +72565,7 @@ msgstr "%%% |Tech status, do not destub|"
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6202
 msgctxt "h388cd2acg313dg4a05g8753gc819a37c8a1a"
 msgid "Cloudkill"
-msgstr "죽음안개"
+msgstr "살인 구름"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:6203
 msgctxt "h61801db7g0d67g49aag8c5ag49d0dacfb537"
@@ -73398,7 +73398,7 @@ msgstr ""
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:7183
 msgctxt "h210c7430g34b9g4d53ga649g9669200b758b"
 msgid "Psionic Dominance"
-msgstr ""
+msgstr "사이오닉 지배"
 
 #: Shared/Public/SharedDev/Stats/Generated/Data/Status_BOOST.txt:7184
 msgctxt "h15b912edg6fcag4931gafaag156cc3798d64"
