@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:29+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-29 23:01+0000\n"
+"Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
+"Language-Team: Korean <http://waldo.team/projects/bg3/default/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1995,9 +1997,8 @@ msgid ""
 "for those who wish to defend themselves and others. Learning Abjuration "
 "spells from scrolls only costs you 25g per spell level, not 50. "
 msgstr ""
-"방호계 주문은 방어막을 소환하고, 적을 추방하며, 마법을 무효화하여 자신과 "
-"타인을 보호하고자 하는 이들에게 적합합니다. 두루마리로부터 주문을 배울 때 "
-"주문 레벨 당 50 골드 대신 25골드만 소모합니다. "
+"방호계 주문은 방어막을 소환하고, 적을 추방하며, 마법을 무효화하여 자신과 타인을 보호하고자 하는 이들에게 적합합니다. 두루마리로부터 "
+"주문을 배울 때 50골드가 아닌 25골드만 소모합니다. "
 
 #. FilePath = Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -2022,9 +2023,8 @@ msgid ""
 "Learning Evocation spells from scrolls only costs you 25g per spell level, "
 "not 50. "
 msgstr ""
-"방출계 주문은 원소 에너지를 집중해 강력한 공격과 마법을 사용합니다. 이 "
-"학파에 특화된 자들을 기원사라고 부릅니다. 두루마리로부터 주문을 배울 때 주문 "
-"레벨 당 50 골드 대신 25골드만 소모합니다. "
+"방출계 주문은 원소 에너지를 집중해 강력한 공격과 마법을 사용합니다. 이 학파에 특화된 자들을 기원사라고 부릅니다. 두루마리로부터 주문을 "
+"배울 때 50골드가 아닌 25골드만 소모합니다. "
 
 #. FilePath = Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -2416,9 +2416,8 @@ msgid ""
 "creatures and objects, as well as displacing them in space. Learning "
 "Conjuration spells from scrolls only costs you 25g per spell level, not 50. "
 msgstr ""
-"모양과 움직임에 따라 생명체와 물체를 소환하고 공간에 이동시키는 비전술을 "
-"주로 사용합니다. 두루마리로부터 조형계 주문을 배울 때 주문 레벨 당 50 골드 "
-"대신 25골드만 소모합니다. "
+"모양과 움직임에 따라 생명체와 물체를 소환하고 공간에 이동시키는 비전술을 주로 사용합니다. 두루마리로부터 조형계 주문을 배울 때 "
+"50골드가 아닌 25골드만 소모합니다. "
 
 #. FilePath = Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -2442,8 +2441,7 @@ msgid ""
 "into a more favourable form. Learning Divination spells from scrolls only "
 "costs you 25g per spell level, not 50. "
 msgstr ""
-"시간 자체를 들여다보며 찰흙과 같은 미래를 더 유리한 형태로 조각할 수 "
-"있습니다. 두루마리로부터 예지계 주문을 배울 때 주문 레벨 당 50 골드 대신 "
+"시간 자체를 들여다보며 찰흙과 같은 미래를 더 유리한 형태로 조각할 수 있습니다. 두루마리로부터 예지계 주문을 배울 때 50골드가 아닌 "
 "25골드만 소모합니다. "
 
 #. FilePath = Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
@@ -2468,8 +2466,7 @@ msgid ""
 "around you. Learning Enchantment spells from scrolls only costs you 25g per "
 "spell level, not 50. "
 msgstr ""
-"주변 사람들의 의지와 신념에 영향을 미치고, 유혹하고, 구부립니다. "
-"두루마리로부터 환혹계 주문을 배울 때 주문 레벨 당 50 골드 대신 25골드만 "
+"주변 사람들의 의지와 신념에 영향을 미치고, 유혹하고, 구부립니다. 두루마리로부터 환혹계 주문을 배울 때 50골드가 아닌 25골드만 "
 "소모합니다. "
 
 #. FilePath = Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
@@ -2494,8 +2491,7 @@ msgid ""
 "there. Learning Necromancy spells from scrolls only costs you 25g per spell "
 "level, not 50. "
 msgstr ""
-"사망의 음침한 골짜기를 걸으며 많은 친구를 사귀게 됩니다. 두루마리로부터 "
-"사령계 주문을 배울 때 주문 레벨 당 50 골드 대신 25골드만 소모합니다. "
+"사망의 음침한 골짜기를 걸으며 많은 친구를 사귀게 됩니다. 두루마리로부터 사령계 주문을 배울 때 50골드가 아닌 25골드만 소모합니다. "
 
 #. FilePath = Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -2519,9 +2515,8 @@ msgid ""
 "the unwary, the gullible, and the monstrous. Learning Illusion spells from "
 "scrolls only costs you 25g per spell level, not 50. "
 msgstr ""
-"현실의 구조를 풀고 다시 꿰매어 경계하지 않는 자, 속기 쉬운 자, 괴물 같은 "
-"자를 속이는 데 특화되어 있습니다. 두루마리로부터 환영계 주문을 배울 때 주문 "
-"레벨 당 50 골드 대신 25골드만 소모합니다. "
+"현실의 구조를 풀고 다시 꿰매어 경계하지 않는 자, 속기 쉬운 자, 괴물 같은 자를 속이는 데 특화되어 있습니다. 두루마리로부터 환영계 "
+"주문을 배울 때 50골드가 아닌 25골드만 소모합니다. "
 
 #. FilePath = Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -2546,8 +2541,7 @@ msgid ""
 "Transmutation spells from scrolls only costs you 25g per spell level, not "
 "50. "
 msgstr ""
-"사물의 구조에 대한 열정은 조잡한 물질과 그 조작에 대한 놀라운 힘을 "
-"부여했습니다. 두루마리로부터 변환계 주문을 배울 때 주문 레벨 당 50 골드 대신 "
+"사물의 구조에 대한 열정은 조잡한 물질과 그 조작에 대한 놀라운 힘을 부여했습니다. 두루마리로부터 변환계 주문을 배울 때 50골드가 아닌 "
 "25골드만 소모합니다. "
 
 #. FilePath = Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
@@ -6463,15 +6457,11 @@ msgstr "의식 시전자"
 #. HandlePath = Description
 #. ExactMatch = SavageAttacker
 #: Public/SharedDev/Feats/FeatDescriptions.lsx:92
-#, fuzzy
-#| msgid ""
-#| "When making weapon attacks, you roll your damage dice twice and use the "
-#| "highest result."
 msgctxt "hb678b565g086fg415eg80dcg71905c52c9e5"
 msgid ""
 "When making melee weapon attacks, you roll your damage dice twice and use "
 "the highest result."
-msgstr "무기 공격 시 피해 주사위를 두 번 던지고 그 중 높은 숫자를 사용합니다."
+msgstr "근접 무기 공격 시 피해 주사위를 두 번 던지고 그 중 높은 숫자를 사용합니다."
 
 #. FilePath = Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -7688,8 +7678,7 @@ msgctxt "h5fd25fb5g0c76g470cg9b88g61f286bb1802"
 msgid ""
 "Elves, dwarves, half-elves, half-orcs, gnomes, and tieflings have "
 "darkvision, which allows them to see in the dark."
-msgstr "엘프, 드워프, 하프엘프, 하프 오크, 노움, 티플링은 어둠 속에서도 잘 보게 "
-"해주는 암흑시야를 지니고 있습니다."
+msgstr "엘프, 드워프, 하프 엘프, 하프 오크, 노움, 티플링은 어둠 속에서도 잘 보게 해주는 암흑시야를 지니고 있습니다."
 
 #. FilePath = Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -7814,9 +7803,10 @@ msgstr "전투 로그를 통해 최근 주문 시전, 행동, 대화를 확인�
 #. Name = DEC_GEN_Statue_Guard_A_007
 #. Type = scenery
 #: Mods/GustavDev/Levels/BGH_Barracks_A_Art/Scenery/_merged.lsx:3239
+#, fuzzy
 msgctxt "hab00fdfbgac2cg4155g9fd9ga67f459f5f21"
 msgid "Statue "
-msgstr ""
+msgstr "석상 "
 
 #. FilePath = Mods/GustavDev/Levels/BGH_SteelWatchFoundry_B/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -7825,9 +7815,10 @@ msgstr ""
 #. Name = DEC_GEN_Towels_Stacked_A_000
 #. Type = scenery
 #: Mods/GustavDev/Levels/BGH_SteelWatchFoundry_B/Scenery/_merged.lsx:12553
+#, fuzzy
 msgctxt "h4fdedfc3gf347g49d1ga512g5bdb2187709e"
 msgid "Stacked Towels"
-msgstr ""
+msgstr "쌓여있는 수건"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_CIN_SeluniteCourtyard_A/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -14015,12 +14006,15 @@ msgstr "제니스 푀르셀"
 #. Name = Hireling_Druid
 #. Passives = DeathSavingThrows
 #: Public/SharedDev/Origins/Origins.lsx:81
+#, fuzzy
 msgctxt "h2c71f710gd07dg461eg9044g4fb1c1e1c86d"
 msgid ""
 "Danton was a refined druid and rearer of peacocks - until he thought "
 "transforming into one would help him escape Absolutist marauders. He was "
 "wrong. "
 msgstr ""
+"단톤은 공작새를 기르는 품위 있는 드루이드였습니다. 그는 이들의 모습으로 변신하는 것이 절대자 약탈자의 눈을 피하는 데 유용할 거로 "
+"생각했으나, 그건 착각이었습니다. "
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -14038,12 +14032,15 @@ msgstr "단톤"
 #. Name = Hireling_Fighter
 #. Passives = DeathSavingThrows
 #: Public/SharedDev/Origins/Origins.lsx:103
+#, fuzzy
 msgctxt "h2f217105g57b6g4a8cga099gcd4b828a3f8d"
 msgid ""
 "Once a battle-worn veteran fighting for the Absolute, Varanna learnt that "
 "loyalty to the would-be god did not protect you from the murderous whims of "
 "jealous generals."
 msgstr ""
+"절대자를 위한 싸움에 지친 바라나는 신이 되리라는 자에게 충성해봤자 질투심 많은 장군의 잔악한 변덕에서 안전하지 못하다는 것을 "
+"깨달았습니다."
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -14053,7 +14050,7 @@ msgstr ""
 #: Public/SharedDev/Origins/Origins.lsx:104
 msgctxt "he3abbc75ge292g4fd6ga8a8gae2545cee275"
 msgid "Varanna Sunblossom"
-msgstr ""
+msgstr "바란나 썬블러섬"
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -16958,7 +16955,7 @@ msgstr "위자드 주문을 하나 선택하여 주문 시전 목록에 추가�
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:772
 msgctxt "hcbe9db62g6e81g4048gbb4fg8dc4838ad8df"
 msgid "Expanded"
-msgstr "확장된"
+msgstr "확장 주문"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17326,7 +17323,7 @@ msgstr "위자드 주문을 하나 선택하여 주문 시전 목록에 추가�
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:895
 msgctxt "h46beaea9gb6d6g4666ga42cg29e3ea5d346b"
 msgid "Expanded"
-msgstr "확장된"
+msgstr "확장 주문"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -18735,7 +18732,7 @@ msgstr ""
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:1452
 msgctxt "h6829a0fag2cd7g4db1g866eg5c1732493711"
 msgid "High Half-Elf Cantrip"
-msgstr "하이 하프엘프 소마법"
+msgstr "하이 하프 엘프 소마법"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -23115,8 +23112,8 @@ msgid ""
 "Bulky and tusked, wild boar are at their most dangerous during mating "
 "season, and can use those tusks and the muscle in their bodies to gore and "
 "crush."
-msgstr "큰 덩치와 엄니를 자랑하는 야생 멧돼지들은 발정기 때 극도로 위험하며 엄니나 "
-"몸통으로 들이받거나 짓밟을 수 있습니다."
+msgstr ""
+"야생 멧돼지들은 큰 덩치와 엄니를 자랑합니다. 발정기가 되면 극도로 위험하며, 엄니나 몸통으로 상대를 들이받거나 짓밟을 수 있습니다."
 
 #. FilePath = Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -23644,12 +23641,12 @@ msgstr "그레미쉬카"
 #. Name = ApostleOfMyrkul
 #. RaceSoundSwitch = Apostle_Myrkul
 #: Public/SharedDev/Races/Races.lsx:4281
+#, fuzzy
 msgctxt "h78783643gaa11g405eg9eaegff632ecf9e10"
 msgid ""
 "'Handle to handle. Threshold to threshold. Of all the doors you've walked "
 "through, mortal, mine will be the last.' - Myrkul, Lord of Bones "
-msgstr "필멸자여 문에서 문으로 네가 걸어온 모든 여정이 짐 앞에서 멈출지어다. - 머큘, "
-"뼈의 군주"
+msgstr "필멸자여 문에서 문으로 네가 걸어온 모든 여정이 짐 앞에서 멈출지어다. - 머큘, 뼈의 군주 "
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -23912,20 +23909,22 @@ msgstr "섬뜩한 얼굴"
 #. HandlePath = Description
 #. Name = CoinHalberd
 #: Public/SharedDev/Races/Races.lsx:4396
+#, fuzzy
 msgctxt "h6f40287ag8d86g4cd2gb8c5gd4eee92a4a94"
 msgid ""
 "Formed from the wealth surrounding the Toll Collector, this weapon clinks "
 "and jangles as it sweeps across the battlefield."
-msgstr ""
+msgstr "징세관의 넘치는 재물로 만들어진 이 무기는 짤랑거리며 전장을 휩씁니다."
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
 #. HandlePath = DisplayName
 #. Name = CoinHalberd
 #: Public/SharedDev/Races/Races.lsx:4397
+#, fuzzy
 msgctxt "h26652329gddf1g4fd8g8b1fg7782afaf28b6"
 msgid "Coin Halberd"
-msgstr ""
+msgstr "동전 할버드"
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -23979,7 +23978,7 @@ msgctxt "h4010099ag41b7g487ega0dfg21462151eaf0"
 msgid ""
 "Shambling, their bodies clothed with rotted scraps of funereal wrappings, "
 "mummies bring their malice with them out of their tombs."
-msgstr ""
+msgstr "썩은 장례용 천을 두른 몸을 휘청거리며 미라는 악의를 품은 채 무덤에서 일어납니다."
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race

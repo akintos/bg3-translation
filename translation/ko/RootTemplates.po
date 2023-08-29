@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:30+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-29 23:01+0000\n"
+"Last-Translator: Milesand <me@dicemice.me>\n"
+"Language-Team: Korean <http://waldo.team/projects/bg3/roottemplates/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -12854,7 +12856,7 @@ msgstr "마인드 플레이어 혈액"
 #: Public/Shared/RootTemplates/fd3d7199-6415-4f0e-af2d-fd55d7b4c3e0.lsx:21
 msgctxt "hcd83b765g9338g487dg83edg255254908c97"
 msgid "The viscous, silvery ichor that flows through a mind flayer's veins."
-msgstr "마인드 플레이어의 혈관에 흐르는 점성을 띠는 은빛 수액입니다."
+msgstr "마인드 플레이어의 혈관에 흐르는, 끈적끈적한 은빛 수액입니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -12908,7 +12910,7 @@ msgctxt "h8cd139f2gb540g43a8g8cdcg2a8e0a6b7355"
 msgid ""
 "Creatures who remain in the cloud take heavy poison damage. The cloud also "
 "heavily obscures what's in it."
-msgstr ""
+msgstr "이 안개에 머무르는 크리쳐는 막대한 독성 피해를 받습니다. 또한 범위 안의 대상은 상당히 가려진 상태가 됩니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -12930,7 +12932,7 @@ msgctxt "h104f4603g2f12g4342gaeaeg790e9f41c09c"
 msgid ""
 "Creatures who remain in the cloud take heavy poison damage. The cloud also "
 "heavily obscures what's in it."
-msgstr ""
+msgstr "이 안개에 머무르는 크리쳐는 막대한 독성 피해를 받습니다. 또한 범위 안의 대상은 상당히 가려진 상태가 됩니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -13068,7 +13070,7 @@ msgstr "화염"
 #: Public/Shared/RootTemplates/9ce17ac5-a7c9-431f-ae41-3a572d5fc302.lsx:21
 msgctxt "h99d294b8g2508g49b4g92a4g214b958fa5b7"
 msgid "Deals 1d4 Fire damage per turn."
-msgstr "매 턴 1d4 의 화염 피해를 입힙니다."
+msgstr "턴당 1d4 화염 피해를 입힙니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -13121,7 +13123,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/fd0a5567-bb60-4b67-b0e7-30aaee634b3d.lsx:20
 msgctxt "h595d945bgc56fg4dccg8bfbg555b0454efc3"
 msgid "Grease"
-msgstr "기름"
+msgstr "기름막"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -13148,7 +13150,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/87821ac7-3a58-4eba-a296-c3f12d0bd42b.lsx:21
 msgctxt "h04274f13g77b6g4998g8f6bg30a4c236293a"
 msgid "Frozen Grease"
-msgstr "얼어붙은 기름"
+msgstr "얼어붙은 기름막"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -13270,7 +13272,7 @@ msgstr "용암"
 #: Public/Shared/RootTemplates/542fce0c-795c-4e79-a818-39aaaf26cd31.lsx:21
 msgctxt "h3ebf0e81gc898g4442ga573ga861e35e06d1"
 msgid "Deals 10d6 Fire damage per turn."
-msgstr "매 턴 10d6 의 화염 피해를 입힙니다."
+msgstr "턴당 10d6 화염 피해를 입힙니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName

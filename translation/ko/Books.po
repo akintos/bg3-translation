@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:29+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-29 23:02+0000\n"
+"Last-Translator: Milesand <me@dicemice.me>\n"
+"Language-Team: Korean <http://waldo.team/projects/bg3/books/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -2862,17 +2864,13 @@ msgid ""
 "defences. Should station Inquisitor W'wargaz. He'll be able to keep "
 "Therezzyn under his thumb.  - M'lar Rih'al."
 msgstr ""
-"[이 원형 석판엔 기스양키 문자가 새겨져 있습니다. 아래에는 공용어로 번역된 "
-"내용이 적혀 있습니다. 기스양키 파견대가 장밋빛 아침 수도원을 점령할 때의 "
-"보고서입니다.]\n"
+"[이 원형 석판엔 기스양키 문자가 새겨져 있습니다. 아래에는 공용어로 번역된 내용이 적혀 있습니다. 기스양키 파견대가 장밋빛 아침 "
+"수도원을 점령할 때의 보고서입니다.]\n"
 "\n"
-"보급품이 풍부하고, 사냥하기에도 좋은 지역. 그레미쉬카가 들끓고 있으나 위협이 "
-"되진 않고 오히려 불청객을 내쫓는 효과가 있음. '장밋빛 아침 수도원'이라 "
-"불리는 곳이지만, 수도사들이 지면 아래에 많은 비밀을 숨긴 것처럼 보임. "
-"지하에서 다량의 귀중품이 발견되었는데 수도로 보낼 최상품들을 제외하고도 "
-"거래할 만한 가치가 있음. 보물이 있는 방엔 방어시설이 존재하며 군사 정보국을 "
-"설치하기에 적합한 위치라고 사료됨. 이단심문관 와르가즈를 배치하여 테레진을 "
-"통제하에 두는 것을 권고함. - 믈라 리할."
+"보급품이 풍부하고, 사냥하기에도 좋은 지역. 그레미쉬카가 들끓고 있으나 위협이 되진 않고 오히려 불청객을 내쫓는 효과가 있음. '장밋빛 "
+"아침 수도원'이라 불리는 곳이지만, 수도사들이 지면 아래에 많은 비밀을 숨긴 것처럼 보임. 지하에서 다량의 귀중품이 발견되었는데 수도로 "
+"보낼 최상품들을 제외하고도 거래할 만한 가치가 있음. 보물이 있는 방엔 방어시설이 존재하며 군사 정보국을 설치하기에 적합한 위치라고 "
+"사료됨. 심문관 와르가즈를 배치하여 테레진을 통제하에 두는 것을 권고함. - 믈라 리할."
 
 #. key = CRE_GeneralMonastery_LathanderPrayer
 #. 
@@ -3361,11 +3359,9 @@ msgid ""
 msgstr ""
 "[던마스터에게 보내는 불만 가득한 서적으로 먼지가 쌓여있다.]\n"
 "\n"
-"누가 순례자에게 고양이로 와인 값을 내게 했습니까? 게다가 대체 무슨 고양이가 "
-"이래요? 수습생들이 그 고양이가 거대한 사냥개만큼 커지는 걸 봤다고 하더군요. "
-"공격당하기 직전에 말이죠! 그 불쌍한 수습생은 일주일은 벌벌 떨면서 "
-"지냈습니다. 제발 부탁드리건대 우리도 평범하게 골드로 거래하면 안 되겠습니까? "
-"그리고 누군가를 불러서 그 험악한 동물을 치우라고 해주세요! "
+"누가 순례자에게 고양이를 받고 와인을 줬습니까? 게다가 대체 무슨 고양이가 이래요? 수습생들이 그 고양이가 거대한 사냥개만큼 커지는 걸 "
+"봤다고 하더군요. 공격당하기 직전에 말이죠! 그 불쌍한 수습생은 일주일은 벌벌 떨면서 지냈습니다. 제발 부탁드리건대 우리도 평범하게 "
+"금화로 거래하면 안 되겠습니까? 그리고 누군가를 불러서 그 험악한 동물을 치우라고 해주세요! "
 
 #. key = CRE_Monastery_VisitorBook
 #. 
@@ -5007,9 +5003,10 @@ msgstr ""
 #. Icon = Item_BOOK_GEN_Paper_Sheet_F
 #. Stats = OBJ_Scroll
 #: Public/GustavDev/RootTemplates/432ab95d-e594-47b4-923f-9e15a9f4ccf3.lsx:15
+#, fuzzy
 msgctxt "h8731d7d6gce27g4ffega9a4g1d2b38ac69fa"
 msgid "Opening a Hell Gate"
-msgstr ""
+msgstr "지옥 문을 여는 방법"
 
 #. key = END_AlliesHouse_NoteFromWhitburn
 #. 
@@ -11558,26 +11555,20 @@ msgid ""
 "[The next fifty pages appear to be a painstakingly written legal document in "
 "Infernal, with a headache-inducing number of footnotes.]\n"
 msgstr ""
-"[학술적 공개: 이 연구는 독립적인 자금 지원을 받아 아홉 지옥의 첫 번째 층인 "
-"아베르누스에 있는 한 장소에서 진행되었습니다. 캔들킵은 필멸자 영혼의 포획을 "
-"장려하거나 조장하지 않습니다.]\n"
+"[학술적 공개: 이 연구는 독립적인 자금 지원을 받아 아홉 지옥의 첫 번째 층 아베르누스에 있는 한 장소에서 진행되었습니다. 캔들킵은 "
+"필멸자 영혼의 포획을 장려하거나 조장하지 않습니다.]\n"
 "\n"
-"영혼 동전은, 그 개념만을 보면 아주 무자비한 단순성을 지니고 있습니다. "
-"개인적이고 마법적인 정수의 총합인 영혼은 주조된 지옥의 철 조각에 묶여 데빌과 "
-"그 무리에 의해 화폐로 사용됩니다. \n"
+"영혼 동전은 개념적으로는 무자비하게 단순합니다. 개인적 정수와 마법적 정수의 총합인 영혼을 동전 모양으로 주조한 지옥 철 조각에 묶어, "
+"데빌과 그 무리의 화폐로 사용하는 것입니다. \n"
 "\n"
-"영혼 동전은 용병을 고용하거나, 마법 물품을 구매하고, 지옥의 엔진에 연료를 "
-"주입할 수 있기에 자주 거래됩니다. 하지만 영혼 동전을 둘러싼 흥미로운 문화도 "
-"존재합니다. 저와 이야기를 나눈 한 데빌은, 그녀가 절대로 팔지 않을 영혼 "
-"동전을 하나 지니고 있는데, 그 동전 덕분에 레무어 신분에서 승급할 수 있었다고 "
-"고백했습니다.\n"
+"영혼 동전은 용병을 고용하거나 마법 물품을 구매할 때 쓸 수 있고, 또한 지옥의 엔진 연료로도 사용할 수 있기에, 자주 거래됩니다. "
+"하지만 영혼 동전을 둘러싼 흥미로운 문화도 존재합니다. 저와 이야기를 나눈 한 데빌은, 그녀가 절대로 팔지 않을 영혼 동전을 하나 지니고 "
+"있는데, 그 동전 덕분에 레무어 신분에서 승급할 수 있었다고 고백했습니다.\n"
 "\n"
-"그녀가 저에게 자신이 죽을 시 그의 영혼을 동전으로 바치겠다는 하프엘프 워락을 "
-"소개해 주었습니다. 그리고 그의 계약 내용을 살펴볼 수 있었는데, 다음과 "
-"같았습니다:\n"
+"그녀가 저에게 자신이 죽을 시 그의 영혼을 동전으로 바치겠다는 하프 엘프 워락을 소개해 주었습니다. 그의 계약 내용은 다음과 같았습니다."
 "\n"
-"[다음 50쪽은 두통을 유발할 정도로 많은 각주가 달린 지옥어로 된 법률 문서인 "
-"듯 보입니다.]\n"
+"\n"
+"[다음 50쪽은 두통을 유발할 정도로 많은 각주가 달린 지옥어 법률 문서로 보입니다.]\n"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -13756,7 +13747,7 @@ msgstr "오만의 대가"
 #: Public/GustavDev/RootTemplates/a95835d3-8508-466c-ad9e-54a3f78e2d3b.lsx:15
 msgctxt "hb7ec46ecg14e6g4612gbc08gf355ca3730f1"
 msgid "Lunar Dark Lies"
-msgstr ""
+msgstr "거짓된 달의 어둠"
 
 #. key = GEN_Unreadable
 #. 
@@ -15272,30 +15263,22 @@ msgid ""
 "Damon Briska,\n"
 "Proud (and free!) Citizen of the Heartlands.\n"
 msgstr ""
-"[편지에 쓰인 날짜는 세월 속에 지워져 알아볼 수 없지만, 종이의 상태만 "
-"보더라도 굉장히 오래되었다는 것을 알 수 있습니다.]\n"
+"[편지에 쓰인 날짜는 세월 속에 지워져 알아볼 수 없지만, 종이의 상태만 보더라도 굉장히 오래되었다는 것을 알 수 있습니다.]\n"
 "\n"
 "동료 시민 여러분 (좋든 싫든 우리는 동료 시민입니다!),\n"
 "\n"
-"최근 이 지역에서 낯선 기수들의 존재에 대한 우려와 경각심이 커지고 있다는 "
-"것을 느껴 적지 않은 사비를 들여 이 공지를 여러 부 인쇄하여 해당 지역에 "
-"게시합니다.\n"
+"최근 이 지역에서 낯선 기수들의 존재에 대한 우려와 경각심이 커지고 있다는 것을 느껴, 적지 않은 사비를 들여 이 공지를 여러 부 "
+"인쇄하여 해당 지역에 게시합니다.\n"
 "\n"
-"많은 분들이 '순찰'을 가장하고 숲과 마을을 돌아다니는 이들을 보셨을 겁니다. "
-"그들은 자신들이 '위대하고 성스러운 엘투르가르드'의 국경을 지키기 위해 "
-"엘투렐에서 파견된 수호자라고 주장합니다. 빛나는 갑옷이나 멋진 탈것에 속지 "
-"마십시오. 저는 엘투르가르드에게 무릎을 꿇은 적도 없고, 금속 광대들을 시켜 "
-"우리 정원 울타리 너머를 들여다보라고 부탁한 적도 없습니다.\n"
+"많은 분들이 '순찰'을 가장하고 숲과 마을을 돌아다니는 이들을 보셨을 겁니다. 그들은 자신들이 '위대하고 성스러운 엘투르가르드'의 국경을 "
+"지키기 위해 엘투렐에서 파견된 수호자라고 주장합니다. 빛나는 갑옷이나 멋진 탈것에 속지 마십시오. 저는 엘투르가르드에게 무릎을 꿇은 적도 "
+"없고, 금속 광대들을 시켜 우리 정원 울타리 너머를 들여다보라고 부탁한 적도 없습니다.\n"
 "\n"
-"여러분도 아시다시피 저는 이 강둑에 정착한 셀루나이트 원주민의 직계 "
-"후손입니다 (증언해줄 하프엘프 종조부도 있습니다!). 우리는 평화로운 민족이고 "
-"드루이드와도 잘 지내지만, 지도에서도 찾을 수 없는 먼 도시에 충성을 바치거나 "
-"세금을 낼 생각은 없습니다.\n"
+"여러분도 아시다시피 저는 이 강둑에 정착한 셀루나이트 원주민의 직계 후손입니다 (증언해줄 하프 엘프 종조부도 있습니다!). 우리는 "
+"평화로운 민족이고 드루이드와도 잘 지내지만, 지도에서도 찾을 수 없는 먼 도시에 충성을 바치거나 세금을 낼 생각은 없습니다.\n"
 "\n"
-"저는 이 깡패 놈들에게 이 사실을 알리는 데 큰 기쁨을 느꼈고, 여러분도 그렇게 "
-"하시기를 촉구합니다. 그들은 스스로를 헬라이더라고 부릅니다. 저는 그들을 "
-"침입자라고 부릅니다. 그리고 놈들과 그들의 도시 모두 지옥에나 가버리라고 "
-"합시다.\n"
+"저는 이 깡패 놈들에게 이 사실을 알리는 데 큰 기쁨을 느꼈고, 여러분도 그렇게 하시기를 촉구합니다. 그들은 스스로를 헬라이더라고 "
+"부릅니다. 저는 그들을 침입자라고 부릅니다. 그리고 놈들과 그들의 도시 모두 지옥에나 가버리라고 합시다.\n"
 "\n"
 "심각한 우려와 진지한 의도를 담아,\n"
 "\n"
@@ -16092,6 +16075,16 @@ msgid ""
 "\n"
 "[The book continues in a similarly unenlightening fashion.]"
 msgstr ""
+"[대충 끄적인, 잡귀 이야기 수집가 그레쉰내그의 사악한 이야기 모음.]\n"
+"\n"
+"<b>항목 18번 - 더럽히는 자, 스마일러</b>\n"
+"만약 당신이 아베르누스를 배회하는 도중, 풍경이 특히나 아름답게 변한다면 - 예를 들어 푸른 숲, 큰 덤불들 같은 - 당신은 스마일러라는 "
+"생물이 설치한 교활한 함정에 빠진 것일지도 모른다. 우리 헬포크 중 그 누구도 그것이 정확히 <i>무엇</i>인지, 어디에서 왔는지, "
+"어떻게 이곳에 왔는지 모른다. 하지만 놈이 극악무도한 녀석인 것은 확실하다. <b>더럽히는 자</b>라는 이명을 붙일 정도로. 놈은 흔히 "
+"말하는 <i>사악한 녀석</i>이 아니다. 이 곳에서 사는 그런 부류의 <i>사악한 녀석</i>들은 많지만, 놈은 그 중에서도 특히나 "
+"<i>이질적인</i> 녀석이다. 뭔가 이상하다.\n"
+"\n"
+"[책은 이와 비슷한 내용으로 계속 이어지고 있다.]"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -16345,6 +16338,20 @@ msgid ""
 "Holding my hot chocolate, one of the few comforts I've got now, in the "
 "scratching, numbing, pinching, peeling, maddening ache of the everyday."
 msgstr ""
+"오늘은 엘프송에서 친구 하나한테 화를 냈다. 지금 생각하니 부끄럽다. 그 때는 아니었다. 정말 오랜만에 나의 상태에 대해 진지하게 "
+"고민하던 중이었던 탓에, 감정이 앞섰던 것이다.\n"
+"\n"
+"입은 옷의 옷감이 나의 비늘 없는 기형의 피부를 쓸리던 것이 날카로운 당김으로 변한다. 그 생각의 단어 하나가 머릿속을 떠나지 않았다. "
+"<i>날 카 로 움</i>.\n"
+"그리고 그것은 결국 떨리는 손으로 실험과 시연을 거친 기름의 조제법을 적는 것으로 이어졌다. 그것을 다시 한 번 읽으며, 미소짓는다. "
+"웃는 것이 글을 쓰는 것만큼이나 아프다.\n"
+"\n"
+"청록 수정의 염을 아무 황산염과 혼합하면, 무기의 날을 더욱 날카롭게 하는 기름을 만들 수 있다. 이 기름의 이름은 하급 날카로움의 "
+"기름이다.\n"
+"\n"
+"연금술로 만든 물질에 이름을 붙이는 데엔 재주가 없었다. 상상력은 별로 좋지 않으니까. 뭐, 별로 중요하지도 않지만.\n"
+"끊이지 않는 일상적인 가려움과 저림, 따끔거림, 피부가 벗겨지는 돌아버릴 듯한 통증 속에서 내게 위안을 주는 얼마 되지 않는 것 중 "
+"하나인 핫 초콜릿을 마신다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -16363,6 +16370,7 @@ msgstr "생각을 읽는 물약 제조법"
 #. HandlePath = Content
 #. UUID = GLO_Alchemy_PotionMindReading
 #: Public/GustavDev/Localization/generated_books.lsx:4978
+#, fuzzy
 msgctxt "h58eaf151g29e8g4ff8g885eg23dd19ca42de"
 msgid ""
 "I've only just come back to myself. The pain radiating from my raw, "
@@ -16381,6 +16389,14 @@ msgid ""
 "Most horrifying of all, I found no murderous impulse in my friend's head. "
 "Only pity."
 msgstr ""
+"방금 겨우 정신을 차렸다. 비늘 하나 없는 내 몸뚱아리에서 뼛 속까지 울리는 고통에 전혀 잠들 수 없었다. 효과 없는 치료를 진행한 지 "
+"다섯 번째 밤에 나는 점점... 아무래도 \"피해망상\"이라는 단어만으로는 내가 어떤 기분인 지 전부 묘사할 수 없다. 내가 마치 칼이고 "
+"그게 칼집인 마냥 나를 감싸고 있었다. 나는 내 오랜 친구, 니크로스가 나를 죽이고 싶어한다는 것을 확신했다. 내 처참한 모습을 더 이상 "
+"지켜볼 수 없었거나, 나에게 독을 먹이는 게 내 고통을 끝내줄 거라고 믿었던 가. 문제는 당장 나조차도... 모든 걸 끝낼 방법을 "
+"생각해봤다는 것이다. 나는 아래의 제조법으로 니크로스의 생각을 밝혀낼 물약을 만들었다.\n"
+"수중잔디 현탁액을 아무 승화물에나 섞고 달이면 생각을 읽는 물약을 제조할 수 있다.\n"
+"\n"
+"내 친구의 머릿속에 있는 게 날 죽이고자 하는 살의가 아닌, 동정이라는 사실이야말로 가장 끔찍했다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -16399,6 +16415,7 @@ msgstr "상급 치유의 물약 제조법"
 #. HandlePath = Content
 #. UUID = GLO_Alchemy_SuperiorPotionHealing
 #: Public/GustavDev/Localization/generated_books.lsx:5006
+#, fuzzy
 msgctxt "h9eaffb2fg59eag4c71g9163g0149ee53b3ee"
 msgid ""
 "So much for gentler days. Hard to write with trembling through limbs and "
@@ -16418,6 +16435,15 @@ msgid ""
 "\n"
 "it did not work it didn't and I hurt so bad so badly "
 msgstr ""
+"평온했던 나날은 이제 과거가 되었습니다. 떨리는 팔과 손가락에 글을 쓰는 것조차 녹록지 않습니다. 끔찍한 고통은 너무나도 선명하게 "
+"느껴집니다. 나를 진찰한 의사들은 하나같이 비웃으며 제 유통기한이 지났다고 진단했습니다. 이처럼 환자를 비웃는 의사는 만나본 적도 "
+"없었습니다. 하지만 광장에 있는 군종 외과의의 텐트에서 그 비웃음은 곧 그가 방금 목격한 공포에 대한 비명으로 바뀌었습니다. 제 몸의 "
+"비늘은 경질화 되기 전에 고통스럽게 떨어져 나간 뒤에 자연스럽게 다시 자라나기 때문에 드물면서도 재밌는 상황이었으리라 생각합니다. 최근의 "
+"친구 만들기는 저를 무감각하게 만들었지만, 고통은 돌아와 버렸습니다. 이제 연금술로 약을 조제해 내지 못하면 밤새 허망한 고통 속에서 "
+"편집증적인 열병을 감내해야만 했습니다. 끝내 저는 사향 덩굴의 염을 어느 혼합 물약과 섞어 우수한 치유 물약을 만들 수 있었습니다. "
+"물약의 치유 효과는 대단했고 저의 마지막 희망이나 다름없었습니다. \n"
+"\n"
+"그것은 효과가 없었습니다. 희망은 무슨. 저는 여전히 아픕니다. 정말로 많이 "
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -18577,9 +18603,10 @@ msgstr ""
 #. Icon = Item_BOOK_Wizards_Tome_Simple_C
 #. Stats = BOOK_GLO_GeneralLoreBook_TheGnomefather
 #: Public/GustavDev/RootTemplates/0adc71a0-50c3-48c8-aca7-1d49f373372d.lsx:15
+#, fuzzy
 msgctxt "h5d85ee31g5c45g4d57gb8adg111861ebf95f"
 msgid "Gnomefather"
-msgstr ""
+msgstr "노움아비"
 
 #. key = GLO_GeneralLoreBook_TheGnomefather
 #. 
@@ -18663,9 +18690,10 @@ msgstr ""
 #. Icon = Item_BOOK_Wizards_Tome_Simple_F
 #. Stats = BOOK_GLO_GeneralLoreBook_TheLadyOfLuck
 #: Public/GustavDev/RootTemplates/a95ef1f4-5bb5-4aa3-812c-9ff2ef2335b0.lsx:15
+#, fuzzy
 msgctxt "hb17568b1g76b8g4ba5ga895g1847d3632207"
 msgid "Tymora, Lady Luck"
-msgstr ""
+msgstr "행운의 여신 티모라"
 
 #. key = GLO_GeneralLoreBook_TheLadyOfLuck
 #. 
@@ -18674,6 +18702,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = GLO_GeneralLoreBook_TheLadyOfLuck
 #: Public/GustavDev/Localization/generated_books.lsx:1030
+#, fuzzy
 msgctxt "hb4cad4a1gc723g40e1g938fg8fe228815dfa"
 msgid ""
 "[A list of oaths and sayings that ought to incur Tymora's blessing, granting "
@@ -18686,6 +18715,13 @@ msgid ""
 "5. Lady of the Diamond-Glitter Dice, Mistress of Good Fortune, Sovereign of "
 "Luck, Please Have Mercy On Me, For Fuck's Sake. "
 msgstr ""
+"[티모라의 축복을 받아 행운이 깃드는 맹세와 기도의 목록입니다.]\n"
+"\n"
+"1. 미소 짓는 행운의 여신께 기도드립니다.\n"
+"2. 주사위 판의 티모라여, 그대를 청합니다.\n"
+"3. 여기에 감히 제 주사위를 굴리오니, 좋은 결과를 내려 주소서.\n"
+"4. 돌아라, 돌아라, 운명의 바퀴여!\n"
+"5. 다이아몬드보다 반짝이는 주사위의 여신이시여, 길복의 여인이자 행운의 군주시여, 제발 부탁하는데 씨발 나도 좀 살려주라. "
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -19490,9 +19526,10 @@ msgstr ""
 #. Name = BOOK_GLO_Sewers_MunicipalSanitationNotice
 #. Type = item
 #: Public/GustavDev/RootTemplates/21d4ba02-0e82-4d1e-b523-f841ac4646fb.lsx:13
+#, fuzzy
 msgctxt "h6cc1ff07g8e59g46e1g8225ga388157b1a84"
 msgid "Municipal Sanitation Notice"
-msgstr ""
+msgstr "시내 위생 관련 공지사항"
 
 #. key = GLO_Sewers_MunicipalSanitationNotice
 #. 
@@ -19501,6 +19538,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = GLO_Sewers_MunicipalSanitationNotice
 #: Public/GustavDev/Localization/generated_books.lsx:3340
+#, fuzzy
 msgctxt "h8f402c1cg27c5g4a4bg9e77g066f8c82b79f"
 msgid ""
 "The Department of Drains and Underways is aware of the issue of the "
@@ -19513,15 +19551,20 @@ msgid ""
 "address the situation yourselves. Citizens are prohibited from using the "
 "round street sewer access hatches - leave sanitation to the professionals!"
 msgstr ""
+"배수 및 하수구 부서는 거리의 도시 하수관으로 이어지는 출입구에서 발생한 미칠 듯한 악취에 대해 인지하고 있습니다. \n"
+"위생용 터널의 원활한 흐름 관리를 위해 계약한 하수구 코볼트 부족이 살해당했거나, 알 수 없는 세력 또는 상황에 의해 쫓겨난 것으로 "
+"의심되며, 이 때문에 불쾌한 악취가 발생했습니다. 현재 담당 부서는 현 상황을 개선하기 위해 적절한 방안을 실행 중이므로, 부디 직접 "
+"조치를 취하려 하지 말아 주십시오. 일반 시민이 하수도 출입구를 사용하는 것은 금지되어 있습니다. 위생은 전문가에게 맡겨 주십시오."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. Name = BOOK_GLO_Sewers_UrbanExplorationTheUndercity
 #. Type = item
 #: Public/GustavDev/RootTemplates/3fdacf17-1a27-46b8-b12a-24335e5c6ea2.lsx:13
+#, fuzzy
 msgctxt "h8d4d2a13g814eg4505gb61fgde534f0f1a7c"
 msgid "Urban Exploration - The Undercity!"
-msgstr ""
+msgstr "도시 탐험 - 지하도시 편"
 
 #. key = GLO_Sewers_UrbanExplorationTheUndercity
 #. 
@@ -19530,6 +19573,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = GLO_Sewers_UrbanExplorationTheUndercity
 #: Public/GustavDev/Localization/generated_books.lsx:3347
+#, fuzzy
 msgctxt "h51637eacgdb46g4cb3ga942g4b75d54f0a4d"
 msgid ""
 "Intrepid hobbyists who pursue the urban exploration of Baldur's Gate will "
@@ -19545,6 +19589,11 @@ msgid ""
 "exploring that dangerous region, but for liability reasons this author "
 "cannot recommend it."
 msgstr ""
+"발더스 게이트의 여러 도시를 탐험하는 용감한 이들에게 거리 아래에 존재하는 어둠의 영역보다 큰 도전은 없을 것이다. 당연히 모두가 도시의 "
+"위생은 지하 터널을 흐르는 물이 회색 항구까지 온갖 쓰레기를 흘려보내주기 때문이라는 사실을 알고 있다. 하수구 출입구 너머에는 역겹지마는 "
+"매우 흥미로운, 반쯤 문명화된 코볼트 부족이 파이프와 배수로를 관리하는 영역이 있다. 그리고 이곳의 깊숙한 어딘가에, 진정으로 저주받은 "
+"지하도시 폐허로 이어지는 잊힌 굴이 있다는 소문이 있다! 이 위험천만한 곳을 탐험한다는 생각만으로도 매우 흥분되지만, 책임 문제가 발생할 "
+"수 있으므로 본 글쓴이는 직접 추천할 수는 없다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -19631,9 +19680,10 @@ msgstr ""
 #. Name = BOOK_GLO_SharessCaress_SmutLibrary4
 #. Type = item
 #: Public/GustavDev/RootTemplates/ac8a7e52-aeeb-4cfb-a42a-a84fda32bcdb.lsx:13
+#, fuzzy
 msgctxt "hc55ab646g0194g4df8g8c60g78ecc7cc44b1"
 msgid "Born to be Wild"
-msgstr ""
+msgstr "야생으로 돌아가다"
 
 #. key = GLO_SharessCaress_SmutLibrary4
 #. 
@@ -19642,6 +19692,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = GLO_SharessCaress_SmutLibrary4
 #: Public/GustavDev/Localization/generated_books.lsx:5034
+#, fuzzy
 msgctxt "ha48407cag3462g4c6fg8218g23e09bcc3da1"
 msgid ""
 "[This unlicensed, and certainly libellous pamphlet describes its contents.]\n"
@@ -19649,6 +19700,9 @@ msgid ""
 "inaccuracies to Volo of his accounts of the mating rituals of the feywild. "
 "With very graphic demonstrations.'"
 msgstr ""
+"[이 무허가 팸플릿의 내용은 그저 의미 없는 중상모략일 뿐입니다.]\n"
+"'모두가 아는 바로 그 엘민스터가, 볼로가 제창한 페이와일드의 교미 의식의 옳지 않은 부분에 대해 설명합니다. 자세한 시각 자료와 "
+"함께요.'"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -19702,9 +19756,10 @@ msgstr ""
 #. Name = BOOK_GLO_SharessCaress_SmutLibrary7
 #. Type = item
 #: Public/GustavDev/RootTemplates/b781ff05-1ba4-4344-be0d-a19108c1f9e6.lsx:13
+#, fuzzy
 msgctxt "hb811edc8g7b84g4d9bgbf8ag351f61f4e273"
 msgid "The Hunter's Piercing Gaze"
-msgstr ""
+msgstr "사냥꾼의 꿰뚫는 듯한 시선"
 
 #. key = GLO_SharessCaress_SmutLibrary7
 #. 
@@ -19713,12 +19768,15 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = GLO_SharessCaress_SmutLibrary7
 #: Public/GustavDev/Localization/generated_books.lsx:5055
+#, fuzzy
 msgctxt "h2410664fg8146g4cd9g9f72g6c968f878ead"
 msgid ""
 "[This pamphlet is a transcript of an increasingly feral debate between two "
 "admirers on whether the colour of Drizzt Do'Urden's eye colour is "
 "aquamarine, cerulean, vermilion or amber.]"
 msgstr ""
+"[매우 야성적인 토론의 기록입니다. 드리즈트 도우르덴의 눈 색이 과연 연한 청록색인지, 짙은 청색인지, 주홍색인지, 또는 호박색인지에 "
+"대해 두 추종자들이 토론한 내용이 적혀 있습니다.]"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -19773,6 +19831,12 @@ msgid ""
 "Cordially yours,\n"
 "Volothamp Geddarm"
 msgstr ""
+"이 쪽지를 제일 먼저 보게 되는 이에게:\n"
+"유감스럽지만 내가 한시라도 빨리 처리해야할 매우 중요한 문제가 발생했네. 자네의 다양한 우여곡절들이 그 자체로 <i>중요하지 않다</"
+"i>는 건 아니지만... 어쩌겠나. 아무튼, 이 양피지에 적기엔 너무 민감한 사항이기에 발더스 게이트에서 다시 만나게 되면 충분히 "
+"설명해주겠네.\n"
+"진심을 담아, \n"
+"볼로뎀프 게담"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -19832,11 +19896,12 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = GLO_Worldbuiling_Map_World_Elturgard
 #: Public/GustavDev/Localization/generated_books.lsx:5601
+#, fuzzy
 msgctxt "haeafc6f9gf056g4e65gb0a4g384e1e0b5fef"
 msgid ""
 "[A map of Elturgard,  centering on the city of Elturel and showing the "
 "nearby towns of Triel, Scornubel, and Berdusk.]"
-msgstr ""
+msgstr "[엘투르가르드의 지도입니다. 중앙에 도시 엘투렐이 있으며 주변에는 근처 마을인 트리엘, 스코너벨, 베르더스크가 보입니다.]"
 
 #. key = GLO_Worldbuiling_Map_World_SwordCoast
 #. 
@@ -19845,11 +19910,12 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = GLO_Worldbuiling_Map_World_SwordCoast
 #: Public/GustavDev/Localization/generated_books.lsx:5587
+#, fuzzy
 msgctxt "h59174330g7ff1g4fbbg91e0g562ce2283d0d"
 msgid ""
 "[A map of the Sword Coast, from the Sea of Moving Ice down to just north of "
 "Amn, including several of the nearer archipelagoes in the Sea of Swords.]"
-msgstr ""
+msgstr "[소드 코스트의 지도입니다. 움직이는 얼음의 바다부터 앰 북쪽까지 그려졌으며, 검의 바다의 군도가 여럿 보입니다.]"
 
 #. key = GOB_GoblinPriest_HalsinNote
 #. 
@@ -33906,12 +33972,10 @@ msgid ""
 msgstr ""
 "기록 관리인에게 : 가능한 한 빨리 계약서와 보물들을 주 저장고로 옮겨라.\n"
 "\n"
-"우리는 곧 카서스의 왕관을 구하게 될 거고 특별한 것들을 전시할 생각이니, 다른 "
-"것들은 비밀 금고에 안전하게 놔두면 된다.\n"
+"우리는 곧 카서스의 왕관을 구하게 될 거고 특별한 것들을 전시할 생각이니, 다른 것들은 비밀 금고에 안전하게 놔두면 된다.\n"
 "\n"
-"보관소에는 중급 치유의 목걸이와 언덕 거인의 힘 건틀렛을 전시하고, 왕관을 "
-"위한 장소를 마련해라. 금고에 둘 아티팩트는 주문력의 지팡이면 되고 여분의 "
-"골드를 넣어둬라.\n"
+"보관소에는 중급 치유의 목걸이와 언덕 거인의 힘 건틀렛을 전시하고, 왕관을 위한 장소를 마련해라. 금고에 둘 아티팩트는 주문력의 지팡이면 "
+"되고 여분의 금을 넣어둬라.\n"
 "-R"
 
 #. key = LOW_HoH_CrownOfKarsus
@@ -38789,9 +38853,10 @@ msgstr ""
 #. Name = BOOK_LOW_SerialKiller_FigaroPreciousDelivery
 #. Type = item
 #: Public/GustavDev/RootTemplates/b309ed9a-dbf8-48d4-ad27-efcb7096c00f.lsx:13
+#, fuzzy
 msgctxt "h25c39457g9a60g4827gaaf5g0a7820d3dadf"
 msgid "Precious delivery"
-msgstr ""
+msgstr "귀중품 배달"
 
 #. key = LOW_SerialKiller_FigaroPreciousDelivery
 #. 
@@ -38800,6 +38865,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = LOW_SerialKiller_FigaroPreciousDelivery
 #: Public/GustavDev/Localization/generated_books.lsx:4600
+#, fuzzy
 msgctxt "h33cdff22gd9abg43f0gb8e5g2d917dc5ec4c"
 msgid ""
 "Dear Figaro,\n"
@@ -38807,6 +38873,9 @@ msgid ""
 "Those gems you requested have arrived. Left them in your basement for "
 "safekeeping. Looking forward to seeing what you make with them! - Omotola"
 msgstr ""
+"피가로 씨께.\n"
+"\n"
+"주문하신 보석을 배송했습니다. 지하실에 보관해 두었습니다. 뭘 만드실지 정말 기대되네요! - 오모톨라"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -46872,20 +46941,16 @@ msgid ""
 "\n"
 "16 Uktar: preparing to abandon post"
 msgstr ""
-"[1492 DR, 통행료 징수소의 올해 수입이 적혀있는 장부입니다. 여행자와 지불한 "
-"골드 목록 대부분은 깔끔하게 적혀 있지만, 최근 페이지의 글씨는 흐릿하고 "
-"산만합니다.]\n"
+"[1492 DR, 통행료 징수소의 올해 수입이 적혀있는 장부입니다. 여행자와 지불한 금화 양 목록 대부분은 깔끔하게 적혀 있지만, 최근 "
+"페이지의 글씨는 흐릿하고 산만합니다.]\n"
 "\n"
-"마르페노스 9일: 상인 네 명, 잡동사니 마차 한 대 - 25골드.\n"
+"마르페노스 9일: 상인 네 명, 잡동사니 마차 한 대 - 금화 25닢.\n"
 "\n"
-"마르페노스 12일: 플레이밍 피스트, 피스트와 건틀릿 열다섯 명 - 100골드 면제. "
-"피스트는 요금을 내지 않는다. 갈취하지.\n"
+"마르페노스 12일: 플레이밍 피스트, 피스트와 건틀릿 열다섯 명 - 금화 100닢 면제. 피스트는 요금을 내지 않는다. 갈취하지.\n"
 "\n"
-"마르페노스 21일: 양조자 한 명과 경호원 두 명, 와우킨의 쉼터에서 맥주 통 운송 "
-"- 35골드.\n"
+"마르페노스 21일: 양조자 한 명과 경호원 두 명, 와우킨의 쉼터에서 맥주 통 운송 - 금화 35닢.\n"
 "\n"
-"욱타르 2일: 농부 일곱 명, 상품과 골드 없음. 상처 입음. 우리에게 떠나라 "
-"경고함.\n"
+"욱타르 2일: 농부 일곱 명, 상품과 금화 없음. 상처 입음. 우리에게 떠나라 경고함.\n"
 "\n"
 "욱타르 3일: 급사가 추가 경호원이나 구호를 요청\n"
 "\n"
@@ -47109,6 +47174,8 @@ msgid ""
 "elevator leading from the wilds outside a town called Reithwin to the "
 "Underdark.]"
 msgstr ""
+"[누래진 이 책의 안에는 여러 건축 설계도가 그려져 있습니다. 그 중 하나는, 라이스윈 마을 외곽의 미개척지로부터 언더다크로 이어지는 "
+"승강기에 대해 보여주고 있습니다.]"
 
 #. key = SCL_ForgottenHunter_Diary
 #. 
@@ -53947,7 +54014,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/4a102c0a-734e-4854-a7fb-15b2384b0e8d.lsx:13
 msgctxt "hce03a71cg5eacg4c66ga524g4466e13434c3"
 msgid "Repair Log"
-msgstr ""
+msgstr "수리 기록"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -56281,11 +56348,9 @@ msgid ""
 "simpler, really. If it's still here this time tomorrow, we'll stuff you with "
 "it. As you well know, we've plenty to spare. "
 msgstr ""
-"아르퍼, 소포가 펠로지네에서 아직도 네가 가져가길 기다리는 중이야. 이번엔 "
-"늦지 않는 게 좋을걸. 아니면 네가 네 주장대로 정말 이 일에 진심인 건지 "
-"의심하기 시작할 수밖에. 그냥 가져다가 곰 인형에 집어넣고 기부하면 되는 거야. "
-"진짜 이보다 간단할 수가 없잖아. 내일 이 시간까지 가져가지 않으면 곰 인형 "
-"대신 너한테 쑤셔박아버릴 거야. 잘 알다시피 우리에겐 여유분이 많거든. "
+"알퍼, 소포가 펠로지네에서 아직도 네가 가져가길 기다리는 중이야. 이번엔 늦지 않는 게 좋을걸. 아니면 네가 네 주장대로 정말 이 일에 "
+"진심인 건지 의심하기 시작할 수밖에. 그냥 가져다가 곰 인형에 집어넣고 기부하면 되는 거야. 진짜 이보다 간단할 수가 없잖아. 내일 이 "
+"시간까지 가져가지 않으면 곰 인형 대신 너한테 쑤셔박아버릴 거야. 잘 알다시피 우리에겐 여유분이 많거든. "
 
 #. key = WYR_MerchantsHouse_DraftLetter
 #. 
@@ -59128,12 +59193,15 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = WYR_Wyrmway_FailedHeroesOfBaldursGate01
 #: Public/GustavDev/Localization/generated_books.lsx:4537
+#, fuzzy
 msgctxt "h4be73f37g4cbag48c1ga2e5g4dbd7681143a"
 msgid ""
 "The Wyrm's lair. Incredible. The legends were true - and we've marked our "
 "place among them. We'll prove our worth with unrusted swords and meet the "
 "dragon - the good dragon, or so we pray. Gods bless our endeavour."
 msgstr ""
+"고룡 둥지를 찾아냈다. 전설이 사실이었어. 이젠 우리도 그 중 하나다. 우리는 우리의 빛나는 검으로 우리의 가치를 증명하고, 고룡을 만날 "
+"것이다. 신이시여, 이 용이 착한 용이기를. 신이시여, 우리의 모험을 지켜주소서."
 
 #. key = WYR_Wyrmway_FailedHeroesOfBaldursGate02
 #. 
@@ -59142,12 +59210,14 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = WYR_Wyrmway_FailedHeroesOfBaldursGate02
 #: Public/GustavDev/Localization/generated_books.lsx:4544
+#, fuzzy
 msgctxt "hce45d3a0g176fg44f0g914eg0996cc92c332"
 msgid ""
 "I hadn't expected puzzles. Is the great Wyrm really hidden behind tests of "
 "this kind? I'd expected feats of strength, yes, but nothing like this - like "
 "it was designed for sport."
 msgstr ""
+"이런 퍼즐은 예상치 못했다. 그 위대한 고룡께서 이런 장난질 뒤에 숨어있다고? 힘을 시험할 줄 알았건만, 이건... 무슨 놀이같잖아."
 
 #. key = WYR_Wyrmway_FailedHeroesOfBaldursGate03
 #. 
@@ -59156,11 +59226,12 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = WYR_Wyrmway_FailedHeroesOfBaldursGate03
 #: Public/GustavDev/Localization/generated_books.lsx:4551
+#, fuzzy
 msgctxt "h46284076g019eg46dagb60cg6090e66b3c74"
 msgid ""
 "Vedor and Umglir are gone. Our hubris is evident. Elementals took us by "
 "surprise. There are still three of us - for now."
-msgstr ""
+msgstr "베도르와 움그리어가 죽었다. 우리는 오만했다. 정령들의 기습에 당했다. 세 명이 남았다. 아직까지는."
 
 #. key = WYR_Wyrmway_FailedHeroesOfBaldursGate04
 #. 
@@ -59169,12 +59240,15 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = WYR_Wyrmway_FailedHeroesOfBaldursGate04
 #: Public/GustavDev/Localization/generated_books.lsx:4558
+#, fuzzy
 msgctxt "h49ea65c3g6ed4g45e6g9f14gbe8d1abb6b11"
 msgid ""
 "A lanceboard trial... a bloody lanceboard trial! And the ground shakes, "
 "crystals fall - and I can hear the rustling of metal against rust. If this "
 "is the end, let this be my record. Then we must run."
 msgstr ""
+"체스... 그 놈의 체스! 땅이 흔들리고 수정이 떨어진다. 녹에 쇠를 대고 긁는 듯한 소리가 들려온다. 이걸로 진정 끝이라면, 이게 내 "
+"마지막 기록이 될 것이다. 가야 한다."
 
 #. key = WYR_Wyrmway_FailedHeroesOfBaldursGate05
 #. 
@@ -59183,11 +59257,12 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = WYR_Wyrmway_FailedHeroesOfBaldursGate05
 #: Public/GustavDev/Localization/generated_books.lsx:4565
+#, fuzzy
 msgctxt "he2a4c498g2624g4836g930fg9dd59f8836bf"
 msgid ""
 "They're all dead. We were refused. I feel it calling; <i>in death I shall "
 "prove worthy of protecting this City.</i>"
-msgstr ""
+msgstr "모두 죽었다. 우린 거절 당했다. 부름이 들려온다. <i>죽어서도 난 이 도시를 지킬 자격을 증명할 것이다.</i>"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName

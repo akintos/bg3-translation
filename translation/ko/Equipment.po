@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:30+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-29 23:02+0000\n"
+"Last-Translator: 지나가던시체 <passerbycorpse@gmail.com>\n"
+"Language-Team: Korean <http://waldo.team/projects/bg3/equipment/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -866,19 +868,13 @@ msgstr "게일의 검소한 복장"
 #. Icon = Generated_ARM_Camp_Body_Gale
 #. Stats = ARM_Camp_Body_Gale
 #: Public/Shared/RootTemplates/c56bbf29-2315-415e-a488-fada851828ea.lsx:18
-#, fuzzy
-#| msgid ""
-#| "Somehow Gale has managed to make his clothes smell like a library - perhaps "
-#| "through thaumaturgy, or through a passion to books most people reserve for "
-#| "sexual partners."
 msgctxt "h91cc5758g7aafg4896gaad5gf5ac90619800"
 msgid ""
 "Somehow Gale has managed to make his clothes smell like a library. To inhale "
 "their aroma is to feel a sudden urge to speak more quietly. Or pay a fine."
 msgstr ""
-"게일은 어찌어찌 옷에서 도서관 냄새가 나도록 만들었습니다. 어쩌면 마법을 "
-"통해서거나, 혹은 보통 사람이라면 섹스 파트너에게 보일만 한 정열을 책들에 "
-"쏟은 결과일 겁니다."
+"어떻게 한 건지는 몰라도, 게일의 옷에서는 도서관 냄새가 납니다. 이 향을 맡으면 조용히 말하거나, 벌금을 내야 할 것 같은 기분이 "
+"듭니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -2629,7 +2625,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/ba0fbaf7-324f-4f79-a124-66ba185faef9.lsx:15
 msgctxt "ha8169bcegabdcg4811gb25fgd0b6f6bfa290"
 msgid "Casual Sandals"
-msgstr "캐주얼 샌들"
+msgstr "간편한 샌들"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -16349,9 +16345,10 @@ msgstr "독살자의 반지"
 #. Stats = MAG_Poison_PoisonLethality_Ring
 #. Type = item
 #: Public/GustavDev/RootTemplates/c4f364cc-daa1-4783-a474-b7ff394d2157.lsx:8
+#, fuzzy
 msgctxt "h99b6f704g6664g486fg86d3g8574264e28d9"
 msgid "Strange, green fumes seep from the ring's emerald."
-msgstr ""
+msgstr "수상한 녹색 연기가 반지의 에메랄드에서 스멀스멀 새어 나옵니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -16394,12 +16391,15 @@ msgstr "던지기용 신발"
 #. Icon = Generated_MAG_Projectile_Shoes_Magic
 #. Stats = MAG_Projectile_Shoes
 #: Public/GustavDev/RootTemplates/9b94fd74-bcee-4d30-8862-0a18ae65541b.lsx:16
+#, fuzzy
 msgctxt "hbcea31a9g177cg4c40gb678g25209f05d75a"
 msgid ""
 "These shoes were formerly enchanted to return to their owner's feet. This "
 "caused a great deal of trouble for owners, who, while wearing a slipper or a "
 "nice heeled number, kept being kicked in the ankles by jealous footwear."
 msgstr ""
+"이 신발은 주인의 발로 돌아오도록 제작되었습니다. 이는 소유주가 슬리퍼나 값비싼 구두를 신고 있으면 질투 난 신발에 발목을 까여 큰 "
+"문제가 되었습니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -16565,12 +16565,15 @@ msgstr "신성한 별"
 #. Type = item
 #. Stats = MAG_RadiantLight_Morningstar
 #: Public/GustavDev/RootTemplates/5637bf93-ebd4-4170-a251-d77d9687c58a.lsx:16
+#, fuzzy
 msgctxt "hab2527bcge4cdg46fcg98e3g1ce37c87c5de"
 msgid ""
 "The power of this item lies in belief, though not in any god. This item "
 "believes that it's very good at hitting things, so it is. Belief is quite "
 "powerful when it comes to violence."
 msgstr ""
+"이 물건의 힘은 어느 신이 아닌, 믿음 그 자체에서 비롯됐습니다. 이 철퇴는 스스로가 무언가를 때리는 데 매우 재능이 있다고 믿었고, 그 "
+"말대로 입니다. 폭력에 있어서 믿음이란 매우 강력합니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -21796,9 +21799,10 @@ msgstr "녹슨 그레이트액스"
 #. Icon = Item_WPN_HUM_Greataxe_A_0_Rusty_A
 #. Stats = WPN_Greataxe_Rusty
 #: Public/Shared/RootTemplates/a8f37e10-8590-4a65-85d1-29bf8ef5bd64.lsx:17
+#, fuzzy
 msgctxt "h39de8e09gdf41g4eb0gbc0eg9a0602146724"
 msgid "The beard of this axe is ginger with rust, and therefore soulless. "
-msgstr ""
+msgstr "이 도끼는 너무 녹슬어 붉어졌으므로, 영혼이 없습니다. "
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -23703,7 +23707,7 @@ msgctxt "h933e3f5bg67deg4f64g8d1dgd6a4600534c7"
 msgid ""
 "Truly the amount of rust accumulated on this pike is a lesson in how not to "
 "keep your weapons. "
-msgstr ""
+msgstr "이 파이크에 쌓인 녹의 양은 무기 손질하는 방법의 정확한 반례를 보여줍니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -24908,7 +24912,7 @@ msgstr "작은 마법의 지팡이"
 #: Public/SharedDev/RootTemplates/9515172b-511a-44dc-bf97-8b63bca4ea10.lsx:10
 msgctxt "h407f3ec2g6187g4543gbea2gdd5cf0321d93"
 msgid "Staff"
-msgstr ""
+msgstr "지팡이"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -24965,9 +24969,10 @@ msgstr "태양 철퇴"
 #. Name = WPN_HUM_Sun_Mace_A_Glow
 #. Type = item
 #: Public/Shared/RootTemplates/78837dd4-b4fb-4c9d-937d-d3ef56b4d9c9.lsx:8
+#, fuzzy
 msgctxt "h06517387gdec0g459fgb046g190aecdf7100"
 msgid "Dawngrip Mace"
-msgstr ""
+msgstr "여명쥠 철퇴"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -25969,9 +25974,10 @@ msgstr "끈적끈적한 밧줄 같은 해조류가 이 커다란 조개를 감�
 #. Name = WPN_Kuotoa_Shield_A_1
 #. Type = item
 #: Public/GustavDev/RootTemplates/917d76c0-1969-4cd5-b5fe-7bf406081283.lsx:13
+#, fuzzy
 msgctxt "h8a0a2d33g8c33g4dffga9efgd537144db9a6"
 msgid "Kuo-Toa Shield"
-msgstr ""
+msgstr "쿠오토아 방패"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName

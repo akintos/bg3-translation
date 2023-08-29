@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:30+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-29 23:01+0000\n"
+"Last-Translator: Milesand <me@dicemice.me>\n"
+"Language-Team: Korean <http://waldo.team/projects/bg3/tags/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. UUID = 04ae77c4-f708-4ffa-8c8b-3b762a066e2e
 #. 
@@ -1237,7 +1239,7 @@ msgstr "ALLOW_PICKPOCKET_FOR_SUBRACE"
 #: Public/GustavDev/Tags/8112eae1-d98d-4d47-a6b6-88589aefb455.lsx:8
 msgctxt "h0128ccfdg3bc9g495fgb028gc54fa473b2bf"
 msgid "Priority Target for Kuo-Toa"
-msgstr ""
+msgstr "쿠오토아의 최우선 목표"
 
 #. UUID = 835818c1-8cf2-4d0a-cc85-2268b2f2cf7b
 #. 
@@ -1292,9 +1294,10 @@ msgstr "고스트"
 #. Description = A tag to apply to Rolan so he is targets by the Shadows in the Rolan Rescue fight.
 #. Name = ROLAN_TARGET
 #: Public/GustavDev/Tags/8c7bdccd-132c-496a-a34f-75c39e721214.lsx:8
+#, fuzzy
 msgctxt "h59103353g5735g4396g8a2ag3fee6469f7cd"
 msgid "Rolan Target"
-msgstr ""
+msgstr "롤란의 목표"
 
 #. UUID = 8d2d234e-a25a-4a92-a1b1-5edfb090bd8e
 #. 
@@ -1305,7 +1308,7 @@ msgstr ""
 #: Public/GustavDev/Tags/8d2d234e-a25a-4a92-b1a1-df5e90b08ebd.lsx:8
 msgctxt "h69cfc726gb978g4fcdg9061g7ca3d65cf527"
 msgid "Character who took Viconia's test"
-msgstr ""
+msgstr "비코니아의 시험을 받은 캐릭터"
 
 #. UUID = 8eca8027-996c-4c61-c6be-f877de535b29
 #. 
@@ -1313,9 +1316,10 @@ msgstr ""
 #. HandlePath = DisplayName
 #. Name = SHADOWHEART_ENEMYOFSHARPATH
 #: Public/GustavDev/Tags/8eca8027-996c-4c61-bec6-77f853de295b.lsx:8
+#, fuzzy
 msgctxt "h79a94facg6c5dg4ef5g866bg4201ef11b2b5"
 msgid "Enemy of Shar"
-msgstr ""
+msgstr "샤를 적대하는 자"
 
 #. UUID = 905c6c3b-22b3-4fa0-dfa8-a7c05b0997d8
 #. 
@@ -1325,7 +1329,7 @@ msgstr ""
 #: Public/GustavDev/Tags/905c6c3b-22b3-4fa0-a8df-c0a7095bd897.lsx:8
 msgctxt "h2ee913f1g3d1eg4a1cgb289gc5aaba6d92e5"
 msgid "LOW_IronThrone_PrisonersSwarmEscapeTarget_Hatch"
-msgstr ""
+msgstr "LOW_IronThrone_PrisonersSwarmEscapeTarget_Hatch"
 
 #. UUID = 935acd43-8ff3-46b0-fab8-64f25d23c939
 #. 
@@ -1346,7 +1350,7 @@ msgstr ""
 #: Public/GustavDev/Tags/9624a3fe-bb9e-47c5-b9ab-417e6da6f84b.lsx:8
 msgctxt "ha38caa6egb87dg476eg8356gc550ad38532e"
 msgid "Chosen of Shar"
-msgstr ""
+msgstr "샤에게 선택받은 자"
 
 #. UUID = 9b15de08-d0aa-439f-adbc-a6e71520a705
 #. 
@@ -1355,9 +1359,10 @@ msgstr ""
 #. Name = ACT3_LOW_HOUSEOFGRIEF_HEART_JEALOUS
 #. Description = A tag that is applied to Viconia when the player recieves the heartform of Jealous Heart.
 #: Public/GustavDev/Tags/9b15de08-d0aa-439f-bcad-e7a6201505a7.lsx:8
+#, fuzzy
 msgctxt "h954bd30cg5a72g448ega4e5g490e357a47a9"
 msgid "Viconia: Jealous Heart"
-msgstr ""
+msgstr "비코니아: 질투의 마음"
 
 #. UUID = 9b8709f9-8d2a-4b4e-65a4-058561c5f5d7
 #. 
@@ -1378,7 +1383,7 @@ msgstr "할신"
 #: Public/GustavDev/Tags/a7f4b2a4-97d2-41f8-9fe9-39160750d1e1.lsx:8
 msgctxt "hdcca0371g5448g48e4g82f5g1c3feb709b71"
 msgid "LOW_IronThrone_PrisonersSwarmEscapeTarget_InnerDoor"
-msgstr ""
+msgstr "LOW_IronThrone_PrisonersSwarmEscapeTarget_InnerDoor"
 
 #. UUID = aa374556-6257-4326-9f82-967ae667b4fc
 #. 
@@ -1389,7 +1394,7 @@ msgstr ""
 #: Public/GustavDev/Tags/aa374556-6257-4326-829f-7a9667e6fcb4.lsx:8
 msgctxt "h28f942fag5ccag4d40g9e84g1dab2db4f7a2"
 msgid "Minotaurs"
-msgstr ""
+msgstr "미노타우로스"
 
 #. UUID = ade20608-45b9-449f-f4ae-a33f16421bcd
 #. 
@@ -1440,7 +1445,7 @@ msgstr "할신"
 #: Public/GustavDev/Tags/b47643e0-583c-4808-b108-f6d3b605b0a9.lsx:8
 msgctxt "h9adea515g636cg411bgb2d2gcad8bc501bf7"
 msgid "Immune to the Shadow Curse"
-msgstr ""
+msgstr "그림자 저주 면역"
 
 #. UUID = bb83e4b4-d819-4252-3aa5-16264c20a676
 #. 
@@ -1561,7 +1566,7 @@ msgstr ""
 #: Public/GustavDev/Tags/ece30580-7788-4488-955d-7ee0a32322ed.lsx:8
 msgctxt "h2bbadc8cgefd8g41cfg9417ga1fadf59bf15"
 msgid "Gortash"
-msgstr ""
+msgstr "고타쉬"
 
 #. UUID = f16ff923-66b8-46d2-db80-10951286eebb
 #. 
@@ -4654,7 +4659,7 @@ msgstr ""
 #: Public/Shared/Tags/5ce73ec6-be80-4853-ad3c-12149d71e07e.lsx:8
 msgctxt "h2e52ac7dg2619g4f6dgb3c0g4ec3a4e83b09"
 msgid "Cleric of Mielikki"
-msgstr ""
+msgstr "미엘리키의 클레릭"
 
 #. UUID = 5ce73ec6-be80-4853-3cad-1412719d7ee0
 #. 
@@ -4756,7 +4761,7 @@ msgstr "WOLF tooltip"
 #: Public/Shared/Tags/5ffb703c-3ef4-493b-966d-749bc038f6bd.lsx:8
 msgctxt "h498dc1feg0914g4b0cg9353g1edf2814dea2"
 msgid "Wood Half-Elf"
-msgstr "우드 하프엘프"
+msgstr "우드 하프 엘프"
 
 #. UUID = 5ffb703c-3ef4-493b-6d96-9b7438c0bdf6
 #. 
@@ -4870,7 +4875,7 @@ msgstr ""
 #: Public/Shared/Tags/648a06ce-8eb0-4905-b4b8-6724df91a5f5.lsx:8
 msgctxt "h99425dfeg8884g4b9fg8df1g592f9898da80"
 msgid "Experimental Alchemy"
-msgstr ""
+msgstr "실험적 연금술"
 
 #. UUID = 64bc9da1-9262-475a-97a3-7615b700bdde
 #. 
@@ -5346,7 +5351,7 @@ msgstr "COMBAT_PACKTACTICS tooltip"
 #: Public/Shared/Tags/6e31b516-92fc-4526-b1cd-92516e02cf86.lsx:8
 msgctxt "h6f2ed899g25deg45e0gbfa1gdbd0b30d50cc"
 msgid "Cleric of Lathander"
-msgstr ""
+msgstr "라샌더의 클레릭"
 
 #. UUID = 6e31b516-92fc-4526-cdb1-5192026e86cf
 #. 
@@ -7917,9 +7922,8 @@ msgid ""
 "Discovering rare components for wondrous crafts will provide the perfect "
 "muse."
 msgstr ""
-"당신의 특별한 기술이 상인 길드의 자리를 얻게 해 주었으며, 길드에서 특권과 "
-"보호를 받으며 공예를 펼칠 수 있었습니다. 멋진 공예품을 만들기 위한 희귀한 "
-"재료를 발견하면 완벽한 영감을 얻을 것입니다."
+"당신은 특수한 공예 기술로 상인 길드에서 자리를 얻었으며, 특권과 보호를 누리며 자신의 재주를 펼쳤습니다. 경이로운 공예품을 만들어 낼 "
+"희귀 재료를 발견하면 완벽한 영감을 얻을 것입니다."
 
 #. UUID = bb7c731c-7af7-4c2d-d7b3-e8b486bd44a2
 #. 
@@ -8119,7 +8123,7 @@ msgstr "오소리"
 #: Public/Shared/Tags/c0b03fe2-6495-4340-a0c8-ed6ccf206bcc.lsx:8
 msgctxt "h38ecfdeeg3e86g45ecg8608ge26be06acf6a"
 msgid "Tymora"
-msgstr ""
+msgstr "티모라"
 
 #. UUID = c1ff8a7f-c430-4671-4ebc-8f094a8702e3
 #. 
@@ -8872,7 +8876,7 @@ msgstr ""
 #: Public/Shared/Tags/da25a7cc-066d-43dc-8f1e-74c17cd0d589.lsx:8
 msgctxt "hc9cbfccdg24e3g4416g80feg9e2831319847"
 msgid "Cleric of Talos"
-msgstr ""
+msgstr "탈로스의 클레릭"
 
 #. UUID = da25a7cc-066d-43dc-1e8f-c174d07c89d5
 #. 
@@ -9320,7 +9324,7 @@ msgstr "아크데빌 메피스토펠레스의 후손인 이 티플링들은 비�
 #: Public/Shared/Tags/edc085f7-63f8-4bb0-b60c-b68c92b67708.lsx:8
 msgctxt "hac9b42b6g0fafg4053g850bgdd3d4e0b2268"
 msgid "Cleric of Tymora"
-msgstr ""
+msgstr "티모라의 클레릭"
 
 #. UUID = edc085f7-63f8-4bb0-0cb6-8cb6b6920877
 #. 
@@ -9930,7 +9934,7 @@ msgstr ""
 #: Public/SharedDev/Tags/28b5d96a-bbfb-433f-9cd4-bdff98eae252.lsx:8
 msgctxt "hb89ddff2ga0a9g4a9fgadc2gf7e6db76dc81"
 msgid "Paladin of Bahamut"
-msgstr ""
+msgstr "바하무트의 팔라딘"
 
 #. UUID = 28b5d96a-bbfb-433f-d49c-ffbdea9852e2
 #. 
@@ -9952,7 +9956,7 @@ msgstr ""
 #: Public/SharedDev/Tags/28ee4ac1-86a3-490e-ab02-7085bd7c56d6.lsx:8
 msgctxt "h8d7cf36eg3db9g4885gbabeg75d12b6951dd"
 msgid "Cleric of Bahamut"
-msgstr ""
+msgstr "바하무트의 클레릭"
 
 #. UUID = 28ee4ac1-86a3-490e-02ab-85707cbdd656
 #. 
@@ -9996,7 +10000,7 @@ msgstr ""
 #: Public/SharedDev/Tags/328683c2-8785-4b71-b128-7cec90df0abe.lsx:8
 msgctxt "h3740ddb4gbbf6g4c93gbfc2g6767326d1e3b"
 msgid "Tiamat"
-msgstr ""
+msgstr "티아마트"
 
 #. UUID = 3311a9a9-cdbc-4b05-f69b-2be0fca1a372
 #. 
@@ -10123,7 +10127,7 @@ msgstr ""
 #: Public/SharedDev/Tags/4cd1c7f7-7a8c-421a-87dc-687c4eefd683.lsx:8
 msgctxt "he2163839gec02g49dfg867dge95799dac6fe"
 msgid "Cleric of Tiamat"
-msgstr ""
+msgstr "티아마트의 클레릭"
 
 #. UUID = 4cd1c7f7-7a8c-421a-dc87-7c68ef4e83d6
 #. 
@@ -10167,7 +10171,7 @@ msgstr ""
 #: Public/SharedDev/Tags/5cc0a323-50e0-4775-92af-76a719f53147.lsx:8
 msgctxt "h8c307790g6355g4ecfgb456gaacb3fbad3d5"
 msgid "Paladin of Talos"
-msgstr ""
+msgstr "탈로스의 팔라딘"
 
 #. UUID = 5cc0a323-50e0-4775-af92-a776f5194731
 #. 
@@ -10200,7 +10204,7 @@ msgstr ""
 #: Public/SharedDev/Tags/70be60f2-016d-40e5-b944-81b8868c3af9.lsx:8
 msgctxt "h517064e5gf5acg417ega6d1gaa6e0a400437"
 msgid "Paladin of Tiamat"
-msgstr ""
+msgstr "티아마트의 팔라딘"
 
 #. UUID = 70be60f2-016d-40e5-44b9-b8818c86f93a
 #. 
@@ -10426,7 +10430,7 @@ msgstr ""
 #: Public/SharedDev/Tags/aecc62c1-99ce-4ff7-952c-8ddc6afe7a30.lsx:8
 msgctxt "h6ae5390cgdc22g4a19g974bge7b9549dc6d6"
 msgid "Paladin of Tymora"
-msgstr ""
+msgstr "티모라의 팔라딘"
 
 #. UUID = aecc62c1-99ce-4ff7-2c95-dc8dfe6a307a
 #. 
@@ -10555,9 +10559,10 @@ msgstr "그루무쉬의 클레릭"
 #. Description = Player or NPC is cleric of Gruumsh.
 #. Name = CLERIC_GRUUMSH
 #: Public/SharedDev/Tags/c3743bdd-3653-47fb-8a5c-d8489d7a1be0.lsx:7
+#, fuzzy
 msgctxt "h67deb80cg18bfg46fagb59ag52760ebcfc68"
 msgid "Olov, Cleric of Gruumsh, God of Conquest"
-msgstr ""
+msgstr "올로브, 그루무쉬의 클레릭, 정복의 신"
 
 #. UUID = c622d782-f676-444a-31bb-5796f1b05b41
 #. 
@@ -10590,7 +10595,7 @@ msgstr ""
 #: Public/SharedDev/Tags/cc528ff5-911c-467c-ac9f-7a1e94b97d25.lsx:8
 msgctxt "h2da694b6gdb23g4bcdgb649g6c0c3aee79a9"
 msgid "Paladin of Lathander"
-msgstr ""
+msgstr "라샌더의 팔라딘"
 
 #. UUID = cc528ff5-911c-467c-9fac-1e7ab994257d
 #. 
@@ -10722,7 +10727,7 @@ msgstr ""
 #: Public/SharedDev/Tags/f18e3f3c-c227-4d11-8764-51c7fed44419.lsx:8
 msgctxt "hcc7b4e61gf950g4928g84a6g56245324167d"
 msgid "Paladin of Mielikki"
-msgstr ""
+msgstr "미엘리키의 팔라딘"
 
 #. UUID = f18e3f3c-c227-4d11-6487-c751d4fe1944
 #. 
@@ -10788,4 +10793,4 @@ msgstr ""
 #: Public/SharedDev/Tags/fdccfc34-47e9-45ff-8755-511f91cb0e97.lsx:8
 msgctxt "h28fb3483g6e5bg4c27g832cg73fec4890f1c"
 msgid "Bahamut"
-msgstr ""
+msgstr "바하무트"

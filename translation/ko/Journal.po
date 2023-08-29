@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:30+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-29 23:01+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"Language-Team: Korean <http://waldo.team/projects/bg3/journal/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -1154,8 +1156,7 @@ msgctxt "hd0c25f49g6d5dg4106g94d6g3724bb63d2fa"
 msgid ""
 "We recruited a half-elf named Shadowheart. She was also aboard the nautiloid "
 "- and infected with a parasite."
-msgstr "섀도하트라는 이름의 하프엘프를 영입했다. 그녀도 노틸로이드에 타서 기생충에 "
-"감염되었다."
+msgstr "섀도하트라는 하프 엘프를 영입했다. 그녀도 노틸로이드에 타고 있었으며, 기생충에 감염되었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -1174,14 +1175,12 @@ msgstr "섀도하트와 계속 여행하자."
 #. ID = Recruited_Den
 #. Objective = ORI_COM_Shadowheart_Travel
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:1357
-#, fuzzy
 msgctxt "h69eb2884g4ebdg454egb814g98aae0faefb9"
 msgid ""
 "A half-elf named Shadowheart has joined the party. She was also infected "
 "aboard the nautiloid and was playing with a strange object when we met her."
 msgstr ""
-"섀도하트라는 하프엘프가 우리 파티에 들어왔다. 그녀도 노틸로이드에 타서 "
-"감염되었고, 만났을 때 이상한 물건을 가지고 놀고 있었다."
+"섀도하트라는 하프 엘프가 우리 일행이 되었다. 그녀도 노틸로이드에서 기생충에 감염되었고, 만났을 때는 이상한 물건을 가지고 놀고 있었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -1194,8 +1193,7 @@ msgctxt "h823a10ccgc5a3g457bgb96aga804c5c6227d"
 msgid ""
 "A maddened half-elf named Shadowheart arrived at our camp looking for us. We "
 "were able to calm her down and invited her to stay in our camp."
-msgstr "섀도하트라는 하프엘프가 잔뜩 화나서는 캠프로 우리를 찾아왔다. 진정시키고 난 "
-"후 우리 캠프에 머무르게 했다."
+msgstr "섀도하트라는 하프 엘프가 잔뜩 화가 난 채 야영지로 우리를 찾아왔다. 진정시키고 난 후 우리 캠프에 머무르게 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -1204,13 +1202,11 @@ msgstr "섀도하트라는 하프엘프가 잔뜩 화나서는 캠프로 우리�
 #. ID = Recruited_Githyanki
 #. Objective = ORI_COM_Shadowheart_Travel
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:1399
-#, fuzzy
 msgctxt "h7a01867cg0bcbg4a18g9712g1615f1546abc"
 msgid ""
 "We recruited a half-elf named Shadowheart. She was also infected aboard the "
 "nautiloid. For some reason, she doesn't seem to trust githyanki."
-msgstr "섀도하트라는 하프엘프를 영입했다. 그녀도 노틸로이드에 타서 감염됐다. 이유는 "
-"몰라도 기스양키를 믿지 않는 듯하다."
+msgstr "섀도하트라는 하프 엘프를 영입했다. 그녀도 노틸로이드에서 기생충에 감염되었다. 이유는 몰라도 기스양키를 믿지 않는 듯하다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -1219,13 +1215,11 @@ msgstr "섀도하트라는 하프엘프를 영입했다. 그녀도 노틸로이�
 #. ID = Recruited_Laezel
 #. Objective = ORI_COM_Shadowheart_Travel
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:1420
-#, fuzzy
 msgctxt "h1b5c0aeag757ag4151g990agdc9e33d53609"
 msgid ""
 "We recruited a half-elf named Shadowheart. She was also infected aboard the "
 "nautiloid. For some reason, she doesn't seem to trust Lae'zel."
-msgstr "섀도하트라는 하프엘프를 영입했다. 그녀도 노틸로이드에 타서 감염됐다. 이유는 "
-"몰라도 레이젤을 믿지 않는 것 같다."
+msgstr "섀도하트라는 하프 엘프를 영입했다. 그녀도 노틸로이드에서 기생충에 감염되었다. 이유는 몰라도 레이젤을 믿지 않는 것 같다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -1425,13 +1419,11 @@ msgstr ""
 #. ID = Recruited_Reanimated
 #. Objective = ORI_COM_Shadowheart_Travel
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:1735
-#, fuzzy
 msgctxt "h62fe10d2g433bg4fe0g81a7g4c7776362fb0"
 msgid ""
 "We recruited Shadowheart, a half-elf and fellow nautiloid escapee. She "
 "perished in the crash, however, so we resurrected her."
-msgstr "노틸로이드에서 함께 탈출한 하프엘프, 섀도하트를 영입했다. 그녀가 그때의 "
-"충돌로 죽어서 되살렸다."
+msgstr "노틸로이드에서 함께 탈출한 하프 엘프, 섀도하트를 영입했다. 추락으로 사망한 상태여서, 되살렸다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -2862,7 +2854,7 @@ msgctxt "hdbef1cc6g3d7dg43b3g8142gaf27b8bafcf5"
 msgid ""
 "We reached the temple that is rumoured to contain the Nightsong. We should "
 "search for it."
-msgstr ""
+msgstr "나이트송이 있다는 소문이 도는 신전에 도착했다. 우리는 그걸 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -2872,7 +2864,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11446
 msgctxt "h5fc9d634g62c8g4981g927cg39bc5aa6db9f"
 msgid "Search the temple."
-msgstr ""
+msgstr "신전을 찾아라."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -7662,7 +7654,7 @@ msgctxt "h1bc56a01g5cd9g4dafg85fege345507e756b"
 msgid ""
 "Ch'r'ai W'wargaz demanded that we hand over the artefact, and attacked us "
 "when we refused. We must defeat him."
-msgstr ""
+msgstr "츠라이 와르가즈가 우리에게 아티팩트를 넘기기를 요구했고, 거부하자 공격해왔다. 이 자를 쓰러뜨려야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -7672,7 +7664,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:7938
 msgctxt "h0207107eg9a3fg4ab5gbcc2g2ccd3da80589"
 msgid "Defeat Ch'r'ai W'wargaz."
-msgstr ""
+msgstr "츠라이 와르가즈를 무찌르자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7682,7 +7674,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:9345
 msgctxt "h3d4c6465g569dg47dcgb998g17015da8be26"
 msgid "We attacked Ch'r'ai W'wargaz. We must defeat him."
-msgstr ""
+msgstr "우리는 츠라이 와르가즈를 공격했다. 이 자를 쓰러뜨려야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7694,7 +7686,7 @@ msgctxt "hbd26fb9cgf5c4g498eg83bcgbcf26ce08a34"
 msgid ""
 "Ch'r'ai W'wargaz is defeated. We should examine his chamber for more "
 "information about the artefact that we carry."
-msgstr ""
+msgstr "츠라이 와르가즈를 쓰러뜨렸다. 이 자의 집무실을 살펴보고, 우리가 가진 아티팩트에 대한 정보를 더 얻어봐야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -7979,7 +7971,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8052
 msgctxt "ha6c04ff3gb082g4d76g8070g844fbdf6dd8f"
 msgid "Give Lae'zel time to think."
-msgstr ""
+msgstr "레이젤에게 생각할 시간을 주자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7991,7 +7983,7 @@ msgctxt "hd4f88a66ga7c8g44b9gba3cg14ffcbb96850"
 msgid ""
 "With the Githyanki Crèche destroyed, we must turn our attentions to "
 "defeating the cult of the Absolute."
-msgstr ""
+msgstr "기스양키 크레셰가 파괴되었으니, 이제 절대자 교단을 무찌르는 데 집중해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8001,7 +7993,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8058
 msgctxt "hf7b74857g8164g4ab7gb81bga6d0bdf26444"
 msgid "Continue to fight the threat of the Absolute."
-msgstr ""
+msgstr "절대자의 위협에 맞서 계속 싸워나가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8013,7 +8005,7 @@ msgctxt "hf8518766g384ag4446g8e6dgf624fdc931b5"
 msgid ""
 "We will no longer be able to reach the Githyanki Crèche. We should talk to "
 "Lae'zel about what comes next."
-msgstr ""
+msgstr "이제 기스양키 크레셰로 갈 수 없게 되었다. 앞으로 어떻게 할지 레이젤과 얘기해보도록 하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -16496,7 +16488,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/3985f271-b90a-4e88-8967-35093a81b575.lsx:8
 msgctxt "h9ba1d48cga19dg4fe7gae5cg3b8d1ee2ffb8"
 msgid "Zariel's Asset"
-msgstr ""
+msgstr "자리엘의 중요한 인물"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -24868,6 +24860,8 @@ msgid ""
 "her staff. The Captain has asked us to kill Lora, before she hurts anyone "
 "else. We said we'd think about it."
 msgstr ""
+"우리는 그리즐리 선장과 이야기해 봤고, 선장은 로라에게 아이가 없다고 말했다. 선장은 로라가 자신과 다른 선원들을 공격한 위험한 "
+"해적이라며 우리에게 로라가 다른 사람을 또 다치게 하기 전에 죽여달라고 부탁했다. 우리는 생각해 보겠다고 답했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39513,7 +39507,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:50079
 msgctxt "hafb21afag4247g4d6cgae16g2ed4ab0ca533"
 msgid "Postmaster Danzo was killed."
-msgstr ""
+msgstr "우체국장 단조는 살해당했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39523,7 +39517,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:50100
 msgctxt "hc916e6c2g1c5dg43efg94b5g5f0d07b543dc"
 msgid "We moved on without helping Postmaster Danzo."
-msgstr ""
+msgstr "우린 우체국장 단조를 돕지 않고 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39533,7 +39527,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:50121
 msgctxt "h6f4ba554g40c1g4d90ga7d1ge79703866e80"
 msgid "We have the missing letters. Postmaster Danzo will be pleased."
-msgstr ""
+msgstr "사라진 편지들을 손에 넣었다. 우체국장 단조가 기뻐해할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -39543,7 +39537,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5459
 msgctxt "h9163a681gc8b6g4c48g94ddgc02af1c6b5e8"
 msgid "Return the letters to the Postmaster."
-msgstr ""
+msgstr "편지들을 우체국장에게 돌려주자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -49437,7 +49431,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/274691e2-00e8-4d97-8908-62df9c29e174.lsx:8
 msgctxt "h3ea65498g377cg41d6g8ee0g9f6fb87ee392"
 msgid "Arfur Gregorio"
-msgstr "아르퍼 그레고리오"
+msgstr "알퍼 그레고리오"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
