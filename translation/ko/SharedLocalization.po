@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:30+0900\n"
-"PO-Revision-Date: 2023-08-29 23:01+0000\n"
-"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
+"PO-Revision-Date: 2023-08-31 03:53+0000\n"
+"Last-Translator: 조선인 <kimkikim141@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/sharedlocalization/ko/>"
 "\n"
 "Language: ko\n"
@@ -111,6 +111,8 @@ msgid ""
 "Fall <LSTag Type=\"Status\" Tooltip=\"PRONE\">Prone</LSTag> until the end of "
 "your next turn."
 msgstr ""
+"당신의 다음 턴이 끝날 때까지, 쓰러져 <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎어짐</LSTag> "
+"상태가 됩니다."
 
 #. key = SharedDev_Status_KNOCKED_DOWN_COMMAND_GROVEL_DisplayName
 #. 
@@ -121,7 +123,7 @@ msgstr ""
 #: Public/SharedDev/Localization/Stats/Status_KNOCKED_DOWN_DisplayName.lsx:8
 msgctxt "haeb92c68gb0d5g4cf3g9bd6g0a7cf7858a74"
 msgid "Command: Grovel"
-msgstr ""
+msgstr "명령: 포복"
 
 #. key = SharedDev_Target_InsectPlague_TooltipOnRollFail
 #. 
@@ -775,10 +777,9 @@ msgstr "드루이드의 방"
 #. HandlePath = Content
 #. UUID = DEN_DruidGrove_SUB
 #: Mods/Gustav/Localization/Act1_Subregions.lsx:15
-#, fuzzy
 msgctxt "hd18f5f04g04a2g4638g82c2g583edde3a958"
 msgid "Emerald Grove"
-msgstr "드루이드 숲"
+msgstr "에메랄드 숲"
 
 #. key = DEN_DruidLair_SUB
 #. 
@@ -902,6 +903,8 @@ msgid ""
 "No sound can be created within or pass through this dome. While inside, "
 "creatures are deaf, immune to thunder damage, and cannot cast verbal spells."
 msgstr ""
+"이 구체 안에서는 어떠한 소리도 발생할 수 없고, 구체 너머로 어떠한 소리도 통과할 수 없습니다. 안에 있는 크리쳐들은 소리를 들을 수 "
+"없고, 천둥 피해에 면역이 되며, 주문을 영창할 수 없습니다."
 
 #. key = Dome_Silence_DisplayName
 #. 
@@ -912,7 +915,7 @@ msgstr ""
 #: Public/Shared/Localization/Stats/Dome_DisplayName.lsx:8
 msgctxt "h9cee97e6g26f0g4d13gae67g0443824ea069"
 msgid "Silence"
-msgstr ""
+msgstr "침묵"
 
 #. key = END_AlliesHouse_SUB
 #. 
@@ -934,7 +937,7 @@ msgstr "워치 성채 "
 #: Mods/GustavDev/Localization/Act3_Misc.lsx:204
 msgctxt "hdb085d62gedfdg4fa6g8e57g2ce9bc5d9c31"
 msgid "Reach the Netherbrain"
-msgstr ""
+msgstr "네더브레인에 도달하세요"
 
 #. key = END_HighHallUnderground_SUB
 #. 
@@ -1103,7 +1106,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:134
 msgctxt "h65c7cc1fg0e06g41c2gbfc4g038bd80273df"
 msgid "Upper City Rooftops"
-msgstr ""
+msgstr "상부 도시 옥상"
 
 #. key = END_Siege_SUB
 #. 
@@ -1114,7 +1117,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:120
 msgctxt "h47344707gef17g4573gb538ge114fdbd68d5"
 msgid "Siege"
-msgstr ""
+msgstr "공성전"
 
 #. key = END_TheWide_SUB
 #. 
@@ -1125,7 +1128,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:113
 msgctxt "hb27e9dbdgc30cg4ec2g96adg56c348b5715f"
 msgid "The Wide"
-msgstr ""
+msgstr "대광장"
 
 #. key = FOR_BottomlessWell_SUB
 #. 
@@ -1311,9 +1314,10 @@ msgstr "당신만의 길을 따라가서, 오직 그분을 찾았을 뿐입니�
 #. HandlePath = Content
 #. UUID = GLO_ThrallOfTheAbsolute_DestroyedStone
 #: Mods/GustavDev/Localization/Misc.lsx:120
+#, fuzzy
 msgctxt "ha9865f8bg80d2g4443gb078g7354b0b6bfeb"
 msgid "A netherstone lost, the path only leads to Her now..."
-msgstr ""
+msgstr "네더스톤이 소실되었으니, 이제 오직 그분께 갈 뿐입니다..."
 
 #. key = GLO_ThrallOfTheAbsolute_EmperorDeath
 #. 
@@ -1322,9 +1326,10 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = GLO_ThrallOfTheAbsolute_EmperorDeath
 #: Mods/GustavDev/Localization/Misc.lsx:127
+#, fuzzy
 msgctxt "h1466978bg1069g432eg94bbge3615e6084c4"
 msgid "Your guardian has fallen and you've been found..."
-msgstr ""
+msgstr "당신의 수호자가 쓰러졌고, 당신은 발각되었습니다..."
 
 #. key = GLO_ThrallOfTheAbsolute_EndingLost
 #. 
@@ -1355,9 +1360,10 @@ msgstr "당신은 그분께 굴복하여, 이제 원대한 설계의 일부가 �
 #. HandlePath = Content
 #. UUID = GLO_ThrallOfTheAbsolute_Uppercity
 #: Mods/GustavDev/Localization/Misc.lsx:113
+#, fuzzy
 msgctxt "h10af5de7ge9f2g49f4gbc6bgde78f6fc0eab"
 msgid "An early end through stubborn persistence..."
-msgstr ""
+msgstr "끈질긴 고집으로 빠른 결말을 맞이했습니다..."
 
 #. key = GLO_WaypointDiscovered
 #. 
@@ -1931,9 +1937,10 @@ msgstr "애서가"
 #. HandlePath = Content
 #. UUID = LOW_BloodMerchant_SUB
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:337
+#, fuzzy
 msgctxt "h5c93ddf5gb23cg4fdag94abgbc0523c15d33"
 msgid "Crimson Draughts"
-msgstr ""
+msgstr "진홍색 물약"
 
 #. key = LOW_BloodMerchant_UndergroundLab_SUB
 #. 
@@ -1942,9 +1949,10 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = LOW_BloodMerchant_UndergroundLab_SUB
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:834
+#, fuzzy
 msgctxt "h79574fd1g4707g4e57gb271g2d0059b4bea8"
 msgid "Sanguine Laboratory"
-msgstr ""
+msgstr "혈기 실험실"
 
 #. key = LOW_BlushingMermaid_Basement_SUB
 #. 
@@ -2180,7 +2188,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:505
 msgctxt "h3c2b3bb0g413eg454eg9751g0e9a4379a989"
 msgid "Forge of the Nine"
-msgstr ""
+msgstr "아홉의 대장간"
 
 #. key = LOW_DiabolicForge_Basement_SUB
 #. 
@@ -2191,7 +2199,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:988
 msgctxt "h4d48559bgeeefg4bb1gbac8gb7606197cb06"
 msgid "Basement"
-msgstr ""
+msgstr "지하실"
 
 #. key = LOW_DjinniTrap_Lamp_SUB
 #. 
@@ -2213,7 +2221,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/ReadyChecks_Descriptions.lsx:36
 msgctxt "h3a3a84c8gcc3cg41deg8fd8g67b933f54178"
 msgid "Are you sure you want to take the submersible to the Iron Throne?"
-msgstr ""
+msgstr "잠수함을 타고 아이언 스론으로 향하시겠습니까?"
 
 #. key = LOW_DocksGuardTower_SUB
 #. 
@@ -2224,7 +2232,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:631
 msgctxt "h7de0d223ga7dbg4f8cgb552g0701508261da"
 msgid "Docks Guard Tower"
-msgstr ""
+msgstr "부두 감시탑"
 
 #. key = LOW_ElfsongTavern_DoorToCamp
 #. 
@@ -2235,7 +2243,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Misc.lsx:253
 msgctxt "h09692100g901dg4f1fgb762ge45153cb05cb"
 msgid "Rented Rooms"
-msgstr ""
+msgstr "빌린 객실"
 
 #. key = LOW_ElfsongTavern_DoorToCity
 #. 
@@ -2246,7 +2254,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Misc.lsx:260
 msgctxt "h63aa81f0g95c0g4e5fg98bfg480bc4af8656"
 msgid "Leave Rooms"
-msgstr ""
+msgstr "객실 떠나기"
 
 #. key = LOW_ElfsongTavern_SUB
 #. 
@@ -2279,7 +2287,7 @@ msgstr "엘프송 여관 지하실"
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:302
 msgctxt "hf97a6fd4g167ag40efg9738g8986be17c587"
 msgid "Stelmane's Private Room"
-msgstr ""
+msgstr "스텔메인의 개인 객실"
 
 #. key = LOW_FelogyrsFireworks_SUB
 #. 
@@ -2290,7 +2298,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:533
 msgctxt "hf32e9016ge9cbg4239g84abg20e90ed6eadc"
 msgid "Felogyr's Fireworks"
-msgstr ""
+msgstr "펠로기르의 폭죽 가게"
 
 #. key = LOW_FireworksHouse_Basement_SUB
 #. 
@@ -2301,7 +2309,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:1009
 msgctxt "hf7bc2709g7867g4189ga672gd0c94fa3faf0"
 msgid "Firework's Basement"
-msgstr ""
+msgstr "폭죽 가게 지하실"
 
 #. key = LOW_FireworksHouse_Workshop_SUB
 #. 
@@ -2312,7 +2320,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:708
 msgctxt "h620fe15dgd3bbg4891gb8bagd70e5952df05"
 msgid "Felogyr's Fireworks Workshop"
-msgstr ""
+msgstr "펠로기르의 폭죽 가게 작업실"
 
 #. key = LOW_FlymmCargo_Basement_SUB
 #. 
@@ -2345,7 +2353,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:820
 msgctxt "ha08c8166g349eg425bgb38cg12630295a7a2"
 msgid "Gardener's Basement"
-msgstr ""
+msgstr "정원사의 지하실"
 
 #. key = LOW_Gazette_Article001
 #. 
@@ -2398,9 +2406,10 @@ msgstr "용감한 모험가들, 절대자의 장군에게 일격을 가해 실�
 #. HandlePath = Content
 #. UUID = LOW_Gazette_Article005
 #: Mods/GustavDev/Localization/Act3_Gazette.lsx:253
+#, fuzzy
 msgctxt "h1bad4f59ga6ecg4536ga7c9gbe647d1db5fd"
 msgid "Crashed Tentacular Ship Expertly Parked To Avoid Baldurian Casualties"
-msgstr ""
+msgstr "발더인 인명 피해를 피하기 위해 능숙하게 주기된 촉수 함선"
 
 #. key = LOW_Gazette_Article006
 #. 
@@ -4376,7 +4385,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Gazette.lsx:372
 msgctxt "h308c681eg78fbg443cgac27g4ba08c17f1c5"
 msgid "Cleansed of the Shadow Curse, Or Carriers?"
-msgstr ""
+msgstr "그림자 저주에서 정화된 자들인가, 저주를 옮기는 자들인가?"
 
 #. key = LOW_GeneralStore_Basement_SUB
 #. 
@@ -4387,7 +4396,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:1016
 msgctxt "h9cd15ac6g1a6bg46cfg987fg9b5d86c5c595"
 msgid "General Store Basement"
-msgstr ""
+msgstr "잡화상 지하실"
 
 #. key = LOW_GeneralStore_SUB
 #. 
@@ -4398,7 +4407,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:365
 msgctxt "heb0187d3g815fg498eg9fc9g00c299b8aae2"
 msgid "Beehive General Goods"
-msgstr ""
+msgstr "비하이브 잡화상"
 
 #. key = LOW_Graveyard_SUB
 #. 
@@ -4409,7 +4418,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:484
 msgctxt "h9eb5898agae15g4b9bg8901g2eba95209e47"
 msgid "Graveyard"
-msgstr ""
+msgstr "묘지"
 
 #. key = LOW_Groundkeeper_Basement_SUB
 #. 
@@ -4420,7 +4429,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:1023
 msgctxt "hfb96c0e5g3e15g4ab3gb010g2820b5e0d5d6"
 msgid "Groundskeeper's Basement"
-msgstr ""
+msgstr "관리인의 지하실"
 
 #. key = LOW_GuardPost_SUB
 #. 
@@ -4875,7 +4884,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:428
 msgctxt "haa16b817ge5c4g4405gba92ga4eb797b2690"
 msgid "Murder Tribunal"
-msgstr ""
+msgstr "살인 법정"
 
 #. key = LOW_MusicStore_Basement
 #. 
@@ -5139,7 +5148,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:540
 msgctxt "h4d3adde1gaf07g4c55g8757gc72d52fbf87c"
 msgid "Bloomridge Park"
-msgstr ""
+msgstr "블룸리지 공원"
 
 #. key = LOW_PhilgravesMansion_AncientLair_SUB
 #. 
@@ -5150,7 +5159,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:393
 msgctxt "h1e17e72cgc9b2g49d0g8bcag92488aef6b71"
 msgid "Ancient Lair"
-msgstr ""
+msgstr "고대의 은신처"
 
 #. key = LOW_PhilgravesMansion_Basement_SUB
 #. 
@@ -5161,7 +5170,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:386
 msgctxt "hf438781dgcd53g4376g9ed6gd81b42445e7c"
 msgid "Philgrave's Mansion - Basement"
-msgstr ""
+msgstr "필그레이브의 저택 - 지하실"
 
 #. key = LOW_PhilgravesMansion_House_SUB
 #. 
@@ -5172,7 +5181,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:379
 msgctxt "h32207455gf73ag4077g9658gc655a7755bd2"
 msgid "Philgrave's Mansion"
-msgstr ""
+msgstr "필그레이브의 저택"
 
 #. key = LOW_SerialKiller_Figaro_Basement_SUB
 #. 
@@ -5183,7 +5192,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:1002
 msgctxt "hf1b91cb9g95edg4c89g8fe6g308b1acfe0e4"
 msgid "Figaro's Basement"
-msgstr ""
+msgstr "피가로의 지하실"
 
 #. key = LOW_SerialKiller_FigarosStore_SUB
 #. 
@@ -5249,7 +5258,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:1044
 msgctxt "h3643057eg6335g4970g96c6g690278f9efdd"
 msgid "Rainforest's Basement"
-msgstr ""
+msgstr "레인포레스트의 지하실"
 
 #. key = LOW_SerialKiller_WineAttendantsToFigarosFans
 #. 
@@ -5271,7 +5280,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:939
 msgctxt "h6f82e7adge3d9g4f57gbe30g6e5a0c04aae2"
 msgid "Wine Festival"
-msgstr ""
+msgstr "포도주 축제"
 
 #. key = LOW_Sewers_SUB
 #. 
@@ -5282,7 +5291,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:799
 msgctxt "h407cb952g7a56g43ebg904ag8944b8733610"
 msgid "Lower City Sewers"
-msgstr ""
+msgstr "하부 도시 하수도"
 
 #. key = LOW_SharranGrotto_ChamberOfLoss_SUB
 #. 
@@ -5304,7 +5313,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:778
 msgctxt "h82271420g547bg4627ga6a2g1e2f46fed145"
 msgid "Night Orchid Cave"
-msgstr ""
+msgstr "밤 난초 동굴"
 
 #. key = LOW_SharranGrotto_SUB
 #. 
@@ -5337,7 +5346,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:400
 msgctxt "h81cf0d57g2479g4393g9fc6g8e2e628ab805"
 msgid "Ramazith's Tower"
-msgstr ""
+msgstr "라마지스의 탑"
 
 #. key = LOW_SorcerousSundries_Shop_SUB
 #. 
@@ -5348,7 +5357,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:372
 msgctxt "h29df49f7gb476g42fbgbe11g9980073accbb"
 msgid "Sorcerous Sundries"
-msgstr ""
+msgstr "요술 잡화점"
 
 #. key = LOW_SteelWatchFoundry_ControlFloor_SUB
 #. 
@@ -5359,7 +5368,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:288
 msgctxt "hd64b3463g90a8g451cga760g8e17a3521270"
 msgid "Steel Watch Foundry - Control Centre"
-msgstr ""
+msgstr "스틸 워치 주조소 - 중앙 제어실"
 
 #. key = LOW_SteelWatchFoundry_GroundFloor_SUB
 #. 
@@ -5370,7 +5379,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:274
 msgctxt "hbc99c44cg7b66g4605ga515g15b6adc229fc"
 msgid "Steel Watch Foundry"
-msgstr ""
+msgstr "스틸 워치 주조소"
 
 #. key = LOW_SteelWatchFoundry_KillSwitchTimers
 #. 
@@ -5469,7 +5478,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Subregions.lsx:848
 msgctxt "hbd909270g17a5g48d2gbf28g09db971db290"
 msgid "Undercity Ruins"
-msgstr ""
+msgstr "지하도시 폐허"
 
 #. key = LOW_WaterQueensHouse_Cellar_SUB
 #. 
@@ -5506,7 +5515,7 @@ msgid ""
 "darkness.\n"
 "Will you leap after him?"
 msgstr ""
-"케서릭을 어둠으로 끌고 들어간 촉수가 남긴 구덩이를 내려다 봅니다.\n"
+"당신은 케서릭을 어둠으로 끌고 들어간 촉수가 남긴 구덩이를 내려다보고 있습니다.\n"
 "그를 따라 뛰어 들어가겠습니까?"
 
 #. key = MOO_Audience_ReadyCheck
@@ -5520,7 +5529,7 @@ msgctxt "h31b4028bg71d9g49dfg8809gf2aec12c3aeb"
 msgid ""
 "Do not fear. The Absolute will grant you everything you desire. Are you "
 "ready?"
-msgstr ""
+msgstr "두려워 마십시오. 절대자께서 당신이 바라는 모든 것을 내려주실 것입니다. 준비되셨습니까?"
 
 #. key = MOO_CentralChamber_SUB
 #. 
@@ -5531,7 +5540,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:15
 msgctxt "hfc517356g6688g48a6g8ce7g78d83ba40d4f"
 msgid "Moonrise Overlook"
-msgstr ""
+msgstr "문라이즈 전망대"
 
 #. key = MOO_DebrainingRoom_SUB
 #. 
@@ -5542,7 +5551,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:29
 msgctxt "hba444d7eg7056g4d8egb45cg4ea50a1a39d7"
 msgid "Debraining Room"
-msgstr ""
+msgstr "뇌 적출실"
 
 #. key = MOO_Docks_SUB
 #. 
@@ -5553,7 +5562,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:113
 msgctxt "hbee8f9a7g8221g4b24gaa17ge5047b3acc38"
 msgid "Docks"
-msgstr ""
+msgstr "부두"
 
 #. key = MOO_FirstFloor_SUB
 #. 
@@ -5564,7 +5573,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:43
 msgctxt "h0f15a7eegda43g44d7g8c46g98d527a52ce4"
 msgid "Southern Tower, First Floor"
-msgstr ""
+msgstr "남쪽 타워, 2층"
 
 #. key = MOO_GroundFloor_SUB
 #. 
@@ -5575,7 +5584,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:50
 msgctxt "h9f627d78g1f28g4181gb294gc7a9931f7ef4"
 msgid "Southern Tower, Ground Floor"
-msgstr ""
+msgstr "남쪽 타워, 1층"
 
 #. key = MOO_Kitchen_SUB
 #. 
@@ -5586,7 +5595,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:57
 msgctxt "h58df5634g4afdg48cagb143g90280b30879e"
 msgid "Kitchen"
-msgstr ""
+msgstr "주방"
 
 #. key = MOO_MainFloorInterior_SUB
 #. 
@@ -5597,7 +5606,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:253
 msgctxt "hd36c604cg10eeg4bbcg9269g0e281da4a39f"
 msgid "Moonrise Towers, Main Floor"
-msgstr ""
+msgstr "문라이즈 타워, 1층"
 
 #. key = MOO_MoonriseTower_SUB
 #. 
@@ -5641,7 +5650,7 @@ msgstr "문라이즈 타워 꼭대기"
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:36
 msgctxt "h899c97b6g41aag48eegbec4g16712a8d34b9"
 msgid "Southern Tower, Second Floor"
-msgstr ""
+msgstr "남쪽 타워, 3층"
 
 #. key = MOO_UpperFloorInterior_SUB
 #. 
@@ -5652,7 +5661,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:267
 msgctxt "hfcff43feg16b2g44a7gba51gc286906d7479"
 msgid "Moonrise Towers, First Floor"
-msgstr ""
+msgstr "문라이즈 타워, 2층"
 
 #. key = Message_DLCRewardsInCamp
 #. 
@@ -5740,7 +5749,7 @@ msgstr "계속 진행하시겠습니까? 당신의 선택에 따라 이 지역�
 #: Mods/GustavDev/Localization/Act1b_Misc.lsx:22
 msgctxt "h2237ed9fg1712g4f6cga99dg34821e909446"
 msgid "Orpheus, Prince of the Comet, Part One: Betrayal"
-msgstr ""
+msgstr "혜성의 왕자 오르페우스, 제 1부: 배신"
 
 #. key = ORI_Laezel_OrpheusChapter3_RealDisplayName
 #. 
@@ -5751,7 +5760,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act2_Misc.lsx:29
 msgctxt "h94474ee2g801fg49a2gb834g8108b2f17475"
 msgid "Orpheus, Prince of the Comet, Part Three: Resurrection"
-msgstr ""
+msgstr "혜성의 왕자 오르페우스, 제 3부: 부활"
 
 #. key = PLA_Caravanserai_SUB
 #. 
@@ -5850,7 +5859,7 @@ msgstr "트레심"
 #: Public/Shared/Localization/Stats/Projectile_StatsDescription.lsx:8
 msgctxt "h8b7c3d51ge3e0g47e5g922eg64353b9d52e3"
 msgid "[1]"
-msgstr ""
+msgstr "[1]"
 
 #. key = ReadyCheck_EbonLake
 #. 
@@ -6079,7 +6088,7 @@ msgstr "진행할 준비가 되지 않았습니다."
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:8
 msgctxt "h63fded54g63fag4c68g96ebge333e059c646"
 msgid "Cursed Graveyard"
-msgstr ""
+msgstr "저주받은 묘지"
 
 #. key = SCL_Main_A
 #. 
@@ -6124,7 +6133,7 @@ msgstr "섀도펠"
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:120
 msgctxt "h5ac7dea9ge239g4570gad5bgff4aca537ea4"
 msgid "Sanctum of the Nightsong"
-msgstr ""
+msgstr "나이트송의 성소"
 
 #. key = SHA_Temple_SUB
 #. 
@@ -6135,7 +6144,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:127
 msgctxt "h16930357geeeag4ccdg912bg5ff6f17808c1"
 msgid "Gauntlet of Shar"
-msgstr ""
+msgstr "샤의 건틀릿"
 
 #. key = SHA_Temple_SUB_ClonesTrial
 #. 
@@ -6157,7 +6166,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act2_Subregions.lsx:176
 msgctxt "h7f434e0cg26dcg47a3g9864gaad106d89ebf"
 msgid "Silent Library"
-msgstr ""
+msgstr "침묵의 도서관"
 
 #. key = SHA_Temple_SUB_NightsongPrison
 #. 
@@ -6224,7 +6233,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Misc.lsx:43
 msgctxt "h82276fd3gdcc1g404fg9ca2g5bd8eeb25e55"
 msgid "Dolor"
-msgstr ""
+msgstr "돌로"
 
 #. key = TUT_Avernus_C
 #. 
@@ -6247,7 +6256,7 @@ msgstr "지옥 속 노틸로이드"
 #: Mods/GustavDev/Localization/ReadyChecks_Descriptions.lsx:92
 msgctxt "h362a8562ga484g4e03g9e36g260f9979ff9a"
 msgid "Are you ready to enter the helm?"
-msgstr ""
+msgstr "조타실에 들어갈 준비가 되었습니까?"
 
 #. key = TUT_Helm_TransponderTimer
 #. 
@@ -7571,7 +7580,7 @@ msgstr "시라 클라웬"
 #: Mods/GustavDev/Localization/Act3_Misc.lsx:225
 msgctxt "h3b077abdg8a3bg4f35g8ff9gc0be061adbf1"
 msgid "Raloric Windbane"
-msgstr ""
+msgstr "랄로릭 윈드베인"
 
 #. key = WYR_SentientAmulet_Corpse_002
 #. 
@@ -7582,7 +7591,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Misc.lsx:232
 msgctxt "hb6b31223gd18ag429dgbd4egf8989527ed1b"
 msgid "Suttida Attana"
-msgstr ""
+msgstr "서티다 아타나"
 
 #. key = WYR_SentientAmulet_Corpse_003
 #. 
@@ -7593,7 +7602,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Misc.lsx:239
 msgctxt "hf8e9d7b3g03c2g4d68g9e3agbb4eae273362"
 msgid "Flinster Sunseeker"
-msgstr ""
+msgstr "플린스터 선시커"
 
 #. key = WYR_SentientAmulet_Corpse_Unidentified
 #. 
@@ -7604,7 +7613,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Misc.lsx:211
 msgctxt "hb45d8048g21f2g44c7gb0acgfbd27eeda6a3"
 msgid "Corpse"
-msgstr ""
+msgstr "시체"
 
 #. key = WYR_SharessCaress_Basement_SUB
 #. 

@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:30+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-08-31 03:54+0000\n"
+"Last-Translator: josephsssss <josephsssss@hotmail.com>\n"
+"Language-Team: Korean <http://waldo.team/projects/bg3/tutorial/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -1121,7 +1123,6 @@ msgstr ""
 #. HandlePath = ControllerDescription
 #. TutorialName = TUT_TadpoleTree
 #: Public/SharedDev/Tutorials/ModalTutorials.lsx:8
-#, fuzzy
 msgctxt "h38a4efb6g497fg4705g8556gf35657481715"
 msgid ""
 "[IE_PanelSelect] <LSTag Type=\"Image\" Info=\"TutorialIllithidPowers\"/> "
@@ -1528,13 +1529,11 @@ msgstr ""
 #. HandlePath = ControllerDescription
 #. TutorialName = End the day (depleted short rest resource)
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:52
-#, fuzzy
 msgctxt "hf712d886gd4cag46beg8a6cg2f8b80f9d77d"
 msgid ""
 "Your replenishable resources are dwindling, but you've already taken 2 Short "
 "Rests. Take a Long Rest to restore hit points and other resources."
-msgstr "보충 가능한 자원이 바닥났지만, 이미 2번의 짧은 휴식을 취했습니다. 긴 휴식을 "
-"취해 체력과 다른 자원들을 회복하세요."
+msgstr "보충 가능한 자원은 줄어들고 있고, 이미 2번의 짧은 휴식을 사용했습니다. 긴 휴식을 해 체력과 자원들을 회복하세요."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1563,13 +1562,11 @@ msgstr "하루 마무리"
 #. HandlePath = KeyboardDescription
 #. TutorialName = End the day (depleted short rest resource)
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:56
-#, fuzzy
 msgctxt "hd40af6eag1f62g4608g8147g14a59f7113ef"
 msgid ""
 "Your replenishable resources are dwindling, but you've already taken 2 Short "
 "Rests. Take a Long Rest to restore hit points and other resources."
-msgstr "보충 가능한 자원이 바닥났지만, 이미 2번의 짧은 휴식을 취했습니다. 긴 휴식을 "
-"취해 체력과 다른 자원들을 회복하세요."
+msgstr "보충 가능한 자원이 바닥났지만, 이미 2번의 짧은 휴식을 취했습니다. 긴 휴식을 취해 체력과 자원을 회복하세요."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1589,13 +1586,11 @@ msgstr ""
 #. HandlePath = ControllerDescription
 #. TutorialName = End the day (depleted long rest resource)
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:65
-#, fuzzy
 msgctxt "hb425fb6bgb45dg417ag9e41ga1a0624d4ea1"
 msgid ""
 "Your replenishable resources are dwindling. Take a Long Rest to restore hit "
 "points and other resources."
-msgstr "보충 가능한 자원이 바닥났습니다. 긴 휴식을 취해 체력과 다른 자원들을 "
-"회복하세요."
+msgstr "보충 가능한 자원이 바닥났습니다. 긴 휴식을 취해 체력과 자원을 회복하세요."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1680,22 +1675,18 @@ msgstr "준비가 되면 모닥불 근처의 침낭을 사용하여 하루를 �
 #. HandlePath = ControllerDescription
 #. TutorialName = Camp Supplies
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:90
-#, fuzzy
-#| msgid ""
-#| "Be sure to collect food and drinks. You will need them to restore your "
-#| "health and resources when taking a Long Rest."
 msgctxt "ha2fdd00eg656cg4311ga8b8g23d3dab4c198"
 msgid ""
 "Be sure to collect food and drink as you find it in the world. You will need "
 "these supplies to restore your health and resources when taking a Long Rest."
-msgstr "음식과 음료 수집을 잊지 마십시오. 긴 휴식으로 체력과 자원을 회복하려면 "
-"식량이 필요합니다."
+msgstr "음식과 음료 수집을 잊지 마십시오. 긴 휴식으로 체력과 자원을 회복하려면 식량이 필요합니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Camp Supplies
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:91
+#, fuzzy
 msgctxt "h85db4793g150fg415dg8838gf9323c436ad8"
 msgid ""
 "Food and drink are needed to successfully completely a <LSTag Tooltip="
@@ -1703,6 +1694,8 @@ msgid ""
 "your Supplies Bag when picked up. More nutritious food and drink will have "
 "higher value when used for Long Resting. "
 msgstr ""
+"음식과 음료는 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 통한 완전 회복에 꼭 필요합니다. 야영 물자 "
+"배낭이 있는 경우, 음식과 음료를 수집할 때 자동으로 배낭에 정리됩니다. 영양가가 풍부할 수록 더 높은 야영 물자 수치를 가집니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1741,6 +1734,8 @@ msgid ""
 "your Supplies Bag when picked up. More nutritious food and drink will have "
 "higher value when used for Long Resting. "
 msgstr ""
+"음식과 음료는 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 통한 완전 회복에 꼭 필요합니다. 야영 물자 "
+"배낭이 있는 경우, 음식과 음료를 수집할 때 자동으로 배낭에 정리됩니다. 영양가가 풍부할 수록 더 높은 야영 물자 수치를 가집니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1769,6 +1764,9 @@ msgid ""
 "maximum health and resources, and not regaining any <LSTag Tooltip="
 "\"ShortRest\">Short Rests</LSTag>. "
 msgstr ""
+"야영 물자가 충분하지 않은 상태에서 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취하게 된다면, 오직 "
+"절반의 체력과 자원만 회복합니다. 또한 <LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag> 가능 횟수를 충전할 "
+"수 없습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1806,6 +1804,9 @@ msgid ""
 "maximum health and resources, and not regaining any <LSTag Tooltip="
 "\"ShortRest\">Short Rests</LSTag>. "
 msgstr ""
+"야영 물자가 충분하지 않은 상태에서 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취하게 된다면, 오직 "
+"절반의 체력과 자원만 회복합니다. 또한 <LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag> 가능 횟수를 충전할 "
+"수 없습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3352,10 +3353,9 @@ msgid ""
 "<LSTag Tooltip=\"MovementSpeed\">movement</LSTag> may be taken in any order "
 "you wish. This is also true for multiplayer characters. "
 msgstr ""
-"전투가 시작되고 턴 순서를 위해 우선권 (민첩) <LSTag Tooltip=\"AbilityCheck\""
-">판정</LSTag> 굴림을 할 때, 파티원들의 순서가 나란히 있게될 수 있습니다. "
-"이런 경우, 파티원들의 <LSTag Tooltip=\"Action\">행동</LSTag>, 추가 행동, "
-"<LSTag Tooltip=\"MovementSpeed\">이동</LSTag>을 원하는 순서대로 조작할 수 "
+"전투가 시작되고 턴 순서를 위해 우선권 (민첩) <LSTag Tooltip=\"AbilityCheck\">판정</LSTag> 굴림을 할 "
+"때, 파티원들의 순서가 나란히 있게 될 수 있습니다. 이런 경우, 파티원들의 <LSTag Tooltip=\"Action\">행동</"
+"LSTag>, 추가 행동, <LSTag Tooltip=\"MovementSpeed\">이동</LSTag>을 원하는 순서대로 조작할 수 "
 "있습니다. 멀티플레이어에서도 마찬가지입니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx

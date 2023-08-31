@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:30+0900\n"
-"PO-Revision-Date: 2023-08-29 23:01+0000\n"
-"Last-Translator: Milesand <me@dicemice.me>\n"
+"PO-Revision-Date: 2023-08-31 03:53+0000\n"
+"Last-Translator: Sharku <pjsw007@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/gui/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -268,7 +268,7 @@ msgstr "배경"
 #: Public/Game/GUI/Library/CCLib_c.xaml:1551
 msgctxt "h5cba8e35g057eg4e08g84f2g186b89ba12cc"
 msgid "Racial Skills"
-msgstr ""
+msgstr "종족 기술"
 
 #: Public/Game/GUI/Library/CCLib_c.xaml:1557
 #: Public/Game/GUI/Library/CCLib_c.xaml:3935
@@ -315,19 +315,19 @@ msgstr "새로운 주문!"
 #: Public/Game/GUI/Library/CCLib_c.xaml:3009
 msgctxt "h68b5a020ga692g416eg8606gef8a995b12ba"
 msgid "Passive"
-msgstr ""
+msgstr "패시브"
 
 #: Public/Game/GUI/Library/CCLib_c.xaml:3023
 #: Public/Game/GUI/Library/CCLib_k.xaml:2297
 msgctxt "hc2370fb0gadbcg4794g9607gbf3552a7ba15"
 msgid "Gained a Passive"
-msgstr ""
+msgstr "패시브 획득"
 
 #: Public/Game/GUI/Library/CCLib_c.xaml:3034
 #: Public/Game/GUI/Library/CCLib_k.xaml:2306
 msgctxt "h2e7cf7cag5ca9g48ecgb8d0g9359dd139a5a"
 msgid "Gained [1] Passives"
-msgstr ""
+msgstr "패시브 [1]개 획득"
 
 #: Public/Game/GUI/Library/CCLib_c.xaml:3156
 #: Public/Game/GUI/Library/CCLib_k.xaml:3548
@@ -2065,7 +2065,7 @@ msgstr "캐릭터 요소"
 #: Public/Game/GUI/Library/DialogueTemplates.xaml:676
 msgctxt "h1942c58eg839fg468egaf51ge881c86e02ba"
 msgid "Selected answer: [1]"
-msgstr ""
+msgstr "선택한 대답: [1]"
 
 #: Public/Game/GUI/Library/DiceAnimation.xaml:2744
 msgctxt "hc8aa88d2g41f9g49d5ga0fbgfd343e4c5353"
@@ -2796,9 +2796,10 @@ msgid "Toggle"
 msgstr "토글"
 
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:1946
+#, fuzzy
 msgctxt "h285d26a3ge78ag40d0ga7d3gfa9fc01e68cd"
 msgid "Toggle Inventory Access"
-msgstr ""
+msgstr "인벤토리 접근 토글"
 
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2020
 msgctxt "h32a6e47bg2a6dg4d0bgbe50g7c95a2ec55da"
@@ -2937,9 +2938,10 @@ msgstr "그룹화 확정"
 
 #: Public/Game/GUI/Library/Reactions_c.xaml:61
 #: Public/Game/GUI/Library/Reactions_c.xaml:143
+#, fuzzy
 msgctxt "ha37e3c9bg31f4g4ab3g8f70gd65ec2a913ce"
 msgid "Free"
-msgstr ""
+msgstr "해제"
 
 #: Public/Game/GUI/Library/SaveLoad.xaml:260
 msgctxt "hd2d05509gaea8g4d37g9457gf3e226b4baa1"
@@ -3456,7 +3458,7 @@ msgstr "전투 중 당신을 방해하거나 해치는 요소들."
 #: Public/Game/GUI/Library/Tooltips.xaml:1775
 msgctxt "h02316c7bgeac5g4b0egb78cg44b193b2e233"
 msgid "Self"
-msgstr ""
+msgstr "자기 자신"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:1847
 #: Public/Game/GUI/Library/Tooltips.xaml:1856
