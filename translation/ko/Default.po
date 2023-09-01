@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:29+0900\n"
-"PO-Revision-Date: 2023-08-31 03:53+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2023-09-01 10:53+0000\n"
+"Last-Translator: Milesand <me@dicemice.me>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/default/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -718,7 +718,7 @@ msgstr "방패"
 #: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:43
 msgctxt "h70b94fb9gc92cg428eg841dg96b5f6850725"
 msgid "Amulet of Second Chance"
-msgstr "두 번째 기회의 아뮬렛"
+msgstr "두 번째 기회의 액막이"
 
 #. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -1848,7 +1848,7 @@ msgstr "소서러"
 msgctxt "h8653dfceg5163g42e3gb4c4g5acc4dd573c8"
 msgid ""
 "Your veins carry draconic magic, the result of a powerful dragon ancestor."
-msgstr "강력한 드래곤 조상의 영향으로, 당신의 혈관에는 드래곤 마법이 흐릅니다."
+msgstr "강력한 드래곤 조상을 둔 당신의 핏줄에는 드래곤의 마력이 흐릅니다."
 
 #. FilePath = Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -1871,8 +1871,7 @@ msgctxt "hedfe3092ga840g4e10gb962g092566a89852"
 msgid ""
 "Your powers come from ancient forces of chaos. They churn within you - "
 "waiting to burst free at any time."
-msgstr "당신의 힘은 고대의 혼돈 마력에서 기인합니다. 그 힘은 당신의 내면에서 "
-"꿈틀거리며 터져 나오기만을 기다리고 있습니다."
+msgstr "당신의 힘은 태곳적 혼돈의 힘에서 기인한 것입니다. 그 힘은 언제든 분출되기만 기다리며 당신의 내면에서 들끓고 있습니다."
 
 #. FilePath = Public/Shared/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -2376,13 +2375,12 @@ msgstr "어새신"
 #. Name = StormSorcery
 #. SoundClassType = Sorcerer
 #: Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx:199
-#, fuzzy
 msgctxt "h6cc6b6fega327g411ag9b33g098e0c8636b1"
 msgid ""
 "Whether crackling with the energy of ancient deluges or pierced by gales and "
 "hurricanes, your lineage is a strange tapestry scrawled by a tempest. "
-msgstr "고대 대홍수의 에너지가 깃들고 돌풍과 회오리에 꿰뚫린 당신의 혈통은 폭풍우가 "
-"휘갈긴 기묘한 태피스트리와도 같습니다. "
+msgstr ""
+"고대 대홍수의 기운이 잔금처럼 박혀 있거나 돌풍과 회오리에 헤집혔던 당신의 혈통은, 폭풍우가 휘갈긴 기묘한 태피스트리와도 같습니다. "
 
 #. FilePath = Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -6495,15 +6493,6 @@ msgstr "파수꾼"
 #. HandlePath = Description
 #. ExactMatch = Sharpshooter
 #: Public/SharedDev/Feats/FeatDescriptions.lsx:106
-#, fuzzy
-#| msgid ""
-#| "Your <LSTag Tooltip=\"RangedWeaponAttack\">ranged weapon attacks</LSTag> do "
-#| "not receive penalties from <LSTag Tooltip=\"HighGroundRules\">High Ground "
-#| "Rules</LSTag>.\n"
-#| "\n"
-#| "Ranged weapon attacks with weapons you are <LSTag Tooltip=\"Proficiency\""
-#| ">Proficient</LSTag> with have a -5 penalty to their <LSTag Tooltip="
-#| "\"AttackRoll\">Attack Roll</LSTag>, but deal an additional 10 damage."
 msgctxt "h0bf50988g8a65g40c1ga9e1g2ad5b6387678"
 msgid ""
 "Your <LSTag Tooltip=\"RangedWeaponAttack\">ranged weapon attacks</LSTag> do "
@@ -6515,13 +6504,12 @@ msgid ""
 "\"AttackRoll\">Attack Roll</LSTag>, but deal an additional 10 damage. (You "
 "can toggle this on or off.)"
 msgstr ""
-"<LSTag Tooltip=\"RangedWeaponAttack\">원거리 무기 공격</LSTag>이 <LSTag "
-"Tooltip=\"HighGroundRules\">고지대 규칙</LSTag>에 의한 페널티를 받지 "
-"않습니다.\n"
+"<LSTag Tooltip=\"RangedWeaponAttack\">원거리 무기 공격</LSTag>이 <LSTag Tooltip="
+"\"HighGroundRules\">고지대 규칙</LSTag>에 의한 페널티를 받지 않습니다.\n"
 "\n"
-"<LSTag Tooltip=\"Proficiency\">숙련</LSTag>된 무기를 사용한 원거리 무기 "
-"공격이 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 -5 페널티를 갖지만 "
-"추가로 10의 피해를 가합니다."
+"<LSTag Tooltip=\"Proficiency\">숙련</LSTag>된 무기를 사용한 원거리 무기 공격이 <LSTag Tooltip="
+"\"AttackRoll\">명중 굴림</LSTag>에 -5 페널티를 갖지만 추가로 10의 피해를 가합니다. (이 기능은 켜고 끌 수 "
+"있습니다.)"
 
 #. FilePath = Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6537,12 +6525,6 @@ msgstr "명사수"
 #. HandlePath = Description
 #. ExactMatch = SpellSniper
 #: Public/SharedDev/Feats/FeatDescriptions.lsx:113
-#, fuzzy
-#| msgid ""
-#| "You learn a <LSTag Tooltip=\"Cantrip\">cantrip</LSTag>, and the number you "
-#| "need to <LSTag Tooltip=\"AttackRoll\">roll</LSTag> a <LSTag Tooltip="
-#| "\"CriticalHit\">Critical Hit</LSTag> while attacking is reduced by 1. This "
-#| "effect can stack."
 msgctxt "h40691a88g9970g4279gb27fg3383b444aa40"
 msgid ""
 "You learn a <LSTag Tooltip=\"Cantrip\">cantrip</LSTag>, and the number you "
@@ -6550,9 +6532,9 @@ msgid ""
 "\"CriticalHit\">Critical Hit</LSTag> with spells is reduced by 1. This "
 "effect can stack."
 msgstr ""
-"<LSTag Tooltip=\"Cantrip\">소마법</LSTag> 을 하나 배우고, 공격할 때 <LSTag "
-"Tooltip=\"CriticalHit\">치명타</LSTag> 에 필요한 <LSTag Tooltip=\"AttackRoll"
-"\">명중 굴림</LSTag> 의 수를 1 감소시킵니다. 이 효과는 중첩 가능합니다."
+"<LSTag Tooltip=\"Cantrip\">소마법</LSTag> 을 하나 배우고, 주문의 <LSTag Tooltip="
+"\"CriticalHit\">치명타</LSTag> 에 필요한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag> 의 수를 1 감소시킵니다. 이 효과는 중첩 가능합니다."
 
 #. FilePath = Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6689,9 +6671,8 @@ msgid ""
 "over the heavens is constantly challenged by her sister Shar, who seeks to "
 "plunge the world into eternal shadow."
 msgstr ""
-"은의 여인은 달, 별, 그리고 길잡이를 관장합니다. 천상을 향한 그녀의 힘은 "
-"세계를 영원한 그림자로 덮으려 하는 그녀의 누이, 샤에게 항상 도전받고 "
-"있습니다."
+"은의 여신은 달, 별, 그리고 길잡이를 관장합니다. 천상에서 그녀가 누리는 권세는 세계를 영원한 그림자로 뒤덮으려 하는 자신의 자매, "
+"샤에게 늘 도전받고 있습니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6735,8 +6716,7 @@ msgctxt "ha5d5c929g0827g421fg86c7g1440bdd535fb"
 msgid ""
 "Tempus is the Lord of Battles, overseeing war and its soldiers. He is the "
 "embodiment of honourable combat, and condemns needless bloodlust."
-msgstr "템푸스는 전투의 군주이며, 전쟁과 군인을 관장합니다. 명예로운 전투의 "
-"화신이기에, 불필요한 살인 충동을 규탄합니다."
+msgstr "템푸스는 전쟁과 군인을 관장하는 전투의 군주입니다. 명예로운 전투의 화신이기에, 무익한 살인 충동은 규탄합니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6756,8 +6736,7 @@ msgctxt "h25d302cbgb96bg4e7dgb9b7geffcbdff6875"
 msgid ""
 "The Blind God rules over law and justice, encouraging valiant acts from his "
 "followers and relentlessly pursuing oathbreakers. "
-msgstr "눈먼 신은 법과 정의를 다스리며 추종자들의 용감한 행동을 장려하고 맹세를 "
-"위반한 이들을 가차없이 추적합니다. "
+msgstr "법과 정의를 다스리는 눈먼 신은 추종자들에게 용감한 행동을 장려하고 맹세를 어긴 자들을 집요하게 추적합니다. "
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6779,9 +6758,8 @@ msgid ""
 "across the planes. After more than a century of fading worship, Helm's power "
 "was restored with the Second Sundering."
 msgstr ""
-"감시하는 자는 신들의 영원한 파수꾼으로, 온 차원계를 관장하는 수호자를 "
-"대표합니다. 한 세기 넘게 숭배가 끊겼던 헬름의 힘은 제2차 대분단 이후 "
-"회복되었습니다."
+"감시자는 신들의 영원한 파수꾼으로, 온 차원계에 존재하는 수호자들을 대표합니다. 한 세기 넘게 제대로 숭배받지 못했던 헬름은 제2차 "
+"대분단을 계기로 힘을 회복했습니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6802,8 +6780,8 @@ msgid ""
 "The Crying God protects the oppressed and persecuted. His clergy is sworn to "
 "alleviate suffering, even if that means taking on that pain personally."
 msgstr ""
-"울부짖는 신은 억압받고 핍박받는 자를 보호합니다. 그의 성직자들은 개인적으로 "
-"고통을 감수하는 한이 있더라도, 고통을 덜어줄 것을 맹세합니다."
+"울부짖는 신은 억압받고 핍박받는 이를 보호합니다. 그의 성직자들은 고통받는 이의 짐을 덜어줄 것을 맹세하죠. 본인이 직접 그 고통을 "
+"감수해서라도 말입니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -7165,15 +7143,14 @@ msgstr "미엘리키"
 #. HandlePath = Description
 #. Name = Bahamut
 #: Public/SharedDev/Gods/Gods.lsx:8
-#, fuzzy
 msgctxt "h852ed21cga23ag44b3gac83g3bff6a430bea"
 msgid ""
 "The Angel of the Seven Heavens is the dragon god of justice. His ideals of "
 "mercy and just authority keep him locked in an inexorable rivalry with his "
 "sister, Tiamat. "
 msgstr ""
-"정의의 용신은 일곱 천상의 천사입니다. 자비와 정의에 대한 용신의 이상은 그를 "
-"누이 티아매트와의 끝없는 대립 관계에 가둬 놓았습니다. "
+"정의의 용신은 일곱 천상의 천사입니다. 자비와 정당한 권위에 대한 그의 이상 때문에, 누이인 티아매트와는 한 치 양보 없는 대립 관계로 "
+"묶여 있습니다. "
 
 #. FilePath = Public/SharedDev/Gods/Gods.lsx
 #. NodeID = God
@@ -7662,7 +7639,7 @@ msgctxt "h5fd25fb5g0c76g470cg9b88g61f286bb1802"
 msgid ""
 "Elves, dwarves, half-elves, half-orcs, gnomes, and tieflings have "
 "darkvision, which allows them to see in the dark."
-msgstr "엘프, 드워프, 하프 엘프, 하프 오크, 노움, 티플링은 어둠 속에서도 잘 보게 해주는 암흑시야를 지니고 있습니다."
+msgstr "엘프, 드워프, 하프 엘프, 하프 오크, 노움, 티플링은 암흑시야를 가지고 있어, 어둠 속에서도 앞을 볼 수 있습니다."
 
 #. FilePath = Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -7799,10 +7776,9 @@ msgstr "석상 "
 #. Name = DEC_GEN_Towels_Stacked_A_000
 #. Type = scenery
 #: Mods/GustavDev/Levels/BGH_SteelWatchFoundry_B/Scenery/_merged.lsx:12553
-#, fuzzy
 msgctxt "h4fdedfc3gf347g49d1ga512g5bdb2187709e"
 msgid "Stacked Towels"
-msgstr "쌓여있는 수건"
+msgstr "수건 더미"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_CIN_SeluniteCourtyard_A/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8091,7 +8067,7 @@ msgstr "열린 관"
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:12039
 msgctxt "hb23b9697g0badg4a93g90cbg01d29a4771ab"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8102,7 +8078,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:21074
 msgctxt "h9a596a96gecc1g4381ga3a3ged2ac6cf9d34"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8113,7 +8089,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:30028
 msgctxt "h58081ad9gdc85g4242g9b41g5c2ff9c21524"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8124,7 +8100,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:37034
 msgctxt "h28801752g7f98g4914g89fbgd923affc2782"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8135,7 +8111,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:53630
 msgctxt "hf033a460g66d9g4e43g9a43g6647fbba895e"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8146,7 +8122,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:54505
 msgctxt "h661dc296geed8g4a72gb5f6g704444410253"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8157,7 +8133,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:58105
 msgctxt "he3be9f02gc834g4321gb566gfe4bc50db771"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8168,7 +8144,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:84870
 msgctxt "ha5cd0cceg8f28g49aagb233g0e39be09bff6"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8179,7 +8155,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:102125
 msgctxt "hb5d52838g10eag4f12g8454g9164c8b892c3"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8190,7 +8166,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:103608
 msgctxt "hdf85fa84g5f47g46d3g9a06g463d4766974d"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8201,7 +8177,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:116955
 msgctxt "h3d895dfag00c0g430agad43gceef4eee0c10"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8223,7 +8199,7 @@ msgstr "화로"
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:269129
 msgctxt "h4588dd82g062dg451eg87ffgf83a0579d61d"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8234,7 +8210,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:293850
 msgctxt "hf7c0497eg2377g4f67g901eg0448ea711c22"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8245,7 +8221,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:305622
 msgctxt "hb946dde6gce11g450bgbd9cg686ed5549210"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8256,7 +8232,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:313325
 msgctxt "h3aaf16f7g7b36g498cgb2a3g0156e2e524d3"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8267,7 +8243,7 @@ msgstr ""
 #: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:161495
 msgctxt "he83f0d92g4afeg4963g9ed8gc43eae7a92d5"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -8289,7 +8265,7 @@ msgstr "화로"
 #: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:247694
 msgctxt "h2f015edfgfe2eg4e5cg956bgbe911416077d"
 msgid "Relief of Shar"
-msgstr ""
+msgstr "샤의 안도"
 
 #. FilePath = Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx
 #. NodeID = GameObjects
@@ -13894,9 +13870,8 @@ msgid ""
 "Everything changes when you awaken imprisoned on an alien ship. Perhaps your "
 "time has finally come."
 msgstr ""
-"당신은 항상 본인에게 더 큰 부름이 있다고 느꼈지만, 아직 그 결실을 보지는 "
-"못했습니다. 외계 우주선에 갇힌 채 깨어나면 모든 것이 바뀔 것입니다. 아마도 "
-"당신의 때가 마침내 찾아왔는지도 모르겠습니다."
+"당신은 항상 본인에게 더 큰 부름이 있다고 느꼈지만, 아직 그 결실을 보지는 못했습니다. 외계 우주선에 갇힌 채 깨어나면 모든 것이 바뀔 "
+"것입니다. 어쩌면 당신의 때가 마침내 찾아왔는지도 모르겠습니다."
 
 #. FilePath = Public/Shared/Origins/Origins.lsx
 #. NodeID = Origin
@@ -13920,8 +13895,7 @@ msgid ""
 "Eldra Luthrinn, slayer of people, monsters, and cups of sweet pear tea, was "
 "shown a watery grave when hunting Absolutists in the valleys of the "
 "Chionthar."
-msgstr "인간과 괴물, 그리고 달콤한 배차 학살자인 엘드라 루트린은 차온타르 계곡에서 "
-"절대자 신도들을 사냥할 때 익사한 줄 알려졌다."
+msgstr "사람과 괴물, 그리고 달콤한 배 차를 잘 해치우던 엘드라 루스린은 치온타르 강의 계곡에서 절대자 신도들을 쫓다가 익사했습니다."
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -13997,7 +13971,7 @@ msgid ""
 "transforming into one would help him escape Absolutist marauders. He was "
 "wrong. "
 msgstr ""
-"단톤은 공작새를 기르는 품위 있는 드루이드였습니다. 그는 이들의 모습으로 변신하는 것이 절대자 약탈자의 눈을 피하는 데 유용할 거로 "
+"댄튼은 공작새를 기르는 품위 있는 드루이드였습니다. 그는 이들의 모습으로 변신하는 것이 절대자 약탈자의 눈을 피하는 데 유용할 거로 "
 "생각했으나, 그건 착각이었습니다. "
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
@@ -14008,7 +13982,7 @@ msgstr ""
 #: Public/SharedDev/Origins/Origins.lsx:82
 msgctxt "h51b33525g162ag4454gacdagc49ec815bf6a"
 msgid "Danton"
-msgstr "단톤"
+msgstr "댄튼"
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -14196,10 +14170,9 @@ msgstr ""
 #. Name = Hireling_Wizard
 #. Passives = DeathSavingThrows
 #: Public/SharedDev/Origins/Origins.lsx:256
-#, fuzzy
 msgctxt "h2b7fe12ege3e4g42f0g8b9bg6ee81c206ea1"
 msgid "Sir Fuzzalump"
-msgstr "푸자룸프 경"
+msgstr "퍼잘럼프 경"
 
 #. FilePath = Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -20780,13 +20753,12 @@ msgstr "어새신"
 #. HandlePath = Description
 #. ExactMatch = StormSorcery
 #: Public/SharedDev/Progressions/ProgressionDescriptions.lsx:448
-#, fuzzy
 msgctxt "h409f2ce7g5972g4064g98b7gb8f8b1336f70"
 msgid ""
 "Whether crackling with the energy of ancient deluges or pierced by gales and "
 "hurricanes, your lineage is a strange tapestry scrawled by a tempest. "
-msgstr "고대 대홍수의 에너지가 깃들고 돌풍과 회오리에 꿰뚫린 당신의 혈통은 폭풍우가 "
-"휘갈긴 기묘한 태피스트리와도 같습니다. "
+msgstr ""
+"고대 대홍수의 기운이 잔금처럼 박혀 있거나 돌풍과 회오리에 헤집혔던 당신의 혈통은, 폭풍우가 휘갈긴 기묘한 태피스트리와도 같습니다. "
 
 #. FilePath = Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -23991,6 +23963,7 @@ msgstr "미이라 군주"
 #. HandlePath = Description
 #. Name = Tressym
 #: Public/SharedDev/Races/Races.lsx:4445
+#, fuzzy
 msgctxt "hcbc8bbafg9869g441ag8d33g21ee26a5b64d"
 msgid ""
 "Slinking through door cracks, preening with one eye on the nearest milk "
@@ -23998,6 +23971,8 @@ msgid ""
 "tower, tressym are like all small felines in that they ride the line between "
 "cuteness and total nuisance. "
 msgstr ""
+"트레심은 문틈 사이로 살금살금 다니며, 한 눈은 언제나 우유 그릇을 바라보고, 마법사 탑 굴뚝 주위에서 날개를 팔랑거리며 다닌다는 점에서 "
+"귀여움과 골칫거리 사이에 있는 작은 고양이를 닮았습니다. "
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24014,11 +23989,12 @@ msgstr "트레심"
 #. Name = SkeletalDragon
 #. RaceSoundSwitch = Skeletal_Dragon
 #: Public/SharedDev/Races/Races.lsx:4453
+#, fuzzy
 msgctxt "h9e4d47bdg1787g4ebeg89aeg2a1eceb3ba3c"
 msgid ""
 "Bones studded with rotting scales and draped with dead tissue, these dragons "
 "have been animated by fell necromancy. "
-msgstr ""
+msgstr "부패한 비늘과 죽은 피부가 뼈에 덧대어진 이 용은 사악한 강령술로 움직입니다. "
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24035,12 +24011,13 @@ msgstr "언데드 드래곤"
 #. HandlePath = Description
 #. Name = Hollyphant
 #: Public/SharedDev/Races/Races.lsx:4469
+#, fuzzy
 msgctxt "h49219d45g94f3g4388g9c05g25c5a170cac2"
 msgid ""
 "Bobbing like corks in the earnest, busy muddle-puddle of their lives, "
 "hollyphants are sweet-natured little pachyderms who often serve as helpers "
 "to good-aligned deities. "
-msgstr ""
+msgstr "코르크 마개처럼 흔들거리며 분주하게 살아가는 홀리펀트는 선한 신의 조력자를 자처하는 다정한 성격의 작은 코끼리입니다. "
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24049,7 +24026,7 @@ msgstr ""
 #: Public/SharedDev/Races/Races.lsx:4470
 msgctxt "h16f8825fge10ag4354g9248gff099d1e9468"
 msgid "Hollyphant"
-msgstr ""
+msgstr "홀리펀트"
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24057,11 +24034,12 @@ msgstr ""
 #. Name = Steelwatcher
 #. RaceSoundSwitch = SteelWatcher
 #: Public/SharedDev/Races/Races.lsx:4477
+#, fuzzy
 msgctxt "h63362488g3fdag40a2g8228ga141010b9afe"
 msgid ""
 "The operations of these huge steel juggernauts are powered by engines of "
 "churning hellfire. "
-msgstr ""
+msgstr "이 거대한 강철 저거너트는 마구 끓어오르는 지옥불 엔진으로 가동됩니다. "
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24071,19 +24049,21 @@ msgstr ""
 #: Public/SharedDev/Races/Races.lsx:4478
 msgctxt "h2ee316f9g7bb7g4e8eg999dg884f18546521"
 msgid "Steel Watcher"
-msgstr "스틸 와쳐"
+msgstr "스틸 워쳐"
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
 #. HandlePath = Description
 #. Name = Shambling Mound
 #: Public/SharedDev/Races/Races.lsx:4491
+#, fuzzy
 msgctxt "hd2041d7cg5d7cg413fgb507ge93e4a44cab3"
 msgid ""
 "These rotting heaps of animated vegetation absorb all organic matter they "
 "come in contact with, and are bloated with the remains of plants, animals, "
 "and sewage systems."
 msgstr ""
+"썩은 채 꾸물거리는 이 식물 더미는 접촉하는 모든 살아 있는 것들을 흡수하고 남은 식물성, 동물성, 하수 오물의 잔해로 부풀어 오릅니다."
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24099,11 +24079,12 @@ msgstr "움직이는 땅"
 #. HandlePath = Description
 #. Name = Alioramus
 #: Public/SharedDev/Races/Races.lsx:4499
+#, fuzzy
 msgctxt "h202c5bc4g22a3g4beegb393g2fc1a341b7e0"
 msgid ""
 "Alioramus are sedulous hunters, their broad jaws capable of crushing a "
 "knight's chest through a full inch of iron plate. "
-msgstr ""
+msgstr "열정적인 사냥꾼 알리오라무스는 넓은 턱으로 1인치 두께의 철판 흉갑을 뚫고 기사의 갈비뼈를 부술 수 있습니다. "
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24119,11 +24100,12 @@ msgstr "알리오라무스"
 #. HandlePath = Description
 #. Name = |Raven|
 #: Public/SharedDev/Races/Races.lsx:4507
+#, fuzzy
 msgctxt "h3edd48fcgdaffg439cg8286gfc91cb066e8c"
 msgid ""
 "The intellect and opportunism of the common raven sets it apart from other "
 "birds almost as much as its pitch-dark coat. "
-msgstr ""
+msgstr "까마귀의 지능과 기회주의는 칠흑 같은 깃털만큼 다른 새들과 구별됩니다. "
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24139,11 +24121,12 @@ msgstr "까마귀"
 #. HandlePath = Description
 #. Name = Butler
 #: Public/SharedDev/Races/Races.lsx:4515
+#, fuzzy
 msgctxt "h6f474acegb9aeg4cefgb109g4577be291a2e"
 msgid ""
 "The Temple of Bhaal's maid-of-all-work. Obsequious and eternal, Sceleritas "
 "lives to die, and dies to serve. "
-msgstr ""
+msgstr "바알 신전의 잡부 시녀, 영원한 아첨의 스켈레리타스는 죽기 위해 살고, 섬기기 위해 죽습니다. "
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24163,7 +24146,7 @@ msgctxt "h5ac67acfgef06g47f8ga1c3gefdb7037eb22"
 msgid ""
 "When a fallen paladin dies without atonement, it can be brought back from "
 "the grave as something entirely different - entirely evil."
-msgstr ""
+msgstr "타락한 팔라딘이 속죄 없이 죽음을 맞이하면, 완전히 다른 존재로 무덤에서 되살아나기도 합니다. 완전히 악한 존재로서 말입니다."
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24192,9 +24175,10 @@ msgstr ""
 #. HandlePath = DisplayName
 #. Name = Ghast
 #: Public/SharedDev/Races/Races.lsx:4532
+#, fuzzy
 msgctxt "he3282bdeg0336g407bg9f2fg897e8db5f307"
 msgid "Ghast"
-msgstr ""
+msgstr "가스트"
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24355,9 +24339,10 @@ msgstr ""
 #. HandlePath = DisplayName
 #. Name = Vengeful Cambion
 #: Public/SharedDev/Races/Races.lsx:4596
+#, fuzzy
 msgctxt "ha10f50e9g0232g4ccbgb0d2gd2b437326316"
 msgid "Vengeful Cambion"
-msgstr ""
+msgstr "복수심에 불타는 캠비온"
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24369,6 +24354,8 @@ msgid ""
 "In life, these faceless legionnaires of the Nine Hells were soldiers who "
 "served evil without reservation. In death, they serve Raphael."
 msgstr ""
+"이 얼굴 없는 아홉 지옥의 군단원들은 살아 있을 때에는 주저 없이 악을 위해 일한 군인들이었습니다. 이들은 죽은 뒤에 라파엘을 섬기게 "
+"되었습니다."
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24377,7 +24364,7 @@ msgstr ""
 #: Public/SharedDev/Races/Races.lsx:4604
 msgctxt "h19a1f368g2c99g49d9gadc9gf42ab6ab4c88"
 msgid "Raphaelian Merregon"
-msgstr ""
+msgstr "라파엘의 메레곤"
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24503,7 +24490,6 @@ msgstr "야수"
 #. HandlePath = Description
 #. Name = Displacer Beast
 #: Public/SharedDev/Races/Races.lsx:4657
-#, fuzzy
 msgctxt "h3067514ag4f15g4c5dga224gad678eb3f0b3"
 msgid ""
 "A displacer beast's coat is slick with illusory magic that can bend light, "
@@ -24511,9 +24497,8 @@ msgid ""
 "can never know a displacer beast's true location - until its claws sink into "
 "your belly, that is."
 msgstr ""
-"displacer beast의 털은 빛을 구부리는 환상 마법으로 물들어 있어, 자신의 "
-"모습을 투영하고 투명하게 만들어줍니다. 모험가들은 displacer beast의 정확한 "
-"위치를 절대로 알수 없다고 합니다. displacer beast의 발톱에 찔리기 까지는요."
+"디스플레이서 비스트의 털은 빛을 구부리는 환영 마법으로 물들어 있어, 자신의 모습을 투영하고 본체를 투명하게 만들어줍니다. 모험가들은 "
+"디스플레이서 비스트의 정확한 위치를 절대로 알 수 없다고들 말합니다. 놈의 발톱이 배를 찢고 들어오기 전까지는 말입니다."
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24816,8 +24801,7 @@ msgctxt "h465dc37dg304dg4745gbd0eg81f210051ab8"
 msgid ""
 "You will only have a single save slot, and the game will autosave when a "
 "party member dies."
-msgstr "단 1개의 세이브 슬롯만 사용할 수 있으며, 파티원이 죽으면 게임이 자동으로 "
-"저장됩니다."
+msgstr "단 1개의 저장 슬롯만 사용할 수 있으며, 파티원이 죽으면 게임이 자동으로 저장됩니다."
 
 #. FilePath = Public/Shared/Ruleset/RulesetModifiers.lsx
 #. NodeID = RulesetModifier
@@ -25452,8 +25436,7 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> No effect on corpses of "
 "constructs, plants, or aberrations."
 msgstr ""
-"<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 구조물의 시체나 식물, "
-"괴이체에게는 효과가 없습니다."
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 구조물, 식물, 괴이체의 시체에는 효과가 없습니다."
 
 #. FilePath = Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -25870,7 +25853,7 @@ msgstr ""
 msgctxt "h7add3f07g543bg479fgac6bgdb5bf3da8239"
 msgid ""
 "Targets overcome their Stage Fright early when they succeed an Attack Roll."
-msgstr "대상이 명중 굴림에 성공하면 무대 공포증의 효과가 일찍 종료됩니다."
+msgstr "대상이 명중 굴림에 성공하면 수행 불안의 효과가 일찍 종료됩니다."
 
 #. FilePath = Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -26492,7 +26475,7 @@ msgstr "바라나의 목소리"
 #: Public/SharedDev/Voices/Voices.lsx:72
 msgctxt "h003f342fg862fg4f8bg8c0eg97fa2168c1df"
 msgid "Voice of Sina'zith"
-msgstr ""
+msgstr "시나지스의 목소리"
 
 #. FilePath = Public/SharedDev/Voices/Voices.lsx
 #. NodeID = Voice
@@ -26500,7 +26483,7 @@ msgstr ""
 #: Public/SharedDev/Voices/Voices.lsx:79
 msgctxt "h029246d6g1890g4e95g86efgdbbb8d0ad444"
 msgid "Voice of Kerz"
-msgstr ""
+msgstr "케르즈의 목소리"
 
 #. FilePath = Public/SharedDev/Voices/Voices.lsx
 #. NodeID = Voice
@@ -26508,7 +26491,7 @@ msgstr ""
 #: Public/SharedDev/Voices/Voices.lsx:86
 msgctxt "h7989f4d9g76a7g4dc7gb94bgaf214aa12365"
 msgid "Voice of Ver'yll"
-msgstr ""
+msgstr "베리일의 목소리"
 
 #. FilePath = Public/SharedDev/Voices/Voices.lsx
 #. NodeID = Voice
@@ -26524,7 +26507,7 @@ msgstr "마달라의 목소리"
 #: Public/SharedDev/Voices/Voices.lsx:100
 msgctxt "h7b6ffeb1g73bcg4828g9619gb79edc411d0f"
 msgid "Voice of Jacelyn"
-msgstr ""
+msgstr "재슬린의 목소리"
 
 #. FilePath = Public/SharedDev/Voices/Voices.lsx
 #. NodeID = Voice
@@ -26532,7 +26515,7 @@ msgstr ""
 #: Public/SharedDev/Voices/Voices.lsx:107
 msgctxt "hccc0dc05gb6b2g446ega228gbff5156efe92"
 msgid "Voice of Kree"
-msgstr ""
+msgstr "크리의 목소리"
 
 #. FilePath = Public/SharedDev/Voices/Voices.lsx
 #. NodeID = Voice
@@ -26540,7 +26523,7 @@ msgstr ""
 #: Public/SharedDev/Voices/Voices.lsx:114
 msgctxt "h3327355bg3badg4a7bg998fgd3a489d9b26e"
 msgid "Voice of Fuzzalump"
-msgstr ""
+msgstr "퍼잘럼프의 목소리"
 
 #. FilePath = Public/SharedDev/Voices/Voices.lsx
 #. NodeID = Voice

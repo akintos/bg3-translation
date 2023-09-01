@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:29+0900\n"
-"PO-Revision-Date: 2023-08-31 03:54+0000\n"
-"Last-Translator: fomafee <fomafee@kakao.com>\n"
+"PO-Revision-Date: 2023-09-01 10:54+0000\n"
+"Last-Translator: Milesand <me@dicemice.me>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/books/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2638,9 +2638,8 @@ msgid ""
 "these shadow-cursed lands explored by githyanki scouts. Evidently their "
 "forces are getting closer and closer to Moonrise Towers.]"
 msgstr ""
-"[이 지도는 즉석에서 제작되었습니다. 기스양키 정찰대가 조사한 그릶자 저주를 "
-"받은 땅의 일부 지역들을 강조하고 있습니다. 기스양키 세력이 문라이즈 타워에 "
-"점점 더 가까워지고 있음을 알 수 있습니다.]"
+"[이 지도는 즉석에서 제작되었습니다. 기스양키 정찰대가 조사한 그림자 저주를 받은 땅의 일부 지역들을 강조하고 있습니다. 기스양키 세력이 "
+"문라이즈 타워에 점점 더 가까워지고 있음을 알 수 있습니다.]"
 
 #. key = CRE_CultistsUndead_KethericOrders
 #. 
@@ -8546,6 +8545,7 @@ msgstr "이 검고 무거운 책의 책등에는 은색 해골의 사슬이 새�
 #. HandlePath = Content
 #. UUID = GEN_Gods_DeathandDivinityJergal
 #: Mods/Gustav/Localization/Generic_Books.lsx:638
+#, fuzzy
 msgctxt "h198aca7cg98feg4350ga59ag7c293019a770"
 msgid ""
 "Death is too powerful a force for even a single god to contain. It is a duty "
@@ -8568,23 +8568,18 @@ msgid ""
 "Even gods can die, after all. Those who worship death should remember that "
 "above all else."
 msgstr ""
-"죽음은 하나의 신조차도 담을 수 없을 만큼 강력한 힘입니다. 그것은 손에서 "
-"손으로 전해져 왔고, 더 작은 조각들로 쪼개졌습니다. - 질병, 전쟁, 장례식 - "
-"그러나 삶이 사라지는 순환의 감독자는 항상 있어야 합니다.\n"
+"죽음은 신조차도 혼자 담을 수 없을 만큼 강력한 힘입니다. 죽음은 여러 손을 거치며, 작은 조각들 - 질병, 전쟁, 장례식 - 로 "
+"쪼개졌습니다. 그러나 삶이 사라지는 순환의 감독자는 항상 있어야 합니다.\n"
 "\n"
-"수 많은 영겁 동안, 제르갈이 있었습니다. 모든 종말의 제왕은 눈도 깜빡이지 "
-"않고 필멸을 주관했습니다. 심지어 그가 지칠 때까지 말입니다. 젊은 바알, 베인, "
-"머큘은 죽음의 신을 위해 왔을 때 자신들을 정복자라고 생각했을 것입니다. "
-"그러나 그는 그들의 야망을 사용하여 자신을 해방했습니다.\n"
+"수많은 영겁 동안, 그 감독자는 제르갈이었습니다. 모든 것의 종말의 주인은 눈도 깜빡이지 않고 필멸을 주관했습니다. 그러나 그런 그조차도 "
+"지치고 말았습니다. 젊은 바알, 베인, 머큘은 죽음의 신에게 도전하며 스스로를 정복자라고 생각했겠지만, 제르갈은 그들의 야망을 사용하여 "
+"자신을 해방했습니다.\n"
 "\n"
-"머큘은 제르갈의 거래에서 죽음의 우선권을 주장했지만, 그 조차도 죽음을 "
-"단독으로 다스리지는 않습니다. 살인이란 무엇일까요? 가장 폭력적인 죽음이 "
-"아닌가요? 바알의 끊임없는 탐욕에 의해 부추겨지는 것일까요? 하나의 신격이 "
-"전체 과정을 유지할 수 있다면, 고귀한 켈렘보르가 지나가는 영혼을 심판할 "
+"머큘은 제르갈과의 거래로 죽음을 정복했으나, 그조차도 죽음을 혼자 다스리지는 않습니다. 살인이 가장 잔혹한 죽음이자 바알이 끝없는 "
+"탐욕으로 취한 것이 아니라면 무엇이겠습니까? 신격 하나가 그 과정을 온전히 감당할 수 있다면, 고귀한 켈렘보르가 떠나는 영혼을 심판할 "
 "필요가 무엇입니까?\n"
 "\n"
-"결국 신들도 죽을 수 있습니다. 죽음을 숭배하는 사람들은 그 무엇보다도 그것을 "
-"기억해야 합니다."
+"신들도 죽을 수 있습니다. 죽음을 숭배하는 사람들은 그 무엇보다도 그것을 기억해야 합니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -16568,7 +16563,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/3659f085-ccfb-451b-8d04-1bfe683efb6f.lsx:15
 msgctxt "h1467b80bgaf01g4440gbe9eg6b10c782cb33"
 msgid "Veronica Hamperclips and her Adventures Beyond The Washbasin"
-msgstr ""
+msgstr "베로니카 햄퍼클립스의 세면대 너머로의 모험"
 
 #. key = GLO_GeneralLoreBook_ALifeOfAdventure
 #. 
@@ -16589,6 +16584,10 @@ msgid ""
 "awful husband one bit. This is escapist fantasy, treacle potboiling of the "
 "treacliest variety, and it is glorious.]"
 msgstr ""
+"[이 소설은 품위 없고 저급한 남편 때문에 원하던 것보다 많은 아이를 낳고 인생이 꼬이게 된 베로니카 '로니' 햄퍼클립스라는 여성을 "
+"다루고 있습니다. 로니는 끝없는 청소의 굴레에 빠져 세면대 앞에서 매일매일을 보내다가, 불안할 정도로 잘생긴 페어리 왕자 리겔을 만나 "
+"그의 해결 불가능한 수수께끼를 풀어내면서 지루한 일상에서 벗어나게 됩니다. 그리고 페어리 궁정의 암투와 다툼에 휩쓸려 들어가 골칫거리 "
+"자식과 끔찍한 남편은 까맣게 잊고 놀라운 시간을 보내게 됩니다. 이 이야기는 지나치게 달콤하고 아름다운 현실도피 판타지입니다.]"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -16597,7 +16596,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/e5634662-f701-40a6-9250-a5b3f66f34da.lsx:13
 msgctxt "h0d4992c0g3c6eg4836g8f79gcda8d63b320e"
 msgid "The Absolute End"
-msgstr ""
+msgstr "절대자의 종말"
 
 #. key = GLO_GeneralLoreBook_AbsoluteCultFearmongering
 #. 
@@ -16617,6 +16616,11 @@ msgid ""
 "the withering of some imported fruits from Chult. This person needs a glass "
 "of water and a lie down."
 msgstr ""
+"[절대자 교단과 그 위험성을 다룬 책 아래에 다음과 같은 글이 덧붙여져 있습니다.]\n"
+"이 성급하게 써진 글은 물론 좋은 의도에서 작성되었을 것이다. 그러나 글의 저자는 분명히 절대자에 대한 공포에 휩싸여 있는 것이 "
+"분명하다. 무엇보다 문제는 엔트로피 증가로 발생할 열사(熱死)에 따른 우주적 종말, 외눈의 리치 베크나의 부활, 과도한 강령술의 지나친 "
+"확산, 심지어 출트에서 수입된 과일들이 시드는 것과 같은 명백히 다른 사실들과 절대자 교단의 출현을 혼동하고 있다는 점이다. 이 자는 "
+"냉수나 한잔 마시고 좀 쉬어야 할 것이다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -16625,7 +16629,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/b32d5c6b-2d94-4352-a483-3e2e05dcc465.lsx:13
 msgctxt "h2a00de46g3a01g4417ga905g6ae7dc439752"
 msgid "The Easy Life"
-msgstr ""
+msgstr "쉬운 삶에 관하여"
 
 #. key = GLO_GeneralLoreBook_AbsoluteCultLiving
 #. 
@@ -16653,6 +16657,16 @@ msgid ""
 "People say cults are about conformity. I say they break it. I say they snap "
 "conformity's rotten, scrawny neck. "
 msgstr ""
+"무엇을 입을지. 배우자에게 무엇을 말할지. 누구와 친구가 될지. 직장에서 일은 왜 하고 있습니까? 왜 세금이나 요리할 거, 읽을거리, "
+"사고팔 거 같은 헛짓거리에 신경을 쓰는 겁니까? 왜 헛짓거리에는 끝이 없는 겁니까? 비밀이 하나 있습니다, 형제자매들이여. 비밀이 하나 "
+"있어요. 진짜로, <i>있습니다.</i>\n"
+"\n"
+"저 또한 그런 헛짓거리에 파묻혀 살았습니다. 쓸데없음이 넘쳐나는, 똥 뷔페, 배설물의 행진, 변 폭풍과도 같은 나날이었습니다. 여러분, "
+"우리가 내려야 했던 그 모든 좆같은 <i>결정</i>들은, 의미가 없었습니다. 그것들은 애초에 목적이 없는 것들이었습니다. 사고와 목표를 "
+"공유하는 우리 사교도(더럽고 추잡한 말입니다. 저는 이 표현을 좋아하지 않지만, 형제자매들이여, 저 자신을 '위해' 결정했습니다.)같은 "
+"공동체에서는, 머리 속을 썩어가게 만드는 선택들 없이 하루하루가 새롭고 즐겁습니다.\n"
+"\n"
+"사람들은 사교도가 순응한다고 말합니다. 저는 이렇게 말하겠습니다. 그들은 그걸 깨부순다고. 순응의 썩어빠지고 앙상한 목을 분질러버린다고. "
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -18856,7 +18870,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/4595eed7-ac54-43e4-b28f-2d574717c2cf.lsx:15
 msgctxt "hb4ecb0a1g122cg4f11gb128g20ddb3116778"
 msgid "What Abides Below"
-msgstr ""
+msgstr "무엇이 지하에 남아있는가"
 
 #. key = GLO_GeneralLoreBook_UndercityLegends
 #. 
@@ -18883,6 +18897,15 @@ msgid ""
 "beneath our streets - and do they have designs on what we like to think of "
 "as our world on the surface above?"
 msgstr ""
+"플라몬돈의 말에 따르면 발더란이 바다의 보물들을 가지고 돌아와 위대한 도시를 세우기 전까지 그레이 하버는 작은 해안가 마을이었다고 한다. "
+"그러나 도시의 하수도 시스템 아래에 숨겨진 광활한 지하 폐허는 우리에게 다른 이야기를 전해준다.\n"
+"\n"
+"발더란이 씨 타워를 세우기로부터 먼 과거에, 치온타르 강 하류의 만에 도시가 하나 있었다. 근사한 대로와 하늘로 치솟는 화강암 건물들이 "
+"자리 잡은 대도시였는데, 알 수 없는 대격변으로 인해 부서지고 삼켜져 토대와 기반암만이 남았다.\n"
+"\n"
+"발더란 이전 시대에 살던 그 잊혀진 사람들은 과연 누구였을까? 어쩌면 더 중요한 질문으로, 누군가 혹은 무언가가 그 황량한 항구 도시의 "
+"지하 폐허에 여전히 살고 있을까? 생명체든 인공물이든 대체 무엇이 우리의 발아래 깊은 곳에 도사리고 있는 것일까? 그리고 과연 우리가 "
+"우리의 세계라고 여기는 지상 위를 노리는 검은 손을 뻗치고 있지는 않을까?"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -18893,7 +18916,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/2e26eefd-8bf1-4348-862d-2bf5f06a117c.lsx:15
 msgctxt "h98750fc5g6b96g46ecg992ag6ebe5dc836bd"
 msgid "Vampiric Duality"
-msgstr ""
+msgstr "뱀파이어의 이중성"
 
 #. key = GLO_GeneralLoreBook_VampirismCurseOrDisease
 #. 
@@ -19526,7 +19549,6 @@ msgstr "도시 탐험 - 지하도시 편"
 #. HandlePath = Content
 #. UUID = GLO_Sewers_UrbanExplorationTheUndercity
 #: Public/GustavDev/Localization/generated_books.lsx:3347
-#, fuzzy
 msgctxt "h51637eacgdb46g4cb3ga942g4b75d54f0a4d"
 msgid ""
 "Intrepid hobbyists who pursue the urban exploration of Baldur's Gate will "
@@ -19543,10 +19565,10 @@ msgid ""
 "cannot recommend it."
 msgstr ""
 "발더스 게이트의 여러 도시를 탐험하는 용감한 이들에게 거리 아래에 존재하는 어둠의 영역보다 큰 도전은 없을 것이다. 당연히 모두가 도시의 "
-"위생은 지하 터널을 흐르는 물이 회색 항구까지 온갖 쓰레기를 흘려보내주기 때문이라는 사실을 알고 있다. 하수구 출입구 너머에는 역겹지마는 "
-"매우 흥미로운, 반쯤 문명화된 코볼트 부족이 파이프와 배수로를 관리하는 영역이 있다. 그리고 이곳의 깊숙한 어딘가에, 진정으로 저주받은 "
-"지하도시 폐허로 이어지는 잊힌 굴이 있다는 소문이 있다! 이 위험천만한 곳을 탐험한다는 생각만으로도 매우 흥분되지만, 책임 문제가 발생할 "
-"수 있으므로 본 글쓴이는 직접 추천할 수는 없다."
+"위생은 지하 터널을 흐르는 물이 그레이 하버까지 온갖 쓰레기를 흘려보내주기 때문이라는 사실을 알고 있다. 하수구 출입구 너머에는 "
+"역겹지마는 매우 흥미로운, 반쯤 문명화된 코볼트 부족이 파이프와 배수로를 관리하는 영역이 있다. 그리고 이곳의 깊숙한 어딘가에, 진정으로 "
+"저주받은 지하도시 폐허로 이어지는 잊힌 굴이 있다는 소문이 있다! 이 위험천만한 곳을 탐험한다는 생각만으로도 매우 흥분되지만, 책임 "
+"문제가 발생할 수 있으므로 본 글쓴이는 직접 추천할 수는 없다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -34429,7 +34451,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/2766a645-74da-4abd-86f1-00432189b4d9.lsx:15
 msgctxt "h1770440eg034ag45bdga3b8gcd4af1006347"
 msgid "Guest Book"
-msgstr ""
+msgstr "방명록"
 
 #. key = LOW_HouseOfHope_Invitation
 #. 
@@ -45468,12 +45490,12 @@ msgid ""
 "being - a shard of perfection lodged in your uncomprehending mind. We are "
 "True Souls, after all, and the truth our souls hold is Hers."
 msgstr ""
-"[절대자 신도에게 내리는 지침서]\n"
+"[절대자 광신도에게 내리는 경전입니다.]\n"
 "\n"
-"보이는 것은 알려지는 것이며, 그분에게 알려지는 것이야말로 가장 완벽한 일입니다. 각자가 스스로의 마음에 씌워진 장막을 걷어내야 할 "
-"것입니다. 무엇도 그분의 응시 없는 시선에 벗어날 수 없으므로, 절대자의 앞에서 비밀을 감추는 것은 어리석은 짓입니다. 당신이 가진 "
-"전부, 존재의 모든 작은 부분이 그분의 소유물입니다. 답례로, 그분 존재의 일부를 하사받아 불완전한 마음에 무결한 조각이 자리 잡게 될 "
-"것입니다. 우리는 참된 영혼이며, 우리 영혼이 품은 진실은 그분의 것입니다."
+"보이는 것은 알려지는 것이며, 그분께서 우리를 아시는 것이야말로 가장 완벽한 것일지니. 우리는 스스로의 마음에 씌워진 장막을 걷어내야 할 "
+"것입니다. 그 무엇도 절대자님의 보이지 않는 눈길에서 벗어날 수 없으므로, 그분께 비밀을 감추는 것은 어리석은 짓입니다. 당신이 가진 "
+"모든 것, 존재의 자그마한 부분까지 남김없이 그분의 것이 되어야 합니다. 답례로 절대자께서는 그분의 일부를 하사하시어, 당신의 불완전한 "
+"마음에 무결한 조각이 자리 잡을 것이니. 우리는 참된 영혼이며, 우리 영혼이 품은 참됨은 그분의 것입니다."
 
 #. key = MOO_BalthazarsSecrets_HintBook1
 #. 
@@ -47465,35 +47487,28 @@ msgstr ""
 "일기장에게,\n"
 "\n"
 "1일차:\n"
-"이 마을에는 아무 일도 일어나지 않아. 난 발더스 게이트로 갈 준비가 됐어. "
-"엄마가 허락해 주지 않으면 혼자서라도 갈 테야. 엄마 말로는 내 폐가 너무 "
-"약해서 매연을 견딜 수 없을 거라고 하는데, 내가 어떻게 로쓰 젖만 짜면서 "
-"살겠어?\n"
+"이 마을에는 아무 일도 일어나지 않아. 난 게이트로 갈 준비가 됐어. 엄마가 허락해 주지 않으면 혼자서라도 갈 테야. 엄마 말로는 내 "
+"폐가 너무 약해서 매연을 견딜 수 없을 거라고 하는데, 내가 어떻게 로쓰 젖만 짜면서 살겠어?\n"
 "\n"
 "7일차:\n"
-"하, 이상한 안개가 마을로 내려앉고 있는데 걷힐 기미가 안 보여. 점점 숨쉬기가 "
-"힘들어져. 엄마가 말을 바꿔서, 그게 걷힐 때까지 한동안 도시에 머무르러 떠나야 "
-"한대. 해가 뜨면 출발이야.\n"
+"하, 이상한 안개가 마을로 내려앉고 있는데 걷힐 기미가 안 보여. 점점 숨쉬기가 힘들어져. 엄마가 말을 바꿔서, 그게 걷힐 때까지 한동안 "
+"도시에 머무르러 떠나야 한대. 해가 뜨면 출발이야.\n"
 "\n"
 "14일차:\n"
-"떠나려 했는데, 무덤 위로 괴물들이 올라와서 집 주변을 어슬렁거리고 있어. 너무 "
-"늦었나 봐.\n"
+"떠나려 했는데, 무덤 위로 괴물들이 올라와서 집 주변을 어슬렁거리고 있어. 너무 늦었나 봐.\n"
 "\n"
 "21일차:\n"
-"로쓰들이 빙의 됐어. 울타리를 부수고, 서로를 죽을 때까지 때리고 있어... "
-"싸우다 죽고 다시 싸워. 그림자들이 전부... 창문 바로 앞에 모여 있어. 밖으로 "
-"겨우 몇 걸음 정도밖에 보이지 않아.\n"
+"로쓰들이 빙의 됐어. 울타리를 부수고, 서로를 죽을 때까지 때리고 있어... 싸우다 죽고 다시 싸워. 그림자들이 전부... 창문 바로 "
+"앞에 모여 있어. 밖으로 겨우 몇 걸음 정도밖에 보이지 않아.\n"
 "\n"
 "28일차:\n"
-"아직 안 죽었어. 하지만 곧 때가 올 거야, 그렇지? 이제 숨이 너무 가빠. 왜 집에 "
-"들어오질 않지? 왜 아직 우리를 데려가지 않냐고.\n"
+"아직 안 죽었어. 하지만 곧 때가 올 거야, 그렇지? 이제 숨이 너무 가빠. 왜 집에 들어오질 않지? 왜 아직 우리를 데려가지 않냐고.\n"
 "\n"
 "35일차:\n"
-"더는 못 버티겠어. 나에 대한 회고록을 써보려 했는데 아직 별로야. 좋은 말을 "
-"쓰기엔 너무 약해져 있어. 이렇게 잊혀진 채로 죽거나, 어떻게든 되겠지.\n"
+"더는 못 버티겠어. 나에 대한 회고록을 써보려 했는데 아직 별로야. 좋은 말을 쓰기엔, 난 너무 약해져 있어. 이렇게 잊혀진 채로 "
+"죽거나, 어떻게든 되겠지.\n"
 "\n"
-"여기 움츠려 있는 건 더 의미가 없어. 잠식해 오는 어둠에 대항할 수단이 없거든. "
-"내일, 안개 속으로 걸어 나가서 난 웃을 거야.\n"
+"여기 움츠려 있는 건 더 의미가 없어. 잠식해 오는 어둠에 대항할 수단이 없거든. 내일, 안개 속으로 걸어 나가서 난 웃을 거야.\n"
 "\n"
 "사랑을 담아,\n"
 "영원히 잊혀질 농부가.\n"
@@ -47568,6 +47583,22 @@ msgid ""
 "and Benjamin. Myself, and your two 'gents' are simply going to have a little "
 "chat. I promise.\n"
 msgstr ""
+"['다크 저스티시어 네타샤에 주목하여'라는 문구가 모든 면의 상단에 적혀있습니다. 이것은 마지막 페이지에서 발췌된 내용입니다.]\n"
+"15일, 아침: <b>시몬 노박</b>. 이 기세면 케서릭님이 문라이즈 타워를 오래 유지하긴 힘들 거라고 말했습니다.\n"
+"\n"
+"18일, 저녁: <b>이마니 아탁니</b>. 쏨 가문만이 가장 편한 일자리를 독차지하는 것이 불공평하다며 토로했습니다.\n"
+"\n"
+"22일, 밤: <b>마크 제이콥스</b>, <b>벤자민 블랑셰</b>. 쏨 가문에 대한 농담을 했습니다. 특히, 케서릭 경을 \"소인배"
+"\"이고 \"축 처진 불알\"이라 부르며 각하의 부인께서 그것에 정말 \"환장했을 거다\"라고 떠들어 댔습니다.\n"
+"네타샤님, 마크와 벤이 얼마나 명백히 지독한 말장난을 했는지 잘 알고 있습니다. 하지만 그 녀석들은 제 제일 친한 친구들이고 다른 곳에서 "
+"그런 말을 하는 걸 본 적이 없어요. 단지, 급료가 적어진 것에 잔뜩 화가 나 있었고 여태껏 그렇게 취한 건 본 적이 없을 정도로 "
+"자정까지 마셔댄 상태였습니다. 좋게 보이지 않으시겠지만, 가슴에 손을 얹고, 이 두 신사는 그 이상으로 여신께 헌신해 왔습니다. 맹세할 "
+"수 있어요.\n"
+"\n"
+"[어렵고 더욱 기품 있는 수기가 아래에 보입니다.]\n"
+"\n"
+"상실의 여인께서는 그대를 자랑스러워하실 것입니다, 매들린. 마크와 벤자민에 관해서는 걱정하지 않으셔도 좋습니다. '두 신사'와 저는 그저 "
+"조금 대화를 나눌 예정일 뿐이니까요. 약속하죠.\n"
 
 #. key = SCL_ServantOfTheRaven_ShadarKaiNote
 #. 
@@ -51808,7 +51839,7 @@ msgstr ""
 "우리의 여신님을 들여보내게 하소서.\n"
 "\n"
 "우리의 길을 감춰 주시는 샤를 보아라!\n"
-"아오로부터 태어난 분인 샤를 보아라!\n"
+"Ao로부터 태어난 분인 샤를 보아라!\n"
 "태고의 어둠이신 샤를 보아라!\n"
 "우리의 밤의 여신님을 보아라!"
 
@@ -53498,7 +53529,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/b85e351c-bd17-4aa7-92e1-5ef184e7ec9f.lsx:13
 msgctxt "h60fe8cd5g0c2ag4604g89c8g027bfaf2ea0a"
 msgid "Journal of Gyldro Angleiron"
-msgstr ""
+msgstr "길드로 앵글아이언의 일지"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -53507,7 +53538,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/b85e351c-bd17-4aa7-92e1-5ef184e7ec9f.lsx:14
 msgctxt "h184cc257gfaf7g44e1gb2ceg1deb0aa4a743"
 msgid "Gyldro Angleiron's journal."
-msgstr ""
+msgstr "길드로 앵글아이언의 일지입니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -53560,7 +53591,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/d7ebb802-31b3-4dcb-81b6-89106181e444.lsx:13
 msgctxt "h86ca4a0ag689dg4434g90a4g0144e0f553a7"
 msgid "Baldur's Gate's Temple Of Bhaal"
-msgstr ""
+msgstr "발더스 게이트의 바알 신전"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -53569,7 +53600,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/66ab6a82-9128-4239-b408-c0e8033cb095.lsx:14
 msgctxt "h5ba74346gf97ag456ag9d23gbd7f6acc1fa9"
 msgid "Best Smith in Rivington"
-msgstr ""
+msgstr "리빙턴 최고의 대장장이"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -53578,7 +53609,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/54007d2e-83cb-41a6-8961-024a0aad044e.lsx:13
 msgctxt "h4a9fcd7eg6276g4999g90f8g63d6d25653bb"
 msgid "Flyer advertising The Rivington General"
-msgstr ""
+msgstr "리빙턴 잡화점 전단지"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -53654,7 +53685,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/3c4d9a55-1194-4708-aed1-01dc68685a2b.lsx:13
 msgctxt "h9a6b5abega5a2g4f38g9747gf67103cfdc09"
 msgid "Ilmatari Combat Manual"
-msgstr ""
+msgstr "일메이터 전투 교범"
 
 #. key = UNI_WYR_BrokenOnesChronicles
 #. 
@@ -53694,7 +53725,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/01cb5c4d-bd8b-44ca-85bf-11ea6fc09eb2.lsx:13
 msgctxt "h66decc5agc764g4d5egb9c5g93266b72f7eb"
 msgid "Memoirs, Vol 1, Sister Clarwen"
-msgstr ""
+msgstr "클라웬 자매의 회고록 1권"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -53869,7 +53900,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/8de5b5e2-3df0-4df6-8ee7-1f8df82f4bfe.lsx:13
 msgctxt "h7051cf2dgd935g4fbbgbfd1g58e3063bf1cd"
 msgid "The Capacities of Elder Brains"
-msgstr ""
+msgstr "엘더 브레인의 능력"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -53902,7 +53933,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/01723c47-4878-43a9-afd9-6fa096830431.lsx:13
 msgctxt "h21876174g40bdg478eg91f3g243069b48dec"
 msgid "The Most Holy Sermons of Lashbearer Catrine"
-msgstr ""
+msgstr "채찍을 든 자 캐서린의 가장 거룩한 설교"
 
 #. key = UNI_WYR_FatherElliotWisdom
 #. 
@@ -55586,6 +55617,13 @@ msgid ""
 "To my other child, Figaro, I leave the management of my shop. A bit of "
 "honest labour would do him good."
 msgstr ""
+"발더스 게이트의 주민이자 건전한 정신과 잘 다듬어진 얼굴과 육체, 의복의 소유자인  나, 줄리오 페이스메이커는 이 문서를 나의 유지이자 "
+"유언으로 선언하는 바이다. 이 문서를 작성함으로서 나는 구두로서나 그 외의 수단으로 이루어진 이전의 약속들을 모두 철회하며, 이 문서의 "
+"내용에 이의를 제기하는 이는 재산 분배로부터 완전히 배제될 것이다.\n"
+"\n"
+"내 딸 카르멘에게 나의 전재산과 비단, 보석을 남긴다. 내 가족들 중 너만이 이걸 받을 자격이 있단다. \n"
+"\n"
+"내 다른 자녀 파가로에게 내 가게의 경영권을 남긴다. 정직한 노동이 녀석에게도 좋을 것이다."
 
 #. key = WYR_Flophouse_ButcheryPoster
 #. 

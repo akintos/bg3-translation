@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:30+0900\n"
-"PO-Revision-Date: 2023-08-31 03:54+0000\n"
-"Last-Translator: josephsssss <josephsssss@hotmail.com>\n"
+"PO-Revision-Date: 2023-09-01 10:54+0000\n"
+"Last-Translator: Milesand <me@dicemice.me>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/tutorial/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6667,6 +6667,7 @@ msgid ""
 "Use a light source like a torch or the Light spell to see in the dark. "
 "Creatures with darkvision don't need an external light source."
 msgstr ""
+"어둠 속에서 앞을 보려면 횃불이나 빛 주문 같은 광원을 사용하세요. 암흑시야를 가진 크리쳐는 광원이 없어도 앞을 볼 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6678,6 +6679,8 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialTorch\"/> Torch\n"
 "<LSTag Type=\"Image\" Info=\"TutorialLightSpell\"/> Light spell"
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialTorch\"/> 횃불\n"
+"<LSTag Type=\"Image\" Info=\"TutorialLightSpell\"/> 빛 주문"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6721,6 +6724,7 @@ msgid ""
 "Use a light source like a torch or the Light spell to see in the dark. "
 "Creatures with darkvision don't need an external light source."
 msgstr ""
+"어둠 속에서 앞을 보려면 횃불이나 빛 주문 같은 광원을 사용하세요. 암흑시야를 가진 크리쳐는 광원이 없어도 앞을 볼 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6732,6 +6736,8 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialTorch\"/> Torch\n"
 "<LSTag Type=\"Image\" Info=\"TutorialLightSpell\"/> Light spell"
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialTorch\"/> 횃불\n"
+"<LSTag Type=\"Image\" Info=\"TutorialLightSpell\"/> 빛 주문"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7615,9 +7621,8 @@ msgid ""
 "\"TutorialEncumbered\"/>Encumbered. Your movement and rolls will be "
 "negatively impacted until you drop some items. "
 msgstr ""
-"너무 많은 걸 들고 있어 <LSTag Type=\"Image\" Info=\"TutorialEncumbered\"/> "
-"과적 상태가 되었습니다. 아이템을 좀 덜어 낼 때까지 이동과 주사위 굴림에 "
-"부정적인 영향이 있을겁니다. "
+"너무 많은 걸 들고 있어 <LSTag Type=\"Image\" Info=\"TutorialEncumbered\"/> 과적 상태가 "
+"되었습니다. 아이템을 좀 덜어 낼 때까지 이동과 주사위 굴림에 부정적인 영향을 받게 됩니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
