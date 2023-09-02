@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:29+0900\n"
-"PO-Revision-Date: 2023-09-01 10:53+0000\n"
+"PO-Revision-Date: 2023-09-02 08:42+0000\n"
 "Last-Translator: Milesand <me@dicemice.me>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/default/ko/>\n"
 "Language: ko\n"
@@ -412,7 +412,7 @@ msgstr ""
 #: Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx:180
 msgctxt "hffaccf0ag0569g4b24gb7bfg470a9169ad4c"
 msgid "Natural Recovery Charge"
-msgstr "자연 복원 횟수"
+msgstr "자연 회복 충전"
 
 #. FilePath = Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -658,7 +658,7 @@ msgstr ""
 #: Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:46
 msgctxt "h401e72d2gb9d7g44f3gbd64gc95934805222"
 msgid "Luck Point(s)"
-msgstr "행운 점수"
+msgstr "행운 포인트"
 
 #. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -6132,10 +6132,10 @@ msgid ""
 "doubled for Deception and Performance <LSTag Tooltip=\"AbilityCheck\""
 ">Checks</LSTag>."
 msgstr ""
-"<LSTag Tooltip=\"Charisma\">매력이</LSTag> 1 만큼, 최대 20 까지 증가합니다.\n"
+"<LSTag Tooltip=\"Charisma\">매력</LSTag>이 1만큼, 최대 20까지 증가합니다.\n"
 "\n"
-"기만과 공연 <LSTag Tooltip=\"AbilityCheck\">능력치 판정</LSTag>에 대한 "
-"<LSTag Tooltip=\"ProficiencyBonus\">숙련 보너스</LSTag>가 두 배로 증가합니다."
+"기만과 공연 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 대한 <LSTag Tooltip="
+"\"ProficiencyBonus\">숙련 보너스</LSTag>가 두 배로 증가합니다."
 
 #. FilePath = Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6341,10 +6341,11 @@ msgid ""
 "\"AbilityCheck\">Ability Checks</LSTag>, or <LSTag Tooltip=\"SavingThrow\""
 ">Saving Throws</LSTag>, or to make an enemy reroll their Attack Rolls."
 msgstr ""
-"3개의 <LSTag Type=\"ActionResource\" Tooltip=\"LuckPoint\">행운 점수</LSTag>를 얻어, "
-"<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>과, <LSTag Tooltip=\"AbilityCheck\""
-">능력치 판정</LSTag>, 혹은 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag "
-"Tooltip=\"Advantage\">이점</LSTag>을 가지거나, 적의 명중 굴림을 다시 굴리게 만들 수 있습니다."
+"<LSTag Type=\"ActionResource\" Tooltip=\"LuckPoint\">행운 포인트</LSTag>를 3 얻습니다. "
+"행운 포인트를 사용해 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, <LSTag Tooltip="
+"\"AbilityCheck\">능력치 판정</LSTag>, 혹은 <LSTag Tooltip=\"SavingThrow\">내성 굴림</"
+"LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻거나, 적이 명중 굴림을 다시 하게 할 수 "
+"있습니다."
 
 #. FilePath = Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6401,9 +6402,9 @@ msgid ""
 "maximum of 20, and gain <LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> "
 "in that Ability's <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
-"하나의 <LSTag Tooltip=\"Abilities\">능력치</LSTag> 를 1 만큼, 최대 20 까지 "
-"올리며, 그 능력치의 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 "
-"<LSTag Tooltip=\"Proficiency\">숙련</LSTag> 을 가집니다."
+"<LSTag Tooltip=\"Abilities\">능력치</LSTag> 하나를 1만큼, 최대 20까지 올립니다. 그 능력치의 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Proficiency\""
+">숙련</LSTag>을 얻습니다."
 
 #. FilePath = Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6532,9 +6533,9 @@ msgid ""
 "\"CriticalHit\">Critical Hit</LSTag> with spells is reduced by 1. This "
 "effect can stack."
 msgstr ""
-"<LSTag Tooltip=\"Cantrip\">소마법</LSTag> 을 하나 배우고, 주문의 <LSTag Tooltip="
-"\"CriticalHit\">치명타</LSTag> 에 필요한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
-"LSTag> 의 수를 1 감소시킵니다. 이 효과는 중첩 가능합니다."
+"<LSTag Tooltip=\"Cantrip\">소마법</LSTag>을 하나 배우고, 주문의 <LSTag Tooltip="
+"\"CriticalHit\">치명타</LSTag>에 필요한 <LSTag Tooltip=\"AttackRoll\">명중 굴림</"
+"LSTag>의 결과값을 1 감소시킵니다. 이 효과는 중첩 가능합니다."
 
 #. FilePath = Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6586,13 +6587,13 @@ msgid ""
 "Tooltip=\"Target_ShockingGrasp\">Shocking Grasp</LSTag> at a target moving "
 "out of melee range."
 msgstr ""
-"주문의 <LSTag Tooltip=\"Concentration\">집중</LSTag>을 유지하기 위한 <LSTag "
-"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\""
-">이점</LSTag> 을 가집니다.\n"
+"주문의 <LSTag Tooltip=\"Concentration\">집중</LSTag>을 유지하기 위한 <LSTag Tooltip="
+"\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 얻습니다."
+"\n"
 "\n"
 "또한 근거리에서 벗어나는 적에게 <LSTag Type=\"ActionResource\" Tooltip="
-"\"ReactionActionPoint\">반응 행동</LSTag> 으로 <LSTag Type=\"Spell\" Tooltip="
-"\"Target_ShockingGrasp\">전격의 손아귀</LSTag> 를 시전할 수 있습니다."
+"\"ReactionActionPoint\">반응 행동</LSTag>으로 <LSTag Type=\"Spell\" Tooltip="
+"\"Target_ShockingGrasp\">전격의 손아귀</LSTag>를 시전할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6635,6 +6636,7 @@ msgstr "평갑의 달인"
 #. HandlePath = Description
 #. ExactMatch = PolearmMaster
 #: Public/SharedDev/Feats/FeatDescriptions.lsx:141
+#, fuzzy
 msgctxt "hc87a7293g3b25g406bg99e4gbb91dc138e9b"
 msgid ""
 "When attacking with a glaive, halberd, quarterstaff, or spear, you can use a "
@@ -6644,12 +6646,11 @@ msgid ""
 "You can also make an <LSTag Tooltip=\"OpportunityAttack\">Opportunity "
 "Attack</LSTag> when a target comes within range."
 msgstr ""
-"글레이브, 할버드, 쿼터 스태프 또는 창으로 공격할 때, 무기의 반대쪽 부분으로 "
-"<LSTag Type=\"ActionResource\" Tooltip=\"BonusActionPoint\">추가 행동</"
-"LSTag> 공격을 할 수 있습니다.\n"
+"글레이브나 할버드, 쿼터스태프, 또는 창으로 공격할 때, 무기의 반대쪽 부분으로 <LSTag Type=\"ActionResource\" "
+"Tooltip=\"BonusActionPoint\">추가 행동</LSTag> 공격을 할 수 있습니다.\n"
 "\n"
-"이제 범위 안에 있는 적에게 <LSTag Tooltip=\"OpportunityAttack\">기회 공격</"
-"LSTag> 을 할 수 있습니다."
+"또한, 범위 안으로 들어오는 적에게 <LSTag Tooltip=\"OpportunityAttack\">기회 공격</LSTag>을 할 수 "
+"있습니다."
 
 #. FilePath = Public/SharedDev/Feats/FeatDescriptions.lsx
 #. NodeID = FeatDescription
@@ -6803,9 +6804,8 @@ msgid ""
 "knowledge to mortal spellcasters. Her clerics preserve ancient lore and "
 "protect bastions of magical energy."
 msgstr ""
-"모든 마법의 어머니인 미스트라는 위브를 관장하고 필멸자인 주문 시전자들에게 "
-"신비한 지식을 전파합니다. 그녀의 클레릭은 고대의 지식을 보존하고 마법 "
-"에너지의 요새를 보호합니다."
+"모든 마법의 어머니인 미스트라는 위브를 관장하고 필멸자인 주문 시전자들에게 신비한 지식을 전파해줍니다. 그녀의 클레릭은 고대의 지식을 "
+"보존하고 마력의 보루를 수호합니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6827,9 +6827,8 @@ msgid ""
 "world through his bards and clerics. Unlike many other deities, Oghma "
 "accepts all moral alignments into his clergy."
 msgstr ""
-"오그마는 영감과 발명의 신으로, 바드와 클레릭을 통해 세상에 지식을 "
-"공유합니다. 다른 신들과 달리, 오그마는 도덕적 성향에 상관 없이 신자를 "
-"받아들입니다."
+"오그마는 영감과 발명의 신으로, 자신의 바드와 클레릭을 통해 세상과 지식을 공유합니다. 다른 여러 신들과 달리, 오그마는 도덕적 성향을 "
+"따지지 않고 신자를 받아들입니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6851,9 +6850,8 @@ msgid ""
 "afterlife. His clergy provides last rites across Faerûn, but also destroy "
 "undead that have escaped Kelemvor's judgement."
 msgstr ""
-"공평하지만 아득한 켈렘보르는 죽은 이들을 적절한 저승의 차원으로 인도합니다. "
-"그의 성직자들은 페이룬 전역에서 의식을 치르지만, 종종 켈렘보르의 심판을 피해 "
-"도망친 언데드도 처단합니다."
+"공평하지만 냉담한 켈렘보르는 망자를 적절한 저승계로 인도합니다. 그의 성직자들은 페이룬 전역에서 고별 의례를 집전해주는데, 켈렘보르의 "
+"심판에서 벗어난 언데드를 박멸하는 일도 맡습니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6873,8 +6871,7 @@ msgctxt "h589eb6adg5d54g4adbgab52gcdad4952765e"
 msgid ""
 "The All-Hammer is a dwarven god worshipped by smiths, artisans, and miners "
 "alike. He and Laduguer are constantly at odds."
-msgstr "올 해머는 대장장이, 장인, 그리고 광부 모두가 숭배하는 드워프 신입니다. 그와 "
-"러더거는 끊임없는 대립에 빠져 있습니다."
+msgstr "올 해머는 대장장이, 장인, 광부들이 다 함께 숭배하는 드워프 신입니다. 그와 러더거는 불화를 끊임없이 일으킵니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6895,8 +6892,7 @@ msgid ""
 "Creator of the elves, Corellon Larethian oversees the elven pantheon as a "
 "whole, providing blessings to those who study art, magic, and nature."
 msgstr ""
-"엘프들의 창조주인 코렐론 라레시안은 엘프 만신전 전체를 관장하며, 예술, 마법, "
-"그리고 자연을 연구하는 이들에게 축복을 내립니다."
+"엘프들의 창조주인 코렐론 라레시안은 엘프 만신전 전체를 관장하며, 예술과 마법, 그리고 자연을 연구하는 이들에게 축복을 내립니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6916,8 +6912,7 @@ msgctxt "h37cd82ffga69bg42f5g90e5g104af0637039"
 msgid ""
 "The Watchful Protector is the king of gnomish gods - a deity of humour, gem-"
 "cutting, protection, and trickery."
-msgstr "감시하는 수호자는 노움 신들의 왕이며, 유머, 보석 세공, 보호, 속임수를 "
-"관장하는 신입니다."
+msgstr "빈틈없는 수호자는 노움 신들의 왕으로, 유머와 보석 세공, 보호, 속임수를 관장하는 신입니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6939,8 +6934,8 @@ msgid ""
 "and open mind, encouraging her followers to protect the home, hearth, and "
 "nature."
 msgstr ""
-"하플링 만신전의 어머니로서, 욘달라의 상냥함과 열린 마음은 널리 알려져 "
-"있으며, 그녀의 추종자들에게 집, 건강, 그리고 자연을 보호하라고 독려합니다."
+"하플링 만신전의 어머니로서, 욘달라의 상냥함과 열린 마음씨는 익히 알려져 있으며, 자신의 추종자들에게 집, 건강, 그리고 자연을 "
+"보호하라고 독려합니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -6963,9 +6958,8 @@ msgid ""
 "primary goal is to corrupt all drow, transforming them into heartless "
 "cultists."
 msgstr ""
-"엄청난 증오의 대상이 되는 드로우 만신전의 수장, 롤쓰는 거미, 언더다크, "
-"그리고 데몬웹 구덩이의 사악한 생명체들을 지배합니다. 그녀의 주된 목적은 모든 "
-"드로우를 타락시키고, 그들을 비정한 신도들로 만드는 것입니다."
+"엄청나게 매도 받는 드로우 만신전의 수장, 롤쓰는 거미와 언더다크, 그리고 데몬웹 구덩이의 사악한 생명체들을 지배합니다. 그녀의 주목적은 "
+"모든 드로우를 타락시키고, 그들을 비정한 사교도로 바꿔놓는 것입니다."
 
 #. FilePath = Public/Shared/Gods/Gods.lsx
 #. NodeID = God
@@ -7149,7 +7143,7 @@ msgid ""
 "mercy and just authority keep him locked in an inexorable rivalry with his "
 "sister, Tiamat. "
 msgstr ""
-"정의의 용신은 일곱 천상의 천사입니다. 자비와 정당한 권위에 대한 그의 이상 때문에, 누이인 티아매트와는 한 치 양보 없는 대립 관계로 "
+"정의의 용신은 일곱 천상의 천사입니다. 자비와 정당한 권위에 대한 그의 이상 때문에, 누이인 티아마트와는 한 치 양보 없는 대립 관계로 "
 "묶여 있습니다. "
 
 #. FilePath = Public/SharedDev/Gods/Gods.lsx
@@ -7172,9 +7166,8 @@ msgid ""
 "at all costs. He has held an ancient and immutable grudge against the elven "
 "pantheon since Corellon Larethian took his eye. "
 msgstr ""
-"이 외눈박이 신은 오크들의 수호신이자 어떤 희생을 치러서라도 승리를 얻어내는 "
-"전쟁과 정복의 신입니다. 코렐론 라레시안 때문에 한쪽 눈을 잃은 이후부터 엘프 "
-"만신전에 대해 뿌리 깊은 원한을 품어 왔습니다. "
+"이 외눈박이 신은 오크들의 수호신으로, 그 어떤 희생을 치러서라도 승리를 얻어내는 전쟁과 정복의 신입니다. 코렐론 라레시안 때문에 한쪽 "
+"눈을 잃은 이후부터 엘프 만신전에 대해 원한을 계속 품고 있습니다. "
 
 #. FilePath = Public/SharedDev/Gods/Gods.lsx
 #. NodeID = God
@@ -7197,9 +7190,8 @@ msgid ""
 "trapped within the Nine Hells. The dragon god of greed eternally plots her "
 "escape, as do her many fanatics in world of Toril."
 msgstr ""
-"다섯 아가리 티아매트는 아홉 지옥에 갇혀 있는 탐욕과 증오의 뒤틀린 "
-"집합체입니다. 탐욕의 용신은 토릴의 많은 광신자들이 그렇듯 그곳에서 영원히 "
-"그녀의 탈출을 도모하고 있습니다."
+"다섯 아가리 티아마트는 아홉 지옥에 갇혀 있는 탐욕과 증오의 뒤틀린 집합체입니다. 탐욕의 용신은 토릴의 많은 광신자들이 그렇듯 그곳에서 "
+"영원히 그녀의 탈출을 도모하고 있습니다."
 
 #. FilePath = Public/SharedDev/Gods/Gods.lsx
 #. NodeID = God
@@ -7208,7 +7200,7 @@ msgstr ""
 #: Public/SharedDev/Gods/Gods.lsx:37
 msgctxt "haa5b074eg6c1cg4c92ga3d8g3b76f623ee41"
 msgid "Tiamat"
-msgstr "티아매트"
+msgstr "티아마트"
 
 #. FilePath = Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -20324,16 +20316,15 @@ msgstr "어두운 복수"
 #. HandlePath = Description
 #. SelectorId = FourElements
 #: Public/SharedDev/Progressions/ProgressionDescriptions.lsx:307
-#, fuzzy
 msgctxt "he2264900gad99g45b9g82c9g0a03cb4599ea"
 msgid ""
 "You can use <LSTag Type=\"ActionResource\" Tooltip=\"KiPoint\">ki</LSTag> to "
 "power magic that harnesses the elements. These spells also trigger <LSTag "
 "Type=\"Spell\" Tooltip=\"Target_UnarmedStrike_Monk\">Unarmed Strike</LSTag>."
 msgstr ""
-"<LSTag Type=\"ActionResource\" Tooltip=\"KiPoint\">기</LSTag>를 사용해 "
-"원소를 활용하는 마법을 강화할 수 있습니다. 이 주문은 <LSTag Type=\"Spell\" "
-"Tooltip=\"Target_UnarmedStrike_Monk\">비무장 공격</LSTag>을 발동시킵니다."
+"<LSTag Type=\"ActionResource\" Tooltip=\"KiPoint\">기</LSTag>를 사용해 원소를 활용하는 "
+"마법을 사용할 수 있습니다. 이 주문은 <LSTag Type=\"Spell\" Tooltip="
+"\"Target_UnarmedStrike_Monk\">비무장 타격</LSTag>을 발동시킵니다."
 
 #. FilePath = Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -21714,8 +21705,8 @@ msgid ""
 "Weak, selfish humanoids. Though they often serve stronger races, they crave "
 "power and abuse what authority they obtain."
 msgstr ""
-"나약하고 이기적인 인간형 종족입니다. 종종 더 강력한 종을 섬기기도 하지만, "
-"그들은 대부분 힘을 추구하며 권위를 차지해 마음껏 휘두르는 것을 선호합니다."
+"나약하고 이기적인 인간형 종족입니다. 종종 더 강력한 종을 섬기기도 하지만, 대부분은 힘을 추구하며 권위를 차지해 마음껏 휘두르는 것을 "
+"선호합니다."
 
 #. FilePath = Public/Shared/Races/Races.lsx
 #. NodeID = Race
@@ -25853,7 +25844,7 @@ msgstr ""
 msgctxt "h7add3f07g543bg479fgac6bgdb5bf3da8239"
 msgid ""
 "Targets overcome their Stage Fright early when they succeed an Attack Roll."
-msgstr "대상이 명중 굴림에 성공하면 수행 불안의 효과가 일찍 종료됩니다."
+msgstr "대상이 명중 굴림에 성공하면 무대 공포증의 효과가 일찍 종료됩니다."
 
 #. FilePath = Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -26288,7 +26279,7 @@ msgstr "이 주문은 더 높은 레벨의 주문 슬롯을 사용해도 추가 
 #: Public/Shared/TooltipExtras/TooltipUpcastDescriptions.lsx:54
 msgctxt "ha602796dgd56fg43f8gb159gd497dcbd17b3"
 msgid "Gain an additional [1] per level."
-msgstr "레벨 당 [1] 을 추가로 얻습니다."
+msgstr "레벨 당 [1]을 추가로 얻습니다."
 
 #. FilePath = Public/Shared/TooltipExtras/TooltipUpcastDescriptions.lsx
 #. NodeID = TooltipUpcastDescriptions
@@ -26362,8 +26353,7 @@ msgctxt "he000a711g0908g4e92gad15g5cf174f00ec3"
 msgid ""
 "For every [3] spell levels higher than the original, the weapon gains [1] "
 "and deals an additional [2]."
-msgstr "원래보다 [3] 주문 레벨이 높아질 때마다, 무기가 [1] 을 얻고 [2] 추가 피해를 "
-"가합니다."
+msgstr "원래보다 [3] 주문 레벨이 높아질 때마다, 무기가 [1]을 얻고 [2] 추가 피해를 가합니다."
 
 #. FilePath = Public/Shared/Voices/Voices.lsx
 #. NodeID = Voice
