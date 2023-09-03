@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:30+0900\n"
-"PO-Revision-Date: 2023-09-01 10:54+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-09-03 06:54+0000\n"
+"Last-Translator: Milesand <me@dicemice.me>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/roottemplates/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -8478,7 +8478,7 @@ msgstr "부서진 바리케이드"
 #: Public/Shared/RootTemplates/0c45283d-7bd9-4e27-9c27-2028f6f71771.lsx:16
 msgctxt "ha2882184g7354g4ef2g92c9g027ff4370cb5"
 msgid "Wooden Bench"
-msgstr "나무 의자"
+msgstr "나무 벤치"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -9061,7 +9061,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/0ec72021-9e24-4a31-8298-3d6e8cfcae0b.lsx:13
 msgctxt "hf33d16b4g5d91g4fbcgb026g3afdab1cb391"
 msgid "Mind Sanctuary"
-msgstr "마음이 담긴 병"
+msgstr "정신의 안식처"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -11999,7 +11999,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/3576ad38-6d0d-4e22-b5b4-4cabb937a167.lsx:13
 msgctxt "hcf866e82ge33fg49acgb5b4gefa560923836"
 msgid "Storage Key"
-msgstr ""
+msgstr "창고 열쇠"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -12420,7 +12420,7 @@ msgstr "벽"
 #: Public/Shared/RootTemplates/d90384de-6ab2-45a2-aec5-3a224bca33a5.lsx:15
 msgctxt "h9a24ceefg191eg4d75ga0dbg788227067f1e"
 msgid "Wooden Bench"
-msgstr "나무 의자"
+msgstr "나무 벤치"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -12611,7 +12611,7 @@ msgstr "알코올"
 #: Public/Shared/RootTemplates/ee4e2f42-4790-49b4-a79c-9cb86d5a7a75.lsx:21
 msgctxt "h71240debg6d3ag4a03g9ab3g3e0dda63950f"
 msgid "Flammable."
-msgstr "타오를 수 있습니다."
+msgstr "불이 붙을 수 있습니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -13132,15 +13132,13 @@ msgstr "기름막"
 #. Icon = Surface_Grease
 #. RollConditions = Character() and not SavingThrow(Ability.Dexterity,SourceSpellDC(12),AdvantageOnSlipping())
 #: Public/Shared/RootTemplates/fd0a5567-bb60-4b67-b0e7-30aaee634b3d.lsx:21
-#, fuzzy
 msgctxt "ha3d883a2gef2dg4f35gad4cg5b57f75a23d3"
 msgid ""
 "Difficult terrain - <LSTag Tooltip=\"MovementSpeed\">movement speed</LSTag> "
 "is halved and creatures may fall Prone. Flammable."
 msgstr ""
-"험난한 지형입니다 - <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 "
-"절반으로 줄어들고 크리쳐들이 엎어짐 상태에 빠질 수 있습니다. 불이 붙을 수 "
-"있습니다."
+"험난한 지형입니다. <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 줄어들고 크리쳐들이 "
+"엎어질 수 있습니다. 불이 붙을 수 있습니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -13158,14 +13156,13 @@ msgstr "얼어붙은 기름막"
 #. Type = surface
 #. RollConditions = Character() and not SavingThrow(Ability.Dexterity,SourceSpellDC(12),AdvantageOnSlipping())
 #: Public/Shared/RootTemplates/87821ac7-3a58-4eba-a296-c3f12d0bd42b.lsx:22
-#, fuzzy
 msgctxt "hdf3bd37bgbe49g4728ga759gfb940dd3916a"
 msgid ""
 "Difficult terrain - <LSTag Tooltip=\"MovementSpeed\">movement speed</LSTag> "
 "is halved and creatures may fall Prone."
 msgstr ""
-"험난한 지형입니다. <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 "
-"절반이 되며 엎어질 수 있습니다."
+"험난한 지형입니다. <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 줄어들고 크리쳐들이 "
+"엎어질 수 있습니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -13195,7 +13192,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/247fd849-3a64-401e-972a-4e8f5413ebf0.lsx:13
 msgctxt "h664ddc1bg05e9g4387g9217gb37048adbc59"
 msgid "Holy Fire"
-msgstr ""
+msgstr "성스러운 화염"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -13205,7 +13202,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/247fd849-3a64-401e-972a-4e8f5413ebf0.lsx:14
 msgctxt "h8696a024g7942g464bg8f97geb0ba0900378"
 msgid "Deals 1d6 Radiant damage per turn."
-msgstr ""
+msgstr "턴당 1d6 광휘 피해를 줍니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -13245,14 +13242,13 @@ msgstr "거미줄"
 #. Icon = Surface_InvisibleWeb
 #. RollConditions = Character() and not SavingThrow(Ability.Dexterity,12)
 #: Public/Shared/RootTemplates/e282e96f-9ec2-4887-aa35-1c0a84d6d504.lsx:21
-#, fuzzy
 msgctxt "hb5b1f95fg014ag4478g8fdagfb535afea216"
 msgid ""
 "Difficult terrain - <LSTag Tooltip=\"MovementSpeed\">movement speed</LSTag> "
 "is halved and creatures may become Enwebbed. Flammable."
 msgstr ""
-"험난한 지형입니다 - <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 "
-"절반으로 줄어들고 거미줄에 묶인 상태가 될 수 있습니다. 불에 탈 수 있습니다."
+"험난한 지형입니다. <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 줄어들고 크리쳐들이 "
+"거미줄에 묶인 상태가 될 수 있습니다. 불이 붙을 수 있습니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -13358,7 +13354,7 @@ msgstr "기름"
 #: Public/Shared/RootTemplates/b5c40bbf-c890-429e-a486-160f4369a67a.lsx:21
 msgctxt "h1cb8b35fgbd3cg488bga2e4g1b2bd02deb0b"
 msgid "Flammable."
-msgstr "타오를 수 있습니다."
+msgstr "불이 붙을 수 있습니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -14224,9 +14220,8 @@ msgid ""
 "Difficult terrain - <LSTag Tooltip=\"MovementSpeed\">movement speed</LSTag> "
 "is halved. Can Enweb creatures. Prevents Falling damage. Flammable."
 msgstr ""
-"험난한 지형 - <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 "
-"줄어듭니다. 크리쳐들은 거미줄에 묶일 수 있습니다. 낙하 피해를 방지합니다. "
-"가연성입니다."
+"험난한 지형입니다. - <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 절반으로 줄어듭니다. "
+"크리쳐들은 거미줄에 묶일 수 있습니다. 낙하 피해를 방지합니다. 불이 붙을 수 있습니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -14681,7 +14676,7 @@ msgstr "울퉁불퉁한 바위"
 #: Public/Shared/RootTemplates/1851f8da-3791-4f5a-83be-1c5a67780e61.lsx:15
 msgctxt "hfb1cd21cgd39ag4af6ga10cg4342cbea13e6"
 msgid "Roots"
-msgstr ""
+msgstr "뿌리"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -14690,7 +14685,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/efae57c5-ee7b-4cad-8d87-c7e6d6f34d2e.lsx:15
 msgctxt "h6725a8f6gf3f2g4719ga88ag27a1ddca5713"
 msgid "Roots"
-msgstr ""
+msgstr "뿌리"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -14699,7 +14694,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/0594b5d7-db02-4ad5-8fae-ea01baff271b.lsx:15
 msgctxt "h670a5ffcg2281g47b9g8835g1c30ba8c8edf"
 msgid "Roots"
-msgstr ""
+msgstr "뿌리"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -14708,7 +14703,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/c97a9df5-79e5-428c-8d80-f35be6d05763.lsx:15
 msgctxt "he52513b9gb3ddg4181g9d11g39244a4c56dd"
 msgid "Roots"
-msgstr ""
+msgstr "뿌리"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -14717,7 +14712,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/7f0ab379-bf5c-4913-b811-9eb01ecc47a4.lsx:15
 msgctxt "h990ebfc8ge4f9g4350g8576g597281a89d7a"
 msgid "Roots"
-msgstr ""
+msgstr "뿌리"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -14726,7 +14721,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/9129e946-c138-4b9c-abdd-3383b7905703.lsx:15
 msgctxt "h41fd2500g0174g4e80gaf22g0ed7541ee7f5"
 msgid "Roots"
-msgstr ""
+msgstr "뿌리"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -15127,7 +15122,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/ee20ef22-87f5-4ebc-864e-21c040022437.lsx:13
 msgctxt "h3755abf4g2abag4badg8f18g4de8003aba81"
 msgid "Pedestal"
-msgstr ""
+msgstr "받침대"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName

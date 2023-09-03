@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:30+0900\n"
-"PO-Revision-Date: 2023-09-01 10:53+0000\n"
-"Last-Translator: Milesand <me@dicemice.me>\n"
+"PO-Revision-Date: 2023-09-03 06:54+0000\n"
+"Last-Translator: 평범남 <aaasioa@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/tags/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1050,11 +1050,14 @@ msgstr "자헤이라"
 #. Description = |Jaheira companion|
 #. Name = JAHEIRA
 #: Public/GustavDev/Tags/2c948b46-0d8a-426b-ad8b-5f41233df4c1.lsx:7
+#, fuzzy
 msgctxt "hdb312633ga02bg4076g82e7g30949cef92bb"
 msgid ""
 "Jaheira's storied history of adventure would simply take too long to relate. "
 "Let this suffice: she takes no nonsense, but she does take heads."
 msgstr ""
+"자헤이라의 모험의 역사 이야기는 서술하기에는 너무나도 깁니다. 다만 이렇게 정리할 순 있습니다. 자헤이라는 헛소리는 듣지 않지만, 목숨은 "
+"받아갑니다."
 
 #. UUID = 3797bfc4-8004-4a19-7895-ce6114070bcc
 #. 
@@ -1127,10 +1130,11 @@ msgstr "민타라"
 #. HandlePath = DisplayDescription
 #. Name = ACT3_LOW_KURWINCOFFIN_FORBIDDENBYGHOSTS
 #: Public/GustavDev/Tags/5494ba04-c134-472a-b072-2b167ed74253.lsx:9
+#, fuzzy
 msgctxt "h8729506fge9aag480ag8325g0bf308e7516f"
 msgid ""
 "Tag to define things in the Ghost Dog's mausoleum that they will protect"
-msgstr ""
+msgstr "유령 개의 영묘에서 보호받는 물건을 정의하는 태그"
 
 #. UUID = 5e844f0e-d822-4210-8ea2-f16aa7494bbd
 #. 
@@ -1184,7 +1188,7 @@ msgstr "비코니아: 형상 변환 가능한 아군"
 #: Public/GustavDev/Tags/656bc31a-5949-4c9b-9690-334dd3d5bfe8.lsx:8
 msgctxt "h68e27faag7eeag4b8agac56ge9d9fedc0b36"
 msgid "Set on players who are considered dead at the end of the Iron Throne"
-msgstr ""
+msgstr "아이언 스론 후반부에서 죽은 것으로 여겨지는 플레이어 용"
 
 #. UUID = 6953dce2-8f2f-4ff4-29bb-cb78dcb33856
 #. 
@@ -1196,7 +1200,7 @@ msgctxt "h5af31927g2550g4ff3gba02g93f3cdaf4639"
 msgid ""
 "Tag is given on Ravengard if Mizora's summons are attacking him in the Iron "
 "Throne"
-msgstr ""
+msgstr "아이언 스론에서 미조라의 소환물에게 공격받는 중인 레이븐가드 용"
 
 #. UUID = 6ad77773-3043-47d8-f6a4-04fcea348cf2
 #. 
@@ -1270,11 +1274,14 @@ msgstr "자헤이라"
 #. Description = |Jaheira companion, shapeshifted or not|
 #. Name = REALLY_JAHEIRA
 #: Public/GustavDev/Tags/8457eb5f-036c-4143-b6cf-447a9f555c7a.lsx:7
+#, fuzzy
 msgctxt "h68408481g7a16g42e1ga400gbd6f18de3d03"
 msgid ""
 "Jaheira's storied history of adventure would simply take too long to relate. "
 "Let this suffice: she takes no nonsense, but she does take heads."
 msgstr ""
+"자헤이라의 모험의 역사 이야기는 서술하기에는 너무나도 깁니다. 다만 이렇게 정리할 순 있습니다. 자헤이라는 헛소리는 듣지 않지만, 목숨은 "
+"받아갑니다."
 
 #. UUID = 8b70b692-f2a1-4115-81bf-93de62fef1e0
 #. 
@@ -1340,7 +1347,7 @@ msgstr "LOW_IronThrone_PrisonersSwarmEscapeTarget_Hatch"
 #: Public/GustavDev/Tags/935acd43-8ff3-46b0-b8fa-f264235d39c9.lsx:8
 msgctxt "h1384106bg7684g419cgbca8g609f5abbf43d"
 msgid "Raphael Identifier"
-msgstr ""
+msgstr "라파엘 확인용"
 
 #. UUID = 9624a3fe-bb9e-47c5-abb9-7e41a66d4bf8
 #. 
@@ -1402,9 +1409,10 @@ msgstr "미노타우로스"
 #. HandlePath = DisplayDescription
 #. Name = WYR_WYRMWAY_PUZZLES_ENTRANCE_GALE_MINSC
 #: Public/GustavDev/Tags/ade20608-45b9-449f-aef4-3fa34216cd1b.lsx:9
+#, fuzzy
 msgctxt "h92f155d7gb6c2g4fd3g87bdg072b16cb2e8b"
 msgid "Prevents the same AD from being selected in two VBs."
-msgstr ""
+msgstr "두 VB에서 같은 AD가 선택되지 않도록 하는 태그"
 
 #. UUID = aeb694fc-83fb-452d-9a81-7bb942a442dc
 #. 
@@ -1457,7 +1465,7 @@ msgctxt "h8472ffb6g4339g40a4g8de0g949977ce0127"
 msgid ""
 "Target for Mizora's spiders if they can't reach Ravengard because he climbed "
 "the ladder"
-msgstr ""
+msgstr "레이븐가드가 사다리 위로 올라가 미조라의 거미의 범위 바깥에 있을 시의 목표물"
 
 #. UUID = c0cd4ed8-11d1-4fb1-3aae-143a12e4c867
 #. 
@@ -1481,7 +1489,7 @@ msgstr "부분 일리시드화"
 #: Public/GustavDev/Tags/c1969619-dfea-43cb-a30a-c684cc43263e.lsx:8
 msgctxt "ha198635dgc586g4b8dgbec4g40386a2a79b2"
 msgid "Raphaelian Cambion"
-msgstr ""
+msgstr "라파엘 캠비온"
 
 #. UUID = c93d7c45-ff8f-4565-deb4-5e5b82b4bb07
 #. 
@@ -1511,9 +1519,10 @@ msgstr "어두운 충동"
 #. Description = A tag to identify the enemies in the acid pit fight so that they can be made immune to the Fetid Aura status.
 #. Name = ACT2_TWN_ACIDPIT_OOZE
 #: Public/GustavDev/Tags/d1bf2480-ec9b-46fa-a10c-d403f058741b.lsx:8
+#, fuzzy
 msgctxt "he2fc7590g9a2bg4e82gb73egb489207f4803"
 msgid "Acid Pit Enemies"
-msgstr ""
+msgstr "산성 구덩이에 있는 적"
 
 #. UUID = de22a017-976b-4a19-c7a7-bbe9d4bae9ec
 #. 
@@ -1534,7 +1543,7 @@ msgstr "미즐"
 #: Public/GustavDev/Tags/de82eeb4-9595-4ed3-9f1d-9d08b8d17930.lsx:8
 msgctxt "h19dcf3eagced3g46e8gb2ceg43b7fc07e429"
 msgid "Targets that should be ignored by the Kuo-Toa net"
-msgstr ""
+msgstr "쿠오토아 그물에 영향 받지 않는 목표물"
 
 #. UUID = e57c19fe-4f1c-4a44-5a9b-b5a9fd11efbb
 #. 
@@ -1543,9 +1552,10 @@ msgstr ""
 #. Name = ACT3_LOW_HOUSEOFGRIEF_HEART_MELANCHOLY
 #. Description = A tag that is applied to Viconia when the player recieves the heartform of Melancholy Heart.
 #: Public/GustavDev/Tags/e57c19fe-4f1c-4a44-9b5a-a9b511fdbbef.lsx:8
+#, fuzzy
 msgctxt "ha3d20593gfaffg49e3g8a52gf8b2bc138d9f"
 msgid "Viconia: Melancholy Heart"
-msgstr ""
+msgstr "비코니아: 우울한 마음"
 
 #. UUID = e7aa40e4-05e4-41c4-eea3-95bc34d95cd3
 #. 
@@ -1575,9 +1585,10 @@ msgstr "고타쉬"
 #. Name = ACT3_LOW_HOUSEOFGRIEF_SHADOWHEART
 #. Description = A tag that is applied to Viconia when Shadowheart is in the player's party.
 #: Public/GustavDev/Tags/f16ff923-66b8-46d2-80db-95108612bbee.lsx:8
+#, fuzzy
 msgctxt "h13729bf1gbaa7g41d3g9957ga4d3d2775c86"
 msgid "Viconia: Shadowheart is present"
-msgstr ""
+msgstr "비코니아: 섀도하트와 함께 하는 중"
 
 #. UUID = f8d720f9-9c6b-4097-00be-611605ece89d
 #. 
@@ -1586,9 +1597,10 @@ msgstr ""
 #. Name = ACT3_LOW_HOUSEOFGRIEF_HEART_PRYING
 #. Description = A tag that is applied to Viconia when the player recieves the heartform of Prying Heart.
 #: Public/GustavDev/Tags/f8d720f9-9c6b-4097-be00-1661ec059de8.lsx:8
+#, fuzzy
 msgctxt "h96324b76g1cc5g4bfcg894agc747ffcea431"
 msgid "Viconia: Prying Heart"
-msgstr ""
+msgstr "비코니아: 궁금한 마음"
 
 #. UUID = fe684418-2454-45c1-82a4-8b32f6127a0b
 #. 
@@ -1597,9 +1609,10 @@ msgstr ""
 #. Name = ACT3_LOW_HOUSEOFGRIEF_HEART_CRAVEN
 #. Description = A tag that is applied to Viconia when the player recieves the heartform of Craven Heart.
 #: Public/GustavDev/Tags/fe684418-2454-45c1-a482-328b12f60b7a.lsx:8
+#, fuzzy
 msgctxt "hb949090dgada2g4784g970cg6b357ed88c53"
 msgid "Viconia: Craven Heart"
-msgstr ""
+msgstr "비코니아: 비굴한 마음"
 
 #. UUID = fe825e69-1569-471f-3f9b-fd28923b8396
 #. 
@@ -2757,11 +2770,12 @@ msgstr "이 시체는 죽은 자와 대화 주문의 대상이 되었습니다."
 #. HandlePath = DisplayDescription
 #. Name = ORGANIC_TRAP
 #: Public/Shared/Tags/24e33333-d67c-44b0-9ef5-4e6a63a23be4.lsx:9
+#, fuzzy
 msgctxt "h57b35716g9e08g4cd2g963dgf5852a7a25fb"
 msgid ""
 "Identifies traps as organic, so they can go \"squish\" and otherwise not "
 "behave like mechanical ones."
-msgstr ""
+msgstr "함정을 생물 타입으로 지정하여, 기계 함정과 달리 \"밟고\" 지나갈 수 있게 함"
 
 #. UUID = 2502057c-6210-4dcb-4399-12289cb53737
 #. 
@@ -3830,7 +3844,7 @@ msgstr "NO_GHOST tooltip"
 #: Public/Shared/Tags/43a3d567-8e45-4257-ab62-4543fc1bbbf2.lsx:8
 msgctxt "hc7362e79gb546g419bg83d0g1b60ee42fe78"
 msgid "You cannot shove or throw"
-msgstr ""
+msgstr "밀거나 던질 수 없음"
 
 #. UUID = 43ef091a-1e8c-4906-fda4-9522e60641bb
 #. 
@@ -4499,9 +4513,10 @@ msgstr "포션"
 #. HandlePath = DisplayName
 #. Name = RANGER_HUNTER
 #: Public/Shared/Tags/5727fd64-090f-4932-a31c-c0e078b2146a.lsx:8
+#, fuzzy
 msgctxt "h1b3300aeg1841g40dbgade0g5e20ab7171d1"
 msgid "Hunter Ranger"
-msgstr ""
+msgstr "헌터 레인저"
 
 #. UUID = 575b3b3c-4a5b-44d5-8f86-680cf9756855
 #. 
@@ -4669,7 +4684,7 @@ msgstr "미엘리키의 클레릭"
 #: Public/Shared/Tags/5ce73ec6-be80-4853-ad3c-12149d71e07e.lsx:7
 msgctxt "h2f84b2f1gb74bg4040g8d36g8d3850390b66"
 msgid "Fela, A servant of Mielikki, Goddess of forests and patron of nature."
-msgstr ""
+msgstr "숲의 여신이자 자연의 후원자, 미엘리키의 종, 펠라"
 
 #. UUID = 5d7b1304-6d20-4d60-1bba-bb0f1b4918fc
 #. 
@@ -5210,9 +5225,10 @@ msgstr "베이아터에서 온 질서 악 마족의 일원입니다."
 #. Name = WYR_CIRCUS_CHEESE
 #. Description = | Cheese polymorph. |
 #: Public/Shared/Tags/6c06f5e4-d4fa-498a-91b9-e1ed98773e92.lsx:8
+#, fuzzy
 msgctxt "h58d72dd2gcaa9g4938ga350ga74bc69aedb5"
 msgid "Cheese Polymorph"
-msgstr ""
+msgstr "치즈 변이"
 
 #. UUID = 6c06f5e4-d4fa-498a-b991-ede17798923e
 #. 
@@ -5221,11 +5237,12 @@ msgstr ""
 #. Name = WYR_CIRCUS_CHEESE
 #. Description = | Cheese polymorph. |
 #: Public/Shared/Tags/6c06f5e4-d4fa-498a-91b9-e1ed98773e92.lsx:9
+#, fuzzy
 msgctxt "h9bcc4de8gc9c2g4dfdg9922gb54bd9ebc9bd"
 msgid ""
 "This entity has been polymorphed into a delicious and presumably very "
 "perplexed cheese."
-msgstr ""
+msgstr "이 존재는 맛있으면서도 아마도 매우 당황한 치즈로 변이됐습니다."
 
 #. UUID = 6c080131-acd9-42e3-ea8b-e35d67946524
 #. 
@@ -5359,9 +5376,10 @@ msgstr "라샌더의 클레릭"
 #. Description = Player or NPC is cleric of Lathander.
 #. Name = CLERIC_LATHANDER
 #: Public/Shared/Tags/6e31b516-92fc-4526-b1cd-92516e02cf86.lsx:7
+#, fuzzy
 msgctxt "hfcaf1069gf4e0g4307gb986g482513c2e5d6"
 msgid "A servant of the god of morning dawn, whose deific name is Lathander."
-msgstr ""
+msgstr "떠오르는 새벽의 신, 라샌더의 종복입니다."
 
 #. UUID = 6e913b6e-58b1-41bf-5187-2589d10dff7b
 #. 
@@ -5826,7 +5844,7 @@ msgstr "생명을 보존하기 위해 전념하는 당신은, 빛과 어둠 사�
 #: Public/Shared/Tags/7cae2d74-89f3-4312-9816-6ae6827f318c.lsx:8
 msgctxt "h43bfa748g15a3g4b6fgbfcdgd4477a337158"
 msgid "Lathander"
-msgstr ""
+msgstr "라샌더"
 
 #. UUID = 7cba0bd7-b955-4ac9-ba95-e7797859acd9
 #. 
@@ -5874,9 +5892,8 @@ msgid ""
 "The Dark Maiden seeks to reconcile the ancient conflict between her people "
 "and those who live on Faerûn's surface."
 msgstr ""
-"에일리스트레이는 선한 드로우와 아름다움, 노래, 자유를 관장하는 여신입니다. "
-"이 ‘어둠의 여인’은 그녀를 따르는 민족과 지상의 종족들 사이의 오래 된 갈등을 "
-"해소하고자 합니다."
+"에일리스트레이는 선한 드로우와 아름다움, 노래, 자유를 관장하는 여신입니다. 이 ‘어둠의 여인’은 자신을 따르는 종족과 지상의 종족들 "
+"사이의 오래 된 갈등을 해소하고자 합니다."
 
 #. UUID = 7e0395f8-aa53-4549-f39a-d2e2d603ee78
 #. 
@@ -6028,7 +6045,7 @@ msgstr ""
 #: Public/Shared/Tags/801bd716-0666-4dd5-b449-45ffa9a52a0f.lsx:8
 msgctxt "hdd663e85g7696g4b87g8a1agee4bb244350a"
 msgid "Innate Flyer"
-msgstr ""
+msgstr "선천적 비행 능력 보유"
 
 #. UUID = 80572cea-ebf2-4c53-0589-d5b0be3b49f4
 #. 
@@ -6125,7 +6142,7 @@ msgstr ""
 #: Public/Shared/Tags/84906b84-1c8a-44d5-b40e-0301920a8727.lsx:8
 msgctxt "h27698e63gb644g4a5bgb777gd9b31c220851"
 msgid "WoodWoad"
-msgstr ""
+msgstr "우드 워드"
 
 #. UUID = 855a45e4-91a4-41a1-0194-b59501bd3653
 #. 
@@ -6180,7 +6197,7 @@ msgstr "AiHint_TacticalRetreat tooltip"
 #: Public/Shared/Tags/87572f4a-8462-4042-a06a-caba1e0eb2cb.lsx:8
 msgctxt "h1e18a3fega844g42cfg8bcag08407f977e8c"
 msgid "UNLOAD_WITH_LEVELTEMPLATE"
-msgstr ""
+msgstr "UNLOAD_WITH_LEVELTEMPLATE"
 
 #. UUID = 87572f4a-8462-4042-6aa0-baca0e1ecbb2
 #. 
@@ -6191,7 +6208,7 @@ msgstr ""
 #: Public/Shared/Tags/87572f4a-8462-4042-a06a-caba1e0eb2cb.lsx:7
 msgctxt "hd255d4e1gae9eg48e5gbe1dg79dfbdd07eeb"
 msgid "UNLOAD_WITH_LEVELTEMPLATE tooltip"
-msgstr ""
+msgstr "UNLOAD_WITH_LEVELTEMPLATE tooltip"
 
 #. UUID = 885f8675-e400-4d53-4d92-04621dff5895
 #. 
@@ -7147,13 +7164,11 @@ msgstr "글리터골드 팔라딘"
 #. Description = Player or NPC is a paladin of Garl Glittergold.
 #. Name = PALADIN_GARLGLITTERGOLD
 #: Public/Shared/Tags/9f6bb135-01f1-4b7d-80d3-50bab725728c.lsx:7
-#, fuzzy
 msgctxt "hb5d0c312g5d99g46b0g93bdg9bcdbcf521c6"
 msgid ""
 "The Watchful Protector is the king of gnomish gods - a deity of humour, gem-"
 "cutting, protection, and trickery."
-msgstr "감시하는 수호자는 노움 신들의 왕이며, 유머, 보석 세공, 보호, 속임수를 "
-"관장하는 신입니다."
+msgstr "빈틈없는 수호자는 노움 신들의 왕으로, 유머와 보석 세공, 보호, 속임수를 관장하는 신입니다."
 
 #. UUID = 9fbbedb6-c485-4c6b-b794-d7c72259b323
 #. 
@@ -7269,9 +7284,10 @@ msgstr "Neutral tooltip"
 #. Description = Character with this tag cannot trigger wild magic
 #. Name = SORCERER_WILD_MAGIC_SUPRESSED
 #: Public/Shared/Tags/a3b7a422-4d28-413d-adc4-e7d2001e37f5.lsx:8
+#, fuzzy
 msgctxt "hab6d0c2eg1c5dg4f78g9399g9c8e6eee809f"
 msgid "Wild Magic Suppressed"
-msgstr ""
+msgstr "와일드 매직 봉인"
 
 #. UUID = a49c94ac-6903-408e-058b-3786d81fc065
 #. 
@@ -7291,9 +7307,10 @@ msgstr "BLINDSIGHT"
 #. Name = INANIMATE
 #. Description = Used for Aura status checking
 #: Public/Shared/Tags/a66639f1-15bd-43ae-8f13-fda1270187cc.lsx:8
+#, fuzzy
 msgctxt "h8c653727g6462g42e0ga87fgb5e2d538556b"
 msgid "Inanimate"
-msgstr ""
+msgstr "무기체"
 
 #. UUID = a672ac1d-d088-451a-3795-a43d74bf6c46
 #. 
@@ -7978,9 +7995,10 @@ msgstr "조류"
 #. HandlePath = DisplayName
 #. Name = STEEL_WATCHER
 #: Public/Shared/Tags/bc09a589-e076-4b2d-8b86-f8cccbb64449.lsx:8
+#, fuzzy
 msgctxt "h23966305g1e9bg4203g80b9gc9462086de9d"
 msgid "Steel Watcher"
-msgstr ""
+msgstr "스틸 워치"
 
 #. UUID = bd3cfefd-5fe2-47ea-3cbd-9ee9d9aa14b7
 #. 
@@ -8088,7 +8106,7 @@ msgstr "행동대원 툴팁"
 #: Public/Shared/Tags/bfaccaca-e512-43ea-89cc-372b5d1925ee.lsx:8
 msgctxt "h8ad5e0fcgc9b0g4b6ag9e05g713f5d9926e6"
 msgid "Beast Master Ranger"
-msgstr ""
+msgstr "비스트 마스터 레인저"
 
 #. UUID = bfdc63bd-b8f6-4eac-6393-710c2f886ff4
 #. 
@@ -8377,7 +8395,7 @@ msgstr "숏소드"
 #: Public/Shared/Tags/c8650f16-4610-4648-95d1-18a44a1188b7.lsx:8
 msgctxt "hc8c4ee6egf90ag4da3gafd8gf2a587f356de"
 msgid "Talos"
-msgstr ""
+msgstr "탈로스"
 
 #. UUID = c86e0114-a5ab-48f6-97b4-32debf1e77f5
 #. 
@@ -8608,7 +8626,7 @@ msgstr "민병대나 군에서 정규 훈련을 받은 군인입니다. 각종 �
 #: Public/Shared/Tags/d274b482-4add-4f36-a0a4-a94740f6630e.lsx:8
 msgctxt "h59246a1cg1c68g4180gbe7fg6cecc0c2e3e2"
 msgid "Oathbreaker of Devotion"
-msgstr ""
+msgstr "헌신의 맹세 파기자"
 
 #. UUID = d274b482-4add-4f36-a4a0-47a9f6400e63
 #. 
@@ -8619,7 +8637,7 @@ msgstr ""
 #: Public/Shared/Tags/d274b482-4add-4f36-a0a4-a94740f6630e.lsx:9
 msgctxt "h49d6335cg5534g4515gbe94gfb5fa6a67f05"
 msgid "Your previous oath was of the Devotion."
-msgstr ""
+msgstr "당신의 이전 맹세는 헌신의 맹세였습니다."
 
 #. UUID = d2d60a81-688e-4d3d-56ba-463eae7cfc37
 #. 
@@ -8760,9 +8778,10 @@ msgstr "페이룬의 적대적이며 외딴 지역 중 하나에서 자란 이�
 #. Name = OATHBREAKER_ANCIENTS
 #. Description = Used to remember paladin subclass
 #: Public/Shared/Tags/d84a8a0b-b648-464c-9bd5-1ed9b965da2a.lsx:8
+#, fuzzy
 msgctxt "hd3d471e4g80eag4be7ga23eg8cc07e2e27a3"
 msgid "Oathbreaker of the Ancients"
-msgstr ""
+msgstr "선조의 맹세 파기자"
 
 #. UUID = d84a8a0b-b648-464c-d59b-d91e65b92ada
 #. 
@@ -8773,7 +8792,7 @@ msgstr ""
 #: Public/Shared/Tags/d84a8a0b-b648-464c-9bd5-1ed9b965da2a.lsx:9
 msgctxt "hc230d5e2g8d38g4541ga8fbgf0f061d7c093"
 msgid "Your previous oath was one of Ancients."
-msgstr ""
+msgstr "당신의 이전 맹세는 선조의 맹세였습니다."
 
 #. UUID = d84b4081-6800-45f9-3fb0-db1692a55dc7
 #. 
@@ -8884,7 +8903,7 @@ msgstr "탈로스의 클레릭"
 #: Public/Shared/Tags/da25a7cc-066d-43dc-8f1e-74c17cd0d589.lsx:7
 msgctxt "h27cb1120g8566g4d8fg9543g2f5b2b30316c"
 msgid "Eryn, A servant of Talos, God of Storms"
-msgstr ""
+msgstr "폭풍의 신 탈로스의 종, 에린"
 
 #. UUID = dad18490-c61d-4958-5c80-17f068eba0f8
 #. 
@@ -9335,7 +9354,7 @@ msgstr "티모라의 클레릭"
 #: Public/Shared/Tags/edc085f7-63f8-4bb0-b60c-b68c92b67708.lsx:7
 msgctxt "hd51f451bg6058g44ffg9965ge36adf44d21a"
 msgid "Kylin, A servant of Tymora, Goddess of Good Fortune"
-msgstr ""
+msgstr "행운의 여신 티모라의 종, 카일린"
 
 #. UUID = edc46cc0-25d0-4da9-cbbf-baed9e23cedc
 #. 
@@ -9453,7 +9472,7 @@ msgstr "머큘"
 #: Public/Shared/Tags/f21f419c-bbf8-42df-ae89-f1de72e90cf5.lsx:8
 msgctxt "hffae24eag1c20g4dcag8ca4gfe8b058b5cc9"
 msgid "Mielikki. Goddess of forests"
-msgstr ""
+msgstr "미엘리키, 숲의 여신"
 
 #. UUID = f2f86f8a-b927-4e70-8f88-ffde0ea196c7
 #. 
@@ -9486,7 +9505,7 @@ msgstr "SQUIRREL tooltip"
 #: Public/Shared/Tags/f31d1582-9498-4a92-8559-def7a3222aef.lsx:8
 msgctxt "he414a712g4944g4232g8e38g629e060249eb"
 msgid "Wisp"
-msgstr ""
+msgstr "위습"
 
 #. UUID = f532d904-4e7c-469f-478e-a667cd39e11a
 #. 
@@ -9809,9 +9828,10 @@ msgstr "창"
 #. Name = SUMMONWITHOUTMOUTH
 #. Description = Used to determine which summons can drink potions.
 #: Public/Shared/Tags/ff16e8ab-e8e6-4acb-a105-aae53a9d510e.lsx:8
+#, fuzzy
 msgctxt "h2dc95fcdg26a4g4c2agacb8gd476173c4fb6"
 msgid "Summon Without Mouth"
-msgstr ""
+msgstr "입 없는 소환물"
 
 #. UUID = ff6d7d1f-094f-432e-17a1-c3fdaba0c17a
 #. 
@@ -9844,7 +9864,7 @@ msgstr "AI_IGNORED_TARGET tooltip"
 #: Public/SharedDev/Tags/02e5e9ed-b6b2-4524-99cd-cb2bc84c754a.lsx:8
 msgctxt "hf248ff8fgd945g462egb17cg1a3c8036c8a4"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. UUID = 02e5e9ed-b6b2-4524-cd99-2bcb4cc84a75
 #. 
@@ -9853,12 +9873,14 @@ msgstr ""
 #. Description = Character looks like a dragonborn
 #. Name = DRAGONBORN
 #: Public/SharedDev/Tags/02e5e9ed-b6b2-4524-99cd-cb2bc84c754a.lsx:7
+#, fuzzy
 msgctxt "ha7df86c8g99dag4c28g8112g96aa32d31a56"
 msgid ""
 "While not true dragons themselves, draconic lineage defines the dragonborn. "
 "They inherit powerful breath weapons from their ancestors and possess a "
 "preternatural toughness."
 msgstr ""
+"드래곤본은 비록 진짜 용은 아닐지언정, 몸속에 용의 피가 흐릅니다. 조상에게 물려받은 강력한 숨결과 초자연적인 강인함을 지니고 있습니다."
 
 #. UUID = 0a79a905-d41f-401f-e4a0-40a2431117fc
 #. 
@@ -9867,9 +9889,10 @@ msgstr ""
 #. Name = VFX_ASHPILE_MEDIUM
 #. Description = |This creature will have a medium ash pile upon its death.|
 #: Public/SharedDev/Tags/0a79a905-d41f-401f-a0e4-a2401143fc17.lsx:8
+#, fuzzy
 msgctxt "ha5469969g1be0g4053gb2ffge0fbbc32381b"
 msgid "A Pile of Worthless Ashes"
-msgstr ""
+msgstr "쓸데없는 잿더미"
 
 #. UUID = 0a9ff41b-d599-4d51-bcbf-89235e4783c8
 #. 
@@ -9880,7 +9903,7 @@ msgstr ""
 #: Public/SharedDev/Tags/0a9ff41b-d599-4d51-bfbc-2389475ec883.lsx:8
 msgctxt "h08194c5dga4bdg4ee2gace8gb7d96dd86719"
 msgid "A Pile of Worthless Ashes"
-msgstr ""
+msgstr "쓸데없는 잿더미"
 
 #. UUID = 1029b3e3-3ff0-4d73-edb4-b679ca22f9d4
 #. 
@@ -9889,9 +9912,10 @@ msgstr ""
 #. Description = Race group for REALLY_ races (aarakocra, kenku, lizardfolk, tabaxi, tortle)
 #. Name = REALLY_BESTIAL
 #: Public/SharedDev/Tags/1029b3e3-3ff0-4d73-b4ed-79b622cad4f9.lsx:8
+#, fuzzy
 msgctxt "hc348f5e9gc637g4a11gb0bfg4e4f0ea1b88a"
 msgid "Bestial"
-msgstr ""
+msgstr "짐승계"
 
 #. UUID = 13a8385d-d502-496a-918b-d9f6e7a8cba2
 #. 
@@ -9900,9 +9924,10 @@ msgstr ""
 #. Description = |Tag for scratch to find things in the world.|
 #. Name = SCRATCH
 #: Public/SharedDev/Tags/13a8385d-d502-496a-8b91-f6d9a8e7a2cb.lsx:8
+#, fuzzy
 msgctxt "ha0e18966g8282g4ac5ga3a8g66a412926489"
 msgid "SCRATCH"
-msgstr ""
+msgstr "긁을 수 있음"
 
 #. UUID = 1ff4bf9e-a8dd-4627-4281-0bf6a73a3e12
 #. 
@@ -9911,9 +9936,10 @@ msgstr ""
 #. Description = Character looks like a yuan-ti pureblood
 #. Name = YUANTIPUREBLOOD
 #: Public/SharedDev/Tags/1ff4bf9e-a8dd-4627-8142-f60b3aa7123e.lsx:8
+#, fuzzy
 msgctxt "hc6724dadg84a2g452fgb2fbg8f0411722912"
 msgid "Yuan-ti Pureblood"
-msgstr ""
+msgstr "유안티 퓨어블러드"
 
 #. UUID = 228e9ea5-264d-428b-5194-60e8742a3352
 #. 
@@ -9921,9 +9947,10 @@ msgstr ""
 #. HandlePath = DisplayName
 #. Name = RANGER_COMPANION
 #: Public/SharedDev/Tags/228e9ea5-264d-428b-9451-e8602a745233.lsx:8
+#, fuzzy
 msgctxt "h954ff990g748fg487fgbaf7gfbb8b1793316"
 msgid "Ranger Companion"
-msgstr ""
+msgstr "레인저 동료"
 
 #. UUID = 28b5d96a-bbfb-433f-d49c-ffbdea9852e2
 #. 
@@ -9945,7 +9972,7 @@ msgstr "바하무트의 팔라딘"
 #: Public/SharedDev/Tags/28b5d96a-bbfb-433f-9cd4-bdff98eae252.lsx:7
 msgctxt "hea7c770eg9133g452bg96c2g014bed2472f3"
 msgid "A servant of Bahamut, God of metallic dragons."
-msgstr ""
+msgstr "금속 용의 신 바하무트의 종"
 
 #. UUID = 28ee4ac1-86a3-490e-02ab-85707cbdd656
 #. 
@@ -9967,7 +9994,7 @@ msgstr "바하무트의 클레릭"
 #: Public/SharedDev/Tags/28ee4ac1-86a3-490e-ab02-7085bd7c56d6.lsx:7
 msgctxt "hdefaa9bbg99a6g4665gaa04ge0a2d8722735"
 msgid "A servant of Bahamut, god of metallic dragons."
-msgstr ""
+msgstr "금속 용의 신 바하무트의 종"
 
 #. UUID = 2a7e679e-2567-47f7-4596-0455cf71f7fc
 #. 
@@ -9978,7 +10005,7 @@ msgstr ""
 #: Public/SharedDev/Tags/2a7e679e-2567-47f7-9645-550471cffcf7.lsx:8
 msgctxt "h6ca99812g208fg4b44gb1b6g66d8365c4647"
 msgid "Triton"
-msgstr ""
+msgstr "트리톤"
 
 #. UUID = 2fddf7dd-f79b-4998-2c88-25d7ad7be6bf
 #. 
@@ -9989,7 +10016,7 @@ msgstr ""
 #: Public/SharedDev/Tags/2fddf7dd-f79b-4998-882c-d7257badbfe6.lsx:8
 msgctxt "h69b871cfg8f7eg4104g96d6g32a8a150f515"
 msgid "Aasimar"
-msgstr ""
+msgstr "아시마르"
 
 #. UUID = 328683c2-8785-4b71-28b1-ec7cdf90be0a
 #. 
@@ -10020,12 +10047,15 @@ msgstr "하프 오크"
 #. Description = Player is a half-orc
 #. Name = HALFORC
 #: Public/SharedDev/Tags/3311a9a9-cdbc-4b05-9bf6-e02ba1fc72a3.lsx:7
+#, fuzzy
 msgctxt "h1564dab4g87d5g4cfdg8a71g521c9ce73e3b"
 msgid ""
 "Although they descend from cultures of strength and martial prowess, most "
 "half-orcs are born in times of peace. Whenever orcish wars end, alliances "
 "and marriages lead to a new generation of shared blood."
 msgstr ""
+"힘과 무예의 문화의 후예임에도 불구하고, 대부분의 하프 오크는 평화의 시대에 태어났습니다. 오크들의 전쟁이 끝날 때는 새로이 맺어진 "
+"동맹과 결혼으로 인해 항상 또다른 혼혈의 세대가 탄생합니다."
 
 #. UUID = 39783f17-8484-46a6-3baa-d5f32211f3e5
 #. 
@@ -10036,7 +10066,7 @@ msgstr ""
 #: Public/SharedDev/Tags/39783f17-8484-46a6-aa3b-f3d51122e5f3.lsx:8
 msgctxt "h42b8eabcg8132g4dfcgb4f6g825593c1021e"
 msgid "Dragonborn"
-msgstr ""
+msgstr "드래곤본"
 
 #. UUID = 39783f17-8484-46a6-3baa-d5f32211f3e5
 #. 
@@ -10045,12 +10075,14 @@ msgstr ""
 #. Description = Character is really a dragonborn
 #. Name = REALLY_DRAGONBORN
 #: Public/SharedDev/Tags/39783f17-8484-46a6-aa3b-f3d51122e5f3.lsx:7
+#, fuzzy
 msgctxt "h023612a9g0de6g44f7gb82eg7d66c58e1a92"
 msgid ""
 "While not true dragons themselves, draconic lineage defines the dragonborn. "
 "They inherit powerful breath weapons from their ancestors and possess a "
 "preternatural toughness."
 msgstr ""
+"드래곤본은 비록 진짜 용은 아닐지언정, 몸속에 용의 피가 흐릅니다. 조상에게 물려받은 강력한 숨결과 초자연적인 강인함을 지니고 있습니다."
 
 #. UUID = 3d80e0d5-0e28-4363-53b1-a1c16d07d436
 #. 
@@ -10059,9 +10091,10 @@ msgstr ""
 #. Description = Character is really a yuan-ti pureblood
 #. Name = REALLY_YUANTIPUREBLOOD
 #: Public/SharedDev/Tags/3d80e0d5-0e28-4363-b153-c1a1076d36d4.lsx:8
+#, fuzzy
 msgctxt "h914e8866gba62g41e8gbcbbg82d6fd09b390"
 msgid "Yuan-ti Pureblood"
-msgstr ""
+msgstr "유안티 퓨어블러드"
 
 #. UUID = 3fb78de4-190d-4ae4-91b4-89be9f9556ae
 #. 
@@ -10072,7 +10105,7 @@ msgstr ""
 #: Public/SharedDev/Tags/3fb78de4-190d-4ae4-b491-be89959fae56.lsx:8
 msgctxt "hcc5ad6c6gd603g42f4g8271g6bd73f0c044a"
 msgid "FLESH_GOLEM"
-msgstr ""
+msgstr "FLESH_GOLEM"
 
 #. UUID = 41c6cdc9-aff5-46ae-c4af-0caa9ccd01d2
 #. 
@@ -10083,7 +10116,7 @@ msgstr ""
 #: Public/SharedDev/Tags/41c6cdc9-aff5-46ae-afc4-aa0ccd9cd201.lsx:8
 msgctxt "h18822cb0gea17g437dgbfedg0be88122dd3e"
 msgid "Aasimar"
-msgstr ""
+msgstr "아시마르"
 
 #. UUID = 45759dc2-4d7a-4853-73af-cf5012d49b40
 #. 
@@ -10094,7 +10127,7 @@ msgstr ""
 #: Public/SharedDev/Tags/45759dc2-4d7a-4853-af73-50cfd412409b.lsx:8
 msgctxt "hf4967135g7d69g4d57gaf66gcec9c8b16fb6"
 msgid "Firbolg"
-msgstr ""
+msgstr "펄볼그"
 
 #. UUID = 48d7b679-dffd-4f68-06a3-acadde19cf8a
 #. 
@@ -10105,7 +10138,7 @@ msgstr ""
 #: Public/SharedDev/Tags/48d7b679-dffd-4f68-a306-adac19de8acf.lsx:8
 msgctxt "hc668adb1ga64ag4ff8g9884gd0073d1df9ab"
 msgid "Genasi"
-msgstr ""
+msgstr "제나시"
 
 #. UUID = 4a12b219-8eae-471b-3b8f-88c329da1efc
 #. 
@@ -10114,9 +10147,10 @@ msgstr ""
 #. Name = ELEMENTAL_FIRE
 #. Description = Used by VFX for Elemental Warp spell
 #: Public/SharedDev/Tags/4a12b219-8eae-471b-8f3b-c388da29fc1e.lsx:8
+#, fuzzy
 msgctxt "h45f568cdg5efcg43c3ga2a4gc8398dc600ff"
 msgid "Elemental Fire"
-msgstr ""
+msgstr "원소 불꽃"
 
 #. UUID = 4cd1c7f7-7a8c-421a-dc87-7c68ef4e83d6
 #. 
@@ -10138,7 +10172,7 @@ msgstr "티아마트의 클레릭"
 #: Public/SharedDev/Tags/4cd1c7f7-7a8c-421a-87dc-687c4eefd683.lsx:7
 msgctxt "hde2e93c1g7ecdg4993gbc3fgc22c373606db"
 msgid "A servant of the five-headed queen of dragons, Tiamat."
-msgstr ""
+msgstr "오두룡이자 용의 여왕 티아마트의 종"
 
 #. UUID = 54a4726b-9399-4e8e-5e82-c64273029e93
 #. 
@@ -10158,9 +10192,10 @@ msgstr "전쟁벼림"
 #. Name = VFX_BLOOD_SKELETON
 #. Description = Used for the Explode death on the Blood Skeleton
 #: Public/SharedDev/Tags/5ae94f72-939d-45c9-83b2-8a20a626e371.lsx:8
+#, fuzzy
 msgctxt "hea0221dag0476g43eag9fe8g3fbcbd782f80"
 msgid "Blood Skeleton's Exploding Death"
-msgstr ""
+msgstr "블러드 스켈레톤의 폭사"
 
 #. UUID = 5cc0a323-50e0-4775-af92-a776f5194731
 #. 
@@ -10182,7 +10217,7 @@ msgstr "탈로스의 팔라딘"
 #: Public/SharedDev/Tags/5cc0a323-50e0-4775-92af-76a719f53147.lsx:7
 msgctxt "hdb8cc75cgc965g46begaf9fg65097e5cca44"
 msgid "Kosen, A servant of Talos, God of Storms"
-msgstr ""
+msgstr "폭풍의 신 탈로스의 종, 코센"
 
 #. UUID = 615d115d-6d1d-477c-2c8b-e9d88c1b7dfe
 #. 
@@ -10191,9 +10226,10 @@ msgstr ""
 #. Description = Character looks like a lizardfolk
 #. Name = LIZARDFOLK
 #: Public/SharedDev/Tags/615d115d-6d1d-477c-8b2c-d8e91b8cfe7d.lsx:8
+#, fuzzy
 msgctxt "h96e90d6cg9fd6g4e2dgaa1bg9b81702fc4b9"
 msgid "Lizardfolk"
-msgstr ""
+msgstr "리저드포크"
 
 #. UUID = 70be60f2-016d-40e5-44b9-b8818c86f93a
 #. 
@@ -10215,7 +10251,7 @@ msgstr "티아마트의 팔라딘"
 #: Public/SharedDev/Tags/70be60f2-016d-40e5-b944-81b8868c3af9.lsx:7
 msgctxt "h7db17277g3819g4383ga4ccg5a0bf5c30437"
 msgid "A servant of the five-headed queen of dragons, Tiamat."
-msgstr ""
+msgstr "오두룡이자 용의 여왕 티아마트의 종"
 
 #. UUID = 732db1ed-740c-4af3-088a-137f3f5d3c70
 #. 
@@ -10226,7 +10262,7 @@ msgstr ""
 #: Public/SharedDev/Tags/732db1ed-740c-4af3-8a08-7f135d3f703c.lsx:8
 msgctxt "h3552581cgda1cg4652ga4bcg27cb45ae3926"
 msgid "Oathbreaker of the Vengeance"
-msgstr ""
+msgstr "복수의 맹세 파기자"
 
 #. UUID = 732db1ed-740c-4af3-088a-137f3f5d3c70
 #. 
@@ -10237,7 +10273,7 @@ msgstr ""
 #: Public/SharedDev/Tags/732db1ed-740c-4af3-8a08-7f135d3f703c.lsx:9
 msgctxt "h4961d421g8c10g4415g915fg01d1edd1a0c1"
 msgid "Your previous oath was one of Vengeance."
-msgstr ""
+msgstr "당신의 이전 맹세는 복수의 맹세였습니다."
 
 #. UUID = 7839884d-892a-4d60-cc95-73b00d427484
 #. 
@@ -10248,7 +10284,7 @@ msgstr ""
 #: Public/SharedDev/Tags/7839884d-892a-4d60-95cc-b073420d8474.lsx:8
 msgctxt "ha60deb09gfc1bg4c3fg90dfg6b7a50b0c297"
 msgid "Tortle"
-msgstr ""
+msgstr "토틀"
 
 #. UUID = 7e97c590-911f-422a-b6bd-8c067e13c8b2
 #. 
@@ -10259,7 +10295,7 @@ msgstr ""
 #: Public/SharedDev/Tags/7e97c590-911f-422a-bdb6-068c137eb2c8.lsx:8
 msgctxt "hfce63473g95f7g45a5g8a28g67a1f459f10a"
 msgid "Aarakocra"
-msgstr ""
+msgstr "아라코크라"
 
 #. UUID = 7ef33e10-bdb0-4268-3a83-a15d2ae56aa2
 #. 
@@ -10280,7 +10316,7 @@ msgstr "그루무쉬"
 #: Public/SharedDev/Tags/86de94fa-91a2-4abb-8601-f2ad96c70659.lsx:8
 msgctxt "h244ef280g3cb0g4f7ega0dbgbf5d5133dccc"
 msgid "Archfey"
-msgstr ""
+msgstr "대요정"
 
 #. UUID = 8713fda9-1855-42ef-548c-e2a1a4d59491
 #. 
@@ -10310,6 +10346,7 @@ msgstr "그레미쉬카"
 #. Description = Species Tag
 #. Name = GREMISHKA
 #: Public/SharedDev/Tags/8c0c7811-d944-4780-8e62-96f0911819e5.lsx:7
+#, fuzzy
 msgctxt "hcb53f835g348bg4738g8fc5g450c3885e58a"
 msgid ""
 "When a feckless amateur spellcaster attempts to create life, and bungles it, "
@@ -10317,6 +10354,9 @@ msgid ""
 "Gremishka's hold a particular loathing for practitioners of the arcane arts, "
 "a dark reflection of typical parental love."
 msgstr ""
+"제대로 된 능력도 없는 초보 마법사가 생명을 만들려 시도하다 제 실력대로 망치면 탄생하는 것이 바로 그레미쉬카입니다. 그레미쉬카는 독기 "
+"가득하며 흉측한 기형 고양이입니다. 그레미쉬카는 특히 비전 마법의 수련생들을 혐오하는 데, 이는 부모에 대한 애정을 갈구하는 성향의 "
+"어두운 반향입니다."
 
 #. UUID = 90d7fbd5-1264-4bd6-ba93-c2676e11b06a
 #. 
@@ -10326,7 +10366,7 @@ msgstr ""
 #: Public/SharedDev/Tags/90d7fbd5-1264-4bd6-93ba-67c2116e6ab0.lsx:8
 msgctxt "h146a8bd0g0d23g42abg8abfg21f88f1a349d"
 msgid "Bhosco, Wizard Studied in Necromancy"
-msgstr ""
+msgstr "사령계 마법을 수련한 위저드, 보스코"
 
 #. UUID = 92aae5aa-4595-4f1c-d296-249ed3996f5c
 #. 
@@ -10335,9 +10375,10 @@ msgstr ""
 #. Description = Race group (aarakocra, kenku, lizardfolk, tabaxi, tortle)
 #. Name = BESTIAL
 #: Public/SharedDev/Tags/92aae5aa-4595-4f1c-96d2-9e2499d35c6f.lsx:8
+#, fuzzy
 msgctxt "h2d2815e7g0dfdg4820g96cfgbb26f1315a30"
 msgid "Bestial"
-msgstr ""
+msgstr "짐승계"
 
 #. UUID = 9deae354-0108-40b4-dba7-b26eba3f0f05
 #. 
@@ -10379,11 +10420,12 @@ msgstr "복수의 맹세"
 #. Name = PALADIN_VENGEANCE
 #. Description = Paladin subclass
 #: Public/SharedDev/Tags/a1aa47b2-4d0a-4c97-931b-2c53353d5b23.lsx:9
+#, fuzzy
 msgctxt "h1aed9648g80f5g41eeg8edbgf7c3e622ece9"
 msgid ""
 "Casting aside even your own purity, you deliver justice to those who have "
 "committed the most grievous sins."
-msgstr ""
+msgstr "제 순수마저 저버린 채, 가장 끔찍한 죄를 저지른 죄인들을 향한 정의만을 좇습니다."
 
 #. UUID = aa68eccb-7875-436f-1e88-77c3ee5ef637
 #. 
@@ -10414,12 +10456,15 @@ msgstr "하프 오크"
 #. Description = Player is really a halforc
 #. Name = REALLY_HALFORC
 #: Public/SharedDev/Tags/ab3eff19-d094-4102-88bd-d097b6b6e4f0.lsx:7
+#, fuzzy
 msgctxt "he73b4110g1664g4c95ga88bg6c29cf0e5b8b"
 msgid ""
 "Although they descend from cultures of strength and martial prowess, most "
 "half-orcs are born in times of peace. Whenever orcish wars end, alliances "
 "and marriages lead to a new generation of shared blood."
 msgstr ""
+"힘과 무예의 문화의 후예임에도 불구하고, 대부분의 하프 오크는 평화의 시대에 태어났습니다. 오크들의 전쟁이 끝날 때는 새로이 맺어진 "
+"동맹과 결혼으로 인해 항상 또다른 혼혈의 세대가 탄생합니다."
 
 #. UUID = aecc62c1-99ce-4ff7-2c95-dc8dfe6a307a
 #. 
@@ -10441,7 +10486,7 @@ msgstr "티모라의 팔라딘"
 #: Public/SharedDev/Tags/aecc62c1-99ce-4ff7-952c-8ddc6afe7a30.lsx:7
 msgctxt "hed339ca5g1c5ag42ebgacc1g2fdf1285e49d"
 msgid "Kulishov, A servant of Tymora, Goddess of Good Fortune"
-msgstr ""
+msgstr "행운의 여신 티모라의 종, 쿨리쇼브"
 
 #. UUID = b2d0061d-97df-4e3e-1780-1a92026681a9
 #. 
@@ -10585,7 +10630,7 @@ msgstr "트라이튼"
 #: Public/SharedDev/Tags/c7fdad4f-2953-4de8-8a4f-109e36ec3640.lsx:8
 msgctxt "hd3c97a4eg4162g4b2dg9889g0d710f89a387"
 msgid "Elemental Water"
-msgstr ""
+msgstr "원소 물"
 
 #. UUID = cc528ff5-911c-467c-9fac-1e7ab994257d
 #. 
@@ -10607,7 +10652,7 @@ msgstr "라샌더의 팔라딘"
 #: Public/SharedDev/Tags/cc528ff5-911c-467c-ac9f-7a1e94b97d25.lsx:7
 msgctxt "h30c70495gd2acg4031gb384g42e9ec23e93e"
 msgid "Enro, A servant of Lathander, God of the dawn."
-msgstr ""
+msgstr "여명의 신 라샌더의 종, 엔로"
 
 #. UUID = d3116e58-c55a-4853-00a7-e9be20969773
 #. 
@@ -10618,7 +10663,7 @@ msgstr ""
 #: Public/SharedDev/Tags/d3116e58-c55a-4853-a700-bee996207397.lsx:8
 msgctxt "ha3aef2acg11e2g46bag8a5fg81aad866134d"
 msgid "Muscular Body"
-msgstr ""
+msgstr "근육질 몸"
 
 #. UUID = e30b5b4d-2ceb-4791-4e91-c6b622c159f0
 #. 
@@ -10651,7 +10696,7 @@ msgstr "그루무쉬의 팔라딘"
 #: Public/SharedDev/Tags/e33e9729-73e1-4fb3-aea9-761d610d1551.lsx:7
 msgctxt "h1a11b111g8825g46fdgb8a1ga25d69a8f01f"
 msgid "Sim, A servant of Gruumsh One-Eye, God of Conquest and patron of orcs."
-msgstr ""
+msgstr "정복의 신이자 오크의 후원자 외눈의 그루무쉬의 종, 심"
 
 #. UUID = e8193d83-f2bc-4e21-7385-e1b4cc586393
 #. 
@@ -10673,7 +10718,7 @@ msgstr "아라코크라"
 #: Public/SharedDev/Tags/ea959210-d136-454b-bc6a-8c153cb4efa6.lsx:8
 msgctxt "h2adb71cdg91adg4656g9174g15e6f374a27b"
 msgid "Elemental Earth"
-msgstr ""
+msgstr "원소 대지"
 
 #. UUID = ebe17d12-23a8-4554-f48b-5820429d52ea
 #. 
@@ -10684,7 +10729,7 @@ msgstr ""
 #: Public/SharedDev/Tags/ebe17d12-23a8-4554-8bf4-20589d42ea52.lsx:8
 msgctxt "h33c1e5cag79b7g47b6g89a1g1aef3d3334cd"
 msgid "Discoverable"
-msgstr ""
+msgstr "발견 가능"
 
 #. UUID = ec90a39d-ce0e-4ae1-4db7-0609d9dfd2a1
 #. 
@@ -10695,7 +10740,7 @@ msgstr ""
 #: Public/SharedDev/Tags/ec90a39d-ce0e-4ae1-b74d-0906dfd9a1d2.lsx:8
 msgctxt "h802cb652g36f1g43cbg9d41g2f2810c6937d"
 msgid "Kenku"
-msgstr ""
+msgstr "켄쿠"
 
 #. UUID = ef8444e2-a240-4cc1-579f-db73996d96bc
 #. 
@@ -10704,9 +10749,10 @@ msgstr ""
 #. Description = Character is really a lizardfolk
 #. Name = REALLY_LIZARDFOLK
 #: Public/SharedDev/Tags/ef8444e2-a240-4cc1-9f57-73db6d99bc96.lsx:8
+#, fuzzy
 msgctxt "h8248908agb790g4cd2g96e8g9612fbcd81d9"
 msgid "Lizardfolk"
-msgstr ""
+msgstr "리저드포크"
 
 #. UUID = f09707c1-7c58-4611-6ba0-34ce28ddc626
 #. 
@@ -10715,9 +10761,10 @@ msgstr ""
 #. Name = VOLO_SLAYER
 #. Description = This is used to give the Slayer the special volo additional ability.
 #: Public/SharedDev/Tags/f09707c1-7c58-4611-a06b-ce34dd2826c6.lsx:8
+#, fuzzy
 msgctxt "hfc5914afg58e1g42cbg9779g730e8b95d908"
 msgid "Volo's Quest Resolution"
-msgstr ""
+msgstr "볼로의 임무 해결책"
 
 #. UUID = f18e3f3c-c227-4d11-6487-c751d4fe1944
 #. 
@@ -10739,7 +10786,7 @@ msgstr "미엘리키의 팔라딘"
 #: Public/SharedDev/Tags/f18e3f3c-c227-4d11-8764-51c7fed44419.lsx:7
 msgctxt "h59fb1cddgd0e6g46e7gb773g5a1d3a6a1ca6"
 msgid "Venji, A servant of Mielikki, Goddess of forests and patron of nature."
-msgstr ""
+msgstr "숲의 여신이자 자연의 후원자 미엘리키의 종, 벤지"
 
 #. UUID = f3045a08-1739-4776-7b9d-526c5bb5a9a8
 #. 
