@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:29+0900\n"
-"PO-Revision-Date: 2023-09-03 06:56+0000\n"
-"Last-Translator: 페리윙클 <devellany@gmail.com>\n"
+"PO-Revision-Date: 2023-09-04 16:54+0000\n"
+"Last-Translator: Kimeri <kimhm16400@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/books/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -953,21 +953,18 @@ msgid ""
 "Thrice the same ingredient\n"
 "Forms an extract excellent"
 msgstr ""
-"지금까지 내가 만들어 온 제조물들 중 악의적인 것들은 제조법을 공표해야 할지 "
-"말아야 할지 오랫동안 고민해 왔다. 고민이 무색하게 니크로스는 그 망할 "
-"싱글벙글 미소로 날 설득하는 데 성공했다. 하지만, 확실히 모험가들에게 있어선 "
-"최고의 방어는 공격일지도 모른다. 부디 책임감을 느끼고 이 제조법으로 "
-"조금이라도 이성이 있는 생물에게 해를 끼치지 않기를 바란다.\n"
+"지금까지 내가 만들어 온 제조물들 중 악의적인 것들은 제조법을 공표해야 할지 말아야 할지 오랫동안 고민해 왔다. 고민이 무색하게 "
+"니크로스는 그 망할 싱글벙글 미소로 날 설득하는 데 성공했다. 하지만, 확실히 모험가들에게 있어선 최고의 방어는 공격일지도 모른다. 부디 "
+"책임감을 느끼고 이 제조법으로 조금이라도 이성이 있는 생물에게 해를 끼치지 않기를 바란다.\n"
 "\n"
 "단순한 독 한 병을 제조하는 법\n"
 "\n"
 "필요한 추출물:\n"
 "---- 본캡 버섯으로 만든 황산\n"
-"---- 대거루트를 태운 재\n"
+"---- 단검뿌리를 태운 재\n"
 "\n"
 "방법:\n"
-"황산 위에 재를 뿌린다. <i>절대로</i> 젓지 마라. 병 뚜껑을 닫고 악취가 날 "
-"때까지 기다린다.\n"
+"황산 위에 재를 뿌린다. <i>절대로</i> 젓지 마라. 병 뚜껑을 닫고 악취가 날 때까지 기다린다.\n"
 "\n"
 "기억하라:\n"
 "연금술에 모호한 게 있나?\n"
@@ -16575,9 +16572,9 @@ msgid ""
 msgstr ""
 "[절대자 교단과 그 위험성을 다룬 책 아래에 다음과 같은 글이 덧붙여져 있습니다.]\n"
 "이 성급하게 써진 글은 물론 좋은 의도에서 작성되었을 것이다. 그러나 글의 저자는 분명히 절대자에 대한 공포에 휩싸여 있는 것이 "
-"분명하다. 무엇보다 문제는 엔트로피 증가로 발생할 열사(熱死)에 따른 우주적 종말, 외눈의 리치 베크나의 부활, 과도한 강령술의 지나친 "
-"확산, 심지어 출트에서 수입된 과일들이 시드는 것과 같은 명백히 다른 사실들과 절대자 교단의 출현을 혼동하고 있다는 점이다. 이 자는 "
-"냉수나 한잔 마시고 좀 쉬어야 할 것이다."
+"분명하다. 무엇보다 문제는 엔트로피 증가로 발생할 열죽음에 의한 우주적 종말, 외눈의 리치 베크나의 부활, 과도한 강령술의 지나친 확산, "
+"심지어 출트에서 수입된 과일들이 시드는 것과 같은 명백히 다른 사실들과 절대자 교단의 출현을 혼동하고 있다는 점이다. 이 자는 냉수나 "
+"한잔 마시고 좀 쉬어야 할 것이다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -17453,9 +17450,10 @@ msgstr ""
 #. Type = item
 #. Stats = BOOK_GLO_GeneralLoreBook_DragonbornButler
 #: Public/GustavDev/RootTemplates/39d22054-44bd-4ff8-a58c-5f39a9ea94d3.lsx:13
+#, fuzzy
 msgctxt "ha2e70f11gc8e5g4e16gbb51gc6858ee47a80"
 msgid "The Butler's Cane Has A Knob On The End"
-msgstr ""
+msgstr "집사의 지팡이 끝에는 손잡이가 달려있다"
 
 #. key = GLO_GeneralLoreBook_DragonbornButler
 #. 
@@ -17568,7 +17566,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/27da821b-fc4b-4f5b-b74a-5497169362a8.lsx:13
 msgctxt "h30fa4425g82acg416ag9d88g644652f88516"
 msgid "Gond and Gripping Life By The Tongs"
-msgstr ""
+msgstr "통이 쓴 곤드와 매력적인 삶"
 
 #. key = GLO_GeneralLoreBook_GondAndTheGondians
 #. 
@@ -17577,6 +17575,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = GLO_GeneralLoreBook_GondAndTheGondians
 #: Public/GustavDev/Localization/generated_books.lsx:883
+#, fuzzy
 msgctxt "h4424491fgf9f2g458bgbfc1g7888fc8bb0ac"
 msgid ""
 "[Reading the introduction to this 'religious' text, it's clear the author "
@@ -17597,6 +17596,19 @@ msgid ""
 "th'peace. Marvel they are. First time I saw one, almost passed oot from "
 "sheer fuckin' delight, so I did."
 msgstr ""
+"[이 '종교적' 지문의 서두를 읽다 보면, 저자가 천박한 언어로 된 사전을 보며 작성했을 거란 확신이 듭니다. 어떤 이유에서인지 그녀는 "
+"마치 겁에 질린 필경사들에게 구술하는 것처럼 발음기호를 활용하여 글을 작성했습니다. ]\n"
+"\n"
+"좋아, 하찮은 시궁창 인생을 사는 여러분, 여기 한 가지 흥미로운 사실이 있어요. 곤드는 위대한 신들 중에서도 가장 위대한 신이랍니다.\n"
+"\n"
+"작은 존만이 신들은 하찮은 일을 하지만, 그는 그렇지 않아요. 그는 진정한 친구조차 '창조'할 수 있고, 개뼈다귀 같은 일들엔 시선도 "
+"주지 않죠.\n"
+"\n"
+"내가 그걸 어떻게 아냐고? 그의 종복들은 하나같이 존나 '성실'하거든 말 그대로 좆나게 말이야. 모루에서 나서 모루로 돌아간다는 말까지 "
+"있다니까.\n"
+"\n"
+"발더스 게이트와 같은 십창난 곳의 위대한 장인들. 그 도시에서, 곤드의 신자들은 평화를 지키기 위해 스틸 워치를 만들었어, 덩치 산만한 "
+"녀석들 말이야. 대단하지. 처음 내가 그걸 봤을 때는 너무 기뻐서 졸도할 뻔했다니까."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -19882,7 +19894,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/ea61964d-fd13-40c9-8b75-9b00e0ee5812.lsx:13
 msgctxt "h01a76c5aga55ag4eb4gab82g6482bcb58334"
 msgid "Ye Follye of Karsus"
-msgstr ""
+msgstr "카서스의 우행"
 
 #. key = GLO_SorcerousSundries_KarsusStory
 #. 
@@ -19908,6 +19920,15 @@ msgid ""
 "\n"
 "Canst thou but wait, implored Lord Shadow, until..."
 msgstr ""
+"[물에 젖은 흔적이 있는 이 오래된 서적은 다음 부분 말고는 읽는 게 불가능합니다.]\n"
+"\n"
+"... 고로 받아들인 지혜 만큼이나 오만하고, 허영심이 가득한 독학자이자 마법사였던 카서스는, 위기에 얽매여 버려, 결함이 있는 위브의 "
+"신 미스트릴을 대신해, 더 현명하고 강한 정신을 가진 새로운 불멸의 수호자가 나타나, 모든 마법의 마법적 태피스트리를 보호할 것이라 "
+"선언하게 된 것이다. 누가 그런 일을 하겠는가, 네더릴 인들이 놀라서 묻자, 카서스가 답하길, 나 말고 누가 하겠는가? 다른 이들과 달리 "
+"알려진 모든 갖가지 주문에 통달한 것이 나 아니던가? 세 번 갈음질하여, 나의 두뇌와 정신에 온 네더릴과, 그래, 게다가 미스트릴의 "
+"마법적 지혜까지 가져다줄 왕관을 만든 게 내가 아니던가? 그러니 그렇게 될 것이니라!\n"
+"\n"
+"조금만 더 기다리시면 안되겠습니까, 그림자 군주가 애원했다, 그러니까..."
 
 #. key = GLO_VolosNote_LeftIntermezzo
 #. 
@@ -20898,7 +20919,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/f5e8b331-c495-4d3a-ab82-90f6b9a1f3d6.lsx:13
 msgctxt "h443635ceg3316g456egb9ebgfb32334f8588"
 msgid "Halfred's Ledger."
-msgstr ""
+msgstr "할프레드의 장부"
 
 #. key = HAV_MolLetter
 #. 
@@ -37914,6 +37935,15 @@ msgid ""
 "With much love, as always,\n"
 "<i>Mother</i>"
 msgstr ""
+"사랑하는 딸아\n"
+"\n"
+"신혼의 삶이 네가 꿈꿔왔던 삶이었길 바란다. 상부 도시에서의 삶은 언제나처럼 더할나위가 없단다. 정원에 있는 꽃들은 아름답게 피어났는데 "
+"네 부케만큼은 아니구나.\n"
+"\n"
+"조만간 들렸으면 좋겠구나. 본 지 너무 오래 되었어. 아무 좋은 때나 와서 머물고 싶은 만큼 머물거라.\n"
+"\n"
+"항상 사랑한단다.\n"
+"<i>엄마가</i>"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -37965,7 +37995,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/68fe0205-c1a2-461a-9c28-e2be4a2a4307.lsx:13
 msgctxt "haa055075g275ag418dg902fg24bf3e93b251"
 msgid "Scrawled Note"
-msgstr ""
+msgstr "휘갈겨 쓴 쪽지"
 
 #. key = LOW_OskarsBeloved_MeetingAfter
 #. 
@@ -37984,6 +38014,13 @@ msgid ""
 "\n"
 " - B"
 msgstr ""
+"[초대장 닳아 해어진 끄트머리에 급하게 써놓은듯한 메모입니다]\n"
+"\n"
+"너. 나. 머메이드에서 제일 괜찮은 술 - 괜찮은 계획이야?\n"
+"\n"
+"귀족 나으리들이 집으로 간 뒤에 평소에 만나는 곳에서 만나.\n"
+"\n"
+"- B"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -37992,7 +38029,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/bbeabb0f-dc9c-438e-8089-5215e0ddda11.lsx:13
 msgctxt "hb7c51756gba07g448dga07ag1719b376bdec"
 msgid "Tin Mine Report"
-msgstr ""
+msgstr "주석 광산 보고"
 
 #. key = LOW_OskarsBeloved_MiningOperation
 #. 
@@ -38001,6 +38038,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = LOW_OskarsBeloved_MiningOperation
 #: Public/GustavDev/Localization/generated_books.lsx:4705
+#, fuzzy
 msgctxt "h19192cc6g0824g44deg9635g4a67b56777be"
 msgid ""
 "Dear Lady Jannath-\n"
@@ -38010,6 +38048,11 @@ msgid ""
 "sense and sell it to them. But show them last year's samples. \n"
 "- Skalgarrad, General Manager, Jannath Mines"
 msgstr ""
+"제나스 부인께\n"
+"공급을 이전의 수준으로 돌리기 위해 제가 생각할 수 있는 모든 방법을 써봤지만 소용이 없습니다. 벨덴신 주석 광산은 이제 고갈 "
+"상태입니다. 제가 드리는 최상의 조언은 돈은 넘치지만 어리석은 호족 가문에게 팔아넘기는 겁니다. 중요한 건 작년 샘플을 보여주는 것이죠."
+"\n"
+"- 제나스 광산 총 책임자 스칼가라드"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -38018,7 +38061,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/49ec8c9c-810a-47a7-aba0-5ca86d7e9d5e.lsx:13
 msgctxt "h5d59cde6g6870g47f3gb4fcg1b23a776cec5"
 msgid "Anonymous letter"
-msgstr ""
+msgstr "익명의 편지"
 
 #. key = LOW_OskarsBeloved_OskarsWhereaboutsTip
 #. 
@@ -38035,6 +38078,9 @@ msgid ""
 "[A greasy scrap of fabric is attached to the letter. The colour is "
 "impossible to determine.]"
 msgstr ""
+"그가 어디 있는지 안다. 돈을 준다면 알려주지. 동의한다면 푸른 깃발을 휘날려라.\n"
+"\n"
+"[기름진 섬유조각이 편지에 붙어있습니다. 색은 도저히 알 수 없는 상태입니다.]"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -38076,6 +38122,12 @@ msgid ""
 "<b>Final invoice:</b> 575 gold (additional cost: structural reinforcements "
 "after door installation, making it 'more secret ' per client req.)"
 msgstr ""
+"[끝마친 작업에 대해 휘갈겨 쓴 청구서]\n"
+"\n"
+"<b>작업 기록:</b> 29 타사크 1492DR.\n"
+"<b>설치 완료:</b> 아틀리에의 큐비로 이어지는 숨겨진 미닫이문\n"
+"<b>초기 청구:</b> 500 골드\n"
+"<b>최종 청구:</b> 575 골드 (고객 요구에 응대하기 위해 좀 더 '비밀스럽게' 문 설치 후 구조 강화)"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -47334,6 +47386,8 @@ msgid ""
 "depicting a profusion of local fauna (deer, rabbits, black bears) and flora, "
 "with special emphasis placed on areas for prolific foraging.]"
 msgstr ""
+"[이 고대의 지도엔 문라이즈 타워의 주변이 상세히 그려져 있으며, 비옥한 구역에 대한 강조와 함께 지역 동물군(사슴, 토끼, 흑곰), "
+"식물군이 묘사되어 있습니다.]"
 
 #. key = SCL_GeneralLoreBook_BraveLikeMamaSaid
 #. 
@@ -48190,6 +48244,19 @@ msgid ""
 "\n"
 "Mistress, embrace me. Please."
 msgstr ""
+"[서두르며 한쪽으로 삐뚤하게 휘갈겨 쓴 수기입니다. 잉크인지, 말라붙은 피인지 알 수 없는 얼룩이 많습니다.]\n"
+"\n"
+"샤 님이 계속 보호해 주시지만, 탈출은 불가능하다. 싸움 소리는 더 이상 들리지 않지만, 그 짐승이 아직 복도를 배회하고 있다. 내 "
+"형제, 자매는 전부 나이트싱어의 성스러운 건틀렛을 방어하다 쓰러진 것 같다. 하지만 기다릴 거다. 분명 그 짐승이 오래 머물지는 않겠지."
+"\n"
+"\n"
+"[더 삐뚤빼뚤한 글씨로 쓴 더 짧은 문단이 보입니다.]\n"
+"\n"
+"그 짐승이 아직도 있다. 왜 안 가는 거야? 게다가 왜 <b>노래</b>를 해? 음식이 떨어졌다. 힘을 보존해야 한다.\n"
+"\n"
+"[마지막 글은 거의 읽을 수가 없습니다.]\n"
+"\n"
+"여신이시여, 제발 저를 받아주소서."
 
 #. key = SHA_SharTemple_MirrorsOfLoss
 #. 
@@ -48917,6 +48984,40 @@ msgid ""
 "molasses or tar, so hard as it is to choke down. 'All beings should walk "
 "free of fear', I was taught. Oh, if only were I granted such a fine fate."
 msgstr ""
+"<i>어둠의 저주 2일째</i>\n"
+"\n"
+"케서릭이 마지막 저주를 읊으며 죽어갈 때 난 침착했다. 동료 하퍼들이 놈의 불쾌한 시체를 전장에서 치우자 안심했고, 위안마저 느꼈다. "
+"잘못된 걸 바로 잡고, 악을 막아냈으니까. 하지만 그 승리의 진정한 대가를 몰랐던 것이다.\n"
+"\n"
+"어둠이 이 땅을 거대한 망토처럼 뒤덮었다. 겨울의 발톱이 움켜쥐는 듯한 오한이 시작이었다. 몇 시간 뒤에는 숨 쉴 때마다 단검이 목을 "
+"찌르는 듯했다. 난 고기에 굶주린 늑대처럼 공기를 원했지만, 그래도 갑옷 덕분에 버틸 수 있었다. 라이스윈의 주민들이 다 이렇게 갑옷을 "
+"입고 있었다면 좋았을걸. 하나둘 쓰러진 후, 본인의 그림자로 다시 일어나서는 모든 빛과 생명을 꺼뜨리려 할 뿐이었다.\n"
+"\n"
+"여기서는 그림자의 영향이 좀 덜하다. 숨쉬려면 힘이 많이 들지만, 어둠과 한 몸이 되는 것보다는 조금 더 힘을 쓰는 게 좋겠지. 함정이 "
+"있으니 여기는 안전할 거다. 최소한 버틸 동안은.\n"
+"\n"
+"<i>어둠의 저주 5일째</i>\n"
+"\n"
+"그림자가 물러가고 약해진다. 횃불로 충분히 태워 없앨 수 있을 때도 있지만, 빛이나 마법으로도 가장 깊은 어둠은 없애지 못한다. 내 "
+"패밀리어인 코빈을 불러냈지만, 녀석은 거의 날지도 못했다.\n"
+"\n"
+"내일은 음식과 물 말고 다른 것도 찾아봐야겠다. 이 저주를 막아줄 두루마리나 아티팩트, 마법 물품을 찾을 수도 있으니까. 다른 생존자를 "
+"찾을 수도 있고.\n"
+"\n"
+"<i>어둠의 저주 18일째</i>\n"
+"\n"
+"이 어둠 속에서는 외로움이 특히 힘들다. 코빈은 불러낼 때마다 힘든데도 큰 애정을 보여준다. 우리 둘은 그 짧은 시간이나마 서로 위안을 "
+"받는다.\n"
+"\n"
+"이 안은 매우 조용하고, <i>밖</i>은 더 조용하다. 치유의 집 근처에서 조각난 아티팩트 말고도 두루마리와 책을 조금 찾았지만 도움 "
+"되는 건 없었다. 치유의 집 안에서 내 부름에 응답이 있긴 했는데, 차마 들어가지는 못 했다. 고통에 찬 신음과 잔혹한 외침이 "
+"들렸으니까. 그림자에서 사는 이들이 거기 있는데, 나는 혼자일 뿐이니.\n"
+"\n"
+"<i>어둠의 저주 26일째</i>\n"
+"\n"
+"코빈을 또 불러냈지만, 이제 녀석의 고통을 더는 못 보겠다. 내 고통도 못 참겠고. 회색이 이제 거의 검은색이 됐고, 공기는 당밀이나 "
+"타르처럼 걸쭉해져서 목이 막힐 지경이다. '모든 존재는 두려워 하지 않고 가야 한다.'라고 배웠다. 아, 그런 멋진 운명을 맞을 수만 "
+"있다면."
 
 #. key = TWN_AasimarSurvivor_ResearchNotes
 #. 
@@ -49338,6 +49439,18 @@ msgid ""
 "The next to ignore this missive will feel my scalpel without sedative. I "
 "will simply have to endure the shrieks."
 msgstr ""
+"전달 사항\n"
+"\n"
+"수신인: 라이스윈 치유의 집의 모든 의료진\n"
+"발신인: 메일러스 쏨, 수석 외과의\n"
+"\n"
+"간호사라는 자들이 노인과 임종 직전의 환자에게 소중한 마취제를 낭비하고 있다는 소리를 들었다.\n"
+"\n"
+"리드윈 간호사는 병자의 고통을 완화하고 우리 여신님의 품으로 인도하기 위해서라고 하더군. 그런 터무니 없는 소리는 금시초문이다. 마취제는 "
+"내가 칼을 댈 때 환자의 비명에서 내 귀를 보호하는 도구일 뿐, 산 송장을 편하게 가게 해주려는 자비가 아니다.\n"
+"\n"
+"샤께서는 '오직 약자의 고통만이 우리 고통을 잊게 하리니.'라고 이르셨다. 또 이 지시를 무시하면 마취 없이 내 메스 맛을 보여줄 "
+"것이다. 나는 비명만 참으면 되니까."
 
 #. key = TWN_Hospital_BettingList
 #. 
@@ -49555,6 +49668,22 @@ msgid ""
 "With Gratitude,\n"
 "Anna Lidwin"
 msgstr ""
+"수신: 발더스 게이트 하버사이드 병원 원장님\n"
+"발신: 다크클록, 라이스윈 치유의 집, 리드윈 안나 수녀\n"
+"긴급!\n"
+"\n"
+"선생님,\n"
+"\n"
+"라이스윈에 힘든 시기가 닥쳤습니다. 전쟁이 일어났죠. 모시는 신이나 명령 받는 장군에 관계 없이 다친 자를 고쳐주고, 병든 자를 치료하는 "
+"것이 우리의 사명이라고 가르치시지 않습니까? 그런데 우리 외과의인 메일러스 쏨은 자기만의 신념을 고수합니다. '샤의 의지'라고 하면 저는 "
+"감히 반항도 못 하겠어요. 쏨 가문 누구에게도요. 보급품을 빼돌리고, '연구'를 위해 환자의 상처를 썩게 방치하며, 저에게 치료가 필요한 "
+"다크 저스티시어만 돌보라고 합니다.\n"
+"\n"
+"부탁입니다, 선생님. 하퍼든, 셀루네 신도든, 모든 이의 눈물과 상처를 닦아줄 수 있도록 도와주세요. 그게 무엇이든 좋습니다. 약이나 "
+"약초, 거즈, 클레릭이라도요. 치료하게 도와주십시오.\n"
+"\n"
+"감사를 담아,\n"
+"안나 리드윈 올림"
 
 #. key = TWN_Hospital_SurgeonComplaints
 #. 
@@ -49634,6 +49763,15 @@ msgid ""
 "The sisters shall one day know me, first in whole, last in part. Only then "
 "will they be masters."
 msgstr ""
+"한 장, 한 장, 힘차고 흠이 없으며, 정확한 필체로 적힌 의학 서적입니다. 상세한 도식과 수술 지침이 샤의 가르침, 철학과 함께 "
+"들어있습니다.]\n"
+"\n"
+"희생 없는 통달은 없다. 여신님이 하신 그 말씀을 나도 독자 여러분에게 하겠다.\n"
+"\n"
+"어둠은 무한하지만 스승의 가르침은 그렇지 않다. 스승의 지혜를 다 익혀 제자들이 완전히 숙달되면, 마지막 가르침을 줄 때가 올 것이다. "
+"직접 수술대에 벌거벗고 누워 제자들이 상담하고, 진찰하고, 해부할 수 있게 할 것이다.\n"
+"\n"
+"자매들은 언젠가 처음이자 마지막으로 속속들이 나를 알게 되겠지. 그래야만 그대들은 통달할 수 있나니."
 
 #. key = TWN_Hospital_VisitorLog
 #. 
@@ -49833,6 +49971,21 @@ msgid ""
 "Your brother,\n"
 "Morfred"
 msgstr ""
+"할프레드,\n"
+"\n"
+"내가 서신을 보낸 것에 놀랐을 거야, 나만큼은 아니겠지만. 자네는 진즉에 쏨의 어두운 면에 대해 경고했지만, 나는 결국 그 저주받은 탑에 "
+"망치를 대고 말았지. 전쟁이 다가온다는 진언에도 불구하고, 그의 원수를 구속할 감옥을 짓고 말았어.\n"
+"\n"
+"자네는 경고했어. 나는 듣지 않았고. 가슴 깊이 뉘우치고 있네 - 나는 속죄해야만 해.\n"
+"\n"
+"탑의 구조를 누구보다 잘 알고 있는 나일세, 셀 수 없이 많은 연장과 보급품도 보유하고 있지. 최후의 빛에 동지를 모으면 우리가 잠입 "
+"계획을 짜겠네. 케서릭은 전쟁을 꾀하고 있어. 햇빛 아래에서 창과 지팡이를 부딪칠 생각이겠지만, 우리는 그가 검을 들어올리기도 전에 등 "
+"뒤를 찔러 숨통을 끊는 거야.\n"
+"\n"
+"용서를 바라진 않네만, 지금은 자네가 나서주길 희망하네.\n"
+"\n"
+"자네의 형제,\n"
+"모프레드"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -55632,6 +55785,12 @@ msgid ""
 "\n"
 "- Lord Hir Rillyn, Committee Chair"
 msgstr ""
+"고타쉬 경께 - \n"
+"\n"
+"우려하는 호족들의 위원회는 발더스 게이트의 경제적 생계에 대한 장단기 계획의 논의를 위해 개최되는 공식 회의에 귀하를 초대하고자 합니다. "
+"12일, 화요일, 정오에 오찬이 제공될 예정입니다. 참여하실 것이라고 생각해도 될까요?\n"
+"\n"
+"- 히르 릴린 경, 위원회 위원장"
 
 #. key = WYR_CoronationAccessPass
 #. 
@@ -56536,6 +56695,9 @@ msgid ""
 "the drow twins and I fear they won't have forgotten my little mishap. So, "
 "that was probably my last visit, I hope you'll understand.  - Arfur "
 msgstr ""
+"아미라 부인, 초대에 감사드립니다. 당신의 우아한 저택을 내가 얼마나 사랑하는지 부인도 알고 있겠죠. 하지만 난 아직도 지난 번 드로우 "
+"쌍둥이들과 있었던 일을 잊지 못하겠습니다. 또 그들이 나의 작은 실수를 잊지 않았을까 두려워요. 그러니, 그 때가 제 마지막 방문이 "
+"되더라도, 이해해주신다면 감사하겠습니다. -알퍼 "
 
 #. key = WYR_MerchantsHouse_ToymakersPrivateBook
 #. 

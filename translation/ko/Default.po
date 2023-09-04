@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:29+0900\n"
-"PO-Revision-Date: 2023-09-03 06:54+0000\n"
-"Last-Translator: OSI <sein4510@naver.com>\n"
+"PO-Revision-Date: 2023-09-04 16:53+0000\n"
+"Last-Translator: Sharku <pjsw007@naver.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/default/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -7752,7 +7752,6 @@ msgstr "전투 로그를 통해 최근 주문 시전, 행동, 대화를 확인�
 #. Name = DEC_GEN_Statue_Guard_A_007
 #. Type = scenery
 #: Mods/GustavDev/Levels/BGH_Barracks_A_Art/Scenery/_merged.lsx:3239
-#, fuzzy
 msgctxt "hab00fdfbgac2cg4155g9fd9ga67f459f5f21"
 msgid "Statue "
 msgstr "석상 "
@@ -14010,6 +14009,8 @@ msgid ""
 "the illithid tadpole an Absolutist forced in her mind. For this, the "
 "githyanki slew her as an aberration. "
 msgstr ""
+"절대자의 일리시드 올챙이가 시나지스의 정신에 강제한 은둔자 성향이 그녀가 일족 사이에 어울리지 못하는 존재로 두드러지게 했습니다. 이 "
+"때문에 기스양키는 시나지스를 괴이체로 여겨 살해했습니다. "
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -14034,6 +14035,8 @@ msgid ""
 "weapon and taught a rudimentary etiquette class, before the ogres were "
 "attacked one night, and Kerz once more took up their steel."
 msgstr ""
+"케르츠는 팔라딘과 용병으로 오랜 혹독한 세월을 살아왔습니다. 유쾌한 오우거 무리와 친구가 되어 무기를 내려놓고 기본적인 예의범절을 "
+"가르치던 어느 날 밤, 오우거가 공격을 받았고 케르츠는 다시 한 번 검을 들게 되었습니다."
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -14075,12 +14078,15 @@ msgstr "베리일 웬키르"
 #. Name = Hireling_Rogue
 #. Passives = DeathSavingThrows
 #: Public/SharedDev/Origins/Origins.lsx:189
+#, fuzzy
 msgctxt "hef8e826dg3697g45dfg8445gc6a0dcc67500"
 msgid ""
 "Madalla's blindness was cured by another True Soul passing through her "
 "village - so they could watch it being burnt to the ground around them. Such "
 "was the price of refusing the Absolute. "
 msgstr ""
+"장님 마달라의 눈은 그녀 주위에 불타버린 것들을 똑똑히 볼 수 있도록 마을을 지나치던 또 다른 참된 영혼에 의해 치유되었습니다. 그것은 "
+"절대자를 거부한 대가였습니다. "
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -14098,12 +14104,15 @@ msgstr "마달라 데드아이"
 #. Name = Hireling_Sorcerer
 #. Passives = DeathSavingThrows
 #: Public/SharedDev/Origins/Origins.lsx:210
+#, fuzzy
 msgctxt "h925015f2g1825g474ega4bcg450e9c20c8b8"
 msgid ""
 "Jacelyn was born a sorcerer, the seventh son of a seventh son. The agent of "
 "the Absolute that killed him knew this, and is rumored to have remarked, "
 "'Probably should've left it at six.'"
 msgstr ""
+"일곱 번째 아들이 낳은 일곱 번째 아들 재슬린은 소서러로 태어났습니다.그를 살해한 절대자의 대리인은 이를 알고 있었으며, '여섯째서 "
+"멈추는 게 좋았을 것'이라고 말했다는 소문이 있습니다."
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -14121,12 +14130,14 @@ msgstr "재슬린"
 #. Name = Hireling_Warlock
 #. Passives = DeathSavingThrows
 #: Public/SharedDev/Origins/Origins.lsx:232
+#, fuzzy
 msgctxt "h0989c641g1b55g444dga6fdg217446754db2"
 msgid ""
 "Kree's penchant for killing folk with a mere whisper was prized in the "
 "Absolute's ranks, but the utter devotion to her patron was met with lethal "
 "disapproval."
 msgstr ""
+"속삭임만으로 사람을 죽이는 크리의 특성은 절대자 계급에서 고평가되었으나, 후원자만을 위한 절대적인 충성은 치명적 반대에 부딪혔습니다."
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
@@ -14144,6 +14155,7 @@ msgstr "크리 데릭"
 #. Name = Hireling_Wizard
 #. Passives = DeathSavingThrows
 #: Public/SharedDev/Origins/Origins.lsx:255
+#, fuzzy
 msgctxt "hd384707fgd032g4cd9g8a52gdc76f3a53226"
 msgid ""
 "Sir Fuzzalump was much mocked amongst his playful kind for his dour "
@@ -14151,6 +14163,8 @@ msgid ""
 "moss. He claims not to have giggled in over a decade, and has never "
 "frolicked."
 msgstr ""
+"퍼잘럼프 경은 동굴 이끼의 마법 연구에 몰두하는 음침할 정도로 외골수적인 모습 때문에 익살스러운 동족들로부터 놀림 받았습니다. 그는 지난 "
+"10년 동안 웃거나 장난을 친 적이 전혀 없다고 합니다."
 
 #. FilePath = Public/SharedDev/Origins/Origins.lsx
 #. NodeID = Origin
