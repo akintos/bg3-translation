@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-29 09:30+0900\n"
-"PO-Revision-Date: 2023-09-05 20:53+0000\n"
-"Last-Translator: Lappa <laisanterie@gmail.com>\n"
+"PO-Revision-Date: 2023-09-06 01:45+0000\n"
+"Last-Translator: Ascaloth#3438 <nepheris12@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/bg3/journal/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -865,10 +865,9 @@ msgstr "우린 삿자를 풀어주지 않았다. 그녀가 어찌 될지는 알 
 #. ID = NotFoundCheckpoint
 #. Objective = DEN_CapturedGoblin_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:968
-#, fuzzy
 msgctxt "h1f61d5bdg79c1g4eb4g942fgac5ddf142e3b"
 msgid "We never met Sazza at the Goblin Camp."
-msgstr "삿자를 고블린 야영지에서 만나지 못했다."
+msgstr "삿자를 고블린 숙영지에서 만나지 못했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -912,12 +911,11 @@ msgstr "삿자와 드로우와 대화를 나누자. "
 #. ID = Escaped
 #. Objective = DEN_CapturedGoblin_FindGoblins
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:1031
-#, fuzzy
 msgctxt "h9c07f5fbg9237g4e76ga927gf76ee7479341"
 msgid ""
 "We got out of the grove in one piece. Sazza told us to meet her at the "
 "Goblin Camp."
-msgstr "무사히 드루이드 숲을 빠져나왔다. 삿자가 고블린 캠프에서 만나자고 했다."
+msgstr "무사히 드루이드 숲을 빠져나왔다. 삿자가 고블린 숙영지에서 만나자고 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
