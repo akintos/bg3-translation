@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-06 11:03+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-09-07 00:04+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath: Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID: ActionResourceDefinition
@@ -1319,7 +1321,7 @@ msgstr "종류"
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2144
 msgctxt "h219ed287gbc86g4f87g93a6gb930860114e6"
 msgid "Size can affect your traversal of the world."
-msgstr ""
+msgstr "체격은 세상을 탐험할 때 영향을 줄 수 있습니다."
 
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4373
 #: Public/Game/GUI/Library/DataTemplates.xaml:5112
@@ -1436,8 +1438,6 @@ msgstr "범위 선택"
 
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:7265
 #: Public/Game/GUI/Library/CharacterSheetTemplates.xaml:815
-#, fuzzy
-#| msgid "Lightsource"
 msgctxt "haedaccc7gffa0g4a2fg99bcg6703ffbb8ad7"
 msgid "Light Source"
 msgstr "광원"
@@ -1480,10 +1480,9 @@ msgstr "이동 속도"
 
 #: Public/Game/GUI/Library/DataTemplates.xaml:1890
 #: Public/Game/GUI/Library/Tooltips.xaml:6148
-#, fuzzy
 msgctxt "h7bb323e1g2294g4f5eg905eg82ae9d71abf0"
 msgid "Spell not prepared."
-msgstr "사용 불가: 주문이 준비되지 않음."
+msgstr "주문이 준비되지 않음."
 
 #: Public/Game/GUI/Library/DataTemplates.xaml:3745
 msgctxt "hd7341f92g766ag4d6fg81a6gb5006d22a44b"
@@ -2409,19 +2408,19 @@ msgstr "[1]px"
 #: Public/Game/GUI/Library/OptionTemplates.xaml:108
 msgctxt "h6311cf93gc2fdg4dbbga861g2c7a44f394d8"
 msgid "Medium"
-msgstr ""
+msgstr "보통"
 
 #: Public/Game/GUI/Library/OptionTemplates_c.xaml:95
 #: Public/Game/GUI/Library/OptionTemplates.xaml:113
 msgctxt "hc71f7bb4g5029g4e4bg9de5g637a4a3e34f7"
 msgid "Slow"
-msgstr ""
+msgstr "느림"
 
 #: Public/Game/GUI/Library/OptionTemplates_c.xaml:99
 #: Public/Game/GUI/Library/OptionTemplates.xaml:117
 msgctxt "h51157197gd1b8g414bga9b8gd205000c0415"
 msgid "Fast"
-msgstr ""
+msgstr "빠름"
 
 #: Public/Game/GUI/Library/OptionTemplates_c.xaml:923
 msgctxt "h3ddb094ag78e8g4433gb3ebg257085a592aa"
@@ -2544,6 +2543,8 @@ msgid ""
 "previously equipped items.\n"
 "Swapping equipment during combat costs one action."
 msgstr ""
+"광원을 장비하거나 이전 장비로 되돌리려면, [IE_Jump] 키를 길게 누르십시오.\n"
+"전투 중 장비 교체는 행동 하나를 소비합니다."
 
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:972
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:3522
@@ -2621,7 +2622,6 @@ msgid "Toggle"
 msgstr "토글"
 
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2816
-#, fuzzy
 msgctxt "h285d26a3ge78ag40d0ga7d3gfa9fc01e68cd"
 msgid "Toggle Inventory Access"
 msgstr "인벤토리 접근 토글"
@@ -2792,7 +2792,7 @@ msgstr "정말로 [1]의 캠페인을 삭제하시겠습니까?"
 #: Public/Game/GUI/Library/SaveLoad.xaml:101
 msgctxt "h9c2809d8g833dg4deagb0d9g5f0ab199cb41"
 msgid "Delete all but the latest save of your Campaign"
-msgstr ""
+msgstr "캠페인에서 가장 최근 세이브를 제외한 모든 세이브 삭제"
 
 #: Public/Game/GUI/Library/SaveLoad_c.xaml:89
 #: Public/Game/GUI/Library/SaveLoad.xaml:94
@@ -2802,6 +2802,8 @@ msgid ""
 "Proceeding will delete ALL of the saves of this Campaign, except the save "
 "file \"[1]\"."
 msgstr ""
+"확실합니까?\n"
+"진행하면 \"[1]\" 세이브를 제외한 이 캠페인의 모든 세이브를 삭제합니다."
 
 #: Public/Game/GUI/Library/SaveLoad_c.xaml:110
 #: Public/Game/GUI/Library/SaveLoad.xaml:115
@@ -2809,7 +2811,7 @@ msgctxt "ha66a404cga5efg404dg80adg1a462b40c8b8"
 msgid ""
 "Are you sure you want to delete all the save files of [1]'s Campaign, except "
 "for \"[2]\"?"
-msgstr ""
+msgstr "[1] 캠페인에서 \"[2]\" 세이브를 제외한 모든 세이브를 삭제하시겠습니까?"
 
 #: Public/Game/GUI/Library/SaveLoad_c.xaml:147
 #: Public/Game/GUI/Library/SaveLoad.xaml:355
@@ -4531,7 +4533,7 @@ msgstr "발동 시 확인"
 #: Public/Game/GUI/Library/Tooltips.xaml:6245
 msgctxt "hb5b0547cg9bdcg479cgb8ebg2ab66c4615e1"
 msgid "Will not trigger"
-msgstr ""
+msgstr "발동하지 않음"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:6346
 msgctxt "h7682e16bg7c69g4a72g8f1fg1b32519665f3"
@@ -5553,7 +5555,7 @@ msgstr "염"
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5180
 msgctxt "hbd8f16fbgcc72g489egb97eg3b6c414331a1"
 msgid "Essence of"
-msgstr ""
+msgstr "정수"
 
 #: Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:447
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5187
@@ -5653,7 +5655,7 @@ msgstr "황산"
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5496
 msgctxt "h648fff5ag77efg4846g9752gcaf6a99758e8"
 msgid "Suspensions"
-msgstr "혼합물"
+msgstr "현탁액"
 
 #: Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:860
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5526
@@ -6948,7 +6950,7 @@ msgstr "비늘 색"
 #: Public/Game/GUI/Library/CCLib_k.xaml:4187
 msgctxt "h861a433dgcc20g452bg9b1agde89d14c85c9"
 msgid "Ancestry"
-msgstr ""
+msgstr "혈통"
 
 #: Public/Game/GUI/Widgets/CharacterLevelUp_c.xaml:1428
 #: Public/Game/GUI/Widgets/CharacterCreation_c.xaml:457
@@ -6958,7 +6960,7 @@ msgstr ""
 #: Public/Game/GUI/Library/CCLib_k.xaml:4233
 msgctxt "h7202f8ebgaa5dg411dgac62g3bf8986e28b3"
 msgid "Ancestry Pigmentation"
-msgstr ""
+msgstr "혈통 발현"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -8437,7 +8439,7 @@ msgstr "불러오기 불가: [1]"
 #: Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:927
 msgctxt "hf0b9e10dgc790g4ff4g8304g4b33b979a487"
 msgid "Can't save or load right now: [1]"
-msgstr ""
+msgstr "지금은 저장하거나 불러올 수 없습니다: [1]"
 
 #: Public/Game/GUI/Widgets/GammaCalibration.xaml:54
 #: Public/Game/GUI/Widgets/GammaCalibration_c.xaml:58
@@ -10031,7 +10033,7 @@ msgstr "화면 나누기: 잠김"
 #: Public/Game/GUI/Widgets/Overlay_c.xaml:257
 msgctxt "h89e9b3a8gb0b7g4245g8db9g49da4891a377"
 msgid "Active Search"
-msgstr ""
+msgstr "주변 탐색"
 
 #: Public/Game/GUI/Widgets/Overlay_c.xaml:248
 msgctxt "h8d63481fg75ddg4d74g8d7agc1f77dde95d3"
@@ -10530,7 +10532,7 @@ msgstr "추출물을 혼합해 유용한 영약, 물약, 기름을 제작하세�
 #: Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:549
 msgctxt "h5bab6273g9c24g4194ga177gad32c39eaaa1"
 msgid "Take a Long Rest to fully replenish your resources."
-msgstr ""
+msgstr "자원을 완전히 회복하려면 긴 휴식을 취하십시오."
 
 #: Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:562
 msgctxt "h1b6123cege971g4469gbb07g7b5fbf925563"
@@ -10552,7 +10554,7 @@ msgstr "웨이포인트"
 #: Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:593
 msgctxt "h0f1425e9g68fdg4cbag8103g59bc99c00442"
 msgid "Quickly travel between places you've visited before."
-msgstr ""
+msgstr "빠른 여행을 통해 이전에 방문한 장소로 이동할 수 있습니다."
 
 #: Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:610
 msgctxt "h7c93a57bga2c1g42f2gaf44g494414ff2f56"
@@ -10810,6 +10812,8 @@ msgid ""
 "be replaced on <LSTag Type=\"Image\" Info=\"TutorialLevelUp\"/><hl>Level Up</"
 "hl>. "
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"SpellSlotPAD\"/> 주문 슬롯을 이용하는 주문은 <LSTag Type="
+"\"Image\" Info=\"TutorialLevelUp\"/><hl>레벨 업</hl> 시 교체할 수 있습니다. "
 
 #: Public/Game/GUI/Widgets/SpellBook_c.xaml:588
 #: Public/Game/GUI/Library/CCLib_c.xaml:3359
@@ -10885,7 +10889,7 @@ msgstr "주문 추가"
 #: Public/Game/GUI/Widgets/SpellBook_c.xaml:1112
 msgctxt "he2b64912g09dfg401egad86g268f04a1a4a8"
 msgid "Barbarian Actions"
-msgstr ""
+msgstr "바바리안 행동"
 
 #: Public/Game/GUI/Widgets/SpellBook_c.xaml:1115
 msgctxt "h74e37ee4g9d93g4c51gae38g8bb1105706c4"
@@ -10905,12 +10909,12 @@ msgstr "드루이드 주문"
 #: Public/Game/GUI/Widgets/SpellBook_c.xaml:1124
 msgctxt "h50ae50aeg387cg4183g8907g4af0fb97b1b1"
 msgid "Fighter Actions"
-msgstr ""
+msgstr "파이터 행동"
 
 #: Public/Game/GUI/Widgets/SpellBook_c.xaml:1127
 msgctxt "he5201ce2g0a0dg4e30ga732g7e40d27d0c35"
 msgid "Monk Actions"
-msgstr ""
+msgstr "몽크 행동"
 
 #: Public/Game/GUI/Widgets/SpellBook_c.xaml:1130
 msgctxt "h128c0875g0ce6g4935ga0ccgea9df4a6a94e"
@@ -10925,7 +10929,7 @@ msgstr "레인저 주문"
 #: Public/Game/GUI/Widgets/SpellBook_c.xaml:1136
 msgctxt "hdd92d50ag5cb0g4fc3ga80fga2366d3f4e16"
 msgid "Rogue Actions"
-msgstr ""
+msgstr "로그 행동"
 
 #: Public/Game/GUI/Widgets/SpellBook_c.xaml:1139
 msgctxt "h13627d4cg4844g4a44gab42gb3c03d37b64a"
@@ -10949,6 +10953,8 @@ msgid ""
 "Spell Slots can be replaced on <LSTag Type=\"Image\" Info=\"TutorialLevelUp\""
 "/><hl>Level Up</hl>."
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"WarlockSpellSlotPAD\"/> 워락 주문 슬롯을 사용하는 주문은 "
+"<LSTag Type=\"Image\" Info=\"TutorialLevelUp\"/><hl>레벨 업</hl>할 때 교체할 수 있습니다."
 
 #: Public/Game/GUI/Widgets/SpellBook_c.xaml:1180
 msgctxt "ha2f37b2fgeed6g4cccgbe6cga697f899f301"
