@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-06 11:03+0900\n"
-"PO-Revision-Date: 2023-09-07 00:03+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-09-08 05:53+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -8541,7 +8541,7 @@ msgstr "카자도르 지팡이"
 #: Public/SharedDev/RootTemplates/ed1c6a67-7bf0-4cb8-8a53-f4ed7c5ecff0.lsx:15
 msgctxt "hff3d4bd9g1ddbg4995gbf94gb5d4de191503"
 msgid "Bhaalist Dagger"
-msgstr "바알 신도 단검"
+msgstr "바알 숭배자 단검"
 
 #. NodeID: GameObjects
 #. Name: CINE_WPN_HUM_Shortsword_A_1
@@ -30584,7 +30584,7 @@ msgctxt "h86fa36fcg8914g46bfgb8dcg55f6916415e9"
 msgid ""
 "Food should not fit so snugly or so warmly in the gut - it's like a brothy "
 "hug!"
-msgstr ""
+msgstr "이렇게나 뱃속에 딱 맞고 따뜻한 음식이라니요, 국물이 포옹해주는 것 같습니다!"
 
 #. NodeID: GameObjects
 #. Name: DLC_DD_Meal_Paella_A
@@ -33498,7 +33498,7 @@ msgctxt "ha0fa7990gbcd4g49e9ga5e6g66b64693cef5"
 msgid ""
 "Here a temple placed to one side of the image, relegated out of the "
 "immediate eyeline by the display of burning light at the center."
-msgstr "그림 한가운데서 불타는 빛 때문에 신전은 시선의 중점에서 밀려나 그림의 한쪽 가장자리에 배치되어 있습니다."
+msgstr "신전은 그림 한가운데서 불타는 빛 때문에 시선의 중점에서 밀려나 그림의 한쪽 가장자리에 배치되어 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_E
@@ -33506,10 +33506,9 @@ msgstr "그림 한가운데서 불타는 빛 때문에 신전은 시선의 중�
 #. Icon: Item_FUR_GEN_Painting_Landscape_E
 #. Stats: OBJ_Painting_Landscape_E
 #: Public/Shared/RootTemplates/ec019ea0-e8bb-49e4-95b3-7a7324596188.lsx:15
-#, fuzzy
 msgctxt "h9dd645b9g955bg4692gbd37gac50e60efb0a"
 msgid "Aspen Lamentation"
-msgstr "풍경"
+msgstr "사시나무의 한탄"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_E
@@ -33517,12 +33516,11 @@ msgstr "풍경"
 #. Icon: Item_FUR_GEN_Painting_Landscape_E
 #. Stats: OBJ_Painting_Landscape_E
 #: Public/Shared/RootTemplates/ec019ea0-e8bb-49e4-95b3-7a7324596188.lsx:19
-#, fuzzy
 msgctxt "h5dd44a2agd4bdg4bdagb356g222155745a17"
 msgid ""
 "Half-submerged in the earth and swallowed in moss, an effigy basks strangely "
 "sad in the gorgeous golden aspens, yellow with autumn and sunshine."
-msgstr "풍부한 물감으로 표현된 섬세한 풍경입니다."
+msgstr "가을 햇빛에 금빛으로 물든 아름다운 사시나무 아래서 땅에 반쯤 묻힌 채 이끼에 뒤덮인 우상은 이상하게 슬퍼 보입니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_F
@@ -33530,10 +33528,9 @@ msgstr "풍부한 물감으로 표현된 섬세한 풍경입니다."
 #. Icon: Item_FUR_GEN_Painting_Landscape_F
 #. Stats: OBJ_Painting_Landscape_F
 #: Public/Shared/RootTemplates/6170715b-1654-46bc-9ac6-93dca8550e1f.lsx:15
-#, fuzzy
 msgctxt "hab98ad98g947bg4621g8573g2d5280c3ea68"
 msgid "Tigermist"
-msgstr "풍경"
+msgstr "호랑이안개"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_F
@@ -33541,12 +33538,13 @@ msgstr "풍경"
 #. Icon: Item_FUR_GEN_Painting_Landscape_F
 #. Stats: OBJ_Painting_Landscape_F
 #: Public/Shared/RootTemplates/6170715b-1654-46bc-9ac6-93dca8550e1f.lsx:19
-#, fuzzy
 msgctxt "h100ec684gba42g4871gafaega146cf27ef33"
 msgid ""
 "Huge improbable peaks elude the prowling of this mist, known as tigermist in "
 "Faerûnian folklore for its strange padding quality."
-msgstr "풍부한 물감으로 표현된 섬세한 풍경입니다."
+msgstr ""
+"비현실적으로 거대한 봉우리들이 안개의 흐름을 휘젓고 있습니다. 페이룬의 민간 전승에서는 이 안개의 기묘한 질감을 두고 호랑이안개라는 "
+"이름을 붙였습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_G
@@ -33554,10 +33552,9 @@ msgstr "풍부한 물감으로 표현된 섬세한 풍경입니다."
 #. Icon: Item_FUR_GEN_Painting_Landscape_G
 #. Stats: OBJ_Painting_Landscape_G
 #: Public/Shared/RootTemplates/ce2f870e-e735-4355-ae87-acf5971d2fef.lsx:15
-#, fuzzy
 msgctxt "he076a2fegd783g44a4g96f5ga3ac2baca0f2"
 msgid "Grass House"
-msgstr "풍경"
+msgstr "초목의 집"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_G
@@ -33565,10 +33562,9 @@ msgstr "풍경"
 #. Icon: Item_FUR_GEN_Painting_Landscape_G
 #. Stats: OBJ_Painting_Landscape_G
 #: Public/Shared/RootTemplates/ce2f870e-e735-4355-ae87-acf5971d2fef.lsx:19
-#, fuzzy
 msgctxt "h3b9e3516g2e10g45e4g9de8geb053f641ae2"
 msgid "Rich blankets of grass waft up the slopes, shivering softly."
-msgstr "풍부한 물감으로 표현된 섬세한 풍경입니다."
+msgstr "풍성한 잔디밭이 비탈길을 뒤덮고 부드럽게 흔들리고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_H
@@ -33576,10 +33572,9 @@ msgstr "풍부한 물감으로 표현된 섬세한 풍경입니다."
 #. Icon: Item_FUR_GEN_Painting_Landscape_H
 #. Stats: OBJ_Painting_Landscape_H
 #: Public/Shared/RootTemplates/c14556e6-db25-4d4f-b0ed-2b1041d03148.lsx:15
-#, fuzzy
 msgctxt "h2059bd4dg7397g46f8ga965g2a2fe5337e9b"
 msgid "Tigermist"
-msgstr "풍경"
+msgstr "호랑이안개"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_H
@@ -33587,12 +33582,13 @@ msgstr "풍경"
 #. Icon: Item_FUR_GEN_Painting_Landscape_H
 #. Stats: OBJ_Painting_Landscape_H
 #: Public/Shared/RootTemplates/c14556e6-db25-4d4f-b0ed-2b1041d03148.lsx:19
-#, fuzzy
 msgctxt "h5877b580gfce0g4aacgadc4gff5c21bac6ad"
 msgid ""
 "Huge improbable peaks elude the prowling of this mist, known as tigermist in "
 "Faerûnian folklore for its strange padding quality."
-msgstr "풍부한 물감으로 표현된 섬세한 풍경입니다."
+msgstr ""
+"비현실적으로 거대한 봉우리들이 안개의 흐름을 휘젓고 있습니다. 페이룬의 민간 전승에서는 이 안개의 기묘한 질감을 두고 호랑이안개라는 "
+"이름을 붙였습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_I
@@ -33600,10 +33596,9 @@ msgstr "풍부한 물감으로 표현된 섬세한 풍경입니다."
 #. Icon: Item_FUR_GEN_Painting_Landscape_I
 #. Stats: OBJ_Painting_Landscape_I
 #: Public/Shared/RootTemplates/c845b437-0ca4-4471-90c9-18bb53842aff.lsx:15
-#, fuzzy
 msgctxt "h02396953g6ab5g4540ga998ga564d82e7b7c"
 msgid "Grass House"
-msgstr "풍경"
+msgstr "초목의 집"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_I
@@ -33611,10 +33606,9 @@ msgstr "풍경"
 #. Icon: Item_FUR_GEN_Painting_Landscape_I
 #. Stats: OBJ_Painting_Landscape_I
 #: Public/Shared/RootTemplates/c845b437-0ca4-4471-90c9-18bb53842aff.lsx:19
-#, fuzzy
 msgctxt "h82045454gf026g4c8ag850eg8d4f43822471"
 msgid "Rich blankets of grass waft up the slopes, shivering softly."
-msgstr "풍부한 물감으로 표현된 섬세한 풍경입니다."
+msgstr "풍성한 잔디밭이 비탈길을 뒤덮고 부드럽게 흔들리고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_J
@@ -33648,7 +33642,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/41661b63-1ae9-4b27-a0c6-f92c6060e821.lsx:15
 msgctxt "h7749899eg38b6g4d77ga847g25a2bfafb572"
 msgid "Cabin in Motion"
-msgstr ""
+msgstr "움직이는 오두막집"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_K
@@ -33661,6 +33655,8 @@ msgid ""
 "The 'in motion' here is curious. What does the artist mean by that? What "
 "could be in motion here, in such a still scene?"
 msgstr ""
+"제목에 사용된 '움직인다'는 단어는 이해하기 어렵습니다. 작가는 무슨 의도로 그런 단어를 사용한 걸까요? 이 고요한 풍경에서 대체 뭐가 "
+"움직인다는 거죠?"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_L
@@ -33670,7 +33666,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/e80badd2-6723-49eb-8e2c-850055f04bcf.lsx:15
 msgctxt "h74c6a6f9g5ef7g4f3bga0e8g6e385d9f031f"
 msgid "River Goes "
-msgstr ""
+msgstr "흐르는 강 "
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Landscape_L
@@ -33682,7 +33678,7 @@ msgctxt "h760e492agd6adg49d7ga412g8b746d538270"
 msgid ""
 "Rippling with current and the plashing of silver fish just under the "
 "surface, the river flows somnolently onward."
-msgstr ""
+msgstr "은빛 물고기가 수면 아래서 물살을 가르고 헤엄치며 파문을 일으키는 가운데 강물은 나른하게 흘러갑니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Bane_A
@@ -33707,6 +33703,8 @@ msgid ""
 "renders him half-nude, oddly humanising, perhaps a nod to Bane's mortal "
 "origins before he ascended to godhood."
 msgstr ""
+"추상적이고 다소 충격적인 이 베인의 초상화는 거칠고 두꺼운 선으로 폭정에 대한 그의 정통함을 묘사하고자 했습니다. 게다가 그를 이상할 "
+"정도로 인간적인 반라의 모습으로 표현하고 있으니, 베인이 신으로 승천하기 이전에 필멸의 기원을 가진 존재였음을 말하는 것 같습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Oval_A
@@ -33724,12 +33722,11 @@ msgstr "티플링 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Oval_C
 #. Stats: Painting_Portrait_Oval_A
 #: Public/Shared/RootTemplates/a90dbddd-c839-40ad-a873-309b22d73da2.lsx:19
-#, fuzzy
 msgctxt "h943b667fgcc77g4fdbgbdd5g788e581211fb"
 msgid ""
 "Detailed with a ruff and plush chair, this tielfing noble has been given a "
 "stoic air here."
-msgstr "정밀하고 가벼운 붓놀림이 이 초상화에 영험한 느낌을 줍니다."
+msgstr "러프와 호화로운 의자로 묘사를 더한 이 티플링 귀족의 초상화가 이 장소에 냉담한 기류를 감돌게 만들고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Oval_B
@@ -33747,12 +33744,11 @@ msgstr "지루해하는 소녀의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Oval_C
 #. Stats: Painting_Portrait_Oval_B
 #: Public/Shared/RootTemplates/23a80328-c876-4110-afef-a3eb47193b83.lsx:19
-#, fuzzy
 msgctxt "h2046b302g5b6eg47a7g9092gf579284c0505"
 msgid ""
 "Her face disinterested, the girl looks askance rather than at her depictor. "
 "Her feather juts from a great cap, and a mane of russet-orange hair."
-msgstr "콧수염까지 세밀하게 묘사된 이 초상화에는 어떤 젊은 남성과 그의 고양이가 그려져 있습니다."
+msgstr "무관심한 표정으로 화가를 곁눈질하는 소녀의 주황색 머리카락이 커다란 모자 사이로 흘러내리고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Oval_C
@@ -33774,7 +33770,7 @@ msgctxt "hc91334ddga8dcg452agaed7g5335d6bb2ae9"
 msgid ""
 "Her cheeks are filled with a blush that seems altogether unrealistic until "
 "you meet someone who is, in fact, permanently embarassed."
-msgstr ""
+msgstr "그녀의 뺨은 일생의 사랑을 만나 본 적이 없는 이들에게는 비현실적으로만 느껴지는 홍조로 가득 채워져 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Oval_D
@@ -33796,7 +33792,7 @@ msgctxt "h4044b148gba58g45e7g9bf9g07c718f9eeee"
 msgid ""
 "The cant of the hat is avuncular, but the expression of the wearer is cold, "
 "detached."
-msgstr ""
+msgstr "모자는 부드럽게 기울어져 있지만 착용자의 얼굴은 차갑고 무심합니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Raphael_A
@@ -33831,7 +33827,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/836aab33-78db-4b1f-be9d-c6f16a8acc34.lsx:15
 msgctxt "hc2417a81g6f40g4514gb4eag9c3fc4a8eb11"
 msgid "Raphael Bears Flame"
-msgstr ""
+msgstr "화염을 품은 라파엘"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Raphael_B
@@ -33845,6 +33841,8 @@ msgid ""
 "fashioned feel, as if Raphael commissioned something more flattering and the "
 "artist refused through a brave, bright protest."
 msgstr ""
+"이 그림은 이상할 정도로 딱딱하고 대칭적으로 구성되어 진부하게 느껴집니다. 라파엘이 미화를 요구하자 작가가 용감하고 영리한 방식으로 "
+"저항한 것 같군요."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Raphael_C
@@ -33854,7 +33852,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/b9a4e46f-42ec-4d5a-a648-17c2f234a218.lsx:15
 msgctxt "h0da3388eg80f8g46e3gbb87gaac68da00670"
 msgid "Raphael Bears Flame"
-msgstr ""
+msgstr "화염을 품은 라파엘"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Raphael_C
@@ -33868,6 +33866,8 @@ msgid ""
 "fashioned feel, as if Raphael commissioned something more flattering and the "
 "artist refused through a brave, bright protest."
 msgstr ""
+"이 그림은 이상할 정도로 딱딱하고 대칭적으로 구성되어 진부하게 느껴집니다. 라파엘이 미화를 요구하자 작가가 용감하고 영리한 방식으로 "
+"저항한 것 같군요."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Raphael_D
@@ -33889,7 +33889,7 @@ msgctxt "h50b55892gd6f9g428cg80f1g128a8b0d2d34"
 msgid ""
 "Raphael's expression is flat and unreadable, but underneath bubbles that "
 "loquacious and self-satisfied temperament. "
-msgstr ""
+msgstr "라파엘은 속내를 알기 힘든 무표정을 짓고 있지만 그 가식 아래에는 수다스럽고 독선적인 성격이 자리잡고 있습니다. "
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_A
@@ -33897,10 +33897,9 @@ msgstr ""
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_A
 #: Public/Shared/RootTemplates/82ad7f96-b84c-4ab0-98bb-b534c69726ba.lsx:15
-#, fuzzy
 msgctxt "h708a74a6g76c3g442cgbf78g74539c07d459"
 msgid "Portrait of a Snowy-Brownbeard"
-msgstr "귀족의 초상화"
+msgstr "늙은 갈색수염의 초상화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_A
@@ -33908,13 +33907,14 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_A
 #: Public/Shared/RootTemplates/82ad7f96-b84c-4ab0-98bb-b534c69726ba.lsx:19
-#, fuzzy
 msgctxt "h58107412gf741g4458gb23bg19d37fdb1342"
 msgid ""
 "Bundled in his heavy satins and frumpy hat, this noble fixes the observer "
 "with anxious eyes over a moustache-beard combination of auburn whitening to "
 "snow."
-msgstr "정밀하고 가벼운 붓놀림이 이 초상화에 영험한 느낌을 줍니다."
+msgstr ""
+"무겁고 윤나지만 유행이 지난 모자를 뒤집어쓴 이 귀족은 눈처럼 하얗게 세어가고 있는 갈색 수염 너머로 관측자를 향한 근심어린 시선을 "
+"고정하고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_B
@@ -33922,10 +33922,9 @@ msgstr "정밀하고 가벼운 붓놀림이 이 초상화에 영험한 느낌을
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_B
 #: Public/Shared/RootTemplates/a5407fee-be16-450e-a24a-59bfadbdc2cc.lsx:15
-#, fuzzy
 msgctxt "h68e70353g144cg4ed4gbc9cgec31db92c603"
 msgid "Elven Eminence"
-msgstr "귀족의 초상화"
+msgstr "엘프의 고귀함"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_B
@@ -33933,13 +33932,14 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_B
 #: Public/Shared/RootTemplates/a5407fee-be16-450e-a24a-59bfadbdc2cc.lsx:19
-#, fuzzy
 msgctxt "h8850a1d0g6e4cg43a7ga9f1g29f860a969b1"
 msgid ""
 "The artist has exaggerated the points of the ears, which seem to cut the "
 "canvas dark like pale knives. The garb and crossed hands of this eminent man "
 "are beautiful, poised, and utterly indicative of means."
-msgstr "정밀하고 가벼운 붓놀림이 이 초상화에 영험한 느낌을 줍니다."
+msgstr ""
+"작가는 인물의 귀끝이 캔버스의 어둠을 베어내는 창백한 칼날처럼 보이게끔 과장해 그려냈습니다. 이 저명한 남자의 복장과 그 위로 교차된 "
+"손은 아름답고 균형잡혔으며, 재산의 명백한 척도입니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_C
@@ -33947,10 +33947,9 @@ msgstr "정밀하고 가벼운 붓놀림이 이 초상화에 영험한 느낌을
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_C
 #: Public/Shared/RootTemplates/cc764899-2397-47e7-8b5e-275f6a6cd752.lsx:15
-#, fuzzy
 msgctxt "h5dfe6765ga0d4g4536ga655g0a2ba6508c8f"
 msgid "Full Body Depiction of a Tiefling"
-msgstr "귀족의 초상화"
+msgstr "티플링의 전신상화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_C
@@ -33958,13 +33957,14 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_C
 #: Public/Shared/RootTemplates/cc764899-2397-47e7-8b5e-275f6a6cd752.lsx:19
-#, fuzzy
 msgctxt "h23975a46gf5b3g4da8gb65cgba7db8b9600a"
 msgid ""
 "Here a tiefling noble is shown at rest, knuckles pressed to red-fleshed "
 "cheek like a roosting robin whose fiery breast has burned to encompass the "
 "bird."
-msgstr "정밀하고 가벼운 붓놀림이 이 초상화에 영험한 느낌을 줍니다."
+msgstr ""
+"그림에는 휴식을 취하고 있는 티플링 귀족이 그려져 있습니다. 그 손마디가 알을 품은 울새의 불타는 듯한 가슴처럼 붉은 빛깔의 뺨을 누르고 "
+"있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_D
@@ -33972,10 +33972,9 @@ msgstr "정밀하고 가벼운 붓놀림이 이 초상화에 영험한 느낌을
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_D
 #: Public/Shared/RootTemplates/736cd290-cec0-4fa7-99d6-f6c9e2e851ec.lsx:15
-#, fuzzy
 msgctxt "h50400066g4f28g49b6g8bb6g76a49d07d8af"
 msgid "Staunch Tiefling Before Work"
-msgstr "귀족의 초상화"
+msgstr "출근 전의 믿음직한 티플링"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_D
@@ -33983,12 +33982,11 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_D
 #: Public/Shared/RootTemplates/736cd290-cec0-4fa7-99d6-f6c9e2e851ec.lsx:19
-#, fuzzy
 msgctxt "hfe3bc964g6248g4ea9gbee8ga8e7659b1cd3"
 msgid ""
 "Here an aristocrat poses before heading out to a day of poltiical discourse "
 "and chasing laws."
-msgstr "콧수염까지 세밀하게 묘사된 이 초상화에는 어떤 젊은 남성과 그의 고양이가 그려져 있습니다."
+msgstr "그림에는 정치적 담론과 준법의 하루를 보내러 가기 전 자세를 취하고 있는 귀족의 모습이 담겨 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_E
@@ -33996,10 +33994,9 @@ msgstr "콧수염까지 세밀하게 묘사된 이 초상화에는 어떤 젊은
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_E
 #. Stats: Painting_Portrait_Rectangle_E
 #: Public/Shared/RootTemplates/e5fc77b2-f615-4ed1-9618-f7f9518824b7.lsx:15
-#, fuzzy
 msgctxt "h04c39ff1gea8bg4313g9ba9g2f86b04f1ef9"
 msgid "Maid with Duster"
-msgstr "귀족의 초상화"
+msgstr "먼지떨이를 든 하녀"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_E
@@ -34007,14 +34004,15 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_E
 #. Stats: Painting_Portrait_Rectangle_E
 #: Public/Shared/RootTemplates/e5fc77b2-f615-4ed1-9618-f7f9518824b7.lsx:19
-#, fuzzy
 msgctxt "ha9c4ee5bg461dg4899g9d96g59fba91f89ff"
 msgid ""
 "Here a woman holds her duster with both hands, as if marketing it, not for "
 "consumption or purchase, but for appreciation of its fluffy purposeful shape "
 "so adroit at wiping away uncleanliness (a useful juxtaposition for the "
 "cleanliness of the image)."
-msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했습니다."
+msgstr ""
+"그림에는 양손으로 먼지떨이를 든 여인이 그려져 있습니다. 소비나 구매를 유도하기보다는 더러운 것들을 쉽게 닦아낼 수 있는 푹신하고 "
+"기능적인 형태를 자랑하는 광고처럼 보입니다(그림의 상태와 대조해 보면 그 효과가 더욱 극명해집니다)."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_F
@@ -34022,10 +34020,9 @@ msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_F
 #: Public/Shared/RootTemplates/7f7f86c0-41ca-4938-b4da-2719a3f69102.lsx:15
-#, fuzzy
 msgctxt "h9a064380gf004g47f0g9bc2g3875b33de87c"
 msgid "Portrait of a Trademaster"
-msgstr "귀족의 초상화"
+msgstr "상단주의 초상화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_F
@@ -34033,12 +34030,12 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_F
 #: Public/Shared/RootTemplates/7f7f86c0-41ca-4938-b4da-2719a3f69102.lsx:19
-#, fuzzy
 msgctxt "h872b3f40g7fa1g41c1g8db7gbedb10b16863"
 msgid ""
 "Darkly garbed and ruffed, this noble arches his brows at the onlooker, as if "
 "expecting you to do something interesting."
-msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했습니다."
+msgstr ""
+"어두운 색상의 옷과 러프를 착용한 귀족은 관찰자가 무언가 흥미로운 일을 하길 바라는 듯 이 쪽을 바라보며 눈썹을 찌푸리고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_G
@@ -34046,10 +34043,9 @@ msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_G
 #: Public/Shared/RootTemplates/d6d704d2-0a1f-48f9-bd27-43c99919a725.lsx:15
-#, fuzzy
 msgctxt "he4b3cc05g27b3g4710gaea3g3292537f18a4"
 msgid "Portrait of a Noble Before His Death"
-msgstr "귀족의 초상화"
+msgstr "죽음을 앞둔 귀족의 초상화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_G
@@ -34057,12 +34053,11 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_J
 #. Stats: Painting_Portrait_Rectangle_G
 #: Public/Shared/RootTemplates/d6d704d2-0a1f-48f9-bd27-43c99919a725.lsx:22
-#, fuzzy
 msgctxt "h9237e493gad38g42bcgb310g6a0a5c2b1818"
 msgid ""
 "The portrait done after his death involved no imperious glares, and much "
 "more rigor mortis."
-msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했습니다."
+msgstr "그의 죽음 이후에 완성된 초상화에는 고압적인 눈빛 대신 사후경직만이 담겼습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_H
@@ -34070,10 +34065,9 @@ msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_E
 #. Stats: Painting_Portrait_Rectangle_H
 #: Public/Shared/RootTemplates/8603569a-417e-4dc2-978d-6e9cc48f4bb7.lsx:15
-#, fuzzy
 msgctxt "h24bce360g496bg401bga47dg87dda079a0d2"
 msgid "Maid with Duster"
-msgstr "귀족의 초상화"
+msgstr "먼지떨이를 든 하녀"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_H
@@ -34081,14 +34075,15 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_E
 #. Stats: Painting_Portrait_Rectangle_H
 #: Public/Shared/RootTemplates/8603569a-417e-4dc2-978d-6e9cc48f4bb7.lsx:19
-#, fuzzy
 msgctxt "h521c5b30g6711g489agbfccg26ac763e3f4c"
 msgid ""
 "Here a woman holds her duster with both hands, as if marketing it, not for "
 "consumption or purchase, but for appreciation of its fluffy purposeful shape "
 "so adroit at wiping away uncleanliness (a useful juxtaposition for the "
 "cleanliness of the image)."
-msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했습니다."
+msgstr ""
+"그림에는 양손으로 먼지떨이를 든 여인이 그려져 있습니다. 소비나 구매를 유도하기보다는 더러운 것들을 쉽게 닦아낼 수 있는 푹신하고 "
+"기능적인 형태를 자랑하는 광고처럼 보입니다(그림의 상태와 대조해 보면 그 효과가 더욱 극명해집니다)."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_I
@@ -34096,10 +34091,9 @@ msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_E
 #. Stats: Painting_Portrait_Rectangle_I
 #: Public/Shared/RootTemplates/6d6999f4-9bea-48d4-ac39-1d17369193e9.lsx:15
-#, fuzzy
 msgctxt "ha86c27efgd79bg415dg892eg67e9e492f878"
 msgid "Maid with Duster"
-msgstr "귀족의 초상화"
+msgstr "먼지떨이를 든 하녀"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_I
@@ -34107,14 +34101,15 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Rectangle_E
 #. Stats: Painting_Portrait_Rectangle_I
 #: Public/Shared/RootTemplates/6d6999f4-9bea-48d4-ac39-1d17369193e9.lsx:19
-#, fuzzy
 msgctxt "h91e90ee6g19a8g41f1g9ee8g2660333f5963"
 msgid ""
 "Here a woman holds her duster with both hands, as if marketing it, not for "
 "consumption or purchase, but for appreciation of its fluffy purposeful shape "
 "so adroit at wiping away uncleanliness (a useful juxtaposition for the "
 "cleanliness of the image)."
-msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했습니다."
+msgstr ""
+"그림에는 양손으로 먼지떨이를 든 여인이 그려져 있습니다. 소비나 구매를 유도하기보다는 더러운 것들을 쉽게 닦아낼 수 있는 푹신하고 "
+"기능적인 형태를 자랑하는 광고처럼 보입니다(그림의 상태와 대조해 보면 그 효과가 더욱 극명해집니다)."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_J
@@ -34136,7 +34131,7 @@ msgctxt "h305b8c82geeddg4928gb383g59f9bad4563e"
 msgid ""
 "A master of sonnets and plays about ambition, supernatural tensions with the "
 "natural world, avarice, love, and moving bushes."
-msgstr ""
+msgstr "소네트의 달인이자 욕망, 탐욕, 사랑, 자연과의 초자연적 긴장, 움직이는 덤불에 대해 노래하는 자입니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_K
@@ -34146,7 +34141,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/d4fc2b3c-7f92-4d3c-9792-3f9d097cedf7.lsx:15
 msgctxt "hb0f17df4gf87bg4ca2gae9fg2557234b5db7"
 msgid "Portrait of a Bored Girl (Playing Music)"
-msgstr ""
+msgstr "(음악을 연주하며)지루해하는 소녀의 초상화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_K
@@ -34159,7 +34154,7 @@ msgid ""
 "Even with the addition of her lute, the C chord strumming out sensuously "
 "from the canvas to the ear, this young woman still looks immensely, "
 "disconsolately bored."
-msgstr ""
+msgstr "캔버스 안의 류트에서 감미로운 '다' 음이 흘러나오는 것 같지만 그림의 여자는 여전히 끔찍할 정도로 지겨워 보입니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_L
@@ -34169,7 +34164,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/d64c62cd-3e5d-4f70-b05f-b347afb1c5ef.lsx:15
 msgctxt "h3b560c5ag0696g4ee3g8915g4d3dbb243be0"
 msgid "Elegant Blush-Filled Portrait "
-msgstr ""
+msgstr "우아한 홍조로 채워진 초상화 "
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_L
@@ -34182,6 +34177,8 @@ msgid ""
 "Swan-necked and very lovely withal, this particular blush is keenly "
 "embarrased - perhaps she dind't much care to be depicted in paint."
 msgstr ""
+"백조 같은 목을 가진 동시에 대단히 사랑스럽기까지 한 이 특별한 여인은 매우 부끄러워하고 있습니다. 자신의 모습이 그림으로 남겨지는 것에 "
+"그리 신경쓰지 않았던 모양입니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_M
@@ -34191,7 +34188,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/60b6a4da-4f5c-46ab-a4c9-1d87ed2c1eed.lsx:15
 msgctxt "h54f7ff6egd99cg4773g8232g467ce78c6714"
 msgid "Young Boy In Plate Armour"
-msgstr ""
+msgstr "판금 갑옷을 입은 어린 소년"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_M
@@ -34203,7 +34200,7 @@ msgctxt "h34525a99gc2a8g4f71gbe0dg1ff9b05146f3"
 msgid ""
 "Staring superciliously, this young child is clad in the finest plate, sheets "
 "of steel slotted together expertly."
-msgstr ""
+msgstr "거만하게 이쪽을 바라보는 이 소년은 전문적인 솜씨로 강철판을 엮어낸 최고급 판금 갑옷을 착용하고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_N
@@ -34213,7 +34210,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/383dbc9b-8052-4ed9-8515-2447f03ef189.lsx:15
 msgctxt "hf1a46004g3dcfg47acg96d2gde83ab008ea9"
 msgid "Struck Match"
-msgstr ""
+msgstr "점화된 성냥"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_N
@@ -34225,7 +34222,7 @@ msgctxt "hf8f58815g12f0g494dgbf63g33533c267cb2"
 msgid ""
 "The match glow illuminates two conspirators in a plan to shake up their "
 "noble bloodline."
-msgstr ""
+msgstr "성냥의 불빛이 자신들의 고귀한 혈통을 뒤흔들 계획을 세우고 있는 두 음모가의 모습을 비추고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_O
@@ -34235,7 +34232,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/f79ec624-0fa0-44bc-825a-4390e694ce4a.lsx:15
 msgctxt "hae3e189fg1e91g456fgbb73g5de3fdf490ac"
 msgid "Ruffled Noblewoman"
-msgstr ""
+msgstr "러프를 착용한 귀족 여인"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_O
@@ -34249,6 +34246,8 @@ msgid ""
 "the onlooker with lips slightly parted, as if attentive or ready to voice "
 "some secret."
 msgstr ""
+"정말로 거대한 러프로 자신의 목을 가린 귀족 여인은 이쪽을 응시하며 경청하듯, 혹은 모종의 비밀을 말할 준비가 된 듯이 입술을 살짝 열고 "
+"있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_P
@@ -34258,7 +34257,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/2fcfcebe-b75d-4c8e-a13d-64b628436b8c.lsx:15
 msgctxt "h3868aefagbce1g4f74g9ac1g725c770c7568"
 msgid "Poet Unveils Review"
-msgstr ""
+msgstr "비평을 공개하는 시인"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Rectangle_P
@@ -34279,10 +34278,9 @@ msgstr ""
 #. Icon: Item_FUR_GEN_Painting_Portrait_Round_B
 #. Stats: OBJ_Painting_Portrait_Generic
 #: Public/Shared/RootTemplates/de28168f-2d5a-452e-a5ff-537d92202b39.lsx:15
-#, fuzzy
 msgctxt "hff5a1e3cgaa75g458cgabcdg76e39f16a1ab"
 msgid "Portrait of a Noble Before His Death"
-msgstr "귀족의 초상화"
+msgstr "죽음을 앞둔 귀족의 초상화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Round_A
@@ -34290,12 +34288,11 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Round_B
 #. Stats: OBJ_Painting_Portrait_Generic
 #: Public/Shared/RootTemplates/de28168f-2d5a-452e-a5ff-537d92202b39.lsx:19
-#, fuzzy
 msgctxt "h1965d870g20bbg4068g9e81g9dbbc24e41f8"
 msgid ""
 "The portrait done after his death involved no imperious glares, and much "
 "more rigor mortis."
-msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했습니다."
+msgstr "그의 죽음 이후에 완성된 초상화에는 고압적인 눈빛 대신 사후경직만이 담겼습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Round_B
@@ -34303,10 +34300,9 @@ msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했
 #. Icon: Item_FUR_GEN_Painting_Portrait_Round_B
 #. Stats: OBJ_Painting_Portrait_Generic
 #: Public/Shared/RootTemplates/f303e5d7-b32b-4844-bcc3-053380462ba3.lsx:15
-#, fuzzy
 msgctxt "hd930445dg3dccg4374g91ccgb8de26951d2e"
 msgid "Oval Framed Elven Eminence"
-msgstr "귀족의 초상화"
+msgstr "타원형 액자에 걸린 엘프의 고귀함"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Round_B
@@ -34314,13 +34310,14 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Round_B
 #. Stats: OBJ_Painting_Portrait_Generic
 #: Public/Shared/RootTemplates/f303e5d7-b32b-4844-bcc3-053380462ba3.lsx:19
-#, fuzzy
 msgctxt "hbcad94ebg528eg43f1gb5e6g70d0c1d1f61b"
 msgid ""
 "The artist has exaggerated the points of the ears, which seem to cut the "
 "canvas dark like pale knives. The garb  of this eminent man are beautiful, "
 "poised, and utterly indicative of means."
-msgstr "정밀하고 가벼운 붓놀림이 이 초상화에 영험한 느낌을 줍니다."
+msgstr ""
+"작가는 인물의 귀끝이 캔버스의 어둠을 베어내는 창백한 칼날처럼 보이게끔 과장해 그려냈습니다. 이 저명한 남자의 복장과 그 위로 교차된 "
+"손은 아름답고 균형잡혔으며, 재산의 명백한 척도입니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Round_C
@@ -34328,10 +34325,9 @@ msgstr "정밀하고 가벼운 붓놀림이 이 초상화에 영험한 느낌을
 #. Icon: Item_FUR_GEN_Painting_Portrait_Round_C
 #. Stats: OBJ_Painting_Portrait_Generic
 #: Public/Shared/RootTemplates/2b728203-f01d-4d90-aea9-b8ad3625f2af.lsx:15
-#, fuzzy
 msgctxt "hc6f993f1g566fg47c7ga3a2g8a00d29818f1"
 msgid "Nobleman Regards Us"
-msgstr "귀족의 초상화"
+msgstr "우리를 바라보는 귀족 남성"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Round_C
@@ -34339,12 +34335,12 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Round_C
 #. Stats: OBJ_Painting_Portrait_Generic
 #: Public/Shared/RootTemplates/2b728203-f01d-4d90-aea9-b8ad3625f2af.lsx:19
-#, fuzzy
 msgctxt "hc795bdf2g869dg4289gaf8fgeb818931b21c"
 msgid ""
 "Darkly garbed and ruffed, this noble arches his brows at the onlooker, as if "
 "expecting you to do something interesting."
-msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했습니다."
+msgstr ""
+"어두운 색상의 옷과 러프를 착용한 귀족은 관찰자가 무언가 흥미로운 일을 하길 바라는 듯 이 쪽을 바라보며 눈썹을 찌푸리고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Round_D
@@ -34352,10 +34348,9 @@ msgstr "금박이 가미된 대담한 색상으로 뽐내는 귀족을 표현했
 #. Icon: Item_FUR_GEN_Painting_Portrait_Round_C
 #. Stats: OBJ_Painting_Portrait_Generic
 #: Public/Shared/RootTemplates/a27fdcc7-7222-40e0-8184-84b45ba0d600.lsx:15
-#, fuzzy
 msgctxt "h9667fd22g9e97g4c98ga0efg81f860f01e36"
 msgid "Portrait of a Snowy-Brownbeard"
-msgstr "귀족의 초상화"
+msgstr "늙은 갈색수염의 초상화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Round_D
@@ -34363,13 +34358,14 @@ msgstr "귀족의 초상화"
 #. Icon: Item_FUR_GEN_Painting_Portrait_Round_C
 #. Stats: OBJ_Painting_Portrait_Generic
 #: Public/Shared/RootTemplates/a27fdcc7-7222-40e0-8184-84b45ba0d600.lsx:19
-#, fuzzy
 msgctxt "hefd24fcega321g4c4cg8b60ga0796a3e5b27"
 msgid ""
 "Bundled in his heavy satins and frumpy hat, this noble fixes the observer "
 "with anxious eyes over a moustache-beard combination of auburn whitening to "
 "snow."
-msgstr "정밀하고 가벼운 붓놀림이 이 초상화에 영험한 느낌을 줍니다."
+msgstr ""
+"무겁고 윤나지만 유행이 지난 모자를 뒤집어쓴 이 귀족은 눈처럼 하얗게 세어가고 있는 갈색 수염 너머로 관측자를 향한 근심어린 시선을 "
+"고정하고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Square_Player_A
@@ -34378,7 +34374,7 @@ msgstr "정밀하고 가벼운 붓놀림이 이 초상화에 영험한 느낌을
 #: Public/SharedDev/RootTemplates/4069b438-2fd9-46c3-a5c0-a248039a3b52.lsx:15
 msgctxt "hea547765g16f5g4eb6g9e80gd93dbc6568c5"
 msgid "Personal Portrait"
-msgstr ""
+msgstr "개인적인 초상화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Square_Player_A
@@ -34390,6 +34386,8 @@ msgid ""
 "Oh, and how fetching a face! Flawed, flawless. Elegant, hideous. Pained, "
 "pleasurable. It seems to fit all such descriptors, and many more besides."
 msgstr ""
+"오, 이 얼마나 인상적인 얼굴인지! 완벽하고, 우아하며, 유쾌하고, 엉망이고, 흉측하며, 고통받고, 그 외 기타 등등. 그 어떤 표현을 "
+"쓰더라도 어울릴 겁니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Vlaakith_A
@@ -34413,6 +34411,8 @@ msgid ""
 "an awfully impractical sword, but she can probably swing it okay, which is "
 "somewhat terrifying."
 msgstr ""
+"기스양키의 무시무시한 리치 여왕, 블라키스를 위엄있게 묘사한 초상화입니다. 어깨에 얹힌 검은 대단히 비실용적인 형태를 가지고 있지만, "
+"그녀의 손에서라면 공포스러운 위력을 발휘할 것입니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Vlaakith_A_Vandalized
@@ -34434,7 +34434,7 @@ msgctxt "h3c7c1f70g118eg41c2gb62ag3664000dd948"
 msgid ""
 "Dread Lich Queen Vlaakith, looking, to be fair, a bit silly with some rather "
 "juvenile horns and a little goatee."
-msgstr ""
+msgstr "무시무시한 리치 여왕 블라키스이긴 한데, 짧은 뿔과 염소수염이 더해지자 좀 바보같이 보인다는 사실을 부정하기 힘듭니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Vlaakith_B
@@ -34444,7 +34444,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/5ba0fc3c-dfee-4ec5-a0f9-95e43afa943f.lsx:15
 msgctxt "h3e796a17gfb72g49a8gb073gdda221532980"
 msgid "Small Portrait of Vlaakith"
-msgstr ""
+msgstr "블라키스를 그린 작은 초상화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Vlaakith_B
@@ -34458,6 +34458,8 @@ msgid ""
 "sword is so big it's actually unable to be contained within this image, "
 "making it look as if she's got a large engraved pole instead."
 msgstr ""
+"기스양키의 무시무시한 리치 여왕, 블라키스를 위엄있게 묘사한 초상화입니다. 그녀의 검은 그림 안에 담을 수 없을 정도로 커다란 나머지 "
+"칼이 아니라 장식된 커다란 장대를 들고 있는 것처럼 보입니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Vlaakith_B_Vandalized_Failed_A
@@ -34479,7 +34481,7 @@ msgctxt "h0b5c65a0g7ac6g4494g944dg0a90c05920f8"
 msgid ""
 "Here the queen of the gith has been slathered with paint, but if anything, "
 "she looks unbothered by this rude intrusion into her stern painted world."
-msgstr ""
+msgstr "그림 속의 기스 여왕은 물감 범벅이 되어 있지만 그녀의 근엄한 작품세계에 대한 무례한 개입에 별로 개의치 않는 것처럼 보입니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Vlaakith_B_Vandalized_Success_A
@@ -34489,7 +34491,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/4bdb9f29-45fa-4782-bad9-ff1ac5046a2c.lsx:15
 msgctxt "h761aff8cgdfffg44aegb304g881c8b03e676"
 msgid "Vandalised Portrait of Vlaakith"
-msgstr ""
+msgstr "덧그려진 블라키스의 초상화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_Portrait_Vlaakith_B_Vandalized_Success_A
@@ -34501,7 +34503,7 @@ msgctxt "h43f30098g5d9bg455eg9d35g00b2786bd9dd"
 msgid ""
 "Dread Lich Queen Vlaakith, looking, to be fair, a bit silly with some rather "
 "juvenile horns and a little goatee."
-msgstr ""
+msgstr "무시무시한 리치 여왕 블라키스이긴 한데, 짧은 뿔과 염소수염이 더해지자 좀 바보같이 보인다는 사실을 부정하기 힘듭니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_A
@@ -34511,7 +34513,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/4606cc95-f2f1-4c6a-9571-68a981060514.lsx:15
 msgctxt "h24743428gfc73g436cg8135g87d19966f960"
 msgid "Tableau of Ibex and Rose"
-msgstr ""
+msgstr "아이벡스와 장미가 그려진 회화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_A
@@ -34523,7 +34525,7 @@ msgctxt "h5e0690fdg3748g4f4cg8eadg1da700f12e07"
 msgid ""
 "Just the most prettily glowing flower and... animal... skull, look yes it's "
 "a bit macabre and gross but it's also pretty, okay?"
-msgstr ""
+msgstr "아름다운 붉은 꽃과 동물, 그리고... 해골이군요. 그래, 뭐 좀 섬뜩하고 역겹기는 하지만 어쨌든 예쁘긴 하잖아요?"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_A_Rich_A
@@ -34533,7 +34535,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/09857d72-c895-4f3a-9149-6d769d2f31d5.lsx:15
 msgctxt "h5931ea24gbefdg4b11ga468ga62abe759bbe"
 msgid "Tableau of Ibex and Rose"
-msgstr ""
+msgstr "아이벡스와 장미가 그려진 회화"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_A_Rich_A
@@ -34545,7 +34547,7 @@ msgctxt "h72f480b7g2eeag4184g9257g69fc5d4ffe75"
 msgid ""
 "Just the most prettily glowing flower and... animal... skull, look yes it's "
 "a bit macabre and gross but it's also pretty, okay?"
-msgstr ""
+msgstr "아름다운 붉은 꽃과 동물, 그리고... 해골이군요. 그래, 뭐 좀 섬뜩하고 역겹기는 하지만 어쨌든 예쁘긴 하잖아요?"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_B
@@ -34555,7 +34557,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/d1e388c0-9f12-4937-941f-37ad1d666473.lsx:15
 msgctxt "h3f2e9536g5af8g4cdaga96dg969b24dc072d"
 msgid "Butterfly on Skull"
-msgstr ""
+msgstr "해골 위에 앉은 나비"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_B
@@ -34567,7 +34569,7 @@ msgctxt "he9c8d630g6316g4206g8ad0g561ace667983"
 msgid ""
 "Difficult to imagine how the artist got the bloody butterfly to stay there "
 "for so long..."
-msgstr ""
+msgstr "작가가 대체 무슨 수로 나비를 저 자리에 오래 앉혀 둘 수 있었던 것인지 상상이 안 되는군요..."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_B_Rich_A
@@ -34577,7 +34579,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/6561e67b-9abb-4091-bd77-e9abf255ab89.lsx:15
 msgctxt "h283a3856g6d41g4691gb4c6ga0213d539798"
 msgid "Butterfly on Skull"
-msgstr ""
+msgstr "해골 위에 앉은 나비"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_B_Rich_A
@@ -34589,7 +34591,7 @@ msgctxt "h19a34e2cgf48bg4503g9523g44f8efb791b5"
 msgid ""
 "Difficult to imagine how the artist got the bloody butterfly to stay there "
 "for so long..."
-msgstr ""
+msgstr "작가가 대체 무슨 수로 나비를 저 자리에 오래 앉혀 둘 수 있었던 것인지 상상이 안 되는군요..."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_C
@@ -34599,7 +34601,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/ab6a6d45-d422-41ad-ae11-41ec308f4849.lsx:15
 msgctxt "hba4f7537g9554g45e0ga035g3617fe045d3f"
 msgid "Graveyard Coiler"
-msgstr ""
+msgstr "무덤을 휘감는 것"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_C
@@ -34611,7 +34613,7 @@ msgctxt "hc4fe0ea1gaf57g4930gb22bgf986fd145414"
 msgid ""
 "A serpent slithers through the eye socket of a rotting skull, its green "
 "slimy skin leaving a trail on the nearby bones."
-msgstr ""
+msgstr "썩어가는 해골의 눈구멍에서 기어나오는 뱀의 끈적한 피부가 근처의 뼈 위에 자국을 남기고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_C_Rich_A
@@ -34621,7 +34623,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/1500df20-20d3-4147-81d2-ffba41409659.lsx:15
 msgctxt "hbc061c6cg6003g4bcdgb644g9a5cc794dd6a"
 msgid "Graveyard Coiler"
-msgstr ""
+msgstr "무덤을 휘감는 것"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Painting_StillLife_C_Rich_A
@@ -34633,7 +34635,7 @@ msgctxt "hc2afcf7dgeae8g40begb9ddg7f3de46b1382"
 msgid ""
 "A serpent slithers through the eye socket of a rotting skull, its green "
 "slimy skin leaving a trail on the nearby bones."
-msgstr ""
+msgstr "썩어가는 해골의 눈구멍에서 기어나오는 뱀의 끈적한 피부가 근처의 뼈 위에 자국을 남기고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_Palace_Throne_Rich_A
@@ -35163,7 +35165,7 @@ msgstr "감옥문"
 #: Public/SharedDev/RootTemplates/86d36f55-9c60-48b8-a5e5-73ae43151401.lsx:15
 msgctxt "he345e556g158dg4122gbc50g68f12223b260"
 msgid "Sororal Dance"
-msgstr ""
+msgstr "자매의 춤"
 
 #. NodeID: GameObjects
 #. Name: FUR_HoH_Painting_Rectangle_A
@@ -35175,7 +35177,7 @@ msgctxt "h606bc071g8c59g414bg8613gbd060bea1b0b"
 msgid ""
 "Two sisters, one alive and a ballerina, the other killed in her crib, dance "
 "together framed in malefic smoky reds and oranges."
-msgstr ""
+msgstr "살아있는 발레리나와 침대에서 살해당한 아기, 그 한 쌍의 자매가 사악한 암적색과 주홍색 연기 속에서 함께 춤추고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: FUR_HoH_Painting_Rectangle_B
@@ -35185,7 +35187,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/dfa080d4-3c49-4eb5-b095-1d2f5a657ae3.lsx:15
 msgctxt "h414388cdg4e96g4daag9a31gd0dcb9db2c70"
 msgid "Condemnation"
-msgstr ""
+msgstr "규탄"
 
 #. NodeID: GameObjects
 #. Name: FUR_HoH_Painting_Rectangle_B
@@ -35195,7 +35197,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/dfa080d4-3c49-4eb5-b095-1d2f5a657ae3.lsx:19
 msgctxt "h62a43430gc972g46d1gb74eg92f91ccabb79"
 msgid "Harrowing and beautiful and terrible. What does it condemn, though?"
-msgstr ""
+msgstr "참혹하고 끔찍하지만 동시에 아름답습니다. 대체 무엇을 규탄한다는 것일까요?"
 
 #. NodeID: GameObjects
 #. Name: FUR_HoH_Painting_Rectangle_C
@@ -35205,7 +35207,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/ffe3490b-154a-414f-a3d1-644b18dc3a1d.lsx:15
 msgctxt "hfbcb48cbga1f3g473bg92d1g6cc33a19b46c"
 msgid "The Lay of Larethian"
-msgstr ""
+msgstr "라레시안의 빛"
 
 #. NodeID: GameObjects
 #. Name: FUR_HoH_Painting_Rectangle_C
@@ -36717,7 +36719,7 @@ msgstr "갑옷"
 #: Public/SharedDev/RootTemplates/8277a64b-9046-4d0b-9d89-834ff13526a4.lsx:16
 msgctxt "hc6324850g1abbg4284gaaafgdeaf869794f0"
 msgid "Black Hole"
-msgstr ""
+msgstr "블랙 홀"
 
 #. NodeID: GameObjects
 #. Name: Helper_Netherbrain_ObliterationOrb
@@ -36727,7 +36729,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/b4f5635b-2382-4fb2-ad0d-5be8b363e847.lsx:16
 msgctxt "h09f52fcdg7db3g44ddg91b1gb2b4d69ac32b"
 msgid "Orb of Negation"
-msgstr ""
+msgstr "부정의 보주"
 
 #. NodeID: GameObjects
 #. Name: Helper_Netherbrain_ObliterationOrb
@@ -36789,7 +36791,7 @@ msgstr "눈, 헤일과 비의 마법적인 폭풍입니다."
 #: Public/Shared/RootTemplates/db1f4efa-5e4e-46e0-bb14-883b3be6d9b4.lsx:15
 msgctxt "h556c8a7bg9c22g4535gb7d5gb5def9231974"
 msgid "Whirlwind"
-msgstr ""
+msgstr "회오리바람"
 
 #. NodeID: GameObjects
 #. Name: Helper_Waypoint_A
@@ -36809,7 +36811,7 @@ msgstr "고대 인장의 원"
 #: Public/GustavDev/RootTemplates/5d2efb42-800a-4d6f-b239-db98790ea70b.lsx:15
 msgctxt "h105ac8b1g3c40g473bgb22fg5032f533df65"
 msgid "Moonlight Butterfly"
-msgstr ""
+msgstr "달빛 나비"
 
 #. NodeID: GameObjects
 #. Name: INGR_Seashell_Conch_A
@@ -36920,7 +36922,7 @@ msgstr "목재 테이블"
 #: Public/GustavDev/RootTemplates/76afea06-3626-4b5e-a9bb-396cd3780166.lsx:16
 msgctxt "he78363b7gf700g418bgbbadg50979ed5544f"
 msgid "Barometer"
-msgstr ""
+msgstr "기압계"
 
 #. NodeID: GameObjects
 #. Name: LAB_GEN_Bottle_A
@@ -37189,7 +37191,7 @@ msgstr "병 선반"
 #: Public/Gustav/RootTemplates/09dcd9c8-07c7-46a5-a006-c179e50079d1.lsx:15
 msgctxt "hdb91007cg9efdg43d6gb93agae6cef3c21c0"
 msgid "Boots of Striding"
-msgstr ""
+msgstr "성큼걸이의 장화"
 
 #. NodeID: GameObjects
 #. Name: LOOT_ARM_HalfPlate_EndGame_Footwear
@@ -37227,7 +37229,7 @@ msgstr "강철처럼 튼튼한 이 곰 발톱은 여전히 치명적입니다."
 #: Public/Shared/RootTemplates/00d770dd-4b9a-481d-9e8d-a723df8d2f53.lsx:15
 msgctxt "ha5bef8ccg98e8g4c90g8c1ag8bef648e82c9"
 msgid "Crystal"
-msgstr ""
+msgstr "수정"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Alchemy_Crystal_C
@@ -37236,7 +37238,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/12f13f99-c12f-4b79-a487-4dc187d44cb5.lsx:15
 msgctxt "hbfc89f65g030cg4e25gbeebg4be77551d7b8"
 msgid "Crystal"
-msgstr ""
+msgstr "수정"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Alchemy_Crystal_ChasmCreeper_A
@@ -37267,7 +37269,7 @@ msgstr "이 희귀한 수정은 광활한 틈새의 가장자리에서만 볼 �
 #: Public/Shared/RootTemplates/426c7849-73af-4795-9729-55a3243d0843.lsx:15
 msgctxt "hefbda341gddedg4477g9f97g1ccb4cf475dd"
 msgid "Crystal"
-msgstr ""
+msgstr "수정"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Alchemy_Crystal_H
@@ -37276,7 +37278,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/d4e1da65-5c44-4fd3-af05-01bfedbecadf.lsx:15
 msgctxt "h6016f72fg2c35g447aga5e8g2ca912ed0386"
 msgid "Crystal"
-msgstr ""
+msgstr "수정"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Alchemy_Crystal_I
@@ -37285,7 +37287,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/0896d3b9-ef71-4343-b6a1-fbac8715fc73.lsx:15
 msgctxt "h9f9d3d2eg8387g45a4g84adg26918510551e"
 msgid "Crystal"
-msgstr ""
+msgstr "수정"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Alchemy_Crystal_J
@@ -37722,7 +37724,7 @@ msgstr "포자는 티마스크의 주된 방어기제로, 마시는 사람을 �
 #: Public/Shared/RootTemplates/614d12de-d9b4-4920-9bb8-821759cc5cea.lsx:15
 msgctxt "he61bd89cg747fg4d15gb5c2g4baa84247175"
 msgid "Earth Grenade"
-msgstr ""
+msgstr "대지 수류탄"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Alchemy_Myconid_Grenade_Feywild_A
@@ -37731,7 +37733,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/92e42984-703b-458a-aeb9-bee188ed9d22.lsx:15
 msgctxt "hee21094bg8a17g44dbga550gb58e484cdad6"
 msgid "Feywild Grenade"
-msgstr ""
+msgstr "페이와일드 수류탄"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Alchemy_Myconid_Grenade_Fire_A
@@ -37740,7 +37742,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/cb2e4639-1928-48a6-b7be-05c08df3b6eb.lsx:15
 msgctxt "hb8e179a6g77bfg46c1gbe76g4007e095dcef"
 msgid "Fire Explosive"
-msgstr ""
+msgstr "화염 폭탄"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Alchemy_Myconid_Grenade_Positive_A
@@ -37749,7 +37751,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/72df9e38-c5ef-434e-b261-6df0a7c0bfc5.lsx:15
 msgctxt "h5794fedcg8df9g4a05ga38ag0844a8818868"
 msgid "Charged Grenade"
-msgstr ""
+msgstr "충전된 수류탄"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Alchemy_Myconid_Grenade_Shadow_A
@@ -37767,7 +37769,7 @@ msgstr "반그림자 수류탄"
 #: Public/Shared/RootTemplates/f9c02f98-f2be-4f86-87c9-c556dea3d6ad.lsx:15
 msgctxt "h788518dfg33d6g409eg82fega8c3674d28f1"
 msgid "Timmask Grenade"
-msgstr ""
+msgstr "티마스크 수류탄"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Alchemy_Myconid_Grenade_Water_A
@@ -37776,7 +37778,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/543aefc2-654c-483f-b723-1bf8a1bd6d1e.lsx:15
 msgctxt "h12ccb082g7793g4affga417g060b3e055967"
 msgid "Aqueous Grenade"
-msgstr ""
+msgstr "수성 수류탄"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Alchemy_Owlbear_Beak_A
@@ -38317,7 +38319,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/aa744214-33e1-437c-b24a-18a8837c790b.lsx:15
 msgctxt "hd7ab0601ge440g42eagb384gb0391308f081"
 msgid "Empty Tadpole Jar"
-msgstr ""
+msgstr "빈 올챙이 단지"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Druid_Autopsy_Set_Empty
@@ -38530,7 +38532,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/db4761b2-cce8-4d6d-86ec-5cf0924a5f4c.lsx:10
 msgctxt "hdca99884ga886g4c43g876ag8be3160e299c"
 msgid "Jet and Pink Rose Dye"
-msgstr ""
+msgstr "검은색과 분홍색 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_BlackPink_01
@@ -38613,7 +38615,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/83cde47b-9e15-4ea5-98f4-4efd9ce93861.lsx:10
 msgctxt "hdd6ff83dgbb07g4b96g88ffg892f5ac2855f"
 msgid "Lavender Dye"
-msgstr ""
+msgstr "라벤더 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_BluePurple_01
@@ -38821,7 +38823,7 @@ msgstr "하플링 숲지기들은 이 염료로 그들의 길리슈츠를 위장
 #: Public/Shared/RootTemplates/23899dcd-8f27-4144-b29d-ae61eaacd8c3.lsx:10
 msgctxt "h986dfa00ga400g4907g9f81g67d9d4cb8ead"
 msgid "Custard and Pink Rose Dye"
-msgstr ""
+msgstr "커스타드와 로즈핑크색 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_IceCream_01
@@ -38999,7 +39001,7 @@ msgstr "연한 분홍색 염료"
 #: Public/Shared/RootTemplates/48a27277-7c18-49fe-9124-899919e162bc.lsx:9
 msgctxt "h8562d6a1gf773g4db4g9894g2503f9b854ea"
 msgid "Ah, the hue of heroes. "
-msgstr ""
+msgstr "아, 영웅의 색이로군요. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_PurpleRed_01
@@ -45377,7 +45379,7 @@ msgstr "시체 조종의 두루마리"
 #: Public/SharedDev/RootTemplates/5314d1eb-5771-47b5-80a7-2ee093ef4618.lsx:13
 msgctxt "h213aeceag1f66g4743g82fag8a9196c72499"
 msgid "Scroll of Arcane Eye"
-msgstr ""
+msgstr "비전의 눈 두루마리"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_SCROLL_ArcaneLock
@@ -45417,7 +45419,7 @@ msgstr "저주 부여의 두루마리"
 #: Public/SharedDev/RootTemplates/e9fae419-8c7a-4d5d-950f-94675a2aff07.lsx:15
 msgctxt "h476faccegb12eg46e4g9718g7ad5f709b84f"
 msgid "Scroll of Evard's Black Tentacles"
-msgstr ""
+msgstr "에바드의 검은 촉수 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_Blight
@@ -45427,7 +45429,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/e0ee9263-3740-44fe-80da-4315cb836aef.lsx:15
 msgctxt "h65b5abb2g360dg40d1g8651gfa2bf442e5d1"
 msgid "Scroll of Blight"
-msgstr ""
+msgstr "역병의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_Blindness
@@ -47310,7 +47312,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/cb8ae272-1607-4391-8395-19e208cfc067.lsx:16
 msgctxt "hcfdc8d47g5591g407ag96f4g7c9a385928ca"
 msgid "Indicator Crystal"
-msgstr ""
+msgstr "표시기 수정"
 
 #. NodeID: GameObjects
 #. Archetype: base
@@ -49233,7 +49235,7 @@ msgstr "등불"
 #: Public/Shared/RootTemplates/be496ad1-8367-430f-ab76-967d259f64bc.lsx:15
 msgctxt "h964552b8gff3dg4f01gaadcgb6601d2a06b9"
 msgid "Crystal Vase"
-msgstr ""
+msgstr "수정 항아리"
 
 #. NodeID: GameObjects
 #. Name: LTS_GEN_Crystal_Vase_Green_B
@@ -49242,7 +49244,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/63ef5abf-f51c-4d11-a393-c8c13f530020.lsx:15
 msgctxt "hf390ba07g9a2ag4c4bga435g36e24e299693"
 msgid "Crystal Vase"
-msgstr ""
+msgstr "수정 항아리"
 
 #. NodeID: GameObjects
 #. Name: LTS_GEN_Crystal_Vase_Green_C
@@ -49251,7 +49253,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/45d48cb3-7d74-4b06-9822-c6e5a9d18530.lsx:15
 msgctxt "hd3a9a52bg54d1g43e5gaa05ge4816b908c4e"
 msgid "Crystal Vase"
-msgstr ""
+msgstr "수정 항아리"
 
 #. NodeID: GameObjects
 #. Name: LTS_GEN_Crystal_Vase_Green_D
@@ -49260,7 +49262,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/d058f3bf-42e3-4a91-a6e3-87f67da0142d.lsx:15
 msgctxt "h06b13d31gc9d1g4e47gabeag9087a65be003"
 msgid "Crystal Vase"
-msgstr ""
+msgstr "수정 항아리"
 
 #. NodeID: GameObjects
 #. Name: LTS_GEN_Gem_Glowing_A
@@ -52717,7 +52719,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/a9a9468a-19de-4c95-8b50-1d04eb90e17d.lsx:9
 msgctxt "h78003b81g7784g4540ga198g708d9594d019"
 msgid "Lathander Crystal"
-msgstr ""
+msgstr "라샌더 수정"
 
 #. NodeID: GameObjects
 #. Name: PUZ_MF_Brain_Part_E
@@ -53884,7 +53886,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/c021c3e7-a363-42b3-8a28-56a994198530.lsx:16
 msgctxt "h2c8425b9g20e3g4b2eg96cdg3ef3d35c32dd"
 msgid "Githyanki Disruptor Crystal"
-msgstr ""
+msgstr "기스양키 분열기 수정"
 
 #. NodeID: GameObjects
 #. Name: QUEST_CRE_CaptainsBarrierKey
@@ -53896,7 +53898,7 @@ msgctxt "h051467abgde59g4765gabe5g32fbb14c02df"
 msgid ""
 "A psionic crystal that fits into a githyanki barrier disruptor to suppress "
 "nearby energy fields."
-msgstr ""
+msgstr "주위의 역장을 억제하는 기스양키 보호막 분열기에 딱 맞는 수정입니다."
 
 #. NodeID: GameObjects
 #. Name: QUEST_CRE_PlaneCaster
@@ -55289,7 +55291,7 @@ msgstr "느슨한 돌담"
 #: Public/SharedDev/RootTemplates/10051779-42d5-4bc6-8d55-10f6ce504758.lsx:20
 msgctxt "h018963d3g2113g4ab8g96fcg058a4b20bf09"
 msgid "Attuned Crystal"
-msgstr ""
+msgstr "조율된 수정"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Cave_Speleothem_Stalactite_A
@@ -59053,7 +59055,7 @@ msgctxt "h7b23d5fbg6aa6g4286g9d16g635e4a77eb64"
 msgid ""
 "The sun crystal is cut imperfectly. It is still worth a pretty penny, but "
 "it's not perfectly symmetrical."
-msgstr ""
+msgstr "불완전하게 가공된 태양 수정입니다. 완벽한 대칭을 이루고 있지는 못해도 괜찮은 가격을 받을 수 있을 겁니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Alchemy_Crystal_PurpleFluoriteShard
@@ -59063,7 +59065,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/a6bc05c1-5cca-4b54-b83f-0ed546b5e326.lsx:13
 msgctxt "h05dde914g20e2g4d1cga861g83f2c33c0c94"
 msgid "Raw Sun Crystal"
-msgstr ""
+msgstr "태양 수정 원석"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Alchemy_Crystal_PurpleFluoriteShard
@@ -59073,7 +59075,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/a6bc05c1-5cca-4b54-b83f-0ed546b5e326.lsx:12
 msgctxt "h85954a2eg1804g47c9gb497gab7af9134da6"
 msgid "Raw Sun Crystal"
-msgstr ""
+msgstr "태양 수정 원석"
 
 #. NodeID: GameObjects
 #. Name: UNI_CRE_RooftopLanceControlPanel
