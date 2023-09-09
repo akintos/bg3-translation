@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-06 11:03+0900\n"
-"PO-Revision-Date: 2023-09-08 05:53+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2023-09-09 11:54+0000\n"
+"Last-Translator: Ascaloth#3438 <nepheris12@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -7517,10 +7517,9 @@ msgstr "부풀어 오른 판"
 #. Type: item
 #. Icon: Item_LOOT_MF_Alchemy_Device_F copy
 #: Public/Shared/RootTemplates/2ce0dda2-06a0-4794-aac4-ecbeef2bac07.lsx:15
-#, fuzzy
 msgctxt "hdf7be88bg314eg4095gb1bfg7b5fa7cffd6b"
 msgid "Illithid Cradle"
-msgstr "휴면"
+msgstr "일리시드 요람"
 
 #. NodeID: GameObjects
 #. Name: BLD_MF_Nautiloid_Mind_Draining_Device_Plaque_A
@@ -11868,8 +11867,6 @@ msgstr "돼지고기 구이"
 #. Icon: Item_CONS_Food_Roasted_Pig_A
 #. Stats: CONS_FOOD_RoastedPig
 #: Public/Shared/RootTemplates/a6848154-bc81-44fa-a344-8dbd020b16ae.lsx:21
-#, fuzzy
-#| msgid "So succulent it peals of the bone with only the slightest touch."
 msgctxt "h436a52c7g5fdag44f7ga6a9gc4d42bdd6c74"
 msgid "So succulent it peels off the bone with only the slightest touch."
 msgstr "아주 살짝만 만져도 뼈에서 분리될 정도로 육즙이 풍부합니다."
@@ -22634,7 +22631,7 @@ msgstr "고대 제단"
 #: Public/SharedDev/RootTemplates/4700caf7-e7cf-4509-a949-c156b0a6066e.lsx:15
 msgctxt "h13882386g5083g4645g8a2cg6064de4cdcc2"
 msgid "Plaque"
-msgstr "석판"
+msgstr "명판"
 
 #. NodeID: GameObjects
 #. Name: DEC_Dungeon_Skeleton_BonePile_A
@@ -26704,7 +26701,7 @@ msgstr "명판"
 #: Public/SharedDev/RootTemplates/ef3fb341-e89d-4854-8a5d-50721b4ad888.lsx:15
 msgctxt "h9b003ebag5567g438dg86c6g586a821d5e34"
 msgid "Plaque"
-msgstr "명패"
+msgstr "명판"
 
 #. NodeID: GameObjects
 #. Name: DEC_GEN_Plaque_Stone_B_Broken
@@ -26714,7 +26711,7 @@ msgstr "명패"
 #: Public/SharedDev/RootTemplates/5b753291-e7f0-47f4-ad39-9e7273943fdc.lsx:15
 msgctxt "h00ac11ecga078g490bg888eg23436524063f"
 msgid "Plaque"
-msgstr "명패"
+msgstr "명판"
 
 #. NodeID: GameObjects
 #. Icon: Item_DEC_GEN_Plaque_Wood_A
@@ -32231,7 +32228,7 @@ msgstr "나무 벤치"
 #: Public/SharedDev/RootTemplates/246cf00f-42bb-4d66-bacd-a0679ba9c12f.lsx:15
 msgctxt "h44bb984cg6a61g45f1g91a3g497c1870187c"
 msgid "Book Throne"
-msgstr ""
+msgstr "책 왕좌"
 
 #. NodeID: GameObjects
 #. Name: FUR_GEN_BookThrone_A
@@ -35207,7 +35204,7 @@ msgstr "참혹하고 끔찍하지만 동시에 아름답습니다. 대체 무엇
 #: Public/SharedDev/RootTemplates/ffe3490b-154a-414f-a3d1-644b18dc3a1d.lsx:15
 msgctxt "hfbcb48cbga1f3g473bg92d1g6cc33a19b46c"
 msgid "The Lay of Larethian"
-msgstr "라레시안의 빛"
+msgstr "라레시안의 형체"
 
 #. NodeID: GameObjects
 #. Name: FUR_HoH_Painting_Rectangle_C
@@ -35221,6 +35218,8 @@ msgid ""
 "dark haired elven Goddess, the body mirrored and contorted with a delicious "
 "grace and embedded upon maroon muslin."
 msgstr ""
+"여기 그려진 코렐론 라레시안은 아름다운 금발을 가진 엘프 남신이 아닌, 매혹적인 우아함으로 뒤틀리고 반전된 몸을 고동색 모슬린으로 감싼 "
+"흑발의 엘프 여신으로 묘사되어 있습니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_FUR_Hospital_Bed_A
@@ -36508,7 +36507,7 @@ msgctxt "he8955d80gc14cg497bg81deg96d55970511f"
 msgid ""
 "Gyroscopic whispers emanate from the device - gnomish machinery speaks with "
 "a metal tongue. "
-msgstr ""
+msgstr "기계 안에서 자이로스코프의 속삭임이 흘러나옵니다. 노움 기계장치는 금속으로 말하는 법이지요. "
 
 #. NodeID: GameObjects
 #. Name: GRN_Sunflash_Grenade_A
@@ -36523,6 +36522,9 @@ msgid ""
 "\"STUNNED\">Stunned</LSTag>, and suffers a -1d6 penalty to <LSTag Tooltip="
 "\"AttackRoll\">Attack Rolls</LSTag>."
 msgstr ""
+"대상을 <LSTag Type=\"Status\" Tooltip=\"BLINDED\">실명</LSTag>시킵니다. 스틸 워치나 감시하는 "
+"수정구를 대상으로 사용했을 경우 <LSTag Type=\"Status\" Tooltip=\"STUNNED\">기절</LSTag>시키고 "
+"<LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 -1d6 페널티를 가합니다."
 
 #. NodeID: GameObjects
 #. Name: GRN_UNI_BrilliantRetort
@@ -36531,7 +36533,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/11f7c9b6-6210-44f2-ae59-2f61f6ad7563.lsx:13
 msgctxt "hd95cd5aagc78dg401agb804gcc470da6102c"
 msgid "Brilliant Retort"
-msgstr ""
+msgstr "훌륭한 응수"
 
 #. NodeID: GameObjects
 #. Name: GRN_UNI_BrilliantRetort
@@ -36540,7 +36542,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/11f7c9b6-6210-44f2-ae59-2f61f6ad7563.lsx:15
 msgctxt "h76bdf001g4bd3g4e8dgadc3g9922d2aa044c"
 msgid "All the bang and the boom of the original, but with an extra surprise."
-msgstr ""
+msgstr "원본의 위력을 유지하면서도 놀랄 만한 요소를 더 갖추었습니다."
 
 #. NodeID: GameObjects
 #. Name: GiantSpiderEggSack_CombatThrowable
@@ -36742,6 +36744,7 @@ msgid ""
 "The Netherbrain's will made manifest. Anything that would disrupt the Grand "
 "Design is mistaken - mistakes are to be corrected. "
 msgstr ""
+"네더브레인은 현현하고 말 것입니다. 원대한 설계를 방해할 수 있는 모든 것들은 잘못된 것이며, 잘못된 것들은 고쳐져야만 합니다. "
 
 #. NodeID: GameObjects
 #. Name: Helper_Spell_CloudOfDaggers
@@ -37191,7 +37194,7 @@ msgstr "병 선반"
 #: Public/Gustav/RootTemplates/09dcd9c8-07c7-46a5-a006-c179e50079d1.lsx:15
 msgctxt "hdb91007cg9efdg43d6gb93agae6cef3c21c0"
 msgid "Boots of Striding"
-msgstr "성큼걸이의 장화"
+msgstr "성큼걸이의 부츠"
 
 #. NodeID: GameObjects
 #. Name: LOOT_ARM_HalfPlate_EndGame_Footwear
@@ -38482,7 +38485,7 @@ msgctxt "h8bce30aegac6bg43b8ga5aeg7f8b53cc1e96"
 msgid ""
 "The very heavens at dusk, alight with stars and deepening through blues, "
 "could not be so vivid as this dye!"
-msgstr ""
+msgstr "별빛으로 빛나며 푸른색으로 깊어가는 해질녘의 하늘조차도 이 염료보다 생생하지는 못할 겁니다!"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Dye_BlackBlue_01
@@ -38492,7 +38495,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/02bb51c0-00e5-408c-8e11-8de7b9580c04.lsx:13
 msgctxt "hd21cb119g1602g4121gb0cegd79abede8eed"
 msgid "Black and Azure Dye"
-msgstr "흑색과 하늘색 염료"
+msgstr "흑색과 담청색 염료"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Dye_BlackBlue_01
@@ -38502,7 +38505,7 @@ msgstr "흑색과 하늘색 염료"
 #: Public/Shared/RootTemplates/02bb51c0-00e5-408c-8e11-8de7b9580c04.lsx:16
 msgctxt "h8303f613g5e4ag48c1g9238g074eccea4531"
 msgid "The scales of a lightning-breathing dragon are this blue. "
-msgstr ""
+msgstr "번개 숨결을 토해내는 용의 비늘이 이 염료와 같은 푸른색을 가지고 있습니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_BlackGreen_01
@@ -38522,7 +38525,7 @@ msgstr "흑색과 여름 녹색 염료"
 #: Public/Shared/RootTemplates/81512e6c-dbe4-451c-b5cc-7268656444c1.lsx:9
 msgctxt "h467afa74g0f7cg42c0g88c2gc8d39686b773"
 msgid "This dye smells vaguely of mint and lime. "
-msgstr ""
+msgstr "이 염료에서는 희미한 민트와 라임 냄새가 납니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_BlackPink_01
@@ -38532,7 +38535,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/db4761b2-cce8-4d6d-86ec-5cf0924a5f4c.lsx:10
 msgctxt "hdca99884ga886g4c43g876ag8be3160e299c"
 msgid "Jet and Pink Rose Dye"
-msgstr "검은색과 분홍색 염료"
+msgstr "흑옥과 분홍장밋빛 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_BlackPink_01
@@ -38542,7 +38545,7 @@ msgstr "검은색과 분홍색 염료"
 #: Public/Shared/RootTemplates/db4761b2-cce8-4d6d-86ec-5cf0924a5f4c.lsx:9
 msgctxt "h2138ea63ga872g4474gb8d2g28d1810cacb4"
 msgid "These hues give the appearance of one of Luskan's dignitaries. "
-msgstr ""
+msgstr "루스칸 고위 관료와도 같은 인상을 주는 색조입니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_BlackRed_01
@@ -38563,7 +38566,7 @@ msgstr "흑색과 용광로 적색 염료"
 msgctxt "h6e7a8e62g07d2g4b46g8c46gdd68ac02a209"
 msgid ""
 "Mixed from enchanted furnace coals from the forge of some legendary smith. "
-msgstr ""
+msgstr "전설적인 대장장이의 대장간 용광로에서 건져낸 석탄에 마법을 부여해 만들어낸 염료입니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_BlackTeal_01
@@ -38583,7 +38586,7 @@ msgstr "흑색과 옥녹색 염료"
 #: Public/Shared/RootTemplates/94ef7170-1c1d-489a-9c18-55209d864e3a.lsx:9
 msgctxt "h465bf165gfcb6g4e79gba5fg4de579b97b46"
 msgid "A dye so rich it evokes liquid jade held up to the sun. "
-msgstr ""
+msgstr "염료의 너무나도 풍부한 색조가 태양빛을 머금은 말차를 떠오르게 만듭니다. "
 
 #. NodeID: GameObjects
 #. Name: LOOT_Dye_BlueGreen_01
@@ -38605,7 +38608,7 @@ msgctxt "h5535bed8g1a3bg4b42g92cbgd9eeeb76c859"
 msgid ""
 "Cunning merrow preserve coral for a hundred years in a kind of aquatic "
 "stasis; when the coral emerges, it forms this dye. "
-msgstr ""
+msgstr "교활한 머로우들은 일종의 수성 정체장을 이용해 수백 년간 산호를 보존합니다. 산호를 꺼내면 이 염료를 만들 수 있습니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_BluePurple_01
@@ -38627,7 +38630,7 @@ msgctxt "h0b9f54bdg7a87g4356gb712gedabd25596f4"
 msgid ""
 "The fragrance of the flowers used to create this dye is pungent and very "
 "pretty. "
-msgstr ""
+msgstr "이 염료를 만드는 데 사용된 꽃의 향기는 자극적이면서도 굉장히 매력적입니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_BlueYellow_01
@@ -38649,7 +38652,7 @@ msgctxt "h5b0acd87g9067g4143gad03gf9e2f303500f"
 msgid ""
 "This strong blue and yellow combination brings to mind a gala event in "
 "winter, with yellow dresses twirling and laughter on the air. "
-msgstr ""
+msgstr "이 강렬한 푸른색과 노란색의 조합은 하늘 아래서 노란 드레스를 입고 춤추며 웃는 겨울의 갈라 쇼를 생각나게 합니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_BlueYellow_02
@@ -38671,7 +38674,7 @@ msgctxt "h1fa84c85gc8f1g4723g9ac7g4b2e0e3fdac9"
 msgid ""
 "This gold evokes the piercings of the Adjudicators, dragonborn soldiers of "
 "Djerad Thymar. "
-msgstr ""
+msgstr "이 금색은 제라드 타이마의 드래곤본 병사, 중재자들이 착용하는 장식용 고리를 떠오르게 만듭니다. "
 
 #. NodeID: GameObjects
 #. Name: LOOT_Dye_Blue_01
@@ -38691,7 +38694,7 @@ msgstr "연한 파란색 염료"
 #: Public/Shared/RootTemplates/a94ac1cd-96c9-4775-8dcd-c2b581bfeb50.lsx:16
 msgctxt "hefef14e9ge948g46dfgbe33gb4a683644afa"
 msgid "The colour of a summertime sky. "
-msgstr ""
+msgstr "여름날의 하늘 색깔입니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_Golden_01
@@ -38731,7 +38734,7 @@ msgstr "핑크색과 잎 녹색 염료 "
 #: Public/Shared/RootTemplates/78f41a7b-4742-419d-a0ac-b9a90a9e198e.lsx:9
 msgctxt "h29438249gfaa6g4236gb457g2afe1c211b72"
 msgid "Colours used by gnomish alderfolk to mark intelligence and guile. "
-msgstr ""
+msgstr "노움 알더포크들이 지혜와 교활함을 나타내기 위해 사용하는 색상입니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_GreenSage_01
@@ -38773,7 +38776,7 @@ msgstr "세이지 녹색 염료"
 #: Public/Shared/RootTemplates/a13f6fad-bca8-40c0-b5b1-592832c73050.lsx:9
 msgctxt "hb463553cgbd70g4c33g8c2fg9b40a63f99e1"
 msgid "Green as good-smelling herbs in a cookpot. "
-msgstr ""
+msgstr "솥 안의 향기로운 약초들 같은 녹색입니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_Green_01
@@ -38823,7 +38826,7 @@ msgstr "하플링 숲지기들은 이 염료로 그들의 길리슈츠를 위장
 #: Public/Shared/RootTemplates/23899dcd-8f27-4144-b29d-ae61eaacd8c3.lsx:10
 msgctxt "h986dfa00ga400g4907g9f81g67d9d4cb8ead"
 msgid "Custard and Pink Rose Dye"
-msgstr "커스타드와 로즈핑크색 염료"
+msgstr "커스타드와 분홍장밋빛 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_IceCream_01
@@ -38836,6 +38839,7 @@ msgid ""
 "Figaro of Baldur's Gate invented this dye one day - he did not sleep for a "
 "fortnight, so anxious was he to get the pigment right. "
 msgstr ""
+"발더스 게이트의 피가로가 어느 날 개발한 염료입니다. 그는 염료의 판권을 얻을 때까지 걱정 속에서 2주 동안이나 잠을 이루지 못했습니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_IceCream_02
@@ -38845,7 +38849,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/0e339e21-df58-4e46-a263-e91d4ed19dc9.lsx:10
 msgctxt "haae795b7gf1a2g4f01g92f8g4b420a35c0a9"
 msgid "Peach and Apricot Dye"
-msgstr ""
+msgstr "복숭아와 무화과빛 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_IceCream_02
@@ -38855,7 +38859,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/0e339e21-df58-4e46-a263-e91d4ed19dc9.lsx:9
 msgctxt "h60671e58ge4c2g46bcg9ba7g7dfa6fbffdb7"
 msgid "The most fruitful fashionistas of Toril use this dye. "
-msgstr ""
+msgstr "토릴의 가장 부유한 패션 리더들이 이 염료를 사용합니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_IceCream_03
@@ -38865,7 +38869,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/2cd56a6a-35bb-417c-9eb6-d78bbe73d3cc.lsx:10
 msgctxt "hc230832aga63bg4082g91d7g3e3e30b92f07"
 msgid "Mellow Fruit Dye"
-msgstr ""
+msgstr "달콤한 과일빛 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_IceCream_03
@@ -38878,6 +38882,8 @@ msgid ""
 "You'll look like you belong in a tree - not hanging like an extremely dead "
 "person, but rather dangling in a most enchanting fashion."
 msgstr ""
+"이 염료를 사용하면 나무와 하나가 된 것처럼 보일 겁니다. 대단히 매혹적인 옷을 걸친 것처럼 보일 거라는 뜻입니다. 목매달린 시체처럼 "
+"보이는 게 아니라요."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_IceCream_04
@@ -38887,7 +38893,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/43da55c8-55b7-41c6-9a44-3dd6843875f8.lsx:10
 msgctxt "h1a4e7eecgc77dg4903g9257ge83312883fc4"
 msgid "Lime, Lemon, and Lichen Dye"
-msgstr ""
+msgstr "라임과 레몬, 이끼빛 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_IceCream_04
@@ -38900,6 +38906,8 @@ msgid ""
 "Despite the name, this dye's colour comes from pixie wings fluttering over "
 "old chicken coops - the eggs come out funky. "
 msgstr ""
+"그 이름과 달리 이 염료의 색상은 오래된 닭장 위를 날아다니는 픽시의 펄럭이는 날개빛을 따온 겁니다. 아주 파격적인 달걀 색상을 만드는 "
+"녀석들이지요. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_Maroon_01
@@ -38909,7 +38917,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/10e79bfb-c448-4af4-a153-bf3d19f83c62.lsx:10
 msgctxt "h75c18054g831ag4910gb634g587ca271180a"
 msgid "Gorgeous Maroon Dye"
-msgstr ""
+msgstr "선명한 적갈색 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_Maroon_01
@@ -38922,6 +38930,7 @@ msgid ""
 "In the Sea Ward in Waterdeep, Lady Cassalanter caused quite the stir at one "
 "of her famous parties while wearing this shade of dye in her dress."
 msgstr ""
+"카살란터 부인은 그녀의 유명한 연회에서 이 색조의 염료를 사용한 드레스를 입고 나옴으로서 워터딥 씨와드의 사교계에 파문을 일으켰습니다."
 
 #. NodeID: GameObjects
 #. Name: LOOT_Dye_Ocean_01
@@ -38961,7 +38970,7 @@ msgstr "연한 주황색 염료"
 #: Public/Shared/RootTemplates/84f7b0a1-8840-47a1-a27a-1ac79e383520.lsx:9
 msgctxt "h48ca94abgb3b2g4c39gb1d4g42b64480fd17"
 msgid "Certainly very orange. Pumpkins live in envy of this dye. "
-msgstr ""
+msgstr "분명 최고의 오렌지색입니다. 호박들조차 이 염료의 색상을 질투하며 살아갈 테지요. "
 
 #. NodeID: GameObjects
 #. Name: LOOT_Dye_Orange_01
@@ -39011,7 +39020,7 @@ msgstr "아, 영웅의 색이로군요. "
 #: Public/Shared/RootTemplates/2292d37f-7cb2-4458-83c6-1f2e48ffa23e.lsx:10
 msgctxt "h84386d82g447fg4e3cgaa5bgd3698863c948"
 msgid "Bloody Plum Dye"
-msgstr ""
+msgstr "붉은색과 진자주색 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_PurpleRed_01
@@ -39023,7 +39032,7 @@ msgctxt "he9e56c46gc267g4b62g85ebge4e0c92e41c8"
 msgid ""
 "The ingredients for this dye are impressively rare - tears from an empyrean, "
 "conveyed to this plane from Mount Celestia. "
-msgstr ""
+msgstr "이 염료의 재료들은 놀라울 정도로 희귀합니다. 바로 셀레스티아 산을 통해 이 차원으로 내려온 천상의 눈물들이지요. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_Purple_01
@@ -39033,7 +39042,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/808cd643-ac73-415c-8ed8-0a81b8b71dd8.lsx:10
 msgctxt "h8743eb8ag3e64g4e78ga345ge97655793100"
 msgid "Dark Amethyst Dye"
-msgstr ""
+msgstr "어두운 자수정빛 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_Purple_01
@@ -39043,7 +39052,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/808cd643-ac73-415c-8ed8-0a81b8b71dd8.lsx:9
 msgctxt "h50de10b7g8ee9g4d83gb245g85e7275e0fd7"
 msgid "The colour of an immeasurably expensive claret. "
-msgstr ""
+msgstr "헤아릴 수 없을 정도로 값비싼 적포도주의 색깔입니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_Purple_02
@@ -39053,7 +39062,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/fecebc29-385d-4bef-a18a-79705fb0ecf3.lsx:10
 msgctxt "h772d56aege6eag4e2eg97e7g1a6854e79c6b"
 msgid "Purple Dye"
-msgstr ""
+msgstr "보라색 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_Purple_02
@@ -39063,7 +39072,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/fecebc29-385d-4bef-a18a-79705fb0ecf3.lsx:9
 msgctxt "h6c56d537gaf90g4299g9e40ga89e1e96790e"
 msgid "Shavings of a coatl's wing dissolved in natural acids. "
-msgstr ""
+msgstr "코아틀의 날개깃털을 천연 산성액에 용해시킨 것입니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_Purple_03
@@ -39073,7 +39082,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/5adba582-b552-4850-9be9-c6e28f656675.lsx:10
 msgctxt "hc061e9fagd6c3g40acgb7e0g886d11d42f7d"
 msgid "Indigo Dye "
-msgstr ""
+msgstr "남색 염료 "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_Purple_03
@@ -39083,7 +39092,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/5adba582-b552-4850-9be9-c6e28f656675.lsx:9
 msgctxt "h4870e194g9d02g475ag9e17ga3bd2f864b25"
 msgid "A splash of this colour immediately communicates nobility. "
-msgstr ""
+msgstr "이 색이 반짝이는 것을 보는 순간 고귀함이라는 것이 무엇인지 알 수 있습니다. "
 
 #. NodeID: GameObjects
 #. Name: LOOT_Dye_Purple_04
@@ -39093,7 +39102,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/7ac1bb07-e494-42d2-bb8d-6bf9e553a52a.lsx:13
 msgctxt "h0619c661g89e1g4cc5g94d2g32663f8b6beb"
 msgid "Deep Lilac Dye"
-msgstr ""
+msgstr "짙은 라일락 염료"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Dye_Purple_04
@@ -39103,7 +39112,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/7ac1bb07-e494-42d2-bb8d-6bf9e553a52a.lsx:16
 msgctxt "h128f4c34g3f23g4b79ga594g06389dc0758f"
 msgid "Ironically made of magnolias and concentrated ethanol."
-msgstr ""
+msgstr "아이러니하게도 목련과 고순도 에탄올을 이용해 만들어졌습니다."
 
 #. NodeID: GameObjects
 #. Name: LOOT_Dye_Red
@@ -39155,7 +39164,7 @@ msgstr "이건 의심할 바 없이 진흙과 피를 섞은 겁니다. 맞죠? "
 #: Public/Shared/RootTemplates/f42e3c96-e622-4d3a-97da-ce5a939feb3c.lsx:10
 msgctxt "h725a2462g77dag4391g84ccgf41fe0b7fd78"
 msgid "White and Scarlet Dye"
-msgstr "백색 주홍 염료"
+msgstr "백색과 진홍색 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_RedWhite_01
@@ -39165,7 +39174,7 @@ msgstr "백색 주홍 염료"
 #: Public/Shared/RootTemplates/f42e3c96-e622-4d3a-97da-ce5a939feb3c.lsx:9
 msgctxt "h7985e0c4gf34eg497ag99edgabf714178b28"
 msgid "A very agreeable dye that evokes pale snow and fresh bloodshed."
-msgstr ""
+msgstr "창백한 눈 위에 뿌려진 신선한 피를 연상시키는, 대단히 기분 좋은 빛깔의 염료입니다."
 
 #. NodeID: GameObjects
 #. Name: LOOT_Dye_Remover
@@ -39188,6 +39197,7 @@ msgid ""
 "Using a universal solvent and a secret recipe coined by a hedge witch long "
 "ago, this dye remover just wipes those pesky colours right out."
 msgstr ""
+"만능 용해제에 오래 전 울타리 마녀가 만들어낸 비법을 사용해 만들어낸 이 염료 제거제는 바르는 즉시 원하지 않는 색깔들을 없애버립니다."
 
 #. NodeID: GameObjects
 #. Name: LOOT_Dye_Remover
@@ -39199,7 +39209,7 @@ msgctxt "hbc121572gd047g4f8egad66g13a12d747091"
 msgid ""
 "Combine this item with an equipment item that was dyed to restore its "
 "original colours."
-msgstr ""
+msgstr "염색된 장비 아이템과 이 아이템을 조합하면 장비의 색상이 기본 상태로 복구됩니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_RichRed_01
@@ -39209,7 +39219,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/51cd678b-6a27-490d-b4d1-17cc89a32e40.lsx:10
 msgctxt "hbc2ffb7fg38d9g476agac74gd8300ef1df5d"
 msgid "Lush Burgundy"
-msgstr ""
+msgstr "풍부한 암적색 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_RichRed_01
@@ -39221,7 +39231,7 @@ msgctxt "hbf9967f5gae53g4d89g961fg9d2104100594"
 msgid ""
 "The wealthiest courtiers, merchant princesses, and mesmerising princes wear "
 "this colour. "
-msgstr ""
+msgstr "가장 부유한 신하들과 상인 공주들, 매력적인 왕자들이 사용하는 색입니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_RoyalBlue_01
@@ -39244,6 +39254,8 @@ msgid ""
 "During the goddess Auril's curse upon Icewind Dale, she shed enchanted snow "
 "upon the land - this dye is made from a fistful of those flakes. "
 msgstr ""
+"아이스윈드 데일에 아우릴 여신의 저주가 내렸을 때, 그녀는 땅 위로 마법이 부여된 눈을 뿌렸습니다. 이 염료는 그 눈송이를 한가득 모아 "
+"만들어낸 것입니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_Teal_01
@@ -39283,7 +39295,7 @@ msgstr "얼룩 흑백 염료"
 #: Public/Shared/RootTemplates/ffdb4490-cbaf-4eac-97f8-893564d7ead9.lsx:9
 msgctxt "h0613cb8fga786g47c4ga7d1gbbf85dc09dc4"
 msgid "The white of the moon, the black of courtly mischief."
-msgstr ""
+msgstr "달의 하얀색과 기품 있는 장난꾼의 검은색의 조합입니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_WhiteBrown_01
@@ -39293,7 +39305,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/3336e3a5-0be1-407d-9c37-01536bb2e6c5.lsx:10
 msgctxt "h36a2560bg5966g4f6ag9976g753754b85197"
 msgid "Brown Alabaster Dye"
-msgstr ""
+msgstr "갈색 석고 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_WhiteBrown_01
@@ -39304,7 +39316,7 @@ msgstr ""
 msgctxt "hb388ab97g107dg48d3g8821g7e78eb3d01c0"
 msgid ""
 "Pillars of this colour can be found in the palaces of Chult's nobility. "
-msgstr ""
+msgstr "출트의 귀족들이 거하는 궁전에서 이런 색상의 기둥들을 찾아볼 수 있습니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_WhiteRed_01
@@ -39314,7 +39326,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/1d0d3883-6196-4ccd-8a49-8e4fb84f6c6b.lsx:10
 msgctxt "h31f8c33dg44f1g4a98gaa57gfd5bc7b227ed"
 msgid "Sinful Red on Bone White"
-msgstr ""
+msgstr "뼈의 흰색과 죄악의 붉은색 염료"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Dye_WhiteRed_01
@@ -39326,7 +39338,7 @@ msgctxt "h90517f38g5484g4271g8454g1a8eb79cdd26"
 msgid ""
 "Decorating your armour with this will make you look like a moon weeping "
 "bitter tears of blood. "
-msgstr ""
+msgstr "갑옷을 이 색상으로 장식하면 피눈물을 흘리는 달처럼 보일 것입니다. "
 
 #. NodeID: GameObjects
 #. Name: LOOT_Eye_ScryingEyeSummon
@@ -39581,7 +39593,7 @@ msgctxt "h56134dd8g5fb9g4f50ga1e6g48aade9b918e"
 msgid ""
 "A faceted stone with little sunrises going off in its hue; redolent of "
 "Lathander, he who enriches the dawn with light. "
-msgstr ""
+msgstr "그 색조 안에 미량의 여명빛을 머금은 다면체 보석은 새벽을 빛으로 밝히는 이, 라샌더를 연상시킵니다. "
 
 #. NodeID: GameObjects
 #. Name: LOOT_GEM_Onyx_A
@@ -41110,7 +41122,7 @@ msgctxt "h66a16e05g19c9g46b0g9f0dg105e3ddcc339"
 msgid ""
 "This coin reeks of a strong, metallic stench usually indicating an entire "
 "hoard of treasured metal. "
-msgstr ""
+msgstr "동전에서 이와 함께 보관되었던 귀금속들의 규모를 짐작케 하는 강렬한 금속 냄새가 감돌고 있습니다. "
 
 #. NodeID: GameObjects
 #. Name: LOOT_GEN_Dining_Glass_Silver_Rich_A
@@ -44006,6 +44018,8 @@ msgid ""
 "Every ounce of Ironhand Gnome ingenuity has been poured into this metal "
 "casing - a moment of all-devouring destruction eagerly waiting release. "
 msgstr ""
+"아이언핸드 노움들이 이 금속 껍질 안에 자신들의 창의력을 모조리 부어넣었습니다. 모든 것을 집어삼키는 파괴가 풀려날 순간만을 간절히 "
+"기다리고 있습니다. "
 
 #. NodeID: GameObjects
 #. Name: LOOT_GEN_Selune_Brooch_A
@@ -45178,6 +45192,9 @@ msgid ""
 "gathering potential. It is something old ready to become new again. It is "
 "ready for evolution."
 msgstr ""
+"두꺼운 아스트랄 서리층이 이 기생충의 움직임을 제한하고 있지만, 당신은 그 안에서 요동치는 거대한 사이오닉의 무게를 느낄 수 있습니다. "
+"이것은 억겁의 세월 동안 죽은 신들의 바다에 머물며 배우고, 힘을 모아 왔습니다. 이 오래된 존재는 새로운 것으로 거듭날 준비를 "
+"마쳤습니다. 진화할 준비가 된 것입니다."
 
 #. NodeID: GameObjects
 #. Name: LOOT_MF_Tadpole_Astral_A
@@ -45449,7 +45466,7 @@ msgstr "실명의 두루마리"
 #: Public/SharedDev/RootTemplates/d3800e05-635f-47b3-80b1-1a7c4161cf89.lsx:8
 msgctxt "h1ef5dee0ge5feg492fga373gdbc309591ffa"
 msgid "Scroll of Blink"
-msgstr ""
+msgstr "점멸의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_Blur
@@ -45479,7 +45496,7 @@ msgstr "타오르는 손길의 두루마리"
 #: Public/SharedDev/RootTemplates/13105f7d-55fa-4292-abfe-b9d80054b48e.lsx:8
 msgctxt "h0aa4452egbcf6g4aa8g8b1dg3606ab9dbbf1"
 msgid "Scroll of Chain Lightning"
-msgstr ""
+msgstr "연쇄 번개의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_CharmPerson
@@ -45510,7 +45527,7 @@ msgstr "냉랭한 접촉의 두루마리"
 #: Public/SharedDev/RootTemplates/d338fcb9-aaf5-48b1-8333-2dd4d9f70e1b.lsx:16
 msgctxt "h49e09adcg6394g470fga5c8gf1f84361a04e"
 msgid "Scroll of Chromatic Orb"
-msgstr ""
+msgstr "오색 보주의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_ChromaticOrb
@@ -45530,7 +45547,7 @@ msgstr "오색 보주의 두루마리"
 #: Public/SharedDev/RootTemplates/ad31110a-aa9a-4427-925a-9952bfbef45a.lsx:8
 msgctxt "hf2093248gce5cg4fd6g84d9gab7efe1db98a"
 msgid "Scroll of Circle of Death"
-msgstr ""
+msgstr "죽음의 원 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_CloudOfDaggers
@@ -45570,7 +45587,7 @@ msgstr "색 분사의 두루마리"
 #: Public/SharedDev/RootTemplates/e81e7b31-8e7a-4fc1-977d-9a9a58fdd4a0.lsx:8
 msgctxt "h458518bag0264g44bdg9550g450c230f4cdc"
 msgid "Scroll of Cone of Cold"
-msgstr ""
+msgstr "냉기 분사의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_Confusion
@@ -45680,7 +45697,7 @@ msgstr "자기 위장의 두루마리"
 #: Public/SharedDev/RootTemplates/3f737706-57ca-45e6-b0d1-45238da76329.lsx:8
 msgctxt "hb67c3dc4g610eg454eg9938gc8edfaa08ee6"
 msgid "Scroll of Disintegrate"
-msgstr ""
+msgstr "공중 분해의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_DispelMagic_DONOTUSE
@@ -45689,7 +45706,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/bc5c0bcf-144f-46ed-bcde-e6bd1225efb9.lsx:16
 msgctxt "hfeca3debg331ag4f14gafa6g3cdec70ea768"
 msgid "Scroll of Dispel Magic"
-msgstr ""
+msgstr "마법 해제의 두루마리"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_SCROLL_DominatePerson
@@ -45699,7 +45716,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/3b447e07-3e73-4906-9f7e-63a87e2da909.lsx:8
 msgctxt "h9a960ea8geaf5g4127g84cfg19af61b9b55e"
 msgid "Scroll of Dominate Person"
-msgstr ""
+msgstr "인간형 지배의 두루마리"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_SCROLL_Enlarge
@@ -45729,7 +45746,7 @@ msgstr "신속한 후퇴의 두루마리"
 #: Public/SharedDev/RootTemplates/cecb1802-b2c0-4d65-aa08-aa15ca3619eb.lsx:8
 msgctxt "hb35b6e7eg28e0g479fga281g80081ea9b3cc"
 msgid "Scroll of Eyebite"
-msgstr ""
+msgstr "사안의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_FalseLife
@@ -45798,7 +45815,7 @@ msgstr "화염 화살의 두루마리"
 #: Public/SharedDev/RootTemplates/5d2e1c40-e85e-4027-aefe-b9731a2de2c9.lsx:15
 msgctxt "h39c911f2g3007g45a3gb5d1ga6d228ec078e"
 msgid "Scroll of Fire Shield: Chill"
-msgstr ""
+msgstr "화염 방패: 한기의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_FireShield_Warm
@@ -45808,7 +45825,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/6b87f7b4-441c-41cf-92c3-29e258747454.lsx:15
 msgctxt "h6e0826c6g3544g43b1g9b55ge650828f3113"
 msgid "Scroll of Fire Shield"
-msgstr ""
+msgstr "화염 방패의 두루마리"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_SCROLL_Fireball
@@ -45848,7 +45865,7 @@ msgstr "화염 구체의 두루마리"
 #: Public/SharedDev/RootTemplates/a9135751-3a8a-4070-9f3a-11d24d123a3f.lsx:8
 msgctxt "hee25a80ag3552g489ag814dg8a8876e298f4"
 msgid "Scroll of Flesh to Stone"
-msgstr ""
+msgstr "석화의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_Fly
@@ -45879,7 +45896,7 @@ msgstr "안개 구름의 두루마리"
 #: Public/SharedDev/RootTemplates/74d0e4f0-de97-4097-a7e7-f5759a375c81.lsx:8
 msgctxt "h1658c563gad6cg4e88g8c7ag0ba8c8f1387d"
 msgid "Scroll of Otiluke's Freezing Sphere"
-msgstr ""
+msgstr "오틸루크의 동결 구체 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_GaseousForm
@@ -45899,7 +45916,7 @@ msgstr "가스 형상의 두루마리"
 #: Public/SharedDev/RootTemplates/8d4c06d1-e504-49b0-a4fa-5179ab717f1e.lsx:8
 msgctxt "hcebd275dgac3bg4e97gb7b9g165953fec1b5"
 msgid "Scroll of Globe of Invulnerability"
-msgstr ""
+msgstr "무적의 구체 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_GlyphOfWarding
@@ -45970,7 +45987,7 @@ msgstr "끔찍한 웃음의 두루마리"
 #: Public/SharedDev/RootTemplates/d621c19f-d5c8-433c-bc75-7f2eb87d2f0a.lsx:8
 msgctxt "h524f8b01g4ac1g4ce6g8627g3ea281e619b6"
 msgid "Scroll of Hold Monster"
-msgstr ""
+msgstr "괴물형 포박의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_HoldPerson
@@ -46010,7 +46027,7 @@ msgstr "얼음 칼날의 두루마리"
 #: Public/SharedDev/RootTemplates/e8c3ad4e-37f0-46c8-bf25-0ddc2dcb0139.lsx:8
 msgctxt "h70c350e4gd2c8g4ffcgb704gc309a87bab5e"
 msgid "Scroll of Ice Storm"
-msgstr ""
+msgstr "얼음 폭풍의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_Invisibility
@@ -46040,7 +46057,7 @@ msgstr "상급 투명화의 두루마리"
 #: Public/SharedDev/RootTemplates/3c8db4fb-c10b-415d-b9cd-c3254265b778.lsx:8
 msgctxt "h72abe1eeg69a5g43afgbee2g67596319d66a"
 msgid "Scroll of Otto's Irresistible Dance"
-msgstr ""
+msgstr "오토의 참을 수 없는 춤 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_Jump
@@ -46070,7 +46087,7 @@ msgstr "노크의 두루마리"
 #: Public/SharedDev/RootTemplates/83600284-8f78-409f-a0e0-d262b2bdea64.lsx:15
 msgctxt "h9631a440g10d1g43c7ga92bga5f3b3c472ed"
 msgid "Scroll of Lightning Bolt"
-msgstr ""
+msgstr "라이트닝 볼트의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_Longstrider
@@ -46318,10 +46335,9 @@ msgstr "수면의 두루마리"
 #. Icon: Item_LOOT_SCROLL_SleetStorm
 #. Stats: OBJ_Scroll_SleetStorm
 #: Public/Shared/RootTemplates/be05f7d0-ffa0-46e3-a0d6-66e3333159f1.lsx:15
-#, fuzzy
 msgctxt "hdecc2922g1076g4a4ag982dg4346271de479"
 msgid "Scroll of Sleet Storm"
-msgstr "진눈깨비의 저주 두루마리"
+msgstr "진눈깨비 폭풍 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_Slow
@@ -46331,7 +46347,7 @@ msgstr "진눈깨비의 저주 두루마리"
 #: Public/SharedDev/RootTemplates/4c990ca3-01f6-4536-b8f3-c26cd9a0ca8b.lsx:15
 msgctxt "h7c625594g339cg428egae48g2a18a5b01cee"
 msgid "Scroll of Slow"
-msgstr ""
+msgstr "감속의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_SpeakWithDead
@@ -46381,7 +46397,7 @@ msgstr "콰지트 소환의 두루마리"
 #: Public/SharedDev/RootTemplates/049d70c4-7ea3-4b6c-af6f-44dab7813a89.lsx:8
 msgctxt "h74b8f67cgfc88g4819g82d8gb03ca4e5f71a"
 msgid "Scroll of Sunbeam"
-msgstr ""
+msgstr "태양 광선의 두루마리"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_SCROLL_Telekinesis
@@ -46391,7 +46407,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/1d5ecaca-310b-4622-b302-81331c0a8e9e.lsx:8
 msgctxt "h6a1689f8g7dc7g491eg8a47g1ecb063ebda9"
 msgid "Scroll of Telekinesis"
-msgstr ""
+msgstr "염동력의 두루마리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_SCROLL_Thunderwave
@@ -46431,7 +46447,7 @@ msgstr "흡혈의 손길 두루마리"
 #: Public/SharedDev/RootTemplates/0f3c7369-d0bd-4b97-960d-1407f4c8eebf.lsx:8
 msgctxt "hfe647119gf242g4f5ega417ge6ecc2a5e7a1"
 msgid "Scroll of Wall of Fire"
-msgstr ""
+msgstr "불꽃의 벽 두루마리"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_SCROLL_WallOfIce
@@ -46441,7 +46457,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/e7dc56bc-b169-4a46-b8ee-cc6474dd7b15.lsx:8
 msgctxt "he17df261g4dc2g4876ga838g1540e199d40b"
 msgid "Scroll of Wall of Ice"
-msgstr ""
+msgstr "얼음의 벽 두루마리"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_SCROLL_WallOfStone
@@ -46625,7 +46641,7 @@ msgctxt "h2f7528abga192g4f85ga429g648ff90dbeed"
 msgid ""
 "Though small, this stone swells with an arcane power that makes you feel "
 "hale and safe."
-msgstr ""
+msgstr "작은 돌이지만 건강과 안전을 느끼게 해 주는 비전의 힘으로 물결치고 있습니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Spell_TransmutersStone_Constitution
@@ -46638,6 +46654,8 @@ msgid ""
 "Grants the carrier <LSTag Tooltip=\"Proficiency\">Proficiency</LSTag> in "
 "Constitution <LSTag Tooltip=\"SavingThrow\">Saving Throws</LSTag>."
 msgstr ""
+"소유자에게 건강 <LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 대한 <LSTag Tooltip="
+"\"Proficiency\">숙련</LSTag>을 부여합니다."
 
 #. NodeID: GameObjects
 #. Name: LOOT_Spell_TransmutersStone_Darkness
@@ -46652,6 +46670,8 @@ msgid ""
 "blue, grey, and purple patterns on its surface the moment you hold it in "
 "your hand."
 msgstr ""
+"이 돌은 멀리서 보면 벨벳처럼 검은 색으로 보이지만, 손에 쥐고 들여다보면 그 표면에서 무수한 푸른색, 회색, 보라색 무늬를 발견할 수 "
+"있습니다."
 
 #. NodeID: GameObjects
 #. Name: LOOT_Spell_TransmutersStone_Darkness
@@ -46663,7 +46683,7 @@ msgstr ""
 msgctxt "hb4aa09c2gaccdg40cegaba6gf024709f7283"
 msgid ""
 "Grants the carrier the ability to see in the dark out to a range of [1]."
-msgstr ""
+msgstr "소유자에게 [1]만큼의 암흑 시야를 부여합니다."
 
 #. NodeID: GameObjects
 #. Name: LOOT_Spell_TransmutersStone_MovementSpeed
@@ -46676,7 +46696,7 @@ msgctxt "h8f4ad792g6112g4332g9bd7gbc50408c7f83"
 msgid ""
 "The slightest touch of this stone makes your heart speed up, and the muscles "
 "in your legs stretch taut in anticipation."
-msgstr ""
+msgstr "이 돌을 살짝 만지기만 해도 심장 박동이 빨라지고 다리의 근육이 팽팽하게 긴장됩니다."
 
 #. NodeID: GameObjects
 #. Name: LOOT_Spell_TransmutersStone_MovementSpeed
@@ -46689,7 +46709,7 @@ msgctxt "h0a7c4ef7g8259g40dcgac28g6043e3782edf"
 msgid ""
 "Increases the carrier's <LSTag Tooltip=\"MovementSpeed\">movement speed</"
 "LSTag> by [1]."
-msgstr ""
+msgstr "소유자의 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag> 를 [1]만큼 증가시킵니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Spell_TransmutersStone_Resistance_Acid
@@ -46701,7 +46721,7 @@ msgctxt "hc90f5742g34bcg4052ga776g840aa104d084"
 msgid ""
 "Though green miasma practically drips off this stone, the pebble itself "
 "emits a soothingly sweet aroma."
-msgstr ""
+msgstr "이 돌은 녹색 독기를 뚝뚝 흘리고 있지만 조약돌 그 자체에서 나는 향기는 편안하고 달콤합니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Spell_TransmutersStone_Resistance_Acid
@@ -46713,7 +46733,7 @@ msgctxt "ha3f58b1dg5d15g4063gb054g6454a2e21255"
 msgid ""
 "Grants the carrier <LSTag Tooltip=\"Resistant\">Resistance</LSTag> to Acid "
 "damage."
-msgstr ""
+msgstr "소유자에게 산성 피해에 대한 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 부여합니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Spell_TransmutersStone_Resistance_Cold
@@ -46724,7 +46744,7 @@ msgstr ""
 msgctxt "hecda7931g540dg4057g8fd1g56f42e9d2a5f"
 msgid ""
 "Though cold to the touch, this stone makes you feel inexplicably warm inside."
-msgstr ""
+msgstr "만져 보면 차갑지만 그 안에서 설명하기 힘든 따뜻함을 느낄 수 있습니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Spell_TransmutersStone_Resistance_Cold
@@ -46736,7 +46756,7 @@ msgctxt "h76055327g2689g4481g8bbbg9d053db244af"
 msgid ""
 "Grants the carrier <LSTag Tooltip=\"Resistant\">Resistance</LSTag> to Cold "
 "damage."
-msgstr ""
+msgstr "소유자에게 냉기 피해에 대한 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 부여합니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Spell_TransmutersStone_Resistance_Fire
@@ -46746,7 +46766,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/50966f21-977d-408f-95fc-8862e9572ce0.lsx:8
 msgctxt "h75087a1dg0d7ag4573g99abg842c63a22a2f"
 msgid "Though almost scorching, this stone makes you feel pleasantly cool."
-msgstr ""
+msgstr "이 돌은 뜨거울 정도지만 쾌적한 냉기를 느끼게 해 줍니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Spell_TransmutersStone_Resistance_Fire
@@ -46758,7 +46778,7 @@ msgctxt "h6dea4c76g0793g4afbga35eg69b82fcd3603"
 msgid ""
 "Grants the carrier <LSTag Tooltip=\"Resistant\">Resistance</LSTag> to Fire "
 "damage."
-msgstr ""
+msgstr "소유자에게 화염 피해에 대한 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 부여합니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Spell_TransmutersStone_Resistance_Lightning
@@ -46770,7 +46790,7 @@ msgctxt "hd3965736gd0b3g4a0agaabega58a425a3094"
 msgid ""
 "Though the stone's surface surges with flickers of electricity, the "
 "lightning never seems to touch your fingers."
-msgstr ""
+msgstr "반짝이는 전류가 돌의 표면을 휘감고 있지만, 번갯불은 당신의 손가락에 닿지 않는 것처럼 보입니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Spell_TransmutersStone_Resistance_Lightning
@@ -46782,7 +46802,7 @@ msgctxt "h53c84b84g9c21g4800ga674g25633e4d619d"
 msgid ""
 "Grants the carrier <LSTag Tooltip=\"Resistant\">Resistance</LSTag> to "
 "Lightning damage."
-msgstr ""
+msgstr "소유자에게 번개 피해에 대한 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 부여합니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Spell_TransmutersStone_Resistance_Thunder
@@ -46793,7 +46813,7 @@ msgstr ""
 msgctxt "hfad46372g977fg455bga98fgf5c422e99492"
 msgid ""
 "Though no bigger than a fist, this stone makes you feel strangely grounded."
-msgstr ""
+msgstr "주먹보다 작은 돌이지만 이상하게 접지된 느낌이 듭니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_Spell_TransmutersStone_Resistance_Thunder
@@ -46805,7 +46825,7 @@ msgctxt "h41a9b0bbga317g4a9agbf98g31d25c378217"
 msgid ""
 "Grants the carrier <LSTag Tooltip=\"Resistant\">Resistance</LSTag> to "
 "Thunder damage."
-msgstr ""
+msgstr "소유자에게 천둥 피해에 대한 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 부여합니다."
 
 #. NodeID: GameObjects
 #. Name: LOOT_Throwable_Spell_FrozenOrb
@@ -46815,7 +46835,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/e4478067-bd82-4586-a68f-e03a087a494c.lsx:14
 msgctxt "ha884f5cbg209bg434cgaeecg41e04bb5824a"
 msgid "Otiluke's Conveniently Portable Freezing Sphere"
-msgstr ""
+msgstr "오틸루크의 편리한 휴대용 동결 구체"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Throwable_Spell_FrozenOrb
@@ -46842,6 +46862,8 @@ msgid ""
 "\">Otiluke's Freezing Sphere</LSTag>, wreaking frosty havoc on the "
 "battlefield. "
 msgstr ""
+"던지면 <LSTag Type=\"Spell\" Tooltip=\"Projectile_FreezingSphere_Hurl\">오틸루크의 "
+"동결 구체</LSTag>를 시전해 전장에 싸늘한 파멸을 불러옵니다. "
 
 #. NodeID: GameObjects
 #. Name: LOOT_Toy_Ball_Small
@@ -46871,7 +46893,7 @@ msgstr "이 장난감 공의 외관은 이빨 자국투성이입니다."
 #: Public/SharedDev/RootTemplates/28e1f6e0-fd2b-423c-a817-e8427bd50b97.lsx:15
 msgctxt "h45f3cb93gae2fg4694ga68cg056ed4817241"
 msgid "Automaton Head"
-msgstr ""
+msgstr "오토마톤 머리"
 
 #. NodeID: GameObjects
 #. Name: LOOT_Underdark_Automaton_Head
@@ -47205,7 +47227,7 @@ msgstr "눈알 뒤쪽에 아직도 혈관과 근육이 매달려 있습니다."
 #: Public/GustavDev/RootTemplates/2483d409-adcd-4f06-829e-483d6f5dd770.lsx:15
 msgctxt "h2bce4103g0004g4143g8c53g51553440853e"
 msgid "Pearlspore Bells"
-msgstr ""
+msgstr "진주포자 종버섯"
 
 #. NodeID: GameObjects
 #. Name: LOW_BlushingMermaid_HagRegenShroom_A
@@ -47218,7 +47240,7 @@ msgctxt "h0d543d98gfc03g4363g9e26g46f8056fe623"
 msgid ""
 "Linked to her with fell magic, these mushrooms keep Auntie Ethel alive until "
 "they are destroyed."
-msgstr ""
+msgstr "이 버섯들은 사악한 마법을 통해 에텔 이모와 연결되어 있으며, 파괴하지 않는 한 에텔 이모를 계속해서 살아있게 만듭니다."
 
 #. NodeID: GameObjects
 #. Name: LOW_BlushingMermaid_HagResurrectionCircle
@@ -47228,7 +47250,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/5109b5aa-6f0e-45fd-9033-5518d6c88c0f.lsx:15
 msgctxt "h9994d454ga654g4c7dg8bbcg1162071bbccf"
 msgid "Circle of Pearls"
-msgstr ""
+msgstr "진주의 원"
 
 #. NodeID: GameObjects
 #. Name: LOW_BlushingMermaid_HagResurrectionCircle
@@ -47270,7 +47292,7 @@ msgstr "성난 얼굴처럼 보이는 형상이 어렴풋이 새겨진 고풍스
 #: Public/Shared/RootTemplates/de7ce4d1-e190-4a32-be52-57f114b5823c.lsx:10
 msgctxt "hc7cd7289g7599g4709ga0d0g72450e1f649e"
 msgid "Bank Pass"
-msgstr ""
+msgstr "은행 통행권"
 
 #. NodeID: GameObjects
 #. DevComment: Allows the player to access the vaults below the Counting House
@@ -47280,7 +47302,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/de7ce4d1-e190-4a32-be52-57f114b5823c.lsx:8
 msgctxt "h02043771g50dbg43f6g9857g651a70c2201a"
 msgid "Grants access to the vaults below the Counting House."
-msgstr ""
+msgstr "회계 사무소 지하의 금고에 접근할 수 있는 권한을 부여해 줍니다."
 
 #. NodeID: GameObjects
 #. DevComment: Allows the player to access the vaults below the Counting House
@@ -47300,7 +47322,7 @@ msgstr "이 두루마리는 아직 누구도 읽지 않았습니다."
 #: Public/GustavDev/RootTemplates/1770a126-7ffc-40e5-8d72-bfac7c4178bc.lsx:8
 msgctxt "hfa1ca201ga0b0g4f25gaf87gb7c7b3714f01"
 msgid "Indicator"
-msgstr ""
+msgstr "표시기"
 
 #. NodeID: GameObjects
 #. Archetype: base
@@ -47324,7 +47346,7 @@ msgstr "표시기 수정"
 #: Public/SharedDev/RootTemplates/3f503c0d-8600-470f-a006-cf75ef965890.lsx:16
 msgctxt "hcececf6bg7572g4dc7g93f2g1048a54e2371"
 msgid "Indicator glass"
-msgstr ""
+msgstr "표시기 유리"
 
 #. NodeID: GameObjects
 #. Name: LOW_CountingHouse_PrivateVault_Key
@@ -47406,7 +47428,7 @@ msgstr "이 돌은 한 때 카서스의 왕관의 세 조종자 중 하나였던
 #: Public/GustavDev/RootTemplates/7c029634-a517-491d-b4cc-906ca88f4225.lsx:10
 msgctxt "h506d89afg094eg471agaae1g5691f994cc8b"
 msgid "Deactivated Trap"
-msgstr ""
+msgstr "해제된 함정"
 
 #. NodeID: GameObjects
 #. Name: LOW_DjinniTrap_Lamp
@@ -47458,7 +47480,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/e9271adf-525d-4ac9-9a94-fe2ae02fd772.lsx:13
 msgctxt "h8a4b08cega8d2g431eg9224ge23ee4365c52"
 msgid "Empty Karabasan's Gift"
-msgstr ""
+msgstr "비어 있는 카라바산의 선물"
 
 #. NodeID: GameObjects
 #. Name: LOW_HagQuestGrenade_Book
@@ -47489,7 +47511,7 @@ msgstr "책장"
 #: Public/GustavDev/RootTemplates/d5617279-2a10-4749-9d2d-686144178689.lsx:14
 msgctxt "he6a995adg8e09g4d3fgb7cdgc9005256edb6"
 msgid "Till Death Do Us Part "
-msgstr ""
+msgstr "죽음이 우리를 갈라놓을 때까지 "
 
 #. NodeID: GameObjects
 #. Name: LOW_JannathRing_Ring
@@ -47501,7 +47523,7 @@ msgctxt "heb25c3f6g3bd1g4a2aga05eg685f80291d9f"
 msgid ""
 "Love is the sweetest bird that might migrate to the charming country of your "
 "heart."
-msgstr ""
+msgstr "사랑이란 당신의 가슴 속에 날아드는 달콤한 새와 같은 것입니다."
 
 #. FilePath: Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID: GameObjects
@@ -47524,7 +47546,7 @@ msgstr "마법을 가장 근원적인 수준에서부터 풀어내기 위해 만
 #: Public/GustavDev/RootTemplates/d874115c-6b92-4222-b1a2-594cf111b075.lsx:14
 msgctxt "hfa6559f7ge0deg4061g8d77g7f904e413d5d"
 msgid "After Death Do Us Part "
-msgstr ""
+msgstr "죽음이 우리를 갈라놓고 나서 "
 
 #. NodeID: GameObjects
 #. Name: LOW_KerriRing_Ring
@@ -47534,7 +47556,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/d874115c-6b92-4222-b1a2-594cf111b075.lsx:17
 msgctxt "hadc91024ga053g4781g9e77gea4af0109335"
 msgid "Love is the last cruel leaf to fall in an autumn wide with sorrow. "
-msgstr ""
+msgstr "사랑이란 슬픔으로 뒤덮인 가을날 떨어져내리는 마지막 잎새 같은 것입니다. "
 
 #. NodeID: GameObjects
 #. Name: LOW_MephistosVault_OrphicHammer
@@ -47547,6 +47569,8 @@ msgid ""
 "Every contract a devil makes has some form of insurance - this one is cast "
 "in infernal iron and was forged in deep, ruinous hellfire. "
 msgstr ""
+"데빌들은 모든 계약에 대해 일종의 보험을 들어 둡니다. 이번 경우에는 지옥 깊은 곳에서 지옥불로 제련된 지옥철이 그에 해당된다고 할 수 "
+"있겠지요. "
 
 #. FilePath: Mods/GustavDev/Globals/BG_Main_A/Items/_merged.lsx
 #. NodeID: GameObjects
@@ -47575,7 +47599,7 @@ msgstr "바람 기수의 아뮬렛"
 #: Public/GustavDev/RootTemplates/68e60d97-ce42-4f3f-bc7c-02ab2543a716.lsx:13
 msgctxt "hbe126b82g2146g436bgb0f7g3362cdb611f7"
 msgid "Fake Portrait of a Noble Before His Death"
-msgstr ""
+msgstr "죽음을 앞둔 귀족의 초상화 위작"
 
 #. NodeID: GameObjects
 #. Name: LOW_OskarsBeloved_CounterfitPainting_LowValue
@@ -47584,7 +47608,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/68e60d97-ce42-4f3f-bc7c-02ab2543a716.lsx:15
 msgctxt "ha5c81feeg6fbeg43bcg9d3fgece008db37de"
 msgid "A counterfeit piece of art."
-msgstr ""
+msgstr "위조된 그림입니다."
 
 #. NodeID: GameObjects
 #. Name: LOW_OskarsBeloved_CounterfitPainting_OskarValue
@@ -47593,7 +47617,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/31fd4753-ed72-4acb-9500-922dcda28872.lsx:13
 msgctxt "h8db41e2bg12d6g4e77g8cd9g2d36cf1cbc00"
 msgid "Fake Portrait of a Noble Before His Death"
-msgstr ""
+msgstr "죽음을 앞둔 귀족의 초상화 위작"
 
 #. NodeID: GameObjects
 #. Name: LOW_OskarsBeloved_CounterfitPainting_OskarValue
@@ -47602,7 +47626,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/31fd4753-ed72-4acb-9500-922dcda28872.lsx:15
 msgctxt "h064fe29bg083eg4650gacc9g42e6f6da5db1"
 msgid "A counterfeit piece of art."
-msgstr ""
+msgstr "위조된 그림입니다."
 
 #. NodeID: GameObjects
 #. Name: S_LOW_Overdose_OpenedSleepPotion
@@ -47615,7 +47639,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/d2986570-0c0a-434e-a393-65c3047113e8.lsx:23
 msgctxt "h489b43dcga2deg4748g9bbdge1bf1e126e84"
 msgid "Empty Potion of Sleep"
-msgstr ""
+msgstr "비어 있는 수면의 물약"
 
 #. NodeID: GameObjects
 #. Name: S_LOW_Overdose_OpenedSleepPotion
@@ -47628,7 +47652,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/d2986570-0c0a-434e-a393-65c3047113e8.lsx:40
 msgctxt "h7f07e5e0g8bb5g4ba2g8505g571482cbd24b"
 msgid "This potion of sleep is empty."
-msgstr ""
+msgstr "이 수면의 물약은 비어 있습니다."
 
 #. NodeID: GameObjects
 #. Name: LOW_Poison_Paralytic_KarabasansGift
@@ -47639,7 +47663,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/ac9e04d9-c43c-45f2-9922-a17675ef98b5.lsx:15
 msgctxt "hec288345g7a7ag4b6cg81a0g7c32b0633731"
 msgid "Karabasan's Gift"
-msgstr ""
+msgstr "카라바산의 선물"
 
 #. NodeID: GameObjects
 #. Name: LOW_Poison_Paralytic_KarabasansGift
@@ -47660,7 +47684,7 @@ msgstr "강한 마비 독."
 #: Public/GustavDev/RootTemplates/df5f8cbf-42c5-4c0d-a0ec-ce5046474d8e.lsx:15
 msgctxt "h171139a2g2627g4fcag89b4g37cc157b9213"
 msgid "Hag's Bane"
-msgstr ""
+msgstr "해그의 파멸"
 
 #. NodeID: GameObjects
 #. Name: LOW_RegenerationPrevention_Grenade
@@ -47677,6 +47701,10 @@ msgid ""
 "innocence - disrupting one in the consumption of that power could be "
 "cataclysmic for the hag. "
 msgstr ""
+"공정한 지빌나가 다스리는 프리즈미어도 심각한 해그 문제를 겪고 있습니다.\n"
+"\n"
+"해그들은 아이들과 무고한 존재에 내재된 힘을 특히 좋아하는 만큼, 그런 힘을 흡수하는 것을 교란시킨다면 해그에게 큰 문제를 안겨줄 수 "
+"있습니다. "
 
 #. NodeID: GameObjects
 #. Name: LOW_RegenerationPrevention_Grenade
@@ -47686,7 +47714,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/df5f8cbf-42c5-4c0d-a0ec-ce5046474d8e.lsx:20
 msgctxt "h323b03c9g2fb4g44cdgab71g269a5b25188a"
 msgid "Force a hag that has consumed a child to disgorge it instantly. "
-msgstr ""
+msgstr "아이를 집어삼킨 해그가 즉시 토해내도록 만듭니다. "
 
 #. NodeID: GameObjects
 #. Name: LOW_SerialKiller_WineCart
@@ -47695,7 +47723,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/811fcb4b-e044-4913-8e7f-ec6690b2d80f.lsx:13
 msgctxt "h8e8a573eg6e00g4411ga2f2gf0d28822fd3f"
 msgid "Wine Cart - smells of cloves and soft summer nights"
-msgstr ""
+msgstr "정향과 부드러운 여름밤 향기가 나는 와인 카트"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOW_SymbolOfTheAbsolute_A
@@ -47704,7 +47732,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/1ebdebf5-f197-4d11-9a0b-7779924e6b40.lsx:8
 msgctxt "hc2127d7bgaf4eg477agb611g5a1b9dde80a6"
 msgid "Symbol of the Absolute"
-msgstr ""
+msgstr "절대자의 상징"
 
 #. NodeID: GameObjects
 #. Name: LOW_UNI_General_PouchClue
@@ -47752,7 +47780,7 @@ msgstr "조사"
 #: Public/SharedDev/RootTemplates/1c2b6556-b4d1-4eb7-a727-cbf2383d765b.lsx:15
 msgctxt "h7bbd00c1g5a80g4ebegbce8g7b76cfa34b4e"
 msgid "Dragon Head Torch"
-msgstr ""
+msgstr "용머리 횃불"
 
 #. NodeID: GameObjects
 #. Name: LTS_Camp_Bonfire_A
@@ -47771,7 +47799,7 @@ msgstr "모닥불"
 #: Public/Shared/RootTemplates/18057799-f8fa-4424-afd8-144c6d477bcf.lsx:17
 msgctxt "h73fb292eg3dfcg42aega2edg64c6fb8d4a25"
 msgid "Iron Thurible"
-msgstr ""
+msgstr "무쇠 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_A
@@ -47789,7 +47817,7 @@ msgstr "무쇠 향로"
 #: Public/SharedDev/RootTemplates/06ef4485-09de-4685-964e-73405efd9169.lsx:17
 msgctxt "h349b1b57gaaabg482bg9a25g6276c9c84aed"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_A_Green_02
@@ -47798,7 +47826,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/03c536b6-d600-43d4-b696-0d45e82abf4b.lsx:16
 msgctxt "hac99438ag3983g4e08ga45bg7a8d2f98c0e6"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_A_Purple
@@ -47807,7 +47835,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/9c60fe54-ff21-476a-9ba2-a005dcbc9583.lsx:16
 msgctxt "hdaf74aa0gba8fg4ef8ga9e9g3fc269fa252b"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_B_Green
@@ -47816,7 +47844,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/3ce10950-db66-4e55-a4bc-6567de1bf1a9.lsx:16
 msgctxt "h214beeacgba50g4217g9867ga1c4a9fd89d0"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_B_Green_02
@@ -47825,7 +47853,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/851af703-7575-4eaf-99b5-eec794c55437.lsx:16
 msgctxt "h29909883g10ccg48ecga9fbg6d25b1612bb7"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_B_Purple
@@ -47834,7 +47862,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/7ddd6d26-88ec-4c2c-af4f-c3ba2e0fb71e.lsx:16
 msgctxt "ha447098dg0623g4ffdg8902g881ccaa05780"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_C_Green
@@ -47843,7 +47871,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/8171175f-426e-489b-a60d-968ee664ab17.lsx:15
 msgctxt "h1e33bd1cgbe02g4ff0gaf80g77715fd9446f"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_C_Green_02
@@ -47852,7 +47880,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/764f42cf-0561-4028-801f-befca9abd6f5.lsx:15
 msgctxt "heb1cf8c8gf80dg4bb6ga287g3f2f4420fa71"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_C_Purple
@@ -47861,7 +47889,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/cbc81200-1489-494c-9424-e0dc9d73294f.lsx:15
 msgctxt "h4e5943edg7b51g4967ga28fg2880f5a07b37"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_D_Green
@@ -47870,7 +47898,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/9ab5aece-d50c-4f41-99a3-20b568cf6b5b.lsx:15
 msgctxt "h5a9de651g4111g4929g8afeg08f78aa6abe2"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_D_Green_02
@@ -47879,7 +47907,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/45c94d3f-0aa4-401e-b016-5ce623464918.lsx:15
 msgctxt "h727190e5g3965g4970gb951gd01f2aa58a57"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_D_Purple
@@ -47888,7 +47916,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/9400003e-80dd-4ca7-a7b2-423763e96375.lsx:15
 msgctxt "h97824bd2g600fg4e2dg917agae8eac4769d3"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_E_Green
@@ -47897,7 +47925,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/df5e28fb-d693-463b-951f-b35c67e309ca.lsx:15
 msgctxt "hd532727bg6aa9g4182ga838g4092dccca1c8"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_E_Green_02
@@ -47906,7 +47934,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/ee1df6f4-bf26-4678-9a97-61132dea4fd4.lsx:15
 msgctxt "h86923ec3g0839g4fc1gaba7g26aca8ad3c2c"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_E_Purple
@@ -47915,7 +47943,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/560d7d51-8b89-40b0-9dcf-1d1ea4fad8c2.lsx:15
 msgctxt "h9e763656ge4e2g4547gb994g1aaad88ff6cf"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_F_Green
@@ -47924,7 +47952,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/343d8c03-a7f0-4815-a23b-beeaad7303da.lsx:15
 msgctxt "h2219455bg00f6g4fc2g83c2gb66fce2295cb"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_F_Green_02
@@ -47933,7 +47961,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/3ed60954-2a7c-4e42-824c-20ae6cf5f0f1.lsx:15
 msgctxt "hcb90b9f2g2b26g4f6dg9450g8a856249af37"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_F_Purple
@@ -47942,7 +47970,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/8c21a0ec-e64a-491b-9dec-919915cd8eb6.lsx:15
 msgctxt "h39387052gf6b9g4524g8d7fg14aae49321d3"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_G_Green
@@ -47951,7 +47979,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/a3448626-968d-4479-9b02-ce64ca13f3c7.lsx:16
 msgctxt "h2ee8a208g33a9g498bg895cg5993666355f8"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_G_Green_02
@@ -47960,7 +47988,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/629707a8-2118-4d19-b4a6-d55b1f7b75bb.lsx:16
 msgctxt "h9653d304gec26g46bbgb670gb6e919d886aa"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_G_Purple
@@ -47969,7 +47997,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/8390a3fe-34ec-4869-9eae-848bfd9ca4f4.lsx:16
 msgctxt "h74782c5bg2ff0g4dfcgbc44g5682efb0678b"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_H_Green
@@ -47978,7 +48006,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/9c127ab7-b6a6-4c88-b78d-d65cf72aa6fd.lsx:15
 msgctxt "ha7a1c53fg6b5bg43d7gb301ga7a7673e74c2"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_H_Green_02
@@ -47987,7 +48015,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/07e08cb6-bb33-4dd3-acd9-feb9986ee443.lsx:15
 msgctxt "he6fbf586g641bg4481ga1b7gef31aa64477a"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_H_Purple
@@ -47996,7 +48024,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/1b9f8977-ac66-4c4b-855d-bed50ea4fbe4.lsx:15
 msgctxt "hbb0964ccg96d3g4febg975fgf19e746bd7ef"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DEC_Thayan_Incense_Burner_Hinge_A
@@ -48015,7 +48043,7 @@ msgstr "경첩"
 #: Public/SharedDev/RootTemplates/e237a698-701b-4fff-8b56-94955c4a53da.lsx:15
 msgctxt "h446671b5g3152g48fbgb1a5g6716ef411dc5"
 msgid "Mystic Thurible"
-msgstr ""
+msgstr "신비한 향로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DUN_Bowls_A
@@ -48508,7 +48536,7 @@ msgstr "적절한 불쏘시개만 있으면 관리가 거의 필요 없습니다
 #: Public/Shared/RootTemplates/f6d6bc03-2b67-4d9c-baa5-69a50839dd73.lsx:15
 msgctxt "hb9cf29b7g6dedg43e9gbd63gae85b729eaeb"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #. NodeID: GameObjects
 #. Name: LTS_DUN_Bowls_J_Gold_Purple
@@ -48547,7 +48575,7 @@ msgstr "반쯤 탄 밀랍 초."
 #: Public/Shared/RootTemplates/2f81f92d-7860-48ec-a678-15ab28c681c9.lsx:22
 msgctxt "h39736b94gf67bg4c05g8013gbd3511a5e86f"
 msgid "A half-burnt beeswax candle."
-msgstr ""
+msgstr "반쯤 탄 밀랍 초."
 
 #. NodeID: GameObjects
 #. Name: LTS_DUN_Candles_C
@@ -48567,7 +48595,7 @@ msgstr "반쯤 탄 밀랍 초."
 #: Public/Shared/RootTemplates/e38705ed-63c4-4015-aa94-5b2d4cbe653e.lsx:23
 msgctxt "h931d116aga2e7g4842g8f5bg983cd3b29432"
 msgid "A half-burnt beeswax candle."
-msgstr ""
+msgstr "반쯤 탄 밀랍 초."
 
 #. NodeID: GameObjects
 #. Name: LTS_DUN_Candles_Cluster_D
@@ -48622,7 +48650,7 @@ msgstr "반쯤 탄 밀랍 초."
 #: Public/Shared/RootTemplates/f127f27e-f39f-4a9e-a873-3d9add5abe10.lsx:22
 msgctxt "ha5243b93gf705g4523gb562gbe8d9c1a65e1"
 msgid "A half-burnt beeswax candle."
-msgstr ""
+msgstr "반쯤 탄 밀랍 초."
 
 #. NodeID: GameObjects
 #. Name: LTS_DUN_Candlestick_Wall_A
@@ -49142,7 +49170,7 @@ msgstr "등불"
 #: Public/SharedDev/RootTemplates/70c46b12-1b59-4874-a9bb-15fe3f6912dc.lsx:15
 msgctxt "h80cb24ccg1aa0g456bg957dg0f6a208d1afc"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. NodeID: GameObjects
 #. Name: LTS_GEN_City_Lantern_Pole_A_Moonlantern_B
@@ -49153,7 +49181,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/2936ea8c-72b2-4c45-84f9-1e13c7bcbac6.lsx:15
 msgctxt "h67ce235dgea7cg4c02g8990g1d2f407443bb"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. NodeID: GameObjects
 #. Name: LTS_GEN_City_Lantern_Pole_B_converted
@@ -49202,7 +49230,7 @@ msgstr "등불"
 #: Public/SharedDev/RootTemplates/790c4711-b462-00bf-2ae8-3d0d7ff3b669.lsx:15
 msgctxt "h89813188g96b4g4536g8099g9bb3fe8878fb"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. NodeID: GameObjects
 #. Icon: Item_LTS_GEN_City_Lantern_A
@@ -49404,7 +49432,7 @@ msgstr "빛나는 보석"
 #: Public/SharedDev/RootTemplates/f36426ca-29f5-443b-89e2-2cf377e15bdd.lsx:8
 msgctxt "h44f59832gedbag4757g8143g334a801a1d2d"
 msgid "Lamp"
-msgstr ""
+msgstr "램프"
 
 #. NodeID: GameObjects
 #. Icon: Item_LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp
@@ -49413,7 +49441,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/79b311f2-fe0f-433b-aa4d-529f4df9cf41.lsx:8
 msgctxt "h6e72c8bag7318g401dgb207g2a9462f62a65"
 msgid "Lamp"
-msgstr ""
+msgstr "램프"
 
 #. NodeID: GameObjects
 #. Icon: Item_LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp
@@ -49422,7 +49450,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/02ba1b42-7ee1-4e3a-96e7-0656efcd7aa8.lsx:8
 msgctxt "h995e65a8g2dc4g4042gaf78gcbd5c0ad250a"
 msgid "Lamp"
-msgstr ""
+msgstr "램프"
 
 #. NodeID: GameObjects
 #. Icon: Item_LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp
@@ -49445,7 +49473,7 @@ msgstr "램프"
 #: Public/SharedDev/RootTemplates/83e0f5b6-e1d7-43a7-97d5-60657441c470.lsx:8
 msgctxt "hf372c6abg40c9g4653gaee4gce9012dfa103"
 msgid "Lamp"
-msgstr ""
+msgstr "램프"
 
 #. NodeID: GameObjects
 #. Icon: Item_LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp
@@ -49454,7 +49482,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/8ad3792c-fd31-409e-8ce6-8e5315112952.lsx:8
 msgctxt "h50a474cdg75edg4276gb64agf5b9ce564cc4"
 msgid "Lamp"
-msgstr ""
+msgstr "램프"
 
 #. NodeID: GameObjects
 #. Icon: Item_LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp
@@ -49463,7 +49491,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/3f77e766-6218-47c4-9dd5-6b5277d8d519.lsx:8
 msgctxt "h2f8b5c0cg1133g4ac6gb50cg7d2a8512aca3"
 msgid "Lamp"
-msgstr ""
+msgstr "램프"
 
 #. NodeID: GameObjects
 #. Icon: Item_LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp
@@ -49472,7 +49500,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/67da60a4-fdc5-4756-9d0a-a43a18050a82.lsx:8
 msgctxt "h8cd585d8g0d31g4c9dg8fb7g383df74a3b81"
 msgid "Lamp"
-msgstr ""
+msgstr "램프"
 
 #. NodeID: GameObjects
 #. Icon: Item_LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp
@@ -49486,7 +49514,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/b6ac2261-fd1b-16aa-0372-f2c03577d918.lsx:15
 msgctxt "h9507eed4g1d51g4f2bg9823g3240c02cbb24"
 msgid "Lamp"
-msgstr ""
+msgstr "램프"
 
 #. NodeID: GameObjects
 #. Icon: Item_LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp
@@ -49495,7 +49523,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/3ff01e50-a5ed-4e1c-927d-2d522aa36823.lsx:8
 msgctxt "h8652a961g4f3eg48d7gb8cfg5f017b36ca6e"
 msgid "Lamp"
-msgstr ""
+msgstr "램프"
 
 #. NodeID: GameObjects
 #. Icon: Item_LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp
@@ -49504,7 +49532,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/c96c66a8-5d5f-406a-9fef-018e9224fcf2.lsx:8
 msgctxt "hb5b85318g8924g4092g8087g4eebfe9543a4"
 msgid "Lamp"
-msgstr ""
+msgstr "램프"
 
 #. NodeID: GameObjects
 #. Name: LTS_GEN_Lantern_A
@@ -49676,7 +49704,7 @@ msgstr "염증 구체"
 #: Public/SharedDev/RootTemplates/95d75278-023a-41b0-b26d-8a797558d308.lsx:8
 msgctxt "h11c8e9b0g342cg41d6g9ef5g6ab8490ffc8f"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. NodeID: GameObjects
 #. Name: LTS_MF_Brain_Jar_A
@@ -49686,7 +49714,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/849291d4-bd73-4e38-8380-1d4dba9068be.lsx:16
 msgctxt "hcb4b97ffg05c9g4399g9175gc595c6ceea7b"
 msgid "Brain Jar"
-msgstr ""
+msgstr "뇌 단지"
 
 #. NodeID: GameObjects
 #. Name: LTS_MF_Brain_Jar_A
@@ -49708,7 +49736,7 @@ msgstr "여러 개의 뇌가 이 장치에 갇혀 뇌척수액에 부드럽게 �
 #: Public/SharedDev/RootTemplates/a5f20b60-a8d7-45de-a83d-b9316440befa.lsx:16
 msgctxt "h0ff82542g1d3ag4ad8gaf0eg267684b1a83a"
 msgid "Brain Jar"
-msgstr ""
+msgstr "뇌 단지"
 
 #. NodeID: GameObjects
 #. Name: LTS_MF_Brain_Jar_B
@@ -49729,7 +49757,7 @@ msgstr "여러 개의 뇌가 이 장치에 갇혀 뇌척수액에 부드럽게 �
 #: Public/SharedDev/RootTemplates/4f8905de-0132-46a1-8dc3-d9c04db2c281.lsx:8
 msgctxt "hd1eb82fbgedfag4c03gbbe0g57ed1d9af509"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. NodeID: GameObjects
 #. Icon: Item_LTS_MF_Lantern_A
@@ -49738,7 +49766,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/c62cd1fa-7eb4-4327-a1f2-6f73fe4ee329.lsx:8
 msgctxt "h3872e709gacd1g48degbcc1gc4cd0673413b"
 msgid "Lantern"
-msgstr ""
+msgstr "등불"
 
 #. NodeID: GameObjects
 #. Name: LT_PLT_FOR_HouseFloor_Explode
@@ -49765,7 +49793,7 @@ msgstr "울퉁불퉁한 우리"
 #: Public/GustavDev/RootTemplates/adae74e9-c103-4ddc-b7d2-1fa24b527f83.lsx:9
 msgctxt "h90949284g8de3g48c6g834bg6bbcf79c5c28"
 msgid "Reaper's Embrace"
-msgstr ""
+msgstr "사신의 포옹"
 
 #. NodeID: GameObjects
 #. Name: MOO_Ketheric_Armor
@@ -49776,7 +49804,7 @@ msgctxt "h3f0fd595g1e86g41d3g94bcge4271509c163"
 msgid ""
 "Heavy steel bones and teeth enclose the armour's chest and neck like a "
 "grotesque exoskeleton that both swallows and protects the wearer."
-msgstr ""
+msgstr "무거운 강철 뼈와 이빨의 형상이 마치 착용자를 보호하는 동시에 집어삼키는 기괴한 외골격처럼 흉갑과 고겟을 뒤덮고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: MOO_Kitchen_GnollCollar
@@ -49786,7 +49814,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/37ce3317-3504-4e85-8457-c83c628bd046.lsx:15
 msgctxt "haae90e2fg02a3g4b87g8041g8562bef9525b"
 msgid "Barnabus' Collar"
-msgstr ""
+msgstr "바나버스의 목줄"
 
 #. NodeID: GameObjects
 #. Name: MOO_Kitchen_GnollCollar
@@ -49796,7 +49824,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/37ce3317-3504-4e85-8457-c83c628bd046.lsx:22
 msgctxt "hdd377bd8g1f8dg46eega265g35c763bc44cf"
 msgid "Necklace the Gnoll Master gave Barnabus when she first met him."
-msgstr ""
+msgstr "놀 주인이 처음으로 바나버스를 만난 날 선물해 준 목걸이입니다."
 
 #. NodeID: GameObjects
 #. Name: Monk_Ice_Cube
@@ -49806,7 +49834,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/408559c5-ac6c-4fab-b629-7fd6e52e108a.lsx:15
 msgctxt "h4b0d6178g578eg478agb268gd8ab3f111ebc"
 msgid "Ice Cube"
-msgstr ""
+msgstr "얼음 입방체"
 
 #. NodeID: GameObjects
 #. Name: Monk_Ice_Cube
@@ -49817,7 +49845,7 @@ msgstr ""
 msgctxt "hbce6710bg4679g484dg9b34g464ec981e9df"
 msgid ""
 "An enormous block of ice, created from nothing but the water in the air."
-msgstr ""
+msgstr "공기 중의 수분만을 이용해 만들어낸 거대한 얼음 덩어리입니다."
 
 #. NodeID: GameObjects
 #. Name: Monk_Ice_Cube
@@ -49827,7 +49855,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/408559c5-ac6c-4fab-b629-7fd6e52e108a.lsx:23
 msgctxt "h2bf4a6ffga99eg4750gafbfg9b6b16597470"
 msgid "Climbable and destructible."
-msgstr ""
+msgstr "타고 오를 수 있고 파괴할 수 있습니다."
 
 #. NodeID: GameObjects
 #. Name: Monk_Ice_Cube_Test
@@ -49836,7 +49864,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/422a3edf-b102-49fe-85cf-97e6e64a632a.lsx:13
 msgctxt "hfec7d557gcf20g4363ga8f4gf67299430e69"
 msgid "Ice Cube"
-msgstr ""
+msgstr "얼음 입방체"
 
 #. NodeID: GameObjects
 #. Name: NAT_Coastal_Cliff_Sandstone_B_Dynamic
@@ -49932,7 +49960,7 @@ msgstr "그림자 저주 덩굴"
 #: Public/SharedDev/RootTemplates/33c0f659-2be5-4b1c-9126-96b9fe78a05f.lsx:15
 msgctxt "hc84c7f6dg90b5g482eg9693gba165c9db91f"
 msgid "Barrier Vines"
-msgstr ""
+msgstr "덩굴 장벽"
 
 #. NodeID: GameObjects
 #. Name: NAT_Cursed_Roots_Cocoon_B_Glow_A
@@ -49941,7 +49969,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/d1137e63-69dd-4600-a375-d1fb8b6847ba.lsx:16
 msgctxt "h992f4ac3g2bbfg491eg8184g80f81789804f"
 msgid "Cursed Fruit"
-msgstr ""
+msgstr "저주받은 과일"
 
 #. NodeID: GameObjects
 #. Name: NAT_Cursed_Roots_Cocoon_C_Glow_A
@@ -49950,7 +49978,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/c5e55056-5704-4b9f-b21f-b74d9b039ff7.lsx:16
 msgctxt "h5cf1255dg5d23g4f2fg9043ge9cfab0327cd"
 msgid "Curse Fruit"
-msgstr ""
+msgstr "저주 과일"
 
 #. NodeID: GameObjects
 #. Name: NAT_Cursed_Roots_Wall_A
@@ -50004,7 +50032,7 @@ msgstr "돌무더기"
 #: Public/Shared/RootTemplates/d8e6c2c9-4a47-4894-b4bf-a53406e987d1.lsx:15
 msgctxt "h37601bddg9e3fg4716g980dg0d1b12ab774b"
 msgid "Throwable Boulder"
-msgstr ""
+msgstr "던질 수 있는 바위"
 
 #. NodeID: GameObjects
 #. Name: NAT_Rock_Boulder_Throwable_Coastal_A
@@ -50013,7 +50041,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/ab9e225f-5e85-4bc0-b784-97c427ceefa0.lsx:15
 msgctxt "hf4dc3b61g0660g46abg9ad2g888851205169"
 msgid "Throwable Boulder"
-msgstr ""
+msgstr "던질 수 있는 바위"
 
 #. NodeID: GameObjects
 #. Name: NAT_Rock_Boulder_Throwable_Granite_A
@@ -50022,7 +50050,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/87b5ac50-162f-48b5-b604-76759fdba267.lsx:15
 msgctxt "hd5ed57a5gb1bag4576g8aeag71334e3aab0e"
 msgid "Throwable Boulder"
-msgstr ""
+msgstr "던질 수 있는 바위"
 
 #. NodeID: GameObjects
 #. Name: NAT_Rock_Boulder_Throwable_Grey_A
@@ -50031,7 +50059,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/80b4bf08-e4b8-4564-bf2d-719fe5319834.lsx:15
 msgctxt "h1b581c3agad28g49c1g859eg415ea3dc6533"
 msgid "Throwable Boulder"
-msgstr ""
+msgstr "던질 수 있는 바위"
 
 #. NodeID: GameObjects
 #. Name: NAT_Rock_Granite_Platform_F_Dynamic
@@ -50127,7 +50155,7 @@ msgstr "스켈레리타스 펠"
 #: Public/GustavDev/RootTemplates/e925fb75-96a5-4634-9e0b-a239e48da115.lsx:14
 msgctxt "h4623bc1fgf5bdg46c3gb645gbace7f685b65"
 msgid "Infernal Rapier"
-msgstr ""
+msgstr "지옥의 레이피어"
 
 #. NodeID: GameObjects
 #. Name: ORI_Wyll_Infernal_Rapier
@@ -50141,6 +50169,8 @@ msgid ""
 "suited for rusting in the rain. Flame-chewed and narrow, this blade is "
 "Wyll's soul summarised in steel."
 msgstr ""
+"영혼은 칼날과도 같습니다. 좋은 것은 주의 깊게 돌봐야 하고, 나쁜 것은 비 속에서 썩어가는 게 합당합니다. 가늘고 불꽃을 머금은 이 "
+"칼날은 강철의 형태로 요약된 윌의 영혼입니다."
 
 #. NodeID: GameObjects
 #. Name: ORI_Wyll_Infernal_Robe
@@ -50150,7 +50180,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/b2de6dee-50c1-45b9-b35d-7d5e8d53135f.lsx:14
 msgctxt "hc93c1e5aged04g4a17g8ff0g78232110ca15"
 msgid "Infernal Robe"
-msgstr ""
+msgstr "지옥의 로브"
 
 #. NodeID: GameObjects
 #. Name: ORI_Wyll_Infernal_Robe
@@ -50174,7 +50204,7 @@ msgstr ""
 #: Mods/GustavDev/Globals/BG_Main_A/Items/_merged.lsx:46
 msgctxt "h7173085bga740g44b1gb661g55c644205203"
 msgid "Mist Portal"
-msgstr "안개 포탈"
+msgstr "안개 차원문"
 
 #. NodeID: GameObjects
 #. Name: PLA_PersistentFlame
@@ -50241,7 +50271,7 @@ msgstr "파괴된 다리"
 #: Public/GustavDev/RootTemplates/18ab9546-bfd0-4dfb-a6cf-2ebeb1d31efc.lsx:15
 msgctxt "hf3a6df11g0052g4568gaa0agd8dd5b33e9b3"
 msgid "Ruined Bridge"
-msgstr ""
+msgstr "파괴된 다리"
 
 #. NodeID: GameObjects
 #. Name: PLT_MonasteryBrewery_02_Explode
@@ -50250,7 +50280,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/7c08c9c6-b068-42c3-a905-a2622448f1df.lsx:15
 msgctxt "h704b0c9bg5207g4443g9257g0359d47361db"
 msgid "Ruined Bridge"
-msgstr ""
+msgstr "파괴된 다리"
 
 #. NodeID: GameObjects
 #. Name: PLT_MonasteryBrewery_03_Explode
@@ -50259,7 +50289,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/e7957c6f-fddc-4119-bf4d-d77db22b9ada.lsx:15
 msgctxt "h0ad33caegee30g4b9bg80ddg3b65d3957390"
 msgid "Ruined Bridge"
-msgstr ""
+msgstr "파괴된 다리"
 
 #. NodeID: GameObjects
 #. Name: PLT_PLA_GithChokepointBridge_Explode
@@ -50356,7 +50386,7 @@ msgctxt "h276ab033g0890g4653g9cadg0b61a1ec93a7"
 msgid ""
 "Connected with teleportation magic to its duplicate, this gate allows those "
 "who walk through to emerge from its twin gate."
-msgstr ""
+msgstr "순간이동 마법으로 연결된 이 두 관문은 한쪽 관문에 들어서는 사람을 반대편 관문에서 나타나게 합니다."
 
 #. NodeID: GameObjects
 #. Name: PUZ_BladeBarrier_HighMiddle
@@ -50365,7 +50395,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/205cb13a-f063-42e6-a60b-ef25391ceed2.lsx:15
 msgctxt "h4cc61042g2191g409dg8d94g7dfc4186fbaf"
 msgid "Blade Barrier"
-msgstr ""
+msgstr "칼날의 벽"
 
 #. NodeID: GameObjects
 #. Name: PUZ_BladeBarrier_HighMiddle
@@ -50386,7 +50416,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/04d34ef8-61c3-4fe2-a564-4cd58f46e67b.lsx:15
 msgctxt "h1baa5660gb0beg4656g8b79gb6b8a40c8303"
 msgid "Repulsion Mine"
-msgstr ""
+msgstr "반발 지뢰"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Cave_Speleothem_Stalactite_A
@@ -50436,7 +50466,7 @@ msgstr "갈라진 종유석"
 #: Public/SharedDev/RootTemplates/ff94b385-bab8-4278-9211-f176c27bc25a.lsx:9
 msgctxt "h3761687egff90g4a94gba92g9d2aca0e9601"
 msgid "Fissured Stalactite"
-msgstr ""
+msgstr "갈라진 종유석"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Cazador_Scripture_B
@@ -50445,7 +50475,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/9ebcb7cb-d1d7-4fa7-ac82-fe5a238c8dea.lsx:16
 msgctxt "h4e816376g53c2g456fgad07ge7b91a3758b9"
 msgid "Infernal Blood Rune"
-msgstr ""
+msgstr "지옥피 룬"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Cazador_Scripture_B
@@ -50457,6 +50487,7 @@ msgid ""
 "Traced in blood, these runes are part of a dark, Infernal rite. They promise "
 "thousands of souls so one individual can ascend to god-like power."
 msgstr ""
+"피로 그려진 이 룬은 수천의 영혼을 희생시켜 하나의 개인을 신적인 힘을 가진 존재로 승천시키기 위한 사악한 지옥 의식의 일부입니다."
 
 #. NodeID: GameObjects
 #. Name: PUZ_Cazador_Scripture_B
@@ -50467,7 +50498,7 @@ msgctxt "h599c634ag5e41g408eg9468g74764d1c1a18"
 msgid ""
 "The locus of Cazador Szarr's ritual - stepping into the Infernal circle will "
 "redirect some of his power to you."
-msgstr ""
+msgstr "카자도르 자르가 만들어낸 의식의 중심지입니다. 지옥의 원 안에 들어서면 그의 힘 일부를 돌려 당신에게 전달할 것입니다."
 
 #. NodeID: GameObjects
 #. Name: PUZ_Cazador_Skull_Ancient_A
@@ -50476,7 +50507,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/0cc92889-414e-4dc9-9fba-f900325c3d64.lsx:15
 msgctxt "h3242050fg777eg4c25gb87dg5a36a8990f1e"
 msgid "Ancient Skull"
-msgstr ""
+msgstr "고대의 해골"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Cazador_Skull_Ancient_Scroll_A
@@ -50485,7 +50516,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/08eb3977-d38b-4b68-be74-8ffd0bc8f2a6.lsx:16
 msgctxt "h60c5c9a1g920eg4deeg8540ge8eaf58c944b"
 msgid "Ancient Skull with a Scroll"
-msgstr ""
+msgstr "고대의 해골과 두루마리"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_CursedLand_Shadow_Sphere_A
@@ -50494,7 +50525,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/ad115c97-50a1-4bd0-9046-365e7e17327a.lsx:8
 msgctxt "h45befc6fge78eg4f25g8ff7g569ab04272cc"
 msgid "Shadow Curse"
-msgstr ""
+msgstr "그림자 저주"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_CursedLand_Shooting_Flower_A_Black_A
@@ -50643,7 +50674,7 @@ msgstr "벽"
 #: Public/Shared/RootTemplates/aa4acbb4-a2ee-4c2c-86ca-35e2572cf088.lsx:15
 msgctxt "hcdebb384g577bg4d98g936bgaaa09fefe480"
 msgid "Crumbling Wall"
-msgstr ""
+msgstr "무너져가는 벽"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Dungeon_Temple_Wall_Breakable_B
@@ -50652,7 +50683,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/c4ac7492-3629-468d-ad69-767492bdf55f.lsx:15
 msgctxt "hcf13babcg5a22g481cg8ce0gaa914d80db41"
 msgid "Crumbling Wall"
-msgstr ""
+msgstr "무너져가는 벽"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Floor_Damaged_A
@@ -51607,7 +51638,7 @@ msgstr "화강암"
 #: Public/Shared/RootTemplates/e61d253a-a643-416f-ad4f-8888a88c2687.lsx:16
 msgctxt "h164b5defg3822g4c1bgaf4fg75318c9e10d3"
 msgid "Shattered Granite Rock"
-msgstr ""
+msgstr "부서진 화강암"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_GEN_Pressure_Plate_Granite_A
@@ -51820,7 +51851,7 @@ msgstr "작은 틈새"
 #: Public/GustavDev/RootTemplates/32b66e7c-74e3-467f-a3e8-491c74124fe2.lsx:15
 msgctxt "h52e892efg9a2cg4d06g8397g6b607ce8d4aa"
 msgid "Teleporter Hole"
-msgstr ""
+msgstr "순간이동기 구멍"
 
 #. NodeID: GameObjects
 #. Name: PUZ_GEN_Tied_Ropes_A_Gnome_A
@@ -52071,7 +52102,7 @@ msgstr "폭발 지뢰"
 #: Public/SharedDev/RootTemplates/fd225bf3-11d1-4134-b526-7982c0628dae.lsx:15
 msgctxt "h89b1094eg5496g4860g9377g6759bc73c397"
 msgid "Portcullis"
-msgstr ""
+msgstr "쇠창살문"
 
 #. NodeID: GameObjects
 #. Name: PUZ_GEN_Trap_Portcullis_Gate_A_4H_B
@@ -52081,7 +52112,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/1c7685da-a9bd-4b5d-a315-024224ebc7f0.lsx:15
 msgctxt "hcf82f07ag31a1g4472g95cdga98ab86e423f"
 msgid "Portcullis"
-msgstr ""
+msgstr "쇠창살문"
 
 #. NodeID: GameObjects
 #. Name: PUZ_GEN_Trap_Spikes_Wood_A
@@ -52246,7 +52277,7 @@ msgstr "돌무더기"
 #: Public/Shared/RootTemplates/62735504-f242-4165-b59d-637d89ba2e32.lsx:15
 msgctxt "hbbe5f054g347eg43b9g8f4bgc0583e9a1305"
 msgid "Mine"
-msgstr ""
+msgstr "지뢰"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_GTY_Turret_A
@@ -52255,7 +52286,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/641cc4e0-b5e0-4157-989d-944de688e554.lsx:10
 msgctxt "hae3bc9d2g4459g45b4g8a61g3849ef900b54"
 msgid "Gith Turret"
-msgstr ""
+msgstr "기스 포탑"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_GTY_Ubiquity_Key_A
@@ -52286,7 +52317,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/db584ca8-37fb-4d91-a8a3-efee87a6b476.lsx:16
 msgctxt "h6669ec06g6f85g473bg9761gd8fe31d2ae44"
 msgid "Cicle of Pearls"
-msgstr ""
+msgstr "진주 원"
 
 #. NodeID: GameObjects
 #. Name: PUZ_HAG_Circle_Of_Pearls_A
@@ -52307,7 +52338,7 @@ msgstr "버섯이 자라나며 생긴 둥근 문양을 제외하면, 전혀 눈�
 #: Public/SharedDev/RootTemplates/b95a8511-d7b6-460c-80ee-0dcb01ffb2f5.lsx:15
 msgctxt "h361f93a7gec2cg4524g8714gad15e19ec003"
 msgid "Pearlspore Bells"
-msgstr ""
+msgstr "진주포자 종버섯"
 
 #. NodeID: GameObjects
 #. Name: PUZ_HAG_Magic_Mushroom_A
@@ -52319,7 +52350,7 @@ msgctxt "h9576033agd27ag413dg997bg9fb61700de60"
 msgid ""
 "Linked to her with fell magic, these mushrooms keep Auntie Ethel alive until "
 "they are destroyed."
-msgstr ""
+msgstr "이 버섯들은 사악한 마법을 통해 에텔 이모와 연결되어 있으며, 파괴하지 않는 한 에텔 이모를 계속해서 살아있게 만듭니다."
 
 #. NodeID: GameObjects
 #. Name: PUZ_HAG_Magic_Mushroom_A_Destroyed
@@ -52329,7 +52360,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/172ae82d-f8c0-4c0d-af6c-69efbf1dac46.lsx:15
 msgctxt "h9d148b72gc260g4e70gbf62gc23042c2b119"
 msgid "Pearlspore Bells"
-msgstr ""
+msgstr "진주포자 종버섯"
 
 #. NodeID: GameObjects
 #. Name: PUZ_HAG_Magic_Mushroom_A_Destroyed
@@ -52349,7 +52380,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/5d6f756d-3dde-49e7-97e0-e4119e38961e.lsx:15
 msgctxt "hf1b99781gd6eeg4a0fgabf9g94e80f02f562"
 msgid "Pearlspore Bells"
-msgstr ""
+msgstr "진주포자 종버섯"
 
 #. NodeID: GameObjects
 #. Name: PUZ_HAG_Magic_Mushroom_B
@@ -52361,7 +52392,7 @@ msgctxt "hdc3b840fg4868g4c4cg8586gbfdb5a6596f3"
 msgid ""
 "Linked to her with fell magic, these mushrooms keep Auntie Ethel alive until "
 "they are destroyed."
-msgstr ""
+msgstr "이 버섯들은 사악한 마법을 통해 에텔 이모와 연결되어 있으며, 파괴하지 않는 한 에텔 이모를 계속해서 살아있게 만듭니다."
 
 #. NodeID: GameObjects
 #. Name: PUZ_HAG_Magic_Mushroom_B_Destroyed
@@ -52371,7 +52402,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/f544bfb1-a677-4566-ad4c-0fa5190af02f.lsx:15
 msgctxt "h77ab99f4ged65g40e6ga849gc01fa1d584ce"
 msgid "Pearlspore Bells"
-msgstr ""
+msgstr "진주포자 종버섯"
 
 #. NodeID: GameObjects
 #. Name: PUZ_HAG_Magic_Mushroom_B_Destroyed
@@ -52391,7 +52422,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/bfeec6d1-74d4-4549-af60-16faf3c35939.lsx:15
 msgctxt "h4fa7b48cg73dag4227ga673gd7d6b8fd5d45"
 msgid "Pearlspore Bells"
-msgstr ""
+msgstr "진주포자 종버섯"
 
 #. NodeID: GameObjects
 #. Name: PUZ_HAG_Magic_Mushroom_C
@@ -52403,7 +52434,7 @@ msgctxt "h11edd07eg8651g47feg8ce5g13cf652b2e45"
 msgid ""
 "Linked to her with fell magic, these mushrooms keep Auntie Ethel alive until "
 "they are destroyed."
-msgstr ""
+msgstr "이 버섯들은 사악한 마법을 통해 에텔 이모와 연결되어 있으며, 파괴하지 않는 한 에텔 이모를 계속해서 살아있게 만듭니다."
 
 #. NodeID: GameObjects
 #. Name: PUZ_HAG_Magic_Mushroom_C_Destroyed
@@ -52413,7 +52444,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/5a6ae24f-b1b8-4036-ac87-6774be686949.lsx:15
 msgctxt "h8fcdfe92g4a97g4553g9c14gea53572fee4b"
 msgid "Pearlspore Bells"
-msgstr ""
+msgstr "진주포자 종버섯"
 
 #. NodeID: GameObjects
 #. Name: PUZ_HAG_Magic_Mushroom_C_Destroyed
@@ -52450,7 +52481,7 @@ msgstr "세심한 노력으로 날카롭게 연마된 가시 함정입니다."
 #: Public/SharedDev/RootTemplates/fbf4a31a-e1a1-44b0-9b0b-668d682fdac0.lsx:9
 msgctxt "h904573f9ge112g4a6fgbdf7gdbda56fd960b"
 msgid "House of Hope Engine Console"
-msgstr ""
+msgstr "희망의 집 엔진 제어반"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_HoH_Rune_Console_A
@@ -52459,7 +52490,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/fbf4a31a-e1a1-44b0-9b0b-668d682fdac0.lsx:8
 msgctxt "ha78c4678g6af2g4070g944ag9199e415dc41"
 msgid "House of Hope Engine Console"
-msgstr ""
+msgstr "희망의 집 엔진 제어반"
 
 #. NodeID: GameObjects
 #. Name: PUZ_InvisibleBlocker_Necromancer_Lab_Pool_Wall_A
@@ -52468,7 +52499,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/533ec219-7db9-4085-a8d0-e87566aab3ba.lsx:16
 msgctxt "hf43f440fgdaa4g4336g9a73gd7a35f450b89"
 msgid "Lab Pool Invisible Wall"
-msgstr ""
+msgstr "보이지 않는 연구소 수조 벽"
 
 #. NodeID: GameObjects
 #. Name: PUZ_InvokeDuplicity
@@ -52519,7 +52550,7 @@ msgstr "밸브"
 #: Public/GustavDev/RootTemplates/09a68c0c-7f97-4e5d-8675-7dc061a583e9.lsx:15
 msgctxt "h5318fdcag8afbg4452g8be7g2bf43e06bc40"
 msgid "Kobold Hole"
-msgstr ""
+msgstr "코볼트 굴"
 
 #. NodeID: GameObjects
 #. Name: PUZ_LOW_SewersDiggingChest
@@ -52559,7 +52590,7 @@ msgstr "나무와 쇠로 된 흔한 상자입니다."
 #: Public/SharedDev/RootTemplates/c7cfd415-aa94-4f78-8218-5a37c4993c2b.lsx:10
 msgctxt "had43bbf9g1e8bg4fddgbad7g03f7f8b85013"
 msgid "Barrier Generator"
-msgstr ""
+msgstr "보호막 생성기"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Lathander_Barrier_Generator_A
@@ -52568,7 +52599,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/c7cfd415-aa94-4f78-8218-5a37c4993c2b.lsx:9
 msgctxt "hf6ee72begcf8ag4404g9949g20617fa92356"
 msgid "Barrier Generator"
-msgstr ""
+msgstr "보호막 생성기"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Lathander_Barrier_Generator_A
@@ -52577,7 +52608,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/e6277fd1-c9c9-4167-8760-ce77fa935978.lsx:10
 msgctxt "h5db9df19g5827g4578gb654g5543d7e5593f"
 msgid "Barrier Generator"
-msgstr ""
+msgstr "보호막 생성기"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Lathander_Barrier_Generator_A
@@ -52586,7 +52617,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/e6277fd1-c9c9-4167-8760-ce77fa935978.lsx:9
 msgctxt "h4e377f25g5d08g4157gb114gb314664bfdf5"
 msgid "Barrier Generator"
-msgstr ""
+msgstr "보호막 생성기"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Lathander_Barrier_Generator_A
@@ -52595,7 +52626,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/6988b211-3891-45d7-b63d-cfb43f498fb2.lsx:10
 msgctxt "haf9a983eg0d48g40b9g921cgaad233c767ac"
 msgid "Beam Concentrator"
-msgstr ""
+msgstr "집광기"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Lathander_Barrier_Generator_A
@@ -52604,7 +52635,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/6988b211-3891-45d7-b63d-cfb43f498fb2.lsx:9
 msgctxt "h4ba6f465g381fg48dbg85c7g242e0d520d9e"
 msgid "Beam Concentrator"
-msgstr ""
+msgstr "집광기"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Lathander_Energy_Source_A
@@ -52614,7 +52645,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/adff38b5-be2b-4c3b-b584-adcd049bd835.lsx:10
 msgctxt "h26359690g7445g42dcga380g29815dd11677"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Lathander_Energy_Source_A
@@ -52624,7 +52655,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/adff38b5-be2b-4c3b-b584-adcd049bd835.lsx:9
 msgctxt "h168aead8g6e49g4813g8c6dgfd481aa1f1e8"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Lathander_Energy_Source_A
@@ -52634,7 +52665,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/b7dd8623-5542-4f5d-a7f1-1702d55370d5.lsx:10
 msgctxt "h993afe80g9978g4893ga7c8gb812ef65bec9"
 msgid "Energy Source"
-msgstr ""
+msgstr "동력원"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Lathander_Key_A
@@ -52663,7 +52694,7 @@ msgstr "작은 철제 열쇠입니다."
 #: Public/SharedDev/RootTemplates/f3c164ac-f25a-4800-9170-74f4ecfc3da5.lsx:8
 msgctxt "h4b991636g4934g4443g9beeg3f417d1dfed2"
 msgid "Laser"
-msgstr ""
+msgstr "레이저"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Lathander_Shockwave_Trap_A
@@ -52673,7 +52704,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/27b23046-4504-458a-b4e0-2161ebe4407f.lsx:16
 msgctxt "hab750523gbae5g4b1egb9bcg564ebdd8ac25"
 msgid "Dawnbreaker"
-msgstr ""
+msgstr "던브레이커"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Lathander_Shockwave_Trap_A
@@ -52683,7 +52714,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/27b23046-4504-458a-b4e0-2161ebe4407f.lsx:22
 msgctxt "hbf4978e1gb2cag4bdbg87e5g8026217f7a9c"
 msgid "Shockwave Trap"
-msgstr ""
+msgstr "충격파 함정"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Lathander_Shockwave_Trap_A_Destruct_A
@@ -52692,7 +52723,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/c9c889b6-2e30-4291-9e34-d82b27f545c6.lsx:16
 msgctxt "h9a7c33aeg1435g4ad0gae9bg254a82d0d03e"
 msgid "Dawnbreaker"
-msgstr ""
+msgstr "던브레이커"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Lathander_Shockwave_Trap_A_Destruct_A
@@ -52701,7 +52732,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/c9c889b6-2e30-4291-9e34-d82b27f545c6.lsx:22
 msgctxt "h50f5b026gbd7fg48c3gac4fg489de8640069"
 msgid "Shockwave Trap"
-msgstr ""
+msgstr "충격파 함정"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Lathander_Solar_Machine_A
@@ -52710,7 +52741,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/ad64d8a0-51dc-4435-bdce-3495e18463be.lsx:9
 msgctxt "h8c99e5beg860cg46beg97c6g03737e83f693"
 msgid "Lathander Solar Machine"
-msgstr ""
+msgstr "라샌더 태양 기계"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Lathander_Solar_Machine_Crystal_A
@@ -52732,7 +52763,7 @@ msgstr "라샌더 수정"
 #: Public/Shared/RootTemplates/3ea70566-a70b-4cca-b458-9077992fb349.lsx:23
 msgctxt "h7462d595geddag465agb462g775706d152ff"
 msgid "Neural Node"
-msgstr ""
+msgstr "신경망 결절"
 
 #. NodeID: GameObjects
 #. Name: PUZ_MF_Brain_Part_E
@@ -52745,7 +52776,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/3ea70566-a70b-4cca-b458-9077992fb349.lsx:30
 msgctxt "h4c60c26agd4f8g4228gbbb4g55951d09a775"
 msgid "A neural node that seeks to connect one part of the mind to another."
-msgstr ""
+msgstr "정신의 일부를 다른 곳과 연결하는 것으로 보이는 신경망 결절입니다."
 
 #. NodeID: GameObjects
 #. Name: PUZ_MF_Explosive_Contraption_A
@@ -52918,7 +52949,7 @@ msgstr "하급 환영"
 #: Public/SharedDev/RootTemplates/9e8e964b-677c-44aa-9183-6e6f77d129f0.lsx:9
 msgctxt "h7d5f670egb544g46d3g8686ge507dbfd5532"
 msgid "Arcane Switch"
-msgstr ""
+msgstr "비전 스위치"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_NAT_Roots_Orb_Pedestal_A
@@ -52939,7 +52970,7 @@ msgstr "이 은은하게 빛나는 구슬은 뿌리와 덩굴에 얽혀 있으�
 #: Public/SharedDev/RootTemplates/5412686b-2854-4970-b428-07e30f9dae01.lsx:15
 msgctxt "hf2e5240bg8529g44e9g8bf9gcc80ff3de031"
 msgid "Sandstone Wall"
-msgstr ""
+msgstr "사암 벽"
 
 #. NodeID: GameObjects
 #. Name: PUZ_PLT_CHA_CageBottom_Mesh_Explode
@@ -52961,7 +52992,7 @@ msgstr "나무 받침"
 #: Public/SharedDev/RootTemplates/c478da31-3a44-4835-b6c7-f96469296a89.lsx:14
 msgctxt "h2691bfbeg206dg499cgba3ega782d8b892fb"
 msgid "Printing Press"
-msgstr ""
+msgstr "인쇄기"
 
 #. NodeID: GameObjects
 #. Name: PUZ_SHADOW_Portal_Medium_A
@@ -52970,7 +53001,7 @@ msgstr ""
 #: Public/Gustav/RootTemplates/d9160793-164a-4bd0-bf43-7992c72f5b30.lsx:15
 msgctxt "h3097c326g478eg4906gb691g3cec6278624c"
 msgid "Shadow Portal"
-msgstr ""
+msgstr "그림자 차원문"
 
 #. NodeID: GameObjects
 #. Name: PUZ_SHADOW_Portal_Small_A
@@ -52981,7 +53012,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/bbbe56b8-5b06-4a73-838f-2114036bc8a8.lsx:16
 msgctxt "h5c217342g380fg403ag942cga99465de07d4"
 msgid "Shadow Vortex"
-msgstr ""
+msgstr "그림자 소용돌이"
 
 #. NodeID: GameObjects
 #. Name: PUZ_SHA_Shadowquake_Item
@@ -53214,7 +53245,7 @@ msgstr "회전"
 #: Public/SharedDev/RootTemplates/e8c4a4fe-c08b-43ef-86d9-100a060da5c0.lsx:15
 msgctxt "h0b13af74gcf47g4263g9da3ge5ce1cc6cd8d"
 msgid "Control Panel"
-msgstr ""
+msgstr "제어판"
 
 #. NodeID: GameObjects
 #. Icon: Item_PUZ_Trap_Gortash_FlamethrowerTile
@@ -53223,7 +53254,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/e658bb5b-68e4-43ac-8b93-654e23ed394f.lsx:14
 msgctxt "h83ac3f93g2398g4f6fgab8ag0521ebd257f8"
 msgid "Flamethrower Tile"
-msgstr ""
+msgstr "화염방사기 타일"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Trap_Gortash_FocusedIncinerator
@@ -53233,7 +53264,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/f743e5af-700e-44d6-a5bd-c4de7112f8ed.lsx:16
 msgctxt "h8fc610feg0b57g4f77ga145g3a39841c05b6"
 msgid "Incineration Caster"
-msgstr ""
+msgstr "소각 시전자"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Trap_Gortash_GrenadeInstantiator
@@ -53243,7 +53274,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/a0de8e02-cf75-41ed-a951-2a9da9483519.lsx:15
 msgctxt "h4acdfc1cgde2dg4e23g986egf87b645b1f40"
 msgid "Grenade Impeller"
-msgstr ""
+msgstr "수류탄 발사기"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Trap_Gortash_GrenadeInstantiator_Grenade
@@ -53261,7 +53292,7 @@ msgstr "뇌진탕 수류탄"
 #: Public/SharedDev/RootTemplates/98f2cb6a-e268-4f99-aac3-62edabd8774c.lsx:18
 msgctxt "hdabeeeabg6ff2g41f7ga621g29af93483047"
 msgid "Deals Fire and Thunder damage to nearby objects and knocks them back."
-msgstr ""
+msgstr "범위 내의 개체들에게 화염과 천둥 피해를 입히고 밀쳐냅니다."
 
 #. NodeID: GameObjects
 #. Name: PUZ_Trap_Gortash_PhaseOptimizer
@@ -53270,7 +53301,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/f36d0687-46e4-4899-930e-8f635e50948e.lsx:15
 msgctxt "h3a086174ga792g43d2g934cgca1583ae4977"
 msgid "Phase Optimizer"
-msgstr ""
+msgstr "위상 최적화기"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Trap_Gortash_PhaseOptimizer
@@ -53291,7 +53322,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/e5544395-3752-463c-80a8-e9b9b7ed1263.lsx:15
 msgctxt "hb5bcdb64g7c2ag4b5eg87d3g625323e6c827"
 msgid "Reflectoguard"
-msgstr ""
+msgstr "반사 보호구"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Trap_Gortash_Reflectoguard
@@ -53302,7 +53333,7 @@ msgctxt "h8ce0e24cgb5c8g4140gbd31g274d62cd0548"
 msgid ""
 "Gortash's reflectoguard applies a condition that reflects all incoming "
 "projectiles back at their source."
-msgstr ""
+msgstr "고타쉬의 반사 보호구는 날아오는 모든 투사체를 발사원점으로 되받아치는 효과를 부여해 줍니다."
 
 #. NodeID: GameObjects
 #. Name: PUZ_Trap_Gortash_ShieldCapacitor
@@ -53313,7 +53344,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/d8163001-464b-4821-8855-b7f12b6522bd.lsx:16
 msgctxt "h9255c05fgaf51g4dabgb5afg43131462a92b"
 msgid "Micromodron Force Curtain"
-msgstr ""
+msgstr "미세모드론 역장 커튼"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Trap_Gortash_ShieldCapacitor_Broken
@@ -53324,7 +53355,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/01389873-8910-419c-bd53-445830eb0b39.lsx:16
 msgctxt "hd8bddee0g1c3fg4512gae94g7ee7c68c7805"
 msgid "Deranged Force Curtain"
-msgstr ""
+msgstr "오작동하는 역장 커튼"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Trap_Gortash_StunTrap
@@ -53333,7 +53364,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/72f4e7b7-cdf1-49a9-835f-099dd4c3eeae.lsx:15
 msgctxt "h653fd996g622ag4a0cgb1d9ga40ab5fc3abe"
 msgid "Stun Trap"
-msgstr ""
+msgstr "기절 함정"
 
 #. NodeID: GameObjects
 #. Name: PUZ_UND_LavaBubble
@@ -53625,7 +53656,7 @@ msgctxt "h6c495bd5gf413g4ffdga1f2g233066603d49"
 msgid ""
 "Restores a creature to full health and removes all conditions that "
 "negatively affect it when consumed."
-msgstr ""
+msgstr "섭취 시 크리쳐의 체력을 모두 회복하며 부정적인 효과를 모두 제거합니다."
 
 #. NodeID: GameObjects
 #. Name: PUZ_Underdark_Mushroom_Sentinel_A
@@ -53762,7 +53793,7 @@ msgstr "조사"
 #: Public/Gustav/RootTemplates/e2814e05-f7e7-4cd9-8792-f554743135da.lsx:16
 msgctxt "h33d2665dg9bccg46e8gb1e2ge151dd69a828"
 msgid "Barrelstalk"
-msgstr ""
+msgstr "통줄기"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Underdark_Mushroom_ToxicWall_A_Destruct
@@ -53773,7 +53804,7 @@ msgstr ""
 #: Public/Gustav/RootTemplates/e2814e05-f7e7-4cd9-8792-f554743135da.lsx:20
 msgctxt "hef8ee429gb6f1g4d8egb10eg6dfd0496244f"
 msgid "Inspect"
-msgstr ""
+msgstr "조사"
 
 #. NodeID: GameObjects
 #. Name: PUZ_Underdark_Ore_Boulder_Mithral_Vein_A
@@ -53804,7 +53835,7 @@ msgstr "고갈된 미스랄 광맥"
 #: Public/GustavDev/RootTemplates/96c02591-b827-4c05-b12b-a1c67464a6f9.lsx:17
 msgctxt "hc2a8a547g7e79g40edga35cg48b8041309bf"
 msgid "Boo"
-msgstr ""
+msgstr "부"
 
 #. NodeID: GameObjects
 #. Name: QUEST_Boo_A_Summon
@@ -53814,7 +53845,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/96c02591-b827-4c05-b12b-a1c67464a6f9.lsx:21
 msgctxt "hccb1076dg4aeeg4621g8951g5fe20a81efc5"
 msgid "Summon Boo"
-msgstr ""
+msgstr "부 소환"
 
 #. NodeID: GameObjects
 #. Name: QUEST_CHA_HeavyVase
@@ -53842,7 +53873,7 @@ msgstr "무너져가는 대리석"
 #: Public/GustavDev/RootTemplates/26b29e36-7f64-422c-8513-4109d356ba4a.lsx:15
 msgctxt "h16b7e81fg1d14g4e38gaf9eg054ccd5a0d2b"
 msgid "Desecrated Relief"
-msgstr ""
+msgstr "훼손된 구호품"
 
 #. NodeID: GameObjects
 #. Name: QUEST_CRA_HermitCrab_Armor_Ring_Of_Illusion_NOTAPPROUVED
@@ -53876,7 +53907,7 @@ msgctxt "hf6eed05dgcc5dg47c4g8f60gaa0929e2ad67"
 msgid ""
 "Equip this ring to increase your <LSTag Tooltip=\"Perception\">Perception "
 "Skill</LSTag> by [1]. "
-msgstr ""
+msgstr "반지를 착용하면 <LSTag Tooltip=\"Perception\">지각력</LSTag>이 [1]만큼 증가합니다. "
 
 #. NodeID: GameObjects
 #. Name: QUEST_CRE_CaptainsBarrierKey
@@ -53907,7 +53938,7 @@ msgstr "주위의 역장을 억제하는 기스양키 보호막 분열기에 딱
 #: Public/GustavDev/RootTemplates/d08c61cb-6aad-4237-82e4-70a6ab738c79.lsx:13
 msgctxt "h341ed891ga19ag43a8gaebdg8172bf6b9ffa"
 msgid "Inert Planecaster"
-msgstr ""
+msgstr "비활성화된 차원전송기"
 
 #. NodeID: GameObjects
 #. Icon: Item_GEN_Metal_Chain
@@ -53943,7 +53974,7 @@ msgstr "깨진 타일"
 #: Public/Gustav/RootTemplates/29bdbdd1-3f74-46b0-b42b-41bea7d6f94a.lsx:8
 msgctxt "h83c46e84gcb4fg4bcbg959eg1871e6d0182f"
 msgid "Skiff"
-msgstr ""
+msgstr "소형 보트"
 
 #. NodeID: GameObjects
 #. Archetype: base
@@ -53954,7 +53985,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/c569bae0-627a-4e9c-864c-8c44603226d8.lsx:15
 msgctxt "h1a0383fag5025g4a39g933bg127658ee8077"
 msgid "Wall of Force"
-msgstr ""
+msgstr "역장 방벽"
 
 #. NodeID: GameObjects
 #. Name: QUEST_FOR_ShadowheartOM_SharCrown
@@ -54122,7 +54153,7 @@ msgstr "별이 없는 밤하늘처럼 깊고 어둡습니다."
 #: Public/GustavDev/RootTemplates/9cfae0fb-ef7a-430c-a6aa-6efffae4a690.lsx:14
 msgctxt "hce7ae055gd778g483egbb6bg1347f9ee565e"
 msgid "Infernal Diamond"
-msgstr ""
+msgstr "지옥 다이아몬드"
 
 #. NodeID: GameObjects
 #. Name: QUEST_GEM_Infernal_Diamond
@@ -54131,7 +54162,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/9cfae0fb-ef7a-430c-a6aa-6efffae4a690.lsx:16
 msgctxt "h4d98d200gb3aag42e6gac4ag6af34be627a3"
 msgid "Supplies power to the House of Hope."
-msgstr ""
+msgstr "희망의 집에 동력을 공급합니다."
 
 #. NodeID: GameObjects
 #. Name: QUEST_GLO_CursedIronFlask
@@ -54162,7 +54193,7 @@ msgctxt "h8e7e5d38g753bg47e0g98bfg946fe37dd9b0"
 msgid ""
 "A mysterious flask that was holding a dangerous creature inside. Now it is "
 "empty."
-msgstr ""
+msgstr "한때 그 안에 위험한 짐승을 담고 있었던 수상한 플라스크입니다. 지금은 비어 있습니다."
 
 #. NodeID: GameObjects
 #. Name: QUEST_GLO_Voss_GithRadar
@@ -54308,7 +54339,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/b9eeaebb-9b00-4552-940f-5d829a66e8cb.lsx:11
 msgctxt "h7348d503g17a4g4463g8e61gd42c07bb7dbd"
 msgid "Orthon Explosive "
-msgstr ""
+msgstr "오르쏜의 폭탄 "
 
 #. NodeID: GameObjects
 #. Icon: Item_QUEST_HAV_InfernalReward_004
@@ -54318,7 +54349,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/b9eeaebb-9b00-4552-940f-5d829a66e8cb.lsx:10
 msgctxt "ha4c7b39fg38c5g4210gb4e0g278d5362b28e"
 msgid "Deals Fire and Thunder damage to nearby objects and knocks them back."
-msgstr ""
+msgstr "범위 내의 개체들에게 화염과 천둥 피해를 입히고 밀쳐냅니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_QUEST_HAV_InfernalReward_004
@@ -54347,7 +54378,7 @@ msgstr "작은 배"
 #: Public/GustavDev/RootTemplates/9e31fd58-c2a6-487c-9054-913aecd5ce32.lsx:15
 msgctxt "hc812f371gfad3g464dga6acg1d1c9c5b40bb"
 msgid "Promise"
-msgstr ""
+msgstr "약속"
 
 #. NodeID: GameObjects
 #. Name: QUEST_HalsinQuest_HalsinDagger
@@ -54359,7 +54390,7 @@ msgctxt "h6f68a8d4g4af1g44e0gac95g555d15ab130f"
 msgid ""
 "A leafy pattern is carved into the dagger's blade. It glows faintly in the "
 "dark."
-msgstr ""
+msgstr "대거의 칼날 위로 나뭇잎 같은 무늬가 새겨져 있습니다. 어둠 속에서는 문양이 희미하게 빛납니다."
 
 #. NodeID: GameObjects
 #. Name: QUEST_HermitCrab_Item
@@ -54389,7 +54420,7 @@ msgstr "이 생물의 작은 다리들이 이따금씩 기어나와 주변에 �
 #: Public/GustavDev/RootTemplates/7b587210-09a6-4333-85ad-4591831d9828.lsx:15
 msgctxt "h859c3ca8ga60bg4077g8ea2gaa2680e167c5"
 msgid "Fallen Debris"
-msgstr ""
+msgstr "무너진 파편"
 
 #. NodeID: GameObjects
 #. ActivationGroupId: IRN_Countdown
@@ -54400,7 +54431,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/1b2fc147-7d51-468f-9c0b-f8c1f0c27b7a.lsx:13
 msgctxt "ha83e2c75g2b25g45dcg9401g6f33fb86367f"
 msgid "Heat Detector"
-msgstr ""
+msgstr "열 감지기"
 
 #. NodeID: GameObjects
 #. Name: QUEST_IRN_IronThrone_ReinforcementsMarker
@@ -54421,7 +54452,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/1a36a3e0-5a03-4736-9869-5f98fe76b524.lsx:15
 msgctxt "h2e55a4dbgb219g46f0g8e02g8fe12f4400fc"
 msgid "Security Card"
-msgstr ""
+msgstr "보안 카드"
 
 #. NodeID: GameObjects
 #. Name: QUEST_LOOT_Human_Bodypart_Hand_A_Stone
@@ -54449,7 +54480,7 @@ msgstr "복잡할 정도로 자세합니다. 손바닥의 가장 작은 주름�
 #: Public/GustavDev/RootTemplates/e4c17191-72da-42e5-bb48-c1eac2e536b9.lsx:15
 msgctxt "ha9f7dea6g3d27g4b25gad92g0272a29a85ba"
 msgid "Sarin at Peace"
-msgstr ""
+msgstr "안식을 맞이한 사린"
 
 #. NodeID: GameObjects
 #. Name: QUEST_LOW_DeadMansSwitch
@@ -54460,7 +54491,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/d41a9f59-bf00-46c6-81eb-b38d9a588fdc.lsx:15
 msgctxt "haa96e2f2gc644g4050g87bagf1b6eaf39589"
 msgid "Motivator"
-msgstr ""
+msgstr "동기부여기"
 
 #. NodeID: GameObjects
 #. Name: QUEST_LOW_DeadMansSwitch
@@ -54471,7 +54502,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/d41a9f59-bf00-46c6-81eb-b38d9a588fdc.lsx:22
 msgctxt "haf45f66egd5f0g45f0gb97ag90b3e47cd90f"
 msgid "This device will make something explode if the holder drops it."
-msgstr ""
+msgstr "운반자에게서 떨어지면 무언가를 폭발하게 만드는 장치입니다."
 
 #. NodeID: GameObjects
 #. Name: QUEST_LOW_ForsakenSkeleton
@@ -54481,7 +54512,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/2e271e7b-36a7-46ca-90ec-290d1abcc8f1.lsx:15
 msgctxt "h0d76e9a9g4276g4f22g9cafg9a185cd1b2c7"
 msgid "Forsaken Skeleton"
-msgstr ""
+msgstr "버림받은 해골"
 
 #. NodeID: GameObjects
 #. Name: QUEST_LOW_ForsakenSkull
@@ -54491,7 +54522,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/1d0137cc-2735-4ba1-8e33-67537848c0fe.lsx:16
 msgctxt "hf49c7b01g3c38g46a9ga564g4c6382b02630"
 msgid "Forsaken Skull"
-msgstr ""
+msgstr "버림받은 두개골"
 
 #. NodeID: GameObjects
 #. Name: QUEST_LOW_ForsakenSkull
@@ -54520,7 +54551,7 @@ msgstr "낡은 안락의자"
 #: Public/GustavDev/RootTemplates/1a62610c-567e-4f92-9a88-4aac11f6c401.lsx:14
 msgctxt "h33a42030g2cf3g42f8g8fadg144b4b77b81b"
 msgid "Inert Infernal Gem"
-msgstr ""
+msgstr "비활성화된 지옥 보석"
 
 #. NodeID: GameObjects
 #. Name: QUEST_LOW_HoH_InfernalDiamond_Socket_Glow
@@ -54529,7 +54560,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/e692fe33-f719-459a-90cf-497ccd22e48d.lsx:14
 msgctxt "h713be4abgb5c4g47a9ga307g4ff3011a852a"
 msgid "Infernal Control Gem"
-msgstr ""
+msgstr "지옥 제어 보석"
 
 #. NodeID: GameObjects
 #. Name: QUEST_LOW_MephistosVault_Portal_Base
@@ -54541,7 +54572,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/267cf1bc-59fd-4876-bd84-93ebbf724b2d.lsx:20
 msgctxt "hb5d4ba0bg58f6g42a5gab0eg20ed3c4886ca"
 msgid "Construct"
-msgstr ""
+msgstr "구조물"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_GEN_Dog_Collar_A
@@ -54702,6 +54733,8 @@ msgid ""
 "With all three stones combined, you can now cast <LSTag Type=\"Spell\" "
 "Tooltip=\"Target_END_Mindflayer_CrownDomination\">Karsus' Compulsion</LSTag>."
 msgstr ""
+"세 개의 돌을 모두 모으면 <LSTag Type=\"Spell\" Tooltip="
+"\"Target_END_Mindflayer_CrownDomination\">카서스의 강박</LSTag>을 시전할 수 있게 됩니다."
 
 #. NodeID: GameObjects
 #. Icon: Item_QUEST_Netherstone_Gortash
@@ -54818,7 +54851,7 @@ msgstr "파괴된 다리"
 #: Public/GustavDev/RootTemplates/49a19618-8a19-4bd4-a9c2-afb0248ea82f.lsx:15
 msgctxt "h41c9ff70g4640g45d2gacc8gc74afc32c71d"
 msgid "Portal to the Astral Plane"
-msgstr ""
+msgstr "아스트랄 차원으로 통하는 차원문"
 
 #. NodeID: GameObjects
 #. Name: QUEST_SHA_TrialGemSocket
@@ -56079,7 +56112,7 @@ msgstr "표준 궤짝"
 #: Public/Shared/RootTemplates/3baeb26e-7d36-4d5c-95fd-9352f2e4bbc4.lsx:15
 msgctxt "hf817ccd7gf65eg4270gb642g10d11ad95571"
 msgid "Reference Chest"
-msgstr ""
+msgstr "표준 궤짝"
 
 #. NodeID: GameObjects
 #. Name: REF_CON_Plant_A
@@ -56253,7 +56286,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/ce486c60-427e-4ddf-8a11-9992392b7821.lsx:16
 msgctxt "heeaee6ffgb594g4abagb45ag4bd1f24e410c"
 msgid "Portal"
-msgstr ""
+msgstr "차원문"
 
 #. NodeID: GameObjects
 #. Name: SCRIPTING_Campfire_Bedroll_Closed
@@ -56287,7 +56320,7 @@ msgstr "이 여행자 침구의 두꺼운 모피 안감은 먼지로 살짝 얼�
 #: Public/GustavDev/RootTemplates/3c7bd24f-c0b1-4839-b31e-1b74f05b59ef.lsx:15
 msgctxt "hf2c21a16g3161g436cg9d9bg741f7c28e3fb"
 msgid "Rat Tunnel"
-msgstr ""
+msgstr "쥐구멍"
 
 #. FilePath: Mods/GustavDev/Globals/SCL_Main_A/Items/_merged.lsx
 #. NodeID: GameObjects
@@ -56306,7 +56339,7 @@ msgstr "섀도펠 출구"
 #: Public/Shared/RootTemplates/d590884d-55a2-4136-9777-531ee7d53f7e.lsx:14
 msgctxt "hd9a1645eg0497g4a42g8a34g97dc45e86e6d"
 msgid "Spear of Night"
-msgstr ""
+msgstr "밤의 창"
 
 #. NodeID: GameObjects
 #. BloodSurfaceType: SurfaceNone
@@ -56388,7 +56421,7 @@ msgstr "나무 상자"
 #: Public/Shared/RootTemplates/c57161c0-bb24-42f2-9961-6795bab5e469.lsx:14
 msgctxt "h97d3ec53g3d25g4dbeg9f02g22f497bb8e76"
 msgid "Throwable Boulder"
-msgstr ""
+msgstr "던질 수 있는 바위"
 
 #. NodeID: GameObjects
 #. Name: TOOL_Camp_Bedroll_Closed_A
@@ -56491,7 +56524,7 @@ msgstr "순간이동 지점"
 #: Public/SharedDev/RootTemplates/788278b2-4772-4372-a5e7-accb3e48857e.lsx:16
 msgctxt "h38055f92gbb47g4769g9c6dg36e3af724094"
 msgid "Barber Kit"
-msgstr ""
+msgstr "이발사의 도구"
 
 #. NodeID: GameObjects
 #. Name: TOOL_GEN_Barber_Kit_B
@@ -56500,7 +56533,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/68621363-4d85-4c74-a7c5-cefe7ae36d15.lsx:16
 msgctxt "h6597ebb6g012dg48ecg8320gbed8d9e30fe7"
 msgid "Barber kit"
-msgstr ""
+msgstr "이발사의 도구"
 
 #. NodeID: GameObjects
 #. Name: TOOL_GEN_Barber_Shears_A_Metal_A
@@ -56509,7 +56542,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/f146f74f-6871-4a98-8f65-30329d564e82.lsx:15
 msgctxt "ha464b82cg7bc2g47abg879dg4e85f3521d65"
 msgid "Barber Shears"
-msgstr ""
+msgstr "이발사의 가위"
 
 #. NodeID: GameObjects
 #. Name: TOOL_GEN_Barber_Shears_A_Metal_A
@@ -56682,7 +56715,7 @@ msgstr "노포"
 #: Public/Shared/RootTemplates/2a5091cf-5637-4472-8432-16267b6ff19e.lsx:15
 msgctxt "h4ceb6d19gce0dg44c5ga3f8gac0ca4c0e2fe"
 msgid "Ballista Arrow"
-msgstr ""
+msgstr "노포 화살"
 
 #. NodeID: GameObjects
 #. Name: TOOL_GEN_ForgeryKit_Closed_A
@@ -56860,7 +56893,7 @@ msgstr "이 류트의 몸통은 갈라지고 줄은 끊어져 있습니다."
 #: Public/Shared/RootTemplates/a33acb20-c036-46b5-bbad-5b38e9b5bf7c.lsx:15
 msgctxt "h26b57bf1gd32cg48e6gbc3ag5150afe4f129"
 msgid "Broken Lute"
-msgstr ""
+msgstr "망가진 류트"
 
 #. NodeID: GameObjects
 #. Name: TOOL_GEN_Music_Guitar_Lute_B_Alfira_Broken
@@ -56920,7 +56953,7 @@ msgstr "이 뿔나팔을 불면 위협적인 소리가 떠나갈 듯 울려퍼�
 #: Public/Shared/RootTemplates/810c748b-e70b-419f-b707-1162b221d01d.lsx:8
 msgctxt "h36d218ddg8dc1g4063ga19bgac0d2fb902f2"
 msgid "Horn"
-msgstr ""
+msgstr "뿔나팔"
 
 #. NodeID: GameObjects
 #. Icon: Item_TOOL_GEN_Music_Horn_B
@@ -56962,7 +56995,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/4002fe47-3c18-4381-b853-74b9d7eff251.lsx:15
 msgctxt "hc9108dcfg03d7g48b2gbe3fgb2351582e761"
 msgid "Plaque"
-msgstr ""
+msgstr "명판"
 
 #. NodeID: GameObjects
 #. Icon: Item_CONS_Poison_Basic
@@ -57283,7 +57316,7 @@ msgstr "이 집게들은 불에 그을려 녹이 슬어있습니다."
 #: Public/SharedDev/RootTemplates/6051a6d2-88e9-4ab4-999c-f463632453eb.lsx:15
 msgctxt "h9acfbf2bgbfd2g4be2g9a75g8da90555766c"
 msgid "Bell"
-msgstr ""
+msgstr "종"
 
 #. NodeID: GameObjects
 #. Name: TOOL_GOB_Branding_Tool_A
@@ -57360,7 +57393,7 @@ msgstr "제어판"
 #: Public/Shared/RootTemplates/4d04eb21-092a-4eb4-857a-2f1dc0882200.lsx:16
 msgctxt "h3e31bcb4ge4e9g408eg9818g6e835c6b33cd"
 msgid "Githyanki Portal Stone"
-msgstr ""
+msgstr "기스양키 차원문석"
 
 #. NodeID: GameObjects
 #. Icon: Item_TOOL_GTY_Microscope_A
@@ -57369,7 +57402,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/df17b2fb-c14f-4b22-9660-f4da4999adee.lsx:9
 msgctxt "h840d7310gedc2g4ac9g95a4g006404e43c6e"
 msgid "Microscope"
-msgstr ""
+msgstr "현미경"
 
 #. NodeID: GameObjects
 #. Icon: Item_TOOL_GTY_Microscope_A
@@ -57380,7 +57413,7 @@ msgctxt "heb7635d0gbaceg4400g98dbg9e58e3ae74f4"
 msgid ""
 "Three concentric lenses give a clear view of every tooth, hair and wrinkle "
 "of a dried-out, limp mind flayer tadpole."
-msgstr ""
+msgstr "일렬로 늘어선 세 개의 렌즈가 말라비틀어진 마인드 플레이어 올챙이의 이빨과 털, 주름을 선명하게 보여주고 있습니다."
 
 #. NodeID: GameObjects
 #. Name: TOOL_GTY_Portal_A
@@ -57409,7 +57442,7 @@ msgstr "차원문"
 #: Public/Shared/RootTemplates/70b86e8f-06b1-4eb2-8211-17f1d850086d.lsx:16
 msgctxt "hc9bdcbeeg8749g4b40gbcd3g326972f41d92"
 msgid "Surgery Kit"
-msgstr ""
+msgstr "수술 도구"
 
 #. NodeID: GameObjects
 #. Name: TOOL_Hospital_Surgery_Kit_B
@@ -57418,7 +57451,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/55fb2f34-00d7-4149-8b52-e189e05ba0ca.lsx:17
 msgctxt "hce42c8e1ga5ddg42afg81beg3a002d371340"
 msgid "Surgery kit"
-msgstr ""
+msgstr "수술 도구"
 
 #. NodeID: GameObjects
 #. Icon: Item_TOOL_Hospital_Surgery_Scalpel_A
@@ -57427,7 +57460,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/3d01cf80-2d13-4225-a520-6558a7f407cd.lsx:9
 msgctxt "hf605a6b6g690bg4b5egad1ag755039b8fc58"
 msgid "Scalpel"
-msgstr ""
+msgstr "메스"
 
 #. NodeID: GameObjects
 #. Icon: Item_TOOL_Hospital_Surgery_Scalpel_A
@@ -57436,7 +57469,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/3d01cf80-2d13-4225-a520-6558a7f407cd.lsx:8
 msgctxt "h64a1effeg9fc5g48feg8dc6ge52f2f8795a2"
 msgid "Scalpel"
-msgstr ""
+msgstr "메스"
 
 #. NodeID: GameObjects
 #. Name: TOOL_Ketheric_Anvil_A
@@ -57848,7 +57881,7 @@ msgstr "울퉁불퉁한 뿌리"
 #: Public/SharedDev/RootTemplates/eaf196cd-a009-4e2a-8652-e391391f96c6.lsx:17
 msgctxt "h059b9107geadfg4575g91ceg61c194708cfe"
 msgid "Knotted Roots"
-msgstr ""
+msgstr "울퉁불퉁한 뿌리"
 
 #. NodeID: GameObjects
 #. Name: TOOL_Ladder_Roots_9H_A_Moss
@@ -57857,7 +57890,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/3de0e999-4f06-4327-9858-67f942c64e79.lsx:17
 msgctxt "h0922c043g1754g4335ga67bg560a9665c162"
 msgid "Knotted Roots"
-msgstr ""
+msgstr "울퉁불퉁한 뿌리"
 
 #. NodeID: GameObjects
 #. Name: TOOL_Ladder_Rope_10n5H_A
@@ -58036,7 +58069,7 @@ msgstr "윙윙거리며 이 수정의 빛이 주변 공간을 가득 채웁니�
 #: Public/SharedDev/RootTemplates/a7edf7ca-1999-4d2c-b1bf-035d6e2b9e6e.lsx:12
 msgctxt "h2d9eec26gb99cg4944g9b9bg339dda67c9e2"
 msgid "Resonance Stone"
-msgstr ""
+msgstr "공명석"
 
 #. NodeID: GameObjects
 #. Icon: Item_TOOL_MF_Resonance_Crystal_A
@@ -58219,7 +58252,7 @@ msgstr "어두운 정신"
 #: Public/SharedDev/RootTemplates/a5d93495-c01c-4dd4-928c-3793f620121f.lsx:15
 msgctxt "h26b98c18ge801g4d48g911cg091dc956a524"
 msgid "Karabasan's Poison"
-msgstr ""
+msgstr "카라바산의 독극물"
 
 #. NodeID: GameObjects
 #. Name: Test_Helmet_Dragonborn_Limits
@@ -58632,7 +58665,7 @@ msgstr "금형 챔버"
 #: Public/GustavDev/RootTemplates/4433079e-9cd3-4d58-9611-f52be75052f5.lsx:16
 msgctxt "h1714f11egd227g4a27ga298g98270bfb8a88"
 msgid "Platform"
-msgstr ""
+msgstr "발판"
 
 #. NodeID: GameObjects
 #. Name: UNI_BLD_MF_MindArena_Platform_B
@@ -58641,7 +58674,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/6f70dceb-1370-4eee-b983-9e8269cd529b.lsx:16
 msgctxt "hcd66dcb0gae80g4d5eg88ceg43528279ac63"
 msgid "Platform"
-msgstr ""
+msgstr "발판"
 
 #. NodeID: GameObjects
 #. Name: UNI_BLD_MF_MindArena_Platform_C
@@ -58650,7 +58683,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/27401ebe-5abd-4407-bff6-2c325ab85811.lsx:16
 msgctxt "h9f53982eg671bg4904g9cc2g00fa79d478a2"
 msgid "Platform"
-msgstr ""
+msgstr "발판"
 
 #. NodeID: GameObjects
 #. Name: UNI_BLD_MF_MindArena_Platform_D
@@ -58659,7 +58692,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/e50a3124-4233-48ec-97ba-54dd9621f2d3.lsx:16
 msgctxt "hb0617da8g3336g4b7cgb307g1cdcaaba1348"
 msgid "Platform"
-msgstr ""
+msgstr "발판"
 
 #. NodeID: GameObjects
 #. Name: UNI_BLD_MF_MindArena_Platform_E
@@ -58668,7 +58701,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/643c6650-7680-4f2a-9011-2fc4150baf45.lsx:16
 msgctxt "hf736ea1egdc70g415bgb075gc56191fa6428"
 msgid "Platform"
-msgstr ""
+msgstr "발판"
 
 #. NodeID: GameObjects
 #. Name: UNI_BLD_MF_MindArena_Platform_F
@@ -58677,7 +58710,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/378f8cf9-26e1-49f9-bd91-5327646e2051.lsx:16
 msgctxt "h8fadaa57g548eg4172ga252geb3ea3b2c4fa"
 msgid "Platform"
-msgstr ""
+msgstr "발판"
 
 #. NodeID: GameObjects
 #. Name: UNI_BLD_MF_MindArena_Platform_G
@@ -58686,7 +58719,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/2e188f6e-7e0e-4aa6-ab72-d95e15d6b45a.lsx:16
 msgctxt "hf03ed378g6e7fg4797g8dd2gc9e80a6d1244"
 msgid "Platform"
-msgstr ""
+msgstr "발판"
 
 #. NodeID: GameObjects
 #. Name: UNI_BLD_MF_MindArena_Platform_H
@@ -58695,7 +58728,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/8c3f9e99-dc6a-43f0-945a-43d2526e4064.lsx:16
 msgctxt "hfdb5e9c8gb5ccg4f2bga4bfg71c53b3861f6"
 msgid "Platform"
-msgstr ""
+msgstr "발판"
 
 #. NodeID: GameObjects
 #. Name: UNI_Bag_Blackpowder
@@ -58724,7 +58757,7 @@ msgstr "이 가죽 가방은 매캐한 냄새를 풍기는 검은 알갱이들�
 #: Public/SharedDev/RootTemplates/20f935fc-c55b-4841-9f14-1bd71c4bf3c8.lsx:15
 msgctxt "h429110ecg267eg438bgaa46g6ae161f8f528"
 msgid "Karlach's Boots"
-msgstr ""
+msgstr "칼라크의 부츠"
 
 #. NodeID: GameObjects
 #. Name: UNI_Barbarian_Karlach_Shoes
@@ -58743,7 +58776,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/6ba92e84-2a6d-4a28-80f6-48f0882b417a.lsx:20
 msgctxt "h56d0b7b1g0008g487fgbba4g0b9243707471"
 msgid "This scroll is unread."
-msgstr ""
+msgstr "이 두루마리는 아직 읽지 않았습니다."
 
 #. NodeID: GameObjects
 #. Name: UNI_Boots_Daisy
@@ -58761,7 +58794,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/edcc4d57-ba17-4470-ad78-bc2b967b524c.lsx:15
 msgctxt "hf9b55017gf8e4g4374gb328gf75364fb52f9"
 msgid "Jaheira's Boots"
-msgstr ""
+msgstr "자헤이라의 부츠"
 
 #. NodeID: GameObjects
 #. Name: UNI_Boots_Jaheira
@@ -58818,7 +58851,7 @@ msgstr "죽은 이들이 제르갈의 파멸의 서기관에게 숨길 수 있�
 #: Public/GustavDev/RootTemplates/4075b462-15a9-4f4d-b3af-843a6b9d1ae7.lsx:13
 msgctxt "hdacf1f0eg6a4dg4c19gb9dcg647aae5ab9c6"
 msgid "Ritual Candle"
-msgstr ""
+msgstr "의식용 양초"
 
 #. NodeID: GameObjects
 #. Name: UNI_CONS_Goodberry
@@ -58861,7 +58894,7 @@ msgstr "이 베리를 먹으면 [1] 을 회복합니다."
 #: Public/SharedDev/RootTemplates/a81549e9-3abd-4d67-aad1-6a99c5ba07ad.lsx:15
 msgctxt "h89350a12g825fg4be5gad61g86a665bb81c9"
 msgid "Elixir of Immortality"
-msgstr ""
+msgstr "불멸의 영약"
 
 #. NodeID: GameObjects
 #. Name: UNI_CONS_Potion_Sleep_A
@@ -58969,7 +59002,7 @@ msgstr "수수께끼의 아티팩트"
 #: Public/GustavDev/RootTemplates/3b05b86b-4282-4a92-ace7-e323c1fc1d1e.lsx:9
 msgctxt "h0df20c4dg8681g460eg90acg623b53f4e398"
 msgid "Dawnmaster's Crest"
-msgstr ""
+msgstr "던마스터의 문장"
 
 #. NodeID: GameObjects
 #. Icon: Item_DEC_Dungeon_SharTemple_Gem_Socket_C
@@ -58981,7 +59014,7 @@ msgctxt "h400f7650gddc9g47c3g88e0g8349587f3dec"
 msgid ""
 "This unusually shaped crest bears the markings of a Lathanderian high "
 "priest, but its practical function is unclear. "
-msgstr ""
+msgstr "이 특이한 형태의 문장에는 라샌더 대사제의 표식이 새겨져 있지만, 실질적인 기능이 무엇인지는 불분명합니다. "
 
 #. NodeID: GameObjects
 #. Icon: Item_WPN_HUM_Sun_Mace_A
@@ -59013,7 +59046,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/3462aa18-bb93-403c-b28d-9841c147787f.lsx:14
 msgctxt "hbed01cd6gafe3g4b33g8a53g4d12d61cda35"
 msgid "Varsh Ko'kuu's Boots"
-msgstr ""
+msgstr "바르쉬 코쿠의 부츠"
 
 #. NodeID: GameObjects
 #. Name: UNI_CRE_HatcheryBoots
@@ -59043,7 +59076,7 @@ msgstr "읽기"
 #: Public/GustavDev/RootTemplates/55f57f88-bed2-43bd-9f2d-4fd839b7b531.lsx:15
 msgctxt "h28dca166gafd2g4610gbb9bgff8a18bf83fd"
 msgid "Imperfectly Cut Sun Gem"
-msgstr ""
+msgstr "불완전하게 가공된 태양 보석"
 
 #. NodeID: GameObjects
 #. Name: UNI_CRE_MisCutSunCrystal
@@ -59085,7 +59118,7 @@ msgstr "태양 수정 원석"
 #: Public/GustavDev/RootTemplates/b80175d7-8faf-4bc0-a7c8-c122186d6f27.lsx:14
 msgctxt "h06967d8egd03dg4d91g9e4fg7369f7b8b3d5"
 msgid "Control panel with a unique slot."
-msgstr ""
+msgstr "특수한 구멍이 있는 제어판입니다."
 
 #. NodeID: GameObjects
 #. Name: UNI_CRE_RooftopLanceControlPanel
@@ -59129,7 +59162,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/9f8a0a1c-b1f0-4f09-93eb-de364f1063f1.lsx:15
 msgctxt "h6843fdf7g08b9g4509g8283ge938324bb44e"
 msgid "Mysterious Elixir"
-msgstr ""
+msgstr "수상한 영약"
 
 #. NodeID: GameObjects
 #. Name: UNI_Cazador_FeignDeathPotion
@@ -59727,7 +59760,7 @@ msgstr "등불 바닥에 먼지가 두껍게 쌓여있다. 유리는 금이 갔�
 #: Public/GustavDev/RootTemplates/c9ebcfae-8c9a-4acc-8a30-da7830b32121.lsx:13
 msgctxt "h8f7b5fddg117cg4d7agb454g21f097f62491"
 msgid "Shadow Lantern"
-msgstr ""
+msgstr "그림자 등불"
 
 #. NodeID: GameObjects
 #. Name: UNI_GLO_Moonlantern_Gale
@@ -60019,6 +60052,8 @@ msgid ""
 "The wielder of this rod cannot be <LSTag Type=\"Status\" Tooltip=\"SURPRISED"
 "\">Surprised</LSTag>, unless something unexpected happens."
 msgstr ""
+"이 막대를 착용하면 <LSTag Type=\"Status\" Tooltip=\"SURPRISED\">기습당함</LSTag> 상태에 빠지지 "
+"않습니다. 예상치 못한 일이 일어나는 게 아니라면요."
 
 #. NodeID: GameObjects
 #. Name: UNI_HAV_Thiefling_SendingShell
@@ -60687,7 +60722,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/21e67b0e-913d-411a-9046-6c54e8d0bf53.lsx:13
 msgctxt "h5c2b9718g7e08g495eg8f50g0fa543846dbf"
 msgid "Scroll of Artistry of War"
-msgstr ""
+msgstr "전쟁의 예술성 두루마리"
 
 #. NodeID: GameObjects
 #. Name: UNI_LOW_SorcerousSundries_DethroneScroll
@@ -61082,7 +61117,7 @@ msgstr "작은 가죽 주머니. 보라색, 노란색, 주홍색 실로 단단�
 #: Public/Gustav/RootTemplates/82cca611-a421-4a85-93ad-a73a1de92497.lsx:17
 msgctxt "h9fa01511g5784g4811g821eg343ac0dd209a"
 msgid "Green Card"
-msgstr ""
+msgstr "녹색 카드"
 
 #. NodeID: GameObjects
 #. Icon: Item_WPN_HUM_Shortbow_A_1_Broken
@@ -61117,7 +61152,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/704653bc-b65c-4178-a7c1-d55e7fe880ce.lsx:15
 msgctxt "h9ed653fegf8b0g4abbg90cfgbe63ec28de7e"
 msgid "Painting of an Oskar Fevras"
-msgstr ""
+msgstr "오스카 페브라스의 그림"
 
 #. NodeID: GameObjects
 #. Name: UNI_PLA_DoubtingArtist_OskarFevras_Portrait_A
@@ -61197,7 +61232,7 @@ msgstr "무너진 다리"
 #: Public/Shared/RootTemplates/784843e5-e89a-4ffb-a556-417ba2018287.lsx:15
 msgctxt "h8253c141g6ed9g4e9bgb73dg0580ca2771f4"
 msgid "Severed Head"
-msgstr ""
+msgstr "잘린 머리"
 
 #. NodeID: GameObjects
 #. Name: UNI_PLA_SmugglersRing
@@ -61298,7 +61333,7 @@ msgstr "폭발 지뢰"
 #: Public/GustavDev/RootTemplates/ab848f5a-69dc-4d05-9b54-2575d68fe05b.lsx:23
 msgctxt "h35e14d43ge641g4052gb6bega4a0d718c8ef"
 msgid "Explosive Toy"
-msgstr ""
+msgstr "폭발물 장난감"
 
 #. NodeID: GameObjects
 #. Name: UNI_PUZ_LOW_HouseOfHope_ExplosiveTeddyBear
@@ -61334,7 +61369,7 @@ msgstr "던지기"
 #: Public/SharedDev/RootTemplates/e2b52df4-c8f0-4c65-88c7-24339458a291.lsx:15
 msgctxt "hc1659bc0g9cadg4e66gabd3g6f718b309f48"
 msgid "Canopic Jar"
-msgstr ""
+msgstr "카노푸스 단지"
 
 #. NodeID: GameObjects
 #. Name: UNI_PhilgravesMansion_CanopicJar_Heart
@@ -61343,7 +61378,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/377620bf-b923-4311-a219-d28e4eb7afaa.lsx:14
 msgctxt "h03cc53cfg7b5fg4814ga07eg3252e45eb40c"
 msgid "Canopic Jar"
-msgstr ""
+msgstr "카노푸스 단지"
 
 #. NodeID: GameObjects
 #. Name: UNI_PhilgravesMansion_CanopicJar_Liver
@@ -61352,7 +61387,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/32119033-c810-45d1-8507-210f92a24053.lsx:14
 msgctxt "he051e459g171eg4d90g9b87ge501e8213e4e"
 msgid "Canopic Jar"
-msgstr ""
+msgstr "카노푸스 단지"
 
 #. NodeID: GameObjects
 #. Name: UNI_PhilgravesMansion_CanopicJar_Lungs
@@ -61361,7 +61396,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/e9e3ec79-f1af-4e06-9811-4aafeeead3f0.lsx:14
 msgctxt "h40e323d5ge321g4a0agb301gf42f6e84d049"
 msgid "Canopic Jar"
-msgstr ""
+msgstr "카노푸스 단지"
 
 #. NodeID: GameObjects
 #. Name: UNI_PhilgravesMansion_Canopic_Jar_Destruct
@@ -61370,7 +61405,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/1eac2760-47ef-4a7b-a12c-84d148b499cb.lsx:15
 msgctxt "h0ccd3065g15a9g4118gaa0bg47164e110a94"
 msgid "Broken Jar"
-msgstr ""
+msgstr "부서진 단지"
 
 #. NodeID: GameObjects
 #. Name: UNI_Poison_Brewer
@@ -61504,7 +61539,7 @@ msgstr "얇은 원단으로 제작되어 촉감이 부드럽고 따뜻합니다.
 #: Public/GustavDev/RootTemplates/64b31781-85f6-4266-8fac-430d79bcbdb4.lsx:13
 msgctxt "hd4db937cg2a41g4163gae96g1f4de236005d"
 msgid "Khalid's Gift"
-msgstr ""
+msgstr "칼리드의 선물"
 
 #. NodeID: GameObjects
 #. Name: UNI_SCE_KhalidsGift
@@ -61513,7 +61548,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/64b31781-85f6-4266-8fac-430d79bcbdb4.lsx:15
 msgctxt "h4e289b2bg7a72g42c9ga76cg32f79fdbc004"
 msgid "A gift from Khalid for Jaheira."
-msgstr ""
+msgstr "칼리드가 자헤이라에게 보내는 선물입니다."
 
 #. NodeID: GameObjects
 #. Name: UNI_SCL_Debris
@@ -61532,7 +61567,7 @@ msgstr "돌무더기"
 #: Public/GustavDev/RootTemplates/9297096d-98d6-4637-9b7c-843af752505e.lsx:13
 msgctxt "h73562698gacf5g4346g853cg8bb0c8348fb9"
 msgid "Shadow-Cloaked Ring"
-msgstr ""
+msgstr "그림자 망토 반지"
 
 #. NodeID: GameObjects
 #. Name: UNI_SCL_MastiffPoachers_MagicRing
@@ -61543,7 +61578,7 @@ msgctxt "h66494098g04a9g499ag9b11g4ac50167b9bb"
 msgid ""
 "Even in the brightest light, this ring never gleams, as if perpetually "
 "wrapped in shadow, hungry for the dark."
-msgstr ""
+msgstr "이 반지는 마치 영구적으로 그림자로 감싸여 어둠을 갈구하는 듯 아무리 밝은 빛 아래서도 반짝이지 않습니다."
 
 #. NodeID: GameObjects
 #. Name: UNI_SCL_OliverFight_Nightdome
@@ -61594,7 +61629,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/e33850ba-f697-40f5-abec-2951077f2cef.lsx:13
 msgctxt "hdb66374egb921g480dgb2aeg64d82ba34e60"
 msgid "Dark Justiciar Boots"
-msgstr ""
+msgstr "다크 저스티시어 부츠"
 
 #. NodeID: GameObjects
 #. Name: UNI_SHA_InvisiblePlatform
@@ -61620,7 +61655,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/73a443e0-2056-4e4c-b8d2-d4283d8d3595.lsx:15
 msgctxt "h634c1c0eg1682g4772gaf25g89149ea93209"
 msgid "Dark Justiciar Gauntlets"
-msgstr ""
+msgstr "다크 저스티시어 건틀릿"
 
 #. NodeID: GameObjects
 #. Name: UNI_SHA_JusticiarArmor_Gloves
@@ -61664,7 +61699,7 @@ msgstr "은으로 도금된 정교한 열쇠입니다."
 #: Public/GustavDev/RootTemplates/bf2949fe-6739-4149-ac68-106a00eec905.lsx:14
 msgctxt "hc1e7d4d4g04b1g4667ga8afg753914733cdf"
 msgid "Sandthief's Ring"
-msgstr ""
+msgstr "사막도적의 반지"
 
 #. NodeID: GameObjects
 #. Name: UNI_SHA_Shadowheart_JusticiarArmor_HalfPlate
@@ -61674,7 +61709,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/742d43ff-b74d-4cbe-9554-51773bbccdc2.lsx:13
 msgctxt "h7bb8d78fg3bb3g46f7g9a1egce8d6d82fc49"
 msgid "Dark Justiciar Half-Plate"
-msgstr ""
+msgstr "다크 저스티시어 하프 플레이트"
 
 #. NodeID: GameObjects
 #. Name: UNI_SHA_Shadowheart_JusticiarArmor_HalfPlate
@@ -61698,7 +61733,7 @@ msgstr ""
 #: Public/Gustav/RootTemplates/91fcac28-d688-4961-ad40-4b7814aff604.lsx:16
 msgctxt "h3f34d6bbg3c31g4cc4ga92dg721078ea0298"
 msgid "Spider Meat"
-msgstr ""
+msgstr "거미 고기"
 
 #. NodeID: GameObjects
 #. Name: UNI_SHA_SummonGolemBell
@@ -61708,7 +61743,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/274b6c3c-cf13-46b9-ba51-7b9e01f05676.lsx:15
 msgctxt "h83ffcc9bga1f8g4ca8g8378g44b368e25c52"
 msgid "Summon Golem Bell"
-msgstr ""
+msgstr "골렘 소환의 종"
 
 #. NodeID: GameObjects
 #. Name: UNI_SHA_SummonGolemBell
@@ -61720,7 +61755,7 @@ msgctxt "h3a57a88eg6644g4ba7ga038g2b704114fbce"
 msgid ""
 "Summons Balthazar's Flesh Golem during combat. This item is only functional "
 "in the Gauntlet of Shar."
-msgstr ""
+msgstr "전투 중 발타자르의 살점 골렘을 소환합니다. 샤의 건틀릿에서만 작동합니다."
 
 #. NodeID: GameObjects
 #. Name: UNI_SHA_TeleportationStone
@@ -61730,7 +61765,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/47fb4e7f-34e1-480e-8acf-f677a31f260c.lsx:15
 msgctxt "h0691e1c3g39b6g4b20g9861gce47ce482dae"
 msgid "Teleportation Stone"
-msgstr ""
+msgstr "순간이동석"
 
 #. NodeID: GameObjects
 #. Name: UNI_SHA_TeleportationStone
@@ -61740,7 +61775,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/47fb4e7f-34e1-480e-8acf-f677a31f260c.lsx:24
 msgctxt "hd36bfe38g6227g4b31ga2ffg25641b92f285"
 msgid "When active, teleports whoever who touches it to a new location."
-msgstr ""
+msgstr "작동시키면 돌을 만지는 이를 다른 위치로 순간이동시킵니다."
 
 #. NodeID: GameObjects
 #. Name: UNI_S_DebugBook
@@ -61749,7 +61784,7 @@ msgstr ""
 #: Public/Gustav/RootTemplates/31ee023c-d151-40f6-917e-84066772783b.lsx:14
 msgctxt "hb8af7091gf77dg4d9eg8458gc0a8c793a2b0"
 msgid "DEBUG BOOK"
-msgstr ""
+msgstr "디버그 책"
 
 #. NodeID: GameObjects
 #. Name: UNI_S_DebugBook
@@ -61758,7 +61793,7 @@ msgstr ""
 #: Public/Gustav/RootTemplates/31ee023c-d151-40f6-917e-84066772783b.lsx:17
 msgctxt "hef02d33eg282bg45bdgbfd5g6b990d6784e3"
 msgid "Read for Debug Commands."
-msgstr ""
+msgstr "디버그 명령어가 적혀 있습니다."
 
 #. NodeID: GameObjects
 #. Name: UNI_S_DebugBook
@@ -61767,7 +61802,7 @@ msgstr ""
 #: Public/Gustav/RootTemplates/31ee023c-d151-40f6-917e-84066772783b.lsx:19
 msgctxt "hb68b14dcg7dceg4c7eg8cebg03122b0c2fa7"
 msgid "The Book of Debugging"
-msgstr ""
+msgstr "디버깅의 책"
 
 #. NodeID: GameObjects
 #. Icon: Item_DEC_HAG_Totem_Props_Dagger_A
@@ -61888,7 +61923,7 @@ msgstr "긴 휴식 취하기"
 #: Public/GustavDev/RootTemplates/ab846656-a9f7-4ed5-93ae-85a8df39b5ac.lsx:13
 msgctxt "h8ea556e7gc3d1g42f0ga8e4ge604b091aa75"
 msgid "Kiam Goda's Kilat Drum"
-msgstr ""
+msgstr "키암 고다의 킬라트 북"
 
 #. NodeID: GameObjects
 #. Name: UNI_TOOL_Music_Drum_KiamGodasKilatDrum
@@ -61908,7 +61943,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/09de8b63-12ad-43d5-a2cf-b9b32692e777.lsx:13
 msgctxt "hb0a00ebfgd629g4212g88efg9ecda852e112"
 msgid "Dostrealt's Piccolo"
-msgstr ""
+msgstr "도스트렐트의 피콜로"
 
 #. NodeID: GameObjects
 #. Name: UNI_TOOL_Music_Flute_DostrealtsPiccolo
@@ -61928,7 +61963,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/59a1ed6f-b530-44b2-972e-2a73e02080cb.lsx:13
 msgctxt "hbbf9a166g6f7bg4ec6g87e5g98abf3134b4a"
 msgid "Stolyarof's Table Lute"
-msgstr ""
+msgstr "스톨랴로프의 탁자 류트"
 
 #. NodeID: GameObjects
 #. Name: UNI_TOOL_Music_Guitar_Lute_StolyarofsTableLute
@@ -61949,7 +61984,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/3542b820-713a-4dd3-9cc8-35586f4e7f46.lsx:13
 msgctxt "h86c01939gcab4g4917gb008gacc8d476e7d9"
 msgid "Falataeric Cli Lyre"
-msgstr ""
+msgstr "팔라테리의 클리 리라"
 
 #. NodeID: GameObjects
 #. Name: UNI_TOOL_Music_Lyre_FalataericCliLyre
@@ -61970,7 +62005,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/209c50b2-1e39-4484-905d-588741eba320.lsx:13
 msgctxt "hd05e9193gbdf6g440egac92ga00a99795736"
 msgid "Glimmergad's Selgaunt Fiddle"
-msgstr ""
+msgstr "글리머가드의 셀군트제 바이올린"
 
 #. NodeID: GameObjects
 #. Name: UNI_TOOL_Music_Violin_GlimmergadSelgauntFiddle
@@ -62023,7 +62058,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/b3720630-15ba-4384-87c6-56392097e02c.lsx:13
 msgctxt "hba085dd3g311bg4b01g90eag741b39446135"
 msgid "Broken Wand of Fireballs"
-msgstr ""
+msgstr "부서진 화염구의 마법봉"
 
 #. NodeID: GameObjects
 #. Name: UNI_TOOL_Wand_Fireballs_Snapped
@@ -62126,7 +62161,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/afb45f49-67f3-4930-80d3-afaa97cafb34.lsx:15
 msgctxt "h64f8e1b1g7b7bg419cga536g50b5b65625d9"
 msgid "Rotten Cheese Wheel"
-msgstr ""
+msgstr "썩은 치즈"
 
 #. NodeID: GameObjects
 #. Name: UNI_TWN_CONS_GEN_Food_Cheese_Blue_Wheel_A_Rotten
@@ -62177,7 +62212,7 @@ msgstr "명판"
 #: Public/GustavDev/RootTemplates/44ef607a-0da5-4ab3-a1ef-055ca509b4c8.lsx:20
 msgctxt "h7201fc21gad6fg462ag9420g64ba5a7365cf"
 msgid "Distillery Machine"
-msgstr ""
+msgstr "증류기"
 
 #. NodeID: GameObjects
 #. Name: UNI_TWN_Distillery_PurpleWormGlands_DO_NOT_USE
@@ -62188,7 +62223,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/995350b8-1f00-407f-bece-a8452945da66.lsx:16
 msgctxt "he87e9d53gd429g4f1fga8b8g0e4503d42baf"
 msgid "Purple Worm Glands"
-msgstr ""
+msgstr "퍼플 웜 분비선"
 
 #. NodeID: GameObjects
 #. Name: UNI_TWN_Distillery_PurpleWormGlands_DO_NOT_USE
@@ -62218,7 +62253,7 @@ msgstr "혈액병"
 #: Public/SharedDev/RootTemplates/beb3f8a3-bb27-4054-99a2-500126fc7e5d.lsx:9
 msgctxt "h5567a643g2b11g4ea6g85a9g552cebd5d2b7"
 msgid "Jar of Coagulated Blood"
-msgstr ""
+msgstr "응고된 혈액이 담긴 단지"
 
 #. NodeID: GameObjects
 #. Name: UNI_TWN_MissingCatPet
@@ -62227,7 +62262,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/95ba617e-6d3f-4a1b-a726-ebf8039cc8bf.lsx:16
 msgctxt "hbe46690cg024eg44a3g8c89gc15ff592df11"
 msgid "Missing Cat Poster"
-msgstr ""
+msgstr "벽보: 고양이를 찾습니다"
 
 #. NodeID: GameObjects
 #. Name: UNI_TWN_MissingCatPet
@@ -62254,7 +62289,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/9c475429-a847-49e4-b1dd-f27137f80b76.lsx:16
 msgctxt "h9803f5e8gf28cg4b12g9b0fgc97b108a9c3a"
 msgid "Missing Dog Poster"
-msgstr ""
+msgstr "벽보: 강아지를 찾습니다"
 
 #. NodeID: GameObjects
 #. Name: UNI_TWN_MissingDogPet
@@ -62282,7 +62317,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/9c10ac72-da07-4aca-a2ce-3d04d1ce3485.lsx:9
 msgctxt "h8cdc46bbgc433g4092g972bg885970a3a663"
 msgid "Shar's Temptation"
-msgstr ""
+msgstr "샤의 유혹"
 
 #. NodeID: GameObjects
 #. Icon: Item_LOOT_GEN_Amulet_Necklace_E_Pearl_C
@@ -62378,7 +62413,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/cb2b1ac8-5589-464f-ac9f-ccd6fd27ebed.lsx:15
 msgctxt "hd7e9c6f1gf9b2g43b8g9aa2g9a24b0138c86"
 msgid "Watcher's Shield"
-msgstr ""
+msgstr "감시자의 방패"
 
 #. NodeID: GameObjects
 #. Name: UNI_TWN_WPN_HUM_ShieldOfWatcher_D_1
@@ -62400,7 +62435,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/3c14116f-43da-4e73-92d1-903f46a9d55d.lsx:15
 msgctxt "hcb6c1b01g8f5bg4dafga567g624b2d1e0772"
 msgid "Assassin's Shortsword"
-msgstr ""
+msgstr "암살자의 숏소드"
 
 #. NodeID: GameObjects
 #. Name: UNI_TWN_WPN_HUM_ShortswordOfStealth_A_1
@@ -62422,7 +62457,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/3c14116f-43da-4e73-92d1-903f46a9d55d.lsx:26
 msgctxt "hf0803c05gfa6cg468aga1cag12559962c6ef"
 msgid "Shortsword of Stealth"
-msgstr ""
+msgstr "은신의 숏소드"
 
 #. NodeID: GameObjects
 #. Name: UNI_TWN_WaningMoonSign
@@ -62436,7 +62471,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/3f12408f-22b1-4a02-bd8c-e513c3407ccf.lsx:24
 msgctxt "h5e2b8002ga7adg49cdga56eg8638a5c4de33"
 msgid "The Waning Moon"
-msgstr "저무는 달"
+msgstr "기우는 달"
 
 #. NodeID: GameObjects
 #. Name: UNI_TadpolePowerJar
@@ -62460,7 +62495,7 @@ msgstr "탁한 점액에 매달려 살아 있는 올챙이는 뇌액의 잔여�
 #: Public/Shared/RootTemplates/1ec327be-3b7f-4502-9586-860e057e09ae.lsx:17
 msgctxt "habd2e846gd3a3g4a75g8e66gfe378014b277"
 msgid "Consume"
-msgstr ""
+msgstr "섭취"
 
 #. NodeID: GameObjects
 #. Name: UNI_TadpolePowerJar_Absolute
@@ -62471,7 +62506,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/d1f2b294-fdf8-43df-8d11-19743077cb68.lsx:14
 msgctxt "hb641bbbfgdf6fg497dg8c1fgd06e87ebe667"
 msgid "Gift from the Absolute"
-msgstr ""
+msgstr "절대자의 선물"
 
 #. NodeID: GameObjects
 #. Name: UNI_TadpolePowerJar_Absolute
@@ -63588,7 +63623,7 @@ msgstr "이 가방 안에 들어간 모든 음식물은 즉시 곰팡이가 슬�
 #: Public/GustavDev/RootTemplates/c554df25-a6dd-4a30-b99d-27ae556dfe41.lsx:23
 msgctxt "he72ecdafg1429g4e86ga496gaf639150a4bc"
 msgid "Clown's Severed Arm"
-msgstr ""
+msgstr "광대의 잘린 팔"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_Circus_ClownArm
@@ -63616,7 +63651,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/c115ee19-9281-41cb-b2a4-28e2e81696ba.lsx:18
 msgctxt "hb508be5fgf2f6g45e6gaf7ege29c6cfab1a7"
 msgid "Clown's Severed Foot"
-msgstr ""
+msgstr "광대의 잘린 발"
 
 #. NodeID: GameObjects
 #. Archetype: base
@@ -63641,7 +63676,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/72207448-c6b6-42fc-b9ef-a34fdd3c1265.lsx:13
 msgctxt "hf522dcf8gbce4g41bdg98c5ge8dae01e96f0"
 msgid "Clown Hammer"
-msgstr ""
+msgstr "광대의 망치"
 
 #. NodeID: GameObjects
 #. Icon: Item_UNI_WYR_Circus_ClownHammer
@@ -63663,7 +63698,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/d888727b-07cb-482b-84a6-70757ddfcf77.lsx:15
 msgctxt "h81d53f66gc9d8g46c7gb78cgbb5d0ca25884"
 msgid "Clown's Severed Hand"
-msgstr ""
+msgstr "광대의 잘린 손"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_Circus_ClownHandWithRing
@@ -63685,7 +63720,7 @@ msgstr ""
 #: Public/Gustav/RootTemplates/78f9c440-f21b-49ef-b800-4419640ea63f.lsx:16
 msgctxt "hfcce1b01g614ag4cefg8ab4gab0f034dd7b9"
 msgid "Clown's Severed Head"
-msgstr ""
+msgstr "광대의 잘린 머리"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_Circus_ClownHead
@@ -63710,7 +63745,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/b9b087a8-0cb8-4e65-ba26-5c6469ad4669.lsx:23
 msgctxt "hb718e9b7g81fcg41b5ga977gcf9db23a6eb5"
 msgid "Clown's Severed Leg"
-msgstr ""
+msgstr "광대의 잘린 다리"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_Circus_ClownLeg
@@ -63738,7 +63773,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/506b9031-008b-400e-8102-ef6ef7dbc23f.lsx:23
 msgctxt "h241eea04g4702g478fga9b3ga7c2dce0b821"
 msgid "Clown's Severed Torso"
-msgstr ""
+msgstr "광대의 잘린 몸통"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_Circus_ClownTorso
@@ -63766,7 +63801,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/9c3fcbb2-d080-49bd-b88a-4bf48a4080a8.lsx:23
 msgctxt "hafcd19b3g0279g405bgb6c4ge687115ad609"
 msgid "Clown's Severed Pelvis"
-msgstr ""
+msgstr "광대의 잘린 골반"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_Circus_ClownWaist
@@ -63958,7 +63993,7 @@ msgstr "던지기"
 #: Public/SharedDev/RootTemplates/1b7e91d0-5de8-46fa-87c0-b3a9d35939e6.lsx:9
 msgctxt "hc5b8a40aged0dg4a82ga933g87e760284a8e"
 msgid "Unfinished Toy"
-msgstr ""
+msgstr "미완성된 장난감"
 
 #. NodeID: GameObjects
 #. Icon: Item_UNI_WYR_ExplosiveToy_Broken
@@ -63994,7 +64029,7 @@ msgstr "쓸모없는 보물 상자"
 #: Public/GustavDev/RootTemplates/dbe284a5-177a-440b-ba91-687eb7aa3fb5.lsx:32
 msgctxt "h1de20a95gf6a5g4223ga3c9g0b75d51e3652"
 msgid "Looks like all the gold in this pile is just made of paper and clay."
-msgstr ""
+msgstr "이 안의 금은 전부 진흙과 종이로 만들어진 가짜인 것 같습니다."
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_IllithidJarWithLarvae
@@ -64004,7 +64039,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/e07beeb6-7c48-4415-985b-0d96c7438b0f.lsx:16
 msgctxt "h1070ca1ag1912g4cd3gaad6gc48dfe290da8"
 msgid "Illithid Jar with Larvae"
-msgstr ""
+msgstr "유충이 담긴 일리시드 단지"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_Key_Flower
@@ -64087,7 +64122,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/f8e0e45b-7549-4831-9a6e-10166ab96575.lsx:34
 msgctxt "h119350afg6565g4eb8g8667g8ba44132394e"
 msgid "Study"
-msgstr ""
+msgstr "연구"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_PaintingPuzzle_NonSolutionPainting2
@@ -64129,7 +64164,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/d6b14418-583d-4d56-8ac8-1fdc839130a2.lsx:34
 msgctxt "h28bcb6beg188bg4dbdgb461g400d76e4280c"
 msgid "Study"
-msgstr ""
+msgstr "연구"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_PaintingPuzzle_NonSolutionPainting3
@@ -64170,7 +64205,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/4816726d-0e75-4abb-bc0a-89936ae48683.lsx:34
 msgctxt "h37ed2119g7914g443eg8378g0554939864a6"
 msgid "Study"
-msgstr ""
+msgstr "연구"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_PaintingPuzzle_NonSolutionPainting4
@@ -64209,7 +64244,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/96a2c017-06d4-4dd4-880d-ad3dcde2b3d4.lsx:34
 msgctxt "h9f8c3842gda1ag46ddgb83fg4897f728b443"
 msgid "Study"
-msgstr ""
+msgstr "연구"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_PaintingPuzzle_NonSolutionPainting5
@@ -64249,7 +64284,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/9a7be068-0093-4c51-aeb6-a6b6202e17fa.lsx:34
 msgctxt "hbf6bc6fag3fdeg41bag9d58g8a1de9db918d"
 msgid "Study"
-msgstr ""
+msgstr "연구"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_PaintingPuzzle_NonSolutionPainting6
@@ -64290,7 +64325,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/011ea5cb-73d1-40e8-aafb-3313833a1d64.lsx:34
 msgctxt "h12bed7edge327g4ab1ga34cg51be3fc86d0f"
 msgid "Study"
-msgstr ""
+msgstr "연구"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_PaintingPuzzle_SolutionPainting1
@@ -64331,7 +64366,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/c97a9198-0dff-4dca-b2f0-75e680446a4a.lsx:36
 msgctxt "hb8a98f08g4e8cg4bb6gb39agdae9f4201375"
 msgid "Study"
-msgstr ""
+msgstr "연구"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_PaintingPuzzle_SolutionPainting2
@@ -64372,7 +64407,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/827df830-08c1-4a7a-8201-8cf7faa6736b.lsx:36
 msgctxt "hf8e84ea4g71c4g4186ga422g719bec7a4b84"
 msgid "Study"
-msgstr ""
+msgstr "연구"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_PaintingPuzzle_SolutionPainting3
@@ -64411,7 +64446,7 @@ msgstr "붉은 머리카락의 남자가 무자비한 광대들이 지키는 감
 #: Public/GustavDev/RootTemplates/9e6fbe35-e0fd-4b3a-be5b-b75935e17fc0.lsx:36
 msgctxt "h54c7d830g0676g4265gb896g3b08e8f9f928"
 msgid "Study"
-msgstr ""
+msgstr "연구"
 
 #. NodeID: GameObjects
 #. Name: UNI_WYR_Scroll_Runepowder_Bomb_Detonator
@@ -64646,7 +64681,7 @@ msgctxt "h25ccfc3agdaf4g4870g8ca6g23644357b249"
 msgid ""
 "Tight, aerodynamic, and built for maximum breathability. Humidity is no "
 "friend to hamsters."
-msgstr ""
+msgstr "딱 붙고 공기역학적인데다 통기성을 극대화할 수 있도록 만들어졌습니다. 습기는 햄스터의 적이니까요."
 
 #. NodeID: GameObjects
 #. Name: Underwear_Minthara
@@ -64713,7 +64748,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/90850db1-2241-4f4c-9e80-bb689a0b050f.lsx:17
 msgctxt "h38230ef9ge890g47a7g87a3gc913c5be5d29"
 msgid "Ritual Pentagram"
-msgstr ""
+msgstr "의식용 오망성"
 
 #. NodeID: GameObjects
 #. Name: VFX_Environment_Hag_Swamp_Barrier_01
@@ -64744,7 +64779,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/cb37011d-a311-4a84-bec9-66d133bac57e.lsx:16
 msgctxt "h38bba7deg1770g45a6g9526g5f1821bfb782"
 msgid "Mirror Portal"
-msgstr "거울 포탈"
+msgstr "거울 차원문"
 
 #. NodeID: GameObjects
 #. Name: VFX_Static_Wall_Spell_Blade_A_HighLeft_A
@@ -64906,7 +64941,7 @@ msgstr "'세상에 둘도 없을 아내이자 어머니인 피온에게'라고 �
 #: Public/Shared/RootTemplates/4a7dbf09-3bd1-4547-ae5f-dcc1ce4b3ea9.lsx:15
 msgctxt "h00a0feaagacb8g4786gba36ga3dd46ac4838"
 msgid "Bane's Fist"
-msgstr ""
+msgstr "베인의 주먹"
 
 #. NodeID: GameObjects
 #. Name: S_WYR_WyrmRockPrison_EntranceDoorKey

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-06 11:03+0900\n"
-"PO-Revision-Date: 2023-09-08 05:53+0000\n"
-"Last-Translator: OSI <sein4510@naver.com>\n"
+"PO-Revision-Date: 2023-09-09 11:54+0000\n"
+"Last-Translator: Kimeri <kimhm16400@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2564,7 +2564,7 @@ msgstr "로로아칸을 찾아서 만나보자."
 #: Mods/GustavDev/Story/Journal/Markers/59fe64eb-55d6-4ea6-8f56-39204cb93ebf.lsx:8
 msgctxt "h16281da8gff98g49f3gbc63g6301031f358d"
 msgid "Lorroakan's Portals"
-msgstr "로로아칸의 포탈"
+msgstr "로로아칸의 차원문"
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -2589,7 +2589,7 @@ msgid ""
 "A projection of the wizard Lorroakan has set us a puzzle to solve before "
 "getting an audience with him. We need to select the right portal to step "
 "through."
-msgstr "위저드 로로아칸의 투영체가 그를 직접 접견하기 위해 풀어야 할 퍼즐을 우리에게 제시했다. 알맞은 포탈을 골라 들어가야 한다."
+msgstr "위저드 로로아칸의 투영체가 그를 직접 접견하기 위해 풀어야 할 퍼즐을 우리에게 제시했다. 알맞은 차원문을 골라 들어가야 한다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -2610,7 +2610,7 @@ msgctxt "hc71e0758ga311g4e21g8360g1fdec2a29786"
 msgid ""
 "We stepped through the wrong portal in Lorroakan's puzzle and have been "
 "expelled from Sorcerous Sundries."
-msgstr "우리는 로로아칸의 퍼즐에서 잘못된 포탈을 골라 들어갔고, 요술 잡화점에서 쫓겨났다."
+msgstr "우리는 로로아칸의 퍼즐에서 잘못된 차원문을 골라 들어갔고, 요술 잡화점에서 쫓겨났다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -3483,7 +3483,7 @@ msgctxt "h818ef0fag3688g4c00ga1bag6e02b6c47a1c"
 msgid ""
 "Lady Jannath's butler, Tarhun, indicated to us that something very strange "
 "is going on and was clearly unsettled. We should investigate."
-msgstr ""
+msgstr "레이디 제네스의 집사인 타훈이 뭔가 이상한 일이 벌어지고 있다고 일러주었다. 조사해 봐야겠다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -3492,7 +3492,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2841
 msgctxt "h182d2437g722cg448bg9f88g483168d72a6a"
 msgid "Check up on Lady Jannath."
-msgstr "잔나스 부인을 확인하자."
+msgstr "제네스 부인 확인하기."
 
 #. NodeID: Marker
 #. MarkerID: LOW_OskarsBeloved_ExploreMansion
@@ -3502,7 +3502,7 @@ msgstr "잔나스 부인을 확인하자."
 #: Mods/GustavDev/Story/Journal/Markers/53c53f3e-7594-4dfb-aa37-28382e02ae10.lsx:8
 msgctxt "hc3199595g72e7g41ebg8695gca9f0bd6767d"
 msgid "Lady Jannath's Estate "
-msgstr ""
+msgstr "제네스의 저택 "
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -3511,7 +3511,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:4793
 msgctxt "h1658f3e5g1f0bg4137gabc1gfbd62f641964"
 msgid "We left Oskar with the Zhentarim."
-msgstr ""
+msgstr "오스카를 젠타림에 두고 떠났다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -3521,7 +3521,7 @@ msgstr ""
 msgctxt "h4876880egd86bg4ad1gba16g03c47ce547c8"
 msgid ""
 "The Jannath Estate is clearly haunted. We should find what's causing this."
-msgstr ""
+msgstr "제네스의 저택은 명백히 악령에 씌였다. 원인을 찾아봐야겠다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -3530,7 +3530,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2852
 msgctxt "hf5583e36gf93bg4747g8d6cg39d9f536f5b1"
 msgid "Find out what's haunting the Jannath Estate."
-msgstr ""
+msgstr "제네스의 저택이 악령에 씌인 원인 조사하기."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -3541,7 +3541,7 @@ msgctxt "h651fa026g3f32g443ag93d4g8a5ebdb7ae13"
 msgid ""
 "We found Oskar, who is possessed and aggressive. His wife, Lady Jannath, has "
 "asked us to incapacitate him."
-msgstr ""
+msgstr "오스카를 찾았지만 무언가에 홀린 듯 공격적이었다. 그의 아내인 레이디 제네스는 그를 무력화 해달라고 요청했다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -3550,7 +3550,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2863
 msgctxt "haa690fc9gbd61g4a3eg86ddg078fbf2c0652"
 msgid "Incapacitate Oskar."
-msgstr ""
+msgstr "오스카 무력화 하기."
 
 #. NodeID: Marker
 #. MarkerID: LOW_OskarsBeloved_Oskar
@@ -3571,7 +3571,7 @@ msgctxt "h6f1ab54cg8918g46afga6a4ge6bd78c4f96b"
 msgid ""
 "We knocked out Oskar, but he is still possessed. Maybe there are clues "
 "around the mansion that will help us find out what caused this."
-msgstr ""
+msgstr "오스카를 기절시켰지만 여전히 홀려있는 듯 하다. 저택 주변에 이 현상의 원인을 밝힐 단서가 있을지도 모르니 더 조사해보자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -3580,7 +3580,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2874
 msgctxt "hda19c00fg7877g4215g8ffegf1b859bf2b1c"
 msgid "Explore the Jannath Estate."
-msgstr ""
+msgstr "제네스의 저택 탐사하기."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -3591,7 +3591,7 @@ msgctxt "h5da53aa5gda20g4710gb7e7gc2e3ac66a4cd"
 msgid ""
 "Lady Jannath said that since the wedding, Oskar has been working obsessively "
 "up in his Atelier. We should go investigate."
-msgstr ""
+msgstr "레이디 제네스는 오스카가 결혼 후 아뜰리에에서 강박적으로 작업에 몰두했다고 한다. 가서 조사해보자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -3600,7 +3600,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2885
 msgctxt "h1b1eb952g62e0g4be8g9bc4g388b43adab5c"
 msgid "Investigate the Atelier in the Jannath Estate."
-msgstr ""
+msgstr "제네스 저택의 아뜰리에 조사하기."
 
 #. NodeID: Marker
 #. MarkerID: LOW_OskarsBeloved_Atelier
@@ -3610,7 +3610,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/c2c79883-da15-43c3-86b5-1b4f95736510.lsx:8
 msgctxt "h94d366c7gb3a6g41e5g869eg04ee7b2a1a2f"
 msgid "Atelier"
-msgstr ""
+msgstr "아뜰리에"
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -3621,7 +3621,7 @@ msgctxt "he6b63a71gc95dg435cgbc35ga463793380be"
 msgid ""
 "We briefly broke the enchantment possessing Oskar. During those brief "
 "moments, he mentioned the Atelier. We might find more clues there."
-msgstr ""
+msgstr "오스카에게 씌인 마법을 깨뜨렸던 짧은 순간 그는 아뜰리에에 대해 언급했다. 그곳에서 더 많은 단서를 찾을 수 있을지도 모른다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -3632,7 +3632,7 @@ msgctxt "h36238660g7746g42afg84b4gc6cb5748ed47"
 msgid ""
 "We found the Atelier. There must be something in here that will point us "
 "toward the source of Oskar's possession."
-msgstr ""
+msgstr "아뜰리에를 찾았다. 오스카가 씌인 것의 정체에 대해 알아낼만한 무언가가 있을 것이다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -3641,7 +3641,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:4940
 msgctxt "hc95aac2agaa8eg4b40gaaeag6d6ecbb254a6"
 msgid "We discovered a secret room in the Atelier."
-msgstr ""
+msgstr "아뜰리에에서 비밀 공간을 찾았다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -3654,6 +3654,8 @@ msgid ""
 "and responds to violence with violence. There must be some way of coaxing "
 "out whatever's tormenting it. We should look around for clues."
 msgstr ""
+"숨겨진 소녀의 초상화는 평범한 공격이 전혀 통하지 않는 것으로 보이며, 폭력에는 폭력으로 대응한다. 분명 그것을 괴롭히는 무언가를 달랠 "
+"방법이 있을 것 같은데. 단서를 찾아보자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -7103,7 +7105,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/95357ebc-1447-4c86-b144-225685bf27dd.lsx:8
 msgctxt "ha59cc985g947ag435egab33gc2b243562645"
 msgid "Astral Prism Portal"
-msgstr "아스트랄 프리즘 포탈"
+msgstr "아스트랄 프리즘 차원문"
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -20915,7 +20917,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/b760a4be-f519-4d02-b015-173a7a58ce26.lsx:8
 msgctxt "hb098076fgc9aag4368ga074gbb74bb755db8"
 msgid "Astral Plane Portal"
-msgstr "아스트랄 차원 포탈"
+msgstr "아스트랄 차원 차원문"
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -22441,10 +22443,9 @@ msgstr ""
 #. MarkerLevel: CTY_Main_A
 #. MarkerTargetObjectType: Trigger
 #: Mods/GustavDev/Story/Journal/Markers/24e112bd-d8ce-4fc7-955e-c6ca6fa4afe4.lsx:8
-#, fuzzy
 msgctxt "h896a8a39g06aag4e3cga6f8g231df43f1497"
 msgid "Blushing Mermaid"
-msgstr "수줍어하는 인어"
+msgstr "달아오른 인어"
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -23014,7 +23015,7 @@ msgstr "희망의 집 탈출하기."
 #: Mods/GustavDev/Story/Journal/Markers/cd52ed7a-fa58-450e-9a63-cb87cea53a3c.lsx:8
 msgctxt "he6e5e73cge170g49eagac63g157eaba42c79"
 msgid "Portal"
-msgstr ""
+msgstr "차원문"
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -33880,7 +33881,7 @@ msgctxt "h64bdc24bgdf18g4ff3gbfb6g95c9d7f8da93"
 msgid ""
 "Chef Roveer is dead by our hands - we should check in on the other victims "
 "from the Bhaalist target list. "
-msgstr "우린 로버 주방장을 죽였다. 바알리스트 살해 대상 명단의 다른 희생자들도 확인해봐야 한다. "
+msgstr "우린 로비어 주방장을 죽였다. 바알리스트 살해 대상 명단의 다른 희생자들도 확인해봐야 한다. "
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -33891,7 +33892,7 @@ msgctxt "haf2e07dag89fcg4ae0gaf12g8fa587aaa409"
 msgid ""
 "We warned Chef Roveer of the Bhaalist target list he's on - we should do the "
 "same for the other marked targets. "
-msgstr "우린 로버 주방장에게 그가 바알리스트 살해 대상 명단에 올라있다고 경고했다. 명단에 올라있는 다른 사람들에게도 알려야 한다. "
+msgstr "우린 로비어 주방장에게 그가 바알리스트 살해 대상 명단에 올라있다고 경고했다. 명단에 올라있는 다른 사람들에게도 알려야 한다. "
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -39138,7 +39139,7 @@ msgid ""
 "He Who Was wants to bring justice to the victims of a murderer - to do so, "
 "he needs a ledger belonging to the killer. It is hidden in the Waning Moon."
 msgstr ""
-"존재했던 자는 살인 희생자들을 위해 정의를 실현하고자 합니다. 그는 살인마가 가지고 있는 장부를 필요로 합니다. 장부는 '저무는 달'에 "
+"존재했던 자는 살인 희생자들을 위해 정의를 실현하고자 합니다. 그는 살인마가 가지고 있는 장부를 필요로 합니다. 장부는 '기우는 달'에 "
 "숨겨져 있습니다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
@@ -47997,7 +47998,7 @@ msgstr "우린 칼라크를 드루이드 숲에서 만났던 티플링 대장장
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9322
 msgctxt "h04c7c8a1ga058g4961g91efg87d36a4c291a"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. NodeID: Marker
 #. MarkerID: DEN_Weaponsmith
@@ -48116,7 +48117,7 @@ msgctxt "h7c9dc474g2933g455dgbd85gf62b08a84d98"
 msgid ""
 "We met Dammon sheltering in Last Light Inn. We should bring Karlach to talk "
 "to him."
-msgstr ""
+msgstr "우리는 최후의 빛 여관에 있는 담몬을 만났다. 칼라크를 데리고 와서 담몬에게 말을 걸자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -48125,7 +48126,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9367
 msgctxt "h28e7ed5fgee9eg4ad2g8e0fgc7926f6ba7d0"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. NodeID: Marker
 #. MarkerID: HAV_Weaponsmith
@@ -48193,7 +48194,7 @@ msgstr "우린 지옥 철을 찾았다. 담몬에게 가져가자."
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9392
 msgctxt "h9caf96d8g824bg4093g8fbdgbde89a6b8008"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -48238,7 +48239,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9409
 msgctxt "h584ab552g749cg4592g8216ge72a21b15a52"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -48257,7 +48258,7 @@ msgstr "우린 지옥 철을 찾았다. 담몬에게 가져가자."
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9420
 msgctxt "hda6c158bg1df9g4528ga5e0gb1e1d0ec786a"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -48307,7 +48308,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:67865
 msgctxt "h95ddfb7bgadadg465dg8810g4b055c0abba6"
 msgid "We saw Dammon in Baldur's Gate. We should bring Karlach to talk to him."
-msgstr ""
+msgstr "우린 발더스 게이트에서 담몬을 만났다. 칼라크를 데리고 와서 담몬에게 말을 걸자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -48316,7 +48317,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9451
 msgctxt "hfd11065bgc7ffg48b5g883cg28e2409c8383"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. NodeID: Marker
 #. MarkerID: LOW_Weaponsmith
@@ -48384,7 +48385,7 @@ msgstr "우린 지옥 철을 찾았다. 담몬에게 가져가자."
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9476
 msgctxt "h94d9fa99gb773g4e67gb427g938750f0706c"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -48429,7 +48430,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9493
 msgctxt "h756853c1g600ag4832g85f5ge60e41981a36"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -48467,7 +48468,7 @@ msgstr "우린 지옥 철을 찾았다. 담몬에게 가져가자."
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9518
 msgctxt "hc277896bg50fbg4672ga624g068d96ac6f46"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -48481,6 +48482,8 @@ msgid ""
 "can't keep going outside of the Hells. Karlach will die if she doesn't "
 "return to Avernus."
 msgstr ""
+"칼라크의 심장은 다시 강화되었지만, 담몬은 나쁜 소식을 전했다: 칼라크의 심장은 지옥 밖에서 버티지 못한다는 것이었다. 아베르누스로 다시 "
+"돌아가지 않는다면 칼라크는 죽게 될 것이다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -48534,6 +48537,8 @@ msgid ""
 "can't keep going outside of the Hells. Karlach will die if she doesn't "
 "return to Avernus."
 msgstr ""
+"칼라크의 심장은 다시 강화되었지만, 담몬은 나쁜 소식을 전했다: 칼라크의 심장은 지옥 밖에서 버티지 못한다는 것이었다. 아베르누스로 다시 "
+"돌아가지 않는다면 칼라크는 죽게 될 것이다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -48840,7 +48845,7 @@ msgstr "지옥 철을 찾자."
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:68520
 msgctxt "hd146ec1dg49ecg41b6gae5fg2d9bdfbfc462"
 msgid "Found some infernal iron! Maybe Dammon can use this."
-msgstr ""
+msgstr "지옥 철을 좀 찾았어! 담몬이 사용할 수 있을거야."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -48849,7 +48854,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9616
 msgctxt "h050c1869g173cg469fgaaefg4610e0e9c25c"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -48911,7 +48916,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9639
 msgctxt "hb38b6439ge7deg41d9g9d2fg4673df5d7e32"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -48949,7 +48954,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9664
 msgctxt "h078a1908g1b2eg40a6g9647ga556f088980a"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -48989,7 +48994,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9681
 msgctxt "haec2ac8fgd2f8g4d13gb952g34ac52ffeb6a"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -49027,7 +49032,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9706
 msgctxt "hf758db3bg646cg4cdbg83cag32807b6d7611"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -49066,7 +49071,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9723
 msgctxt "hf3ede86cg3adbg40cbga7fag6996d801c343"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -49106,7 +49111,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9748
 msgctxt "hadb76ac7g4ddcg4b59ga5f2g0e974b986333"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -49146,7 +49151,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9765
 msgctxt "h1ab340c4gc1d8g4394gaf97g0d6eeb51c451"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -49184,7 +49189,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9790
 msgctxt "h0758fa4bg9f39g4f55g8059g1912370f39dc"
 msgid "Talk to Dammon."
-msgstr ""
+msgstr "담몬과 대화하자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -49585,7 +49590,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:69376
 msgctxt "h56c4db73ge1b8g4376gbe19g84eb255f724b"
 msgid "Roveer's Storehouse"
-msgstr "로버의 창고"
+msgstr "로비어의 창고"
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -49596,7 +49601,7 @@ msgctxt "h59e9250dgced0g4b9ag8fa6g4e6d57ade02c"
 msgid ""
 "Chef Roveer wants us to kill the rats in his cellar. It's not clear why he "
 "can't just do this himself..."
-msgstr "로버 주방장은 우리가 지하실에 있는 쥐들을 정리해 주길 원한다. 왜 스스로 못하는 건지 모르겠다..."
+msgstr "로비어 주방장은 우리가 지하실에 있는 쥐들을 정리해 주길 원한다. 왜 스스로 못하는 건지 모르겠다..."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -49614,7 +49619,7 @@ msgstr "쥐들을 죽이자."
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:69403
 msgctxt "hca6195e4g1124g43c4gba5fgdccca3dab96c"
 msgid "The rats are dead. We should speak to Chef Roveer."
-msgstr "쥐떼를 몰살했다. 로버 주방장에게 말해야 한다."
+msgstr "쥐떼를 몰살했다. 로비어 주방장에게 말해야 한다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -49623,7 +49628,7 @@ msgstr "쥐떼를 몰살했다. 로버 주방장에게 말해야 한다."
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9890
 msgctxt "hcce880fag82a7g4cf6gbc19g7c5e3f97ce35"
 msgid "Speak to Chef Roveer."
-msgstr "로버 주방장에게 말하자."
+msgstr "로비어 주방장에게 말하자."
 
 #. NodeID: Marker
 #. MarkerID: LOW_SerialKiller_Character_Reevor
@@ -49633,7 +49638,7 @@ msgstr "로버 주방장에게 말하자."
 #: Mods/GustavDev/Story/Journal/Markers/7225c50f-938c-4fb5-b04b-06bc7017397f.lsx:8
 msgctxt "h8db5aa14gd420g46cbg813bg90b396c2b097"
 msgid "Murder Target: Roveer"
-msgstr "살해 대상: 로버"
+msgstr "살해 대상: 로비어"
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -49642,7 +49647,7 @@ msgstr "살해 대상: 로버"
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:69424
 msgctxt "ha4f84363g269cg48d8g99c4g52397de0b8d3"
 msgid "Chef Roveer was pleased and rewarded us."
-msgstr "로버 주방장은 기뻐했고 우리에게 보상했다."
+msgstr "로비어 주방장은 기뻐했고 우리에게 보상했다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID: Objective
@@ -49660,7 +49665,7 @@ msgstr "완료"
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:69450
 msgctxt "hf0249efdg321eg49c1g9a0fg3f7e312ea1b1"
 msgid "Roveer is gone - as is our chance of a reward."
-msgstr "로버는 보상을 받을 수 있는 기회와 함께 사라졌다."
+msgstr "로비어는 보상을 받을 수 있는 기회와 함께 사라졌다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -52316,7 +52321,7 @@ msgstr "카논의 침낭"
 #: Mods/GustavDev/Story/Journal/Markers/0c81801c-810e-4711-a9c8-2c0fc18747d2.lsx:8
 msgctxt "had8563efga0cfg430dga969g6b664b772020"
 msgid "Facemaker's Boutique"
-msgstr ""
+msgstr "페이스메이커 부티크"
 
 #. NodeID: Marker
 #. MarkerID: CRE_BluejayDigsite
@@ -52828,7 +52833,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/4b7efc78-b72b-4a18-8517-a8ca3704de12.lsx:8
 msgctxt "ha5ea6597g5415g4bd0g9dabg1092c48f4619"
 msgid "The Waning Moon"
-msgstr "저무는 달"
+msgstr "기우는 달"
 
 #. NodeID: Marker
 #. MarkerID: IRN_Hostage3
@@ -54069,4 +54074,4 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/404bd362-6de0-44ba-82e8-e5b1496fcbd1.lsx:8
 msgctxt "hff15dd09g2d16g4bb4gb498g312edb1b7934"
 msgid "Chef Roveer"
-msgstr "로버 주방장"
+msgstr "로비어 주방장"
