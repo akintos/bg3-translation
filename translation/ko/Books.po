@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-06 11:02+0900\n"
-"PO-Revision-Date: 2023-09-09 11:53+0000\n"
-"Last-Translator: 지나가던선비4 <kd971210@gmail.com>\n"
+"PO-Revision-Date: 2023-09-11 04:41+0000\n"
+"Last-Translator: 아나진 <whddnjs1127@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -12624,6 +12624,14 @@ msgid ""
 "a bit of use, the simpering knife-eared slug. You make him worth a damn. Now "
 "throttle that morality of yours, and fetch me vassals!'"
 msgstr ""
+"[<i>노움의 대부</i>의 저자가 집필한 <i>추방</i>은 훨씬 더 어두운 내용이 특징입니다. 아래와 같은 내용이 주를 이룹니다:]\n"
+"\n"
+"돌덩이 같은 이목구비를 찡그린 채 으르렁대며, 듀에르가의 신 라듀거가 포효했다.\n"
+"\n"
+"“침만 흘릴 줄 아는 사냥개 놈들. 내 기필코 네놈들의 거죽을 벗겨내겠다. 네놈들의 창자로 리라를 만들어 주마. 그걸로 연주한 음악이 내 "
+"궁전에 가득히 울려 퍼지겠지! 내 말을 잘 들어라, 이 침흘리개 잡종견들아. 노예제는 자유다. 자유는 힘든 결정과 책임감으로부터 오지. "
+"엘프를 노예로 삼을 때는 그 히죽대는 칼날귀 굼벵이에게 사슬을 달아 어디에라도 쓸모를 만들어 내야 한다. 어떻게든 가치 있게 만들어야 "
+"한다고. 너희들의 약해빠진 도덕심 따위는 전부 비틀어 죽여버리고, 나에게 노예를 대령해라!”"
 
 #. BookId = GLO_GeneralLoreBook_LegendsOfTheSeaBitch
 #. 
@@ -12645,6 +12653,7 @@ msgstr "바다 여왕의 분노"
 #. NodeID: TranslatedStringKey
 #. UUID: GLO_GeneralLoreBook_LegendsOfTheSeaBitch
 #: Public/GustavDev/Localization/generated_books.lsx:890
+#, fuzzy
 msgctxt "h71555171ga894g4800g9cdfg39f809974b2d"
 msgid ""
 "Long has the Water Queen's House served to retain the city's favour in the "
@@ -12660,6 +12669,15 @@ msgid ""
 "But if you cross the Sea Bitch, you may pay for it by a visit from her "
 "savage sahuagin servants. "
 msgstr ""
+"도시 그 자체라 할수 있는 선체들, 그리고 그들을 다루는 파도와 물의 여왕 움버리의 관장하에, 물의 여왕의 거처는 긴 시간동안 도시의 "
+"호의를 유지해 왔다.\n"
+"\n"
+"발더스 게이트의 위치는 소드 코스트의 교역의 중심지로서 자리 잡게 해주었지만, 여왕 움버리는 원한다면 도시 전체를 쉽게 소금물에 담궈 "
+"버릴수 있을것이다.\n"
+"여왕의 신전에 바쳐지는 공물들은 이 지역에 필수불가결한 평화의 유지와 그녀의 자비아래, 휴식을 바라며 해안을 방문하는 선원들이 끌려할 "
+"만한 안식처를 제공하기에 이른다.\n"
+"\n"
+"하지만 만약 바다의 악녀를 거스르게 된다면 , 그녀의 포악한 사하긴 하수인들의 방문으로 그 댓가를 치루게 될지도 모른다. "
 
 #. BookId = GLO_GeneralLoreBook_LowerCityAndUpperCity
 #. 
@@ -12789,7 +12807,6 @@ msgstr "목시의 칵테일 메뉴얼"
 #. NodeID: TranslatedStringKey
 #. UUID: GLO_GeneralLoreBook_MixologyManual
 #: Public/GustavDev/Localization/generated_books.lsx:3158
-#, fuzzy
 msgctxt "h809c7e56gf7cdg44fbg9102gdbdfd858e0bc"
 msgid ""
 "[This book is a crass but very comprehensive guide to mixing drinks. There's "
@@ -12800,10 +12817,10 @@ msgid ""
 "the text advises, or a cocktail maker if you must. Mixologist makes you "
 "sound like a pillock.]"
 msgstr ""
-"[이 책은 성의 없지만 매우 포괄적인 술을 혼합하는 것에 대한 안내서입니다. 진과 위스키 기반의 술에 대한 거대한 양의 장점과 보드카, "
-"베르무트, 그리고 럼 기반의 술에 대한 마찬가지로 많은 양의 폄하가 담겨 있습니다. 또한 혼합 기술자(전문가와 신예 둘 다)에게 대화에서 "
-"자신을 혼합 기술자라고 말하지 말라는 조언이 담겨 있습니다. 꼭 그래야 한다면 바텐더 내지는 칵테일 제작자라고 말하라고 책은 조언합니다. "
-"혼합 기술자라는 말은 당신을 바보같이 보이게 합니다.]"
+"[이 책은 술을 혼합하는 것에 대해 성의 없지만 매우 포괄적으로 쓰인 안내서입니다. 진과 위스키 베이스의 음료에 대한 엄청난 찬양과, 꼭 "
+"그만큼 보드카와 베르무트 그리고 럼 베이스의 음료를 폄하하는 내용이 담겨 있습니다. 또한 혼합 기술자들(전문가와 초보를 막론하고)에게 "
+"평소 대화에서 자신을 <i>혼합 기술자</i>라고 칭하지 말라는 조언이 담겨 있습니다. 책에 의하면, 대신 바텐더 내지는 칵테일 "
+"제작자라고 말하라고 조언합니다. <i>혼합 기술자</i>라는 말을 쓰면 좀 멍청해 보이니까요.]"
 
 #. BookId = GLO_GeneralLoreBook_MoradinTheSoulForger
 #. 
@@ -12844,6 +12861,17 @@ msgid ""
 "geology. Rather, unlike the growth of long bushy beards, it is learned "
 "behaviour. "
 msgstr ""
+"[\"영혼 대장장이\" 소개]\n"
+"\n"
+"드워프 신화는 그 이야기의 골조가 근대의 기술과 연관되어있어 매우 매혹적입니다. 이 골조는 철, 강철, 니켈, 구리 등 다양한 금속들로 "
+"합쳐져 합금화 되고 초고온에서 녹아 전설을 이루며 결합합니다.\n"
+"\n"
+"영혼의 대장장이자 모두의 아버지로 불리우는 <i>모라딘</i>은 드워프 종족을 아베어-토릴 행성의 깊은 곳에서 창조해냈다고 전해집니다. "
+"드워프들은 그 전설을 전승해가며 자기 자신들의 정체성을 대장장이 기술과 연결 짓습니다. 그들은 전설에 쓰여진 비유와 상징을 단숨에 "
+"광맥처럼 개척하고 그들의 문화에서 가치와 중요성을 탐구했습니다.\n"
+"\n"
+"드워프들은 그렇게 근면하고 단단하며 지질학에 능통한 것으로 태어나지 않습니다. 길고 뻣뻣한 수염과는 달리, 다만 후천적으로 학습될 "
+"뿐입니다.] "
 
 #. BookId = GLO_GeneralLoreBook_MotherOfHalflings
 #. 
@@ -12891,6 +12919,21 @@ msgid ""
 "men, not at all amused at the halflings' lack of sympathy for such a clever "
 "elder as this."
 msgstr ""
+"[이 글은 하플링의 수호자 대모이자 창조 군주인 욘달라에 대한 매력적인 단편들로 가득 차 있습니다. 한 단편은 다음과 같습니다.]\n"
+"\n"
+"\n"
+"옛날에 러밀레이크라 불렸던 어여쁘면서도 머리에 피도 안 마른 하플링들의 공동체가 있었습니다. 그 하플링들은 모두 젊었으며, 이제 막 "
+"형성된 공동체였기 때문에 활력적이고 힘이 넘쳤었죠. 그래서 모두가 먹여 살리고 치다꺼리하고 고치고 꿰매는 일에 손을 보탤 수 있었습니다. "
+"(그리고 기타 여러 가지요, 하플링들에게는 다양한 일이 있답니다.)\n"
+"\n"
+"그렇기 때문에 어느 할머니가 와서 공동체에 껴도 되냐고 물었을 때는 꽤 충격적이었습니다. 하플링들은 할머니에게 환영할 수는 없다고 "
+"말하고는 정중하게 그러나 단호하게 돌려보냈습니다. 할머니는 근처에 있는 숲속으로 가버렸죠. 러밀레이크 사람들은 할머니가 거기서 피신 할 "
+"줄은 몰랐을 테니 너무 나무라지는 마세요. 그 숲에서 살던 늑대인간 무리가 할머니를 털러 왔을 때, 욘달라께서는 할머니에게 바느질을 "
+"무지막지하게 빠르게 할 수 있는 바늘을 하사 했습니다.\n"
+"\n"
+"할머니는 늑대인간들에게 달 마다 그들이 변하는 만큼 늘어나는 옷을 짜주었고 늑대인간들은 할머니를 러밀레이크까지 데려다주었습니다. "
+"러밀레이크 사람들은 할머니를 받아 들였고, 이렇게 영리한 어르신에게 동정심이 부족 했다는 데에 기분이 나빴던 늑대인간들에게 야단과 꿀밤도 "
+"받았습니다."
 
 #. BookId = GLO_GeneralLoreBook_MysteriousMoonshae
 #. 
@@ -12924,6 +12967,12 @@ msgid ""
 "boat or fly (or swim, so long as they <i>move</i>) to Oman and any such fae-"
 "infested place, and rebuke this impertinence with great verve and vigour!"
 msgstr ""
+"[이 책은 거만한 투로 쓰여져 있지만 소드 코스트의 서쪽에 있는 군도인 문셰이 제도에 대한 유용한 통찰을 담고 있습니다. 한 구절은 "
+"다음과 같습니다.] 포모리안이라 일컬어지는 부풀어 오른 근육 거인들의 여왕 코노메가 문셰이 군도의 섬인 오만으로 가는 길을 찾아 내었다. "
+"그리고 자신의 충성스러운 친족들과 함께 오만 섬을 정복하고 있다. 이 저자의 겸허한 의견을 말하자면 페이와일드의 이 지속적인 범죄(우리 "
+"영역에 대한 코노메의 침공과 같은)는 합리적인 사고 방식의 소유자의 자부심을 우습게 보는 것이도다. 유능한 개인들은 배를 타거나 날아서 "
+"가거나(<i>움직일 수</i>만 있다면 수영을 해서라도) 오만 섬이나 페이 놈들이 들끓는 그런 곳들로 가 이 무례를 엄청난 열의와 "
+"열정으로 꾸짖어야만 한다!"
 
 #. BookId = GLO_GeneralLoreBook_OldBaldursMouthLettersPage
 #. 
@@ -12958,6 +13007,14 @@ msgid ""
 "yet, stop into Felogyr's Fireworks yourself and we can review some of our "
 "newer stock."
 msgstr ""
+"<b>그 난리법석에는 전혀 관심 없다고</b>\n"
+"우리 좋은 도시를 괴롭혀 대는 그 성가신 불꽃놀이의 폭증은 도저히 용납할 수가 없습니다! 이건 꼭 전쟁터에서 살고 있는 것만 같다고요.\n"
+"서명함, 너무 피곤한 시민.\n"
+"\n"
+"<b>펠로기르의 폭죽 가게에서 온 답변</b>\n"
+"친애하는 고객님께,\n"
+"저희가 고객님의 기운을 복돋아 줄 트위즐러 상자, 핫 쉔디, 그리고 리즐 스틱을 보내줄 수 있도록 고객님의 거주지를 답신 해주시길 "
+"바랍니다. 펠로기르의 폭죽 가게에 오셔서 저희의 최신 재고들을 확인하신다면 더욱 좋고요."
 
 #. BookId = GLO_GeneralLoreBook_PatriarsAHomegrownAristocracy
 #. 
@@ -12991,6 +13048,11 @@ msgid ""
 "turns. City life is a duck pond, the text seems to imply. Scum rises to the "
 "top.]"
 msgstr ""
+"[극도로 용감한 (혹은 자살적인) 언론 행위처럼 보이는 이 글은 발더스게이트의 상류층을 통렬히 비판하며 각 가문에 대한 비난을 가합니다. "
+"도시의 예술 박물관에 대한 후원금을 탐욕스럽게 독점하는 칼드웰 가문과 잔물결 위로 빠르고 거대한 상선 함대가 떠다니는 일렌트리스 가문, "
+"그리고 잉크와 염료, 장신구, 보석의 생산을 통제하는 레이븐쉐이드 가문이 그 비난의 대상입니다. 분노가 드러나는 각각의 모욕과 부의 "
+"변동에 따라 흥청거리는 각 가문에 대한 묘사와 함께 목록은 계속 이어집니다. 그리고 도시 생활이 마치 연못과도 같다고 시사 합니다. "
+"쓰레기들이 수면 위로 떠오르는 그런 연못 말입니다.]"
 
 #. BookId = GLO_GeneralLoreBook_QueenOfRavens
 #. 
@@ -13001,7 +13063,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/f52c87ca-1d03-4a6c-aadd-94e3861a2720.lsx:13
 msgctxt "hb47fdb4dga798g4eacg9173g61da3441d460"
 msgid "Queen of Ravens"
-msgstr ""
+msgstr "까마귀 여왕"
 
 #. key = GLO_GeneralLoreBook_QueenOfRavens
 #. 
@@ -13033,6 +13095,20 @@ msgid ""
 "\n"
 "So was born the Raven Queen, Mistress of Life and Death."
 msgstr ""
+"[아름답고 작은 그림들과 사건들에 대한 예술적인 묘사가 있어 작품의 다른 장들과는 대조적인 부분입니다. 내용은 다음과 같습니다.]\n"
+"\n"
+"엘프 신들 간의 충절이 깨졌을 때, 샤다르카이 엘프들의 숭배를 받고 있던 한 여자가 추종자들에게 자신을 신격으로 끌어 올리라고 명하였다. "
+"그녀가 이렇게 말하였다. '그리 하거라, 내가 우리의 부서진 만신전을 다시 벼릴테니.' 그리고 이렇게 말하였다. '그리 하거라, 내가 "
+"모든 것을 다시금 달콤하고 조화롭게 만들 터이니.'\n"
+"\n"
+"모두 그리 하였으나 반대파들은 신격의 승천 의식 도중에 그녀로부터 힘을 강탈하려고 하였다. 결정적인 순간에 그녀가 반대파들을 갈갈이 찢어 "
+"버렸으나 의식이 돌이킬 수 없을 정도로 방해 받자 여왕과 샤다르카이들은 자신들이 차원을 넘어 섀도펠이라 불리우는 기묘하고 끔찍한 영역으로 "
+"내던져지고 있다는 사실을 깨달았다.\n"
+"\n"
+"그 여정 중에 여왕은 죽었다. 그러나 그 더럽혀진 재로부터 자신의 야망 만큼이나 검은 양 눈과 검은 하인 새를 지닌 여왕이 다시 "
+"태어났으니,\n"
+"\n"
+"그 것이 삶과 죽음의 여주인인 까마귀 여왕의 탄생이었다."
 
 #. BookId = GLO_GeneralLoreBook_ReadingTheFog
 #. 
@@ -13042,10 +13118,9 @@ msgstr ""
 #. Icon: Item_BOOK_GEN_Book_Rich_A
 #. Stats: BOOK_GLO_GeneralLoreBook_ReadingTheFog
 #: Public/GustavDev/RootTemplates/bd7f6710-7282-4a2f-9eaf-b67f94854089.lsx:15
-#, fuzzy
 msgctxt "h2814bcbcga32cg4d84g99e5g29c56da65be7"
 msgid "Unpublished Portents"
-msgstr "알려지지 않은 흉조"
+msgstr "알려지지 않은 전조"
 
 #. key = GLO_GeneralLoreBook_ReadingTheFog
 #. 
@@ -13071,6 +13146,14 @@ msgid ""
 "Now those banks of fog have retreated, presenting an intriguing omen all its "
 "own..."
 msgstr ""
+"<i>알려지지 않은 전조</i> 케이티 로로크덴 씀\n"
+"\n"
+"대기점(대기의 상태를 통한 예지 행위)과 수기점(물을 통한 예지)의 혼합인 안개점은 실험적이지만 아직은 확신할 수 없는 방식입니다.\n"
+"\n"
+"그레이 하버와 발더스게이트의 예를 들어보죠. 예언자들은 이 곳을 뒤덮은 우윳 빛깔의 짙은 안개로 가면을 만들었고 그 가면에 나타난 표정은 "
+"원래 가면을 주문 했던 사람들의 삶에서 긍정적이거나 부정적인 결과를 나타내었습니다. \n"
+"\n"
+"이제 그 안개 무리가 물러남에 따라 가면들은 아주 흥미로운 징조를 자체적으로 제시하고 있습니다..."
 
 #. BookId = GLO_GeneralLoreBook_ScaledScionsOfAbeir
 #. 
@@ -13082,7 +13165,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/608bcdda-a4fb-402c-90ef-e63165fa5183.lsx:15
 msgctxt "h7cedd9a3g1fd7g4357gb819g8b7cb05ad25c"
 msgid "Scaled Scions of Abeir"
-msgstr ""
+msgstr "아베이르의 비늘 덮인 자손들"
 
 #. key = GLO_GeneralLoreBook_ScaledScionsOfAbeir
 #. 
@@ -13385,10 +13468,9 @@ msgstr ""
 #. Icon: Item_BOOK_Wizards_Tome_Simple_C
 #. Stats: BOOK_GLO_GeneralLoreBook_TheGnomefather
 #: Public/GustavDev/RootTemplates/0adc71a0-50c3-48c8-aca7-1d49f373372d.lsx:15
-#, fuzzy
 msgctxt "h5d85ee31g5c45g4d57gb8adg111861ebf95f"
 msgid "Gnomefather"
-msgstr "노움아비"
+msgstr "노움의 대부"
 
 #. key = GLO_GeneralLoreBook_TheGnomefather
 #. 
@@ -13409,6 +13491,11 @@ msgid ""
 "moon, the sun, and all the glinting stars if he could only answer three "
 "riddles. To which Garl said, 'Pull the other one. It has got bells on.' "
 msgstr ""
+"[<i>노움의 대부</i>의 서문은 이렇게 시작합니다:]\n"
+"\n"
+"신들 중에서 가장 화려하고, 사교적이며, 거짓이 넘치는 이는 (그러한 특성을 유쾌하게 풀어내는 노움들에겐 특히) 갈 글리터골드다. "
+"수수께끼 세 개만 맞추면 달이며 해며 반짝이는 별무리까지 주겠다던 미친 예언가 오스터펠드의 제안에 갈이 뱉은 대답은 노움들의 파티와 "
+"만찬에서 자주 쓰이는 구절이다. 갈이 대답하길, '말이 되는 소리를 하쇼.' "
 
 #. BookId = GLO_GeneralLoreBook_TheHalfOrcCannibalsAmongYou
 #. 
@@ -17110,6 +17197,13 @@ msgid ""
 "several sources. If this 'Emperor' really is a [REDACTED] we must take swift "
 "action to ensure [REDACTED] has not become [REDACTED]."
 msgstr ""
+"보고: 도시 정치에 영향력을 행사하는 신원 미상의 인물\n"
+"\n"
+"저희는 [검열됨] 혐의를 받는 자칭 '황제'라는 인물이 대공 의회 의원들을 포함한 도시 내의 영향력 있는 정치인에게 과도한 영향력을 "
+"행사하고 있다는 의심을 하게 되었습니다.\n"
+"\n"
+"사악한 의도가 보고된 적은 없으나, 이 인물의 비공식적이고 은밀한 활동이 일부에서 포착되었습니다. 만약 이 '황제'가 정말 [검열됨]라면 "
+"[검열됨]이 [검열됨]으로 변하지 않았는지 확인할 수 있도록 빠르게 행동을 취해야 합니다."
 
 #. BookId = LOW_BasiliskGate_OldGarlowsTip
 #. 
@@ -35511,7 +35605,7 @@ msgstr ""
 #: Public/Gustav/RootTemplates/8b4fc371-ec57-4ff3-ad24-49a00b1e2094.lsx:15
 msgctxt "h9bf67004gf254g480cg8297g4a277f2902b1"
 msgid "Taking the Groves Off the Table"
-msgstr ""
+msgstr "에메랄드 숲을 고립시켜라"
 
 #. key = MOO_MoonriseTowers_TakingTheGrovesOffTheTable
 #. 
@@ -35549,6 +35643,21 @@ msgid ""
 "Disciple Z'rell shall select an appropriate agent to parley with the Shadow "
 "Druid leaders. Eventually, all shall be infected with tadpoles."
 msgstr ""
+"케서릭 장군의 말씀을 수기사 얀수스가 작성\n"
+"\n"
+"드루이드들, 귀찮고 성가신 족속들이지 - 과거 일 때문에 얕잡아 볼 수도 없다. 주변에서 절대자들이 부흥하는 꼴을 앉아서 보고만 있을 "
+"족속도 아니거니와, 빨리 제거하지 않으면 큰 장애물이 될 것이다.\n"
+"\n"
+"이르건대, 에메랄드 숲과 클록우드 회합을 예로 들어보자. 직접 처리하려 들면 희생이 너무 커지겠지만, 어쩌면, 내부에서 분열시킬 방법이 "
+"있을지도 모른다.\n"
+"\n"
+"드루이드들이란 자연히 - 실실대지 마라, 얀수스 - 지적 생명체의 풍요로운 삶 따위보다 자연의 균형을 더 중시하는 법이고, 이 같은 "
+"정신을 대표하는 집단이 바로 그림자 드루이드들이다. 문명의 해악으로부터 드루이드 회합의 완전 분리를 주장하는 이들이지.\n"
+"\n"
+"그림자 드루이드들의 우두머리를 찾아 뇌물로 구워 삶고 위협하여 주무르면, 절대자들의 군대가 불결한 문명을 짓밟는 동안 드루이드 회합은 "
+"뒷짐지고 구경이나 하는 게 가장 현명한 행동이라고 판단하겠지.\n"
+"\n"
+"신봉자 즈'렐이 그림자 드루이드들의 우두머리들과 접견할 적당한 인원을 물색할 것이다. 결국, 모두 올챙이를 받아들이게 되리라."
 
 #. BookId =
 #. 
@@ -35570,7 +35679,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/5c4e573f-5dd5-4a38-8235-4aaef79f92b4.lsx:15
 msgctxt "h00ec82bfg2d08g445dg9d23gc7942f97ae83"
 msgid "Ketheric's Prayer"
-msgstr ""
+msgstr "케서릭의 기도"
 
 #. BookId = SCL_GeneralLoreBook_ObservationsOnTheShadowCurse
 #. 
@@ -35602,6 +35711,9 @@ msgid ""
 "pages near the book's end, you guess they did not get so far as they'd have "
 "liked.]"
 msgstr ""
+"[아침 태양의 신 라샌더를 섬기는 신관이 그림자 저주를 연구하고 탐사한 논문입니다. 겉보기에 그다지 깊은 통찰을 보여주지는 않지만, 해석 "
+"능력이 부족한 부분은 의지로 헤쳐나간 듯 보입니다. 이 신관은 희망에 차서 실험을 위해 저주받은 땅 깊숙이 들어가려 했지만, 책의 "
+"끝자락에 스며든 피를 봤을 때 원하는 곳까지 도달하지는 못한 것 같습니다.]"
 
 #. BookId = GLO_GeneralLoreBook_DeliciouslyNumb
 #. 
@@ -35612,7 +35724,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/75640de3-3fd3-4e3c-85bf-08be6fb8655e.lsx:15
 msgctxt "h5c06669dg6860g451eg9e27g371987da0641"
 msgid "Out of the Sausage Tube Into The Shadow"
-msgstr ""
+msgstr "소세지 줄기에서 그림자 속으로"
 
 #. key = GLO_GeneralLoreBook_DeliciouslyNumb
 #. 
@@ -35696,7 +35808,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/decaffc3-1d8c-44a8-bc49-3bd05858f58b.lsx:15
 msgctxt "hef3cfe07g64b3g45c3g97f6gd47b5502025c"
 msgid "Royal Orders"
-msgstr ""
+msgstr "왕실 명령"
 
 #. key = SCL_GithAmbushOrders
 #. 
@@ -35713,6 +35825,10 @@ msgid ""
 "Take back what is mine, else your punishment will be severe.\n"
 "<i>By order of your queen.</i>"
 msgstr ""
+"너희에게 요청된 의무를 다해라.\n"
+"침입자를 막아라.\n"
+"짐의 것을 되찾아오지 못하면 가혹한 형벌을 내리리라.\n"
+"<i>여왕의 명령이다.</i>"
 
 #. BookId = UND_FurnaceSearch_DisguisedDrowJournal
 #. 
@@ -45465,7 +45581,7 @@ msgstr ""
 #: Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:64118
 msgctxt "h3ddf12c7gffe0g4796g957ag2be37a67cd25"
 msgid "On Antidotes"
-msgstr "해독제 판매중"
+msgstr "해독제에 관하여"
 
 #. BookId = S_DEN_AntidoteRecipeBook
 #. 
@@ -46202,9 +46318,9 @@ msgstr ""
 "[여기부터 글씨가 깔끔해졌고, 분필도 새 것입니다.]\n"
 "\n"
 "<i>욱타르, 배 세 척이 항해한 해, 1492년 데일 최후의 날.</i>\n"
-"드루이드 회합 수장인 마스터 할신님과 용병들이 그 지역에 고블린이 매우 많다는 소식을 전한 후 돌아오지 않았다. 드루이드 회합의 차석 "
-"드루이드인 카그하님이 드루이드 숲의 기록 보관소를 내게 맡겼다. \n"
-"주목해야 할 첫 사건이 생겼다. 카그하님이 최고 드루이드의 위치로 오르셨다. 실바누스님은 우리를 마스터 할신님이 돌아올 때까지 집을 "
+"드루이드 회합 수장인 마스터 할신 님과 용병들이 그 지역에 고블린이 매우 많다는 소식을 전한 후 돌아오지 않았다. 드루이드 회합의 차석 "
+"드루이드인 카그하 님이 드루이드 숲의 기록 보관소를 내게 맡겼다. \n"
+"주목해야 할 첫 사건이 생겼다. 카그하 님이 최고 드루이드의 위치로 오르셨다. 실바누스님은 우리를 마스터 할신 님이 돌아올 때까지 집을 "
 "지키는 집사로 보내신 것이다. \n"
 "<i>하인 오란</i>"
 
@@ -50199,7 +50315,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:149300
 msgctxt "hbee8dc74g8f37g4a07ga068g1f96e1577274"
 msgid "Patient Log: Duke Belynne Stelmane"
-msgstr ""
+msgstr "간호일지: 벨린 스텔메인 공작"
 
 #. key = LOW_SewersBoosters_KoTS_StelmaneInvestigation
 #. 
@@ -50227,6 +50343,15 @@ msgid ""
 "Hoping for their return - visits appeared to ease the Duke's mind and body "
 "greatly."
 msgstr ""
+"[벨린 스텔메인 공작의 인장이 찍혀있는 일지입니다. 공작의 투병 기간 동안 쓰인 수행원의 간호 일지로 보입니다. 가장 최근의 항목에는 "
+"공작의 상태가 악화되었다는 내용이 자세히 기록되어 있습니다.]\n"
+"\n"
+"\n"
+"공작님 병의 악화 원인을 설명하기 어렵다. 공작님은 식욕도 없으시고, 매사에 관심도 보이지 않으신다. 가끔 방문자에 대한 안부를 묻는데, "
+"내 생각에는 이것이 병을 악화시킨 원인인 것 같다.\n"
+"예전에 후드와 망토를 뒤집어쓴 손님이 매주 공작님을 개인적으로 접견하곤 했다. 불행하게도 그자를 찾는 데는 운이 잘 따라주지 않는다. 그 "
+"방문자의 성별이나 체격이 잘 기억나지 않는다. 하프오크, 아니면 하플링이었을지도 모른다.\n"
+"공작님은 그자가 다시 돌아오기를 기다리시곤 하셨다. 그자의 방문은 공작님의 몸과 마음의 고통을 크게 덜어주었다."
 
 #. BookId = LOW_OskarsBeloved_RenovationNote
 #. 
@@ -51282,6 +51407,14 @@ msgid ""
 "\n"
 "<i>Important: Don't forget to change the code in a tenday!</i>"
 msgstr ""
+"[수 세기에 걸친 드워프 부족과 왕국들의 흥망을 기록해 둔 드워프 역사의 요약본입니다. 중요한 전투나 생일, 기일을 기록해 둔 페이지들이 "
+"있습니다. 1356년 부분에 동그라미가 쳐져 있고, 그 밑에는 누가 메모를 해 두었습니다.\n"
+"\n"
+"<b>1356</b>\n"
+"1356년에는 브루노어 배틀해머께서 섀도우 드래곤 시머글룸을 마주쳤고, 그 짐승을 쓰러뜨려 미스릴 홀의 팔왕의 자리에 걸맞음을 증명했도다."
+"\n"
+"\n"
+"<i>중요: 일주일 안에 암호 바꾸는 것을 까먹지 말 것!</i>"
 
 #. BookId = LOW_CountingHouse_Vault2_Diary
 #. 
@@ -51588,6 +51721,15 @@ msgid ""
 "RICHES\n"
 "WHERE IS HE"
 msgstr ""
+"[만지면 차갑고 습한 오래된 돌입니다. 표면에 조각된 글자들은 손재주 없는 사람이 힘들게 새겨 넣은 듯합니다.]\n"
+"\n"
+"어디 있습니까\n"
+"어디 있습니까\n"
+"약속된 삶\n"
+"영원한 삶\n"
+"영광\n"
+"부유\n"
+"어디 있습니까"
 
 #. BookId = LOW_DevilishOx_Note
 #. 
@@ -52324,7 +52466,7 @@ msgstr "[자위행위의 위험성을 경고하는 자기계발서입니다.]"
 #: Mods/GustavDev/Levels/CTY_LowerCity_A/Items/_merged.lsx:99406
 msgctxt "h93665558g639eg42f8gbb70g9ef1654195a5"
 msgid "Inner Peace: The Path to Perfection"
-msgstr ""
+msgstr "내면의 평화: 완벽으로 향하는 길"
 
 #. key = LOW_SelfHelpBook_4
 #. 
@@ -52834,6 +52976,22 @@ msgid ""
 "Know of these items you must, for if I fail to achieve immortality, they "
 "will persist, and dare I say, 'live' on beyond me."
 msgstr ""
+"[최소한 두 번은 다시 제본되었고, 궁극의 마법사 카서스 본인이 쓴 메모라고 주장하는, 손으로 써진 오래된 책입니다. 대부분은 위저드의 "
+"개인적인 암호이지만, 마지막 페이지는 평문으로 쓰여 있습니다.]\n"
+"\n"
+"내 위대한 승천 주문은 오직 나의 것이기에, 잉크와 양피지에 남길 수 없다. 하지만 내 마법을 물리적으로 구체화한 세가지 지고한 마법의 "
+"물건을 만들어 냈으니, 그에 대한 기록을 남기도록 하겠다.\n"
+"\n"
+"왕관, 보주, 그리고 홀. 각각이 살아있는 것과 다름 없고 각자의 힘과 목적을 가졌으며, 나는 이것을 카서스의 왕권이라 부른다.\n"
+"\n"
+"카서스의 왕관: 마법의 지식을 흡수하고 이끌며, 착용자에게 지배권을 주어 그가 위브로부터 떨어져 독립된 개체로 남을 수 있게 한다.\n"
+"\n"
+"카서스의 보주: 마법의 힘을 응축시킬 저장 기기이자 배터리, 영원히 힘을 모으기에 용량이 초과되면 반드시 힘을 짜내야 한다.\n"
+"\n"
+"카서스의 홀: 투영을 위한 기구, 상상도 못할 정도의 방대한 힘을 정확히 다루기 위해 초점을 맞추는 도구이다.\n"
+"\n"
+"내가 불멸에 다다르는 데 실패하고, 말하기도 두렵지만, 그들이 내가 죽은 후에도 '살아남아' 지속할 경우에 대비해, 그대는 반드시 이 "
+"물건들을 알아둬야만 한다."
 
 #. BookId = LOW_KurwinCoffin_CatManDiary1
 #. 
@@ -53109,7 +53267,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:48023
 msgctxt "h55dab81fg28aeg4a65g8534ga9a95974a6a9"
 msgid "Map to Bhaal Temple"
-msgstr ""
+msgstr "바알 신전으로 가는 지도"
 
 #. key = LOW_MurderTribunal_LOW_MurderTribunal_MapBhaalTemple
 #. 
@@ -53128,6 +53286,10 @@ msgid ""
 "your way into the Undercity Ruins. Blood the skull to pass the door. Follow "
 "the trail of murder to the Bhaal Temple Door. Praise Bhaal!"
 msgstr ""
+"[이 지도 스케치에는 바알 신전으로 가는 길이 점선으로 표시되어 있습니다. 스케치 아래에 설명이 약간 적혀 있습니다.]\n"
+"\n"
+"도시 하수구에 진입하기 위해 둥근 거리 해치를 이용할 것. 북서쪽으로 이동하면 언더시티 유적으로 가는 길이 나올 것임. 문을 통과하기 "
+"위해 해골에 피를 흘릴 것. 살인의 길을 따라 바알 신전의 문까지 갈 것. 바알을 숭배하라!"
 
 #. BookId = LOW_SorcerousSundries_NightsongThreat
 #. 
@@ -53222,7 +53384,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:70434
 msgctxt "h42131262gb081g46e3ga7b6g8d08a4a01b18"
 msgid "STOP - Do Not Open"
-msgstr ""
+msgstr "정지 - 개봉 엄금"
 
 #. key = LOW_SteelWatchFoundry_NoteOnDoor
 #. 
@@ -61604,7 +61766,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:30846
 msgctxt "h7d9c8050g05f2g4bd2ga942ge41bcf91bd27"
 msgid "Ffion's Journal"
-msgstr "피퐁의 일지"
+msgstr "피온의 일지"
 
 #. key = WYR_SharessCaress_LibrarianJournal
 #. 
@@ -62128,6 +62290,10 @@ msgid ""
 "disciplined. Cannot keep them from the city indefinitely, but Steel Watch "
 "will buy us time."
 msgstr ""
+"[이 더러운 종이는 전장에서 급하게 보낸 듯합니다.]\n"
+"\n"
+"스틸 워치가 제 몫을 함. 절대자의 군대는 수가 많고, 사납지만, 훈련이 안 되어 있음. 계속 도시로 가는 걸 막을 수는 없겠으나, 스틸 "
+"워치가 시간을 벌어줄 것임."
 
 #. BookId = LOW_BasiliskGate_CitizenComplaints
 #. 
@@ -62269,6 +62435,10 @@ msgid ""
 "\n"
 "Thus die all traitors to the state and city of Baldur's Gate."
 msgstr ""
+"오늘, 4인회의 전 참사관인 플로릭은 반역, 반란 유발, 불온 분자 선동으로 기소되어 고등 판사 앞에서 비공개로 재판 받고, 유죄를 선고 "
+"받았으니, 이에 합당하게 교수형을 통한 사형에 처한다.\n"
+"\n"
+"국가와 발더스 게이트시에 반역하는 자는 모두 이리 죽을 것이다."
 
 #. BookId = LOW_BasiliskGate_FoundryLocation
 #. 
@@ -62355,6 +62525,13 @@ msgid ""
 "\n"
 "Duke Ulder Ravengard"
 msgstr ""
+"대공실에서 전함.\n"
+"\n"
+"잊지 마라! 상부 도시의 모든 출입을 무기한 통제한다. 지금은 어떤 문의도 받지 않겠다.\n"
+"\n"
+"보안을 강화하라.\n"
+"\n"
+"대공 얼더 레이븐가드"
 
 #. BookId = LOW_BasiliskGate_StoneLordReports
 #. 
@@ -62417,6 +62594,11 @@ msgid ""
 "New security legislation will permit use of detainment as a deterrent to "
 "sabotage."
 msgstr ""
+"주의 사항\n"
+"진격해 오는 절대자 신도 군대의 위협이 해소될 때까지 근무시간을 두 배로 늘린다.\n"
+"숨기는 게 있거나 지시를 따르지 않으려는 시민을 조심하도록.\n"
+"직접 증거가 충분하지 않아도 위험이 예상된다면 체포해도 좋다.\n"
+"보안 법령이 바뀌어 파괴 공작의 예방을 위한 구금은 허용된다."
 
 #. BookId = LOW_BonecloakApothecary_AilmentHelp
 #. 
