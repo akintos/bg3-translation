@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-06 11:02+0900\n"
-"PO-Revision-Date: 2023-09-13 16:37+0000\n"
-"Last-Translator: 평범남 <aaasioa@naver.com>\n"
+"PO-Revision-Date: 2023-09-15 05:37+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3568,7 +3568,7 @@ msgstr "대상이 도움을 받을 수 없습니다."
 #: Public/Shared/ErrorDescriptions/ConditionErrors.lsx:470
 msgctxt "hc6765e0dg1e93g4f56gb8dag6cc964a15dfd"
 msgid "Can't be Threatened."
-msgstr "위협할 수 없습니다."
+msgstr "위협받음 상태에서는 불가합니다."
 
 #. FilePath: Public/Shared/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID: ConditionErrors
@@ -4871,7 +4871,7 @@ msgstr "오르쏜은 지옥으로 되돌아갔으며 더 이상 소환 할 수 �
 #: Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:388
 msgctxt "h65d6a730gb473g44a3g87a3ge4889bc31c3b"
 msgid "Lady Keene's personal guard has fallen in battle."
-msgstr "여군주 키네의 직속 호위병들이 전투에서 쓰러졌습니다."
+msgstr "여군주 킨의 직속 호위병들이 전투에서 쓰러졌습니다."
 
 #. FilePath: Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID: ConditionErrors
@@ -13915,7 +13915,7 @@ msgstr ""
 #: Public/SharedDev/Progressions/ProgressionDescriptions.lsx:330
 msgctxt "h9668848cgbebeg485ag8472g67911518310a"
 msgid "Strongheart Resilience"
-msgstr "스트롱하트의 탄력"
+msgstr "스트롱하트의 회복력"
 
 #. FilePath: Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID: ProgressionDescription
@@ -17016,7 +17016,7 @@ msgstr "매 소서러 레벨 당 최대 <LSTag Tooltip=\"HitPoints\">체력</LST
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:1022
 msgctxt "hb328af45g663eg4cb8g93c9g6be43f154431"
 msgid "Draconic Resilience: Hit Points"
-msgstr "드래곤의 탄력: 체력"
+msgstr "드래곤의 회복력: 체력"
 
 #. FilePath: Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID: ProgressionDescription
@@ -17038,7 +17038,7 @@ msgstr ""
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:1029
 msgctxt "hf2ac1616gc18ag4736g9182g14d5121ad684"
 msgid "Draconic Resilience: Armour Class"
-msgstr "드래곤의 탄력: 방어도"
+msgstr "드래곤의 회복력: 방어도"
 
 #. FilePath: Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID: ProgressionDescription
@@ -17852,7 +17852,7 @@ msgstr ""
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:1368
 msgctxt "h0dd4b839g464fg4860g8c40gb0fab7ea3090"
 msgid "Dwarven Resilience"
-msgstr "드워프의 탄력"
+msgstr "드워프의 회복력"
 
 #. FilePath: Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID: ProgressionDescription
@@ -18460,7 +18460,7 @@ msgstr ""
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:1630
 msgctxt "hf8fabb12g7d2bg4c25g83d3g06448013c57a"
 msgid "Strongheart Resilience"
-msgstr "스트롱하트의 탄력"
+msgstr "스트롱하트의 회복력"
 
 #. FilePath: Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID: ProgressionDescription
