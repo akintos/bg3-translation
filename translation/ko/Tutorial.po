@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-06 11:03+0900\n"
-"PO-Revision-Date: 2023-09-15 05:37+0000\n"
+"PO-Revision-Date: 2023-09-16 06:37+0000\n"
 "Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -2237,9 +2237,9 @@ msgid ""
 "\n"
 "[IE_ToggleInGameMenu] Open Spellbook"
 msgstr ""
-"당신은 다른 형상을 취했습니다. 형상을 해제하여 본 모습으로 돌아갈 수 있습니다. 몇몇 주문 시전자(마법사, 드루이드, 클레릭, 팔라딘)"
-"는 마법을 다재다능하게 다루어 전투 중이 아닐 때도 다양한 주문을 미리 준비할 수 있습니다. 직업별 사용가능한 주문 목록은 레벨이 "
-"올라갈수록 증가하며, 이중 마법사는 주문서를 통해서도 새로운 주문을 배울 수 있습니다.\n"
+"몇몇 주문 시전자(위저드, 드루이드, 클레릭, 팔라딘)는 놀랍도록 마법을 다재다능하게 다루며, 전투 중이 아닐 때 다양한 주문을 미리 "
+"준비할 수 있습니다. 클래스 별 사용가능한 주문 목록은 레벨이 올라갈수록 증가하며, 이중 위저드는 주문 두루마리를 통해서도 새로운 주문을 "
+"배울 수 있습니다.\n"
 "\n"
 "[IE_ToggleInGameMenu] 주문책 열기"
 
@@ -2282,11 +2282,11 @@ msgid ""
 "\n"
 "[IE_ToggleSpells] Open Spellbook"
 msgstr ""
-"당신은 다른 형상을 취했습니다. 형상을 해제하여 본 모습으로 돌아갈 수 있습니다. 몇몇 주문 시전자(마법사, 드루이드, 클레릭, 팔라딘)"
-"는 마법을 다재다능하게 다루어 전투 중이 아닐 때도 다양한 주문을 미리 준비할 수 있습니다. 직업별 사용가능한 주문 목록은 레벨이 "
-"올라갈수록 증가하며, 이중 마법사는 주문서를 통해서도 새로운 주문을 배울 수 있습니다.\n"
+"몇몇 주문 시전자(위저드, 드루이드, 클레릭, 팔라딘)는 놀랍도록 마법을 다재다능하게 다루며, 전투 중이 아닐 때 다양한 주문을 미리 "
+"준비할 수 있습니다. 클래스 별 사용가능한 주문 목록은 레벨이 올라갈수록 증가하며, 이중 위저드는 주문 두루마리를 통해서도 새로운 주문을 "
+"배울 수 있습니다.\n"
 "\n"
-"[IE_ToggleInGameMenu] 주문책 열기"
+"[IE_ToggleSpells] 주문책 열기"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -2374,6 +2374,13 @@ msgid ""
 "[IE_ToggleSpells] Action Radial Menu <LSTag Type=\"Image\" Info="
 "\"TutorialHide\"/> [IE_ToggleSneak] Toggle Hide"
 msgstr ""
+"숨어 있는 동안 적을 공격하면 <LSTag Tooltip=\"AttackRoll\">공격</LSTag> 시 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>이 주어지며 이는 로그의 <LSTag Type=\"Spell\" Tooltip="
+"\"Target_SneakAttack\">암습 공격</LSTag>에 반드시 필요한 조건입니다. 대상의 뒤에 있을 필요 없이 적의 "
+"시야에서만 숨어있으면 됩니다.\n"
+"\n"
+"[IE_ToggleSpells] 행동 원형 메뉴 <LSTag Type=\"Image\" Info=\"TutorialHide\"/> "
+"[IE_ToggleSneak] 은신 토글"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -2399,7 +2406,7 @@ msgstr "적의 시야에서 벗어나 숨으세요. 숨은 공격자는 공격�
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:295
 msgctxt "h4ce1385fg332fg4273g91c4g64d8513844fa"
 msgid "<LSTag Type=\"Image\" Info=\"TutorialHide\"/> [IE_ToggleSneak] Hide"
-msgstr ""
+msgstr "<LSTag Type=\"Image\" Info=\"TutorialHide\"/> [IE_ToggleSneak] 숨기"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -2415,6 +2422,13 @@ msgid ""
 "\n"
 "<LSTag Type=\"Image\" Info=\"TutorialHide\"/> [IE_ToggleSneak] Toggle Hide"
 msgstr ""
+"숨어 있는 동안 적을 공격하면 <LSTag Tooltip=\"AttackRoll\">공격</LSTag> 시 <LSTag Tooltip="
+"\"Advantage\">이점</LSTag>이 주어지며 이는 로그의 <LSTag Type=\"Spell\" Tooltip="
+"\"Target_SneakAttack\">암습 공격</LSTag>에 반드시 필요한 조건입니다. 대상의 뒤에 있을 필요 없이 적의 "
+"시야에서만 숨어있으면 됩니다.\n"
+"\n"
+"[IE_ToggleSpells] 행동 원형 메뉴 <LSTag Type=\"Image\" Info=\"TutorialHide\"/> "
+"[IE_ToggleSneak] 은신 토글"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -6551,7 +6565,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1228
 msgctxt "h0a1de833g9d4bg43dfg9d5fg9cdf6534f6c8"
 msgid "Illithid Powers"
-msgstr ""
+msgstr "일리시드 능력"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -6570,6 +6584,8 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialIllithidPowers\"/> "
 "[IE_UIToggleTadpolePowers] Open Illithid Powers Menu to unlock new abilities"
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialIllithidPowers\"/> "
+"[IE_UIToggleTadpolePowers] 새로운 능력을 개방하기 위해 일리시드 능력 메뉴 열기"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -6996,6 +7012,14 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu \n"
 " <LSTag Type=\"Image\" Info=\"TutorialMap\"/> Open Map"
 msgstr ""
+"지도는 모험을 하면서 탐험한 지역을 보여줍니다. 더 멀리 여행할수록 더 많은 세계가 지도에 표시됩니다. 지도를 통해 퀘스트 위치와 사용자 "
+"지정 마커를 볼 수 있으며, 발견된 웨이포인트들로 즉시 이동할 수 있습니다.\n"
+"게임상에 있는 캐릭터도 지도에 색깔이 있는 원형으로 표시됩니다. 녹색은 아군, 빨간색은 적, 노란색은 중립입니다. 이 원형 근처의 작은 "
+"화살표는 캐릭터가 당신보다 아래에 있는지 위쪽에 있는지 나타냅니다.\n"
+"이동중에는 화면 모서리에 미니맵이 표시됩니다. 미니맵의 작동 방식은 옵션 메뉴에서 변경할 수 있습니다.\n"
+"\n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialMap\"/> 지도 열기"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -7036,6 +7060,13 @@ msgid ""
 "\n"
 "[IE_ToggleMap] Open Map"
 msgstr ""
+"지도는 모험을 하면서 탐험한 지역을 보여줍니다. 더 멀리 여행할수록 더 많은 세계가 지도에 표시됩니다. 지도를 통해 퀘스트 위치와 사용자 "
+"지정 마커를 볼 수 있으며, 발견된 웨이포인트들로 즉시 이동할 수 있습니다.\n"
+"게임상에 있는 캐릭터도 지도에 색깔이 있는 원형으로 표시됩니다. 녹색은 아군, 빨간색은 적, 노란색은 중립입니다. 이 원형 근처의 작은 "
+"화살표는 캐릭터가 당신보다 아래에 있는지 위쪽에 있는지 나타냅니다.\n"
+"이동중에는 화면 모서리에 미니맵이 표시됩니다. 미니맵의 작동 방식은 옵션 메뉴에서 변경할 수 있습니다.\n"
+"\n"
+"[IE_ToggleMap] 지도 열기"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
