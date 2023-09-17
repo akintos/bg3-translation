@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-06 11:03+0900\n"
-"PO-Revision-Date: 2023-09-15 05:37+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-09-17 08:37+0000\n"
+"Last-Translator: icepeng <lseeei7@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -256,7 +256,6 @@ msgstr "자리스의 요원들은 죽은 채 누워있다. 자리스에게 화�
 #. ObjectiveID: PLA_ZhentShipment_GnollsGone_GetCargo
 #. QuestID: PLA_ZhentShipment
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:974
-#, fuzzy
 msgctxt "h8fe18c89gd48ag40f5gaae1gaa77f7835574"
 msgid "Take the shipment."
 msgstr "화물을 챙기자."
@@ -352,10 +351,9 @@ msgstr "임무를 끝내기 전에 젠타림을 적으로 돌려 버렸다."
 #. ID: LeftAct
 #. Objective: PLA_ZhentShipment_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:338
-#, fuzzy
 msgctxt "h8199e0a5g734dg4349gbeafg38669b2f6775"
 msgid "We left before fully investigating the shipment and its owners."
-msgstr "우리는 상자를 찾지 않고 그 지역을 떠났다."
+msgstr "우리는 화물과 소유자에 대해 충분히 조사하기 전에 그 지역을 떠났다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -482,7 +480,6 @@ msgstr "은신처에 무사히 들어왔다. 이제 대장이 누군지 찾자."
 #. ObjectiveID: PLA_ZhentShipment_GnollsGone_TalkToZarys
 #. QuestID: PLA_ZhentShipment
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1068
-#, fuzzy
 msgctxt "hb7913b32g80e2g4ea6g8ffbg0f6af8c4d1e5"
 msgid "Speak with the Zhentarim leader."
 msgstr "젠타림 지도자와 대화해보자."
@@ -827,7 +824,6 @@ msgstr "무사히 드루이드 숲을 빠져나왔다. 삿자가 고블린 숙�
 #. ObjectiveID: DEN_CapturedGoblin_FindGoblins
 #. QuestID: DEN_CapturedGoblin
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:120
-#, fuzzy
 msgctxt "hccb545a4g4746g40f4gbf93g656a0e7b7094"
 msgid "Reach the Goblin Camp."
 msgstr "고블린 숙영지에 도착하자."
@@ -848,10 +844,9 @@ msgstr "삿자를 풀어주었다. 이제 드루이드의 숲에서 탈출하는
 #. ObjectiveID: DEN_CapturedGoblin_Escape
 #. QuestID: DEN_CapturedGoblin
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:109
-#, fuzzy
 msgctxt "h39a5f371g840cg4467gbaf6g989ea050acd9"
 msgid "Escort Sazza out of the Emerald Grove."
-msgstr "삿자를 숲 밖으로 데려가자."
+msgstr "삿자를 에메랄드 숲 밖으로 데려가자."
 
 #. NodeID: Marker
 #. MarkerID: DEN_CapturedGoblin_Getaway
@@ -998,10 +993,9 @@ msgstr "볼로가 협박을 받아 고블린들 앞에서 공연하는 것을 �
 #. ID: VoloEscaped
 #. Objective: DEN_VoloAdventure_Meet
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:1283
-#, fuzzy
 msgctxt "hb9886104g49c1g4d2agadbeg65f4687dccd2"
 msgid "Volo freed himself from captivity - perhaps we'll meet again."
-msgstr "우린 볼로를 구했다. 나중에 다시 만날 것 같다."
+msgstr "볼로는 스스로 감옥에서 탈출했다. 아마 다시 만날 수 있을 것이다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: Quest
@@ -3339,12 +3333,11 @@ msgstr "오스카가 죽었다."
 #. ID: ArtistFled
 #. Objective: GLO_DoubtingArtist_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:4541
-#, fuzzy
 msgctxt "hbe02b295g1910g475bgba9cg8fc03088ee52"
 msgid ""
 "We called Oskar our slave after freeing him from the Zhentarim, which led to "
 "a sour goodbye."
-msgstr "오스카에게 이제 우리 노예라고 말했더니, 도망쳤다. 혼자 살아남긴 힘들 것이다."
+msgstr "오스카를 젠타림에서 해방시킨 후 노예로 취급했고, 씁쓸한 작별로 이어졌습니다."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -17623,10 +17616,9 @@ msgstr "할신이 숲을 구원하도록 도왔다. 그가 티플링과 드루�
 #. ObjectiveID: DEN_Conflict_SUB_Halsin_Return
 #. QuestID: DEN_Conflict_SUB_Halsin
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2132
-#, fuzzy
 msgctxt "ha4842243ga04ag4c1bg8773ga669513a17ce"
 msgid "Meet Halsin in the Emerald Grove."
-msgstr "할신과 숲에서 만나자."
+msgstr "할신과 에메랄드 숲에서 만나자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
@@ -17645,10 +17637,9 @@ msgstr "고블린들이 숲을 향한 습격을 시작했다. 할신은 그들�
 #. ObjectiveID: DEN_Conflict_SUB_Halsin_Defend
 #. QuestID: DEN_Conflict_SUB_Halsin
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2121
-#, fuzzy
 msgctxt "hd6b5b036gf038g42cegbeafg313d8c87a700"
 msgid "Defend the Emerald Grove from the goblins."
-msgstr "고블린으로부터 숲을 지키자."
+msgstr "고블린으로부터 에메랄드 숲을 지키자."
 
 #. FilePath: Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID: QuestStep
