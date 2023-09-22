@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-06 11:03+0900\n"
-"PO-Revision-Date: 2023-09-21 05:37+0000\n"
+"PO-Revision-Date: 2023-09-22 13:37+0000\n"
 "Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -2139,7 +2139,6 @@ msgstr ""
 #. NodeID: UnifiedTutorial
 #. TutorialName: Bardic inspiration
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:246
-#, fuzzy
 msgctxt "he90b8435g77d2g46ffgb8bdg0ea85086d58d"
 msgid ""
 "Bardic Inspiration can be given to allies to spend on improving a <LSTag "
@@ -2185,7 +2184,6 @@ msgstr "[IE_ToggleReactions] 반응 행동 관리"
 #. NodeID: UnifiedTutorial
 #. TutorialName: Bardic inspiration
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:251
-#, fuzzy
 msgctxt "h24994d28gd7cag4151g8231g5be225141b99"
 msgid ""
 "Bardic Inspiration can be given to allies to spend on improving a <LSTag "
@@ -2614,6 +2612,10 @@ msgid ""
 "higher level spell slots to cast at a higher level - sometimes having "
 "additional effects. "
 msgstr ""
+"워락은 다른 직업에 비해 <LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag> 시 회복되는 주문 슬롯의 수가 "
+"제한됩니다. 다양한 레벨의 주문 슬롯 대신 적은 수의 강력한 주문 슬롯을 지니며, 기원과 <LSTag Tooltip=\"Cantrip\""
+">소마법</LSTag>으로 이를 보완합니다. 워락의 주문은 자동으로 가장 높은 레벨의 주문 슬롯을 사용해 해당 레벨의 주문을 시전하며, "
+"때론 추가 효과를 지닙니다. "
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -2648,6 +2650,10 @@ msgid ""
 "higher level spell slots to cast at a higher level - sometimes having "
 "additional effects. "
 msgstr ""
+"워락은 다른 직업에 비해 <LSTag Tooltip=\"ShortRest\">짧은 휴식</LSTag> 시 회복되는 주문 슬롯의 수가 "
+"제한됩니다. 다양한 레벨의 주문 슬롯 대신 적은 수의 강력한 주문 슬롯을 지니며, 기원과 <LSTag Tooltip=\"Cantrip\""
+">소마법</LSTag>으로 이를 보완합니다. 워락의 주문은 자동으로 가장 높은 레벨의 주문 슬롯을 사용해 해당 레벨의 주문을 시전하며, "
+"때론 추가 효과를 지닙니다. "
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -2757,7 +2763,7 @@ msgctxt "h77101425ge81dg4591g9bb5g9d27bea66caa"
 msgid ""
 "The Action Radial Menu shows your actions and bonus actions, such as spells "
 "and attacks."
-msgstr ""
+msgstr "행동 원형 메뉴는 주문이나 공격과 같은 행동과 추가 행동이 표시됩니다."
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -2765,7 +2771,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:377
 msgctxt "h67d0d94eg6bc9g4c01g978fg69bccfcfd6b7"
 msgid "[IE_UIMove] Navigate Options"
-msgstr ""
+msgstr "[IE_UIMove] 둘러보기 옵션"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -2773,7 +2779,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:378
 msgctxt "hb05016fdg26e2g4f77gb079g669b6a9f9a1a"
 msgid "Selecting Actions"
-msgstr ""
+msgstr "행동 선택"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -2936,7 +2942,7 @@ msgstr ""
 msgctxt "hcb1dc286g9c98g401eg8438ga526bc6a3117"
 msgid ""
 "When you're finished taking actions and moving, press the End Turn button."
-msgstr ""
+msgstr "행동과 이동을 마치면 턴 종료 버튼을 누르세요."
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -3152,6 +3158,8 @@ msgid ""
 "[IE_ToggleSpells] Open Action Radial Menu\n"
 "[IE_ToggleGroupStealth] Select Hide"
 msgstr ""
+"[IE_ToggleSpells] 행동 원형 메뉴 열기\n"
+"[IE_ToggleGroupStealth] 숨기"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -3465,6 +3473,9 @@ msgid ""
 " <LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> <LSTag Type=\"Image\" "
 "Info=\"TutorialCureWounds\"/> Help Downed character"
 msgstr ""
+"[IE_ToggleSpells] 행동 원형 메뉴 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> <LSTag Type=\"Image\" "
+"Info=\"TutorialCureWounds\"/> 쓰러진 캐릭터 돕기"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -3502,7 +3513,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:523
 msgctxt "hd1e2b63ag0429g4c85ga08cgb335903c3244"
 msgid "Use the Help action to free Nightsong from Ketheric's Soul Cage."
-msgstr ""
+msgstr "도와주기 행동을 사용해 케서릭의 영혼 감옥에서 나이트송을 구하세요."
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -3513,6 +3524,8 @@ msgid ""
 "[IE_ToggleSpells] Open Action Radial Menu\n"
 " <LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> Help character"
 msgstr ""
+"[IE_ToggleSpells] 행동 원형 메뉴 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> 캐릭터 돕기"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -3520,7 +3533,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:525
 msgctxt "h1b20a54dgbcb5g4df0gaf63gd8e7a00a8dc6"
 msgid "Freeing Nightsong"
-msgstr ""
+msgstr "나이트송 구출하기"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -3530,7 +3543,7 @@ msgctxt "hfd6a787bg9e8cg4087g9ab8g23d75951277a"
 msgid ""
 "Nightsong is trapped in Ketheric's Soul Cage - but she can be freed from it "
 "by using the Help action on her."
-msgstr ""
+msgstr "나이트송은 케서릭의 영혼 감옥에 갇혀있지만 도와주기 행동을 통해 그녀를 풀어줄 수 있습니다."
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
@@ -3538,7 +3551,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:528
 msgctxt "h8ce71d9fg8db5g45cbgb007g384ba5742a32"
 msgid "<LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> Help character"
-msgstr ""
+msgstr "<LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> 캐릭터 돕기"
 
 #. FilePath: Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID: UnifiedTutorial
