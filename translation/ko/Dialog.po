@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:39+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-09-24 04:37+0000\n"
+"Last-Translator: Ascaloth#3438 <nepheris12@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/CombatCinematics/Arena/ARENA_TestLevel_001
 #. Speaker = Player
@@ -24379,12 +24381,11 @@ msgstr "*여러 인간의 얼굴들입니다. 도플갱어들이 이 그림을 �
 #. NodeID = 43687bd1-ff1e-a1d3-6006-f1c40221c91e
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_BaldursGate_AD_UpperCityClosedOffSign:43687bd1-ff1e-a1d3-6006-f1c40221c91e
-#, fuzzy
 msgctxt "he485ed1fg97d8g4731g84c1gfdc4315c7607"
 msgid ""
 "*No admission to the Upper City until further notice. Residents may queue up "
 "and wait.*"
-msgstr "*별도의 공지전까진 어퍼 시티에 입장할 수 없습니다. 거주민은 줄을 서서 기다릴 순 있겠군요.*"
+msgstr "*별도의 공지가 있기 전까지는 상부 도시에 입장할 수 없습니다. 거주민들이 줄을 서서 기다리겠군요.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_BaldursMouth_AD_AbandonedManualPrinter
 #. Speaker = Narrator
@@ -25170,10 +25171,9 @@ msgstr "*평온히 잠들었기를, 코너. 그리고 저 위에서는 행복하
 #. NodeID = c34fd026-a4f5-9360-8c60-bb33096ed4f2
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_MourningChildTomb:c34fd026-a4f5-9360-8c60-bb33096ed4f2
-#, fuzzy
 msgctxt "hc1b8cce8g5c92g4b33g8ad9g220e29df832b"
 msgid "*Rest in peace, Janina - Beloved Mother, gone too soon.*"
-msgstr "*자니나 여기 잠들다. 너무 일찍 가버리신 사랑하는 어머니.*"
+msgstr "*그곳에선 평안하길. 너무 일찍 떠나신 사랑하는 어머니.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_MourningDwarfTombstone
 #. Speaker = Narrator
@@ -25444,7 +25444,7 @@ msgstr "*마이티 브랜웸. 적과의 싸움 중 명예롭게 사망*"
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_Tombstone_20:d68bfc14-5e99-d184-7bcd-eb0461c1de0a
 msgctxt "h72e8abf3g637fg4691g9c77gd6db1d9706a5"
 msgid "*Gwynn Highberry - Stillborn but Not Forgotten*"
-msgstr "*그윈 하이베리 - 세상에 나오지도 못했지만 널 잊지 못할 거야*"
+msgstr "*그윈 하이베리 - 세상에 나오지도 못한 우리 아이 널 잊지 못할거야*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_Tombstone_21
 #. Speaker = Narrator
@@ -25544,7 +25544,7 @@ msgstr "*이곳에 아나 마리가 뉘어있다. 나의 유모, 동시에 친�
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_Tombstone_30:604aaa5d-e9b4-21d1-4c04-50aa1cc3c4e0
 msgctxt "had352995gf030g4dd7gbe63gaaaa883a4245"
 msgid "*Here lies Bargus Freely. He should've lookt before he leapt.*"
-msgstr "*여기 바르거스 프릴리가 뉘어있다. 이 녀석아. 밑은 보고 뛰었어야지.*"
+msgstr "*여기 바르거스 프릴리가 잠들어있다. 이 녀석아. 밑은 보고 뛰었어야지.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_Tombstone_31
 #. Speaker = Narrator
@@ -25764,7 +25764,6 @@ msgstr "*이 묘비의 문구는 새겨지다 중단 되었습니다. 그냥 '�
 #. NodeID = d3025b8e-98c8-6520-fa95-362f9e763974
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_MurderTribunal_AD_ShopTombstone06:d3025b8e-98c8-6520-fa95-362f9e763974
-#, fuzzy
 msgctxt "h8156e38ag463fg4d02ga2d5g2442aa295fc6"
 msgid "*Beloved Reynald. Father, husband, duck-breeder. Gone too soon.*"
 msgstr "*사랑하는 아버지이자 남편, 오리 사육사인 레이날드. 너무 일찍 떠났어요.*"
@@ -25879,7 +25878,7 @@ msgstr "*위*"
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_RamazithTowerTraps_AD_Artillery:5c345e0a-25e4-08b0-ef51-2b4bada2cf67
 msgctxt "h9262a9e6g8302g4ff3g83f4gdc7724a6236e"
 msgid "*Artillery*"
-msgstr ""
+msgstr "*포대*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_RamazithTowerTraps_AD_Below
 #. Speaker = Narrator
@@ -25888,7 +25887,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_RamazithTowerTraps_AD_Below:eeb96420-07b4-999c-37c4-006104cbfe6f
 msgctxt "h7e34cc65g7b11g4520gb837g0a33cfcd4adb"
 msgid "*Below*"
-msgstr ""
+msgstr "*아래*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_RamazithTowerTraps_AD_Cleanup
 #. Speaker = Narrator
@@ -25906,7 +25905,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_RamazithTowerTraps_AD_Security:12c62c98-f2bd-25bb-dd9c-d31d4579641e
 msgctxt "h06bf28adg878dg4e75gb870gc215fe2bd51e"
 msgid "*Security*"
-msgstr ""
+msgstr "*경비실*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_RamazithTowerTraps_AD_Vaults
 #. Speaker = Narrator
@@ -26444,7 +26443,7 @@ msgctxt "h98bc9b0cg3b57g4481g91b4g151f1289a78a"
 msgid ""
 "*Ketheric Thorm dishonoured the very bones of his ancestors to make this "
 "totem to Myrkul.*"
-msgstr "*머큘에 바치는 이 토템을 만들기 위해, 케서릭 쏨은 조상들의 유골을 욕보였습니다.*"
+msgstr "*머큘에게 바치는 토템을 만들기 위해, 케서릭 쏨은 조상들의 유골을 더럽혔습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/SHA_Mausoleum_AD__KethericExperiment2
 #. Speaker = Narrator
@@ -26587,6 +26586,8 @@ msgid ""
 "*Here lies Michaeus\n"
 "Taken before his time*"
 msgstr ""
+"*여기 미케우스가 잠들어 있다.\n"
+"너무나도 일찍 떠나버린.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone11
 #. Speaker = Narrator
@@ -26608,7 +26609,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone12:523e9e4e-df4f-4e4f-5e2e-654acf6a2512
 msgctxt "h5b122fabg4f16g47f0ga63cg3d4fce40088a"
 msgid "*Here lies faithful Jamie, the love of all our lives*"
-msgstr ""
+msgstr "*우리 모두가 사랑한, 믿음직한 제이미가 여기 잠들다*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone13
 #. Speaker = Narrator
@@ -26620,6 +26621,8 @@ msgid ""
 "*Here lies the best smith in Reithwin\n"
 "Our swords will never slice as true*"
 msgstr ""
+"*라이스윈 최고의 대장장이가 여기 잠들다\n"
+"이제 우리의 검은 결코 예전같지 못하리라.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone14
 #. Speaker = Narrator
@@ -26630,7 +26633,7 @@ msgctxt "h81480e86gbb99g4352g9887gbf82efcdd36b"
 msgid ""
 "*Here rests Kallister Freeclaw, legendary brawler. Died in his sleep, to the "
 "surprise of many.*"
-msgstr ""
+msgstr "*전설적인 싸움꾼, 칼리스터 프리클로가 여기서 휴식을 취하다. 놀랍게도 침대에서 죽음을 맞이했노라.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone15
 #. Speaker = Narrator
@@ -26639,7 +26642,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone15:5a4d14d6-896f-1c29-16f5-404eccd84aa6
 msgctxt "hb1cbdb93g8e75g42f6g9d42gf780a17644d8"
 msgid "*Here lies Thomasin Feverbreaker, midwife and wise woman.*"
-msgstr ""
+msgstr "*현명한 여인이자 산파였던 토마신 피버브레이커, 여기 잠들다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone16
 #. Speaker = Narrator
@@ -26661,7 +26664,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone17:cfea642e-6d15-acbe-5098-c18190c6b0f1
 msgctxt "h9f56503dgaa5bg4216gaef7g5444cbaf451f"
 msgid "*Here lies Brunnt Hallow, man of few words.*"
-msgstr ""
+msgstr "*과묵한 남자 브런트 할로우, 여기 잠들다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone18
 #. Speaker = Narrator
@@ -26723,7 +26726,7 @@ msgctxt "hbca632c8g8365g41c2g8c8dg43945240e1c0"
 msgid ""
 "*Here rests Darla Crivens, taken along with her family on the same grim "
 "night. May their deaths be avenged."
-msgstr "*암울했던 그날 밤, 가족들과 함께 끌려간 달라 크리벤스(Darla Crivens) 여기 잠들다. 그들의 복수가 이루어지길.*"
+msgstr "*암울했던 그날 밤, 가족들과 함께 끌려간 달라 크리벤스, 여기 잠들다. 그들의 복수가 이루어지길.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone23
 #. Speaker = Narrator
@@ -26734,9 +26737,7 @@ msgctxt "h350bd47dg9069g4cffga015g69bab3053f86"
 msgid ""
 "*Here lies Largo Crivens the Younger, taken along with his family on the "
 "same grim night. May their deaths be avenged."
-msgstr ""
-"*암울했던 그날 밤, 가족들과 함께 끌려간 라르고 크리벤스 2세(Largo Crivens the Younger) 여기 잠들다. 그들의 "
-"복수가 이루어지길.*"
+msgstr "*암울했던 그날 밤, 가족들과 함께 끌려간 라르고 크리벤스 2세, 여기 잠들다. 그들의 복수가 이루어지길."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone24
 #. Speaker = Narrator
@@ -26780,7 +26781,7 @@ msgctxt "h0273fa6bg0433g4dccg8a0ag94b9c0fa16fc"
 msgid ""
 "*Here rests Errick Crivens, sole inheritor of the Crivens family. May the "
 "gods forgive him.*"
-msgstr ""
+msgstr "*크라이븐스 가문의 유일한 상속자 에릭 크라이븐스가 여기 잠들다. 신들께서 그를 용서해주시길.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone28
 #. Speaker = Narrator
@@ -26789,7 +26790,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone28:8eafe392-e1fb-97b0-cbb9-28dab6e2a10c
 msgctxt "hdc017c54g6ff2g4665g9d4ag4954cd187074"
 msgid "*Here lies Petyr Vreeze; scholar and hermit.*"
-msgstr ""
+msgstr "*탐구자이자 은둔자, 페티르 프리즈가 여기 잠들다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone29
 #. Speaker = Narrator
@@ -26800,7 +26801,7 @@ msgctxt "hde58876bg3925g4ba8gaf7dg11a87506ca5a"
 msgid ""
 "*In Memory of Tora Deeproot. Dearly missed by her fourteen children, and "
 "ninety-six grandchildren.*"
-msgstr ""
+msgstr "*토라 딥루트를 기리며. 그녀의 14명의 자식들과 96명의 손주들이 그녀를 그리워 할 것.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone3
 #. Speaker = Narrator
@@ -26810,7 +26811,7 @@ msgstr ""
 msgctxt "h74fa36a5gef75g4d97gb9a7g801e07ee0258"
 msgid ""
 "*In memory of Ruven Cawley, who lived stoically and died without complaint.*"
-msgstr ""
+msgstr "*욕심없이 살다 불평 없이 죽은 루벤 코울리를 기리며.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone30
 #. Speaker = Narrator
@@ -26819,7 +26820,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone30:2f2ca074-d533-6a02-3b91-828e778849d5
 msgctxt "h88de3af9g50a0g45f9g9e2dgd36286f7d913"
 msgid "*Here lies Jarrick Crumm; lifelong bachelor and patron of the arts.*"
-msgstr ""
+msgstr "*홀몸으로 평생을 예술의 후원에 몸 바쳤던 제릭 크럼, 여기 잠들다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone31
 #. Speaker = Narrator
@@ -26830,7 +26831,7 @@ msgctxt "h054805c0g5ff2g42aegb812g445dd5479505"
 msgid ""
 "*Here rests Patryck Foundy, famed tailor and teetotaller. He clothed many a "
 "man's back.*"
-msgstr ""
+msgstr "*유명한 재단사이자 금주가였던 패트릭 파운디가 여기 잠들다. 생전에 많은 이들의 옷을 만들어주었노라.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone32
 #. Speaker = Narrator
@@ -26841,7 +26842,7 @@ msgctxt "h8cf6b1e0gdc4eg4b7eg9c36g71b13ca98560"
 msgid ""
 "*Dedicated to Rondall Peake, stonemason. Never missed a day's work due to "
 "illness, barring his last.*"
-msgstr ""
+msgstr "*석공 로날드 피크를 기리며. 마지막 순간을 제외하곤 병적으로 그의 손에서 일을 놓지 않았습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone33
 #. Speaker = Narrator
@@ -26850,7 +26851,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone33:8228d98e-97a5-30ed-d33e-cbb31923898e
 msgctxt "h2e5a6f37g8679g4528g8de2gd49a5b4ba02f"
 msgid "*Here lies Becklan Ironlaw. May the gods usher him to his reward.*"
-msgstr ""
+msgstr "*여기 베크란 아이언로우가 잠들다. 신께서 그의 보상으로 인도해주시길.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone34
 #. Speaker = Narrator
@@ -26861,7 +26862,7 @@ msgctxt "h38489eaeg84f2g48adg9c38g779472723c92"
 msgid ""
 "*In memory of Frinz Lockley, baker. None could work miracles with yeast as "
 "he did.*"
-msgstr ""
+msgstr "*제빵사 프린즈 로클리를 기리며. 누구도 그가 이스트로 행한 기적을 다시 볼 순 없으리라.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone35
 #. Speaker = Narrator
@@ -26879,7 +26880,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone36:8b155123-7cc7-728b-b63b-6834d8051f1d
 msgctxt "h864a4c3bg3cefg4f93gb96dgcb8f40044ccb"
 msgid "*Here lies the Captain. Of what, we never knew.*"
-msgstr ""
+msgstr "*여기 캡틴이 잠들어있다. 어떤 종류의 캡틴이였는지 우리는 앞으로 알지 못할 것입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone37
 #. Speaker = Narrator
@@ -26890,7 +26891,7 @@ msgctxt "h4554521bg073ag496eg9da9gb857e20fd1c3"
 msgid ""
 "*In memory of Eggory Chopps, toymaker, and patron of mischievous children "
 "all over.*"
-msgstr ""
+msgstr "*장난감 제작자이자 모든 말썽꾸러기 어린이들의 후원자였던 에고리 촙스를 기리며*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone38
 #. Speaker = Narrator
@@ -26910,7 +26911,7 @@ msgctxt "h1c9e78adg9f5bg4ca9g96daga19a7ba563ff"
 msgid ""
 "*Here lies Sionn Greencloak. She loved the forest - may she find it once "
 "again.*"
-msgstr ""
+msgstr "*숲을 사랑했던 그녀, 시온 그린크락 여기 잠들다. 다시 한번 숲의 품으로 되돌아 갔기를.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone4
 #. Speaker = Narrator
@@ -26919,7 +26920,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone4:1807f98a-e378-e2a2-bb62-eefd9c18b246
 msgctxt "hf28574eeg7ae4g4ff2g85abg71ce750b773e"
 msgid "*Behold the mortal remains of Marvey Bullows, town crier. Died loudly.*"
-msgstr ""
+msgstr "*포고자, 마비 벌로우의 최후를 보라. 갈때도 시끄럽게 갔노라.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone40
 #. Speaker = Narrator
@@ -27003,6 +27004,8 @@ msgid ""
 "*Here lies Gertrude 'The Monsoon' Rafferty\n"
 "She came and went like a natural disaster*"
 msgstr ""
+"*거트루드 '몬순' 래퍼티가 여기 잠들다.\n"
+"그녀는 자연재해처럼 왔다 갔노라.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_WaningMoon_AD_Distillery_Blackboard1
 #. Speaker = Narrator
@@ -27058,7 +27061,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/WYR_WyrmsFortress_AD_AmoryWantedPoster01:55a184df-dcfd-6d25-7ac0-9dfd20a917d4
 msgctxt "h2dcfae42g68fdg4ddfg91b9g41020c021d8f"
 msgid "*Wanted: Ironhand gnomes.*"
-msgstr ""
+msgstr "*수배: 아이언핸드 노움.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/WYR_WyrmsFortress_AD_AmoryWantedPoster02
 #. Speaker = Narrator
@@ -27069,7 +27072,7 @@ msgctxt "h90473eaeg972ag4421g9eb3g094bc5ad5835"
 msgid ""
 "*Wanted: Party of adventurers with designs against the city. Armed and "
 "dangerous. Approach with caution.* "
-msgstr ""
+msgstr "*수배: 도시를 향한 음모를 꾸미고 있는 모험가 파티. 무장했으며 매우 위험함. 접근 시 주의할 것.* "
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/WYR_WyrmsFortress_AD_AmoryWantedPoster03
 #. Speaker = Narrator
@@ -27080,7 +27083,7 @@ msgctxt "h5cd5db57gf997g4141gb7f9g01488f861bc9"
 msgid ""
 "*Wanted: 'The Stone Man' - leader of a dangerous criminal enterprise. "
 "Reported to travel with a mouse.* "
-msgstr ""
+msgstr "*수배: '돌 인간' - 위험한 범죄 조직의 지도자. 쥐와 함께 행동한다고 보고됨.* "
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/WYR_WyrmsFortress_AD_ArmoryHeadHuntingPaper
 #. Speaker = Narrator
@@ -27091,7 +27094,7 @@ msgctxt "h7b7cb4a3g0256g4490ga8f5gdff787c511ee"
 msgid ""
 "*To the Flaming Fist: A bonus of 10 Silver on successful recruitment of "
 "friends or acquaintances to our ranks.* "
-msgstr ""
+msgstr "*플레이밍 피스트와 함께하라: 친구나 지인을 입단시키면 10 실버 보너스.* "
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/WYR_WyrmsFortress_AD_ArmoryWarningPaper
 #. Speaker = Narrator
@@ -27103,6 +27106,8 @@ msgid ""
 "*Let none transgress on this blessed day. Lord Gortash's ceremony will "
 "proceed without hindrance. Non-compliance will be punished.*"
 msgstr ""
+"*이 축복받은 날에 누구도 죄를 짓지 않게 하십시오. 고타쉬 경의 의식은 차질 없이 진행될 것이며, 이를 어길시에는 벌을 받게 될 "
+"것입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/WYR_WyrmsFortress_AD_GortashPoster
 #. Speaker = Narrator
@@ -27114,6 +27119,7 @@ msgid ""
 "*Lord Enver Gortash - handsome, noble, authoritative. He watches over the "
 "city, seeing everything.* "
 msgstr ""
+"*엔버 고타쉬 경 - 잘생기고, 고귀하며, 권위를 갖춘 인물입니다. 그의 시선은 도시 전체를 아우르며, 모든 것을 지켜봅니다. * "
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27123,7 +27129,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:0e8ef6f1-d065-431f-9206-5e26d78f5fa9
 msgctxt "hd2dffe13gf5d1g45f7gb7e0g87adbaf71201"
 msgid "That was wise."
-msgstr ""
+msgstr "현명한 결정이었어요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27133,7 +27139,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:0e8ef6f1-d065-431f-9206-5e26d78f5fa9
 msgctxt "h841084e3g49d3g4096gaf18g88cbaf729a11"
 msgid "That was wise."
-msgstr ""
+msgstr "현명한 결정이었어요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27163,7 +27169,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:1f9a4976-ea24-4b77-8604-e733f5d3ce10
 msgctxt "h2929078cg011eg41dbgbeabg01504db8f5d2"
 msgid "Don't be afraid."
-msgstr ""
+msgstr "두려워하지 마세요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27173,7 +27179,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:1f9a4976-ea24-4b77-8604-e733f5d3ce10
 msgctxt "h03e4e939ge644g451ag80d9ge734b85e822b"
 msgid "Don't be afraid."
-msgstr ""
+msgstr "두려워하지 마세요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27223,7 +27229,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:67fe7d46-6e17-1f0d-b7ab-f8c4e36e8901
 msgctxt "h85d0aba9g3b93g4e01g874agaeeded3c4aed"
 msgid "Sometimes I wish you'd listen to the voice in your head."
-msgstr ""
+msgstr "가끔은 머릿속의 목소리에 귀를 기울여줬으면 좋겠어요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27233,7 +27239,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:782a567c-e4e0-426c-8504-153e9dac39cd
 msgctxt "hd1fbae9eg9542g4dbbgadabge0c452dd36d1"
 msgid "You continue to surprise me."
-msgstr ""
+msgstr "계속해서 저를 놀라게 하는군요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27243,7 +27249,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:782a567c-e4e0-426c-8504-153e9dac39cd
 msgctxt "h7826dac4g374eg4a41g966bg9328f51fb57b"
 msgid "You continue to surprise me."
-msgstr ""
+msgstr "계속해서 저를 놀라게 하는군요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27253,7 +27259,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:7cb3907f-9609-1867-6f01-738ce3a72ddc
 msgctxt "hcb184b74g67fcg40d7gbe1fgf129fd0bfe60"
 msgid "Use the salami!"
-msgstr ""
+msgstr "살라미를 사용하세요!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27263,7 +27269,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:90b187d9-7013-4a53-a21e-12cbfc91c74d
 msgctxt "ha78bb204g5f71g4980g9115g55058013bcd7"
 msgid "Impressive."
-msgstr ""
+msgstr "인상적이군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27273,7 +27279,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:90b187d9-7013-4a53-a21e-12cbfc91c74d
 msgctxt "hdf63c613g55a5g4976g9ee2g338ca5fa8327"
 msgid "Impressive."
-msgstr ""
+msgstr "인상적이군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27367,7 +27373,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:a2ad0d7a-50fe-4c8e-b2ed-44b1663d0331
 msgctxt "h7c44f2a9g71dfg4d30g976dg658acfcdbf37"
 msgid "I knew you would do that."
-msgstr ""
+msgstr "해낼 줄 알았어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27377,7 +27383,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:a2ad0d7a-50fe-4c8e-b2ed-44b1663d0331
 msgctxt "h1f3be351geb8bg4531g9a12gb6908898bdfc"
 msgid "I knew you would do that."
-msgstr ""
+msgstr "해낼 줄 알았어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27477,7 +27483,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:e66a280c-b51f-49e8-9cf6-f416f1ae8e8b
 msgctxt "h6cecc866g500cg4fa1g9cb0g0f9049726ef1"
 msgid "Good."
-msgstr ""
+msgstr "좋아."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27487,7 +27493,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:e66a280c-b51f-49e8-9cf6-f416f1ae8e8b
 msgctxt "hc788b307g038eg44b3g99c9g82f97c82793e"
 msgid "Good."
-msgstr ""
+msgstr "좋아."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27497,7 +27503,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:eb822180-b1d1-4bf3-b1d0-690a1d91882c
 msgctxt "h75184825g59d2g4ccfgad0bg784ade78659d"
 msgid "Don't go there."
-msgstr ""
+msgstr "가지 마."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27507,7 +27513,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:eb822180-b1d1-4bf3-b1d0-690a1d91882c
 msgctxt "he8f4a90cg546cg4ad4g8394gd4753e9715b8"
 msgid "Don't go there."
-msgstr ""
+msgstr "가지 마."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27517,7 +27523,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:ec0195bd-a188-4891-b8d4-e7a4f8e2924d
 msgctxt "h4a7aa047g0b31g45b3g9c7agd837db307f9e"
 msgid "Don't do that."
-msgstr ""
+msgstr "그러지 마."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27527,7 +27533,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:ec0195bd-a188-4891-b8d4-e7a4f8e2924d
 msgctxt "h052df78bg056fg4d54ga357gfa1273e4470c"
 msgid "Don't do that."
-msgstr ""
+msgstr "그러지 마."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -39106,7 +39112,7 @@ msgstr "도와주지 않으면 죽을 거야."
 #: Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_LowHealth:bc09a8f9-f691-410c-8f9e-6e1f14e856b8
 msgctxt "h3f8f5787g259bg41e4gbf52g2caadaaf0fe0"
 msgid "Straj. A grievous wound."
-msgstr "빌어먹을. 심각한 상처로군."
+msgstr "스트라지. 심각한 상처로군."
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_LowHealth
 #. Speaker = Player
@@ -39376,7 +39382,7 @@ msgstr "또 미믹이군. 망할 것들."
 #: Mods/Gustav/Story/Dialogs/Generics/GLO_PAD_Mimic_Surprised:5bb26954-9e91-7e9d-c5b7-e9e64e339f2c
 msgctxt "hf2c1fef6g2907g412dg9f97g7b3fc38f6ee5"
 msgid "Down, Mimic. Heel! <i>Straj</i> - why do they not obey me?"
-msgstr "엎드려, 미믹. 따라와! <i>Straj</i> 왜 내 말을 따르지 않지?"
+msgstr "엎드려, 미믹. 따라와! <i>스트라지,</i> 왜 내 말을 따르지 않지?"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Generics/GLO_PAD_Mimic_Surprised
 #. Speaker = Player
@@ -39814,7 +39820,7 @@ msgstr "한 전사가 보이는군. 투사가. 내가 어떤 존재가 될 운�
 #: Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror:a50b973d-9a87-41fe-b7f6-beea86b30291
 msgctxt "h605d6e6agab5bg4f26gad90gad4d4a7664a3"
 msgid "A mirror. Riveting."
-msgstr ""
+msgstr "거울이라. 아주 인상적이네."
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror
 #. Speaker = Player
@@ -40179,7 +40185,7 @@ msgstr "흠... 저게 뭐지?"
 #: Mods/Gustav/Story/Dialogs/Generics/GLO_PerceptionSuccess:3beb679e-a804-a260-9f17-7c1acfd5729a
 msgctxt "h2ddeccb4g96dfg4991g8f01g09f09675870b"
 msgid "Something over there."
-msgstr "저기에 뭔가 있어."
+msgstr "뭔가 있어."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Generics/GLO_PerceptionSuccess
 #. Speaker = Player
@@ -44507,7 +44513,7 @@ msgstr "크르르!"
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:5cc0388d-c316-7992-a89b-b1a9f2d9f78d
 msgctxt "h11828b44g1439g4daeg91ebg175a11555e0e"
 msgid "Arrest them!"
-msgstr ""
+msgstr "저놈들을 잡아!"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
 #. Speaker = GROUP_Animals
@@ -44519,7 +44525,7 @@ msgstr ""
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:5cc0388d-c316-7992-a89b-b1a9f2d9f78d
 msgctxt "h3ec6653cg0bc8g403dgbd7fg70d30f429781"
 msgid "You're coming with me! "
-msgstr ""
+msgstr "넌 내게서 못 벗어난다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
 #. Speaker = GROUP_Animals
@@ -45748,7 +45754,7 @@ msgstr "나의 승천은 너의 죽음만큼이나 필연적이다. "
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:0f6e02e1-1799-4df4-9a2e-b1d58da23426
 msgctxt "hfca1dd70g4168g42b5gb8b1gfc18a317631f"
 msgid "By your end will I know eternity. "
-msgstr ""
+msgstr "너의 죽음으로 나는 영원을 알게 되리라. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
 #. Speaker = GROUP_Animals
@@ -45760,7 +45766,7 @@ msgstr ""
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:0f6e02e1-1799-4df4-9a2e-b1d58da23426
 msgctxt "hc610e655g9d24g4ee3g9fafgaa184fad3dca"
 msgid "I will have your submission! "
-msgstr ""
+msgstr "네 복종을 받아내겠다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
 #. Speaker = GROUP_Animals
@@ -45772,7 +45778,7 @@ msgstr ""
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:102a2b5b-ed0f-4f21-a0b9-20f25049c87c
 msgctxt "h6ae17e09g5907g476dg8399g8fd88b4c0d2b"
 msgid "The Absolute's will be done."
-msgstr ""
+msgstr "절대자의 뜻은 이루어질 것이다."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
 #. Speaker = GROUP_Animals
@@ -45784,7 +45790,7 @@ msgstr ""
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:102a2b5b-ed0f-4f21-a0b9-20f25049c87c
 msgctxt "h3c02b84fg0249g47f8g885fg0b757f71ca94"
 msgid "This isn't over."
-msgstr ""
+msgstr "아직 끝나지 않았다."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
 #. Speaker = GROUP_Animals
@@ -45796,7 +45802,7 @@ msgstr ""
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:17af94e3-077e-4ac4-ba43-12fceeadf0df
 msgctxt "hbe59c53bg1dc0g464cg9a7dgcbb4ad3d7735"
 msgid "Crawling in the shadows is it? I'll sniff it out! "
-msgstr ""
+msgstr "어둠 속을 기어다니고 있느냐? 내가 찾아내 주마! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
 #. Speaker = GROUP_Animals
@@ -48171,7 +48177,7 @@ msgstr "떠들러 온 거 아니잖아. 생산적인 일을 해봐."
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_CompanionCantTalk:367aebf0-a1e2-2a9d-1af4-a158488ef891
 msgctxt "h67dfbcd5gcfdfg4692g991bgdd67c8f61603"
 msgid "Now's not a good time - my hands are full."
-msgstr "대화하기엔 지금 손이 바쁘군."
+msgstr "지금은 아니야. 할 일이 많다고."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_CompanionCantTalk
 #. Speaker = Player
@@ -50324,6 +50330,9 @@ msgid ""
 " <i>-absolute agents-- </i>\n"
 " <i>KILL THEM!</i>"
 msgstr ""
+"침입자 \n"
+" <i>-절대자 요원-- </i>\n"
+" <i>죽여라!</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_SteelWatchersAttack
 #. Speaker = Disembodied Voice
@@ -50356,14 +50365,13 @@ msgstr ""
 #.     - c29ef198-474a-59da-a898-0864730b16e9_A = False
 #.     - c29ef198-474a-59da-a898-0864730b16e9_B = False
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_SteelWatchersAttack:7aeeb9a3-5667-4828-9bef-691ec729d7d8
-#, fuzzy
 msgctxt "h6d8f9b84g146fg4179gba5fgfd717da9d8d4"
 msgid ""
 "<i>-spies-- --ABSOLUTISTS-- </i>\n"
 " <i>-enemies-- </i>\n"
 " DIE"
 msgstr ""
-"<i>-첩자-- --절대자의 신도-- </i>\n"
+"<i>-첩자-- --절대자 신도-- </i>\n"
 " <i>-적-- </i>\n"
 " 죽어라"
 
@@ -51439,7 +51447,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler:2d5667bf-14cf-bd62-7fa1-fcd44c157c5c
 msgctxt "h3c279903ga6d2g4643g93d8g4ed08546ef64"
 msgid "How <i>dare </i>you? My life is my Master's alone to steal."
-msgstr ""
+msgstr "어떻게 <i>감히</i>? 제 생명을 빼앗을 수 있는 것은 제 주인님 뿐입니다."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler
 #. Speaker = Sceleritas Fel
@@ -52060,7 +52068,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler:9ebc8acc-202d-21aa-9987-a02f7886a956
 msgctxt "hb8c87783gfc1eg4da0ga32fge89b14de9883"
 msgid "MMMMMMRRRRM."
-msgstr ""
+msgstr "으으으읍읍."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler
 #. Speaker = Sceleritas Fel
@@ -52555,7 +52563,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler_AD_AttackedNPC:392ad953-d8e3-4dd9-9375-ce1756298965
 msgctxt "h464a9b5cgc64bg4719ga9f2g06686bd177f1"
 msgid "You're lucky! You get to be killed by the Master!"
-msgstr ""
+msgstr "운이 좋으시군요! 당신은 주인님께 살해당할 것입니다!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler_AD_AttackedNonDU
 #. Speaker = Sceleritas Fel
@@ -52564,7 +52572,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler_AD_AttackedNonDU:04f3a4c3-8afd-2c2d-0602-7bd4e6c99d86
 msgctxt "hc3c351c3g4e18g4e90gae60g4b9e5cb792b2"
 msgid "Only the Master is allowed to hurt me like that!"
-msgstr ""
+msgstr "내게 이런 고통을 줄 수 있는 건 주인님 뿐입니다!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler_AD_Help
 #. Speaker = Sceleritas Fel
@@ -52573,7 +52581,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler_AD_Help:3215f2c1-5172-496e-aec2-46b9d129b762
 msgctxt "h6c8a1e62g75a4g4721gb61egfa6cab07a10e"
 msgid "Allow your humble Butler to assist you!"
-msgstr ""
+msgstr "미천한 집사가 당신께 도움을 드리는 걸 허락해 주십시오!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_PAD_SeesDUBecomeSlayer
 #. Speaker = Player
@@ -52735,7 +52743,7 @@ msgctxt "h4a909172g5963g4cb1g8ef1gb6960a10e896"
 msgid ""
 "You can keep doing this if you want, but I'm sure you won't like the "
 "consequences."
-msgstr ""
+msgstr "원한다면 계속 해도 좋다만, 그에 따를 결과를 반기지는 않을 거라고 장담하지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
@@ -52756,7 +52764,7 @@ msgctxt "h0bcb7ea1g7e1bg41b6ga6d4g11bfc4a5d691"
 msgid ""
 "You can keep doing this if you want, but I'm sure you won't like the "
 "consequences."
-msgstr ""
+msgstr "원한다면 계속 해도 좋다만, 그에 따를 결과를 반기지는 않을 거라고 장담하지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
@@ -52774,7 +52782,7 @@ msgctxt "h4b639296gc3fag467fga80agf11620dd6378"
 msgid ""
 "If you really don't want to carry it, at least leave it somewhere safe. Your "
 "camp, for example."
-msgstr ""
+msgstr "그걸 가지고 다니는 게 그렇게나 싫다면 적어도 어딘가 안전한 곳에 놔두라고. 예를 들면, 네 야영지 같은 곳 말이야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
@@ -52792,7 +52800,7 @@ msgctxt "hb0c0f37cgd136g4d37g86a5g05c9c725af26"
 msgid ""
 "If you really don't want to carry it, at least leave it somewhere safe. Your "
 "camp, for example."
-msgstr ""
+msgstr "그걸 가지고 다니는 게 그렇게나 싫다면 적어도 어딘가 안전한 곳에 놔두라고. 예를 들면, 네 야영지 같은 곳 말이야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
@@ -52808,7 +52816,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:e252a27d-e788-47f4-b424-97f9dda20874
 msgctxt "h9870a7b1g57e8g430fg8569ga4be33d5af7c"
 msgid "Are you trying to annoy me, or just careless?"
-msgstr ""
+msgstr "날 화나게 하려는 거야, 아니면 그냥 부주의한 거야?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
@@ -52824,7 +52832,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:e252a27d-e788-47f4-b424-97f9dda20874
 msgctxt "hd9c4ee52g2e48g432cg8ac4g787945133c35"
 msgid "Are you trying to annoy me, or just careless?"
-msgstr ""
+msgstr "날 화나게 하려는 거야, 아니면 그냥 부주의한 거야?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
@@ -52840,7 +52848,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:e68d4e05-7646-4e8a-b0aa-7ecc27cd27c1
 msgctxt "h3b52c475ged6ag40b4g8b46g6b1cb3b96974"
 msgid "Get that stone back, please."
-msgstr ""
+msgstr "그 돌 다시 돌려놔. 부탁이야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
@@ -52856,7 +52864,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:e68d4e05-7646-4e8a-b0aa-7ecc27cd27c1
 msgctxt "haf689cc1g6b72g421cgbc9agf767ef873c4f"
 msgid "Get that stone back, please."
-msgstr ""
+msgstr "그 돌 다시 돌려놔. 부탁이야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
@@ -52871,7 +52879,7 @@ msgctxt "h58b904e2g3fceg4b37ga2f4ga4951d29d4c7"
 msgid ""
 "I wouldn't recommend losing that. We can't defeat the brain without that "
 "stone."
-msgstr ""
+msgstr "그걸 잃어버리는 건 추천하지 않겠어. 그 돌 없이는 브레인에게 맞설 수 없다고."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
@@ -52886,7 +52894,7 @@ msgctxt "hc2f1aa13gb647g430ag9b3egd90125bfd89d"
 msgid ""
 "I wouldn't recommend losing that. We can't defeat the brain without that "
 "stone."
-msgstr ""
+msgstr "그걸 잃어버리는 건 추천하지 않겠어. 그 돌 없이는 브레인에게 맞설 수 없다고."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_AtBeachForLostStones
 #. Speaker = The Emperor
@@ -52921,7 +52929,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_AtBeachForLostStones:d068607e-88eb-4156-8e67-ea17a93a49c4
 msgctxt "he73e5aa5g8bb7g403dg81ccga4fd069d8163"
 msgid "<i>Wait - that hum of power. There's a Netherstone nearby!</i>"
-msgstr ""
+msgstr "<i>잠깐. 힘의 웅웅거림이 들리는군. 근처에 네더스톤이 있다!</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone
 #. Speaker = The Emperor
@@ -53054,7 +53062,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_LostIntermezzoStone:33728446-17d8-4dc0-948c-db13d8c76310
 msgctxt "h706a974ege33ag4a12gbb74g89717522e343"
 msgid "<i>You left Ketheric's stone behind. I sent it to your camp. </i>"
-msgstr ""
+msgstr "<i>케서릭의 돌을 두고 왔군. 돌을 네 야영지로 보내겠다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_LostIntermezzoStone
 #. Speaker = The Emperor
@@ -53063,7 +53071,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_LostIntermezzoStone:7e6ad295-f203-0b4b-bf4d-be68d6733948
 msgctxt "h52ab1a1bg3177g43a1g945age3c1221b1ce4"
 msgid "<i>Try not to be so careless once you possess the others.</i>"
-msgstr ""
+msgstr "<i>다른 이들에게 빙의했을 때는 너무 부주의하게 행동하지 않는 게 좋을 것이다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_ReceivedIronThroneStones
 #. Speaker = The Emperor
@@ -53074,7 +53082,7 @@ msgctxt "h859facdfgeeebg404bga026g347291e5000e"
 msgid ""
 "<i>You are as lucky as you are careless. Do not let the stones out of your "
 "sight. </i>"
-msgstr ""
+msgstr "<i>부주의한 만큼이나 운이 좋군. 절대 돌을 시야에서 떼놓지 마라.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53090,7 +53098,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:4267a4c5-0058-4d1e-9420-ce89486ce9fd
 msgctxt "hb9e5b5e7g844dg4176ga83ag52868a9a3228"
 msgid "It looks seaworthy. Not that I have anywhere to go."
-msgstr ""
+msgstr "띄울 수 있을 것 같은데. 그런다고 내가 갈 곳이 있는 것도 아니지만."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53106,7 +53114,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:4267a4c5-0058-4d1e-9420-ce89486ce9fd
 msgctxt "h3ae8e2f8g9477g4bf9ga359g33c0cdf13ddc"
 msgid "Abandoned, perhaps. Looks perfectly seaworthy."
-msgstr ""
+msgstr "아마 버려진 것 같군. 완벽할 정도로 항해에 적합해 보여."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53122,7 +53130,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:4267a4c5-0058-4d1e-9420-ce89486ce9fd
 msgctxt "h9cc25a67g0135g40bbgbb92g4619e43a731d"
 msgid "Wonder who abandoned it. And why?"
-msgstr ""
+msgstr "누가 이걸 버린 건지 궁금해지는걸. 왜 버렸을까?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53138,7 +53146,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:4267a4c5-0058-4d1e-9420-ce89486ce9fd
 msgctxt "h1ce00befg5643g44a8g9e3fg579ba2ef18e6"
 msgid "Abandoned. Wonder why."
-msgstr ""
+msgstr "버려졌군. 어째서일까."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53154,7 +53162,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:4267a4c5-0058-4d1e-9420-ce89486ce9fd
 msgctxt "h2958a54cg783bg4017g93c3gf25216e3af64"
 msgid "Strange place for a fisher's vessel. Must've been abandoned."
-msgstr ""
+msgstr "어부의 배가 있을 만한 곳은 아닌데. 버려진 게 분명해."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53170,7 +53178,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:4267a4c5-0058-4d1e-9420-ce89486ce9fd
 msgctxt "hb6497e6eg3999g459fg8a5ag555bc28e3b95"
 msgid "Poor old boat. Must have a leak or something."
-msgstr ""
+msgstr "불쌍한 낡은 보트. 어디 물이라도 새나 봐."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53186,7 +53194,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:4267a4c5-0058-4d1e-9420-ce89486ce9fd
 msgctxt "hdb155363g903cg4cf6g9ce3g020f2a03f517"
 msgid "Bad as this city is - I can think of nicer places to take a boat-ride."
-msgstr ""
+msgstr "도시만큼이나 엉망이군. 보트를 타기에 더 좋은 곳들을 좀 알고 있지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53202,7 +53210,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:4267a4c5-0058-4d1e-9420-ce89486ce9fd
 msgctxt "h6a61c1e5gcb6dg40b9g8906gf6c3a5becb3e"
 msgid "Abandoned, by the look of it. Perhaps it no longer keeps afloat."
-msgstr ""
+msgstr "보아하니 버려진 것 같군. 더 이상 뜨지 못해서일 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53218,7 +53226,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:4267a4c5-0058-4d1e-9420-ce89486ce9fd
 msgctxt "h114d490bg84f9g48aeg8d90g95ca3f87a4a2"
 msgid "A smuggler's boat, perhaps? It barely looks water-worthy."
-msgstr ""
+msgstr "아마 밀수꾼의 보트가 아닐까? 간신히 물에 띄울 수 있을 것 같은데."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53234,7 +53242,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:4267a4c5-0058-4d1e-9420-ce89486ce9fd
 msgctxt "ha05cc40dg6006g41b4gbe26g2e6906073bcb"
 msgid "No, Boo. No boat rides today."
-msgstr ""
+msgstr "아냐, 부. 오늘은 보트 타는 날이 아니야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53249,7 +53257,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:4267a4c5-0058-4d1e-9420-ce89486ce9fd
 msgctxt "h57b2c0b0gc273g4acdgb4feg04a1c3a50f93"
 msgid "Abandoned by the looks of it. Perhaps it had a leak."
-msgstr ""
+msgstr "보아하니 버려진 것 같네. 어디선가 물이 새나 봐."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53262,7 +53270,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:f3f3ff05-3dfc-48d6-b283-9e74cbd43ab7
 msgctxt "h1bb45496gb867g438bg9d4fg261b2c0bcd4e"
 msgid "A fine vessel, but why abandon it here?"
-msgstr ""
+msgstr "괜찮은 배인데. 그러면 왜 여기 버려진 거지?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53275,7 +53283,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:f3f3ff05-3dfc-48d6-b283-9e74cbd43ab7
 msgctxt "h1eb7729eg9924g4642g8542g22dc316ba8ec"
 msgid "A strange place for a fisher's vessel."
-msgstr ""
+msgstr "어부의 배가 있을 만한 곳은 아닌데."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53288,7 +53296,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:f3f3ff05-3dfc-48d6-b283-9e74cbd43ab7
 msgctxt "h80bc1845g1c4eg4a17g9245ge37e2108d6c0"
 msgid "Seems a watertight vessel to me, though I'm no shipwright."
-msgstr ""
+msgstr "내가 조선공은 아니다만, 내 눈에는 멀쩡해 보이는 배인데."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53301,7 +53309,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:f3f3ff05-3dfc-48d6-b283-9e74cbd43ab7
 msgctxt "h6c78ef3fga29fg49f7g9763g1f93c5f2d4b4"
 msgid "What's that boat doing here?"
-msgstr ""
+msgstr "보트가 여기서 뭘 하고 있는 거지?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53314,7 +53322,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:f3f3ff05-3dfc-48d6-b283-9e74cbd43ab7
 msgctxt "hb8e51429g4b26g4339gaa01g50ec02f48bdc"
 msgid "Whose boat is this, I wonder?"
-msgstr ""
+msgstr "이 보트가 누구의 것인지 궁금한걸?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53327,7 +53335,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:f3f3ff05-3dfc-48d6-b283-9e74cbd43ab7
 msgctxt "hf4ba87beg91dcg4f80gb970g497be8967620"
 msgid "Whose boat?"
-msgstr ""
+msgstr "누구의 보트지?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53340,7 +53348,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:f3f3ff05-3dfc-48d6-b283-9e74cbd43ab7
 msgctxt "hde9e0c3cgf1c7g40c5g9c4cg505d49539998"
 msgid "I shudder to think what fish one might catch down here."
-msgstr ""
+msgstr "여기서 무슨 물고기가 잡힐지 생각만 해도 몸이 떨리는걸."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53353,7 +53361,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:f3f3ff05-3dfc-48d6-b283-9e74cbd43ab7
 msgctxt "h33f36898gfef9g4d41ga5dbgd01073da26f0"
 msgid "What is this boat here for?"
-msgstr ""
+msgstr "여기에 왜 보트가 있는 거지?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53366,7 +53374,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:f3f3ff05-3dfc-48d6-b283-9e74cbd43ab7
 msgctxt "h23f28a9bg7bd1g40c4g841dg98872fa945ac"
 msgid "An abandoned vessel."
-msgstr ""
+msgstr "버려진 배군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53379,7 +53387,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:f3f3ff05-3dfc-48d6-b283-9e74cbd43ab7
 msgctxt "h0c68b339gb4c0g46d7g955fgee5a5b9e45c3"
 msgid "A fine vessel, if a little... <i>flimsy</i> for Minsc."
-msgstr ""
+msgstr "괜찮은 배야. 민스크가 타기엔 조금... <i>약하지만.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked
 #. Speaker = Player
@@ -53391,7 +53399,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_PAD_BoatBlocked:f3f3ff05-3dfc-48d6-b283-9e74cbd43ab7
 msgctxt "hd8e84a07gc0d6g45f1g8748gafa63d8b1628"
 msgid "Nice boat - I wonder what it's doing here? "
-msgstr ""
+msgstr "훌륭한 보트야. 이게 여기서 뭘 하고 있는 거지? "
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_GroupVoteInformer
 #. Speaker = Player
@@ -53401,7 +53409,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_GroupVoteInformer:45de14a5-6b6a-a14e-a3aa-eabd970eddd2
 msgctxt "h41ee5164g43d1g4d0cg8a24gbc569b88ffe2"
 msgid "I am correct. Again."
-msgstr ""
+msgstr "내가 옳았어. 또다시."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_GroupVoteInformer
 #. Speaker = Player
@@ -54502,7 +54510,7 @@ msgstr "목적만 명확했다면, 그대의 정확성은 칭찬할 만하군."
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Nightsong_AD_Killed:65db17e0-d501-0dca-91c4-4ecf843fb026
 msgctxt "h73b10461g1206g456fgbca7g7f83d2eda011"
 msgid "I will rise - again!"
-msgstr ""
+msgstr "나는, 다시 살아날 것이다!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Nightsong_AD_Resurrected
 #. Speaker = Nightsong
@@ -54511,7 +54519,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Nightsong_AD_Resurrected:c6b85035-0aa9-41cf-894e-6005d23a595b
 msgctxt "he1fc4367gc9ddg463cg9092g5f28699af550"
 msgid "Ho! I have returned!"
-msgstr ""
+msgstr "호! 내가 돌아왔다!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54523,6 +54531,8 @@ msgid ""
 "This is more than a fable - it's an affront to the Undying Queen Vlaakith. "
 "Gith's son died to Voss' blade. <i>Orpheus is no more.</i>"
 msgstr ""
+"이건 단순한 우화가 아니야. 불멸의 여왕 블라키스에 대한 모욕이라고. 기스의 아들은 보스의 칼에 죽었어. <i>오르페우스는 더 이상 "
+"존재하지 않아.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54537,6 +54547,7 @@ msgid ""
 "*The story was mere wishful thinking, of course. Orpheus is defeated, and "
 "the prophecy's failed. The lich queen reins eternal.*"
 msgstr ""
+"*이 이야기는 그저 희망에 찬 망상에 불과합니다. 오르페우스가 죽었으니 예언도 깨졌습니다. 리치 여왕의 치세는 영원할 것입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54547,7 +54558,7 @@ msgctxt "h52be3631g52f3g4959gb7a6g02ee242a0672"
 msgid ""
 "*'Orpheus rallied Gith's honour guard and declared the throne for himself. "
 "The War of the Comet had begun.'*"
-msgstr ""
+msgstr "*'오르페우스는 기스의 친위대를 규합해 스스로 왕위에 올랐다. 이로서 혜성의 전쟁이 시작되었다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54559,6 +54570,7 @@ msgid ""
 "'But Gith had nurtured a son. Orpheus, Prince of the Comet, the True Heir! "
 "He knew Vlaakith's treachery.'"
 msgstr ""
+"'그러나 기스께는 아들이 하나 있었으니, 그가 바로 진정한 후계자, 혜성의 왕자 오르페우스다! 그는 블라키스의 배반을 알고 있었다.'"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54570,7 +54582,7 @@ msgid ""
 "*Your thoughts don't sit well with you. Could Vlaakith really have "
 "sacrificed Gith in exchange for the dragon alliance - and control of the "
 "empire?*"
-msgstr ""
+msgstr "*쉽게 납득하기는 어려운 이야기입니다. 블라키스가 정말로 드래곤과의 동맹과 제국의 통치권을 위해 기스를 희생시켰던 걸까요?*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54583,7 +54595,7 @@ msgstr ""
 msgctxt "hcb23e452gaa80g4903ga34bg75981839f7a6"
 msgid ""
 "<i>Examine the </i>tir'su<i> closely, seeking greater understanding.</i>"
-msgstr ""
+msgstr "<i> </i>티어수<i>를 더 면밀히 조사해 더 깊은 이해를 추구한다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54597,7 +54609,7 @@ msgctxt "hdc2327d2ge0cdg43b5g9e9bg35119d1e327c"
 msgid ""
 "'Orpheus rallied Gith's honour guard and declared the throne for himself. "
 "The War of the Comet had begun.'"
-msgstr ""
+msgstr "'오르페우스는 기스의 친위대를 규합해 스스로 왕위에 올랐다. 이로서 혜성의 전쟁이 시작되었다.'"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54609,7 +54621,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:1d26d0d2-f426-16fd-78b2-dcbb83c63ea9
 msgctxt "h711e4e18gedeeg4b41ga488gf62184945db8"
 msgid "<i>Tir'su</i> script adorns this slate."
-msgstr ""
+msgstr "이 석판을 장식하고 있는 건 <i>티어수</i> 문자야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54623,7 +54635,7 @@ msgctxt "h21c18ce9gc88ag4c1agb5edg844fb826306c"
 msgid ""
 "<i>Think back on your lessons. Maybe you've learned how to unravel the "
 "cipher.</i>"
-msgstr ""
+msgstr "<i>가르침을 되짚어 본다. 아마 당신은 어떻게 암호를 풀어내는지 배웠을 것이다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54641,6 +54653,7 @@ msgid ""
 "*The <i>tir'su </i>engraved on the disc are ancient, but you recognise most "
 "of the symbols thanks to your rigorous studies on Crèche K'liir.*"
 msgstr ""
+"*원반 위의 <i>티어수</i>는 고대의 것이지만, 크레셰 클리르에서의 엄격한 가르침 덕분에 당신은 문양의 대다수를 알아볼 수 있습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54656,6 +54669,8 @@ msgid ""
 "and her own son defied her. Orpheus would have ceded control to the "
 "<i>ghaik</i>.\n"
 msgstr ""
+"이건, 이건 헛소리야. 분명해. 기스는 블라키스를 제국의 여왕으로 선언했고, 그녀의 아들은 그녀에게 거역했어. 오르페우스가 왕이었다면 "
+"<i>가이크</i>에게 제국을 넘겨버렸겠지.\n"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54666,7 +54681,7 @@ msgctxt "h5bae79ccg7185g4236gaddfg018863670d32"
 msgid ""
 "*'Lies! Gith made no such proclamation. Vlaakith seized the empire against "
 "the Mother's wishes.'*"
-msgstr ""
+msgstr "*'거짓말이다! 기스께서는 그러한 선언을 하지 않았다. 블라키스는 어머니의 뜻을 거스르고 제국을 찬탈한 것이다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54677,7 +54692,7 @@ msgctxt "h7cf23c23g65bag4c1fg8b9dga388e777ee10"
 msgid ""
 "*Vlaakith gifted Gith to Tiamat in exchange for the red dragons? A ludicrous "
 "claim.*"
-msgstr ""
+msgstr "*블라키스가 레드 드래곤을 얻기 위해 티아마트에게 기스를 바쳤다고요? 터무니없는 주장입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54691,7 +54706,7 @@ msgctxt "h2972b662g9cd3g49b2ga82dg65a4cf68bfb4"
 msgid ""
 "Ah, the cipher. I can use it to bring un-muddle this mess. Yes, I see shape, "
 "I see structure. I see - a story."
-msgstr ""
+msgstr "아, 암호. 이 난장판을 정리하는 데 그걸 쓰면 되겠어. 그래, 형태가, 구조가, 이야기가 보여."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54707,7 +54722,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:38aaa908-61d1-201b-849c-df89ab49458a
 msgctxt "h7f390099gb94dg410fg91a8g64d908a743c1"
 msgid "'The Prince of the Comet, Part One.'"
-msgstr ""
+msgstr "'혜성의 왕자, 제1장.'"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54720,6 +54735,9 @@ msgid ""
 "The Prince of the Comet will come again.\n"
 "The Prince of the Comet will liberate us from Vlaakith's tyranny.'*"
 msgstr ""
+"*'혜성의 왕자는 죽지 않았다.\n"
+"혜성의 왕자는 다시 돌아올 것이다.\n"
+"혜성의 왕자가 우리를 블라키스의 폭정으로부터 해방시킬 것이다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54731,6 +54749,7 @@ msgid ""
 "*'But Gith had nurtured a son. Orpheus, Prince of the Comet, the True Heir! "
 "He knew Vlaakith's treachery.'*"
 msgstr ""
+"*'그러나 기스께는 아들이 하나 있었으니, 그가 바로 진정한 후계자, 혜성의 왕자 오르페우스다! 그는 블라키스의 배반을 알고 있었다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54745,6 +54764,8 @@ msgid ""
 "*This is no mere story. You have seen the truth unfold before your eyes. "
 "Orpheus will rise and guide the githyanki to freedom.*"
 msgstr ""
+"*이것은 단순한 이야기가 아닙니다. 당신은 두 눈으로 진실이 밝혀지는 것을 보았습니다. 오르페우스는 다시 일어나 기스양키를 자유로 인도할 "
+"것입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54756,6 +54777,8 @@ msgid ""
 "*'Gith travelled to the Hells to broker help for her people, her cause. "
 "Vlaakith would have you believe Mother Gith proclaimed her our queen.'*"
 msgstr ""
+"*'기스께서는 그녀의 백성과 대의를 도울 자를 찾아 지옥으로 떠나셨다. 블라키스는 우리로 하여금 어머니 기스께서 그녀를 여왕으로 "
+"지명했다고 믿게 만들었다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54767,7 +54790,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:45ccf435-1692-12a6-3548-0c6c706eb25f
 msgctxt "hba66855dg882ag4648g90d2g504c56059449"
 msgid "*The teachings elude you.*"
-msgstr ""
+msgstr "*가르침이 도통 기억나지 않습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54782,7 +54805,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:46383cb6-cc74-b259-bd03-f88c2d509b2d
 msgctxt "hebd96690g5f49g440dgb395g26a9109a5ae9"
 msgid "<i>Tsk'va</i>. Mother Gith, I implore you - show us truth."
-msgstr ""
+msgstr "<i>츠크바</i>. 어머니 기스여, 당신께 간청합니다, 우리에게 진실을 보여 주십시오."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54799,7 +54822,7 @@ msgctxt "haa884040g60b3g4809g89eegb362d1896cf5"
 msgid ""
 "It shouldn't take much effort to decipher it. And... there. From madness "
 "rises meaning."
-msgstr ""
+msgstr "해독하는 건 그리 어려운 일이 아니야. 자... 됐다. 광기 속에서 의미가 나타나는군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54811,7 +54834,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:4cdd95f7-3f76-5762-e47e-65c5a4d9175e
 msgctxt "h1403f80cg97fbg4ebcg9e3cg02ff9391abe4"
 msgid "The slate holds the truth. The prince still comes for his throne."
-msgstr ""
+msgstr "석판에 담겨 있는 내용은 사실이야. 왕자는 아직도 왕좌를 원하고 있어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54820,7 +54843,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:4dde3bbf-7b8d-ccad-c1b5-68547dd9a69b
 msgctxt "h1ae606e6g32f1g40c3g84cbg18e2b1d9e3f0"
 msgid "*This is the way. This is your queen's command.*"
-msgstr ""
+msgstr "*그래야 합니다. 이것은 여왕의 명령입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54840,6 +54863,8 @@ msgid ""
 "pierced Prince Orpheus clean through with his sword of silver. That his "
 "flesh was torn and fed to the great red dragon Ephelomon.*'"
 msgstr ""
+"*'역사는 사령관 보스,<i>제스틸 키스락</i>이 그의 은검으로 오르페우스 왕자를 꿰뚫었다고 전한다. 그리고 왕자의 육신은 찢겨져 "
+"위대한 레드 드래곤 에펠로몬의 먹이로 던져졌다고.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54855,7 +54880,7 @@ msgctxt "h57b10a92g2f5ag4b3cg959ag0ba48c4bbf10"
 msgid ""
 "*As with the boy's slate in the mountain crèche, there are hidden writings "
 "among the glyphs.*"
-msgstr ""
+msgstr "*산속 크레셰 소년의 석판처럼, 이 문자들 사이에도 글귀가 숨겨져 있습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54869,7 +54894,7 @@ msgctxt "he42bd44dg349eg4975g97e4g1ac4f3bdbb67"
 msgid ""
 "'Praise be to Mother Gith, Queen of the One Sky! Praise be to your son "
 "Orpheus, the True Heir, Prince of the Comet!'"
-msgstr ""
+msgstr "'하나의 하늘의 여왕, 어머니 기스를 찬양하라! 그분의 아들, 진정한 후계자, 혜성의 왕자 오르페우스를 찬양하라!'"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54883,7 +54908,7 @@ msgctxt "h5202b590g7454g456ega8e5g1feb704bfe9c"
 msgid ""
 "*A fantastical story. You would never have believed Orpheus lived, had you "
 "not seen him with your own eyes.*"
-msgstr ""
+msgstr "*환상 같은 이야기입니다. 직접 눈으로 보기 전까지는 당신도 오르페우스가 살아 있다고 믿지 않았을 것입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Player
@@ -54894,7 +54919,7 @@ msgctxt "h17cb37d4g0218g47a9gaa45g7f782c4e1fd1"
 msgid ""
 "<i>But maybe the teachings weren't real. Maybe Vlaakith betrayed Gith and "
 "seized control.</i>"
-msgstr "<i>하지만 어쩌면 배운 게 사실이 아닐지도. 어쩌면 블라키스가 기스양키를 배신하고 지배권을 장악했을지도 모르겠군.</i>"
+msgstr "<i>하지만 가르침이 사실이 아닐 수도 있다. 블라키스가 기스를 배신하고 제국을 찬탈했을 수도 있다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54905,7 +54930,7 @@ msgctxt "h6aecdedcg62dbg4a73ga0bcg9f1dbea977e5"
 msgid ""
 "*You remember a method of decoding cryptic <i>tir'su</i>. it appears to work "
 "even on these ancient texts.*"
-msgstr ""
+msgstr "*당신은 암호화된 <i>티어수</i>를 해독하는 방법을 기억해냅니다. 이 고대의 문서에도 쓸 수 있을 것 같습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Player
@@ -54937,6 +54962,8 @@ msgid ""
 "hands, and for good reason. He would have usurped the throne and weakened "
 "the empire.* "
 msgstr ""
+"*이것은 이단적인 이야기입니다. 당신의 <i>바쉬</i>는 오르페우스가 보스의 손에 죽었다고 가르쳤습니다. 그는 왕좌를 찬탈하고 제국을 "
+"약하게 만들었을 것이었으니, 대의를 위해 필요한 일이었습니다.* "
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Player
@@ -54945,7 +54972,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:6de1e596-738c-ddeb-4187-1aad0dfc1022
 msgctxt "h38fc9554g61d7g4b84g9f8eg54893f6aa229"
 msgid "<i>It's just a story, as harmless as it is far-fetched.</i>"
-msgstr ""
+msgstr "<i>이건 그저 이야기에 불과하다. 허무맹랑한 만큼이나 무의미한.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54956,7 +54983,7 @@ msgctxt "hbc6abaf0g03d8g4239gba66g0b304cc6eaef"
 msgid ""
 "'Vlaakith's faithful roar out this tale. But beneath the roars, we hear "
 "whispers carrying truth and prophecy.'"
-msgstr ""
+msgstr "'블라키스의 신도들이 이 이야기를 외치고 다닌다. 하지만 그 외침 아래서 우리는 진실과 예언을 담은 속삭임을 들을 수 있다.'"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54968,6 +54995,7 @@ msgid ""
 "*'Vlaakith's faithful roar out this tale. But beneath the roars, we hear "
 "whispers carrying truth and prophecy.'*"
 msgstr ""
+"*'블라키스의 신도들이 이 이야기를 외치고 다닌다. 하지만 그 외침 아래서 우리는 진실과 예언을 담은 속삭임을 들을 수 있다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -54979,6 +55007,8 @@ msgid ""
 "'Gith travelled to the Hells to broker help for her people, her cause. "
 "Vlaakith would have you believe Mother Gith proclaimed her our queen.'"
 msgstr ""
+"'기스께서는 그녀의 백성과 대의를 도울 자를 찾아 지옥으로 떠나셨다. 블라키스는 우리로 하여금 어머니 기스께서 그녀를 여왕으로 지명했다고 "
+"믿게 만들었다.'"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -54989,7 +55019,7 @@ msgctxt "h396fdc13g12a7g40fegb796gc4f8ff423189"
 msgid ""
 "*You've dedicated your life to your queen. Through her, your mind is silver, "
 "and your body steel.*"
-msgstr ""
+msgstr "*당신은 스스로의 삶을 여왕에게 바쳤습니다. 여왕 아래서 정신은 은이요, 육체는 강철일지니.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Player
@@ -54999,7 +55029,7 @@ msgstr ""
 msgctxt "h87167f4bg4a49g4aa1gb7b4gceaa79d8aeee"
 msgid ""
 "<i>These writings are pure propaganda, the work of an insidious apostate.</i>"
-msgstr ""
+msgstr "<i>이 글은 순전히 선동에 불과하다. 교활한 반역자들의 수작일 뿐이다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55012,7 +55042,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:79f07d0f-65a2-b699-7d65-b972fe80551d
 msgctxt "h5a027d5egf70eg4344g8524g33cd5d527f23"
 msgid "*Like before, the glyphs require some effort to translate.*"
-msgstr ""
+msgstr "*지난번과 같이, 문자를 해독하기 위해서는 약간의 노력이 필요합니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55023,7 +55053,7 @@ msgctxt "h1feef479g885eg463agb400ge0fd1419077c"
 msgid ""
 "Wait. The <i>ga'varsh</i> taught us how to decipher the ancient texts. Let "
 "me think."
-msgstr ""
+msgstr "잠깐. <i>가바쉬</i>가 우리에게 고대 문서를 해독하는 법을 가르쳐 줬었지. 생각 좀 해 볼게."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55036,6 +55066,9 @@ msgid ""
 "The Prince of the Comet will come again.\n"
 "The Prince of the Comet will liberate us from Vlaakith's tyranny.'"
 msgstr ""
+"*'혜성의 왕자는 죽지 않았다.\n"
+"혜성의 왕자는 다시 돌아올 것이다.\n"
+"혜성의 왕자가 우리를 블라키스의 폭정으로부터 해방시킬 것이다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55048,6 +55081,8 @@ msgid ""
 "pierced Prince Orpheus clean through with his sword of silver. That his "
 "flesh was torn and fed to the great red dragon Ephelomon.'"
 msgstr ""
+"'역사는 사령관 보스,<i>제스틸 키스락</i>이 그의 은검으로 오르페우스 왕자를 꿰뚫었다고 전한다. 그리고 왕자의 육신은 찢겨져 위대한 "
+"레드 드래곤 에펠로몬의 먹이로 던져졌다고.'"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55058,7 +55093,7 @@ msgctxt "hd6199e1bga860g46e2ga3d5g77d1642c2407"
 msgid ""
 "*'Praise be to Mother Gith, Queen of the One Sky! Praise be to your son "
 "Orpheus, the True Heir, Prince of the Comet!'*"
-msgstr ""
+msgstr "*'하나의 하늘의 여왕, 어머니 기스를 찬양하라! 그분의 아들, 진정한 후계자, 혜성의 왕자 오르페우스를 찬양하라!'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55074,6 +55109,8 @@ msgid ""
 "Vlaakith has reigned unchallenged for millennia. Freeing Orpheus could be "
 "the first strike in a new war - as well as its last."
 msgstr ""
+"수천 년간 누구도 블라키스의 치세에 도전하지 않았지. 오르페우스를 풀어 준다면 이건 새로운 전쟁의 처음이자 마지막 일격이 될 수 있을 "
+"거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55084,7 +55121,7 @@ msgctxt "h3e4288c0g8152g48fag870cgaca937be5322"
 msgid ""
 "Ah, I see the pattern. The writings are - fables. No, beyond fables. "
 "<i>Heresies.</i>"
-msgstr ""
+msgstr "아, 규칙성이 보여. 이 글은 우화... 아니, 그 이상이군. <i>이단</i>이야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55095,7 +55132,7 @@ msgctxt "he8169ddcg6b35g4ce7gb7b1g15e1b626e381"
 msgid ""
 "'Lies! Gith made no such proclamation. Vlaakith seized the empire against "
 "the Mother's wishes.'"
-msgstr ""
+msgstr "'거짓말이다! 기스께서는 그러한 선언을 하지 않았다. 블라키스는 어머니의 뜻을 거스르고 제국을 찬탈한 것이다.'"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55104,7 +55141,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:9ee792ef-0128-2071-108f-51de933d5711
 msgctxt "h612927c7g6db1g42bbg953dg9d7af8828233"
 msgid "*And if so, what else has Vlaakith lied to her people about?*"
-msgstr ""
+msgstr "*만약 그것이 사실이라면, 블라키스는 그녀의 백성들에게 또 무슨 거짓말을 했을까요?*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Player
@@ -55116,7 +55153,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:a1c5d6a7-01f0-8c22-22d7-374d66f21d0c
 msgctxt "hba59bae0g4593g402bg84b4g90c1db4e7be4"
 msgid "<i>Use the cipher you found to reveal the true meaning.</i>"
-msgstr ""
+msgstr "<i>찾아낸 암호를 통해 진정한 의미를 밝혀낸다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55135,6 +55172,8 @@ msgid ""
 "will of his mother Gith. He would have usurped the throne and weakened the "
 "empire.* "
 msgstr ""
+"*이것은 이단적인 이야기입니다. 당신의 <i>바쉬</i>는 오르페우스가 그의 어머니 기스의 뜻을 거역했다고 가르쳤습니다. 그는 왕좌를 "
+"찬탈하고 제국을 약하게 만들었을 것입니다.* "
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55150,6 +55189,8 @@ msgid ""
 "and Orpheus will battle once more for the throne that belonged to his "
 "mother.*"
 msgstr ""
+"*예전에는 이런 이야기를 믿지 않았을 것입니다. 하지만 새로운 전쟁이 다가오고 있습니다. 오르페우스는 그의 어머니가 남긴 왕좌를 차지하기 "
+"위해 다시 한번 싸울 것입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55167,7 +55208,7 @@ msgctxt "h2c80bcaeg85c0g420fgbd29gc893d41a679f"
 msgid ""
 "It resembles the slate from Crèche Y'llek. I see similar patterns among the "
 "glyphs."
-msgstr ""
+msgstr "크레셰 일레크에서 봤던 석판과 비슷해. 문자들 사이에서 유사한 규칙이 보여."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Player
@@ -55177,7 +55218,7 @@ msgstr ""
 msgctxt "h65e82033g0c80g42afgacc6g0abed4af7975"
 msgid ""
 "<i>These writings are pure propaganda, the work of an insidious apostate.</i>"
-msgstr ""
+msgstr "<i>이 글은 순전히 선동에 불과하다. 교활한 반역자들의 수작일 뿐이다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55192,7 +55233,7 @@ msgctxt "h86ecc525gd33cg497dg8cd5g6746c4c52582"
 msgid ""
 "<i>Tsk'va</i>. A failed prophecy. The Prince of the Comet will not live long "
 "enough to seize Vlaakith's throne."
-msgstr ""
+msgstr "<i>츠크바</i>. 실패한 예언이군. 혜성의 왕자는 블라키스의 왕좌를 차지할 만큼 오래 살지 못할 테니까."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55206,7 +55247,7 @@ msgctxt "h0e3b2859g8222g4268g8884g03a21f2dbd76"
 msgid ""
 "*Whether the stories were true or fabrications, it matters no longer. "
 "Orpheus is fallen.*"
-msgstr ""
+msgstr "*이야기가 사실인지 거짓인지는 더 이상 중요하지 않습니다. 오르페우스는 이미 죽었습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55221,6 +55262,7 @@ msgid ""
 "The story is true - Orpheus is free. And right here, right now, we are "
 "writing its next chapter."
 msgstr ""
+"이 이야기는 사실이야. 오르페우스는 자유로워졌고, 바로 지금, 이 자리에 있지. 우리는 이 이야기의 다음 장을 쓰고 있고 말이야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55232,6 +55274,7 @@ msgid ""
 "*Vlaakith's rein is too secure to be shaken by old legends. Orpheus is long "
 "dead, and the queen is unfaltering.*"
 msgstr ""
+"*블라키스의 치세는 오래된 전설 따위에 흔들리기에는 너무나도 견고합니다. 오르페우스는 죽은 지 오래고, 여왕은 흔들리지 않지요.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55243,7 +55286,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:c09cfb01-613f-d5b6-b2f6-04833e8eeced
 msgctxt "h9c77ded5g2857g4d05g8baag0b431028ed18"
 msgid "*You can't make sense of the symbols, no matter how hard you try.*"
-msgstr ""
+msgstr "*아무리 노력을 기울여도 상징들을 이해할 수 없습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55257,7 +55300,7 @@ msgctxt "h79ed7625gb928g4105g9a29g9d48525392f4"
 msgid ""
 "We know how this story truly ends. With the death of the prince, and a "
 "throne left unchallenged."
-msgstr ""
+msgstr "우리는 이 이야기가 어떻게 끝났는지 알고 있어. 오르페우스의 죽음과 함께 왕좌에 도전할 이들은 사라졌지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55269,7 +55312,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:c1a9edaa-fdfe-118d-ed67-7b26c5e38899
 msgctxt "h545407f0gc288g4b94ga72ag31765e60fed2"
 msgid "This disc is embellished with <i>tir'su</i> script. "
-msgstr ""
+msgstr "이 원반은 <i>티어수</i> 문자로 장식되어 있어. "
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Player
@@ -55278,7 +55321,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:c2675842-dc3e-d244-c79a-0e41289ad707
 msgctxt "head971bag5d87g4bdaga9acgee9f26d217b2"
 msgid "<i>It's just a story, as harmless as it is far-fetched.</i>"
-msgstr ""
+msgstr "<i>이건 그저 이야기에 불과하다. 허무맹랑한 만큼이나 무의미한.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55294,7 +55337,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:c2ed8d49-d167-079c-6022-0d833d3fa1b1
 msgctxt "h4d0976f8g6238g47ccga63bg13ce84654289"
 msgid "'The Prince of the Comet, Part Three.'"
-msgstr ""
+msgstr "'혜성의 왕자, 제3장.'"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55305,7 +55348,7 @@ msgctxt "hc1c85dd2g0829g4cb0gae5agc74e215da2c6"
 msgid ""
 "*Whoever speaks lies against Vlaakith must be decapitated and bisected, and "
 "their head brought to her court.*"
-msgstr ""
+msgstr "*블라키스에 대해 거짓을 말하는 자들은 그 누구라도 참수해 그 머리를 여왕의 궁정에 보내야 마땅합니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55317,6 +55360,8 @@ msgid ""
 "All of it, drivel. Gith declared Vlaakith queen of the empire, and her own "
 "son defied her. Orpheus would have ceded control to the <i>ghaik</i>."
 msgstr ""
+"이건 전부 헛소리야. 기스는 블라키스를 제국의 여왕으로 선언했고, 그녀의 아들은 그녀에게 거역했어. 오르페우스가 왕이었다면 <i>가이크</"
+"i>에게 제국을 넘겨버렸겠지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55330,7 +55375,7 @@ msgctxt "heeb2697bgedc3g4a6bgbd61g07e80e6b601c"
 msgid ""
 "*You consider the tale. Vlaakith would call it profane. Only a heretic would "
 "think otherwise.*"
-msgstr ""
+msgstr "*당신은 이야기에 대해 생각해 봅니다. 블라키스는 이를 불경하다고 하겠지요. 그와 다르게 생각하는 건 이단자들 뿐일 것입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55342,7 +55387,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:ca72bef8-e06e-1a70-30d2-474bfde0cdea
 msgctxt "ha6cb965dg5ecfg4822g959ag9a1b247cd389"
 msgid "No, no. Gith's son died to Voss' blade. Orpheus is no more."
-msgstr ""
+msgstr "아니, 아냐. 기스의 아들은 보스의 칼에 죽었다고. 오르페우스는 더 이상 존재하지 않아."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55357,7 +55402,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:ceb9bdcb-56c1-0552-2854-7cfd8990e88a
 msgctxt "ha67b08bdg92b0g4b80g891bg9ac8ba12b860"
 msgid "*Your mind reassembles the symbols and a story takes shape.*"
-msgstr ""
+msgstr "*머릿속으로 문자를 재배열해 보니 이야기가 형태를 갖추기 시작합니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55366,7 +55411,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:d0bcb94a-bbf0-2d10-4bae-1d9ebd175a94
 msgctxt "h31c8bb7cg1b8eg41d2g97f2g538f6dd7d62a"
 msgid "*A pattern emerges. You've cracked the code.*"
-msgstr ""
+msgstr "*규칙성이 드러납니다. 당신은 암호를 해독했습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55383,7 +55428,7 @@ msgctxt "h0a40cd0ag0988g4b2bg8e6agc1cc763eea5f"
 msgid ""
 "But every glyph is bent or mirrored, every symbol disordered. I can make no "
 "sense of it -"
-msgstr ""
+msgstr "하지만 모든 문자가 휘어지거나 뒤집혀 있고, 모든 문양이 엉망으로 배치되어 있어. 해석할 수가..."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55399,7 +55444,7 @@ msgctxt "h5eea7dd6gb6f9g4f83g9e3cg83c53406ea57"
 msgid ""
 "*Their meaning, however, is garbled, as if they are codes needing to be "
 "deciphered.*"
-msgstr ""
+msgstr "*하지만 그 의미를 이해할 수 없습니다. 마치 해독해야 하는 암호처럼 느껴집니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55411,7 +55456,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:da25b192-3380-1388-780f-2e2ff4d83f67
 msgctxt "hbba39e85g650dg44f6gb347g5121f81f2804"
 msgid "*Orpheus - no longer just a story, but a reality. Gith's son lives.*"
-msgstr ""
+msgstr "*오르페우스는 더 이상 이야기가 아닌 현실입니다. 기스의 아들은 살아 있습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55431,6 +55476,8 @@ msgid ""
 "blades on each other. The heavens were shattered, and one great empire was "
 "divided in two.'*"
 msgstr ""
+"*'그리하여 <i>가이크</i>의 족쇄로부터 해방된 우리는 서로에게 칼을 겨누었다. 천상이 산산조각나고 하나의 위대한 제국은 둘로 나뉘고 "
+"말았다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55443,7 +55490,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:df8b78ac-26a9-611a-439d-412690795f98
 msgctxt "h8ee0be30gec8ag4159gb600g01909d85b9b5"
 msgid "A profane tale. These lies must perish with the prince who told them."
-msgstr ""
+msgstr "불경한 이야기야. 이 거짓말들은 이걸 말한 왕자와 함께 사라져야만 해."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55457,7 +55504,7 @@ msgctxt "h046294a2gfd70g45e8g8d27g24d7931663ce"
 msgid ""
 "Truth or not, it matters no longer. Orpheus is fallen. Vlaakith reigns "
 "supreme."
-msgstr ""
+msgstr "진실이건 아니건, 더 이상은 중요하지 않지. 오르페우스는 죽었으니까. 블라키스의 치세는 굳건할 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55471,7 +55518,7 @@ msgctxt "h381ab059g71a8g4c61gb379g3c4b00fe1ff6"
 msgid ""
 "And yet - what if it's true? Could the City of Death have risen from a "
 "single Great Lie?"
-msgstr ""
+msgstr "하지만, 이게 사실이라면? 죽음의 도시가 하나의 거대한 거짓말로부터 빚어진 것이라면?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Player
@@ -55481,7 +55528,7 @@ msgstr ""
 msgctxt "hf2ae8434g78b1g4994gb2d6gbaaab3f5e63e"
 msgid ""
 "<i>But maybe the teachings weren't real. Maybe Orpheus lives to this day.</i>"
-msgstr ""
+msgstr "<i>하지만 가르침이 사실이 아닐 수도 있다. 오르페우스가 아직까지 살아 있을 수도 있다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55496,7 +55543,7 @@ msgctxt "h084f7dd9gb77bg428dgb6cbg9ff60f41a197"
 msgid ""
 "Incredible tale. I wouldn't have believed it, if we hadn't seen the prince "
 "for ourselves."
-msgstr ""
+msgstr "놀라운 이야기야. 우리가 직접 왕자를 보지 못했더라면 난 이 이야기를 믿지 않았을 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55510,7 +55557,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:f3e912ee-0975-f74a-acfa-fd3003d145be
 msgctxt "hb1d559b2g9340g4f8fga4fag89e0814c9121"
 msgid "*Ancient githyanki <i>tir'su</i> adorn the disc.*"
-msgstr ""
+msgstr "*고대 기스양키의 <i>티어수</i>가 원반을 장식하고 있습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55521,7 +55568,7 @@ msgctxt "h259c3bc7g1846g48adga710g00b9d0689f46"
 msgid ""
 "*Gith's son Orpheus still lives, and plans to depose Vlaakith? A ludicrous "
 "claim.*"
-msgstr ""
+msgstr "*기스의 아들 오르페우스가 아직 살아 있고, 블라키스를 퇴위시킬 계획을 짜고 있다고요? 터무니없는 주장입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55534,6 +55581,8 @@ msgid ""
 "blades on each other. The heavens were shattered, and one great empire was "
 "divided in two.'"
 msgstr ""
+"'그리하여 <i>가이크</i>의 족쇄로부터 해방된 우리는 서로에게 칼을 겨누었다. 천상이 산산조각나고 하나의 위대한 제국은 둘로 나뉘고 "
+"말았다.'"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Narrator
@@ -55544,7 +55593,7 @@ msgctxt "haf49f080gd815g4e3bgb990gf848a26c6ae2"
 msgid ""
 "*Your thoughts don't sit well with you. Could Vlaakith really have lied "
 "about the death of Orpheus, Gith's only son?*"
-msgstr ""
+msgstr "*쉽게 납득하기는 어려운 이야기입니다. 블라키스가 정말로 기스의 유일한 아들, 오르페우스의 죽음에 대해 거짓말을 한 걸까요?*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
 #. Speaker = Lae'zel
@@ -55553,7 +55602,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters:fd92b86b-71fb-e191-8a82-5a66c80da8f1
 msgctxt "h55c1c540gf3fag409eg96fcgefb071a50802"
 msgid "Ah - another chapter of the Orpheus tale."
-msgstr ""
+msgstr "아, 오르페우스의 또다른 이야기로군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55568,7 +55617,7 @@ msgctxt "ha0eada37ga894g46dfgb6e0g22890eeaaba5"
 msgid ""
 "I really need to tell Lae'zel about these discs. If only so she'll take them "
 "off my hands..."
-msgstr ""
+msgstr "레이젤에게 이 원반들에 대해 이야기해야겠어. 부디 내 손에서 치워 줬으면 좋겠군..."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55582,7 +55631,7 @@ msgstr ""
 msgctxt "ha9d681a0g4ecfg44fegab88ga6293468e7f5"
 msgid ""
 "<i>Tir'su</i> are inscribed on this slate as well. I should look closer."
-msgstr ""
+msgstr "이 석판에도 <i>티어수</i>가 적혀 있군. 좀 더 자세히 봐야겠어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55597,7 +55646,7 @@ msgctxt "h7ae341b4g8d63g48fcg8fd2g5c0a298c72a2"
 msgid ""
 "Another of those strange disks. Perhaps Lae'zel can shed some light on their "
 "meaning."
-msgstr ""
+msgstr "그 기묘한 원반이 더 있군. 아마 레이젤이 그 의미에 대한 단서를 가지고 있을 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55610,7 +55659,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:739576d1-564e-9f5b-8342-3ee0678a8fc7
 msgctxt "h765a2315g98d3g4dbcg81beg0ef88f8581e2"
 msgid "A third disc. Lae'zel will want to see this."
-msgstr ""
+msgstr "세 번째 원반이군. 레이젤이 보고 싶어 할 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55623,7 +55672,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:739576d1-564e-9f5b-8342-3ee0678a8fc7
 msgctxt "h7ed10d76gb8b9g491cg918cg8926aff61216"
 msgid "A third disc with githyanki writing? Looks right up Lae'zel's alley."
-msgstr ""
+msgstr "기스양키 문자가 쓰여진 세 번째 원반이라? 레이젤의 전문분야군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55636,7 +55685,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:739576d1-564e-9f5b-8342-3ee0678a8fc7
 msgctxt "hc244ccc8g8fc8g47daga627gc525d349b4cf"
 msgid "Another disc. Lae'zel will be all over this."
-msgstr ""
+msgstr "또다른 원반이야. 레이젤이 잘 알겠지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55650,7 +55699,7 @@ msgstr ""
 msgctxt "h791a0c2bg5a95g403aga62bg8f7bb4bb2ed2"
 msgid ""
 "Another githyanki artefact. If anyone knows their meaning, it will Lae'zel."
-msgstr ""
+msgstr "또다른 기스양키 아티팩트군. 레이젤이라면 그 의미를 알고 있을 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55663,7 +55712,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:739576d1-564e-9f5b-8342-3ee0678a8fc7
 msgctxt "hee067c36gbecdg46fcg931ag2e86329a1fc4"
 msgid "Yet another githyanki disc. We must consult Lae'zel."
-msgstr ""
+msgstr "또다른 기스양키 원반이군. 레이젤의 조언을 들어봐야겠어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55676,7 +55725,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:739576d1-564e-9f5b-8342-3ee0678a8fc7
 msgctxt "h1ff33836g839fg48d9gbc7dgc2bf96429704"
 msgid "Another slate. Lae'zel should have a look."
-msgstr ""
+msgstr "또다른 석판이군. 레이젤이 좀 봐야겠는걸."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55688,7 +55737,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:739576d1-564e-9f5b-8342-3ee0678a8fc7
 msgctxt "hb776c877g004fg417dg8d3bg31a2de0f5885"
 msgid "Still another githyanki disc. I'll see what Lae'zel has to say."
-msgstr ""
+msgstr "또다른 기스양키 원반이군. 레이젤이 뭐라고 할 지 봐야겠어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55706,7 +55755,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:7421e9af-3efb-6a63-ea06-9d440dc0f9c7
 msgctxt "h84b62497gbf86g4798gafaag9b1d7a562f2b"
 msgid "Another gith disc. Another thing to show Lae'zel."
-msgstr ""
+msgstr "또다른 기스 원반이군. 레이젤에게 보여줄 게 더 늘었어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55724,7 +55773,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:7421e9af-3efb-6a63-ea06-9d440dc0f9c7
 msgctxt "h33c8575bgc073g4362gb168gfb228ab530ef"
 msgid "Another githyanki disc, marked with <i>tir'su</i>."
-msgstr ""
+msgstr "<i>티어수</i>가 새겨진 기스 원반이 또 있군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55742,7 +55791,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:7421e9af-3efb-6a63-ea06-9d440dc0f9c7
 msgctxt "h34ddfed3g93bcg4e17g93eegff2b31be6485"
 msgid "A second githyanki disc. Lae'zel will want to see this."
-msgstr ""
+msgstr "두 번째 기스양키 원반이야. 레이젤이 이걸 보고 싶어 할 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55760,7 +55809,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:7421e9af-3efb-6a63-ea06-9d440dc0f9c7
 msgctxt "h7aca56aeg14bbg4949g8604g54f3acf61579"
 msgid "Another githyanki disc. Better see what Lae'zel thinks."
-msgstr ""
+msgstr "또다른 기스양키 원반이군. 레이젤이 뭐라고 하는 지 봐야겠어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55778,7 +55827,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:7421e9af-3efb-6a63-ea06-9d440dc0f9c7
 msgctxt "h9222fc7bgfaf3g43bfgb205g6923eb9cf1de"
 msgid "Oh, another githyanki disc? I should see Lae'zel - it's story time."
-msgstr ""
+msgstr "오, 또다른 기스양키 원반이군? 레이젤을 봐야겠어. 이야기의 시간이야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55796,7 +55845,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:7421e9af-3efb-6a63-ea06-9d440dc0f9c7
 msgctxt "h0ab944d5g3286g4551g9de3g73cf0ae54760"
 msgid "Lae will definitely want to see this."
-msgstr ""
+msgstr "분명 레이도 이걸 보고 싶어할 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55814,7 +55863,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:7421e9af-3efb-6a63-ea06-9d440dc0f9c7
 msgctxt "hc72bad06g81bcg458fg9841ge9e64cdb1704"
 msgid "Another gith disc. Lae'zel will have quite the collection."
-msgstr ""
+msgstr "또다른 기스 원반이군. 레이젤이 아주 모음집을 만들겠는데."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55832,7 +55881,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:7421e9af-3efb-6a63-ea06-9d440dc0f9c7
 msgctxt "h4903f6a5gcf63g4c12gb5c2ge4dbe4872062"
 msgid "Another githyanki disc. Lae'zel should see these."
-msgstr ""
+msgstr "또다른 기스양키 원반이군. 레이젤이 좀 봐야겠어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55851,7 +55900,7 @@ msgstr ""
 msgctxt "h7b15db3bg3819g42fcgae02gce1ce12cad9e"
 msgid ""
 "Another disc etched with <i>tir'su</i>. Lae'zel might make something of this."
-msgstr ""
+msgstr "<i>티어수</i>가 새겨진 또다른 기스 원반이군. 레이젤이라면 이걸로 뭔가 할 수 있을 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55868,7 +55917,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:7421e9af-3efb-6a63-ea06-9d440dc0f9c7
 msgctxt "hd907eda6ga479g4a55g9731g27666150ebdf"
 msgid "Another one of those githyanki discs. I should talk to Lae'zel."
-msgstr ""
+msgstr "기스양키 원반들 중 하나로군. 레이젤에게 말해봐야겠어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55882,7 +55931,7 @@ msgstr ""
 msgctxt "hc91b4041ge100g4abeg9309g3e9c97e01ac5"
 msgid ""
 "This looks just like the other disc. More of Orpheus' sorry tale, perhaps?"
-msgstr ""
+msgstr "다른 원반들과 같은 것 같은데. 오르페우스의 비극이 더 담겨 있는 건가?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55896,7 +55945,7 @@ msgstr ""
 msgctxt "h41049b9bg30c8g4cc4gbd47g8a52d82fa429"
 msgid ""
 "A third slate written with <i>tir'su?</i> It seems Orpheus' story continues."
-msgstr ""
+msgstr "<i>티어수</i>가 쓰여진 세 번째 석판이라? 오르페우스의 이야기가 끝나지 않은 것 같군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55909,7 +55958,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:aa9833ea-3eed-fa11-2977-5617c82f35e1
 msgctxt "h6f26d3b1gbb47g4e17ga707g979f81f91755"
 msgid "A third disc. What might this one have to tell us of Orpheus?"
-msgstr ""
+msgstr "세 번째 원반이야. 이건 오르페우스에 대해 어떤 이야기를 해 줄까?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55922,7 +55971,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:aa9833ea-3eed-fa11-2977-5617c82f35e1
 msgctxt "h161b35e2g09f9g40c1gba27g9046efcac425"
 msgid "A third disc. Related to Orpheus, most likely."
-msgstr ""
+msgstr "세 번째 원반이군. 분명 오르페우스와 연관이 있겠지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55935,7 +55984,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:aa9833ea-3eed-fa11-2977-5617c82f35e1
 msgctxt "h1bf0063dgc9eeg4258ga29bg16fe1cce887a"
 msgid "A third disc with those strange markings? More githyanki tales, I hope."
-msgstr ""
+msgstr "기묘한 문양이 새겨진 세 번째 원반이라? 분명 기스양키 이야기가 더 들어있겠군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55950,7 +55999,7 @@ msgctxt "h0464cf2cgaef8g4ddcgba22gee746b49810b"
 msgid ""
 "Must be another part of the story of the gith prince - Lae'zel will want to "
 "see this."
-msgstr ""
+msgstr "기스 왕자에 대한 또다른 이야기일 거야. 레이젤이 이걸 보고 싶어 하겠군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55963,7 +56012,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:aa9833ea-3eed-fa11-2977-5617c82f35e1
 msgctxt "h1dbdce9fgaa2bg446egb937g5608dc11582b"
 msgid "More githyanki records - and perhaps more to learn of Orpheus, too."
-msgstr ""
+msgstr "또다른 기스양키 기록이야. 그리고 분명 오르페우스에 대해 더 알 수 있겠지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55976,7 +56025,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:aa9833ea-3eed-fa11-2977-5617c82f35e1
 msgctxt "hb4feffddg1128g4e11gbb61g0a29106a25f1"
 msgid "A third disc. Related to Orpheus, somehow."
-msgstr ""
+msgstr "세 번째 원반이야. 어떤 식으로든 오르페우스와 연관이 있겠지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -55991,7 +56040,7 @@ msgctxt "h1f5c4f40g7e57g41cfgaad7gadf24df8d2c8"
 msgid ""
 "A slate written in ancient <i>tir'su </i>- more princely stories, I'd guess. "
 "Lae'zel will know for certain."
-msgstr ""
+msgstr "고대의 <i>티어수</i>가 쓰여진 석판이야. 왕자에 대한 더 많은 이야기가 담겨 있겠지. 레이젤이 더 잘 알고 있을 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56005,7 +56054,7 @@ msgctxt "he983b3f4g7498g4969gb2fagef511e7abc76"
 msgid ""
 "Still another githyanki disc - about the prince Orpheus, maybe. Lae'zel "
 "could make sense of it."
-msgstr ""
+msgstr "또다른 기스양키 원반이군. 아마 오르페우스 왕자에 대한 것이겠지. 레이젤이 이해할 수 있을 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56024,7 +56073,7 @@ msgstr ""
 msgctxt "he3fec05fg63b6g47a7gac66g83e15c6f1265"
 msgid ""
 "It's some kind of round gith... thing? Something for Lae'zel, I suppose."
-msgstr ""
+msgstr "이 둥그런 건 일종의 기스... 물건인가? 레이젤을 위한 것 같군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56042,7 +56091,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:be657c6e-1369-4227-869f-a73b634f7535
 msgctxt "ha828512ag9647g420egb1d6g86eb000a387e"
 msgid "This disc is marked by <i>tir'su</i> glyphs. I need a closer look."
-msgstr ""
+msgstr "<i>티어수</i> 문자가 새겨진 원반이야. 좀 더 자세히 봐야겠어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56062,7 +56111,7 @@ msgctxt "hd9a82e4bg73a3g41afga0fcg8fb2ee7a6579"
 msgid ""
 "A githyanki disc, covered in writing, perhaps? Lae'zel might be able to "
 "decode it."
-msgstr ""
+msgstr "문자의 일종으로 뒤덮인 기스양키 원반이군? 아마 레이젤이 해석할 수 있을 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56080,7 +56129,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:be657c6e-1369-4227-869f-a73b634f7535
 msgctxt "h01b954dbgf553g4efegb494g7a0ed2bf8a63"
 msgid "Curious disc - looks githyanki. Lae'zel may know more."
-msgstr ""
+msgstr "기묘한 원반이군. 기스양키 것 같아. 레이젤이 뭔가 알고 있을 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56100,7 +56149,7 @@ msgctxt "h577f7cc2g5a96g474dg9578ge10e52249919"
 msgid ""
 "Strange. Is this disc marked with... githyanki glyphs? Time for a word with "
 "Lae'zel."
-msgstr ""
+msgstr "이상하군. 이 원반에 쓰여진 건... 기스양키 문자인가? 레이젤한테 말해봐야겠는걸."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56118,7 +56167,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:be657c6e-1369-4227-869f-a73b634f7535
 msgctxt "ha845c26dgcfe1g4645gb64cg443a9c10360b"
 msgid "Huh. Looks gith-y. Lae'zel might know the ins and outs."
-msgstr ""
+msgstr "허, 기스 것 같은데. 레이젤이 좀 더 잘 알고 있겠지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56138,7 +56187,7 @@ msgctxt "h2fb89717g9fc5g49a0gb0a7g4eab668686ef"
 msgid ""
 "Some manner of githyanki artefact, judging by the script. Lae'zel may know "
 "more."
-msgstr ""
+msgstr "문자로 보건대 일종의 기스양키 아티팩트 같아. 레이젤이 더 알고 있을 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56156,7 +56205,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:be657c6e-1369-4227-869f-a73b634f7535
 msgctxt "hb689eeefg5dd4g44b8ga7f1g1db32eb1ebb7"
 msgid "A curious disc. Githyanki, perhaps. Lae'zel may know."
-msgstr ""
+msgstr "기묘한 원반이군. 아마 기스양키 것 같은데, 레이젤이라면 알고 있을 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56176,7 +56225,7 @@ msgctxt "hb0b3b469g8277g420bgad93g4468fac87a1d"
 msgid ""
 "This disc is marked with <i>tir'su</i> - but I can't decipher them. Maybe "
 "Lae'zel can."
-msgstr ""
+msgstr "이 원반에 새겨져 있는 건 <i>티어수</i> 문자지만 나는 해독할 수 없어. 아마 레이젤은 할 수 있을 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56193,7 +56242,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:be657c6e-1369-4227-869f-a73b634f7535
 msgctxt "he5f7d3f3gee67g4d2bga80cg2549cc576c08"
 msgid "Such a strange disc. Are these githyanki markings? Lae'zel might know."
-msgstr ""
+msgstr "정말 이상한 원반이군. 이것들은 기스양키 문양인가? 레이젤이라면 알겠지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56213,7 +56262,7 @@ msgctxt "h054b6792gc0d4g46ceg9c51g14a378ad51d1"
 msgid ""
 "Another gith disc. If it's anything to do with this 'Orpheus', Lae'zel will "
 "want to know."
-msgstr ""
+msgstr "또다른 기스양키 원반이군. 이게 그 '오르페우스'라는 것과 어떤 식으로든 연관이 있다면, 레이젤이 알고 싶어 할 거야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56232,7 +56281,7 @@ msgstr ""
 msgctxt "h719db16dg6e7cg4140g9de6g04af10ed546b"
 msgid ""
 "Another slate marked with <i>tir'su</i>. Still more tales of the prince?"
-msgstr ""
+msgstr "<i>티어수</i> 가 새겨진 석판이 더 있군. 왕자의 이야기가 더 남은 건가?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56250,7 +56299,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:e4fed21a-7f12-2a98-2b59-130be6e41181
 msgctxt "habec853cg2666g4344g9c9cg61295e985d15"
 msgid "Another githyanki disc. Another tale of the githyanki's lost prince?"
-msgstr ""
+msgstr "또다른 기스양키 원반이군. 사라진 기스양키 왕자에 대한 더 많은 이야기인가?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56268,7 +56317,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:e4fed21a-7f12-2a98-2b59-130be6e41181
 msgctxt "h4a153c82gac12g4d5fga98agc3675cac1fc2"
 msgid "Similar to that other Orpheus disc we found."
-msgstr ""
+msgstr "우리가 찾아냈던 다른 오르페우스 원반이랑 비슷하게 생겼는걸."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56286,7 +56335,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:e4fed21a-7f12-2a98-2b59-130be6e41181
 msgctxt "h316c3374g15f1g4200gbc76g8056d12cdedc"
 msgid "A githyanki disc? More tales of the prince, I shouldn't wonder."
-msgstr ""
+msgstr "기스양키 원반인가? 왕자에 대한 이야기가 더 있겠군. 놀랍지도 않아."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56304,7 +56353,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:e4fed21a-7f12-2a98-2b59-130be6e41181
 msgctxt "h80745a83gd082g475dga7d9gb5f3562b09a7"
 msgid "Another story about a gith royal, maybe?"
-msgstr ""
+msgstr "기스 왕족에 대한 또다른 이야기인가?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56322,7 +56371,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:e4fed21a-7f12-2a98-2b59-130be6e41181
 msgctxt "h61079696g992bg48bcgb438g68e2c3a82fdb"
 msgid "Hm - another annal of Orpheus, I think."
-msgstr ""
+msgstr "흠, 내 생각에는 오르페우스에 대한 또다른 기록 같은걸."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56340,7 +56389,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:e4fed21a-7f12-2a98-2b59-130be6e41181
 msgctxt "hc740b929gb294g4348ga279ge57b648e4ea1"
 msgid "This looks like the other disc of Orpheus."
-msgstr ""
+msgstr "이건 다른 오르페우스 원반과 비슷하게 생겼는데."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56358,7 +56407,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks:e4fed21a-7f12-2a98-2b59-130be6e41181
 msgctxt "h584475aag591bg439aga04dg90935a214443"
 msgid "A slate marked with <i>tir'su</i>. Another Orpheus story, perhaps?"
-msgstr ""
+msgstr "<i>티어수</i>가 새겨진 석판이군. 오르페우스의 다른 이야기가 담겨 있는 건가?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PAD_FoundBooks
 #. Speaker = Player
@@ -56377,7 +56426,7 @@ msgctxt "h6572c3f6gc7fdg454bga943g855b83f2bf7a"
 msgid ""
 "This gith slate looks like the other. Another story about the githyanki "
 "prince?"
-msgstr ""
+msgstr "이 기스 석판은 다른 것과 비슷하게 생겼군. 기스양키 왕자에 대한 다른 이야기인가?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56389,7 +56438,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:0431decf-9ccc-e6f9-9acb-91bbcd4804c1
 msgctxt "hde302c58g81acg4aa8gb9f0gf8f1632f21e8"
 msgid "*No matter how hard you try, you can't make any sense of the symbols.*"
-msgstr ""
+msgstr "*당신이 아무리 노력해도 문양을 전혀 이해할 수 없습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56407,7 +56456,7 @@ msgctxt "hb826a1b3gca86g42bbg9868gfc3c3733e01b"
 msgid ""
 "*Their meaning, however, is incomprehensible. The symbols are familiar, but "
 "they're arranged in nonsensical order.*"
-msgstr ""
+msgstr "*하지만 그 의미를 이해할 수 없습니다. 익숙한 문양이지만, 아무 의미도 없게끔 배열되어 있습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56423,7 +56472,7 @@ msgstr ""
 msgctxt "hed9c5a68gad40g428ega8ceg4675dca557fe"
 msgid ""
 "*The symbols are striking to look at, but you aren't sure what they mean.*"
-msgstr ""
+msgstr "*대단히 눈에 띄는 문양들이나, 당신은 그것들이 무엇을 의미하는지 확신할 수 없습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56438,6 +56487,8 @@ msgid ""
 "*The disc from Crèche Y'llek was distinctly similar to this one. If you can "
 "match the symbols, you might find a legible pattern.*"
 msgstr ""
+"*크레셰 일레크에서 가져온 원반은 분명 이것과 비슷하게 생겼었습니다. 문양을 비교해 볼 수 있다면 논리적인 규칙성을 찾아낼 수 있을 "
+"것입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56454,7 +56505,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:20630d58-e0ef-f68e-7875-7f6f116177ec
 msgctxt "h41e6c748g7c4eg4d44gb6a6g292246c222ef"
 msgid "*You should take the disc to Lae'zel. She might know more about it.*"
-msgstr ""
+msgstr "*원반을 레이젤에게 가져가는 게 좋겠습니다. 그녀라면 이것에 대해 더 알고 있을 겁니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Player
@@ -56466,7 +56517,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:26a86903-6166-883c-d6c2-36ebb8181588
 msgctxt "h493caed7g9774g4bbag853age9cb09e38452"
 msgid "<i>Seek a pattern in the writing.</i>"
-msgstr ""
+msgstr "<i>문자 속에서 규칙성을 찾아 본다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56477,7 +56528,7 @@ msgctxt "hc69bd00cg41c4g432eg82cag20e9961d8e47"
 msgid ""
 "*A pattern forms as you gaze at the disc, and from within that pattern, a "
 "story emerges.*"
-msgstr ""
+msgstr "*원반을 바라보자 규칙성이 드러납니다. 그리고 그 규칙성 속에서 이야기가 나타납니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56496,7 +56547,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:379433e5-6666-5848-4220-1e3153f64e3b
 msgctxt "h94042cf7g0eeag41c0g9b66ge49f12aaef32"
 msgid "*The disc is similar to one you found before - and similarly baffling.*"
-msgstr ""
+msgstr "*이전에 발견했던 원반과 비슷합니다. 이해할 수 없기는 마찬가지입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56507,7 +56558,7 @@ msgctxt "h3bda4b7egb4d6g4f86gbbdbgb2e405cbe6a4"
 msgid ""
 "*This time, the symbols easily resolve into coherent words and sentences. "
 "The story of Orpheus further unfolds.*"
-msgstr ""
+msgstr "*이번에는 문양을 손쉽게 논리적인 단어와 문장으로 풀어낼 수 있었습니다. 오르페우스에 대한 이야기가 더 펼쳐집니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56522,7 +56573,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:46e830d9-5791-3ab6-de32-bd4b6867caf5
 msgctxt "h5f9e5215g9621g4408g9e5bg8de5327a6eb9"
 msgid "*'The Prince of the Comet, Part Three.'*"
-msgstr ""
+msgstr "*'혜성의 왕자, 제3장.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56539,6 +56590,8 @@ msgid ""
 "claim he was never slain - sheer blasphemy. No wonder the tale was so "
 "expertly encoded.*"
 msgstr ""
+"*당신도 블라키스에게 반역했던 왕자에 대한 이야기를 들어 본 적이 있습니다. 하지만 이 문서는 그가 죽지 않았다고 주장하고 있습니다. "
+"완전한 신성모독입니다. 어째서 이 이야기가 이렇게나 전문적으로 암호화된 것인지 알 만하군요.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56552,7 +56605,7 @@ msgctxt "hfdc10438gb50dg44d6ga554g971064be11e2"
 msgid ""
 "*It's an intriguing tale - and a forbidden one, given how expertly it was "
 "encoded.*"
-msgstr ""
+msgstr "*흥미로운 이야기입니다. 그리고 이것이 얼마나 전문적으로 암호화되었는지를 고려하면 금기임이 분명합니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56569,6 +56622,8 @@ msgid ""
 "accuse Vlaakith of betraying Gith herself. No wonder the tale was so "
 "expertly encoded.*"
 msgstr ""
+"*당신도 블라키스에게 반역했던 왕자에 대한 이야기를 들어 본 적이 있습니다. 하지만 이 문서는 블라키스가 기스를 배신했다고 비난하고 "
+"있습니다. 어째서 이 이야기가 이렇게나 전문적으로 암호화된 것인지 알 만하군요.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56582,7 +56637,7 @@ msgctxt "ha1637972g5d11g47fdg9e21gb1514e252b5d"
 msgid ""
 "*It's an intriguing tale - and a forbidden one, given how expertly it was "
 "encoded.*"
-msgstr ""
+msgstr "*흥미로운 이야기입니다. 그리고 이것이 얼마나 전문적으로 암호화되었는지를 고려하면 금기임이 분명합니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56594,6 +56649,7 @@ msgid ""
 "*In your mind's eye, the symbols trade places with each other until a clear "
 "pattern forms. And from that pattern, a story emerges.*"
 msgstr ""
+"*당신의 머릿속에서 문양들이 서로 위치를 바꾸며 깔끔하고 규칙적인 형태를 이룹니다. 그리고 그 규칙 속에서, 이야기가 나타납니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Player
@@ -56610,7 +56666,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:53e0079c-181d-bc93-31da-610b5041da22
 msgctxt "h381f9986g198eg44a5g897bgfef0c01b9852"
 msgid "<i>Stash the disc in your pack.</i>"
-msgstr ""
+msgstr "<i>원반을 배낭에 넣는다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56623,7 +56679,7 @@ msgstr ""
 msgctxt "hca242031g1da0g499ega189g9c36cb5ed046"
 msgid ""
 "*It is another chapter in the tale of the githyanki prince called Orpheus.*"
-msgstr ""
+msgstr "*이것은 오르페우스라는 이름의 기스양키 왕자에 대한 이야기 중 한 부분입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56636,6 +56692,8 @@ msgid ""
 "illithid slavers and apply it to the disc. From the symbols, a pattern forms "
 "- and from that pattern, a story emerges.*"
 msgstr ""
+"*당신은 당신의 선조들이 일리시드 지배자들로부터 정보를 숨기기 위해 사용했던 수단을 기억해냅니다. 문양으로부터 규칙성을 찾아내자 그 "
+"규칙성에서 이야기가 드러납니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56649,7 +56707,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:7145b9b9-90ea-290f-c1c5-dce7820327f0
 msgctxt "hc45f90d4gfa8dg46ecg9d8fg0869edfe2e2d"
 msgid "*Lae'zel will surely want to know of this.*"
-msgstr ""
+msgstr "*분명 레이젤은 이것에 대해 알고 싶어할 것입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56662,6 +56720,9 @@ msgid ""
 "The Prince of the Comet will come again.\n"
 "The Prince of the Comet will liberate us from Vlaakith's tyranny.'*"
 msgstr ""
+"*'혜성의 왕자는 죽지 않았다.\n"
+"혜성의 왕자는 다시 돌아올 것이다.\n"
+"혜성의 왕자가 우리를 블라키스의 폭정으로부터 해방시킬 것이다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56677,7 +56738,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:843dd906-e5a5-5b04-aa0e-4f44fbf43101
 msgctxt "h7a1a5ea0g44d4g4cf7g8f61gea4c91c9e377"
 msgid "*The disc is formed from slate and engraved with <i>tir'su</i>.*"
-msgstr ""
+msgstr "*돌로 이루어진 이 원반은 <i>티어수</i>로 장식되어 있습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56692,7 +56753,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:843dd906-e5a5-5b04-aa0e-4f44fbf43101
 msgctxt "h4ae6f5c5g3c2cg4343g81c8g8150468955fa"
 msgid "*The disc is formed from slate and engraved with githyanki writing.*"
-msgstr ""
+msgstr "*돌로 이루어진 이 원반에는 기스양키 문자가 새겨져 있습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56707,7 +56768,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:856b7786-7c2f-678f-c640-a0c6456f137e
 msgctxt "h7ea87211ge4c6g413eg91d7g3cfef85f9153"
 msgid "*'The Prince of the Comet, Part One.'*"
-msgstr ""
+msgstr "*'혜성의 왕자, 제1장.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56720,6 +56781,8 @@ msgid ""
 "pierced Prince Orpheus clean through with his sword of silver. That his "
 "flesh was torn and fed to the great red dragon Ephelomon.'*"
 msgstr ""
+"*'역사는 사령관 보스,<i>제스틸 키스락</i>이 그의 은검으로 오르페우스 왕자를 꿰뚫었다고 전한다. 그리고 왕자의 육신은 찢겨져 "
+"위대한 레드 드래곤 에펠로몬의 먹이로 던져졌다고.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Player
@@ -56731,7 +56794,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:8a1bd4fb-d6bb-dab8-d571-e2c7ba020c09
 msgctxt "h6265b916g5bc7g4558g99acg9fe34ae12bf9"
 msgid "<i>Use the cipher you found to decode the symbols.</i>"
-msgstr ""
+msgstr "<i>당신이 발견한 암호문을 이용해 문양을 해독한다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56743,6 +56806,8 @@ msgid ""
 "*'Gith travelled to the Hells to broker help for her people, her cause. "
 "Vlaakith would have you believe Mother Gith proclaimed her our queen.'*"
 msgstr ""
+"*'기스께서는 그녀의 백성과 대의를 도울 자를 찾아 지옥으로 떠나셨다. 블라키스는 우리로 하여금 어머니 기스께서 그녀를 여왕으로 "
+"지명했다고 믿게 만들었다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56755,7 +56820,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:97adb01f-68d2-2507-08a3-5e779e624e61
 msgctxt "h38867560gd416g445dga179g5ba067b306fc"
 msgid "*It closely resembles the disc that Lae'zel deciphered.*"
-msgstr ""
+msgstr "*레이젤이 해독해냈던 그 원반과 매우 유사하군요.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56768,7 +56833,7 @@ msgstr ""
 msgctxt "h2d73a709g71abg46a7g93d6g01a378357a10"
 msgid ""
 "*Using the cipher you found, you might be able to reveal the disc's meaning.*"
-msgstr ""
+msgstr "*당신이 발견한 암호문을 이용한다면 원반의 의미를 알아낼 수 있을 것입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56779,7 +56844,7 @@ msgctxt "h8fac8dfbgb28bg4b56gae81g0b2f5cf85483"
 msgid ""
 "*'Praise be to Mother Gith, Queen of the One Sky! Praise be to your son "
 "Orpheus, the True Heir, Prince of the Comet!'*"
-msgstr ""
+msgstr "*'하나의 하늘의 여왕, 어머니 기스를 찬양하라! 그분의 아들, 진정한 후계자, 혜성의 왕자 오르페우스를 찬양하라!'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56790,7 +56855,7 @@ msgctxt "hbeb609b2gc488g4d70ga591g4592a48a154d"
 msgid ""
 "*'Lies! Gith made no such proclamation. Vlaakith seized the empire against "
 "the Mother's wishes.'*"
-msgstr ""
+msgstr "*'거짓말이다! 기스께서는 그러한 선언을 하지 않았다. 블라키스는 어머니의 뜻을 거스르고 제국을 찬탈한 것이다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Player
@@ -56809,7 +56874,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:b37f7bb6-3af5-ca47-15a1-16992686fb4a
 msgctxt "hab38703dg1742g45d4g947cgbaead0cee96e"
 msgid "<i>Stash the disc in your pack.</i>"
-msgstr ""
+msgstr "<i>원반을 배낭에 넣는다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56820,7 +56885,7 @@ msgctxt "hbbba9740gefaeg45fcg86aag5c99b34f455b"
 msgid ""
 "*'Orpheus rallied Gith's honour guard and declared the throne for himself. "
 "The War of the Comet had begun.'*"
-msgstr ""
+msgstr "*'오르페우스는 기스의 친위대를 규합해 스스로 왕위에 올랐다. 이로서 혜성의 전쟁이 시작되었다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56832,6 +56897,7 @@ msgid ""
 "*'Vlaakith's faithful roar out this tale. But beneath the roars, we hear "
 "whispers carrying truth and prophecy.'*"
 msgstr ""
+"*'블라키스의 신도들이 이 이야기를 외치고 다닌다. 하지만 그 외침 아래서 우리는 진실과 예언을 담은 속삭임을 들을 수 있다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56842,7 +56908,7 @@ msgctxt "h5d6030d2g5675g41eegad4bg70112c501690"
 msgid ""
 "*Without a cipher or primer to aid you, the disc's message could be near-"
 "impossible to discern.*"
-msgstr ""
+msgstr "*당신을 도와 줄 도구나 암호문 없이 원반의 내용을 파악하는 것은 거의 불가능한 일입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56855,6 +56921,8 @@ msgid ""
 "blades on each other. The heavens were shattered, and one great empire was "
 "divided in two.'*"
 msgstr ""
+"*'그리하여 <i>가이크</i>의 족쇄로부터 해방된 우리는 서로에게 칼을 겨누었다. 천상이 산산조각나고 하나의 위대한 제국은 둘로 나뉘고 "
+"말았다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Player
@@ -56871,7 +56939,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:cc53fbb0-c1aa-3183-2bf7-42f1202e682f
 msgctxt "h58be5a75g18d5g4a61gb53egdddbb4d535da"
 msgid "<i>Stash the disc in your pack.</i>"
-msgstr ""
+msgstr "<i>원반을 배낭에 넣는다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Player
@@ -56880,7 +56948,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:d1ac4d27-03ba-3ef4-c651-bf9351ddce57
 msgctxt "h7d1c5758g395dg40e7g80e6gcedeebe2ff71"
 msgid "<i>Command the disc to reveal its secrets.</i>"
-msgstr ""
+msgstr "<i>원반에게 그 비밀을 드러내라고 명령한다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Player
@@ -56895,7 +56963,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:d71216f1-39e1-9dbc-fb3c-3c1e80932fb5
 msgctxt "h0080399cg81afg4b33ga6cdgf92baca5e330"
 msgid "Githyanki"
-msgstr ""
+msgstr "기스양키"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Player
@@ -56912,7 +56980,7 @@ msgctxt "h5b5d1efeg6e75g4de1g806bgd814ca8c83a9"
 msgid ""
 "<i>Recall your language lessons, try to arrange the symbols in a coherent "
 "order.</i>"
-msgstr ""
+msgstr "<i>언어 수업의 기억을 되살려 문양들을 논리적인 순서로 재배치하는 것을 시도한다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56928,7 +56996,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:d7a485f6-78d6-01e1-a4df-841295d9c216
 msgctxt "hd9638aa2gdf6ag439fgab0bg69af19ea530a"
 msgid "*The disc is similar to one you found before.*"
-msgstr ""
+msgstr "*이전에 발견했던 원반과 비슷합니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56940,6 +57008,7 @@ msgid ""
 "*'But Gith had nurtured a son. Orpheus, Prince of the Comet, the True Heir! "
 "He knew Vlaakith's treachery.'*"
 msgstr ""
+"*'그러나 기스께는 아들이 하나 있었으니, 그가 바로 진정한 후계자, 혜성의 왕자 오르페우스다! 그는 블라키스의 배반을 알고 있었다.''*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56957,7 +57026,7 @@ msgctxt "he18b2e7dg5c56g421bg8c42g20d121201b94"
 msgid ""
 "*The markings look familiar, but you can make no sense of their logic or "
 "structure.*"
-msgstr ""
+msgstr "*익숙한 문자들이지만, 당신은 그로부터 어떤 종류의 논리성이나 구조성을 찾아볼 수 없습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56972,7 +57041,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:e2f3258e-872c-0408-ea69-ef2ef6ef3cb6
 msgctxt "h47efb71fg57a4g48d6gafa0gac144af9e60a"
 msgid "*You examine them closely, but can't make much sense of them.*"
-msgstr ""
+msgstr "*당신은 그것을 면밀히 살펴보지만, 전혀 이해할 수 없습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -56984,7 +57053,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:e48eedf5-b789-f5bd-43c3-21e8ba17d3fb
 msgctxt "hd4a19920g6df3g4a81gb215gf99b0b50e936"
 msgid "*You don't recall any lessons in githyanki code-breaking.*"
-msgstr ""
+msgstr "*기스양키 암호 해독에 대해 배웠던 것들이 전혀 떠오르지 않는군요.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -57000,7 +57069,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:eaa93dae-5a41-b387-b958-c4b2313700d1
 msgctxt "hc23168bdge1a2g4f03gad71g4dc67f37e583"
 msgid "*Once more, you examine the disc.*"
-msgstr ""
+msgstr "*당신은 다시 한 번 원반을 살펴봅니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -57009,7 +57078,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:eb2703ba-db93-04c9-86d5-fb99882de9b4
 msgctxt "h5bf13ce1gb72fg40b7g8806g02ee4e04e522"
 msgid "*The disc doesn't respond.*"
-msgstr ""
+msgstr "*원반은 응답하지 않습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Player
@@ -57021,7 +57090,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:f078a465-6426-8ff6-ffde-cc637e49293b
 msgctxt "h2cac76d1g829fg4cdbgb9a3gfe54ff5fcfb4"
 msgid "<i>Compare the disc to the one from the crèche.</i>"
-msgstr ""
+msgstr "<i>크레셰에서 가져온 원반과 비교해 본다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -57037,7 +57106,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter:f26fe28c-1caa-0ed8-b785-a13b3c866c36
 msgctxt "he872d686g0b95g4807g845egd2d6f0891790"
 msgid "*Circular symbols are etched on the disc.*"
-msgstr ""
+msgstr "*원반 위로 문양들이 원형을 그리며 새겨져 있습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
 #. Speaker = Narrator
@@ -57052,7 +57121,7 @@ msgstr ""
 msgctxt "h1f2d28afgd4b3g4daag9c2ag3734aa725f33"
 msgid ""
 "*The chapter ends there. This disc might be of some interest to Lae'zel.*"
-msgstr ""
+msgstr "*이 장은 그렇게 끝납니다. 아마 이 원반이 레이젤의 흥미를 끌 수 있을 것 같군요.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_PAD_CombatReact_PartyDeath
 #. Speaker = Player
@@ -57703,7 +57772,7 @@ msgstr "안 돼!"
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_PAD_CombatReact_PartyDeath:4b1560a6-9df8-49f5-9015-00cac9bd8a57
 msgctxt "h3b4e3ffeg3d66g4344gbea9g9709960b9e56"
 msgid "Straj! I will avenge you.\n"
-msgstr "빌어먹을! 복수해 주지.\n"
+msgstr "스트라지! 복수해 주지.\n"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_PAD_CombatReact_PartyDeath
 #. Speaker = Player
@@ -58483,7 +58552,7 @@ msgstr "아스타리온, 안돼!"
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_PAD_CombatReact_PartyDeath:a111a28f-7179-4714-8dd2-bd4a017aa862
 msgctxt "h4715662fgd27cg4ac0g9668g34e3d174e93a"
 msgid "<i>Straj</i>. Astarion!\n"
-msgstr "<i>빌어먹을</i>, 아스타리온!\n"
+msgstr "<i>스트라지</i>, 아스타리온!\n"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_PAD_CombatReact_PartyDeath
 #. Speaker = Player
@@ -59136,7 +59205,7 @@ msgstr "충분히 쉬었어. 이제 전진이다."
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_PAD_PartyCommentsAfterShortRest:5bd68695-96a8-4aae-8d64-8f51f1bcf790
 msgctxt "h2b498a92g2c48g4014g96aagf2f0e972784e"
 msgid "That should more than suffice."
-msgstr ""
+msgstr "그거면 충분해."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_PAD_PartyCommentsAfterShortRest
 #. Speaker = Player
@@ -62893,7 +62962,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_DaisyAD_TadpoleOnTrueSoulCorpse:e034ad1c-6403-d2ec-e2a5-cd8b5daf78bc
 msgctxt "hc0c391c0g5d21g4031ga427gfb353675dc73"
 msgid "Another parasite - collect it. It might be useful."
-msgstr ""
+msgstr "또 다른 기생충이군요. 수집하도록 하세요. 유용할지도 몰라요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_DaisyAD_TadpoleOnTrueSoulCorpse
 #. Speaker = GROUP_Daisy
@@ -62909,7 +62978,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_DaisyAD_TadpoleOnTrueSoulCorpse:e034ad1c-6403-d2ec-e2a5-cd8b5daf78bc
 msgctxt "h013785ecg1a06g40cdg8ee1g805401ac50b3"
 msgid "Another parasite - collect it. It might be useful."
-msgstr ""
+msgstr "또 다른 기생충이군요. 수집하도록 하세요. 유용할지도 몰라요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_DaisyAD_TadpoleOnTrueSoulCorpse
 #. Speaker = GROUP_Daisy
@@ -62967,7 +63036,7 @@ msgstr "*지금은 사용할 수 없습니다.*"
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_PAD_Refusal:bd9ff09a-3d2c-4a6f-83ab-3eca3fcba01e
 msgctxt "h4d4933f4g101ag42f2ga83bg3676de241752"
 msgid "*This character does not wish to consume tadpoles.*"
-msgstr ""
+msgstr "*이 인물은 올챙이를 삼키길 원하지 않습니다.*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow
 #. Speaker = Player
@@ -62990,7 +63059,7 @@ msgctxt "h3caec3e5g3449g4f2eg8e48gac21198e93a0"
 msgid ""
 "*The parasite is stubborn - it refuses both to leave or to allow itself to "
 "be used as you desire.*"
-msgstr ""
+msgstr "*기생충은 완고합니다. 그것은 떠나는 것도, 당신이 원하는 대로 쓰이는 것도 거부하고 있습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_PAD_RefuseSupremeTadpole
 #. Speaker = Player
@@ -63292,7 +63361,7 @@ msgstr ""
 msgctxt "hd25cfe4eg105dg47e3g8f42g7f6511aa5941"
 msgid ""
 "*There's life within the corpse yet - a tadpole, still fighting to survive.* "
-msgstr ""
+msgstr "*아직 시체 안에 생명이 존재합니다. 올챙이입니다. 살아남기 위해 몸부림치고 있군요.* "
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_TrueSoulCorpse
 #. Speaker = GROUP_Daisy
@@ -63985,7 +64054,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_UseSupremeTadpole:376dfeb5-ebe0-8c31-6d74-9ad8afd6e311
 msgctxt "h17fc7898g4b63g4a44g983bge8ea0f7ae984"
 msgid "What are you doing? The time is now!"
-msgstr ""
+msgstr "뭘 하고 있나? 때가 되었다!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_UseSupremeTadpole
 #. Speaker = Orpheus
@@ -63999,7 +64068,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_UseSupremeTadpole:376dfeb5-ebe0-8c31-6d74-9ad8afd6e311
 msgctxt "h4f562c5ag22f2g4a88g9101g804841a33ac4"
 msgid "<i>Is'tark.</i> You are putting us at risk!"
-msgstr ""
+msgstr "<i>이스타크.</i> 넌 우리 모두를 위험에 빠뜨리고 있다!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_UseSupremeTadpole
 #. Speaker = Disembodied Voice
@@ -64012,6 +64081,9 @@ msgid ""
 "- <b><i>pestilence </i>--\n"
 "-- EXTINGUISH --</b>"
 msgstr ""
+"--- 노예 -\n"
+"- <b><i>역병 </i>--\n"
+"-- 죽여라 --</b>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_UseSupremeTadpole
 #. Speaker = Disembodied Voice
@@ -64024,6 +64096,9 @@ msgid ""
 "- <b><i>pestilence </i>--\n"
 "-- EXTINGUISH --</b>"
 msgstr ""
+"--- 노예 -\n"
+"- <b><i>역병 </i>--\n"
+"-- 죽여라 --</b>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_UseSupremeTadpole
 #. Speaker = Player
@@ -64046,7 +64121,7 @@ msgctxt "ha232cbc2g3509g4b7agb379gc69226dc51e6"
 msgid ""
 "<i>Well would you look at that. If I had a bit more time, I think I could "
 "get used to this.</i>"
-msgstr ""
+msgstr "<i>저것 좀 봐. 나한테 시간이 조금만 더 있다면, 익숙해질 수 있을 것 같은데.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_UseSupremeTadpole
 #. Speaker = Player
@@ -64069,7 +64144,7 @@ msgctxt "h78a5e155g15e7g4ba9gbe27g6163a693f4f2"
 msgid ""
 "*Your pulse quickens through veins, nerves, thoughts, rising to a fever "
 "pitch.*"
-msgstr ""
+msgstr "*감정과 신경과 사고로 당신의 맥박이 빨라집니다, 극도의 흥분이 덮쳐옵니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_UseSupremeTadpole
 #. Speaker = Karlach
@@ -66062,7 +66137,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_WildMagic_PAD_Teleport:2ca4efcc-703a-4bb8-87d1-091de90907ea
 msgctxt "h9cfca6b5gbd48g4c89g9ec0gcab693a51b1f"
 msgid "Let's go."
-msgstr ""
+msgstr "가자."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_WildMagic_PAD_Teleport
 #. Speaker = Player
@@ -68598,7 +68673,7 @@ msgstr "<i>케인얀크.</i>"
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_LaezelBeforeHelm:ccbedd10-8d4b-4ab6-a6dd-1fa95a7fb41e
 msgctxt "ha81e7237gfec8g46b5gb1e5g91c0549edfd0"
 msgid "Who put you in charge? I'll trust my own judgement."
-msgstr "네가 뭔데 명령을 내리는 거야? 난 내 알아서 해."
+msgstr "네가 뭔데 명령을 내려? 난 내가 알아서 할 거야."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_LaezelBeforeHelm
 #. Speaker = Lae'zel
@@ -68607,7 +68682,7 @@ msgstr "네가 뭔데 명령을 내리는 거야? 난 내 알아서 해."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_LaezelBeforeHelm:e714096c-1a14-4f90-a65c-bca23c5a61d3
 msgctxt "hf692305cge631g446fg80d5g33a3752d35f5"
 msgid "We are nearing the helm. Once inside, do as I say."
-msgstr "조타실에 가까워지고 있다. 들어가면, 내가 시키는 대로 해."
+msgstr "조타실에 다 와 가는군. 진입하면, 내가 시키는 대로 해라."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_MindflayerCall
 #. Speaker = Losiir
@@ -72584,8 +72659,8 @@ msgid ""
 "Infected by a <i>ghaik </i>tadpole, but changed at the pull of a lever? This "
 "cannot be. If we do not find our cure, this might well be our fate."
 msgstr ""
-"<i>가이크</i> 올챙이에 감염되었다지만, 그저 레버만 당겼는데 변이를 일으키다니? 말도 안 돼. 치료 방법을 찾지 않으면 우리도 저런 "
-"꼴이 될지 모른다."
+"<i>가이크</i> 올챙이에 감염되었다지만, 그저 레버만 당겼는데 변이되다니? 말도 안 돼. 치료 방법을 찾지 않으면 우리도 저런 꼴이 "
+"될지 모른다."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_MindflayerTransformation
 #. Speaker = Player
@@ -74240,7 +74315,7 @@ msgstr "이상하네. 기분이... <i>나아졌어</i>."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:819baae3-7ebc-71d8-1835-abe2ca7bb5f8
 msgctxt "h8b11ea3ag56a2g4fadg810cg2db96abf70f3"
 msgid "Gah! Is there a lever with our names on it somewhere?"
-msgstr "으윽! 우리 이름이 적혀 있는 레버 같은 거 어디 없어?"
+msgstr "으윽! 혹시 우리 이름도 어디 이런 레버에 적혀 있는 거 아니야?"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Player
@@ -74250,7 +74325,7 @@ msgstr "으윽! 우리 이름이 적혀 있는 레버 같은 거 어디 없어?"
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:819baae3-7ebc-71d8-1835-abe2ca7bb5f8
 msgctxt "h8e4c9b36gc814g47dcgbcf5g863a0ce2f3b4"
 msgid "Gods, it's horrifying... and a touch fascinating."
-msgstr "신들이시여, 끔찍하군... 약간 흥미롭기도 한데."
+msgstr "맙소사, 소름끼치는군... 약간 흥미롭기도 하고."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Player
@@ -74260,7 +74335,7 @@ msgstr "신들이시여, 끔찍하군... 약간 흥미롭기도 한데."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:819baae3-7ebc-71d8-1835-abe2ca7bb5f8
 msgctxt "h324a8ed1ga86bg4eb0g9408gf51a276facfc"
 msgid "Gods! These things are procreating."
-msgstr "신들이시여! 이것들 새끼를 낳고 있어."
+msgstr "맙소사! 이것들 새끼 까는 기구였잖아."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Player
@@ -74270,7 +74345,7 @@ msgstr "신들이시여! 이것들 새끼를 낳고 있어."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:819baae3-7ebc-71d8-1835-abe2ca7bb5f8
 msgctxt "hb3208e48gb22bg4131gbdd3g45ef31bbcdd2"
 msgid "Foul <i>ghaik! </i>Transformed by a lever. That must never be our fate."
-msgstr "역겨운 <i>가이크</i> 같으니! 레버가 저들을 변형시켰어. 우리도 저렇게 되어서는 안 돼."
+msgstr "역겨운 <i>가이크들! </i> 레버가 저들을 변이시켰군. 우린 저런 꼴이 되어선 안 된다."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Player
@@ -74280,7 +74355,7 @@ msgstr "역겨운 <i>가이크</i> 같으니! 레버가 저들을 변형시켰�
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:819baae3-7ebc-71d8-1835-abe2ca7bb5f8
 msgctxt "h1cf704d4g40a2g4412g8fe1gdd0b45bf7b3d"
 msgid "Hells. Is that going to happen to <i>us...?</i>"
-msgstr "망할. 이게 <i>우리</i>한테도 일어날 일이라고...?"
+msgstr "망할. 이게 <i>우리</i>한테 닥칠 일이라고...?"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Player
@@ -74300,7 +74375,7 @@ msgstr "발두란의 뼈여! 저게 우리 운명이라고?"
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:819baae3-7ebc-71d8-1835-abe2ca7bb5f8
 msgctxt "h2d423865g7715g49a7g980dg62c3b1db63cf"
 msgid "<i>Tsk'va! </i>This cannot - <i>must </i>not - be our fate."
-msgstr "<i>츠크바!</i> 이건 우리 운명이 <i>아니어야만 </i>해."
+msgstr "<i>츠크바!</i> 이 꼴만큼은 <i>반드시 </i>피해야 해."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Player
@@ -74310,7 +74385,7 @@ msgstr "<i>츠크바!</i> 이건 우리 운명이 <i>아니어야만 </i>해."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:819baae3-7ebc-71d8-1835-abe2ca7bb5f8
 msgctxt "hc11a7598g051cg4a77g97a0g56be6e2a32f5"
 msgid "Disgusting. I'll be damned if that's in store for <i>us.</i>"
-msgstr "역겹군. 저게 곧 <i>우리</i>한테 닥쳐올 일이라면 난 망했어."
+msgstr "역겹군. 저게 <i>우리</i>에게 닥칠 일이라면 환장할 노릇인걸."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Player
@@ -74321,7 +74396,7 @@ msgstr "역겹군. 저게 곧 <i>우리</i>한테 닥쳐올 일이라면 난 망
 msgctxt "hb21e208dg72e0g4733ga0fagc4525d74053f"
 msgid ""
 "Moradin's bloody beard... I'm not waiting around for that to happen to us."
-msgstr "모라딘의 피투성이 수염이여... 우리도 저렇게 될 때까지 기다리고만 있을 수는 없어."
+msgstr "모라딘의 피투성이 수염이여... 난 저렇게 될 때까지 가만히 기다릴 생각 따위 없어."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Player
@@ -74331,7 +74406,7 @@ msgstr "모라딘의 피투성이 수염이여... 우리도 저렇게 될 때까
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:819baae3-7ebc-71d8-1835-abe2ca7bb5f8
 msgctxt "h1031c3b7ga9c6g463cg81d5g5be895120a8d"
 msgid "<i>Straj! </i>Is this to be our fate?"
-msgstr "<i>빌어먹을! </i> 저게 우리 운명이라고?"
+msgstr "<i>스트라지!</i> 저 꼴이 우리 운명이라고?"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Player
@@ -74341,7 +74416,7 @@ msgstr "<i>빌어먹을! </i> 저게 우리 운명이라고?"
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:819baae3-7ebc-71d8-1835-abe2ca7bb5f8
 msgctxt "hdef8726egcb7fg443cg9dacg6ddd392f69b1"
 msgid "Corellon preserve me. That cannot be our fate."
-msgstr "코렐론이시여 지켜주소서. 저게 우리 운명이 될 순 없어."
+msgstr "코렐론이시여, 저를 지켜주소서. 저런 꼴을 맞을 순 없어."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Player
@@ -74350,7 +74425,7 @@ msgstr "코렐론이시여 지켜주소서. 저게 우리 운명이 될 순 없�
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:819baae3-7ebc-71d8-1835-abe2ca7bb5f8
 msgctxt "hb15d4439gb4d4g4f75gbe2bgde1e309f0d34"
 msgid "We need to get out of here - before it's our turn."
-msgstr "여기서 탈출해야 해. 우리 차례가 오기 전에."
+msgstr "여기서 탈출해야 해. 우리 차례가 오기 전에 말이야."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Shadowheart
@@ -74359,7 +74434,7 @@ msgstr "여기서 탈출해야 해. 우리 차례가 오기 전에."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:8b70c62a-408d-4088-af25-1ef0b67e171c
 msgctxt "he5c1803ag67a2g4473gadecg2167bf27f10b"
 msgid "That could have been me, if you hadn't gotten me out of my pod..."
-msgstr "네가 나를 포드에서 꺼내 주지 않았다면... 저게 나일 수도 있었어..."
+msgstr "네가 포드에서 꺼내주지 않았더라면, 내가 저 꼴이 됐을 수도 있었어..."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PodMindflayer
 #. Speaker = Narrator
@@ -75676,7 +75751,7 @@ msgstr "레버를 건드리지 마라. 뭔 일이 벌어질지 모르잖나."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_AD_AltGuide_LeverResponse:90d8c69d-20ab-49fc-882b-9a8614175510
 msgctxt "he492411cgb24cg4e0bgafd6gb3e368bdeb16"
 msgid "What is wrong with you?!"
-msgstr "넌 뭐가 문제야?!"
+msgstr "대체 무슨 짓이냐?!"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_AD_AltGuide_PodStorage
 #. Speaker = Losiir
@@ -75685,7 +75760,7 @@ msgstr "넌 뭐가 문제야?!"
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_AD_AltGuide_PodStorage:368a7e56-ceaa-00df-933b-4a75daa4a25d
 msgctxt "h351c88bbgc032g48aag859egefab32309d78"
 msgid "A pod for every victim. Disgusting."
-msgstr "희생양들의 포드로군. 역겨워."
+msgstr "이 포드마다 희생양이 들었군. 역겹구나."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Tutorial/TUT_TransformChamber_AD_AttackOnPod
 #. Speaker = Lae'zel
@@ -78594,7 +78669,7 @@ msgstr "물론 그 방법을 알아낼 수 있다면 말이지..."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_ShadowheartFollower:18a030f1-ea8d-4088-b3c1-e650c0b78a1d
 msgctxt "hbad1f1f2g1f25g4ea3gbe32g62163efeb065"
 msgid "Something the matter? Besides the obvious, that is."
-msgstr "무슨 문제라도 있어? 당연한 것 말고 말이야."
+msgstr "무슨 문제라도 있어? 눈에 빤히 보이는 거 빼고 말이야."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_ShadowheartFollower
 #. Speaker = Shadowheart
@@ -78605,7 +78680,7 @@ msgctxt "h45c9a6e0g0bfag41b2g8463g6f7e2172f586"
 msgid ""
 "Pondering my name won't get us off this ship. Let's stow the small talk "
 "until we're safe, shall we?"
-msgstr "내 이름에 대해 고민한다고 이 함선에서 내릴 순 없어. 안전해질 때까지 잡담은 접어두자고, 알겠지?"
+msgstr "내 이름에 정신 팔려만 있으면 이 함선에서 벗어날 수 없어. 안전해질 때까지 잡담은 접어두자고, 알겠지?"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_ShadowheartFollower
 #. Speaker = Player
@@ -78636,7 +78711,7 @@ msgstr "계속 가자."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_ShadowheartFollower:7b95f4a8-0555-13a6-e750-e1d71692a384
 msgctxt "h9bdf2adcg5f5bg46cegb015gf01b63ac369d"
 msgid "'Shadowheart'? Unusual name."
-msgstr "'섀도하트'? 특이한 이름이군."
+msgstr "'섀도하트'라? 특이한 이름인걸."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_ShadowheartFollower
 #. Speaker = Player
@@ -78669,7 +78744,8 @@ msgctxt "h49ef0b56g2369g46c8gabf8g345e795dd9a6"
 msgid ""
 "My name is [GEN_PlayerName2_85df4a15-4d9b-4f68-0512-d104305d8dac], by the "
 "way."
-msgstr "아 참, 내 이름은 [GEN_PlayerName2_85df4a15-4d9b-4f68-0512-d104305d8dac] 야."
+msgstr ""
+"미처 말 못했는데, 내 이름은 [GEN_PlayerName2_85df4a15-4d9b-4f68-0512-d104305d8dac] 라고 해."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_ShadowheartFollower
 #. Speaker = Player
@@ -78696,7 +78772,7 @@ msgstr "어떻게 나아가야 할지 조언해줄 건 없어?"
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_ShadowheartFollower:c020e1c8-e0e2-63ae-9a87-07c6e8c37a8e
 msgctxt "hcd10841bgdbbfg4a0bg8192ge81d856dd9f2"
 msgid "I'm right behind you."
-msgstr "네 바로 뒤에 있어."
+msgstr "바짝 따라다닐게."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_ShadowheartFollower
 #. Speaker = Shadowheart
@@ -78727,7 +78803,7 @@ msgstr "섀도하트라고 불러."
 msgctxt "h447f0478g7b45g4192g89cfg7f20c75ccfdc"
 msgid ""
 "I'm Shadowheart. Enchanted to meet you - as much as circumstances allow."
-msgstr "난 섀도하트야. 이런 상황이지만, 만나서 반가워."
+msgstr "난 섀도하트야. 만나서 대단히 반가워. 상황이 영 여의치 않은 만큼 말이지."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_ShadowheartFollower
 #. Speaker = Shadowheart
@@ -78739,7 +78815,7 @@ msgstr "난 섀도하트야. 이런 상황이지만, 만나서 반가워."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_ShadowheartFollower:eb3fb344-015f-19e6-d338-ca5cd6551ec9
 msgctxt "hc4220b61g3574g4709ga409gfe414b42c8a5"
 msgid "You're keen to chat, for someone in mortal peril. What's the matter?"
-msgstr "치명적인 위험에 처한 사람 치고는 말이 많구나. 무슨 일이야?"
+msgstr "심각한 위험에 처한 사람 치곤 말수가 참 많구나. 무슨 일이야?"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_ShadowheartFreed
 #. Speaker = Player

@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-09-24 04:37+0000\n"
+"Last-Translator: Faaard <kal416712@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -844,7 +846,7 @@ msgstr "우린 삿자를 풀어주지 않았다. 그녀가 어찌 될지는 알 
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:968
 msgctxt "h1f61d5bdg79c1g4eb4g942fgac5ddf142e3b"
 msgid "We never met Sazza at the Goblin Camp."
-msgstr "삿자를 고블린 숙영지에서 만나지 못했다."
+msgstr "우리는 삿자를 고블린 야영지에서 만나지 못했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -891,7 +893,7 @@ msgctxt "h9c07f5fbg9237g4e76ga927gf76ee7479341"
 msgid ""
 "We got out of the grove in one piece. Sazza told us to meet her at the "
 "Goblin Camp."
-msgstr "무사히 드루이드 숲을 빠져나왔다. 삿자가 고블린 숙영지에서 만나자고 했다."
+msgstr "우리는 무사히 드루이드 숲을 빠져 나왔다. 삿자가 고블린 야영지에서 만나자고 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -901,7 +903,7 @@ msgstr "무사히 드루이드 숲을 빠져나왔다. 삿자가 고블린 숙�
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:120
 msgctxt "hccb545a4g4746g40f4gbf93g656a0e7b7094"
 msgid "Reach the Goblin Camp."
-msgstr "고블린 숙영지에 도착하자."
+msgstr "고블린 야영지에 도착하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -2308,7 +2310,7 @@ msgctxt "h164d041cgc4a9g4858g85d6g1317ddc640b1"
 msgid ""
 "We solved a puzzle in the Goblin Camp, revealing a secret passage that leads "
 "underground."
-msgstr "고블린 숙영지의 수수께끼를 풀자, 지하로 가는 비밀 통로가 드러났다."
+msgstr "고블린 야영지의 수수께끼를 풀자, 지하로 가는 비밀 통로가 드러났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -2327,7 +2329,6 @@ msgstr "비밀 통로에 들어가자."
 #. ID = SawBook
 #. Objective = SHA_Nightsong_OpenDoor
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:2886
-#, fuzzy
 msgctxt "h337169bdge646g4cc5ga175gf00c808ee20f"
 msgid ""
 "We found a poem about Selûne on a dwarf's corpse. It mentioned a door under "
@@ -2384,10 +2385,9 @@ msgstr "나이트송이 죽었다."
 #. ID = LearnedLocation
 #. Objective = SHA_Nightsong_FindTemple
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:2954
-#, fuzzy
 msgctxt "h3d6a4326gfff5g4168ga162gdbebde1c0eb8"
 msgid "The Nightsong is in some kind of temple. It must be in the Goblin Camp."
-msgstr "나이트송은 어떤 신전에 있는 것 같다. 신전은 고블린 야영지에 있는 게 분명하다."
+msgstr "나이트송은 어떤 신전에 있는 것 같다. 그건 고블린 야영지에 있는 게 분명하다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -2432,13 +2432,12 @@ msgstr "발더스 게이트에 있는 어떤 위저드에게 '나이트송'을 �
 #. ID = RefinedLocation
 #. Objective = SHA_Nightsong_OpenDoor
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:2996
-#, fuzzy
 msgctxt "h3c00303bgb592g44a4gb97eg5c2b1439512e"
 msgid ""
 "We discovered a clue about the Nightsong: a poem about Selûne that mentions "
 "a door under the temple. What is hidden beneath the Goblin Camp?"
 msgstr ""
-"나이트송에 대한 단서를 찾았다. 셀루네에 관한 시에 신전 밑의 문이 언급되어 있다. 고블린 야영지 아래에 뭐가 숨겨져 있는 거지?"
+"나이트송에 대한 단서를 찾았다. 셀루네에 관한 시에 신전 밑의 문이 언급되어 있다. 고블린 야영지 아래에 뭐가 숨겨져 있는 걸까?"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12082,7 +12081,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1113
 msgctxt "h1806545fg3db9g49bag8793g765182a4fa60"
 msgid "Search for Halsin in the Goblin Camp."
-msgstr "고블린 숙영지에서 할신을 찾자."
+msgstr "고블린 야영지에서 할신을 찾자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -12093,7 +12092,7 @@ msgstr "고블린 숙영지에서 할신을 찾자."
 #: Mods/GustavDev/Story/Journal/Markers/81234642-b325-99ee-a4c0-48902fa2574b.lsx:8
 msgctxt "hcab34955g0a89g4b2bg98fagfce82e8d2338"
 msgid "Goblin Camp"
-msgstr "고블린 숙영지"
+msgstr "고블린 야영지"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12442,7 +12441,7 @@ msgctxt "h60203556g4f20g4010g8e2cgdb899f34563e"
 msgid ""
 "Halsin's research suggests that the parasite is connected to a Goblin Camp "
 "located in an old temple of Selûne."
-msgstr "할신의 연구에 따르면 기생충은 고대 셀루네 신전에 있는 고블린 숙영지와 관련이 있다고 한다."
+msgstr "할신의 연구에 따르면 기생충은 고대 셀루네 신전에 있는 고블린 야영지와 관련이 있다고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12581,14 +12580,13 @@ msgstr "할신은 기생충이 문라이즈 타워라는 곳에서 퍼져 나오
 #. ID = LearnedHalsinDiary
 #. Objective = GLO_Tadpole_SUB_Druid_Find
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:15619
-#, fuzzy
 msgctxt "h4302dd82g0f98g4254g81f4g876a2cc39de7"
 msgid ""
 "We discovered that the druid Halsin was here in the Goblin Camp and he "
 "claimed to be able to remove their parasites. If he's still alive, he might "
 "be able to help us."
 msgstr ""
-"우리는 이곳 고블린 야영지에 드루이드 할신이 있었으며 그가 기생충을 제거할 수 있다고 했다는 사실을 알아냈다. 그가 아직 살아있다면 "
+"드루이드 할신이 이곳 고블린 야영지에 있었으며, 그가 기생충을 제거할 수 있다고 주장했다는 사실을 알아냈다. 그가 아직 살아있다면 "
 "우리에게 도움을 줄 수 있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
@@ -14371,7 +14369,7 @@ msgstr "우리가 찾은 그림에는 세 명의 형상이 있었다. 고블린�
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1564
 msgctxt "h92d5ea84gcd94g4f7cga8c8g5b095785a761"
 msgid "Travel to the Goblin Camp."
-msgstr "고블린 숙영지로 떠나자."
+msgstr "고블린 야영지로 떠나자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -14392,7 +14390,6 @@ msgstr "티플링들은 숲 밖으로 쫓겨났다. 그들은 길에서 죽은 �
 #. ID = GOB_LearntTwoNames
 #. Objective = DEN_Conflict_SUB_Goblin_Hunt3Leaders
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:17821
-#, fuzzy
 msgctxt "hd27d84ecg4113g410fg9b29g95912bc58619"
 msgid ""
 "There are three leaders of the Goblin Camp: Boss Ragzlin, Priestess Gut, and "
@@ -14416,7 +14413,6 @@ msgstr "세명의 지도자들을 죽이자."
 #. ID = GOB_ArrivedGoblinCampLeaders
 #. Objective = DEN_Conflict_SUB_Goblin_SearchMore
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:17842
-#, fuzzy
 msgctxt "h9777f586gb947g4bcfgbea7gf2c5d955c9eb"
 msgid "We've arrived in the Goblin Camp. Now to find the three leaders."
 msgstr "고블린 야영지에 도착했다. 이제 세명의 지도자들을 찾아야 한다."
@@ -14438,12 +14434,11 @@ msgstr "지도자들을 찾자."
 #. ID = GOB_ArrivedGoblinCamp
 #. Objective = DEN_Conflict_SUB_Goblin_HuntChief
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:17863
-#, fuzzy
 msgctxt "h11dff114ga149g447ag8684g44e91e5f918a"
 msgid ""
 "We arrived at the Goblin Camp. Now we need to find who's in charge and deal "
 "with them."
-msgstr "고블린 야영지에 도착했다. 이제 이들을 이끌고 있는 자가 누구인지 알아내 그를 처리해야 한다."
+msgstr "고블린 야영지에 도착했다. 이제 이들을 이끌고 있는 자들이 누구인지 알아내 그들을 처리해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -14453,7 +14448,7 @@ msgstr "고블린 야영지에 도착했다. 이제 이들을 이끌고 있는 �
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1575
 msgctxt "h0dca87acgd503g4a0eg8592gaccd42d442c9"
 msgid "Find the leader of the Goblin Camp."
-msgstr "고블린 숙영지의 지도자를 찾자."
+msgstr "고블린 야영지의 지도자를 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -14500,12 +14495,11 @@ msgstr "고블린들의 영적 지도자, 여사제 거트를 처치했다. 다�
 #. ID = GOB_LearntAllNames
 #. Objective = DEN_Conflict_SUB_Goblin_Hunt3Leaders
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:17947
-#, fuzzy
 msgctxt "h7c4d4c5age757g44deg9040g4454d99f3b7d"
 msgid ""
 "There are three leaders of the Goblin Camp: Dror Ragzlin, Priestess Gut, and "
 "the drow Minthara."
-msgstr "고블린 야영지에는 세명의 지도자들이 있다. 드롤 라그즐린, 여사제 거트, 그리고 드로우 민타라다."
+msgstr "고블린 야영지에는 세 명의 지도자들이 있다. 드롤 라그즐린, 여사제 거트, 그리고 드로우 민타라다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -19565,7 +19559,7 @@ msgstr "드루이드 라스에 따르면 최고 드루이드 할신만이 카그
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2093
 msgctxt "he87db94ag2518g463cga15bg591f76241b94"
 msgid "Search for Halsin in the Goblin Camp."
-msgstr "고블린 숙영지에서 할신을 찾자."
+msgstr "고블린 야영지에서 할신을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -20820,7 +20814,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:27107
 msgctxt "hc7ab5681gef14g4567g9147ga0c752d68e38"
 msgid "We didn't help the spirit of the amulet."
-msgstr ""
+msgstr "우린 저주받은 몽크를 돕지 않았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -20843,7 +20837,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9030
 msgctxt "h7f6772d3gf4feg498bg8c9fgcd557232ace1"
 msgid "Bring the spirit of the amulet to Shirra."
-msgstr ""
+msgstr "저주받은 몽크를 시라에게 데려다 주자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -20900,7 +20894,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11489
 msgctxt "ha849bd4dgf34cg4d75gb0f3g74290bd1fd24"
 msgid "Find out what the spirit of the amulet wants."
-msgstr ""
+msgstr "저주받은 몽크가 무엇을 원하는 지 알아내자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -58859,7 +58853,7 @@ msgstr "비밀 문"
 #: Mods/GustavDev/Story/Journal/Markers/4977e460-9f6f-48fc-8e90-c174e44b4c87.lsx:8
 msgctxt "he9e53b95g7209g4e9agb3fcg8cb898fbea6c"
 msgid "The Blushing Mermaid"
-msgstr ""
+msgstr "달아오른 인어"
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
