@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-09-24 04:37+0000\n"
-"Last-Translator: Faaard <kal416712@gmail.com>\n"
+"PO-Revision-Date: 2023-09-25 06:37+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1014,7 +1014,7 @@ msgid ""
 "We met a man named Volo who was performing for the goblins under duress. He "
 "was led into their camp's interior by a guard - he clearly needs help."
 msgstr ""
-"협박 받아 고블린 앞에서 공연을 하던 볼로라는 남자를 만났다. 경비병이 그를 숙영지 안으로 데려갔다. 분명 도움이 필요할 것이다."
+"협박 받아 고블린 앞에서 공연을 하던 볼로라는 남자를 만났다. 경비병이 그를 야영지 안으로 데려갔다. 분명 도움이 필요할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -1078,7 +1078,7 @@ msgctxt "h8c6a2669gdbb2g47f4g857eg68c373181c05"
 msgid ""
 "We found Volo performing for the goblins under significant duress. He was "
 "led into their camp's interior by a guard - he clearly needs help."
-msgstr "볼로가 협박을 받아 고블린들 앞에서 공연하는 것을 발견했다. 경비병이 그를 숙영지 안으로 데려갔다. 분명 도움이 필요할 것이다."
+msgstr "볼로가 협박을 받아 고블린들 앞에서 공연하는 것을 발견했다. 경비병이 그를 야영지 안으로 데려갔다. 분명 도움이 필요할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -21040,7 +21040,7 @@ msgctxt "h12afca9fga74fg4532g969cg96af360e9f3a"
 msgid ""
 "We ran into Barcus Wroot. He's a prisoner at the duergar camp and clearly "
 "needs saving - again."
-msgstr "바커스 루트와 만났다. 그는 듀에르가 숙영지의 죄수로 잡혀 있으며, \"또\" 도움이 필요한 것 같다."
+msgstr "바커스 루트와 만났다. 그는 듀에르가 야영지의 죄수로 잡혀 있으며, \"또\" 도움이 필요한 것 같다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48403,6 +48403,8 @@ msgid ""
 "answers about our parasites, we'll need to head there. Minthara in the "
 "Goblin Camp knows of a way to safely traverse the cursed lands."
 msgstr ""
+"참된 영혼 니어는 문라이즈 타워에 거주하는 어떤 장군에 대해 얘기했다. 만약 우리가 기생충에 대한 해답을 얻길 원한다면, 거기로 향할 "
+"필요가 있다. 고블린 야영지의 민타라는 그 저주 받은 땅으로 향한 안전한 경로를 알고 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -48412,7 +48414,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:7212
 msgctxt "h007601c0g279fg4a01g8ab8g6a7d43630660"
 msgid "Speak to Minthara in the Goblin Camp."
-msgstr "고블린 숙영지에 있는 민타라와 대화하자."
+msgstr "고블린 야영지에 있는 민타라와 대화하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59779,7 +59781,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/c146bf27-829d-3d92-2729-0a1e1242b7f7.lsx:8
 msgctxt "hb4b05ed2gd099g48f3gacbdg89aa3718dc5f"
 msgid "Goblin Camp Checkpoint"
-msgstr "고블린 숙영지 체크포인트"
+msgstr "고블린 야영지 체크포인트"
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -59922,7 +59924,7 @@ msgstr "노움의 비밀 보관함"
 #: Mods/GustavDev/Story/Journal/Markers/c8e5b660-b1e4-68b6-5c44-37484eca2401.lsx:8
 msgctxt "h8de6e3a7g0634g4e94g841fg24e2bc890f4e"
 msgid "Goblin Camp"
-msgstr "고블린 숙영지"
+msgstr "고블린 야영지"
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -60151,9 +60153,10 @@ msgstr "침실"
 #. MarkerLevel = SCL_Main_A
 #. MarkerTargetObjectType = Item
 #: Mods/GustavDev/Story/Journal/Markers/f5025249-62f4-469e-b871-a0641af54c9d.lsx:8
+#, fuzzy
 msgctxt "h76ccc7b2ga08dg4c48g87aeg3d4f72a1f82d"
 msgid "Sharran Provisions"
-msgstr ""
+msgstr "샤의 보급품"
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
