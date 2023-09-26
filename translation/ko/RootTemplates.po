@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-09-26 10:37+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -992,6 +994,8 @@ msgid ""
 "Will you go to the summer fair with me? From Connor. PS. These bluebells are "
 "from Ma Grundy's patch, please don't tell!'"
 msgstr ""
+"이 로켓안의 낡고 푸른 얼룩이 묻은 종이 조각에는 다음과 같이 적혀 있습니다 : '메이리나에게 - 여름 축제에 나와 함께 갈래? "
+"코너로부터. 추신. 이 블루벨은 엄마 그룬디의 밭에서 가져온 거야. 아무한테도 말하지 마!'"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -10517,13 +10521,11 @@ msgstr "낭떠러지"
 #. Type = surface
 #. Icon = Spell_Necromancy_FeignDeath
 #: Public/Shared/RootTemplates/43950b2a-db79-45e1-a7c8-51247428606e.lsx:21
-#, fuzzy
-#| msgid "Instant Death"
 msgctxt "h7d238d4aga118g451egabb0g19208bd9613d"
 msgid ""
 "Falling into a Chasm will cause instant death. Foes who fall into Chasms "
 "cannot be looted."
-msgstr "즉시 사망"
+msgstr "적을 낭떠러지로 밀치면 즉사하게 됩니다. 하지만 추락사한 적에게 전리품을 얻을 수 없습니다."
 
 #. NodeID = GameObjects
 #. HandlePath = Description
