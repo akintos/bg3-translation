@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-09-26 10:37+0000\n"
-"Last-Translator: 프라이 <kimgyutae19981004@gmail.com>\n"
+"PO-Revision-Date: 2023-09-27 11:37+0000\n"
+"Last-Translator: Monopic <dhin1213@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -4334,12 +4334,15 @@ msgstr "썩어가는 비술사를 도와 오스카에게 씐 영혼을 퇴치할
 #. ID = TalkedToCarrion_MentionedTorch
 #. Objective = GLO_DoubtingArtist_HelpCarrion
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:5297
+#, fuzzy
 msgctxt "h206e0bbfgbeb2g4787g940bg7b74e0e0f484"
 msgid ""
 "Carrion revealed that Oskar came to him to talk to a tormented spirit. He's "
 "willing to give us a Torch of Revocation to exorcise the spirit from Oskar "
 "if we help him with his missing servant first."
 msgstr ""
+"비술사는 오스카가 고통받는 영혼과 대화하기 위해 찾아왔었다고 털어놨다. 만약 그의 실종된 종복을 찾는데 도움을 준다면, 오스카로부터 "
+"영혼을 퇴치하는데 필요한 철회의 횃불을 주겠다고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -4642,7 +4645,7 @@ msgstr "우리는 빙의된 오스카를 내버려 두기로 했다."
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:5654
 msgctxt "h656f24f9g611bg4bcag9c7cge093b6d06515"
 msgid "We abandoned Oskar during the fight with Kerri's spirit."
-msgstr ""
+msgstr "케리의 영혼과 싸우는 동안 오스카를 내버려두었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7219,13 +7222,14 @@ msgstr "키스락 보스"
 #. ID = RecruitedLaezel_PlainsAfterMap
 #. Objective = ORI_COM_Laezel_TravelToMountains
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:8862
-#, fuzzy
 msgctxt "hcc15362ag4fa4g45aeg9680gb347d21f6934"
 msgid ""
 "The githyanki warrior Lae'zel has joined our party, and promised we could be "
 "cleansed of our parasites at a Githyanki Crèche. According to a map we "
 "found, there's one nestled in the mountains, beyond the western bridge."
-msgstr "레이젤은 기스양키 크레셰에 치료법이 있다고 했다. 쓰러뜨린 기스양키 순찰대원을 뒤지면 지도가 나올 거라고 한다."
+msgstr ""
+"기스양키 전사 레이젤이 파티에 합류하여, 기스양키 크레셰에서 기생충을 정화해줄 것을 약속했다. 찾아낸 지도에 따르면, 서쪽 다리 너머 산 "
+"속에 크레셰 하나가 자리잡고 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -16467,6 +16471,8 @@ msgid ""
 "turning him into a devil and departed - though it seems likely we'll meet "
 "her again."
 msgstr ""
+"윌의 악마 후원자 미조라를 만났지만, 윌이 칼라크를 죽이는 데 실패했음을 알자 그다지 기뻐하지 않았다. 미조라는 불복종에 대한 처벌로 "
+"윌을 데빌로 만들고 가 버렸지만, 곧 다시 만나게 될 것 같다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -18931,6 +18937,8 @@ msgid ""
 "Sharran warriors - the Dark Justiciars. Further signs of their presence - "
 "historical or otherwise - may lie elsewhere."
 msgstr ""
+"숲에서 샤의 고대 전사단인 다크 저스티시어를 그린 듯한 벽화를 찾았다. 역사적으로든 다른 방식으로든 그 존재 흔적이 어딘가에 있을지도 "
+"모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18958,6 +18966,8 @@ msgid ""
 "of becoming a Dark Justiciar are no mean feat - they must have had a "
 "substantial lair in order to train and anoint a force of such size."
 msgstr ""
+"대드루이드 할신이 오래 전 셀루네의 추종자들과 전쟁을 벌인 다크 저스티시어 군대에 대해 알려 주었다. 다크 저스티시어가 되는 의식은 쉬운 "
+"일이 아니며, 그만한 인원을 임명하고 훈련하려면 상당한 규모의 근거지가 필요했을 것이라 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18971,6 +18981,8 @@ msgid ""
 "Justiciars in the past. Such a force must have had a stronghold to operate "
 "from. Perhaps it can still be found."
 msgstr ""
+"과거에 다크 저스티시어들이 파괴한 듯한 고대 셀루네 신전을 발견했다. 그만한 부대가 활동하려면 거점이 있었을 터이다. 아직 찾을 수 "
+"있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -24764,7 +24776,7 @@ msgctxt "h24460eb6ge258g483cg9b95gf3f0b0defaa8"
 msgid ""
 "We deciphered a githyanki map pointing towards a Githyanki Crèche hidden in "
 "the mountains. We should find it."
-msgstr ""
+msgstr "산 속에 숨겨진 기스양키 크레셰를 가리키는 기스양키 지도를 해독해 냈다. 그곳을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -24774,7 +24786,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:7754
 msgctxt "h24150555gde75g4d34g83ceg74c345d58177"
 msgid "Follow the githyanki map."
-msgstr ""
+msgstr "기스양키 지도를 따라가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -26198,10 +26210,9 @@ msgstr ""
 #. CategoryID = PersonalStory
 #. QuestID = GLO_PrinceOrpheus
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:33720
-#, fuzzy
 msgctxt "hd73f55c0gdb57g4097g9549g5e9ede93cebf"
 msgid "Discover the History of Prince Orpheus"
-msgstr "오르페우스 왕자의 역사 발굴"
+msgstr "오르페우스 왕자의 역사 발견하기"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -26226,6 +26237,8 @@ msgid ""
 "We read a book about the lost Prince Orpheus. It claims that Vlaakith is not "
 "the true Queen of the Githyanki, and that Prince Orpheus is the true heir."
 msgstr ""
+"잃어버린 왕자 오르페우스에 관한 책을 읽었다. 책에서는 블라키스가 기스양키의 진정한 여왕이 아니며, 왕자 오르페우스야말로 진정한 후계자라 "
+"주장한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -26235,7 +26248,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5071
 msgctxt "hf267c979gb2b6g4ce6g8426g1ffbb851b3a1"
 msgid "Decipher books about Orpheus."
-msgstr ""
+msgstr "오르페우스에 관한 책을 해독하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -32043,7 +32056,7 @@ msgctxt "h2fa08576g958bg4a9agae4ag39200544d098"
 msgid ""
 "Gale's condition is no longer responding to treatment. We need to keep "
 "travelling, and find another way to stabilise the orb."
-msgstr ""
+msgstr "조치를 취했지만 게일의 상태에 더 이상 변함이 없다. 계속 여행하면서 보주를 안정시킬 다른 방법을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -45292,6 +45305,8 @@ msgid ""
 "in your perfect nature. While you may have forgotten your past, you can't "
 "forget what you were best at! Just follow your Butler. You can trust him!"
 msgstr ""
+"셀레리타스 펠은 살인자의 살인자야. 널 바로잡아 주겠지. 너도 알다시피, 너는 천재 연쇄 살인마가 될 수밖에 없으니 걱정 마. 네 완벽한 "
+"본성이야. 네 과거는 잊었을지언정, 특기만큼은 잊을 수 없으니까! 그냥 집사를 따라가. 믿을 수 있어!"
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -45301,7 +45316,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6539
 msgctxt "hcd6e814bg167ag4ac7g8f36gf400caf2a4d0"
 msgid "Trust the Butler."
-msgstr ""
+msgstr "집사를 믿자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48874,7 +48889,7 @@ msgctxt "h3babaaa6gb393g4548gaceeg3c54eb952cb9"
 msgid ""
 "I saw murals in the grove that depicted the ancient order of Dark "
 "Justiciars. I should look for signs of where they originated from."
-msgstr ""
+msgstr "숲에서 고대 다크 저스티시어 전사단을 그린 듯한 벽화를 보았다. 그들이 어디서 왔는지 흔적을 찾아봐야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48940,6 +48955,8 @@ msgid ""
 "of becoming a Dark Justiciar are no mean feat - they must have had a "
 "substantial lair in order to train and annoint a force of such size."
 msgstr ""
+"대드루이드 할신이 오래 전 셀루네의 추종자들과 전쟁을 벌인 다크 저스티시어 군대에 대해 알려 주었다. 다크 저스티시어가 되는 의식은 쉬운 "
+"일이 아니며, 그만한 인원을 임명하고 훈련하려면 상당한 규모의 근거지가 필요했을 것이라 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48953,6 +48970,8 @@ msgid ""
 "Dark Justiciars long ago. Such a force of Sharran warriors must have had a "
 "stronghold somewhere - I need to find it."
 msgstr ""
+"과거에 다크 저스티시어들이 파괴한 듯한 고대 셀루네 신전을 발견했다. 그 정도 되는 샤의 전사들이라면 어딘가에 거점을 갖고 있었을 "
+"것이다. 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -51460,7 +51479,7 @@ msgctxt "h7e29051aga586g413bgb86agd58663cab152"
 msgid ""
 "I found a map that revealed a Githyanki Crèche was nestled in the mountains "
 "beyond the western bridge, inside a temple. My cleansing is close at hand."
-msgstr ""
+msgstr "서쪽 다리 너머 산에 있는 신전 안쪽에 기스양키 크레셰가 자리잡고 있음을 보여 주는 지도를 찾았다. 정화가 코앞이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -54884,7 +54903,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9815
 msgctxt "he5960099gc703g4d3bg8969g855f916a57e4"
 msgid "Find the devil."
-msgstr ""
+msgstr "데빌을 찾자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -54919,7 +54938,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9826
 msgctxt "he57ea387gcaafg43c7g9091g148ddb949f04"
 msgid "Kill the tiefling."
-msgstr ""
+msgstr "티플링을 죽이자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -55117,7 +55136,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:70644
 msgctxt "h2eccd73egbeebg445dg87b5gce903d21f298"
 msgid "We defeated Anders."
-msgstr ""
+msgstr "앤더스를 물리쳤다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -55478,7 +55497,7 @@ msgctxt "haa9776cbg49dbg4e65ga94age56a3d1f535d"
 msgid ""
 "The cult of the Absolute is based at Moonrise Towers. Perhaps that is where "
 "Grand Duke Ravengard was taken."
-msgstr ""
+msgstr "절대자 교단은 문라이즈 타워에 자리잡고 있다. 아마 레이븐가드 대공이 잡혀간 곳일 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -56817,7 +56836,7 @@ msgctxt "he0e67a0fg4407g4584g91f3gfff83af74781"
 msgid ""
 "The cult of the Absolute is based at Moonrise Towers. Perhaps that is where "
 "my father was taken."
-msgstr ""
+msgstr "절대자 교단은 문라이즈 타워에 자리잡고 있다. 아마 아버지가 잡혀간 곳일 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
