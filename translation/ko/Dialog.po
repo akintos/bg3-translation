@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:39+0900\n"
-"PO-Revision-Date: 2023-09-27 11:37+0000\n"
-"Last-Translator: 평범남 <aaasioa@naver.com>\n"
+"PO-Revision-Date: 2023-09-28 16:37+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -677,7 +677,7 @@ msgstr "이제 넌 끝장이다, 송장놈아! 죽여라!"
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackHelp:da7940f2-0704-fc96-3265-6c9104886366
 msgctxt "h3f4c12c0g1e86g4a6dgb897gda73d1b6bbcc"
 msgid "Here we go again! To arms!"
-msgstr "또 시작이구만! 전투 준비!"
+msgstr "다시 간다! <b>전투준비!</b>"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackHelp
 #. Speaker = GROUP_Animals
@@ -830,7 +830,7 @@ msgstr "문제를 찾고 있나? 그럼 잘 찾아왔다!"
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackHelp:fb2cb8f6-5dc0-995d-49a5-da063b4148d5
 msgctxt "h75a37a90g59c2g47c4gbd0egefbf5e779a00"
 msgid "'Ere we go again!"
-msgstr "또 시작이군!"
+msgstr "다시 간다!"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackHelp
 #. Speaker = GROUP_Animals
@@ -3785,7 +3785,7 @@ msgstr "찍찍거리는 귀여운 해수네!"
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_KidCritter:42994c87-a4bf-d64e-41d3-08a3685e3a58
 msgctxt "head05898g4f12g48bdga001g567fc14a5274"
 msgid "Bet it's got diseases."
-msgstr "아마 질병같은게 있을 것 같은데."
+msgstr "아마 질병같은 게 있을 것 같은데."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_KidCritter
 #. Speaker = GROUP_Animals
@@ -21487,7 +21487,7 @@ msgid ""
 "*Your spell was hardly violent, but this guard doesn't believe the "
 "punishment should fit the crime. It should be much, much worse.*"
 msgstr ""
-"*당신의 주문은 그닥 폭력적인게 아니었지만 경비병은 믿을 생각이 없군요. 더욱, 아주 강한 엄벌을 내려야한다고 생각하나 봅니다.*"
+"*당신의 주문은 그닥 폭력적인 게 아니었지만 경비병은 믿을 생각이 없군요. 더욱, 아주 강한 엄벌을 내려야한다고 생각하나 봅니다.*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_KnockSpell
 #. Speaker = Narrator
@@ -25430,7 +25430,7 @@ msgstr "*마이티 브랜웸. 적과의 싸움 중 명예롭게 사망*"
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_Tombstone_20:d68bfc14-5e99-d184-7bcd-eb0461c1de0a
 msgctxt "h72e8abf3g637fg4691g9c77gd6db1d9706a5"
 msgid "*Gwynn Highberry - Stillborn but Not Forgotten*"
-msgstr "*그윈 하이베리 - 세상에 나오지도 못한 우리 아이 널 잊지 못할거야*"
+msgstr "*그윈 하이베리 - 세상에 나오지도 못한 우리 아이 널 잊지 못할 거야*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_Tombstone_21
 #. Speaker = Narrator
@@ -39880,7 +39880,7 @@ msgstr "이 몸은 아직 조금 더 고통을 견딜 수 있어."
 #: Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror:c6e61d0c-8bb5-4a53-aa2a-4109b58f2c63
 msgctxt "h84eb0122gb176g472cg8405g25da3423df26"
 msgid "Better stop gazing at myself before someone accuses me of vanity..."
-msgstr "허영심이라도 있냐고 누가 놀리기 전에 내 스스로를 그만 보는 게 좋을 거야..."
+msgstr "누가 허영심이라도 있냐고 놀리기 전에 나 자신을 그만 보는 게 좋을 거야..."
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror
 #. Speaker = Player
@@ -42978,7 +42978,7 @@ msgctxt "h3770b48ag2793g40dcga0f6g25f4f6943804"
 msgid ""
 "*You lack an illithid infection - you are not welcome here, nor anywhere in "
 "existence it seems.*"
-msgstr ""
+msgstr "*당신은 일리시드에 감염되지 않은 상태입니다. 당신은 이곳은 물론 그 어느 곳에서도 환영받지 못하는 것처럼 느껴집니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/NGB_NoTadpole
 #. Speaker = Narrator
@@ -42995,7 +42995,7 @@ msgctxt "hcd24f245gf06ag40c1gb62eg96e4bac982b9"
 msgid ""
 "*Your tadpole-free mind has caused upset. And you're about to suffer the "
 "consequences.*"
-msgstr ""
+msgstr "*올챙이로부터 벗어난 당신의 정신이 화를 불러일으켰습니다. 이젠 그 결과를 감내해야 할 때입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/NGB_NoTadpole
 #. Speaker = Narrator
@@ -49318,7 +49318,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "h7e1d6ad7gd641g4863gaa20g62d2f93d61db"
 msgid "I have a travelling companion. I hardly need another."
-msgstr ""
+msgstr "이미 여행할 동료가 있어. 한 명으로도 벅차다고."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49328,7 +49328,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "hfbd90b7cg4af1g4121g8feagc8ed8c61159b"
 msgid "I'm not interested in talking to you."
-msgstr ""
+msgstr "너와 대화할 생각은 없어."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49348,7 +49348,7 @@ msgstr "자리를 좀 비켜주겠어? 지금 <i>아주 </i>바빠서."
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "h169ac011g1345g413bga592g3f6492c413f7"
 msgid "Do excuse me, please. Frightfully busy."
-msgstr ""
+msgstr "실례지만, 이만 가보겠어. 끔찍하게 바쁘거든."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49358,7 +49358,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "h1d91ae1eg29d9g4ee2gb333ge4342ed638b8"
 msgid "Whatever it is, I'm afraid I can't help you."
-msgstr ""
+msgstr "무슨 용무건 간에, 안타깝지만 널 돕지는 못하겠어."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49368,7 +49368,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "h0e4247eeg18f6g40e2g809fga232abbcf7e6"
 msgid "Hey. Bye."
-msgstr ""
+msgstr "안녕. 잘 가."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49378,7 +49378,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "h80ecc367g79f6g40b5gb4d2g0b215143975d"
 msgid "Sorry, I've already got a best friend."
-msgstr ""
+msgstr "미안해, 이미 제일 친한 친구가 있거든."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49388,7 +49388,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "h15b98ec1gbaf3g419cgba2dg70ca59c1a61f"
 msgid "Sorry, I don't have any change."
-msgstr ""
+msgstr "미안, 나 돈 없어."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49398,7 +49398,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "h3fbeef70gb680g41e1gb316g0b64eed4170d"
 msgid "I'll have to admire you from afar."
-msgstr ""
+msgstr "멀리서 지켜보기만 해야 할 것 같아."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49408,7 +49408,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "ha3ade107gbe07g4047gbe5bgc20bf13b5b4f"
 msgid "I have allied with another."
-msgstr ""
+msgstr "다른 이와 이미 동맹을 맺었어."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49418,7 +49418,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "hb95b300fg0c95g4c10g9623g31ed379b8947"
 msgid "I've no business with you."
-msgstr ""
+msgstr "너와는 아무 사이도 아니야."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49428,7 +49428,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "ha2b1499age533g4014gb851g4ec3050d00ec"
 msgid "<i>Chk. </i>I've no need for friends."
-msgstr ""
+msgstr "<i>츠크.</i> 난 친구가 필요하지 않아."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49448,7 +49448,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "h37a6bb0cgd46ag4565g9f4dg4181c7b9ca4d"
 msgid "You'll have to confide in someone else. I'm spoken for."
-msgstr ""
+msgstr "신뢰를 쌓고 싶다면 다른 사람을 찾아 봐. 난 좀 곤란해."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49479,7 +49479,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "hcd40eef3g9669g4bdcgb266g217089c53c8b"
 msgid "Sorry - there's only so much of me to go around."
-msgstr ""
+msgstr "미안, 내 몸도 한계가 있다고."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49489,7 +49489,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "h1fd57197ge8adg47c3gb312g897294fb7c3e"
 msgid "You've got gusto, but I'm bound to another."
-msgstr ""
+msgstr "열정은 있어 보이는데, 난 이미 다른 일행이 있어."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -49499,7 +49499,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
 msgctxt "h7f90ea7ag9963g4166ga12eg5caec91b01a0"
 msgid "You seem nice and all, but I've teamed up with someone else."
-msgstr ""
+msgstr "다 괜찮아 보이지만, 나는 이미 다른 이들과 동료를 맺었어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Absolute_PAD_Cultists
 #. Speaker = Player
@@ -50860,7 +50860,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:0a3d9240-8e79-495a-9685-c366487ddf93
 msgctxt "hb8da709dg9df1g4cf2g836dgb469ba62e1d4"
 msgid "Try something else."
-msgstr ""
+msgstr "다른 방법을 시도해 보세요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
 #. Speaker = GROUP_Daisy
@@ -50876,7 +50876,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:0a3d9240-8e79-495a-9685-c366487ddf93
 msgctxt "h58c3e70cgb370g4752ga8d4gb3d615e3b8b7"
 msgid "Try something else."
-msgstr ""
+msgstr "다른 방법을 시도해 보세요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
 #. Speaker = GROUP_Daisy
@@ -50928,7 +50928,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:53d50882-684b-4cc2-80af-d31794e89f65
 msgctxt "h21bfb9acg6510g4d17g9d39gab5e2159ac8c"
 msgid "Again!"
-msgstr ""
+msgstr "다시!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
 #. Speaker = GROUP_Daisy
@@ -50944,7 +50944,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:53d50882-684b-4cc2-80af-d31794e89f65
 msgctxt "hbdc8dc3dgdfd2g4db0g8127g5b1f75f70343"
 msgid "Again!"
-msgstr ""
+msgstr "다시!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
 #. Speaker = GROUP_Daisy
@@ -51047,7 +51047,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess:c0da95ce-a58c-439c-a21f-c83226872ee3
 msgctxt "h4d9a8bebg3f88g47cbgb1f6gbbe4db977382"
 msgid "Good. Again!"
-msgstr ""
+msgstr "좋아요. 다시!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess
 #. Speaker = GROUP_Daisy
@@ -51060,7 +51060,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess:c0da95ce-a58c-439c-a21f-c83226872ee3
 msgctxt "h75290b83gc3d7g420cga9adg60fbdae6a106"
 msgid "Good. Again!"
-msgstr ""
+msgstr "좋아요. 다시!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler
 #. Speaker = Sceleritas Fel
@@ -52922,7 +52922,7 @@ msgstr "<i>잠깐. 힘의 웅웅거림이 들리는군. 근처에 네더스톤�
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone:c477084b-5029-4e23-ab4a-4038a76f4e00
 msgctxt "h878151a6g304eg4ac2g876fg61699fe942be"
 msgid "<i>If you insist on doing this, I hope you enjoy being a thrall.</i>"
-msgstr ""
+msgstr "<i>계속 그렇게 하겠다면야, 노예가 되는 것을 즐기길 바란다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone
 #. Speaker = The Emperor
@@ -52940,6 +52940,7 @@ msgid ""
 "<i>If you really don't want to carry it, at least leave the stone somewhere "
 "safe, like your camp. </i>"
 msgstr ""
+"<i>그걸 가지고 다니는 게 그렇게나 싫다면 적어도 어딘가 안전한 곳에 놔두어라. 예를 들면, 네 야영지 같은 곳 말이다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone
 #. Speaker = The Emperor
@@ -52954,7 +52955,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone:d58d0609-7be1-400b-a15c-defb81813331
 msgctxt "h3640806bg95ceg4330g9a1dg77cf18827947"
 msgid "<i>Are you trying to annoy me, or just woefully careless?</i>"
-msgstr ""
+msgstr "<i>날 짜증나게 하려는 것이냐, 아니면 그저 한심할 정도로 부주의한 것이냐?</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone
 #. Speaker = The Emperor
@@ -52969,7 +52970,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone:d873eeb0-5fba-4594-be37-10054d67eb6a
 msgctxt "hea8b3648g0b63g4f34g8990g177422596484"
 msgid "<i>Get that stone back - now. </i>"
-msgstr ""
+msgstr "<i>돌을 되찾아라, 당장.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone
 #. Speaker = The Emperor
@@ -52982,7 +52983,7 @@ msgstr ""
 msgctxt "h46ee3646g3b67g4842gb016gf42dde17f746"
 msgid ""
 "<i>What are you doing? We cannot defeat the brain without that stone. </i>"
-msgstr ""
+msgstr "<i>뭘 하고 있는 것이냐? 네더스톤이 없이는 네더브레인을 쓰러뜨릴 수 없다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_LeftStonesInIronThrone
 #. Speaker = The Emperor
@@ -62191,7 +62192,7 @@ msgctxt "hff4e6d1fg7d5dg440cg89cdgaa6e20039308"
 msgid ""
 "You are not ready. That's all right. But try to overcome this resistance "
 "sooner rather than later - it will make things much easier for you."
-msgstr ""
+msgstr "아직 준비되지 않았군요. 괜찮습니다. 하지만 그런 거리낌은 빨리 극복할수록 좋습니다. 앞으로의 일이 훨씬 쉬워질 테니까요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume
 #. Speaker = GROUP_Daisy
@@ -62203,7 +62204,7 @@ msgctxt "hdd4ade73g44a4g4a82g8aecg2586328b8e34"
 msgid ""
 "You are not ready. That's all right. But try to overcome this resistance "
 "sooner rather than later - it will make things much easier for you."
-msgstr ""
+msgstr "아직 준비되지 않았군요. 괜찮습니다. 하지만 그런 거리낌은 빨리 극복할수록 좋습니다. 앞으로의 일이 훨씬 쉬워질 테니까요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume
 #. Speaker = GROUP_Daisy
@@ -62215,7 +62216,7 @@ msgctxt "hb857980egeb44g4bebg9262gc5fe4ac9b466"
 msgid ""
 "You are not ready yet - but you will need to overcome this resistance if you "
 "wish to survive."
-msgstr ""
+msgstr "아직 준비되지 않았군요. 하지만 살아남으려면 그런 거리낌을 빨리 극복해야 합니다."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume
 #. Speaker = GROUP_Daisy
@@ -62227,7 +62228,7 @@ msgctxt "ha356a18cg5775g4fa1g9b13g76950c5b9868"
 msgid ""
 "You are not ready yet - but you will need to overcome this resistance if you "
 "wish to survive."
-msgstr ""
+msgstr "아직 준비되지 않았군요. 하지만 살아남으려면 그런 거리낌을 빨리 극복해야 합니다."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume
 #. Speaker = GROUP_Daisy
@@ -62282,7 +62283,7 @@ msgstr "당신은 잠재력을 흡수할 수 있습니다. 마음을 여세요. 
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume:98a6b7bf-85ed-ae0f-bd6c-876006668213
 msgctxt "hce963cb5gf745g4f0cg9494g96f2c0adb87b"
 msgid "<i>Close your mind. Keep the parasite out. </i>"
-msgstr ""
+msgstr "<i>정신을 닫는다. 기생충을 쫓아낸다. </i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume
 #. Speaker = Player
@@ -62307,6 +62308,8 @@ msgid ""
 "potential of your own mind. Such power lies beyond Mystra's control. And "
 "beyond her permission.*"
 msgstr ""
+"*올챙이는 위브가 아니라 당신의 정신 속 잠재된 가능성에서 뽑아낸 사이오닉 능력을 제공합니다. 이 힘은 미스트라의 통제로부터 벗어나 "
+"있습니다. 그녀의 허락을 넘어서는 힘입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume
 #. Speaker = Narrator
@@ -62319,6 +62322,8 @@ msgid ""
 "everything it was, and everything it was destined to be. Pure potential, "
 "pure <i>power</i>.*"
 msgstr ""
+"*올챙이가 제공하는 모든 힘. 올챙이가 장차 손에 넣었을 모든 운명. 뭐가 됐든, 당신의 정신은 이들을 흡수하면서 부풀어 오릅니다. "
+"순수한 가능성, 순수한 <i>힘</i>입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume
 #. Speaker = GROUP_Daisy
@@ -62331,7 +62336,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume:fcf0f3dc-684e-9bf8-0e7f-d881282248d5
 msgctxt "h0e414711g18c9g4056gb53bg32f34e348918"
 msgid "Good. You have grown your power and improved your chances of survival."
-msgstr ""
+msgstr "좋아요. 당신의 힘이 커졌으니, 살아남을 확률도 높아질 거예요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume
 #. Speaker = GROUP_Daisy
@@ -62344,7 +62349,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume:fcf0f3dc-684e-9bf8-0e7f-d881282248d5
 msgctxt "habfc11b5gaf24g4fd0g8449gc2f6fff530ed"
 msgid "Good. You have grown your power and improved your chances of survival."
-msgstr ""
+msgstr "좋아요. 당신의 힘이 커졌으니, 살아남을 확률도 높아질 거예요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume
 #. Speaker = Player
@@ -62353,7 +62358,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_Consume:ff82135c-6a1f-cf35-a24f-c1b4bbf74ee6
 msgctxt "h70c1389bg0994g42baga321g87343dde8964"
 msgid "<i>Open your mind to the tadpole. </i>"
-msgstr ""
+msgstr "<i>올챙이에게 정신을 연다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_DaisyAD_TadpoleInJar
 #. Speaker = GROUP_Daisy
@@ -63402,7 +63407,7 @@ msgctxt "h2023d1e7ge278g4ccfg8a0bg2ff4bef89a0b"
 msgid ""
 "*Something stirs behind the corpse's eye - something alive. It breaks to the "
 "surface, plops to the ground, and quickly squirms away.*"
-msgstr ""
+msgstr "*시체의 눈에서 무언가가 꿈틀거리며, 살아 움직입니다. 그것은 동공을 뚫고 땅으로 튀어나오더니, 재빠르게 사라집니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_TrueSoulCorpse
 #. Speaker = Narrator
@@ -63565,7 +63570,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_TrueSoulCorpse:f43ac68b-ab36-27c3-7651-15ada759d2f4
 msgctxt "hf55dce36g7ed9g46d6gab97g32a165bb66b2"
 msgid "<i>The tadpole is trying to influence you. Resist. </i>"
-msgstr ""
+msgstr "<i>올챙이가 정신에 개입하려 한다. 저항한다. </i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_TrueSoulCorpse
 #. Speaker = Narrator
@@ -66647,7 +66652,7 @@ msgstr "싸구려 퇴장 연출이군. 슬슬 질리기 시작하는데."
 #: Mods/GustavDev/Story/Dialogs/Global/KorrillaTheSpy/GLO_KorrillaTheSpy_PAD_KorrillaVanishesReaction:fe45db2a-e90e-c1b8-205d-b4834dc9274d
 msgctxt "he5c281e6g7898g41b1gb95cgb4241a03ad90"
 msgid "Her disappearing act is starting to wear thin."
-msgstr ""
+msgstr "퇴장하는 방식이 점점 식상해지는걸."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/KorrillaTheSpy/GLO_KorrillaTheSpy_PAD_KorrillaVanishesReaction
 #. Speaker = Player
@@ -66683,7 +66688,7 @@ msgctxt "h06c22a50g0992g485ag8038gb542aefc53ae"
 msgid ""
 "I hate hide and seek. All right that's not true. But I don't like this "
 "vanishing act."
-msgstr ""
+msgstr "난 숨바꼭질이 싫어...아니, 딱히 그렇진 않아. 아무튼 이 퇴장 방식은 정말 마음에 안 들어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/KorrillaTheSpy/GLO_KorrillaTheSpy_PAD_KorrillaVanishesReaction
 #. Speaker = Player
@@ -66700,7 +66705,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/KorrillaTheSpy/GLO_KorrillaTheSpy_PAD_KorrillaVanishesReaction:fe45db2a-e90e-c1b8-205d-b4834dc9274d
 msgctxt "h42578d81ga2fbg4ba0g85f5g9eee5cabfa71"
 msgid "Gone again, without a word. She begins to hurt my feelings."
-msgstr ""
+msgstr "또다시 말도 없이 떠나갔군. 슬슬 내 기분을 상하게 만드는걸."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/KorrillaTheSpy/GLO_KorrillaTheSpy_PAD_KorrillaVanishesReaction
 #. Speaker = Player
@@ -66717,7 +66722,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/KorrillaTheSpy/GLO_KorrillaTheSpy_PAD_KorrillaVanishesReaction:fe45db2a-e90e-c1b8-205d-b4834dc9274d
 msgctxt "h28242be3gacd1g491cga439gcf8805b89cc6"
 msgid "These disappearances are starting to prove irksome."
-msgstr ""
+msgstr "저 퇴장 방식에 점점 싫증이 나는걸."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/KorrillaTheSpy/GLO_KorrillaTheSpy_PAD_KorrillaVanishesReaction
 #. Speaker = Player
@@ -66753,7 +66758,7 @@ msgctxt "h8d43ea54gd91fg4bc7g86ebg6135ba0a4c34"
 msgid ""
 "I expected Raphael's servant to be evil and sneaksome. But to be so "
 "<i>rude</i>."
-msgstr ""
+msgstr "라파엘의 종이 사악하고 교활할 거라는 건 예상했지만, 이렇게나 <i>무례할</i> 줄이야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/KorrillaTheSpy/GLO_KorrillaTheSpy_PAD_KorrillaVanishesReaction
 #. Speaker = Player
@@ -66769,7 +66774,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/KorrillaTheSpy/GLO_KorrillaTheSpy_PAD_KorrillaVanishesReaction:fe45db2a-e90e-c1b8-205d-b4834dc9274d
 msgctxt "hbcdd4b4egc81eg412eg8d90g08f88030108c"
 msgid "This disappearing act is starting to get irksome."
-msgstr ""
+msgstr "저 퇴장 방식에 점점 싫증이 나는걸."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased
 #. Speaker = GROUP_Animals
@@ -66778,7 +66783,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased:06e0291b-ec73-fda2-0d7d-efd8b69e1bc5
 msgctxt "he7039d92g8a3eg4e0fg9363ge342af50f5bb"
 msgid "Time to DIE!"
-msgstr ""
+msgstr "죽을 시간이다!"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased
 #. Speaker = GROUP_Animals
@@ -66787,7 +66792,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased:06e0291b-ec73-fda2-0d7d-efd8b69e1bc5
 msgctxt "h70130e40ge8d7g4215g8bccg5bc92322075f"
 msgid "I'll end you!"
-msgstr ""
+msgstr "내가 널 끝장내주마!"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased
 #. Speaker = GROUP_Animals
@@ -66805,7 +66810,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased:06e0291b-ec73-fda2-0d7d-efd8b69e1bc5
 msgctxt "h4e2b07c2gefc5g4dd5g8fb5ga6337d728cff"
 msgid "Free at last!"
-msgstr ""
+msgstr "드디어 자유다!"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased
 #. Speaker = GROUP_Animals
@@ -66818,7 +66823,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased:82317a18-3e24-7347-65ec-ca20f936486c
 msgctxt "h1747202fgc192g4e4bgbdc3g7b3ab20268f4"
 msgid "*GRR!*"
-msgstr ""
+msgstr "*그르르!*"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased
 #. Speaker = GROUP_Animals
@@ -66856,7 +66861,7 @@ msgstr "*크르르!*"
 #: Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased:8ff62ae2-6e29-6350-5381-270ac570faf9
 msgctxt "h2f6ac1aag1a45g42c1g8311g5180fde903ee"
 msgid "Bloody scum!"
-msgstr ""
+msgstr "망할 개자식!"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased
 #. Speaker = GROUP_Animals
@@ -66880,7 +66885,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased:8ff62ae2-6e29-6350-5381-270ac570faf9
 msgctxt "h28f04f95ga12fg46acg9c76g0fb3a13aff15"
 msgid "Show me what you got!"
-msgstr "네가 터득한 것을 보여줘!"
+msgstr "네가 뭘 할 수 있는지 보여 봐!"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased
 #. Speaker = GROUP_Animals
@@ -66892,7 +66897,7 @@ msgstr "네가 터득한 것을 보여줘!"
 #: Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased:8ff62ae2-6e29-6350-5381-270ac570faf9
 msgctxt "h8f2828bag8125g4acdg9d79g8d653b04dd05"
 msgid "C'mon. I ain't got all day."
-msgstr ""
+msgstr "어서. 하루종일 이러고 있을 수는 없잖아."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/NO_RECORD/GLO_CursedIronFlask_AD_CreatureAfterBeingReleased
 #. Speaker = GROUP_Animals
@@ -67927,7 +67932,7 @@ msgstr ""
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:0bf92f1a-24d3-e789-6523-fa239e38489e
 msgctxt "ha13615b5g7a8bg4a41gb7c4gc998c16d70e6"
 msgid "Yes, return to the Fugue Plane."
-msgstr "그래, 푸가 차원으로 돌아가겠네."
+msgstr "그래, 배회 차원으로 돌아가겠네."
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = Player
@@ -67990,7 +67995,7 @@ msgstr "왜 그런 식으로 말하는 거야? "
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:48e33fca-1a8b-4b93-0044-103e49426686
 msgctxt "h3a441755g21ebg415dga8cbg3d84c3854189"
 msgid "These souls clawed their way back from the Fugue Plane for vengeance."
-msgstr "이 영혼들은 복수를 위해 푸가 차원에서 이를 갈며 돌아왔다네."
+msgstr "이 영혼들은 복수를 위해 배회 차원에서 이를 갈며 돌아왔다네."
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = Player
@@ -68191,7 +68196,7 @@ msgstr "그 영혼이 어떻게 싸우는지 기억하고 있다면, 그걸로 �
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:c144f387-04bc-0fcc-f96a-6c24eddf9120
 msgctxt "hdd373c35g96b7g422dg97b0g28123851cd6a"
 msgid "Yes, return it to the Fugue Plane."
-msgstr "그래, 푸가 차원으로 돌려 보내겠네."
+msgstr "그래, 배회 차원으로 돌려 보내겠네."
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = GROUP_Hirelings
@@ -72320,7 +72325,7 @@ msgstr "<i>가이크</i>의 손에 살해당하기를 받아들일 만큼 자존
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_LowerDeck_PAD_AfterFight:31a03267-bc0c-43a5-a22e-ff41ac7377bd
 msgctxt "h10cffed5gab43g42b8g92dbg5b3cdaf1d32f"
 msgid "Vile beasts. Now to get out of here."
-msgstr "사악한 괴물들 같으니. 이제 여기서 나가자."
+msgstr "더러운 짐승 새끼들. 이제 여길 벗어나야겠어."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_LowerDeck_PAD_AfterFight
 #. Speaker = Player
@@ -72370,7 +72375,7 @@ msgstr "어쩔 수 없어. 계속 가야해."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_LowerDeck_PAD_AfterFight:31a03267-bc0c-43a5-a22e-ff41ac7377bd
 msgctxt "hf9420443ged13g4731g89a6gc072077555ac"
 msgid "Done. Time to move."
-msgstr "됐어. 갈 시간이야."
+msgstr "끝났군. 갈 시간이야."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_LowerDeck_PAD_AfterFight
 #. Speaker = Player
