@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:38+0900\n"
-"PO-Revision-Date: 2023-10-10 09:37+0000\n"
+"PO-Revision-Date: 2023-10-11 15:37+0000\n"
 "Last-Translator: BAM0T <tree0074@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -3382,30 +3382,6 @@ msgstr "색과 구성이 일정하지 않은 낡은 원고입니다. 그 이전 
 #. HandlePath = Content
 #. UUID = GEN_Factions_LeadershipOfZhentarim
 #: Mods/Gustav/Localization/Generic_Books.lsx:22
-#, fuzzy
-#| msgid ""
-#| "<b>[An excerpt from the ongoing <i>Metatext: Rebound</i> by Iosefa Elgin, a "
-#| "scholar excommunicated from the Church of Deneir for her heretical attempts "
-#| "to reconstruct the Metatext, her god's annal of lost and hidden "
-#| "knowledge.]</b>\n"
-#| "Despite their protestation to the contrary, it takes no keen eye to see "
-#| "echoes of Banite philosophy in modern Zhentarim practice - a strict "
-#| "militaristic hierarchy where all power flows from the top. Who occupies that "
-#| "position today is the matter of some speculation, for the Black Network's "
-#| "leadership was thought destroyed along with their headquarters at Zhentil "
-#| "Keep in 1383 DR.\n"
-#| "\n"
-#| "In the following decades, however, a new base of power began to consolidate "
-#| "at the fortress of Darkhold, far to the south. At its centre stands the "
-#| "Pereghost, an enigmatic armoured figure to whom the Zhentarim's rebirth is "
-#| "almost single-handedly attributed. \n"
-#| "\n"
-#| "Whoever their leader, it is clear that this new Zhentarim have not abandoned "
-#| "plans for domination so much as recalculated their approach. Where once "
-#| "their focus was on the subversion and conquest of nations, the Network of "
-#| "today is much more concerned with establishing their stranglehold on the "
-#| "market - a power which crosses borders that are closed to more conventional "
-#| "forces."
 msgctxt "h9aadaeb0g02acg42dbga617g226861b421f5"
 msgid ""
 "[An excerpt from the ongoing <i>Metatext: Rebound</i> by Iosefa Elgin, a "
@@ -45538,7 +45514,7 @@ msgstr ""
 #: Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:99248
 msgctxt "hc078e71ag4cf9g4518gb162g0dfe29a652bd"
 msgid "Tablet Fragment"
-msgstr "명판 조각"
+msgstr "석판 조각"
 
 #. BookId = UND_Grymforge_SharTablet1
 #. 
@@ -45616,7 +45592,7 @@ msgstr ""
 #: Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:103886
 msgctxt "h88e35752g0cdeg40a7ga3f9g3438663d39c4"
 msgid "Tablet Fragment"
-msgstr "명판 조각"
+msgstr "석판 조각"
 
 #. BookId = UND_Grymforge_SharTablet2
 #. 
@@ -45698,7 +45674,7 @@ msgstr ""
 #: Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:107571
 msgctxt "h00cd9e67g6bf2g4568g8575g940128a41a44"
 msgid "Tablet Fragment"
-msgstr "명판 조각"
+msgstr "석판 조각"
 
 #. BookId = UND_Grymforge_SharTablet3
 #. 
@@ -63119,10 +63095,10 @@ msgid ""
 msgstr ""
 "[이빨 자국과 마른 침 자국으로 훼손된 미완성 두루마리입니다. 엉망진창 속에서 몇 마디 단어가 드러납니다:]\n"
 "\n"
-"Skaeren ixen svelg! 마그마\n"
+"스카에렌 이그센 스벨그! <b>마그마</b>\n"
 "   마그마\n"
-"      마그마마그마\n"
-"           마그 마마그마"
+"      마그마<b>마그마</b>\n"
+"           <b>마그 마</b>마그마"
 
 #. BookId = UND_HarperSpy_Evidence
 #. 
@@ -70445,7 +70421,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/c6555b5d-4d26-41ce-bcd6-d31ed7bed86b.lsx:13
 msgctxt "h26b7c8f7g5bafg468eg97d7g1f559d988936"
 msgid "Missive from Moonrise"
-msgstr ""
+msgstr "문라이즈에서 온 편지"
 
 #. key = CRE_CultistsUndead_KethericOrders
 #. 
