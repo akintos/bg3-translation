@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-10 09:37+0000\n"
+"PO-Revision-Date: 2023-10-14 01:37+0000\n"
 "Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4028,6 +4028,11 @@ msgid ""
 "[IE_PanelSelect] <LSTag Type=\"Image\" Info=\"TutorialShortRestMenu\"/> "
 "Initiate Short Rest"
 msgstr ""
+"[IE_ToggleSpells] 행동 원형 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialHelpAction\"/> <LSTag Type=\"Image\" "
+"Info=\"TutorialCureWounds\"/> 캐릭터를 돕거나 치유하기\n"
+"[IE_PanelSelect] <LSTag Type=\"Image\" Info=\"TutorialShortRestMenu\"/> 짧은 "
+"휴식 취하기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4186,6 +4191,10 @@ msgid ""
 "your avatar is dead, you will not be able to Long Rest or move to a new area "
 "until they are revived. "
 msgstr ""
+"당신과 파티원에게 죽음은 꼭 끝을 의미하진 않습니다. 두루마리나 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</"
+"LSTag>의 <LSTag Type=\"Spell\" Tooltip=\"Teleportation_Revivify\">소생</LSTag>은 "
+"죽은 캐릭터를 1의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>을 지닌 채 되살립니다. 당신의 아바타가 죽어 "
+"있다면, 부활하기 전까진 긴 휴식이나 새로운 지역의 이동이 불가능합니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
