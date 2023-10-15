@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-14 01:37+0000\n"
-"Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
+"PO-Revision-Date: 2023-10-15 06:37+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2581,7 +2581,7 @@ msgid ""
 " <LSTag Type=\"Image\" Info=\"TutorialHide\"/>  Hide"
 msgstr ""
 "[IE_ToggleSpells] 행동 방사형 메뉴 열기\n"
-" <LSTag Type=\"Image\" Info=\"TutorialHide\"/>  은신"
+" <LSTag Type=\"Image\" Info=\"TutorialHide\"/>  숨기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2605,7 +2605,7 @@ msgstr ""
 "시야에서만 숨어있으면 됩니다.\n"
 "\n"
 "[IE_ToggleSpells] 행동 원형 메뉴 <LSTag Type=\"Image\" Info=\"TutorialHide\"/> "
-"[IE_ToggleSneak] 은신 토글"
+"[IE_ToggleSneak] 숨기 토글"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2656,8 +2656,7 @@ msgstr ""
 "\"Target_SneakAttack\">암습 공격</LSTag>에 반드시 필요한 조건입니다. 대상의 뒤에 있을 필요 없이 적의 "
 "시야에서만 숨어있으면 됩니다.\n"
 "\n"
-"[IE_ToggleSpells] 행동 원형 메뉴 <LSTag Type=\"Image\" Info=\"TutorialHide\"/> "
-"[IE_ToggleSneak] 은신 토글"
+"<LSTag Type=\"Image\" Info=\"TutorialHide\"/> [IE_ToggleSneak] 숨기 토글"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4145,6 +4144,10 @@ msgid ""
 "your avatar is dead, you will not be able to Long Rest or move to a new area "
 "until they are revived. "
 msgstr ""
+"당신과 파티원에게 죽음은 꼭 끝을 의미하진 않습니다. 두루마리나 <LSTag Tooltip=\"SpellSlot\">주문 슬롯</"
+"LSTag>의 <LSTag Type=\"Spell\" Tooltip=\"Teleportation_Revivify\">소생</LSTag>은 "
+"죽은 캐릭터를 1의 <LSTag Tooltip=\"HitPoints\">체력</LSTag>을 지닌 채 되살립니다. 당신의 아바타가 죽어 "
+"있다면, 부활하기 전까진 긴 휴식이나 새로운 지역의 이동이 불가능합니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4206,7 +4209,8 @@ msgid ""
 "Leaving an enemy's melee range allows them to attack you as a reaction. "
 "Avoid this by taking the Disengage action first. "
 msgstr ""
-"적의 근접 공격 범위를 벗어나면 그에 대한 반응 행동으로 공격을 당할 수 있습니다. 먼저 철수 행동을 하면 공격을 피할 수 있습니다. "
+"적의 근접 공격 범위를 벗어나면 그에 대한 반응 행동으로 공격을 당할 수 있습니다. 먼저 철수를 발동시켜 움직이면 공격을 피할 수 "
+"있습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4264,7 +4268,8 @@ msgid ""
 "Leaving an enemy's melee range allows them to attack you as a reaction. "
 "Avoid this by taking the Disengage action first. "
 msgstr ""
-"적의 근접 공격 범위를 벗어나면 그에 대한 반응 행동으로 공격을 당할 수 있습니다. 먼저 철수 행동을 하면 공격을 피할 수 있습니다. "
+"적의 근접 공격 범위를 벗어나면 그에 대한 반응 행동으로 공격을 당할 수 있습니다. 먼저 철수를 발동시켜 움직이면 공격을 피할 수 "
+"있습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4307,7 +4312,7 @@ msgctxt "habcf64bbgf83bg4515g863dged43ce08a4ac"
 msgid ""
 "Taking the Disengage action lets you leave an enemy's melee range without "
 "taking Opportunity Attacks. "
-msgstr "철수 행동을 선택하면 기회 공격을 유발하지 않고 적의 근접 범위를 벗어날 수 있습니다 "
+msgstr "철수를 발동시켜 움직이면 기회 공격을 유발하지 않고 적의 근접 범위를 벗어날 수 있습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4335,6 +4340,10 @@ msgid ""
 "[IE_ToggleSpells] Open Action Radial Menu\n"
 " <LSTag Type=\"Image\" Info=\"TutorialDisengage\"/>  Disengage"
 msgstr ""
+"철수를 발동시켜 움직이면 적의 근접 공격 범위에서 기회공격을 유발시키지 않고 도망갈 수 있게 됩니다.\n"
+"\n"
+"[IE_ToggleSpells] 행동 원형 메뉴 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialDisengage\"/>  철수"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4354,7 +4363,7 @@ msgctxt "h7907bbc0g7e8ag45c2gb718g6bc734d1da9b"
 msgid ""
 "Taking the Disengage action lets you leave an enemy's melee range without "
 "taking Opportunity Attacks."
-msgstr "철수 행동을 선택하면 기회 공격을 유발하지 않고 적의 근접 범위를 벗어날 수 있습니다."
+msgstr "철수를 발동시켜 움직이면 기회 공격을 유발하지 않고 적의 근접 범위를 벗어날 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4377,6 +4386,9 @@ msgid ""
 "\n"
 "<LSTag Type=\"Image\" Info=\"TutorialDisengage\"/> Disengage"
 msgstr ""
+"철수를 발동시켜 움직이면 적의 근접 공격 범위에서 기회공격을 유발시키지 않고 도망갈 수 있게 됩니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialDisengage\"/> 철수"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4632,6 +4644,12 @@ msgid ""
 "[IE_UIPinTooltip] Examine something in the world.\n"
 "[IE_ContextMenu] Use the Context Menu to Examine something in your inventory."
 msgstr ""
+"모험 중에 마주치는 크리쳐, 사물, 아이템 및 환경을 조사하면 자세한 내용을 볼 수 있습니다. 무언가를 조사하면 상태, 요소, 능력치 "
+"점수, <LSTag Tooltip=\"Resistant\">저항</LSTag>, <LSTag Tooltip=\"Vulnerable\""
+">취약</LSTag>, <LSTag Tooltip=\"Immune\">면역</LSTag>에 대한 정보를 알 수 있습니다.\n"
+"\n"
+"[IE_UIPinTooltip] 게임내 무언가를 조사하기.\n"
+"[IE_ContextMenu] 상세 메뉴를 사용해 인벤토리의 무언가를 조사하기."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7514,6 +7532,8 @@ msgid ""
 "You're <LSTag Type=\"Image\" Info=\"TutorialEncumbered\"/>Encumbered. Your "
 "movement and rolls will be negatively impacted until you drop some items. "
 msgstr ""
+"당신은 <LSTag Type=\"Image\" Info=\"TutorialEncumbered\"/> 과적 상태입니다. 몇몇 아이템을 "
+"버리기전까지 이동 속도와 주사위 굴림에 부정적인 효과가 지속됩니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7526,6 +7546,8 @@ msgid ""
 " <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> Open Character "
 "Sheet to drop items"
 msgstr ""
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 캐릭터 시트를 열고 아이템 버리기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7549,6 +7571,18 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu \n"
 " <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> Drop Items"
 msgstr ""
+"무거운 물건을 너무 많이 집어 들면 <LSTag Type=\"Image\" Info=\"TutorialEncumbered\"/>과적 "
+"상태가 됩니다.\n"
+"\n"
+"가벼운 과적 상태의 캐릭터는 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 감소하고, 도약 거리가 "
+"절반으로 줄어듭니다.\n"
+"심각한 과적 상태의 캐릭터는 훨씬 더 느리게 움직이고 도약하거나 올라갈 수 없으며, <LSTag Tooltip=\"AbilityCheck"
+"\">능력치 판정</LSTag>과 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, 근력, 민첩, 건강 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 가집니다. 아이템을 버리거나 장비를 교체하여 과적 상태에서 벗어 나세요.\n"
+"\n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 아이템 버리기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7580,7 +7614,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1299
 msgctxt "h02f6db57g8d19g404cga30dgc47484fa1428"
 msgid "[IE_ToggleInventory] Open Inventory to drop items"
-msgstr "[IE_ToggleInventory] 아이템을 버리기 위해 인벤토리 열기"
+msgstr "[IE_ToggleInventory] 인벤토리를 열어서 아이템 버리기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7603,6 +7637,17 @@ msgid ""
 "\n"
 "[IE_ToggleInventory] Open Inventory to drop items"
 msgstr ""
+"무거운 물건을 너무 많이 집어 들면 <LSTag Type=\"Image\" Info=\"TutorialEncumbered\"/>과적 "
+"상태가 됩니다.\n"
+"\n"
+"가벼운 과적 상태의 캐릭터는 <LSTag Tooltip=\"MovementSpeed\">이동 속도</LSTag>가 감소하고, 도약 거리가 "
+"절반으로 줄어듭니다.\n"
+"심각한 과적 상태의 캐릭터는 훨씬 더 느리게 움직이고 도약하거나 올라갈 수 없으며, <LSTag Tooltip=\"AbilityCheck"
+"\">능력치 판정</LSTag>과 <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>, 근력, 민첩, 건강 "
+"<LSTag Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 <LSTag Tooltip=\"Disadvantage\""
+">불리점</LSTag>을 가집니다. 아이템을 버리거나 장비를 교체하여 과적 상태에서 벗어 나세요.\n"
+"\n"
+"[IE_ToggleInventory] 인벤토리를 열어서 아이템 버리기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
