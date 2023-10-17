@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-16 11:37+0000\n"
-"Last-Translator: OSI <sein4510@naver.com>\n"
+"PO-Revision-Date: 2023-10-17 13:37+0000\n"
+"Last-Translator: Kraig <sir_rasorian@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -16331,7 +16331,7 @@ msgctxt "h953f5f1bg8d63g4a9dg9230g78eef88f804d"
 msgid ""
 "We met a group of paladins who seek Karlach, the very same target who Wyll "
 "is hunting. They provided us with her exact whereabouts."
-msgstr ""
+msgstr "한 무리의 팔라딘들을 만났는데, 윌처럼 악마 칼라크를 쫓고 있었다. 그들이 칼라크의 현 위치를 알려주었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -16433,6 +16433,7 @@ msgid ""
 "rest when the opportunity strikes; there's clearly a lot the Blade of "
 "Frontiers isn't telling us."
 msgstr ""
+"윌은 자신이 참회를 직면할 것이라고 불길한 투로 말했다. 시간이 된다면 긴 휴식을 취해야겠다. 변경의 칼날이 숨기고 있는 이야기가 많다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -32110,6 +32111,9 @@ msgid ""
 "grant him enough time to find it. This would be suicide for Gale. We need to "
 "learn more about this 'Heart', and how else it might be defeated."
 msgstr ""
+"게일의 스승이자 위대한 위저드 엘민스터가 미스트라의 전언을 전하기 위해 게일을 찾아왔다. 미스트라는 게일에게 '절대자의 심장'을 찾아, "
+"그 자리에서 보주를 터뜨려 날려버리라고 지시했다. 엘민스터는 이를 해낼 수 있도록 게일에게 강력한 주문을 걸었고, 심장을 찾기에 충분한 "
+"시간을 벌어주기 위해 보주를 안정화시켰다. 이 '심장'에 대해, 그리고 그것을 파괴할 다른 방법이 있는지 더 자세히 알아봐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -32407,6 +32411,8 @@ msgid ""
 "great catastrophe would occur. While he does not need them yet, it's best to "
 "be prepared. We should keep any suitable items close at hand."
 msgstr ""
+"게일이 말하길 자신은 마법 아이템을 소모해 위브를 흡수해야 하고, 그렇지 못하면 거대한 재앙이 일어날 거라고 했다. 당장 급하진 않지만, "
+"준비하는 것이 좋겠다. 쓸 만한 물건을 챙겨 두어야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -33897,7 +33903,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11478
 msgctxt "he78c26d0gfd36g404dga3edg7a33e6de5b98"
 msgid "Go to Baldur's Gate."
-msgstr ""
+msgstr "발더스 게이트로 가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -44170,9 +44176,9 @@ msgid ""
 "stabilised to orb to grant me enough time to find it. I need to learn more "
 "about this 'Heart', and how else it might be defeated."
 msgstr ""
-"나의 스승이자 위대한 위저드 엘민스터가 미스트라의 전언을 손수 옮기기 위해 방문했다. 미스트라는 내게 '절대자의 심장'을 찾고, 그 "
-"자리에서 보주를 터뜨려 날려버리라고 지시했다. 엘민스터는 이를 위해 내게 강력한 주문을 걸었고, 심장을 찾기에 충분한 시간을 벌어주기 "
-"위해 보주를 안정화시켰다. 이 '심장'에 대해 더 자세히 알아볼 필요가 있다. 패퇴시킬 방법이 있으리라."
+"나의 스승이자 위대한 위저드 엘민스터가 미스트라의 전언을 손수 전하기 위해 나를 찾아왔다. 미스트라는 내게 '절대자의 심장'을 찾아, 그 "
+"자리에서 보주를 터뜨려 날려버리라고 지시했다. 엘민스터는 이를 해낼 수 있도록 내게 강력한 주문을 걸었고, 심장을 찾기에 충분한 시간을 "
+"벌어주기 위해 보주를 안정화시켰다. 이 '심장'에 대해, 그리고 그것을 파괴할 다른 방법이 있는지 더 자세히 알아봐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -45223,6 +45229,8 @@ msgid ""
 "but you - you can be the most prolific killer in the history of the Realms! "
 "It will be easy - you can do it in your sleep!"
 msgstr ""
+"저런, 그렇게 당황하지 마. 이런 일이 처음은 아니거든. 알피라는 시대의 가수가 될 수 있었을지 몰라도, 넌 렐름 역사상 가장 많은 "
+"작품을 남긴 살인자가 될 수 있어! 자면서도 할 수 있을 만큼, 쉬운 일이지!"
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -45232,7 +45240,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6527
 msgctxt "he62f18aag90a8g4aaega3cfge87ed4c77bce"
 msgid "Get over it! Spill more blood!"
-msgstr ""
+msgstr "극복해라! 더 많은 피를 흩뿌려라!"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -54901,7 +54909,7 @@ msgctxt "hdd40b5d7g934dg45f3gb49bg4ad62ae42165"
 msgid ""
 "We met a group of paladins of Tyr who are hunting a devil. Anders asked for "
 "our help - we agreed to search for the devil."
-msgstr ""
+msgstr "어떤 악마를 쫓는 한 무리의 팔라딘들을 만났다. 앤더스라는 자가 그 악마를 찾아달라고 도움을 청했고, 받아들였다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -54936,7 +54944,7 @@ msgid ""
 "The devil is actually a tiefling called Karlach. She told us that the "
 "paladins are actually servants of the archdevil Zariel who were sent to hunt "
 "her down."
-msgstr ""
+msgstr "악마는 칼라크라는 티플링이었다. 그녀는 팔라딘들이야말로 아크데빌 자리엘의 하수인이라고 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -54969,7 +54977,7 @@ msgstr "데빌"
 msgctxt "hd2537f19g678eg4c79gadcdg0dbac7d71693"
 msgid ""
 "We met a tiefling who matches the devil's description. Now's our chance."
-msgstr ""
+msgstr "묘사와 들어맞는 티플링을 만났다. 기회다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep

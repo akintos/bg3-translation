@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:39+0900\n"
-"PO-Revision-Date: 2023-10-16 11:37+0000\n"
-"Last-Translator: 눕는걸좋아하는이지 <de7ce9ption@gmail.com>\n"
+"PO-Revision-Date: 2023-10-17 13:37+0000\n"
+"Last-Translator: OSI <sein4510@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -21998,7 +21998,7 @@ msgstr "*당신은 당신을 감시하는 눈을 느낍니다. 아마도 일부 
 #: Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_LockPicking:b8698aa8-5009-464b-8b4d-eb09ab47c3cc
 msgctxt "h33a9665fgcf5cg4659g99b8g345efcb8f324"
 msgid "*Your lockpicking is attracting attention. Tread carefully.*"
-msgstr "*당신의 자물쇠따기에 시선이 집중되고 있습니다. 신중히 행동하십시오.*"
+msgstr "*당신의 자물쇠 따기에 시선이 집중되고 있습니다. 신중히 행동하십시오.*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_LockPicking
 #. Speaker = Narrator
@@ -25903,8 +25903,7 @@ msgctxt "h21db98e2gf5bbg40e6g8160g054dc037cc37"
 msgid ""
 "*A black abyss so deep no light can reach its bottom. To what dire purposes "
 "have the Sharrans put this very convenient pit?*"
-msgstr ""
-"*블랙 어비스의 바닥은 아주 깊어 한 줄기 빛도 도달할 수 없습니다. 이 편리한 구덩이를 샤는 어떤 사악한 목적에 이용했을까요?*"
+msgstr "*검은 심연의 바닥은 아주 깊어 한 줄기 빛도 도달할 수 없습니다. 이 편리한 구덩이를 샤는 어떤 사악한 목적에 이용했을까요?*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_SharranCloister_AD_MapOfFaerun
 #. Speaker = Narrator
@@ -28239,7 +28238,7 @@ msgstr ""
 #: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow:09da7f09-9f33-fc0b-76e3-7ff714ba72c0
 msgctxt "hd3fe300dgde4bg4399gbe89g65461d876181"
 msgid "Can't use this right now."
-msgstr "지금 당장은 사용할 수 없어."
+msgstr "지금 당장은 사용할 수 없습니다."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow
 #. Speaker = Player
@@ -66227,7 +66226,7 @@ msgctxt "h3357ad85g53eeg49b4g8243gdae557a387a8"
 msgid ""
 "<i>FOOL. Without all three stones, we have no hope of dominating the "
 "brain.</i>"
-msgstr ""
+msgstr "<i><b>멍청한 놈</b>. 네더스톤 세 개가 모두 있지 않는 한 우리가 엘더 브레인을 지배할 가능성은 추호도 없다.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_GameOver
 #. Speaker = Disembodied Voice
@@ -66299,6 +66298,7 @@ msgid ""
 "<i>I warned you. The brain is too powerful here - my protection is "
 "insufficient. You have ruined us. All of us. </i>"
 msgstr ""
+"<i>경고했건만. 여기선 엘더 브레인의 힘이 너무 강력하다고. 내 보호로는 부족하다고. 네가 우리를 파멸시켰다. 우리 모두를.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_GameOver
 #. Speaker = Disembodied Voice
@@ -66344,7 +66344,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_GameOver:daa30df5-8836-bb56-6e1a-d3bd6a127639
 msgctxt "h97c97eb5gd1abg41eeg9c2egb8d5b81d7391"
 msgid "<i>You have ruined us.</i>"
-msgstr ""
+msgstr "<i>네가 우리를 파멸시켰다. </i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_GameOver
 #. Speaker = Narrator
@@ -66353,7 +66353,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_GameOver:e0c1f08c-4983-2f1d-fe2e-63def5d031e6
 msgctxt "h91e96b69ga18ag4b63g99fag4b74f38bef10"
 msgid "*Your heart sinks as you realise the Emperor is right. It's over.*"
-msgstr ""
+msgstr "*황제의 말이 옳다는 사실을 깨닫자 당신의 심장이 덜컥 내려앉습니다. 전부 끝났습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_GameOver
 #. Speaker = Disembodied Voice
@@ -66383,7 +66383,7 @@ msgstr "<b><i>합류해라. 하수인.</i></b>"
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_GameOver:feba234b-e955-641d-39c5-c6d79d624fea
 msgctxt "h88e1d1e7g4e35g4adfg8350g515e79e25f07"
 msgid "<i>Of all the ways I thought this might end...</i>"
-msgstr ""
+msgstr "<i>그 모든 가능성 중 이런 끝이라니... </i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_LeaveWithoutKethericStone
 #. Speaker = GROUP_Daisy
