@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-17 13:37+0000\n"
-"Last-Translator: OSI <sein4510@naver.com>\n"
+"PO-Revision-Date: 2023-10-19 00:37+0000\n"
+"Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -782,7 +782,7 @@ msgstr "몰의 보증"
 
 msgctxt "h0c1fd4dcg661bg43bagafb1gb83ce5b1ba9d"
 msgid "Tiefling Weaponsmith"
-msgstr ""
+msgstr "티플링 무기장이"
 
 msgctxt "h0c376a15g66f2g4a84gb834gbab605fb0124"
 msgid ""
@@ -813,6 +813,9 @@ msgid ""
 "attack while <LSTag Type=\"Status\" Tooltip=\"FLANKED\">Threatened</LSTag> "
 "in melee."
 msgstr ""
+"무기 사거리 밖에 있는 대상을 공격하면 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 받게 되며, 근접 "
+"상태에서 원거리 공격을 하면<LSTag Type=\"Status\" Tooltip=\"FLANKED\">위협받음</LSTag>을 받게 "
+"됩니다."
 
 msgctxt "h0c734573g5e16g4dc8g9af3g8cefde99422f"
 msgid "Melee Damage: <LSTag Type=\"Damage\">[1]</LSTag>"
@@ -820,11 +823,11 @@ msgstr "근접 피해: <LSTag Type=\"Damage\">[1]</LSTag>"
 
 msgctxt "h0c7a7debg324bg4b43ga039gd53e6355f974"
 msgid "Mason's Guild - Entrance"
-msgstr ""
+msgstr "석공 조합 - 입구"
 
 msgctxt "h0c89352bg0082g42b3gaf45gb2ff60083aff"
 msgid "Gnome:"
-msgstr ""
+msgstr "노움:"
 
 msgctxt "h0c8f12acg1aa9g48d5g9fc3g9301cd4c2663"
 msgid "LOW - Boosters"
@@ -832,7 +835,7 @@ msgstr ""
 
 msgctxt "h0ca3d1e2g7de3g4199gabcegde031a2ba84f"
 msgid "Killed Gortash."
-msgstr ""
+msgstr "고타쉬를 죽였습니다."
 
 msgctxt "h0caae809gee20g4f70gb6acg54cb15fb6443"
 msgid "The Thieflings:"
@@ -844,19 +847,19 @@ msgstr "함정 해제"
 
 msgctxt "h0cbc46c7g8e78g4674gaa91gc32ddda0593c"
 msgid "Inspiration Gained:"
-msgstr ""
+msgstr "고양감 획득:"
 
 msgctxt "h0cc237dbgc5bdg4b58g9c80g7a336af8907d"
 msgid "Wyll Avatar"
-msgstr ""
+msgstr "윌 아바타"
 
 msgctxt "h0d02dd0agba4fg4153ga1bbgf66098336641"
 msgid "Immune to [1]"
-msgstr ""
+msgstr "[1] 면역"
 
 msgctxt "h0d0e830ag569fg4649g8fe1g182933607f84"
 msgid "Make cleric of Bhaal"
-msgstr ""
+msgstr "바알의 클레릭 만들기"
 
 msgctxt "h0d110711g9de8g4803ga322g2b76ae2f0637"
 msgid "Poison Damage"
@@ -864,19 +867,19 @@ msgstr "독성 피해"
 
 msgctxt "h0d12192dg4e82g4db9g94a1gb4d9de7279f9"
 msgid "Initial beggar positions"
-msgstr ""
+msgstr "초기 거지 위치"
 
 msgctxt "h0d454e73gfc25g48f3g8d1ag3f95599140b4"
 msgid "Motion blur"
-msgstr ""
+msgstr "모션 블러"
 
 msgctxt "h0d4ef81cg2a1dg473dgb329g7f1ea5f3dbc2"
 msgid "Game Master Mode"
-msgstr ""
+msgstr "GM 모드"
 
 msgctxt "h0d5d61c0ged76g4d8ag83c2g0a589c564321"
 msgid "Astarion"
-msgstr ""
+msgstr "아스타리온"
 
 msgctxt "h0d686e4eg53adg49e8ga156g2e12c2fb828d"
 msgid "Customise"
@@ -884,19 +887,20 @@ msgstr "변경"
 
 msgctxt "h0d85dfe7g36feg487ega75agac28be4eedee"
 msgid "Find the Sharran Temple."
-msgstr ""
+msgstr "샤의 신전을 찾으세요."
 
 msgctxt "h0d9b0252g1275g4e2bgbd09g83f03857a3a8"
 msgid "Defeat of brain. (Final Decisions + CombatOver)"
-msgstr ""
+msgstr "브레인의 패배. (최종 결정 + 전투끝)"
 
 msgctxt "h0db2dca8g05e6g448cga12ag87f170a5bef9"
 msgid "Monk Weapon"
 msgstr "몽크 무기"
 
+#, fuzzy
 msgctxt "h0e052be3g574dg4e43gbdb5g70780d73cee7"
 msgid "Reticule Soft Snap"
-msgstr ""
+msgstr "레티클 부드럽게 스냅"
 
 msgctxt "h0e19cd91gf5e4g4937g8696g83f15e719dd9"
 msgid "Non-Teleportable"
@@ -904,11 +908,11 @@ msgstr "순간이동 불가능"
 
 msgctxt "h0e38a42fg44dfg491dg8387g6d582a3cacf9"
 msgid "Bow"
-msgstr ""
+msgstr "활"
 
 msgctxt "h0e44c36bg6033g41e8ga014ge077ca7e198c"
 msgid "Borderless Window"
-msgstr ""
+msgstr "테두리 없는 창 모드"
 
 msgctxt "h0e4905dag2789g4a29gbb59g0ff4fe8a980a"
 msgid ""
@@ -918,7 +922,7 @@ msgstr "페이룬에서 가장 흔한 종인 인간은 끈기, 창의력, 그리
 
 msgctxt "h0e58acbbg18edg442fgb30cg308083fc954c"
 msgid "Astarion Avatar"
-msgstr ""
+msgstr "아스타리온 아바타"
 
 msgctxt "h0e5a9798gd460g43abg871agc306ed530c66"
 msgid "Wyll is Grand Duke and Ravengard is alive."

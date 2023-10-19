@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-17 13:37+0000\n"
+"PO-Revision-Date: 2023-10-19 00:37+0000\n"
 "Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4217,16 +4217,6 @@ msgstr ""
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Attack of Opportunity
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:596
-#, fuzzy
-#| msgid ""
-#| "If you leave melee with a character it can use its reaction to take an "
-#| "<LSTag Tooltip=\"OpportunityAttack\">Opportunity Attack</LSTag> against you -"
-#| " and you can do the same. You only get one reaction every round of combat, "
-#| "so make sure it counts!\n"
-#| "\n"
-#| "[IE_PanelSelect] Open Game Menu\n"
-#| "<LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> Open Character Sheet "
-#| "to manage reactions"
 msgctxt "hbb989f54g7004g418bg984ag2efd467bd0a0"
 msgid ""
 "If you leave the melee range of an enemy, it can use its reaction to take an "
@@ -4673,7 +4663,7 @@ msgstr "이 대상은 당신의 공격에 취약하므로 두배의 피해를 �
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:672
 msgctxt "h899ef315g98a9g4c77gb63eg2c1a7e331a5e"
 msgid "[IE_ContextMenu] Open Context Menu while targeting entity"
-msgstr ""
+msgstr "[IE_ContextMenu] 개체를 지정한 상태에서 상세 메뉴 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4713,7 +4703,7 @@ msgctxt "he0e75bd6g2e96g4b3bg8da1g5d78a202b13a"
 msgid ""
 "This entity was Immune to your attack and took no damage. Examine an entity "
 "to see its Immunities. "
-msgstr ""
+msgstr "이 개체는 공격에 면역으로 피해를 입지 않았습니다. 대상을 조사해 면역 여부를 확인하세요. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4722,7 +4712,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:686
 msgctxt "h901da0eagf747g4451g9260g2b263c766e98"
 msgid "[IE_ContextMenu] Open Context Menu while targeting entity"
-msgstr ""
+msgstr "[IE_ContextMenu] 개체를 지정한 상태에서 상세 메뉴 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4742,7 +4732,7 @@ msgctxt "h91970b0ag0d64g422cgb65eg05fbed99cafb"
 msgid ""
 "This entity was Immune to your attack and took no damage. Examine an entity "
 "to see its Immunities. "
-msgstr ""
+msgstr "이 개체는 공격에 면역으로 피해를 입지 않았습니다. 대상을 조사해 면역 여부를 확인하세요. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
