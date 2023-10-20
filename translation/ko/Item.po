@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-19 00:37+0000\n"
+"PO-Revision-Date: 2023-10-20 12:37+0000\n"
 "Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -11041,7 +11041,7 @@ msgstr "포도주잔"
 msgctxt "hf341db64gc1f9g4123gbd05ga82621b4432d"
 msgid ""
 "This dwarven-crafted goblet may be empty of wine, but it's full of promise."
-msgstr "이 드워프제 잔은 포도주가 비어있지만, 희망으로 가득합니다."
+msgstr "이 드워프제 잔에 포도주는 없지만, 희망으로 가득합니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -12304,7 +12304,6 @@ msgstr "썩은 레몬"
 #. Icon = Item_CONS_FOOD_Fruit_Lemon_A_Rotten
 #. Stats = CONS_FOOD_Fruit_Lemon_A_Rotten
 #: Public/Shared/RootTemplates/dc980269-d8bd-4a25-b521-d3ac7bb4812f.lsx:19
-#, fuzzy
 msgctxt "haba3d01cg7364g4a4dgaaa6ge474c824b127"
 msgid ""
 "This shrivelled lemon is covered almost entirely in white and green mould."
@@ -33915,7 +33914,7 @@ msgstr "거대한 대장간 망치"
 #: Public/Shared/RootTemplates/161167a2-817d-4476-bd59-1c823d529ee9.lsx:16
 msgctxt "hfac03622g4be4g47afgb753g3cc1fca8109e"
 msgid "Mould Chamber"
-msgstr "금형 챔버"
+msgstr "주형 틀"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -66826,7 +66825,7 @@ msgstr "세심한 바느질에도 불구하고, 이 패딩 더블렛의 금자�
 #: Public/Shared/RootTemplates/8677c8eb-6b43-4e4f-971a-93c64f461033.lsx:13
 msgctxt "h3adc25d8gf569g4948g87ecg9804efde918a"
 msgid "Mould Chamber"
-msgstr "금형 챔버"
+msgstr "주형 틀"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -66969,7 +66968,7 @@ msgstr "이 두루마리는 아직 읽지 않았습니다."
 #: Public/Shared/RootTemplates/216f0362-f77b-420c-84cb-d84853aa173d.lsx:15
 msgctxt "h078f1d52g7466g4c00gb18bg62cb13ec3611"
 msgid "Dreamsome Boots"
-msgstr ""
+msgstr "꿈같은 부츠"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -68740,11 +68739,9 @@ msgstr "아직 완성되지 않은 주형일 뿐이지만, 그럼에도 이 메�
 #. Icon = Item_UNI_LOOT_AdamantineForge_ScalemailMold
 #. Stats = UNI_LOOT_AdamantineForge_ScaleMold
 #: Public/Shared/RootTemplates/e0dd88fa-b057-499a-b2fd-fe8e92a856df.lsx:16
-#, fuzzy
-#| msgid "Scale Mail Mould"
 msgctxt "hb1dc1967gae04g44dcg8653g6fe4a1b36b96"
 msgid "Scale Mail Mould (Medium)"
-msgstr "비늘 갑옷 주형"
+msgstr "비늘 갑옷 주형 (약간 무거움)"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -68840,11 +68837,9 @@ msgstr "특별한 장비를 제작하는데 사용할 수 있습니다. 특정 �
 #. Icon = Item_UNI_LOOT_AdamantineForge_SplintMold
 #. Stats = UNI_LOOT_AdamantineForge_SplintMold
 #: Public/Shared/RootTemplates/e3526b0a-b74f-43c5-9466-334c08de88fe.lsx:14
-#, fuzzy
-#| msgid "Splint Mould"
 msgctxt "h614abc01gfe3dg4875ga979gc4d5ab8f941c"
 msgid "Splint Mould (Heavy)"
-msgstr "스플린트 주형"
+msgstr "스플린트 주형 (무거움)"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
