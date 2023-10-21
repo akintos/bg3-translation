@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-17 13:37+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-10-21 13:37+0000\n"
+"Last-Translator: 벨루크 <bellukevt@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2382,10 +2382,9 @@ msgid "Gameplay Settings"
 msgstr "게임플레이 설정"
 
 #: Public/Game/GUI/Library/OptionTemplates_c.xaml:927
-#, fuzzy
 msgctxt "hfcf0e084gab3ag4595g9250gc263a0fef8a3"
 msgid "Video Settings"
-msgstr "그래픽 설정"
+msgstr "비디오 설정"
 
 #: Public/Game/GUI/Library/OptionTemplates_c.xaml:930
 msgctxt "h72051010g546eg466dg8d1cge8f632c968d1"
@@ -2457,7 +2456,6 @@ msgstr "없음"
 
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:1141
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:3940
-#, fuzzy
 msgctxt "h8f9f545dg237eg49fcg9f12g84f1cff2218d"
 msgid ""
 "<hl>[1]</hl> knows how to play a variety of musical instruments and is able "
@@ -4389,7 +4387,6 @@ msgid "Empowered Spell"
 msgstr "주문 강력화"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:3560
-#, fuzzy
 msgctxt "hc215d788gec91g4f43g97e9gdbf1a904e041"
 msgid "Roll damage dice with <LSTag Tooltip=\"Advantage\">Advantage</LSTag>."
 msgstr "피해 주사위를 굴릴 때 <LSTag Tooltip=\"Advantage\">이점</LSTag>을 가집니다."
@@ -5163,10 +5160,9 @@ msgstr "의식"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:7653
 #: Public/Game/GUI/Library/Tooltips.xaml:7728
-#, fuzzy
 msgctxt "h0604f01ag5d1eg4f62g8dcbg8cad97adbc59"
 msgid "Will break active Concentration: [1]"
-msgstr "활성화된 집중 깨뜨릴 예정: [1]"
+msgstr "다음 활성화된 집중이 깨집니다: [1]"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:7797
 msgctxt "h57a05f43g5361g4b03g8883g56d4683b7100"
@@ -5513,7 +5509,6 @@ msgstr "집중이 필요합니다."
 
 #: Public/Game/GUI/Widgets/ActionRadials.xaml:124
 #: Public/Game/GUI/Library/Tooltips.xaml:54
-#, fuzzy
 msgctxt "hafde27eeg294dg41c9g9aa1g5d5f2be9afea"
 msgid "Inspect"
 msgstr "조사"
@@ -6373,10 +6368,9 @@ msgstr "초기화"
 
 #: Public/Game/GUI/Widgets/CharacterAssign_c.xaml:170
 #: Public/Game/GUI/Widgets/CharacterAssign.xaml:236
-#, fuzzy
 msgctxt "h6f7cfd79ga91eg4db4g9440gbfb9be43f9ca"
 msgid "Multiplayer Settings"
-msgstr "세션 관리자"
+msgstr "멀티플레이 설정"
 
 #: Public/Game/GUI/Widgets/CharacterAssign_c.xaml:174
 #: Public/Game/GUI/Widgets/CharacterAssign.xaml:256
