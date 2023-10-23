@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-21 13:37+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2023-10-23 01:37+0000\n"
+"Last-Translator: OSI <sein4510@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1023,12 +1023,12 @@ msgstr "임프 비막"
 #. Icon = Item_alch_extract_fire_4
 #. Stats = ALCH_Extract_ImpPatagium
 #: Public/SharedDev/RootTemplates/3bb0fa56-00e5-4a22-b6d5-641d7fd811d3.lsx:17
-#, fuzzy
 msgctxt "hf9ba4acbgeaabg448egb6d5g30afb9d31547"
 msgid ""
 "Native to the Nine Hells, imps barely burn, but once they have perished, "
 "their wings turn to ash surprisingly easily."
-msgstr "아홉 지옥에서 태어난 임프들은 불에 거의 타지 않습니다. 하지만 죽은 임프의 날개는 놀라울 정도로 쉽게 재로 변합니다."
+msgstr ""
+"아홉 지옥에서 태어난 임프들은 불에 거의 타지 않습니다. 하지만 일단 죽어버린다면, 그들의 날개는 놀라울 정도로 쉽게 재로 변합니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -4341,12 +4341,11 @@ msgstr "희석된 날카로움의 기름"
 #. Stats = ALCH_Solution_Oil_DamageAttackBuff
 #. TechnicalDescriptionParams = 1
 #: Public/SharedDev/RootTemplates/955d3880-3d10-4fb5-845b-96b6b52aef9a.lsx:24
-#, fuzzy
 msgctxt "h955e7e61g57e9g42fbg9d35g899dd8177e28"
 msgid ""
 "The flecks of shimmering crystal suspended within this murky oil make it hum "
 "with arcane potential. "
-msgstr "비전 마법의 잠재력을 품은 반짝이는 결정의 조각들이 탁한 기름 안에서 웅웅거리고 있습니다. "
+msgstr "희미하게 빛나는 결정체의 가루들이 이 탁한 기름안에서 부유하며 비전 잠재력으로 윙윙거리는 소리를 냅니다. "
 
 #. NodeID = GameObjects
 #. HandlePath = TechnicalDescription
@@ -4429,12 +4428,11 @@ msgstr "축소의 기름"
 #. TechnicalDescriptionParams = -1;-1d4
 #. Type = item
 #: Public/SharedDev/RootTemplates/01985597-fceb-47d1-93ae-9cc9928ed9e7.lsx:8
-#, fuzzy
 msgctxt "h779594acgea92g4155g8bd5g39e85bbb0f24"
 msgid ""
 "Gazing through the glass bottle, everything seems shrunken and contracted - "
 "almost gaunt."
-msgstr "이 유리병 너머로 보이는 것들은, 전부 작고 약하며 거의 수척해보이기까지 합니다."
+msgstr "유리병을 통해 바라보고 있자면, 모든 것이 쪼그라 들고 수축된 것처럼 보입니다. 거의 말라붙은 것처럼."
 
 #. NodeID = GameObjects
 #. HandlePath = TechnicalDescription
@@ -5883,10 +5881,9 @@ msgstr "마시기"
 #. Type = item
 #. Icon = Item_CONS_Drink_Potion_A
 #: Public/Shared/RootTemplates/277257bc-38f5-4c51-be13-32498e8cbd3d.lsx:17
-#, fuzzy
 msgctxt "haf3f80eag87d7g4368g8475g381b7fdc7dec"
 msgid "Potion"
-msgstr "물약 병"
+msgstr "물약"
 
 #. NodeID = GameObjects
 #. HandlePath = OnUseDescription
@@ -6341,7 +6338,6 @@ msgstr "양초"
 #: Public/Shared/RootTemplates/caaef10c-4150-6742-8887-81681575906d.lsx:23
 #: Public/Shared/RootTemplates/c9e45e5a-f089-480b-ab3a-7f5f76dccc3b.lsx:24
 #: Public/Gustav/RootTemplates/2a8c390d-161f-4abe-9135-42b487f153e8.lsx:23
-#, fuzzy
 msgctxt "h4bc56742gcf27g4782g9935g950eff64cf8c"
 msgid "Object"
 msgstr "사물"
@@ -6637,7 +6633,7 @@ msgstr "이 단검의 손잡이는 부드럽고 가벼우며, 날카로운 칼�
 #: Public/Shared/RootTemplates/baaa7f02-a9a1-4b8d-bde9-28ed7828b531.lsx:15
 msgctxt "h12bb89ffg9385g4672g9737g244d3630c3de"
 msgid "Flail"
-msgstr "도리깨"
+msgstr "플레일"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -9051,7 +9047,6 @@ msgstr "투명화의 물약"
 #. Icon = Item_CONS_Potion_Invisible_A
 #. Stats = OBJ_Potion_Of_Invisibility
 #: Public/Gustav/RootTemplates/5f355bb6-a80e-4046-96d5-22534ebe0118.lsx:31
-#, fuzzy
 msgctxt "h309ea242gbd91g4759g83b0ge51f12df42d0"
 msgid ""
 "Become invisible for 1 minute. Attacking or casting spells ends the "
@@ -9060,7 +9055,7 @@ msgid ""
 "<i>You'd think this bottle was empty but for the sound of sloshing liquid "
 "from within.</i>"
 msgstr ""
-"1분 동안 투명해집니다. 공격이나 주문 시전 시 상태에서 벗어납니다.\n"
+"1분 동안 투명해집니다. 공격이나 주문 시전 시 해제됩니다.\n"
 "\n"
 "<i>당신은 이 병이 비어있는 줄 알았습니다. 안에서 철벅거리는 액체 소리를 듣기 전까지는요.</i>"
 
@@ -11732,7 +11727,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/293ffe17-abc1-4842-b338-cd9482e3bcbc.lsx:15
 msgctxt "h9f3a7c63g80ceg4f8dg897fg50ecc740f9bc"
 msgid "Elixir of Half-Elven Healing"
-msgstr "하프엘프의 치유 영약"
+msgstr "하프 엘프의 치유 영약"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -13075,7 +13070,6 @@ msgstr "미스랄 전당에서 전통적으로 불에 구워 먹는 이 양념 �
 #. Icon = Item_CONS_GEN_Food_Meat_PorkPiece_B
 #. Stats = OBJ_FOOD_PorkPiece_B
 #: Public/SharedDev/RootTemplates/136e4730-77d7-4985-8d1a-e58cc64ed690.lsx:16
-#, fuzzy
 msgctxt "h12cb37d9g0f79g49b3g89f3g82fb3a9977e7"
 msgid "Bloodless Pig Meat"
 msgstr "핏기 없는 돼지고기"
@@ -13270,7 +13264,6 @@ msgstr ""
 #. Icon = Item_CONS_Drink_Wine_Bottle_A
 #. Stats = CONS_GEN_Alcohol_Bottle_Cheap_D
 #: Public/Shared/RootTemplates/b6e4ab1f-6a0e-47fa-bc02-30a0b142bca6.lsx:15
-#, fuzzy
 msgctxt "h92f497fbg3b87g4d8cg9375g079de4882605"
 msgid "Common Table-Wine"
 msgstr "평범한 식사용 포도주"
@@ -13282,7 +13275,6 @@ msgstr "평범한 식사용 포도주"
 #. Icon = Item_CONS_Drink_Wine_Bottle_A
 #. Stats = CONS_GEN_Alcohol_Bottle_Cheap_D
 #: Public/Shared/RootTemplates/b6e4ab1f-6a0e-47fa-bc02-30a0b142bca6.lsx:22
-#, fuzzy
 msgctxt "hb221b3b8g2435g428eg9140gc28a0d29b259"
 msgid ""
 "Quenching thirst across wide Faerûn, this common wine is served in ceramic "
@@ -13310,12 +13302,11 @@ msgstr "차가운입맞춤 에일"
 #. Icon = Item_CONS_Drink_Wine_Bottle_A
 #. Stats = CONS_GEN_Alcohol_Bottle_Normal_A
 #: Public/Shared/RootTemplates/97422db7-ab9e-42ab-8026-ac86a8e30e56.lsx:23
-#, fuzzy
 msgctxt "hf4fddffcgbef4g40f1ga953gf2712b4ae061"
 msgid ""
 "An ale aged over years, said to be as cold and sour as the goddess it's "
 "named after."
-msgstr "수년 동안 숙성된 에일로, 이름처럼 차갑고 신맛이 난다고 합니다."
+msgstr "수년 동안 숙성된 에일로, 여신의 이름처럼 차갑고 신맛이 난다고 합니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -16730,7 +16721,6 @@ msgstr "벨라도나"
 #. Icon = Item_CONS_Herbs_Belladonna_Bundle_A
 #. Stats = CONS_Herbs_Belladonna
 #: Public/Shared/RootTemplates/1a7d3387-3c57-4ae7-9e7a-eb0eb0199dc3.lsx:18
-#, fuzzy
 msgctxt "h6ff71d30g4868g4db1gabe3gdea22cba862c"
 msgid ""
 "The old rhyme goes, 'If you fear the changer moon / If befall'd by curse or "
@@ -16738,8 +16728,8 @@ msgid ""
 "rhymes are pretty but they get people killed more often than not. Belladonna "
 "blooms are poisonous."
 msgstr ""
-"이 해안 식물은 종종 미신을 믿는 사람들이 수확하는데, 그들은 이것이 낭광증으로 부터 자신들을 보호해 준다고 믿습니다. 사실 이 식물의 "
-"독성 꽃은 치유보다는 해가 될 가능성이 높습니다."
+"옛부터 전해 내려오는 동요에는, '변하는 달을 두려워하면 / 저주나 파멸에 휘말리면/ 늑대인간의 힘에 굴복했다면/ 벨라도나 꽃을 "
+"찾으라.' 옛날부터 전해 내려오는 동요는 아름답지만 사람들이 죽는 일이 더 많습니다. 벨라도나 꽃은 독성이 있습니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -17001,7 +16991,6 @@ msgstr "티마스크 포자"
 #. Icon = Item_UNI_UND_SocietyOfBrilliance_TimmaskSpore
 #. Stats = CONS_Mushrooms_SporeTimmask
 #: Public/Shared/RootTemplates/8e2dd06c-c62f-4235-b0f8-f353c6b1ec9d.lsx:35
-#, fuzzy
 msgctxt "h28ab15c8g873cg4649g8ad0gc46eed48d83d"
 msgid ""
 "Spores are the Timmask's main defence system, poisoning and befuddling any "
@@ -17097,7 +17086,6 @@ msgstr "무기 코팅"
 #. Icon = Item_CONS_Oil_Of_Sharpness
 #. Stats = OBJ_Oil_Of_Sharpness
 #: Public/Shared/RootTemplates/84eedc44-3b1b-49c4-9417-9e5a99ea6e56.lsx:26
-#, fuzzy
 msgctxt "he28ca024g689cg47a5g9cc2g99d45081148a"
 msgid ""
 "Grants a +3 bonus to Damage and <LSTag Tooltip=\"AttackRoll\">Attack Rolls</"
@@ -17383,7 +17371,6 @@ msgstr "독이 충분히 강하다면, 아주 살짝 찌르기만 해도 단기 
 #. Icon = Item_CONS_Poison_Serpent_Venom
 #. Stats = OBJ_SerpentVenom
 #: Public/Shared/RootTemplates/b0385b93-f525-4740-8126-471a76fa31a2.lsx:16
-#, fuzzy
 msgctxt "hcae89a1ag5d66g4a89g8e0cgcd9743d8d8d3"
 msgid "Serpent Fang Toxin"
 msgstr "뱀독"
@@ -17418,7 +17405,6 @@ msgstr "정치적 암살은 물론 부부간의 문제 해결까지, 이 독이 
 #. TechnicalDescriptionParams = DealDamage(1d8,Poison)
 #: Public/SharedDev/RootTemplates/eca393b0-3f8e-4862-814b-9e236a0d4129.lsx:16
 #: Public/Shared/RootTemplates/eca393b0-3f8e-4862-814b-9e236a0d4129.lsx:9
-#, fuzzy
 msgctxt "ha23f7c1ag443ag476bg807cg058e02a648c4"
 msgid "Wyvern Toxin"
 msgstr "와이번 독"
@@ -17440,12 +17426,11 @@ msgstr "와이번 독"
 #. TechnicalDescriptionParams = DealDamage(1d8,Poison)
 #: Public/SharedDev/RootTemplates/eca393b0-3f8e-4862-814b-9e236a0d4129.lsx:19
 #: Public/Shared/RootTemplates/eca393b0-3f8e-4862-814b-9e236a0d4129.lsx:8
-#, fuzzy
 msgctxt "h24228284g8d08g494ega9f7gbe0962d286a3"
 msgid ""
 "Shifting mercurially within its vial, the toxin holds a promise of swift and "
 "delectable death. "
-msgstr "치명적인 만큼 맛도 없습니다. 와이번의 꼬리 밑에 있는 분비샘에서 채취했습니다."
+msgstr "독약은 유리병 안에서 수은처럼 흔들리고, 빠르고 달콤한 죽음의 약속을 담고 있습니다. "
 
 #. NodeID = GameObjects
 #. HandlePath = TechnicalDescription
@@ -18251,10 +18236,9 @@ msgstr "연금술사의 병입니다. 병 바닥에 양초를 꽂으면 병 안�
 #. Icon = Item_CONS_Potion_Heroism
 #. Stats = OBJ_Potion_Of_Heroism
 #: Public/Shared/RootTemplates/bb27cc17-5af9-4d53-818b-3e620f3f59f2.lsx:16
-#, fuzzy
 msgctxt "h02ff4011g4112g47a8g8ea2gffb18f4a1284"
 msgid "Elixir of Heroism"
-msgstr "영웅심의 물약"
+msgstr "용기의 영약"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -21480,10 +21464,9 @@ msgstr "이 배낭의 기워진 솔기와 모퉁이에서 항상 가득히 채�
 #: Mods/GustavDev/Levels/BGH_WaterQueenHouse_B_ART/Scenery/_merged.lsx:19994
 #: Mods/GustavDev/Levels/BGH_SorcerersSundries_A_ART/Scenery/_merged.lsx:6510
 #: Mods/GustavDev/Levels/BGH_Countinghouse_C/Scenery/_merged.lsx:11262
-#, fuzzy
 msgctxt "h9e37feddga7dag416eg9a89g8a8c7783be8f"
 msgid "Field"
-msgstr "Field"
+msgstr "지면"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -23048,7 +23031,6 @@ msgstr "느슨한 널빤지"
 #. Icon = Item_GEN_Wood_Plank
 #. Stats = OBJ_GenericLootItem
 #: Public/Shared/RootTemplates/a127dbbe-12f5-4e62-ba30-1bf611103211.lsx:25
-#, fuzzy
 msgctxt "haa0d4693g1262g4ce4g819egb367f7dfef34"
 msgid "A loose piece of parquet flooring."
 msgstr "느슨한 쪽모이 세공 마루 바닥재"
@@ -23071,7 +23053,6 @@ msgstr "느슨한 널빤지"
 #. Icon = Item_GEN_Wood_Plank
 #. Stats = OBJ_GenericLootItem
 #: Public/Shared/RootTemplates/21e6ac1f-9452-4548-af08-feb5a2de86b8.lsx:25
-#, fuzzy
 msgctxt "hadfbb2ecgf4d4g48aeg97f4g0b2d20d709de"
 msgid "A loose piece of parquet flooring."
 msgstr "느슨한 쪽모이 세공 마루 바닥재"
@@ -26752,7 +26733,6 @@ msgstr "쥐어 짜면 불쾌한 것이 뚝뚝 떨어집니다."
 #. Type = item
 #. Icon = Item_DEC_GEN_Beholder_Trophy_A
 #: Public/SharedDev/RootTemplates/d2216929-e790-45cc-abd7-2e3d67fa9ab1.lsx:15
-#, fuzzy
 msgctxt "hc7947d27gde2eg45c2g8dabg36dfbad80b1a"
 msgid "Stuffed Baby Beholder"
 msgstr "박제된 새끼 비홀더"
@@ -30720,7 +30700,7 @@ msgstr "악취나는 둥지"
 #: Public/Shared/RootTemplates/c2d71ad4-5af0-4fb5-8df1-f798c14f058b.lsx:16
 msgctxt "h64f80ea4g6cc5g46f2g9059g67471b91415f"
 msgid "Nest"
-msgstr ""
+msgstr "둥지"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -30730,7 +30710,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/2374977b-6bcf-43e6-a843-5a987147b7fa.lsx:15
 msgctxt "h706bae60g70acg4ef0ga0d0g56179fb275f3"
 msgid "Nest"
-msgstr ""
+msgstr "둥지"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -30784,7 +30764,7 @@ msgstr "명판"
 #: Public/Shared/RootTemplates/a5e3f06f-0467-44c5-974e-2d4b24aa26ec.lsx:15
 msgctxt "h3a1d85bcgb160g4e1cg9072g0b2c645370a9"
 msgid "Plaque"
-msgstr ""
+msgstr "명판"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -31273,7 +31253,7 @@ msgstr "발더란 조각상"
 #: Public/Shared/RootTemplates/826cc0c1-a985-4d24-8c87-47ce12178219.lsx:17
 msgctxt "h41991851g6397g4daeg8be1g17263a6c672d"
 msgid "Winged Statue of a Smilodon"
-msgstr ""
+msgstr "날개 달린 스밀로돈 조각상"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -33258,10 +33238,9 @@ msgstr "일반적으로 스톡에 넣거나 볼, 목이나 눈 등의 부위를 
 #. Icon = Item_DEC_HAR_Fish_Big_A_Headless_A
 #. Stats = CONS_FOOD_Fish_Big_Headless
 #: Public/Shared/RootTemplates/312f18f7-fe4b-49c8-bc81-c4042b99f897.lsx:16
-#, fuzzy
 msgctxt "hadfb503fg3a99g4474gab9eg30c17dc21b4e"
 msgid "Headless Fish"
-msgstr "생선 꼬리"
+msgstr "머리없는 생선"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -33527,10 +33506,9 @@ msgstr "녹슬고, 먼지투성이입니다. 낚싯대보다 미끼가 더 가�
 #. Type = item
 #. Icon = Item_Quest_FOR_BrokenSpear_Shaft
 #: Public/Shared/RootTemplates/3111eaab-0fe1-4823-aa01-49cf48e08544.lsx:15
-#, fuzzy
 msgctxt "h4b85b32fgc6a0g49e6ga616gd01cf76352ad"
 msgid "Broken Fishing Rod"
-msgstr "의자"
+msgstr "부서진 낚시대"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -33647,10 +33625,9 @@ msgstr "이 껍데기의 기하학적 소용돌이는 놀라울 정도로 날카
 #. Icon = Item_DEC_Harbour_Shell_Conch_B
 #. Stats = OBJ_Shell_B
 #: Public/Shared/RootTemplates/fd0497e6-4f0a-40cb-87b4-0a58a53bbfdc.lsx:28
-#, fuzzy
 msgctxt "h0650a734g70e3g4529gab94g47493c975e53"
 msgid "Shell"
-msgstr "기타"
+msgstr "조개껍데기"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -33681,10 +33658,9 @@ msgstr "이 가시 뾰족한 껍데기의 이전 거주자가 떠나버린 것 �
 #. Icon = Item_DEC_Harbour_Shell_Conch_C
 #. Stats = OBJ_Shell_C
 #: Public/Shared/RootTemplates/7276e6f8-0928-4352-b186-162c03097a21.lsx:28
-#, fuzzy
 msgctxt "h023bc284g29cag4137ga447g6c713276fc97"
 msgid "Conch Shell"
-msgstr "기타"
+msgstr "소라 껍데기"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -33923,10 +33899,9 @@ msgstr "주형 틀"
 #. Icon = Item_LOOT_Laboratory_Flask_Glass_D_Empty_A
 #. Stats = OBJ_Laboratory_Installation
 #: Public/Shared/RootTemplates/bd52ce78-4d73-4543-ad87-b0311fe76e8a.lsx:16
-#, fuzzy
 msgctxt "h8619f3a4g9325g467fgb704g2933fddc6dfb"
 msgid "Condensers and Alembics"
-msgstr "연금술 시설"
+msgstr "농축기와 증류기"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -33935,7 +33910,6 @@ msgstr "연금술 시설"
 #. Icon = Item_LOOT_Laboratory_Flask_Glass_D_Empty_A
 #. Stats = OBJ_Laboratory_Installation
 #: Public/Shared/RootTemplates/bd52ce78-4d73-4543-ad87-b0311fe76e8a.lsx:19
-#, fuzzy
 msgctxt "hfc4eaef6g5a72g4580gad06g4c17bf4633ff"
 msgid ""
 "A collection of fine glass flasks, used to distil liquids both mundane and "
@@ -33949,10 +33923,9 @@ msgstr "일상적이거나 불길한 액체를 증류하는 데 사용되는 고
 #. Icon = Item_LOOT_Laboratory_Flask_Glass_D_Empty_A
 #. Stats = OBJ_Laboratory_Installation
 #: Public/Shared/RootTemplates/7c5d74dc-9bc2-4ea4-9691-dce888154941.lsx:16
-#, fuzzy
 msgctxt "hc116c2a0g8b0bg47abga8bbg3d288099620a"
 msgid "Empty Condensers and Alembics"
-msgstr "연금술 시설"
+msgstr "비어있는 농축기와 증류기"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -33961,10 +33934,9 @@ msgstr "연금술 시설"
 #. Icon = Item_LOOT_Laboratory_Flask_Glass_D_Empty_A
 #. Stats = OBJ_Laboratory_Installation
 #: Public/Shared/RootTemplates/7c5d74dc-9bc2-4ea4-9691-dce888154941.lsx:19
-#, fuzzy
 msgctxt "h8e05f8beg2e84g45f8gbd54g74cc0e1c4698"
 msgid "A used-up menagerie of glass decanters."
-msgstr "일상적이거나 불길한 액체를 증류하는 데 사용되는 고급 유리 플라스크 모음입니다."
+msgstr "낡아 빠진 유리 용기 잡동사니."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -33973,10 +33945,9 @@ msgstr "일상적이거나 불길한 액체를 증류하는 데 사용되는 고
 #. Icon = Item_LOOT_Laboratory_Flask_Glass_D_Empty_A
 #. Stats = OBJ_Laboratory_Installation
 #: Public/Shared/RootTemplates/ee61b93a-d959-4a1d-b6a5-d5c338baace2.lsx:16
-#, fuzzy
 msgctxt "h4280f3afg1715g4f92g8e78g8ecba865d639"
 msgid "Condensers and Alembics"
-msgstr "연금술 시설"
+msgstr "농축기와 증류기"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -33985,7 +33956,6 @@ msgstr "연금술 시설"
 #. Icon = Item_LOOT_Laboratory_Flask_Glass_D_Empty_A
 #. Stats = OBJ_Laboratory_Installation
 #: Public/Shared/RootTemplates/ee61b93a-d959-4a1d-b6a5-d5c338baace2.lsx:19
-#, fuzzy
 msgctxt "hbd9afa3egc2fdg4250g8650g39093208774f"
 msgid ""
 "A collection of fine glass flasks, used to distil liquids both mundane and "
@@ -34250,7 +34220,6 @@ msgstr "유리 증류 세트"
 #. Icon = Item_LOOT_Laboratory_Flask_Glass_A_Empty_A
 #. Stats = OBJ_Laboratory_Installation
 #: Public/Shared/RootTemplates/b4b7fdd0-8419-4d9e-b6ce-c97da832e3c4.lsx:20
-#, fuzzy
 msgctxt "he1911590g90e2g46f1g8532g66457617e6ce"
 msgid ""
 "A greasy substance clogs up most of this set's spiralling condenser, making "
@@ -34275,7 +34244,6 @@ msgstr "유리 증류 세트"
 #. Icon = Item_LOOT_Laboratory_Flask_Glass_A_Empty_A
 #. Stats = OBJ_Laboratory_Installation
 #: Public/Shared/RootTemplates/6aa75479-f26f-48ab-bc05-9c117532dccb.lsx:20
-#, fuzzy
 msgctxt "h636d93d4g4670g4c39g9bd0g0065c9faa0b1"
 msgid ""
 "A greasy substance clogs up most of this set's spiralling condenser, making "
@@ -34300,7 +34268,6 @@ msgstr "유리 증류 세트"
 #. Icon = Item_LOOT_Laboratory_Flask_Glass_A_Empty_A
 #. Stats = OBJ_Laboratory_Installation
 #: Public/Shared/RootTemplates/0b48f520-8027-4329-8ef0-c18cc210bc84.lsx:20
-#, fuzzy
 msgctxt "h63cf7172g44bag4643g91afg627f077edace"
 msgid ""
 "A greasy substance clogs up most of this set's spiralling condenser, making "
@@ -37843,11 +37810,9 @@ msgstr "탁자"
 #. Type = item
 #. Stats = OBJ_Sofa
 #: Public/SharedDev/RootTemplates/37751b04-585a-4242-aa6d-f0007bb492ce.lsx:15
-#, fuzzy
-#| msgid "[Padded Sofa]"
 msgctxt "h99ffa3c2g00c1g4d21gb1c3g198690c10c47"
 msgid "Padded Sofa"
-msgstr "[푹신한 소파]"
+msgstr "푹신한 소파"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -37856,11 +37821,9 @@ msgstr "[푹신한 소파]"
 #. Stats = OBJ_Indestructible_Medium
 #. Type = item
 #: Public/SharedDev/RootTemplates/d46c8d9e-7c76-4e7d-9fb9-32418cc72cc7.lsx:13
-#, fuzzy
-#| msgid "[Padded Chair]"
 msgctxt "hea02e02bg0b15g4166g9a62gaf3a370b7dca"
 msgid "Padded Chair"
-msgstr "[푹신한 의자]"
+msgstr "푹신한 의자"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -37868,11 +37831,9 @@ msgstr "[푹신한 의자]"
 #. Type = item
 #. Stats = OBJ_Sofa
 #: Public/SharedDev/RootTemplates/6b2d7bd5-5d2a-4bc7-a7ea-267cc60f84ac.lsx:15
-#, fuzzy
-#| msgid "[Padded Sofa]"
 msgctxt "hf95e61a2ge4d6g47d1gb30cga40be0c41630"
 msgid "Padded Sofa"
-msgstr "[푹신한 소파]"
+msgstr "푹신한 소파"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -38161,10 +38122,9 @@ msgstr "조리기구"
 #. Icon = Item_FUR_GEN_Mirror_Wood_Squared_A
 #. Stats = OBJ_Mirror
 #: Public/Shared/RootTemplates/4569b706-fe5f-4453-a62e-99d2f2506508.lsx:17
-#, fuzzy
 msgctxt "h13b6f790g5e47g4d1ag8845g28926307f9e1"
 msgid "Mirror"
-msgstr "화려한 거울"
+msgstr "거울"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -38183,10 +38143,9 @@ msgstr "거울"
 #. Icon = Item_FUR_GEN_Mirror_Wood_Squared_A_Painted
 #. Stats = OBJ_Mirror
 #: Public/Shared/RootTemplates/052b7bba-fbbe-4d56-ab5b-b47cdfb82388.lsx:17
-#, fuzzy
 msgctxt "ha961d968gc715g49d6g9346gc2396c1a2b24"
 msgid "Painted Mirror"
-msgstr "화려한 거울"
+msgstr "도색된 거울"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -39405,6 +39364,8 @@ msgid ""
 "production 'Porklet', about a vacillating man who can't bloody make up his "
 "bloody mind to just bloody kill his evil uncle (or so spake the review)."
 msgstr ""
+"어느 저명한 엘프 시인이 자신의 작품 '스팸릿'에 대한 첫 비평을 발표하고 있습니다. 이 연극은 사악한 숙부를 빨리 해치우지 못하고 "
+"차일피일 복수를 미루는 애송이 왕자에 대한 작품입니다. (적어도 비평가 눈에는 그렇게 보이는 듯합니다)"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -40030,7 +39991,7 @@ msgstr "탁자"
 #: Public/Shared/RootTemplates/c8d695b2-a236-42c7-83a7-f960c2262b34.lsx:16
 msgctxt "hc5b2bbcbg47c0g4dfdga665gde81baee7718"
 msgid "Table"
-msgstr ""
+msgstr "탁자"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -40902,10 +40863,9 @@ msgstr "가능성으로 가득 찬 평범한 면직물입니다."
 #. Icon = Item_FUR_Smith_Workbench_A_Table_D
 #. Stats = OBJ_Table
 #: Public/Shared/RootTemplates/e5624597-0da0-4fc2-8d7e-c8cb01739240.lsx:15
-#, fuzzy
 msgctxt "h40f55ab4g1998g4dfagae4dgc0857f167d3f"
 msgid "Table"
-msgstr "작업대"
+msgstr "탁자"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -40926,10 +40886,9 @@ msgstr "여기저기 흠집이 나고 얼룩이 져 있지만, 튼튼한 나무�
 #. Type = item
 #. Icon = Item_FUR_Smith_Workbench_A_Table_D
 #: Public/Shared/RootTemplates/d0d6f295-00df-4489-8351-1c333208a6fd.lsx:15
-#, fuzzy
 msgctxt "h63c76128g0344g4fbfg81ddg8b6204f6b5c8"
 msgid "Table"
-msgstr "작업대"
+msgstr "탁자"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -40949,10 +40908,9 @@ msgstr "여기저기 흠집이 나고 얼룩이 져 있지만, 튼튼한 나무�
 #. Type = item
 #. Icon = Item_FUR_Smith_Workbench_A_Table_D
 #: Public/Shared/RootTemplates/efaea1e7-589a-45a2-be68-9aca8c0cce46.lsx:15
-#, fuzzy
 msgctxt "h1fc60a24geaecg4a09gb731g94b73338aeb0"
 msgid "Table"
-msgstr "작업대"
+msgstr "탁자"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -40972,10 +40930,9 @@ msgstr "여기저기 흠집이 나고 얼룩이 져 있지만, 튼튼한 나무�
 #. Type = item
 #. Icon = Item_FUR_Smith_Workbench_A_Table_D
 #: Public/Shared/RootTemplates/e89e846f-c21b-4f4f-88e3-da5056b014a7.lsx:15
-#, fuzzy
 msgctxt "hca4ada95gf7c5g43a3g9094g4ddf13996b20"
 msgid "Table"
-msgstr "작업대"
+msgstr "탁자"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -40995,10 +40952,9 @@ msgstr "여기저기 흠집이 나고 얼룩이 져 있지만, 튼튼한 나무�
 #. Type = item
 #. Icon = Item_FUR_Smith_Workbench_A_Table_D
 #: Public/Shared/RootTemplates/a3130481-abb6-4333-84e8-c4d34a5786bd.lsx:15
-#, fuzzy
 msgctxt "h7ea0f425g1ac7g4a40g9e00ge8c0afb02dbb"
 msgid "Table"
-msgstr "작업대"
+msgstr "탁자"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -41018,10 +40974,9 @@ msgstr "여기저기 흠집이 나고 얼룩이 져 있지만, 튼튼한 나무�
 #. Type = item
 #. Icon = Item_FUR_Smith_Workbench_A_Table_D
 #: Public/Shared/RootTemplates/b2815d35-7dc6-46f5-8db2-e4d39889240a.lsx:15
-#, fuzzy
 msgctxt "h53781230geaf0g4fbbg990bg28fde29791fe"
 msgid "Table"
-msgstr "작업대"
+msgstr "탁자"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -41556,16 +41511,15 @@ msgstr "이 병 안의 창백한 찌꺼기는 지방질의 덩어리로 천천�
 #. Icon = Item_GRN_GreaseBottle_A
 #. Stats = OBJ_GreaseBottle
 #: Public/Shared/RootTemplates/e2968a2e-bc83-4d50-99ef-39ce78d2d630.lsx:23
-#, fuzzy
 msgctxt "hd264eaccg5959g44e4ga3bcgd38db81361f0"
 msgid ""
 "Creates a flammable grease surface. Creatures walking on it have halved "
 "<LSTag Tooltip=\"MovementSpeed\">movement speed</LSTag> and can fall <LSTag "
 "Type=\"Status\" Tooltip=\"PRONE\">Prone</LSTag>."
 msgstr ""
-"가연성 기름막 표면을 생성합니다. 기름막 표면 위에서 이동하는 크리쳐들은 <LSTag Tooltip=\"MovementSpeed\">이동 "
-"속도</LSTag>가 절반으로 줄어들고, <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎어질</LSTag> "
-"수 있습니다."
+"가연성 기름막 표면을 생성합니다. 이 위에서 이동하는 크리쳐들은 <LSTag Tooltip=\"MovementSpeed\">이동 속도</"
+"LSTag>가 절반으로 줄어들고, <LSTag Type=\"Status\" Tooltip=\"PRONE\">엎어질</LSTag> 수 "
+"있습니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -43179,12 +43133,11 @@ msgstr "티마스크 포자"
 #. Type = item
 #. Icon = Item_LOOT_Alchemy_Mushroom_Timmask_Spore_A
 #: Public/Shared/RootTemplates/7105e764-a840-486b-a8bc-578bf8217bec.lsx:21
-#, fuzzy
 msgctxt "hc4e8e411ga702g4fd5g992bgcca0973184c0"
 msgid ""
 "Timmask plants emit miasmic clouds of befuddlement to deter predators - or "
 "attract budding alchemists. "
-msgstr "포자는 티마스크의 주된 방어기제로, 마시는 사람을 중독시키고 혼란스럽게 합니다."
+msgstr "티마스크 식물은 포식자를 막기위해 혼란스럽고 해로운 구름을 방출합니다. 혹은 초보 연금술사를 끌어들이기도 합니다. "
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -43202,7 +43155,6 @@ msgstr "티마스크 포자"
 #. Type = item
 #. Icon = Item_UNI_UND_SocietyOfBrilliance_TimmaskSpore
 #: Public/Shared/RootTemplates/57fb857f-b472-420c-94bb-75fded3711ca.lsx:22
-#, fuzzy
 msgctxt "hf0283ee1g1c6ag4567g8444g9b369c0c0a75"
 msgid ""
 "Spores are the Timmask's main defence system, poisoning and befuddling any "
@@ -45077,7 +45029,7 @@ msgstr "금속 관"
 #: Public/SharedDev/RootTemplates/3ffafb92-e726-47c3-8849-750c009cf752.lsx:15
 msgctxt "h161166d5g1349g4913g8de7g19b1edc8b178"
 msgid "Handsaw"
-msgstr ""
+msgstr "작은 톱"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -53865,7 +53817,7 @@ msgctxt "hdd785b0eg476dg4d9bg990ege7435858aa09"
 msgid ""
 "A strong grip that has clasped this key close many a time has lightly rusted "
 "its silver plating. "
-msgstr ""
+msgstr "어찌나 자주 강하게 그러쥐었는지 열쇠 겉면의 은박이 살짝 벗겨져 있습니다. "
 
 #. FilePath = Mods/GustavDev/Globals/IRN_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -54886,7 +54838,7 @@ msgstr "적절한 불쏘시개만 있으면 관리가 거의 필요 없습니다
 #: Public/Shared/RootTemplates/da2ead22-fb29-4550-b306-f89f3580bb8a.lsx:17
 msgctxt "h9db5ace3gd52dg4da0g9751g1500160fbdd1"
 msgid "Destroyed Object"
-msgstr ""
+msgstr "파괴된 물체"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -55447,7 +55399,7 @@ msgstr "양초"
 #: Public/Shared/RootTemplates/fbad6ff4-df8a-4dcf-9c7d-5691b5c8e63e.lsx:15
 msgctxt "h7bc6aca6g265dg4ee0ga579g030bc270acec"
 msgid "Candles"
-msgstr ""
+msgstr "양초"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -57503,6 +57455,9 @@ msgid ""
 "changes of form - but was she ever less beautiful, less erudite, less "
 "willful?"
 msgstr ""
+"추측컨대 미조라 역시 처음부터 후원자로 활동하진 않았을 겁니다. 윌과 같이 골칫거리를 앓고 있는 영혼들을 감각적이고 교묘한 수법으로 "
+"꾀어내는 주인 말이지요. 지옥에서는 계급 구조가 뒤바뀔 때 형태 역시 변화한다지만, 과연 그녀의 미모, 학식, 의지 따위가 지금보다 "
+"덜했던 적이 있었을까요?"
 
 #. FilePath = Mods/GustavDev/Globals/BG_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -57737,6 +57692,8 @@ msgid ""
 "'When the scissors cut and slicey\n"
 "They snick and titter ever so nicely.' - Nursery Rhyme"
 msgstr ""
+"'여기도 싹둑 저기도 싹둑\n"
+"꺄르르 꺄르르 가위질 소리가 너무 예뻐요.' - 유아용 동요"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -63007,7 +62964,7 @@ msgstr "유혹하는 동굴"
 #: Public/Shared/RootTemplates/b551469c-5a53-4df3-a2c9-91516ef55695.lsx:17
 msgctxt "he0a4ddf7ge316g41feg8388ged83f4cb5ed9"
 msgid "Flail of Dread Skulls"
-msgstr "공포의 해골 도리깨"
+msgstr "공포의 해골 플레일"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -64124,7 +64081,7 @@ msgstr "3x3x3 입방체"
 #: Public/Shared/RootTemplates/4beebd7a-7a73-4678-80b6-6485eb826393.lsx:15
 msgctxt "ha9679c12gf9e6g4733g81c7gb078ec8ca335"
 msgid "Tray 3x3"
-msgstr ""
+msgstr "3x3 쟁반"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -66392,7 +66349,7 @@ msgstr "카라바산의 독극물"
 #: Public/SharedDev/RootTemplates/0e92e1a8-2422-47e9-8d90-50807244189a.lsx:15
 msgctxt "h389cf79fg489bg43fcg888dg259aae01ed27"
 msgid "Test Helmet"
-msgstr ""
+msgstr "의식용 투구"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -67051,7 +67008,7 @@ msgstr "의식용 양초"
 #: Public/GustavDev/RootTemplates/dbc5b484-26d6-41f3-bd50-dc74b8f9cc9b.lsx:13
 msgctxt "h2db42111gf71cg4b21ga8c3gf801570c0b91"
 msgid "Summon Us"
-msgstr ""
+msgstr "어스 소환"
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -67725,6 +67682,8 @@ msgid ""
 "Let hill and hollow be a door\n"
 "To screams that last forevermore. "
 msgstr ""
+"능선과 공동을 문으로 삼으소서.\n"
+"비명이 오래오래 울려 퍼지도록. "
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -69385,7 +69344,7 @@ msgstr "마법 거울"
 #: Public/Shared/RootTemplates/72ae7a39-d0ce-4cb6-8d74-ebdf7cdccf91.lsx:18
 msgctxt "h34a75c41g732dg48b1gad0egb102ab2c11d2"
 msgid "Gaze into this swirling vortex to permanently alter your appearance."
-msgstr ""
+msgstr "소용돌이치는 소용돌이를 응시하여 영구적으로 외모를 바꿉니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -69633,7 +69592,7 @@ msgstr "녹색 카드"
 #: Public/Gustav/RootTemplates/8a527abd-a2ff-4267-a067-d26bdf6742ee.lsx:9
 msgctxt "hd4c423e3g4e4ag4802ga377g7cf09c982b1e"
 msgid "Shattered Flail"
-msgstr "부서진 도리깨"
+msgstr "부서진 플레일"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -71087,7 +71046,7 @@ msgctxt "h3e43b32eg44eeg42ffg979ag76f927f91db3"
 msgid ""
 "To hold this shield is to be vigilant in duty, wary of danger, and mindful "
 "in crisis."
-msgstr ""
+msgstr "이 방패를 들어올리는 것은 의무를 다하고, 위험을 경계하며, 위기에 대비하는 것을 의미합니다."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
@@ -72952,7 +72911,7 @@ msgstr "연구"
 #: Public/SharedDev/RootTemplates/d6b14418-583d-4d56-8ac8-1fdc839130a2.lsx:23
 msgctxt "h59dd618ag2157g4500gae39ged09f1c2816f"
 msgid "Qualms"
-msgstr ""
+msgstr "앙금"
 
 #. NodeID = GameObjects
 #. HandlePath = Description
@@ -72970,6 +72929,9 @@ msgid ""
 "the apple for the child perhaps has reservations or 'qualms' about doing so, "
 "yet this word contains 'alms' which is a synonym for charitable donation."
 msgstr ""
+"제목은 일종의 말장난입니다. 아이에게 줄 사과를 도둑질한 붉은 머리의 남자는 아마도 속으로 양심의 가책이나 일말의 '앙금'을 느끼고 "
+"있을지도 모릅니다. 그러나 이 단어의 첫음절을 지우면, '금' 자체는 빈민들을 구제하는 '기부금'이나 부모가 딸을 시집 보내려고 모아 "
+"두는 '지참금', 그리고 피난민들이 안전한 도시를 찾아가기 위해 지불하는 통행 '요금'이 될 수도 있습니다."
 
 #. NodeID = GameObjects
 #. HandlePath = OnUseDescription
@@ -73321,7 +73283,7 @@ msgctxt "h47230f4egc48dg4e91g9ef1gb7292dd3b022"
 msgid ""
 "A new invention of the Sharess' Caress bartender Hoots - like being decked "
 "in the sobriety."
-msgstr ""
+msgstr "샤레스의 애무가 자랑하는 바텐더 후츠의 새로운 발명품입니다. 맑은 정신에도 뻗어버릴 수 있죠."
 
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
