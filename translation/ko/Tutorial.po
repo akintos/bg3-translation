@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-19 00:37+0000\n"
+"PO-Revision-Date: 2023-10-24 04:37+0000\n"
 "Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4047,6 +4047,10 @@ msgid ""
 "will wake them up - for example, Short Resting, healing spells, potions, or "
 "using the Help action."
 msgstr ""
+"캐릭터가 <LSTag Type=\"Status\" Tooltip=\"DOWNED\">쓰러진</LSTag> 상태에서 죽음 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 성공하면, 안정화됩니다. 내버려둬도 죽지는 않지만, 의식은 없는 "
+"상태입니다. 짧은 휴식, 치유 주문, 물약, 도움의 손길 행동 등으로 <LSTag Tooltip=\"HitPoints\">체력</"
+"LSTag>을 회복하면 다시 일어납니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4100,9 +4104,10 @@ msgid ""
 "will wake them up - for example, Short Resting, healing spells, potions, or "
 "using the Help action."
 msgstr ""
-"<LSTag Type=\"Status\" Tooltip=\"DOWNED\">쓰러진</LSTag> 캐릭터가 죽음 <LSTag Tooltip="
-"\"SavingThrow\">저항 굴림</LSTag>에 성공하면 안정화됩니다. 내버려둬도 죽지는 않지만, 의식은 없는 상태입니다. 짧은 "
-"휴식, 치유 주문, 물약, 도움의 손길 행동 등으로 체력을 회복하면 다시 일어납니다."
+"캐릭터가 <LSTag Type=\"Status\" Tooltip=\"DOWNED\">쓰러진</LSTag> 상태에서 죽음 <LSTag "
+"Tooltip=\"SavingThrow\">내성 굴림</LSTag>에 성공하면, 안정화됩니다. 내버려둬도 죽지는 않지만, 의식은 없는 "
+"상태입니다. 짧은 휴식, 치유 주문, 물약, 도움의 손길 행동 등으로 <LSTag Tooltip=\"HitPoints\">체력</"
+"LSTag>을 회복하면 다시 일어납니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4752,7 +4757,7 @@ msgctxt "hb870c5dcg6bebg4451g82dagac6b269b40d5"
 msgid ""
 "You can always flee a fight you would rather avoid. Move far away from your "
 "enemies to be given the option."
-msgstr ""
+msgstr "피하고 싶은 싸움에서는 언제든 도망칠 수 있습니다. 적들에게서 먼 곳으로 이동하면 도주 기능이 활성화됩니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
