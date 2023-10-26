@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-25 06:37+0000\n"
-"Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
+"PO-Revision-Date: 2023-10-26 07:37+0000\n"
+"Last-Translator: NeruTe <erik.j.park@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1616,7 +1616,6 @@ msgstr "음식과 음료 수집을 잊지 마십시오. 긴 휴식으로 체력�
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Camp Supplies
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:91
-#, fuzzy
 msgctxt "h85db4793g150fg415dg8838gf9323c436ad8"
 msgid ""
 "Food and drink are needed to successfully completely a <LSTag Tooltip="
@@ -1624,8 +1623,8 @@ msgid ""
 "your Supplies Bag when picked up. More nutritious food and drink will have "
 "higher value when used for Long Resting. "
 msgstr ""
-"음식과 음료는 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 통한 완전 회복에 꼭 필요합니다. 야영 물자 "
-"배낭이 있는 경우, 음식과 음료를 수집할 때 자동으로 배낭에 정리됩니다. 영양가가 풍부할 수록 더 높은 야영 물자 수치를 가집니다. "
+"<LSTag Tooltip=\"LongRest\">긴 휴식</LSTag> 때 완전히 회복하려면 음식과 음료가 꼭 필요합니다. 야영 물자 "
+"배낭을 갖고 있다면 모든 음식과 음료 아이템은 자동으로 배낭에 정리됩니다. 영양가가 풍부할수록 제공하는 수치가 높습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1641,15 +1640,11 @@ msgstr "야영 물자"
 #. HandlePath = KeyboardDescription
 #. TutorialName = Camp Supplies
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:94
-#, fuzzy
-#| msgid ""
-#| "Be sure to collect food and drink as you find it in the world. You will need "
-#| "these supplies to restore your health and resources when taking a Long Rest."
 msgctxt "hd38fc8e6ga6a8g4d44gb8ddg8067fe933199"
 msgid ""
 "Be sure to collect food and drinks. You will need them to restore your "
 "health and resources when taking a Long Rest."
-msgstr "음식과 음료 수집을 잊지 마십시오. 긴 휴식으로 체력과 자원을 회복하려면 식량이 필요합니다."
+msgstr "음식과 음료 아이템을 놓치지 마세요. 긴 휴식으로 체력과 자원을 회복할 때 꼭 필요합니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2040,12 +2035,6 @@ msgstr "[IE_PartyManagement] 파티라인 열기"
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Summons
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:176
-#, fuzzy
-#| msgid ""
-#| "Some spells and features allow strange and wonderful creatures to be "
-#| "summoned. They will follow their summoner around the world, but can be "
-#| "commanded to act seperately. Summons cannot pick up items or start "
-#| "dialogues, and disappear when their master dies or dismisses them."
 msgctxt "h633a5d82gb5d7g4179gb795g9bc035cc3078"
 msgid ""
 "Some spells and features allow strange and wonderful creatures to be "
@@ -2053,8 +2042,8 @@ msgid ""
 "commanded to act separately. Summons cannot pick up items or start "
 "dialogues, and disappear when their master dies or dismisses them."
 msgstr ""
-"주문과 특성을 통해 신비하고 경이로운 생명체를 소환할 수 있습니다. 소환된 생명체는 자신을 소환한 이를 따라다니며, 독자적으로 행동하도록 "
-"명령할 수 있습니다. 소환된 생명체는 아이템을 획득하거나 다른 사람과 대화할 수 없고, 그들의 주인이 죽거나 해제하였을 경우 사라집니다."
+"주문과 특성을 통해 신비하고 경이로운 생명체를 소환할 수 있습니다. 소환된 생명체는 소환자를 따라다니지만, 따로 행동하도록 명령할 수도 "
+"있습니다. 소환된 생명체는 아이템을 획득하거나 다른 사람과 대화할 수 없고, 소환자가 사망하거나 소환 마법을 해제하면 즉시 사라집니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2080,12 +2069,6 @@ msgstr "크리쳐를 소환했습니다. 초상화를 클릭해서 행동을 조
 #. HandlePath = KeyboardJournalDescription
 #. TutorialName = Summons
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:180
-#, fuzzy
-#| msgid ""
-#| "Some spells and features allow strange and wonderful creatures to be "
-#| "summoned. They will follow their summoner around the world, but can be "
-#| "commanded to act seperately. Summons cannot pick up items or start "
-#| "dialogues, and disappear when their master dies or dismisses them."
 msgctxt "h0b243c81g9028g42feg9b82gd79ae0ce350b"
 msgid ""
 "Some spells and features allow strange and wonderful creatures to be "
@@ -2093,8 +2076,8 @@ msgid ""
 "commanded to act separately. Summons cannot pick up items or start "
 "dialogues, and disappear when their master dies or dismisses them."
 msgstr ""
-"주문과 특성을 통해 신비하고 경이로운 크리쳐를 소환할 수 있습니다. 소환된 크리쳐는 자신을 소환한 이를 따라다니며, 독자적으로 행동하도록 "
-"명령할 수 있습니다. 소환된 크리쳐는 아이템을 획득하거나 다른 사람과 대화할 수 없고, 그들의 주인이 죽거나 해제하였을 경우 사라집니다."
+"주문과 특성을 통해 신비하고 경이로운 생명체를 소환할 수 있습니다. 소환된 생명체는 소환자를 따라다니지만, 따로 행동하도록 명령할 수도 "
+"있습니다. 소환된 생명체는 아이템을 획득하거나 다른 사람과 대화할 수 없고, 소환자가 사망하거나 소환 마법을 해제하면 즉시 사라집니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3539,15 +3522,14 @@ msgstr ""
 #. HandlePath = ControllerDescription
 #. TutorialName = Surprised
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:471
-#, fuzzy
 msgctxt "he97818c8g4402g45e1g87ceg67415f609a8b"
 msgid ""
 "Your enemies are Surprised and cannot take actions, reactions, or move on "
 "the first round of combat. If you surprised these enemies with an attack, "
 "your Action has been used for this round."
 msgstr ""
-"적은 기습당해 첫 라운드 동안 행동, 반응 행동, 그리고 이동을 할 수 없습니다. 적을 공격으로 기습했다면, 당신은 이번 라운드에 행동을 "
-"한 것으로 취급됩니다."
+"적을 성공적으로 기습했습니다! 기습당한 적은 첫 라운드에 행동, 반응 행동, 이동 모두 할 수 없습니다. 기습 공격을 실행한 캐릭터는 "
+"해당 차례에 이미 행동한 것으로 간주됩니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3577,15 +3559,14 @@ msgstr "기습당함"
 #. HandlePath = KeyboardDescription
 #. TutorialName = Surprised
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:475
-#, fuzzy
 msgctxt "h5dbecfe6g872ag4714g8548g11570780272c"
 msgid ""
 "Your enemies are Surprised and cannot take actions, reactions, or move on "
 "the first round of combat. If you surprised these enemies with an attack, "
 "your Action has been used for this round."
 msgstr ""
-"적은 기습당해 첫 라운드 동안 행동, 반응 행동, 그리고 이동을 할 수 없습니다. 적을 공격으로 기습했다면, 당신은 이번 라운드에 행동을 "
-"한 것으로 취급됩니다."
+"적을 성공적으로 기습했습니다! 기습당한 적은 첫 라운드에 행동, 반응 행동, 이동 모두 할 수 없습니다. 기습 공격을 실행한 캐릭터는 "
+"해당 차례에 이미 행동한 것으로 간주됩니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4838,6 +4819,12 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu \n"
 " <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> Manage Reactions"
 msgstr ""
+"턴제 모드나 전투 중에는 각 차례마다 반응 행동이 가능합니다. 가령 근접 전투 중인 적이 현재 캐릭터에게서 멀어질 때는 <LSTag "
+"Tooltip=\"OpportunityAttack\">기회 공격</LSTag>을 쓸 수 있습니다. 반응 행동의 사용 여부는 각각 관리가 "
+"가능하여, 자동으로 발동하게 둘 수도 있고 매 번 사용 여부를 묻도록 하거나 아예 무시하도록 설정할 수도 있습니다.\n"
+"\n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 반응 행동 관리"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4884,6 +4871,11 @@ msgid ""
 "\n"
 "[IE_ToggleReactions] Open Reactions Menu"
 msgstr ""
+"턴제 모드나 전투 중에는 각 차례마다 반응 행동이 가능합니다. 가령 근접 전투 중인 적이 현재 캐릭터에게서 멀어질 때는 <LSTag "
+"Tooltip=\"OpportunityAttack\">기회 공격</LSTag>을 쓸 수 있습니다. 반응 행동의 사용 여부는 각각 관리가 "
+"가능하여, 자동으로 발동하게 둘 수도 있고 매 번 사용 여부를 묻도록 하거나 아예 무시하도록 설정할 수도 있습니다.\n"
+"\n"
+"[IE_ToggleReactions] 반응 행동 메뉴 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4892,7 +4884,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:729
 msgctxt "h5f9bc50bgb7d8g416aga606gffd6a85c9459"
 msgid "You can knock out enemies instead of killing them."
-msgstr ""
+msgstr "적을 죽이지 않고 기절시키는 것도 가능합니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4905,6 +4897,8 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialNonLethalToggle\"/> Toggle on non-"
 "lethal attacks"
 msgstr ""
+"[IE_ToggleSpells] 원형 행동 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialNonLethalToggle\"/> 비살상 공격 옵션 토글"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4920,6 +4914,10 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialNonLethalToggle\"/> Toggle on non-"
 "lethal attacks"
 msgstr ""
+"근접 공격 시 적을 죽이지 않고 기절시키는 것도 가능합니다. 원형 행동 메뉴에서 이를 선택할 수 있습니다.\n"
+"\n"
+"[IE_ToggleSpells] 원형 행동 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialNonLethalToggle\"/> 비살상 공격 여부 토글"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4937,7 +4935,7 @@ msgstr "비살상 공격"
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:734
 msgctxt "h8e3bbfc6ge541g4c59gbbefg5c36761759cf"
 msgid "You can knock out enemies instead of killing them."
-msgstr ""
+msgstr "적을 죽이지 않고 기절시키는 것도 가능합니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -4977,36 +4975,22 @@ msgstr ""
 #. HandlePath = ControllerDescription
 #. TutorialName = Alchemy
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:745
-#, fuzzy
-#| msgid ""
-#| "You can craft your own potions, poisons, and elixirs using Alchemy. Gather "
-#| "ingredients to distil into extracts, and experiment to brew wondrous "
-#| "solutions."
 msgctxt "h4888b70cg03d0g4028g8d52g5896b8aaa106"
 msgid ""
 "Your party has found some alchemical ingredients - gather them into one "
 "inventory and use Alchemy to craft your own potions, poisons, and elixirs."
-msgstr ""
-"당신은 연금술을 이용해 직접 물약, 독약, 영약을 제작할 수 있습니다. 모은 재료를 정제해 추출물로 만든 뒤, 실험을 통해 경이로운 "
-"용액을 만들어 보세요."
+msgstr "연금술 재료를 입수했습니다. 한 명에게 재료를 몰아 주고 연금술 기능을 사용해 포션, 독, 영약을 만들어 보세요."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
 #. HandlePath = KeyboardDescription
 #. TutorialName = Alchemy
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:748
-#, fuzzy
-#| msgid ""
-#| "You can craft your own potions, poisons, and elixirs using Alchemy. Gather "
-#| "ingredients to distil into extracts, and experiment to brew wondrous "
-#| "solutions."
 msgctxt "h906e3d01g419dg4069g951bga9ff9071b105"
 msgid ""
 "Your party has found some alchemical ingredients - gather them into one "
 "inventory and use Alchemy to craft your own potions, poisons, and elixirs."
-msgstr ""
-"당신은 연금술을 이용해 직접 물약, 독약, 영약을 제작할 수 있습니다. 모은 재료를 정제해 추출물로 만든 뒤, 실험을 통해 경이로운 "
-"용액을 만들어 보세요."
+msgstr "연금술 재료를 입수했습니다. 한 명에게 재료를 몰아 주고 연금술 기능을 사용해 포션, 독, 영약을 만들어 보세요."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5311,7 +5295,7 @@ msgctxt "hda4e0f97g480fg4854g8335g0dc295442033"
 msgid ""
 "You've been locked up for your crimes. If you want your freedom back, you'll "
 "have to break out of your prison cell."
-msgstr ""
+msgstr "범죄를 저질러 수감되었습니다. 자유를 되찾고 싶다면 탈옥해야 합니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5324,6 +5308,8 @@ msgid ""
 "confiscated by guards and kept under lock and key. If you want you your "
 "freedom back, you'll need to muster all your wiles and take it. "
 msgstr ""
+"범죄 행위를 저질러 수감되었습니다. 소지하고 있던 아이템과 장비는 경비병이 압수하여 보관함에 넣고 잠가 두었으니, 자유를 되찾고 싶다면 "
+"수단 방법을 가리지 마십시오. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5332,7 +5318,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:814
 msgctxt "h139ea741g675bg4ba5g977dgd7aab3df30a0"
 msgid "Prison"
-msgstr ""
+msgstr "감옥"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5343,7 +5329,7 @@ msgctxt "h0ec8c29fg14b9g4913gafcbg82ab3475285e"
 msgid ""
 "You've been locked up for your crimes. If you want your freedom back, you'll "
 "have to break out of your prison cell."
-msgstr ""
+msgstr "범죄를 저질러 수감되었습니다. 자유를 되찾고 싶다면 탈옥해야 합니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5356,16 +5342,17 @@ msgid ""
 "confiscated by guards and kept under lock and key. If you want you your "
 "freedom back, you'll need to muster all your wiles and take it. "
 msgstr ""
+"범죄 행위를 저질러 수감되었습니다. 소지하고 있던 아이템과 장비는 경비병이 압수하여 보관함에 넣고 잠가 두었으니, 자유를 되찾고 싶다면 "
+"수단 방법을 가리지 마십시오. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
 #. HandlePath = ControllerDescription
 #. TutorialName = Basic Movement
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:825
-#, fuzzy
 msgctxt "h98941c34g1838g41d6g91e3gd07c1ae46b9a"
 msgid "Move to start your adventure."
-msgstr "이동으로 모험을 시작하세요."
+msgstr "이동하여 모험을 시작하세요."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5377,6 +5364,8 @@ msgid ""
 "Use [IE_CharacterMove] to move.\n"
 "[IE_ToggleInputMode] Toggle Selection Cursor"
 msgstr ""
+"[IE_CharacterMove]로 움직이세요.\n"
+"[IE_ToggleInputMode] 선택 커서 토글"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5393,6 +5382,11 @@ msgid ""
 "[IE_UIMove] Move\n"
 "[IE_ToggleInputMode] Toggle Selection Cursor"
 msgstr ""
+"[IE_UIMove] 을 사용해 캐릭터를 움직이세요. 그룹으로 묶인 같은 파티의 캐릭터들은 자동으로 따라옵니다.\n"
+"커서 모드를 토글하여 카메라와 캐릭터를 더 세밀하게 조작할 수도 있습니다.\n"
+"\n"
+"[IE_UIMove] 움직이\n"
+"[IE_ToggleInputMode] 선택 커서 토글"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5408,10 +5402,9 @@ msgstr "기본적인 이동"
 #. HandlePath = KeyboardDescription
 #. TutorialName = Basic Movement
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:830
-#, fuzzy
 msgctxt "he774020cg6ef9g49cbgbf62g7d10186467d9"
 msgid "Move to start your adventure."
-msgstr "이동으로 모험을 시작하세요."
+msgstr "이동하여 모험을 시작하세요."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -5445,7 +5438,7 @@ msgctxt "h0f049036g152bg4272g8537gd4eda8d84b67"
 msgid ""
 "Take precise control over your character's movement and actions with a "
 "cursor. "
-msgstr ""
+msgstr "커서를 사용하여 캐릭터의 움직임과 행동을 세밀하게 조작하세요. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
