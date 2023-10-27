@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-24 04:37+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2023-10-27 13:37+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -8032,7 +8032,7 @@ msgctxt "h47a6a50ag70a9g4a36g83a7g9ece694c41d3"
 msgid ""
 "Ch'r'ai W'wargaz attacked us after we returned to the crèche, on Vlaakith's "
 "orders. He must be defeated."
-msgstr ""
+msgstr "우리가 양성소로 돌아온 후 츠라이 와르가즈가 우리를 공격했다. 블라키스의 명령에 따른 것이었다. 그를 물리쳐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8042,7 +8042,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8014
 msgctxt "h5d9f7ee5g99cdg49b1gbf35g7fc84594cec2"
 msgid "Defeat Ch'r'ai W'wargaz."
-msgstr ""
+msgstr "츠라이 와르가즈를 무찌르자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8053,7 +8053,7 @@ msgstr ""
 msgctxt "h906b1c97g6d99g4b14gbb45g522c5679a7dc"
 msgid ""
 "Lae'zel was unable to fulfil Queen Vlaakith's command. We should talk to her."
-msgstr ""
+msgstr "레이젤은 블라키스 여왕의 명령을 이행하지 못했다. 그녀와 대화를 나눠 보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8063,7 +8063,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8031
 msgctxt "h1e30a546g2e9bg42d7g8c86g3cf498d2cc4a"
 msgid "Speak to Lae'zel about the events at the Githyanki Crèche."
-msgstr ""
+msgstr "기스양키 양성소에서 벌어진 일에 대해 레이젤과 대화하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8170,7 +8170,7 @@ msgctxt "h3e359261gd984g436dga1b1g79849e8a62a2"
 msgid ""
 "We failed to extract the mind flayer parasite and made an enemy of Queen "
 "Vlaakith. Lae'zel needs time to consider the ramifications."
-msgstr ""
+msgstr "마인드 플레이어 기생충을 제거하는 데 실패했고, 블라키스 여왕의 적이 되었다. 레이젤은 그 결과를 생각해볼 시간이 필요하다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8262,6 +8262,8 @@ msgid ""
 "him. Lae'zel believes this is the first step in proving her loyalty to Queen "
 "Vlaakith."
 msgstr ""
+"키스락 보스가 우리 야영지에 나타났다. 기스양키 동족을 블라키스의 폭정에서 해방시키려는 임무를 수행하기 위한 동료를 찾고 있었다. 우리는 "
+"그를 공격해서 물리쳤다. 레이젤은 이것이 블라키스 여왕에게 자신의 충성을 증명할 첫걸음이라고 믿는다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8295,7 +8297,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8090
 msgctxt "h4f8ab64eg3fb3g4848g8e86g628337c130aa"
 msgid "Travel to Baldur's Gate."
-msgstr ""
+msgstr "발더스 게이트로 여행하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -24453,7 +24455,7 @@ msgctxt "h958ee439gdb59g4061ga372gfa1a74abd28b"
 msgid ""
 "We picked up a strange artefact on the nautiloid that we can't seem to part "
 "with. We should find out more about it."
-msgstr ""
+msgstr "노틸로이드에서 이상한 아티팩트를 주웠는데, 떼어낼 수 없는 것 같았다. 이것에 대해 더 많이 알아봐야 할 것 같다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -24464,7 +24466,7 @@ msgstr ""
 msgctxt "hf13b83d1g59dcg43a1ga9fcge141e6c34923"
 msgid ""
 "We found a strange artefact in our camp. We should find out more about it."
-msgstr ""
+msgstr "야영지에서 이상한 아티팩트를 주웠다. 이것에 대해 더 많이 알아봐야 할 것 같다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -24531,7 +24533,7 @@ msgctxt "h863e2de2g6bddg4c25ga82cg910de2eab6ee"
 msgid ""
 "The guards at the entrance to the Githyanki Crèche mentioned a captain. We "
 "should talk to these guards to find out more about what they're doing."
-msgstr ""
+msgstr "기스양키 양성소 입구의 경비병들이 대장을 언급했다. 이들과 대화해서 그들이 무슨 일을 하는지 더 자세히 알아내자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -24563,7 +24565,7 @@ msgstr "대장은 우리가 가지고 있는 아티팩트를 찾고 있다. 그�
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:3389
 msgctxt "hf8ce7c1agcb40g493agb502gc3e538df983e"
 msgid "Talk to the captain of the Githyanki Crèche."
-msgstr ""
+msgstr "기스양키 양성소의 대장에게 말하자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -24574,7 +24576,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/633485c7-558f-4f5e-a221-e7bb2bffa6ed.lsx:8
 msgctxt "h78242705g02aag4b10gb9bfgce5e6806567e"
 msgid "Crèche Captain Ithyglos"
-msgstr ""
+msgstr "양성소 대장 이시글로스"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -24588,6 +24590,8 @@ msgid ""
 "artefact. We should speak to him to find out more - the githyanki seem "
 "desperate to find it."
 msgstr ""
+"심문관은 아티팩트 수색에 진전이 없는 것에 불만을 품고 있다. 그와 대화를 나눠서 더 자세한 내용을 알아내자. 기스양키는 아티팩트를 "
+"찾기에 필사적으로 보인다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -24676,6 +24680,7 @@ msgid ""
 "There is indeed a being inside the artefact. We spoke to them and decided "
 "not to kill them. We can leave the Astral Prism."
 msgstr ""
+"아스트랄 프리즘 안에는 실제로 어떤 존재가 있었다. 그와 대화를 나눴고, 죽이지 않기로 했다. 우리는 아스트랄 프리즘을 떠날 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -24710,6 +24715,7 @@ msgid ""
 "We left the Astral Prism without killing the being within. They told us we "
 "were on the right track and to head to Moonrise Towers."
 msgstr ""
+"안에 있는 존재를 죽이지 않고 아스트랄 프리즘을 떠났다. 그는 우리가 올바른 길을 가고 있다고 말했으며, 문라이즈 타워로 향하라고 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -24723,6 +24729,8 @@ msgid ""
 "protecting us. They're not happy about our attempt and will speak to us when "
 "they are ready."
 msgstr ""
+"우리를 보호하고 있는 아스트랄 프리즘 내부의 존재를 죽이려고 시도한 후, 그곳을 떠났다. 그는 우리의 시도에 실망했고, 준비가 되면 "
+"우리에게 말을 걸어올 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -24744,7 +24752,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:31993
 msgctxt "h082ac230g0cccg49e0gb7f5g7513b8c47a53"
 msgid "A guard inside the Githyanki Crèche told us to report to the captain."
-msgstr ""
+msgstr "기스양키 양성소안의 경비병이 대장에게 보고하라고 말했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -49597,7 +49605,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:63962
 msgctxt "hd66d20e8ga6e9g4af1g9690gdea9d27977b1"
 msgid "We took the mountain pass to Moonrise Towers."
-msgstr ""
+msgstr "우리는 산길을 따라 문라이즈 타워로 향했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -51780,7 +51788,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8772
 msgctxt "he7016a32gd3b8g4e27ga481gadf2283dc5a7"
 msgid "Defeat Ch'r'ai W'wargaz."
-msgstr ""
+msgstr "츠라이 와르가즈를 무찌르자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -51882,7 +51890,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8840
 msgctxt "h261013cege0abg4c85ga645ga1da5af51d72"
 msgid "Defeat Ch'r'ai W'wargaz."
-msgstr ""
+msgstr "츠라이 와르가즈를 무찌르자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -52052,7 +52060,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8880
 msgctxt "h81b52593gc5e7g4fbeg96e4g29683648a6a8"
 msgid "Travel to Baldur's Gate."
-msgstr ""
+msgstr "발더스 게이트로 여행하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep

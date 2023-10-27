@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-26 07:37+0000\n"
-"Last-Translator: NeruTe <erik.j.park@gmail.com>\n"
+"PO-Revision-Date: 2023-10-27 13:37+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1755,10 +1755,10 @@ msgid ""
 "\n"
 "[IE_ContextMenu] Send item to your Traveller's Chest"
 msgstr ""
-"당신만 사용할 수 있는 여행자 상자가 야영지 지도에 표기되었습니다. 탐험 중 들고 다니기를 원치 않는 아이템을 보관하는데 사용하십시오. —"
-"아이템의 상세 메뉴를 통해 모험 중에도 빠르게 보관할 수 있습니다.\n"
+"여행자의 상자가 야영지 지도에 표시 되었습니다. 탐험 중 들고 다니기를 원치 않는 아이템을 보관하는데 사용하십시오. 아이템의 상세 메뉴를 "
+"통해 모험 중에도 빠르게 보관할 수 있습니다.\n"
 "\n"
-"[IE_ContextMenu] 여행자 상자로 아이템 보내기"
+"[IE_ContextMenu] 여행자의 상자로 아이템 보내기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1794,10 +1794,10 @@ msgid ""
 "\n"
 "[IE_ContextMenu] Send item to your Traveller's Chest"
 msgstr ""
-"당신만 사용할 수 있는 여행자 상자가 야영지 지도에 표기되었습니다. 탐험 중 들고 다니기를 원치 않는 아이템을 보관하는데 사용하십시오. —"
-"아이템의 상세 메뉴를 통해 모험 중에도 빠르게 보관할 수 있습니다.\n"
+"여행자의 상자가 야영지 지도에 표시 되었습니다. 탐험 중 들고 다니기를 원치 않는 아이템을 보관하는데 사용하십시오. 아이템의 상세 메뉴를 "
+"통해 모험 중에도 빠르게 보관할 수 있습니다.\n"
 "\n"
-"[IE_ContextMenu] 여행자 상자로 아이템 보내기"
+"[IE_ContextMenu] 여행자의 상자로 아이템 보내기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7166,6 +7166,12 @@ msgid ""
 "Inventory \n"
 " <LSTag Type=\"Image\" Info=\"TutorialConsumableTadpole\"/> Consume Tadpole"
 msgstr ""
+"일리시드 기생충에게 정신이 감염되면, 그 기생충은 숙주의 사이오닉 잠재력을 먹고 살찌게 됩니다. 감염된 숙주를 죽이면 그 숙주의 기생충을 "
+"가질 수 있으며, 이를 흡수해 저장되어 있던 정신력을 흡수해 새로운 힘을 해금할 수 있습니다.\n"
+"이 올챙이로부터 흡수한 사이오닉 정수는 파티 전체에 공유됩니다.\n"
+"\n"
+"[IE_PanelSelect]<LSTag Type=\"Image\" Info=\"TutorialInventory\"/> 인벤토리 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialConsumableTadpole\"/> 올챙이 흡수하기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7174,7 +7180,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1217
 msgctxt "hf0d844a1gdecag46c7g8997gf287c68b2a9c"
 msgid "Consuming Parasites"
-msgstr ""
+msgstr "기생충 흡수하기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7206,6 +7212,12 @@ msgid ""
 "[IE_ToggleInventory] <LSTag Type=\"Image\" Info=\"TutorialInventory\"/> Open "
 "Inventory to see parasites"
 msgstr ""
+"일리시드 기생충에게 정신이 감염되면, 그 기생충은 숙주의 사이오닉 잠재력을 먹고 살찌게 됩니다. 감염된 숙주를 죽이면 그 숙주의 기생충을 "
+"가질 수 있으며, 이를 흡수해 저장되어 있던 정신력을 흡수해 새로운 힘을 해금할 수 있습니다.\n"
+"이 올챙이로부터 흡수한 사이오닉 정수는 파티 전체에 공유됩니다.\n"
+"\n"
+"[IE_ToggleInventory] <LSTag Type=\"Image\" Info=\"TutorialInventory\"/> 기생충을 "
+"확인하기 위해 인벤토리 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7231,6 +7243,10 @@ msgid ""
 " <LSTag Type=\"Image\" Info=\"TutorialIllithidMenu\"/> Open Illithid Powers "
 "Menu"
 msgstr ""
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 캐릭터 시트 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialConsumableTadpole\"/> 기생충 흡수\n"
+" <LSTag Type=\"Image\" Info=\"TutorialIllithidMenu\"/> 일리시드 능력 메뉴 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7250,6 +7266,13 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialIllithidPowersMenu\"/> Open Illithid "
 "Powers Menu"
 msgstr ""
+"일리시드 기생충의 정신적 잠재력을 흡수하면, 능동적 능력 또는 수동적 강화와 같은 새로운 능력이 부여됩니다. 올챙이를 흡수하면, 일리시드 "
+"능력 메뉴에서 새로운 기능을 해금할 수 있습니다.\n"
+"동료들도 일리시드 능력을 배울 순 있지만, 마인드 플레이어 마법을 권유 할 때 동료들은 복잡한 감정을 가질 수 있습니다. 하지만 설득 "
+"가능합니다.\n"
+"\n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialIllithidPowersMenu\"/> 일리시드 능력 메뉴 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7299,6 +7322,13 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialIllithidPowers\"/> "
 "[IE_UIToggleTadpolePowers] Open Illithid Powers Menu"
 msgstr ""
+"일리시드 기생충의 정신적 잠재력을 흡수하면, 능동적 능력 또는 수동적 강화와 같은 새로운 능력이 부여됩니다. 올챙이를 흡수하면, 일리시드 "
+"능력 메뉴에서 새로운 기능을 해금할 수 있습니다.\n"
+"동료들도 일리시드 능력을 배울 순 있지만, 마인드 플레이어 마법을 권유 할 때 동료들은 복잡한 감정을 가질 수 있습니다. 하지만 설득 "
+"가능합니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialIllithidPowers\"/> "
+"[IE_UIToggleTadpolePowers] 일리시드 능력 메뉴 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7321,6 +7351,8 @@ msgid ""
 "[IE_PanelSelect] <LSTag Type=\"Image\" Info=\"TutorialIllithidMenu\"/> Open "
 "Illithid Powers Menu"
 msgstr ""
+"[IE_PanelSelect] <LSTag Type=\"Image\" Info=\"TutorialIllithidMenu\"/> 일리시드 "
+"능력 메뉴 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7351,7 +7383,7 @@ msgctxt "h8a04dadeg7797g46acgbf69gae57c520e884"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialIllithidPowers\"/> Open Illithid Powers "
 "Menu"
-msgstr ""
+msgstr "<LSTag Type=\"Image\" Info=\"TutorialIllithidPowers\"/> 일리시드 능력 메뉴 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8691,6 +8723,8 @@ msgid ""
 "characters and return later. They might resent you, but will not be actively "
 "hostile."
 msgstr ""
+"어떤 캐릭터의 당신에 대한 태도가 충분히 낮아지면, 일시적으로 적대적으로 변할 수 있습니다. 이런 경우 캐릭터를 기절시키거나 혹은 "
+"도망쳤다가 나중에 돌아올 수 있습니다. 당신을 싫어하겠지만, 노골적으로 적대하진 않을 것입니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8726,6 +8760,8 @@ msgid ""
 "characters and return later. They might resent you, but will not be actively "
 "hostile."
 msgstr ""
+"어떤 캐릭터의 당신에 대한 태도가 충분히 낮아지면, 일시적으로 적대적으로 변할 수 있습니다. 이런 경우 캐릭터를 기절시키거나 혹은 "
+"도망쳤다가 나중에 돌아올 수 있습니다. 당신을 싫어하겠지만, 노골적으로 적대하진 않을 것입니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9579,7 +9615,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1779
 msgctxt "h8f3f9a34ge8f7g4df9gbe1ag6858c0d6489b"
 msgid "Consuming Parasites"
-msgstr ""
+msgstr "기생충 흡수하기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:39+0900\n"
-"PO-Revision-Date: 2023-10-26 07:37+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-10-27 13:37+0000\n"
+"Last-Translator: NeruTe <erik.j.park@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1048,10 +1048,9 @@ msgstr "저기 살인자다! "
 #. HandlePath = TaggedText[0].TagText[1]
 #. TagRule: AGGRESSIVE_GUARD
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Attack_GuardKiller:b38f492d-5c27-a0b9-755f-89d9c7f00775
-#, fuzzy
 msgctxt "h21d1dc99g1791g4c3ega53dg48fabaa0dc76"
 msgid "You're not leaving here alive!"
-msgstr "살아서 나가진 못할 거다!"
+msgstr "살아서 나갈 생각 마라!"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Attack_GuardKiller
 #. Speaker = GROUP_Guards
@@ -1333,10 +1332,9 @@ msgstr "슬프게도, 쓸모없어."
 #. HandlePath = TaggedText[4].TagText[1]
 #. TagRule: REALLY_GALE
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_CannotPickpocket:a081cc50-3e3e-4819-a842-7cc170a6dedd
-#, fuzzy
 msgctxt "hdfc034d9ge881g4df4g97a5g55b3656710e3"
 msgid "That won't work."
-msgstr "그건 안될껄."
+msgstr "안 먹히겠군."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_CannotPickpocket
 #. Speaker = Player
@@ -1344,10 +1342,9 @@ msgstr "그건 안될껄."
 #. HandlePath = TaggedText[4].TagText[2]
 #. TagRule: REALLY_GALE
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_CannotPickpocket:a081cc50-3e3e-4819-a842-7cc170a6dedd
-#, fuzzy
 msgctxt "he4f26c67g0feeg441fg8e2egd5d50eaa60c0"
 msgid "No dice."
-msgstr "주사위가 없어."
+msgstr "허튼짓이야."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_CannotPickpocket
 #. Speaker = Player
@@ -19244,7 +19241,7 @@ msgstr "*당신은 장물을 모두 건넸습니다. 하지만 너무 적고, �
 #: Mods/Shared/Story/Dialogs/Crimes/NGB_Interrogation_Steal:bda9f61c-0f16-f1e0-2c8d-357424b4ddec
 msgctxt "h3428dcfege794g4649gabc6g359752da6fb1"
 msgid "*Your peace offering is not enough. Your crime must be punished.*"
-msgstr "*당신의 평화 협상이 마음에 들지 못했나 봅니다. 당신의 범죄는 무조건 처벌받게 될 거에요.*"
+msgstr "*당신의 평화 협상이 마음에 들지 못했나 봅니다. 당신의 범죄는 무조건 처벌받게 될 거예요.*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Interrogation_Steal
 #. Speaker = Narrator
@@ -19611,7 +19608,7 @@ msgstr "*이 꼬마가 부서진 물건들을 찾아냈습니다. 당신에게 �
 #: Mods/Shared/Story/Dialogs/Crimes/NGB_Interrogation_Vandalise:3339d97e-27ec-41cd-b80f-5041c23c2613
 msgctxt "h5f9c3b5cg88f3g478fg91e8g4e2ed7d6f467"
 msgid "*This child will benefit from reporting your vandalism, no doubt.*"
-msgstr "*이 꼬마는 당신을 기물파손으로 신고하고 포상금을 독차지할 거에요. 그렇고 말고요.*"
+msgstr "*이 꼬마는 당신을 기물파손으로 신고하고 포상금을 독차지할 거예요. 그렇고 말고요.*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Interrogation_Vandalise
 #. Speaker = Narrator
@@ -21135,7 +21132,7 @@ msgctxt "he05c8cc5g8d8cg4737gba8cgee362e3c9b72"
 msgid ""
 "*Disarming other people's traps isn't allowed. You're being reported to the "
 "guards.*"
-msgstr "*다른 이가 설치한 함정을 해제하는 것은 금지되어 있습니다. 따라서 경비병에게 신고당하게 될거에요.*"
+msgstr "*다른 이가 설치한 함정을 해제하는 것은 금지되어 있습니다. 따라서 경비병에게 신고당하게 될거예요.*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_DisarmingTrap
 #. Speaker = Narrator
@@ -25381,7 +25378,7 @@ msgctxt "h623f198cg6797g491bgac5eg01db4fb698fb"
 msgid ""
 "*Bibeek, favoured of Oghma. Your songs live on in the streets and in our "
 "hearts.*"
-msgstr "*오그마의 충신 비빅. 당신의 노래는 언제나 거리와 우리 마음속에 살아있을 거에요.*"
+msgstr "*오그마의 충신 비빅. 당신의 노래는 언제나 거리와 우리 마음속에 살아있을 거예요.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_Tombstone_17
 #. Speaker = Narrator
@@ -25620,7 +25617,7 @@ msgctxt "h2b660dfdg8ebeg4d97g975bg02d4b1eb4694"
 msgid ""
 "*Do not taunt or tease the aquatic spectator sentries outside the dome. They "
 "have a job to do, just like you.*"
-msgstr "*돔 밖의 수중 스펙테이터 감시자를 조롱하거나 놀리지 마시오. 그들도 일을 하고 있는 것 뿐입니다.*"
+msgstr "*돔 밖의 수중 스펙테이터 감시자를 조롱하거나 놀리지 마시오. 그들도 일을 하고 있는 것뿐입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_MurderTribunal_AD_AntechamberOfMurder
 #. Speaker = Narrator
@@ -25828,7 +25825,7 @@ msgstr "*'우리 신실한 이들은 짐을 짊어진 필멸자의 삶을 치유
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_MurderTribunal_AD_TribunalSewerHallSkull4:ab392200-74fe-2152-eb92-760eae37e87c
 msgctxt "hed5be652ge3c4g46d7g8885gb25857a12f97"
 msgid "*'And present it to death-father Bhaal' - verse by Invoker Grimlark*"
-msgstr "*'죽음의 아버지 바알님께 진상하리라' 인보커 그림라크의 시구*"
+msgstr "*'죽음의 아버지 바알 님께 진상하리라' 인보커 그림라크의 시구*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_RamazithTowerTraps_AD_Above
 #. Speaker = Narrator
@@ -65603,7 +65600,7 @@ msgctxt "h9a723a4ag36e3g474bg81adgb73285e3a46b"
 msgid ""
 "Your presence will be as obvious to it as a flame in the dark. If you insist "
 "on doing this, I will not be able to protect you."
-msgstr "당신의 존재는 어둠 속의 불꽃처럼 명확하게 드러날 거에요. 당신이 계속 이러기를 고집한다면 저는 당신을 보호해 줄 수 없어요."
+msgstr "당신의 존재는 어둠 속의 불꽃처럼 명확하게 드러날 거예요. 당신이 계속 이러기를 고집한다면 저는 당신을 보호해 줄 수 없어요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_Act1ReturnAttempt
 #. Speaker = GROUP_Daisy
@@ -65615,7 +65612,7 @@ msgctxt "h6bb19bb8gfc08g4077g9d55g9f3a6bdfd3dd"
 msgid ""
 "Your presence will be as obvious to it as a flame in the dark. If you insist "
 "on doing this, I will not be able to protect you."
-msgstr "당신의 존재는 어둠 속의 불꽃처럼 명확하게 드러날 거에요. 당신이 계속 이러기를 고집한다면 저는 당신을 보호해 줄 수 없어요."
+msgstr "당신의 존재는 어둠 속의 불꽃처럼 명확하게 드러날 거예요. 당신이 계속 이러기를 고집한다면 저는 당신을 보호해 줄 수 없어요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_Act1ReturnAttempt
 #. Speaker = GROUP_Daisy
@@ -65639,7 +65636,7 @@ msgid ""
 "not do the same, the elder brain will know, and the Chosen will find you."
 msgstr ""
 "이해하지 못하는군요. 참된 영혼의 군대가 도시로 진군하고 있어요. 당신도 똑같이 하지 않는다면 엘더 브레인도 알아차릴 것이고, 선택받은 "
-"자가 당신을 찾아낼 거에요."
+"자가 당신을 찾아낼 거예요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_Act1ReturnAttempt
 #. Speaker = GROUP_Daisy
@@ -65663,7 +65660,7 @@ msgid ""
 "not do the same, the elder brain will know, and the Chosen will find you."
 msgstr ""
 "이해하지 못하는군요. 참된 영혼의 군대가 도시로 진군하고 있어요. 당신도 똑같이 하지 않는다면 엘더 브레인도 알아차릴 것이고, 선택받은 "
-"자가 당신을 찾아낼 거에요."
+"자가 당신을 찾아낼 거예요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_ThrallOfTheAbsolute_Act1ReturnAttempt
 #. Speaker = GROUP_Daisy
@@ -69454,7 +69451,7 @@ msgstr "<i>심호흡을 하고, 머리를 흔든 다음, 마음을 새로이 다
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_AD_AltGuide_MindflayerFall:1c6cbb55-371b-4575-a83d-b61e8768b5e4
 msgctxt "h45d4a5e2g0107g4b3ag8e9cg660513e6b0c0"
 msgid "The <i>ghaik </i>is dead, praise Vlaakith."
-msgstr "<i>가이크</i>가 죽었군. 블라키스님을 찬양할지어다."
+msgstr "<i>가이크</i>가 죽었군. 블라키스 님을 찬양할지어다."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_AD_AmbushDevil
 #. Speaker = UNKNOWN_CHARACTER
@@ -72252,7 +72249,7 @@ msgstr "자, 조타실로 가자."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_LowerDeck_AD_LaezelAfterFight:a0372fa7-e8e2-205b-d77f-0c4a56d5584f
 msgctxt "h9340f0c0gc693g4605gaed0g29e7ba5e6911"
 msgid "They're dead, Vlaakith be praised."
-msgstr "다 죽었군. 블라키스님께 찬미를."
+msgstr "다 죽었군. 블라키스 님께 찬미를."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Tutorial/TUT_LowerDeck_AD_UsWaitingAtEntrance
 #. Speaker = Us
