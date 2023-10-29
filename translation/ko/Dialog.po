@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:39+0900\n"
-"PO-Revision-Date: 2023-10-27 13:37+0000\n"
-"Last-Translator: NeruTe <erik.j.park@gmail.com>\n"
+"PO-Revision-Date: 2023-10-29 03:37+0000\n"
+"Last-Translator: 냉동야채 <ljade1428@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -5316,7 +5316,7 @@ msgstr "계속해!"
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Noticed_AnimalAttackedAnimal:0bd1d711-f76c-1764-2f18-ec29095d7ede
 msgctxt "h47ff6532gd5f9g46e6gb2e4gc406969608df"
 msgid "*CLACK!*"
-msgstr ""
+msgstr "*딱딱!*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Noticed_AnimalAttackedAnimal
 #. Speaker = GROUP_Animals
@@ -5401,7 +5401,7 @@ msgstr "*<b>으르렁!</b>*"
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Noticed_AnimalAttackedAnimal:6506a3cd-3fe8-11ee-adb1-9ce788d429ad
 msgctxt "hdc5046aeg622dg4d43gb6bfg9c5b035063ca"
 msgid "*CLACK!*"
-msgstr ""
+msgstr "*딱딱!*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Noticed_AnimalAttackedAnimal
 #. Speaker = GROUP_Animals
@@ -5512,7 +5512,7 @@ msgstr "^%#*@%!%"
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Noticed_AnimalAttackedAnimal:b2287fcc-ab9f-4d7a-f8cf-5960b646b6c8
 msgctxt "h5b49ddbegf925g4925ga0c0gc65c39591d33"
 msgid "*CLACK!*"
-msgstr ""
+msgstr "*딱딱!*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Noticed_AnimalAttackedAnimal
 #. Speaker = GROUP_Animals
@@ -24310,10 +24310,9 @@ msgstr "*최후의 빛 여관에서는 무장을 허용하지 않습니다. 모�
 #. NodeID = 1d010020-e599-c05a-048b-c9fdb7e89c9c
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_AbandonedCistern_AD_AMailedFist:1d010020-e599-c05a-048b-c9fdb7e89c9c
-#, fuzzy
 msgctxt "h037e512cg8bbdg4f41g9a0bg2cddf6a9bdd8"
 msgid "*A mailed fist in the Firecam armour style.*"
-msgstr "*파이어캠 갑옷을 입고있는 험상궂은 사람입니다.*"
+msgstr "*파이어캠 갑옷을 입고있는 플레이밍 피스트 대원입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_AbandonedCistern_AD_APairOfWings
 #. Speaker = Narrator
@@ -24322,17 +24321,16 @@ msgstr "*파이어캠 갑옷을 입고있는 험상궂은 사람입니다.*"
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_AbandonedCistern_AD_APairOfWings:cef4d3be-4ee2-6b42-e7a9-ceca52de6d98
 msgctxt "h78155f2fgb45ag4ba5ga9cdgf31d67b3ad70"
 msgid "*A woodcarving of a pair of wings, like an eagle's but longer somehow.*"
-msgstr "*양 쪽 날개를 표현한 나무 조각입니다. 독수리 같지만 어째서인지 좀 더 길어 보이는군요.*"
+msgstr "*한 쌍의 날개를 표현한 목각상입니다. 독수리의 것 같기도 하지만 어쩐지 좀 더 길어 보이는군요.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_AbandonedCistern_AD_ATurnip
 #. Speaker = Narrator
 #. NodeID = f9555891-b771-197a-28a8-a89c62e406c9
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_AbandonedCistern_AD_ATurnip:f9555891-b771-197a-28a8-a89c62e406c9
-#, fuzzy
 msgctxt "hf33f456dgdeb2g4ccbg8d3fgc40b27c0f3ad"
 msgid "*A humble turnip, preserved by drying.*"
-msgstr "*건조하여 보존된 그냥 순무입니다.*"
+msgstr "*잘 말려서 보존된, 그냥 순무입니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_AbandonedCistern_AD_AWarhammer
 #. Speaker = Narrator
@@ -24381,12 +24379,11 @@ msgstr "*별도의 공지가 있기 전까지는 상부 도시에 입장할 수 
 #. NodeID = 20907f28-ab90-01ff-d58e-47569d4ab352
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_BaldursMouth_AD_AbandonedManualPrinter:20907f28-ab90-01ff-d58e-47569d4ab352
-#, fuzzy
 msgctxt "hda188bd6gbe99g4da1g92f7ga79246c05d02"
 msgid ""
 "*An old mechanical printer, its dried ink surface outlining a story that "
 "predates the Absolute.*"
-msgstr "*오래된 기계식 인쇄기입니다. 마른 잉크 겉면에는 절대자 이전 이야기가 담겨 있습니다.*"
+msgstr "*낡은 기계식 인쇄기의 말라붙은 표면에는 절대자가 등장하기 전의 기사를 인쇄한 흔적이 남아 있습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_BasiliskGate_AD_ExecutionNotice
 #. Speaker = Narrator
@@ -24397,19 +24394,18 @@ msgctxt "h162de93dgaf47g4f52ga362gbeeb224efa31"
 msgid ""
 "*Decree of Public Execution of the Traitor Florrick, Former Counsellor, "
 "Condemned to Death this Tenday.*"
-msgstr "*반역자 플로릭 공개 처형 명령, 전 자문관, 열흘 뒤 사형 판결.*"
+msgstr "*전 자문관이었던 반역자 플로릭이 공개 처형 판결을 받다. 사형 집행은 열흘 뒤.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_BhaalTemple_AD_ALendingLibrary
 #. Speaker = Narrator
 #. NodeID = d7b10292-98fa-bac9-e46a-3d47581a6cdc
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_BhaalTemple_AD_ALendingLibrary:d7b10292-98fa-bac9-e46a-3d47581a6cdc
-#, fuzzy
 msgctxt "h9eb09fbeg132fg4a58g9792g9b8407eef33e"
 msgid ""
 "*'Borrowed Scrolls Must be Returned within a Tenday' - It seems the Temple "
 "to Murder has a lending library.*"
-msgstr "*'빌려 가신 두루마리는 열흘 내에 반납해 주세요.' 보아하니 살인의 사원에 도서관이 있는 것 같습니다.*"
+msgstr "*'대여한 두루마리는 열흘 내에 반납할 것.' 살인의 사원에도 도서관이 있는 것 같군요.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Bloomridgepark_AD_BalduranStatuePlaque_01
 #. Speaker = Narrator
@@ -24425,40 +24421,36 @@ msgstr "*도시의 건립자인 발더란이 바다를 바라보고 있습니다
 #. NodeID = bb94e322-3d6d-ceaf-0bc3-3b3765991475
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Bloomridgepark_AD_HedonistStatuePlaque_01:bb94e322-3d6d-ceaf-0bc3-3b3765991475
-#, fuzzy
 msgctxt "h48032b96gbf40g45c1gb946ga48938e9b885"
 msgid "*To Life and Living - Compliments of Stoney and Boney*"
-msgstr "*삶에서 생활까지, 스토니와 보니의 찬사*"
+msgstr "*삶과 일상을 위하여, 스토니와 보니의 찬사*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Bloomridgepark_AD_HedonistStatuePlaque_02
 #. Speaker = Narrator
 #. NodeID = 9dfe3375-2afa-5d8f-b3d2-69eda3346820
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Bloomridgepark_AD_HedonistStatuePlaque_02:9dfe3375-2afa-5d8f-b3d2-69eda3346820
-#, fuzzy
 msgctxt "h450865e1g92d2g4c24g9c74g92b77af16908"
 msgid "*Let Merriment Abound*"
-msgstr "*즐거움 가득하게*"
+msgstr "*기쁨이 넘치게 하소서.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Bloomridgepark_AD_HedonistStatuePlaque_03
 #. Speaker = Narrator
 #. NodeID = c996fe9a-3190-4c6d-a310-c06b1ee38b95
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Bloomridgepark_AD_HedonistStatuePlaque_03:c996fe9a-3190-4c6d-a310-c06b1ee38b95
-#, fuzzy
 msgctxt "h3416d1bagf09fg4b2cgab51g363f946586ba"
 msgid "*Joy in Stone - Compliments of Stoney and Boney*"
-msgstr "*조이 인 스톤, 스토니와 보니의 찬사*"
+msgstr "*암석 속의 기쁨, 스토니와 보니의 찬사*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Bloomridgepark_AD_HedonistStatuePlaque_04
 #. Speaker = Narrator
 #. NodeID = 04f2facf-d64b-113c-854e-c6e5bc48672a
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Bloomridgepark_AD_HedonistStatuePlaque_04:04f2facf-d64b-113c-854e-c6e5bc48672a
-#, fuzzy
 msgctxt "h624563cag10bag45c9gafedg155fd245c2da"
 msgid "*A Tribute to Liberty - Compliments of Stoney and Boney*"
-msgstr "*자유 찬가, 스토니와 보니의 찬사*"
+msgstr "*자유를 위한 찬가, 스토니와 보니의 찬사*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_BlushingMermaid_AD_Show
 #. Speaker = Narrator
@@ -25861,7 +25853,7 @@ msgstr "*아래*"
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_RamazithTowerTraps_AD_Cleanup:ece4f7ca-fbc5-5326-dcb5-5e612367fe3a
 msgctxt "hf56f962egc601g4c57ga70dgcec9406ee56a"
 msgid "*Clean-up*"
-msgstr ""
+msgstr "*청소*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_RamazithTowerTraps_AD_Security
 #. Speaker = Narrator
@@ -27115,7 +27107,7 @@ msgstr "현명한 결정이었어요."
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:124d3d0c-db8a-66ab-22ce-13442f639095
 msgctxt "h9e665e60gb7a8g4948g82b2gbcfbf3cd4be0"
 msgid "Let's hope we don't meet any more frogs."
-msgstr ""
+msgstr "이제 개구리는 지긋지긋하네요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27125,7 +27117,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:124d3d0c-db8a-66ab-22ce-13442f639095
 msgctxt "h0c9ce53dgee31g49b5gb013g3eaa5a27395c"
 msgid "Let's hope there are no more frogs."
-msgstr ""
+msgstr "더 많은 개구리를 만나지 않길 바라자고요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27175,7 +27167,7 @@ msgstr "물론."
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:4cf0e661-8e13-4cf7-a605-5adf8be7893a
 msgctxt "hde1a1fcfg076fg4a01gabc2g369e2eca3b09"
 msgid "No."
-msgstr ""
+msgstr "아니요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -27185,7 +27177,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final:4cf0e661-8e13-4cf7-a605-5adf8be7893a
 msgctxt "h767f886bg944cg4310gb8e0gdb6731edd8e1"
 msgid "No."
-msgstr ""
+msgstr "아니요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Generics/Daisy_ContingencyLines_Final
 #. Speaker = GROUP_Daisy
@@ -50693,7 +50685,7 @@ msgctxt "hb3c8b8bag5799g4024g987dg0121520ca152"
 msgid ""
 "The True Soul was infected with a tadpole. This Absolute of theirs must be a "
 "<i>ghaik</i> hallucination."
-msgstr "저 참된 영혼은 올챙이에 감염되었다. 놈들이 섬기는 이 절대자는 틀림없이 <i>가이크</i>의 환각일 거다."
+msgstr "저 참된 영혼은 올챙이에 감염되었다. 놈들이 섬기는 이 절대자는 틀림없이 <i>게이크</i>의 환각일 거다."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Absolute_PAD_Cultists
 #. Speaker = Player
@@ -56402,7 +56394,7 @@ msgid ""
 "All of it, drivel. Gith declared Vlaakith queen of the empire, and her own "
 "son defied her. Orpheus would have ceded control to the <i>ghaik</i>."
 msgstr ""
-"이건 전부 헛소리야. 기스는 블라키스를 제국의 여왕으로 선언했고, 그녀의 아들은 그녀에게 거역했어. 오르페우스가 왕이었다면 <i>가이크</"
+"이건 전부 헛소리야. 기스는 블라키스를 제국의 여왕으로 선언했고, 그녀의 아들은 그녀에게 거역했어. 오르페우스가 왕이었다면 <i>게이크</"
 "i>에게 제국을 넘겨버렸겠지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
@@ -56518,7 +56510,7 @@ msgid ""
 "blades on each other. The heavens were shattered, and one great empire was "
 "divided in two.'*"
 msgstr ""
-"*'그리하여 <i>가이크</i>의 족쇄로부터 해방된 우리는 서로에게 칼을 겨누었다. 천상이 산산조각나고 하나의 위대한 제국은 둘로 나뉘고 "
+"*'그리하여 <i>게이크</i>의 족쇄로부터 해방된 우리는 서로에게 칼을 겨누었다. 천상이 산산조각나고 하나의 위대한 제국은 둘로 나뉘고 "
 "말았다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
@@ -56623,7 +56615,7 @@ msgid ""
 "blades on each other. The heavens were shattered, and one great empire was "
 "divided in two.'"
 msgstr ""
-"'그리하여 <i>가이크</i>의 족쇄로부터 해방된 우리는 서로에게 칼을 겨누었다. 천상이 산산조각나고 하나의 위대한 제국은 둘로 나뉘고 "
+"'그리하여 <i>게이크</i>의 족쇄로부터 해방된 우리는 서로에게 칼을 겨누었다. 천상이 산산조각나고 하나의 위대한 제국은 둘로 나뉘고 "
 "말았다.'"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_AvatarLaezelReadsChapters
@@ -57963,7 +57955,7 @@ msgid ""
 "blades on each other. The heavens were shattered, and one great empire was "
 "divided in two.'*"
 msgstr ""
-"*'그리하여 <i>가이크</i>의 족쇄로부터 해방된 우리는 서로에게 칼을 겨누었다. 천상이 산산조각나고 하나의 위대한 제국은 둘로 나뉘고 "
+"*'그리하여 <i>게이크</i>의 족쇄로부터 해방된 우리는 서로에게 칼을 겨누었다. 천상이 산산조각나고 하나의 위대한 제국은 둘로 나뉘고 "
 "말았다.'*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_OrpheusChapters_PlayerDecipherChapter
@@ -65059,7 +65051,7 @@ msgctxt "haf577b41gfa35g45b3g9090g021a757bd0e8"
 msgid ""
 "Now is the moment - make the sacrifice. Become <i>ghaik</i>, and wield the "
 "stones!"
-msgstr "희생의 순간이 왔구나. <i>가이크</i>로 거듭나, 네더스톤을 제어하라!"
+msgstr "희생의 순간이 왔구나. <i>게이크</i>로 거듭나, 네더스톤을 제어하라!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_UseSupremeTadpole
 #. Speaker = Orpheus
@@ -69451,7 +69443,7 @@ msgstr "<i>심호흡을 하고, 머리를 흔든 다음, 마음을 새로이 다
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_AD_AltGuide_MindflayerFall:1c6cbb55-371b-4575-a83d-b61e8768b5e4
 msgctxt "h45d4a5e2g0107g4b3ag8e9cg660513e6b0c0"
 msgid "The <i>ghaik </i>is dead, praise Vlaakith."
-msgstr "<i>가이크</i>가 죽었군. 블라키스 님을 찬양할지어다."
+msgstr "<i>게이크</i>가 죽었군. 블라키스 님을 찬양할지어다."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_AD_AmbushDevil
 #. Speaker = UNKNOWN_CHARACTER
@@ -69620,7 +69612,7 @@ msgstr "데빌은 무시해! 중계기를 차지해야 한다."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_AD_LaezelMindflayerFall:5a8ba8c3-ce4f-4b60-bfce-d84a777b39f9
 msgctxt "h1fe4c220g8b20g49f1ga5begb14d2c64f4d6"
 msgid "The <i>ghaik </i>has fallen. Once we escape, we are free."
-msgstr "<i>가이크</i>가 쓰러졌군. 탈출만 하면, 우린 자유다."
+msgstr "<i>게이크</i>가 쓰러졌군. 탈출만 하면, 우린 자유다."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_AD_LaezelRemindsNerves
 #. Speaker = Lae'zel
@@ -69676,7 +69668,7 @@ msgctxt "h3c53b797g932eg4b6fgbfc7g5f2a4a659461"
 msgid ""
 "This is it - the helm. The <i>ghaik</i> who infected us will be inside. Do "
 "not not let it overcome you."
-msgstr "다 왔군. 조타실이다. 우리를 감염시킨 <i>가이크</i> 놈이 이 안에 있겠지. 놈이 널 지배하게 놔두지 마라."
+msgstr "다 왔군. 조타실이다. 우리를 감염시킨 <i>게이크</i> 놈이 이 안에 있겠지. 놈이 널 지배하게 놔두지 마라."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_DragonAppears
 #. Speaker = Lae'zel
@@ -69745,7 +69737,7 @@ msgctxt "h952b929egc930g4043gbfecg39497ff1863a"
 msgid ""
 "Do as it says - we will decide how to deal with the <i>ghaik </i>once we "
 "escape this place."
-msgstr "시키는 대로 해. <i>가이크</i> 놈을 어찌 처리할지는 일단 탈출하고 나서 결정하자."
+msgstr "시키는 대로 해. <i>게이크</i> 놈을 어찌 처리할지는 일단 탈출하고 나서 결정하자."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_MindflayerCall
 #. Speaker = Us
@@ -69802,7 +69794,7 @@ msgstr "<i>노예여. 중계기에 신경을 연결해라. 탈출해야 한다. 
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_MindflayerCall:db36ce26-1246-e2df-e5d3-432e27c728ec
 msgctxt "hf2b39114g55cbg4719g99bdg0d04ed14de60"
 msgid "Do it. We will deal with the <i>ghaik </i>after we escape."
-msgstr "시키는 대로 해. <i>가이크</i> 놈은 탈출하고 나서 처리하자."
+msgstr "시키는 대로 해. <i>게이크</i> 놈은 탈출하고 나서 처리하자."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_PAD_FirstWarning
 #. Speaker = Player
@@ -69981,7 +69973,7 @@ msgstr "죽은 마인드 플레이어라. 훌륭해."
 msgctxt "hd3d4eb6eg020fg4a5dgac8agc8dd4fab7ba2"
 msgid ""
 "The <i>ghaik</i> met its match. If only I'd dealt the killing blow instead."
-msgstr "<i>가이크가</i> 적수를 만난 모양이군. 내 손으로 놈을 끝장냈다면 좋았을 텐데."
+msgstr "<i>게이크가</i> 적수를 만난 모양이군. 내 손으로 놈을 끝장냈다면 좋았을 텐데."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Helm_PAD_MindFlayerFall
 #. Speaker = Player
@@ -70030,7 +70022,7 @@ msgstr "빌어처먹을 배신자 마인드 플레이어 새끼! 얼른 중계�
 #: Mods/GustavDev/Story/Dialogs/Tutorial/TUT_Helm_PAD_MindflayerBetrayal:93be2dca-0d60-4e6e-a7fe-ddf87a16a89d
 msgctxt "h1e9f6bb9g4879g4d4cgaa46g88fd96d9fdb5"
 msgid "The <i>ghaik</i>'s turned on us. Get to the transponder!"
-msgstr "<i>가이크</i>가 우리를 배신했다. 중계기로 가자!"
+msgstr "<i>게이크</i>가 우리를 배신했다. 중계기로 가자!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Tutorial/TUT_Helm_PAD_MindflayerBetrayal
 #. Speaker = Player
@@ -70648,7 +70640,7 @@ msgstr "염수군. 그 <i>기생충 </i>들이 헤엄치던 것과 비슷해."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Lab_PAD_AcidMawComment:f35b8b91-f1b7-8803-37d0-57eea837a968
 msgctxt "h5f545c95g2140g4272gba58g500e792526a3"
 msgid "Revolting. The <i>ghaik</i> grow their parasites in this brine."
-msgstr "혐오스럽군. <i>가이크</i>들은 이런 염수에서 놈들의 기생충을 기르지."
+msgstr "혐오스럽군. <i>게이크</i>들은 이런 염수에서 놈들의 기생충을 기르지."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Lab_PAD_AcidMawComment
 #. Speaker = Player
@@ -70688,7 +70680,7 @@ msgstr "염수 같군. 그 뇌 벌레가 자라던 곳이야."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Lab_PAD_AcidMawComment:f35b8b91-f1b7-8803-37d0-57eea837a968
 msgctxt "ha5c09cfagcb1bg4411g9196gf4beeeafaaf9"
 msgid "<i>Ghaik </i>parasites thrive in this secretion. Disgusting."
-msgstr "<i>가이크</i> 기생충들이 이 분비물에서 자라지. 역겹군."
+msgstr "<i>게이크</i> 기생충들이 이 분비물에서 자라지. 역겹군."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Lab_PAD_AcidMawComment
 #. Speaker = Player
@@ -70982,7 +70974,7 @@ msgstr "절인 뇌라니, 누구 거람?"
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Lab_PAD_BrainJarLoot:a11caf98-4025-499a-866a-5fce276faa19
 msgctxt "h898d1905gf626g41adg8725gd150a229e322"
 msgid "A brain. Nourishment for the <i>ghaik</i>."
-msgstr "뇌군. <i>가이크</i> 놈들의 영양식이지."
+msgstr "뇌군. <i>게이크</i> 놈들의 영양식이지."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Lab_PAD_BrainJarLoot
 #. Speaker = Player
@@ -71821,7 +71813,7 @@ msgctxt "h0654838eg3b36g45d4gbc40g4b3654634eb0"
 msgid ""
 "<i>A pet of </i>ghaik <i>scum. Destroy the intellect devourer while it's "
 "vulnerable.</i>"
-msgstr "<i>가이크 쓰레기의 애완동물이다. 아직 취약한 상태일 때 지성 포식자를 파괴한다.</i>"
+msgstr "<i>게이크 쓰레기의 애완동물이다. 아직 취약한 상태일 때 지성 포식자를 파괴한다.</i>"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Lab_TrappedDevourer
 #. Speaker = Player
@@ -72488,7 +72480,7 @@ msgstr ""
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_LowerDeck_AfterImpFight:50faa221-d562-0949-336a-d7f9aed97367
 msgctxt "ha48854d1gf33eg4c0bg8750g5254e2d962ee"
 msgid "Within days, we will be <i>ghaik</i>. Mind flayers."
-msgstr "며칠 안으로 우리는 <i>가이크</i>가 될 테지. 마인드 플레이어 말이다."
+msgstr "며칠 안으로 우리는 <i>게이크</i>가 될 테지. 마인드 플레이어 말이다."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_LowerDeck_AfterImpFight
 #. Speaker = Player
@@ -73340,7 +73332,7 @@ msgid ""
 "Listen closely<i>: </i>There will be <i>ghaik</i> ahead. If they speak, do "
 "as they say. We must not reveal our minds are our own."
 msgstr ""
-"잘 들어<i>.</i> 이 앞에 <i>가이크</i>가 있을 거야. 놈들이 말을 하거든, 시키는 대로 해. 우리 정신이 온전하다는 걸 "
+"잘 들어<i>.</i> 이 앞에 <i>게이크</i>가 있을 거야. 놈들이 말을 하거든, 시키는 대로 해. 우리 정신이 온전하다는 걸 "
 "드러내면 안 돼."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_LowerDeck_LaezelStairs
@@ -73354,7 +73346,7 @@ msgid ""
 "ahead. If they speak, do as they say. We must not reveal our minds are our "
 "own."
 msgstr ""
-"잘 들어라, <i>이스틱. </i>이 앞에 <i>가이크</i>가, 즉 마인드 플레이어가 있을 거야. 놈들이 말을 하거든, 시키는 대로 "
+"잘 들어라, <i>이스틱. </i>이 앞에 <i>게이크</i>가, 즉 마인드 플레이어가 있을 거야. 놈들이 말을 하거든, 시키는 대로 "
 "해. 우리 정신이 온전하다는 걸 드러내면 안 돼."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_LowerDeck_LaezelStairs
@@ -73384,7 +73376,7 @@ msgctxt "h2ce18a7bg11b2g4e51ga73agaeac865e8fc5"
 msgid ""
 "Is your ego so thin you would submit to slaughter by <i>ghaik</i> hands? "
 "Such is your fate if you refuse them."
-msgstr "<i>가이크</i>의 손에 살해당하기를 받아들일 만큼 자존심이 얇은 것인가? 그것들을 거부하는 것이 너의 운명이다."
+msgstr "<i>게이크</i>의 손에 살해당하기를 받아들일 만큼 자존심이 얇은 것인가? 그것들을 거부하는 것이 너의 운명이다."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_LowerDeck_PAD_AfterFight
 #. Speaker = Player
@@ -73708,7 +73700,7 @@ msgid ""
 "Infected by a <i>ghaik </i>tadpole, but changed at the pull of a lever? This "
 "cannot be. If we do not find our cure, this might well be our fate."
 msgstr ""
-"<i>가이크</i> 올챙이에 감염되었다지만, 그저 레버만 당겼는데 변이되다니? 말도 안 돼. 치료 방법을 찾지 않으면 우리도 저런 꼴이 "
+"<i>게이크</i> 올챙이에 감염되었다지만, 그저 레버만 당겼는데 변이되다니? 말도 안 돼. 치료 방법을 찾지 않으면 우리도 저런 꼴이 "
 "될지 모른다."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_MindflayerTransformation
@@ -74533,7 +74525,7 @@ msgstr "이상하면서도 멋지네."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_Aquarium:b176cdd0-0c59-4c3f-85ea-b58b4707ab78
 msgctxt "hb6ae426cg659bg4270ga02dg76f2b314666e"
 msgid "Brains, for these vile <i>ghaik</i> to feast on."
-msgstr "뇌라, 더러운 <i>가이크</i> 놈들이 환장하는 먹거리지."
+msgstr "뇌라, 더러운 <i>게이크</i> 놈들이 환장하는 먹거리지."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Tutorial/TUT_Misc_PAD_NonBrainAquarium
 #. Speaker = Player
@@ -74546,7 +74538,7 @@ msgstr "뇌라, 더러운 <i>가이크</i> 놈들이 환장하는 먹거리지."
 #: Mods/GustavDev/Story/Dialogs/Tutorial/TUT_Misc_PAD_NonBrainAquarium:4b46c615-7da8-5d69-660e-2f9360b68360
 msgctxt "he4d29a09ga084g4bfeg98a9g5271518d458d"
 msgid "Folliage - collected from the many planes for study by <i>ghaik</i>."
-msgstr "잎 더미라. <i>가이크</i> 놈들이 연구 목적으로 여러 차원에서 수집해 온 것들이군."
+msgstr "잎 더미라. <i>게이크</i> 놈들이 연구 목적으로 여러 차원에서 수집해 온 것들이군."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_Aquarium
 #. Speaker = Player
@@ -74696,7 +74688,7 @@ msgstr "초록색으로 된 건 참 오랜만에 보는걸."
 #: Mods/GustavDev/Story/Dialogs/Tutorial/TUT_Misc_PAD_NonBrainAquarium:516fb4a5-8586-494c-b85e-c98fc23c1474
 msgctxt "ha909d188g6616g4d9dgaf69g187700314594"
 msgid "Folliage - collected for study by <i>ghaik</i>."
-msgstr "잎 더미다. <i>가이크</i> 놈들이 연구에 쓰려고 모아놨군."
+msgstr "잎 더미다. <i>게이크</i> 놈들이 연구에 쓰려고 모아놨군."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Tutorial/TUT_Misc_PAD_NonBrainAquarium
 #. Speaker = Player
@@ -75008,7 +75000,7 @@ msgstr "이 안에 갖혀 있던 게 누군지 궁금하네. 어디 갔는지도
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_OriginPod_Empty:fb10c426-d193-7c95-368a-3256960897d4
 msgctxt "h01ee525cg4b37g464ag9a0ag7564f017c901"
 msgid "<i>Ghaik</i> pod. Accursed thing."
-msgstr "<i>가이크</i>의 포드군. 저주 받을 것 같으니."
+msgstr "<i>게이크</i>의 포드군. 저주 받을 것 같으니."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_OriginPod_Empty
 #. Speaker = Player
@@ -75273,7 +75265,7 @@ msgstr "저기 다시 들어갈 생각 따위 없어."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_OriginPod_PlayerEmpty:f3b816a7-b61a-dc5b-836b-eb76461095c3
 msgctxt "hf1a1bed9g9e5bg4678g9db5g8e118c0b7b02"
 msgid "<i>Ghaik </i>prison."
-msgstr "<i>가이크</i>의 감옥이군."
+msgstr "<i>게이크</i>의 감옥이군."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_OriginPod_PlayerEmpty
 #. Speaker = Player
@@ -75394,7 +75386,7 @@ msgstr "맙소사! 이것들 새끼 까는 기구였잖아."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction:819baae3-7ebc-71d8-1835-abe2ca7bb5f8
 msgctxt "hb3208e48gb22bg4131gbdd3g45ef31bbcdd2"
 msgid "Foul <i>ghaik! </i>Transformed by a lever. That must never be our fate."
-msgstr "역겨운 <i>가이크들! </i> 레버가 저들을 변이시켰군. 우린 저런 꼴이 되어선 안 된다."
+msgstr "역겨운 <i>게이크들! </i> 레버가 저들을 변이시켰군. 우린 저런 꼴이 되어선 안 된다."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Misc_PAD_TransformationReaction
 #. Speaker = Player
@@ -75779,7 +75771,7 @@ msgctxt "h2f4bef40geea6g4321g9c68g22f2b2083a37"
 msgid ""
 "*This is the pool it came from - the <i>ghaik </i>parasite that has violated "
 "your mind.*"
-msgstr "*당신의 정신을 더럽히는 그 <i>가이크</i> 기생충이 들어있던 수조입니다. *"
+msgstr "*당신의 정신을 더럽히는 그 <i>게이크</i> 기생충이 들어있던 수조입니다. *"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Start_Brinepool
 #. Speaker = Narrator
@@ -76498,7 +76490,7 @@ msgstr "망할. 그 오징어 자식, 내 뇌를 제대로 헤집어 놨네..."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Start_PAD_Start:6204ddeb-70f5-df6c-2d7d-6e9be93a44df
 msgctxt "h185589cagc8b8g415agba33g2af5967da09b"
 msgid "What is this <i>ghaik </i>trickery? Where am I?"
-msgstr "이건 또 뭔 <i>가이크</i> 놈들 수작질이지? 여긴 어디야?"
+msgstr "이건 또 뭔 <i>게이크</i> 놈들 수작질이지? 여긴 어디야?"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Start_PAD_Start
 #. Speaker = Player
@@ -76692,7 +76684,7 @@ msgstr "여기가 어딘진 몰라도, 꾸물거릴 생각은 없어.\n"
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_Start_PAD_Start:d87b7dd6-7cfe-3d2b-8fbe-44b42d8d57e3
 msgctxt "hbaf56f99g17dfg4aebga933gad4fa3515591"
 msgid "A <i>ghaik</i> ship. Disgusting."
-msgstr "<i>가이크</i>의 함선이라. 역겹군."
+msgstr "<i>게이크</i>의 함선이라. 역겹군."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_Start_PAD_Start
 #. Speaker = Player
@@ -76863,7 +76855,7 @@ msgstr "<i>멍청이.</i>"
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_AD_LaezelPodStorage:81e15e50-4ed9-fe48-f4ed-5d3aac9e6e9c
 msgctxt "h74bcee05gcdcdg40c7g8fecg6cbb37d58ecc"
 msgid "<i>Tsk'va! </i>How many hosts have these <i>ghaik</i> infected?"
-msgstr "<i>츠크바!</i> 이 <i>가이크</i> 놈들, 대체 얼마나 많은 자들을 감염시킨 거지?"
+msgstr "<i>츠크바!</i> 이 <i>게이크</i> 놈들, 대체 얼마나 많은 자들을 감염시킨 거지?"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Tutorial/TUT_TransformChamber_AD_PatrollingIntDev
 #. Speaker = Intellect Devourer
@@ -77121,7 +77113,7 @@ msgstr "의자로군. 함선과 마인드 플레이어들에게 연결되어 있
 msgctxt "h27e10be0g1e4eg4390gb70bgf088777533b2"
 msgid ""
 "The chair. It's connected to the nautiloid's systems - and its <i>ghaik</i>."
-msgstr "의자로군. 노틸로이드의 시스템과 <i>가이크</i>들에게 연결되어 있어."
+msgstr "의자로군. 노틸로이드의 시스템과 <i>게이크</i>들에게 연결되어 있어."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Tutorial/TUT_TransformChamber_PAD_ChairWhispers
 #. Speaker = Player
@@ -77491,7 +77483,7 @@ msgstr "흠. 저 레버들 생긴 게 마음에 안 드는데."
 #: Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_PAD_ControlPanel:34f88815-62b0-49db-b16c-88304b94d56c
 msgctxt "h3a058563ge977g4048g9922ge82a130f4f15"
 msgid "<i>Ghaik</i> machinery. I can make no sense of it."
-msgstr "<i>가이크</i>의 기계라. 뭔 물건인지 전혀 모르겠군."
+msgstr "<i>게이크</i>의 기계라. 뭔 물건인지 전혀 모르겠군."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Tutorial/TUT_TransformChamber_PAD_ControlPanel
 #. Speaker = Player
