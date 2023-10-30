@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-29 03:37+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-10-30 08:37+0000\n"
+"Last-Translator: chups <bridgestone747@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1359,14 +1359,14 @@ msgstr "섀도하트는 우리에게 반기를 들었다."
 #. ID = Recruited_Box
 #. Objective = ORI_COM_Shadowheart_Travel
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:1714
-#, fuzzy
 msgctxt "h00724ad8g8821g499bgbe7fgcfe6bc1ddd48"
 msgid ""
 "As a strange voice assailed us, we were saved by a half-elf named "
 "Shadowheart - another survivor of the nautiloid. We accepted her into our "
 "party."
 msgstr ""
-"기묘한 목소리의 공격을 받을 때, 노틸로이드의 또 다른 생존자인 하프 엘프, 섀도하트가 우릴 구해줬다. 우리는 그녀를 일행에 받아들였다."
+"기묘한 목소리가 우릴 엄습하자, 섀도하트라는 이름의 하프엘프가 우릴 구해줬다. 노틸로이드의 또 다른 생존자였다. 우리는 그녀를 일행으로 "
+"받아들였다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -1790,10 +1790,9 @@ msgstr ""
 #. ObjectiveID = ORI_COM_Shadowheart_GoToBG
 #. QuestID = ORI_COM_ShadowHeart
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:487
-#, fuzzy
 msgctxt "h70b6348eg55bdg4002g855agfe21008ae302"
 msgid "Journey to Baldur's Gate."
-msgstr "발더스 게이트에 도착하자."
+msgstr "발더스 게이트로 여행하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -2394,11 +2393,9 @@ msgstr "나이트송은 어떤 신전에 있는 것 같다. 그건 고블린 야
 #. ObjectiveID = SHA_Nightsong_FindTemple
 #. QuestID = SHA_Nightsong
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:182
-#, fuzzy
-#| msgid "Investigate the temple. "
 msgctxt "h4cc55173g969eg4f06gbed5g14f1dd6e8be3"
 msgid "Investigate the temple ruins. "
-msgstr "신전을 조사하자. "
+msgstr "신전 폐허를 조사하자. "
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -2594,18 +2591,14 @@ msgstr "우리는 나이트송이 샤의 신전 안에 있다고 하는 명판�
 #. ID = NightsongIsAPersonPrison
 #. Objective = SHA_Nightsong_Shadowfell
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:3206
-#, fuzzy
-#| msgid ""
-#| "We found the Nightsong, but it isn't an artefact - it's a living, breathing "
-#| "woman who has been caged in the Shadowfell.  What does the wizard Lorroakan "
-#| "want with her?"
 msgctxt "haceb2fcag2ea9g4b4bga024g833754b75948"
 msgid ""
 "We found the Nightsong, but it isn't an artefact - it's a living, breathing "
 "woman who has been caged in the Shadowfell.  What does the wizard in "
 "Baldur's Gate want with her?"
 msgstr ""
-"우리는 나이트송을 찾았지만, 유물이 아니었다. 살아 숨쉬는, 섀도펠에 갇혀 있는 여자였다.  위저드 로로아칸이 이 여자를 왜 원하는 걸까?"
+"우리는 나이트송을 찾았지만, 아티팩트가 아니었다. 그건 살아 숨쉬는, 섀도펠에 갇혀 있는 여자였다.  발더스 게이트의 그 위저드는 이 "
+"여자를 왜 원하는 걸까?"
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -2613,11 +2606,9 @@ msgstr ""
 #. ObjectiveID = SHA_Nightsong_Shadowfell
 #. QuestID = SHA_Nightsong
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2818
-#, fuzzy
-#| msgid "Retrieve the Nightsong from the Shadowfell."
 msgctxt "ha9dab290ge453g4252g80e2gc6ebfeaf60b0"
 msgid "Find the wizard in Baldur's Gate who wants the Nightsong."
-msgstr "섀도펠에서 나이트송을 되찾아오자."
+msgstr "나이트송을 원하는 발더스 게이트의 위저드를 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -2626,15 +2617,11 @@ msgstr "섀도펠에서 나이트송을 되찾아오자."
 #. ID = NightsongInCamp
 #. Objective = SHA_Nightsong_AfterSCE
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:3227
-#, fuzzy
-#| msgid ""
-#| "Nightsong decided to camp with us. We should see what the wizard Lorroakan "
-#| "wants with her."
 msgctxt "hff4b8295gd0deg48c6g8a17g9ac8bdde34ec"
 msgid ""
 "Nightsong decided to camp with us. We should see what the wizard in Baldur's "
 "Gate wants with her."
-msgstr "나이트송은 우리 야영지에 머물기로 했다. 로로아칸이 이 여자에게 뭘 원하는 건지 알아봐야겠다."
+msgstr "나이트송은 우리 야영지에 머물기로 했다. 발더스 게이트의 위저드가 이 여자에게 뭘 원하는 건지 알아봐야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -4821,7 +4808,6 @@ msgstr "수서르 나뭇가지"
 #. ID = FindPlansBeforeJournal
 #. Objective = FOR_IncompleteMasterwork_FindSussurBark
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:5880
-#, fuzzy
 msgctxt "h2edc475bg7cc9g427dgb2f9g62580dcedb5e"
 msgid ""
 "We found blueprints for masterwork weapons. All we need to forge one is some "
@@ -5196,7 +5182,6 @@ msgstr "하피가 나타나 우리를 공격했다."
 #. ObjectiveID = DEN_HarpyMeal_Defeat
 #. QuestID = DEN_HarpyMeal
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:510
-#, fuzzy
 msgctxt "h22f99330g1d84g4c07g97e2g09bde219374c"
 msgid "Defeat the harpies."
 msgstr "하피들을 물리치자."
@@ -5629,7 +5614,6 @@ msgstr "석관의 명판에는 '무덤의 수호자'가 적혀 있었다. 우리
 #. ID = ConnectedSarcophagusJergal
 #. Objective = CHA_Chapel_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:6879
-#, fuzzy
 msgctxt "h119a726eg564dg4279g9b9fg240c296f516c"
 msgid ""
 "The strange figure admitted he was the 'Guardian of Tombs' and that he'd "
@@ -5841,10 +5825,9 @@ msgstr "레이젤이 갇힌 우리"
 #. ID = LeftArea
 #. Objective = CHA_LaezelRecruit_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:7121
-#, fuzzy
 msgctxt "h3aac7e50g6bfdg498dg9bd7gc8bb9b7d9de4"
 msgid "We left Lae'zel to her fate."
-msgstr "레이젤을 우리에 놔두고, 운명에 맡긴 채 떠났다."
+msgstr "우리는 레이젤을 운명에 맡긴 채 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -5902,7 +5885,6 @@ msgstr "레이젤이 일행에 합류했다."
 #. ID = Started
 #. Objective = CHA_LaezelRecruit_Resolve
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:7247
-#, fuzzy
 msgctxt "ha287e33eg478fg4301ga955g16f40102e6d2"
 msgid ""
 "We found Lae'zel, the githyanki from the nautiloid, trapped in a hanging "
@@ -5925,10 +5907,9 @@ msgstr "갈등을 해결하자."
 #. ID = Mindmelted
 #. Objective = CHA_LaezelRecruit_Resolve
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:7268
-#, fuzzy
 msgctxt "h74155a63g9510g4ec4g89c1g71aa4821d3fa"
 msgid "We entered Lae'zel's mind."
-msgstr "우리는 레이젤과 정신 결합을 경험했다."
+msgstr "우리는 레이젤의 정신에 들어왔다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -6059,12 +6040,11 @@ msgstr "티플링들이 우리를 열도록 기다리자."
 #. ID = StartedAlt
 #. Objective = CHA_LaezelRecruit_Free
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:7499
-#, fuzzy
 msgctxt "h92a3ce43g4c19g4b28g8636g4e6c5231102d"
 msgid ""
 "We found Lae'zel, the githyanki from the nautiloid, trapped in a hanging "
 "cage. She wants us to free her."
-msgstr "우리는 노틸로이드에서 봤던 기스양키, 레이젤이 매달린 우리에 갇힌 걸 발견했다. 꺼내 주길 바라고 있다."
+msgstr "우리는 노틸로이드에서 봤던 기스양키, 레이젤이 매달린 우리에 갇힌 걸 발견했다. 그녀는 꺼내 주길 바라고 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -6175,12 +6155,11 @@ msgstr "바쓰의 항의를 무시하고 로켓을 챙겼다."
 #. ID = FoundLocket_NoAccuse
 #. Objective = DEN_RobbedAdventurer_ReturnLocket
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:7678
-#, fuzzy
 msgctxt "hc257ebf9g69eeg4e2dgac22g3beed1156f1d"
 msgid ""
 "An adventurer called Barth accused a tiefling child of stealing his locket. "
 "Surprisingly, we found the locket on the child - Barth will want it back."
-msgstr "한 모험가가 티플링 아이가 로켓을 훔쳐 갔다고 했다. 놀랍게도, 아이에게 로켓이 있었다. 바쓰가 돌려받고 싶어할 것이다."
+msgstr "바쓰라는 모험가가 티플링 아이가 로켓을 훔쳐 갔다고 했다. 놀랍게도, 아이에게 로켓이 있었다. 바쓰가 돌려받고 싶어할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -6234,12 +6213,11 @@ msgstr "모험가의 로켓이 어떻게 됐는지 알아내지 못했다. 아�
 #. ID = FindLocket_NoKnockOut
 #. Objective = DEN_RobbedAdventurer_GetLocket
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:7741
-#, fuzzy
 msgctxt "hb093b73bgfb40g42e1gac35g68accf1f32c8"
 msgid ""
 "We met an adventurer called Barth who accused a tiefling child of stealing "
 "his locket. We suspected the child but couldn't get the locket back."
-msgstr "티플링 아이가 자신의 로켓을 훔쳤다고 말하는 모험가를 만났다. 아이를 의심했지만 로켓을 찾지는 못했다."
+msgstr "티플링 아이가 자신의 로켓을 훔쳤다고 말하는 바쓰라는 모험가를 만났다. 아이를 의심했지만 로켓을 찾지는 못했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -6269,13 +6247,12 @@ msgstr "바쓰의 로켓"
 #. ID = FindLocket_KnockOut
 #. Objective = DEN_RobbedAdventurer_GetLocket
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:7762
-#, fuzzy
 msgctxt "h1f1a8aacg5337g49e3g8f20g7e0b68996b84"
 msgid ""
 "An adventurer called Barth accused a tiefling child of stealing his locket. "
 "The adventurer was knocked out by a guard, and the child got away with the "
 "locket."
-msgstr "한 모험가가 티플링 아이가 자신의 로켓을 훔쳤다고 했다. 경비가 그를 패서 쫓아 버렸고, 아이는 로켓을 가지고 도망쳤다."
+msgstr "바쓰라는 모험가가 티플링 아이가 자신의 로켓을 훔쳤다고 했다. 경비가 그를 패서 쫓아 버렸고, 아이는 로켓을 가지고 도망쳤다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7016,15 +6993,14 @@ msgstr "조르를 찾자."
 #. ID = RecruitedLaezel_Beach
 #. Objective = ORI_COM_Laezel_HelpFindCreche
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:8673
-#, fuzzy
 msgctxt "h1cb1d58eg354ag4e30g8026g60e677aba55c"
 msgid ""
 "The githyanki warrior Lae'zel has joined our party, and promised we could be "
 "cleansed of our parasites at a Githyanki Crèche. We should be on the lookout "
 "for signs of githyanki presence during our travels."
 msgstr ""
-"레이젤이 일행에 합류했다. 그녀는 우리가 기스양키 양성소로 가면 치료 받을 수 있다고 한다. 기스양키를 목격한 조르라는 티플링이 뭔가 더 "
-"알지도 모른다."
+"기스양키 전사 레이젤이 일행에 합류했으며, 기스양키 양성소에서 우리의 기생충을 정화시킬 수 있다고 약속했다. 우리는 여행하는 동안 "
+"기스양키 주둔에 대한 흔적을 주의깊게 살펴봐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -7032,10 +7008,9 @@ msgstr ""
 #. ObjectiveID = ORI_COM_Laezel_HelpFindCreche
 #. QuestID = ORI_COM_Laezel
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:595
-#, fuzzy
 msgctxt "he0e65b9ag0d85g41d0gb37dgba2e6c7f12b7"
 msgid "Help Lae'zel find a Githyanki Crèche."
-msgstr "조르와 그의 야영지에서 대화하자."
+msgstr "레이젤이 기스양키 양성소를 찾는 것을 도와주자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7043,12 +7018,11 @@ msgstr "조르와 그의 야영지에서 대화하자."
 #. ID = AskedZevlorAboutZorru
 #. Objective = ORI_COM_Laezel_SpeakToZorru
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:8694
-#, fuzzy
 msgctxt "hf65053f1g2839g456dg9911g04bfe45672d7"
 msgid ""
 "The tiefling leader Zevlor told us where to find Zorru. We should take "
 "Lae'zel to him."
-msgstr "제블로어가 드루이드 숲의 어디에 조르가 있는지 알려줬다."
+msgstr "티플링 지도자 제블로어가 조르가 어디 있는지 알려줬다. 레이젤을 조르에게 데려가 보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -7056,10 +7030,9 @@ msgstr "제블로어가 드루이드 숲의 어디에 조르가 있는지 알려
 #. ObjectiveID = ORI_COM_Laezel_SpeakToZorru
 #. QuestID = ORI_COM_Laezel
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:601
-#, fuzzy
 msgctxt "hf41d5faeg00c2g4824ga036g1c5f32f762bc"
 msgid "Talk to Zorru."
-msgstr "조르와 대화하자."
+msgstr "조르에게 말을 걸자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -7078,12 +7051,12 @@ msgstr "조르"
 #. ID = GotNoInfoFromZorru
 #. Objective = ORI_COM_Laezel_ContinueCrecheSearch
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:8715
-#, fuzzy
 msgctxt "h63e7f8d9g9db6g481bga0c3gd361ed5ea2a3"
 msgid ""
 "We spoke to Zorru, but he didn't tell us where he saw the githyanki. We'll "
 "need to find a Githyanki Crèche without his help."
-msgstr "조르가 다른 기스양키들을 목격한 곳을 말해주지 않았다. 양성소를 직접 찾아야 한다."
+msgstr ""
+"우리는 조르와 대화했다. 하지만 그는 어디서 기스양키를 봤는지 말해주지 않았다. 우리는 그의 도움없이 기스양키 양성소를 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -7091,10 +7064,9 @@ msgstr "조르가 다른 기스양키들을 목격한 곳을 말해주지 않았
 #. ObjectiveID = ORI_COM_Laezel_ContinueCrecheSearch
 #. QuestID = ORI_COM_Laezel
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:612
-#, fuzzy
 msgctxt "hb428b4d0g5f29g4dfbg9921gf8be181dcb87"
 msgid "Search the Sword Coast for signs of a Githyanki Crèche."
-msgstr "기스양키 양성소를 찾자."
+msgstr "기스양키 양성소에 대한 흔적을 찾기 위해 소드 코스트를 탐색하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7102,12 +7074,11 @@ msgstr "기스양키 양성소를 찾자."
 #. ID = ZorruLeft
 #. Objective = ORI_COM_Laezel_ContinueCrecheSearch
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:8736
-#, fuzzy
 msgctxt "h2d4298e3g10f0g454cgbcabgb43bb3e14cda"
 msgid ""
 "Zorru has left the Emerald Grove. We'll need to find a Githyanki Crèche "
 "without his help."
-msgstr "조르가 숲을 떠났다. 양성소는 직접 찾아야겠다."
+msgstr "조르가 에메랄드 숲을 떠났다. 우리는 그의 도움 없이 기스양키 양성소를 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7115,10 +7086,9 @@ msgstr "조르가 숲을 떠났다. 양성소는 직접 찾아야겠다."
 #. ID = ZorruDied
 #. Objective = ORI_COM_Laezel_ContinueCrecheSearch
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:8757
-#, fuzzy
 msgctxt "h23e38d3agc9cbg4e6ega48cg715721d56f98"
 msgid "Zorru is gone. We'll need to find a Githyanki Crèche without his help."
-msgstr "조르가 죽었다. 양성소는 직접 찾아야겠다."
+msgstr "조르가 죽었다. 우리는 그의 도움 없이 기스양키 양성소를 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7126,12 +7096,13 @@ msgstr "조르가 죽었다. 양성소는 직접 찾아야겠다."
 #. ID = ZorruMarkedMap
 #. Objective = ORI_COM_Laezel_FindChokepoint
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:8778
-#, fuzzy
 msgctxt "h30d64f3ag7c66g4816g8c43g4f22100a266e"
 msgid ""
 "We spoke to Zorru. He told us he saw githyanki on the road to Baldur's Gate, "
 "near a mountain pass in the northwest. We should travel there with Lae'zel."
-msgstr "조르는 서쪽의 발더스 게이트로 가는 산길 근처에서 기스양키를 봤다고 했다."
+msgstr ""
+"우리는 조르와 대화했다. 그는 발더스 게이트로 가는 길에서 기스양키를 봤다고 한다. 북서쪽 근처의 산길이다. 레이젤과 함께 그곳으로 "
+"여행해 보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -7139,12 +7110,11 @@ msgstr "조르는 서쪽의 발더스 게이트로 가는 산길 근처에서 �
 #. ObjectiveID = ORI_COM_Laezel_FindChokepoint
 #. QuestID = ORI_COM_Laezel
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:657
-#, fuzzy
 msgctxt "he67b0782g445ag47a3g9d5bg5da1aef5f250"
 msgid ""
 "Search for signs of a Githyanki Crèche near the mountain pass in the "
 "northwest."
-msgstr "산길로 가자."
+msgstr "북서쪽 근처 산길에서 기스양키 양성소에 대한 흔적을 찾아보자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -7163,12 +7133,13 @@ msgstr "기스양키 순찰대"
 #. ID = TalkedToDeadTiefling
 #. Objective = ORI_COM_Laezel_FindChokepoint
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:8799
-#, fuzzy
 msgctxt "h289b0c3fg494cg4850ga6c1geae598c6ef2f"
 msgid ""
 "We spoke to a tiefling's corpse. It hinted that we might find more githyanki "
 "near a mountain pass in the northwest. We should travel there with Lae'zel."
-msgstr "죽은 티플링이 서쪽의 산길 근처에 기스양키가 있을 지도 모른다는 단서를 줬다."
+msgstr ""
+"우리는 한 티플링의 시체와 대화했다. 북서쪽 근처 산길에서 더 많은 기스양키들을 찾을 수 있음을 암시했다. 레이젤과 함께 그곳을 여행해 "
+"보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7176,12 +7147,13 @@ msgstr "죽은 티플링이 서쪽의 산길 근처에 기스양키가 있을 �
 #. ID = SawDragonRider_KnowsAboutGithyankiPatrol
 #. Objective = ORI_COM_Laezel_FindChokepoint
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:8820
-#, fuzzy
 msgctxt "h80f1d023g4060g4148ga8cfg97f2b6c3244a"
 msgid ""
 "A red dragon - the sort ridden by githyanki knights - passed us overhead as "
 "we travelled the Risen Road. The githyanki Zorru spoke of could be near."
-msgstr "기스양키 드래곤 기수가 우리 머리 위를 지나 북쪽으로 갔다. 양성소가 가까워진 것 같다."
+msgstr ""
+"우리는 치솟은 길을 여행중이었다. 그 때 기스양키 기사단이 타는 종류의 레드 드래곤 하나가 우리 머리위로 지나갔다. 조르가 말했던 "
+"기스양키가 근처에 있을 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7270,10 +7242,9 @@ msgstr "일레크 양성소로 향하는 길"
 #. ID = FoundZorruLZAbsent
 #. Objective = ORI_COM_Laezel_SpeakToZorru
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:8883
-#, fuzzy
 msgctxt "ha4310692g7ea0g45d7gbe1ag8b3fda73e94c"
 msgid "We found Zorru. We should take Lae'zel to see him."
-msgstr "조르와 이야기했다. 레이젤도 이 자와 대화하고 싶을 것이다."
+msgstr "조르를 찾았다. 레이젤을 데려와 그를 보게 하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7294,10 +7265,9 @@ msgstr ""
 #. ID = CompanionLowRelation
 #. Objective = ORI_COM_Laezel_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:8925
-#, fuzzy
 msgctxt "hcb17100fg14dcg4982gbbc0g66d97e0f77c4"
 msgid "Lae'zel has left the party for good."
-msgstr "레이젤이 일행을 떠났다. 다시는 돌아오지 않을 것이다."
+msgstr "레이젤이 파티를 영원히 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9822,10 +9792,9 @@ msgstr "군주를 도와 마이코니드 군락을 위협한 듀에르가를 제
 #. ObjectiveID = UND_MyconidCircle_KillDuergar
 #. QuestID = UND_MyconidCircle
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:618
-#, fuzzy
 msgctxt "haa5a7ea8gac8dg48e9g8297g61d443f721fb"
 msgid "Kill the duergar by the lake."
-msgstr "듀에르가를 죽이자."
+msgstr "호숫가의 듀에르가를 죽이자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -9907,7 +9876,6 @@ msgstr "군주가 보상을 약속했다. '수호자 관문'을 개방해주었�
 #. ObjectiveID = UND_MyconidCircle_Reward
 #. QuestID = UND_MyconidCircle
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:640
-#, fuzzy
 msgctxt "hd073ea44ge362g4842g86c9ge8e60dd0f892"
 msgid "Reach the Sovereign's refuge."
 msgstr "군주의 피난처에 가자."
@@ -10352,7 +10320,6 @@ msgstr "마음을 바꿔 글럿의 도움을 받기로 했다."
 #. ID = KilledDuergar
 #. Objective = UND_BroodingSovereign_ReportDuergar
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:12806
-#, fuzzy
 msgctxt "h5e55cd53gb456g4b72gbd7bg0e4cd98cee2c"
 msgid "We defeated the duergar. Glut will be pleased."
 msgstr "듀에르가를 물리쳤다. 글럿이 기뻐할 것이다."
@@ -10432,7 +10399,6 @@ msgstr "글럿을 도와 스포를 죽이기로 했다."
 #. ID = KilledCircle
 #. Objective = UND_BroodingSovereign_ReportCircle
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:12911
-#, fuzzy
 msgctxt "h7f24375fgeeb5g4e70g904fg0e520043f378"
 msgid ""
 "Sovereign Spaw is defeated. We should speak to the Glut - the new Sovereign."
@@ -11099,10 +11065,9 @@ msgstr "벤린과 대화하자."
 #. ID = ReachedWife
 #. Objective = PLA_StuckHalfElf_ReachedWife
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:13699
-#, fuzzy
 msgctxt "hfff1b38cg788ag478egb361g625269eb37c7"
 msgid "Benryn was faced with the dead body of his wife. He must be devastated."
-msgstr "벤린이 죽은 아내의 시체를 봤다. 큰 충격을 받았겠지."
+msgstr "벤린이 죽은 아내의 시체와 마주했다. 분명히 큰 충격을 받았을 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -11163,10 +11128,9 @@ msgstr ""
 #. CategoryID = MainQuest
 #. QuestID = GLO_Tadpole
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:13809
-#, fuzzy
 msgctxt "h9c2b3b8eg5635g4a01ga62bga59d14fef0de"
 msgid "Find a Cure"
-msgstr "기생충 제거"
+msgstr "치유법 찾기"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -11175,7 +11139,6 @@ msgstr "기생충 제거"
 #. ID = WokeAtCrash
 #. Objective = GLO_Tadpole_FindSolution
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:13815
-#, fuzzy
 msgctxt "h6158ab98g5364g4167g85d3g4f028955033b"
 msgid ""
 "We've escaped the Hells on the nautiloid and crashed somewhere back in the "
@@ -11200,14 +11163,14 @@ msgstr "마인드 플레이어 기생충을 제거할 방법을 찾자."
 #. ID = LaezelJoined
 #. Objective = GLO_Tadpole_FindSolution
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:13836
-#, fuzzy
 msgctxt "h86be6384ga54ag4de5g8b21gf5529d69d4a5"
 msgid ""
 "There could be several ways to get rid of the parasite. Lae'zel, the "
 "githyanki who helped us escape the nautiloid, thinks finding a Githyanki "
 "Crèche is our best solution."
 msgstr ""
-"기생충을 제거할 방법은 여러 가지일 수도 있다. 노틸로이드에서 탈출하게 도와준 기스양키, 레이젤이 잠재적 해결책 하나를 언급했다."
+"기생충을 제거할 방법은 여러 가지일 수도 있다. 노틸로이드에서 탈출하게 도와준 기스양키, 레이젤은 기스양키 양성소를 찾는 것이 우리에게 "
+"가장 최적의 해결법이라고 생각한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -11216,12 +11179,11 @@ msgstr ""
 #. ID = LearnedGroveSituation
 #. Objective = GLO_Tadpole_FindSolution
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:13857
-#, fuzzy
 msgctxt "h16e7b950ge96dg4141ga02bg45d4219e98a6"
 msgid ""
 "We found people taking refuge in a grove. We should explore it - there might "
 "be a healer inside."
-msgstr "운이 트이나 보다. 사람들이 어떤 숲에 만든 피난처를 발견했다. 안에 치유사가 있을지도 모르니 둘러봐야겠다."
+msgstr "숲 속에 피난한 사람들을 발견했다. 그 곳을 탐험해 보자. 그 안에 치유사가 있을 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -11270,12 +11232,11 @@ msgstr "드루이드 지도자인 할신이 강력한 치유사라고 들었다.
 #. ID = LearnedEthel
 #. Objective = GLO_Tadpole_FindSolution
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:13941
-#, fuzzy
 msgctxt "h41da5820g51b7g495fgaff8gf1d3e7237858"
 msgid ""
 "An old woman told us she could help us with our tadpole problem. We should "
 "follow up on this."
-msgstr "어떤 늙은 여인이 기생충 문제를 도와줄 수 있다고 한다."
+msgstr "어떤 노파가 기생충 문제를 도와줄 수 있다고 한다. 이것에 대해 좀 더 알아보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -11332,10 +11293,9 @@ msgstr "드루이드 할신은 기생충을 문라이즈 타워라는 곳에서 
 #. ID = ApprenticeDiedEarly
 #. Objective = GLO_Tadpole_FindSolution
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:14046
-#, fuzzy
 msgctxt "ha9f62722g6b02g4ff5g867ag460582c953dc"
 msgid "Nettie died before she could cure us of our parasites."
-msgstr "기생충을 제거하기 전에 네티가 죽었다."
+msgstr "기생충으로부터 우리를 치료하기 전에 네티가 죽었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -11658,12 +11618,11 @@ msgstr "양성소에 도착했다. 레이젤의 인도가 없으니 그녀가 �
 #. ID = LearnedCreche
 #. Objective = GLO_Tadpole_SUB_Creche_ReachCreche
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:14516
-#, fuzzy
 msgctxt "hdc03fb59g718eg4564gb32dg2dae7eff5c1f"
 msgid ""
 "We learned where the crèche is located. We should see if we can find answers "
 "there."
-msgstr "양성소의 위치를 알아냈다."
+msgstr "양성소의 위치를 알아냈다. 그곳에서 답을 찾을 수 있을지 알아보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -11693,7 +11652,6 @@ msgstr "조르를 발견했다. 레이젤이 대화하고 싶어할 것이다."
 #. ID = LaezelToldCreche_NoZorru
 #. Objective = GLO_Tadpole_SUB_Creche_FindCrecheEarly
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:14558
-#, fuzzy
 msgctxt "h297d22bfg5169g4415ga2ccg3c4f4b829c79"
 msgid ""
 "Lae'zel says that we can be cured at a Githyanki Crèche and hopes to find "
@@ -11717,7 +11675,6 @@ msgstr "기스양키 양성소를 찾자."
 #. ID = LaezelToldMap
 #. Objective = GLO_Tadpole_SUB_Creche_SearchBodies
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:14579
-#, fuzzy
 msgctxt "h6655814cg6978g4f4dgb0b2g9ba7ebfdc7f1"
 msgid ""
 "Lae'zel told us of a cure we can find at a Githyanki Crèche. She thinks one "
@@ -12139,10 +12096,9 @@ msgstr "고블린 지도자들이 죽었으니 할신과 숲의 사람들은 편
 #. ObjectiveID = GLO_Tadpole_SUB_Druid_Return
 #. QuestID = GLO_Tadpole_SUB_Druid
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1124
-#, fuzzy
 msgctxt "h4b7890f7g812cg4be6ga29eg9f232a5b04e3"
 msgid "Meet Halsin in the Emerald Grove."
-msgstr "할신과 숲에서 만나자."
+msgstr "할신과 에메랄드 숲에서 만나자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -12344,7 +12300,6 @@ msgstr "고블린 여사제, 여사제 거트를 살해했다."
 #. ID = FoundHalsin_Unknown_AoD
 #. Objective = GLO_Tadpole_SUB_Druid_Defend
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:15304
-#, fuzzy
 msgctxt "h2dd35fb3g1fc0g40b0g8e81g5e33df775762"
 msgid ""
 "We saved a druid named Halsin. He can't heal us, but if we help defend the "
@@ -12359,10 +12314,9 @@ msgstr ""
 #. ObjectiveID = GLO_Tadpole_SUB_Druid_Defend
 #. QuestID = GLO_Tadpole_SUB_Druid
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1678
-#, fuzzy
 msgctxt "hf075de8ag53ccg4e58g8c78g62d58377d593"
 msgid "Defend the Emerald Grove from the goblin attack."
-msgstr "고블린 공격으로부터 숲을 지키자."
+msgstr "고블린 공격으로부터 에메랄드 숲을 지키자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -12382,7 +12336,6 @@ msgstr "숲 입구"
 #. ID = FoundHalsin_Known_AoD
 #. Objective = GLO_Tadpole_SUB_Druid_Defend
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:15325
-#, fuzzy
 msgctxt "h5aea8916g32abg44a3g84f5g54d8ff5ba678"
 msgid ""
 "We found the missing druid Halsin. He can't heal us, but if we help defend "
@@ -12505,12 +12458,11 @@ msgstr "모험가들이 할신이 실종되기 전 함께 있었다고 한다. �
 #. ID = LearnedPit
 #. Objective = GLO_Tadpole_SUB_Druid_Find
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:15472
-#, fuzzy
 msgctxt "h9a55995dge0aag48edg92fdg7c6b864c4f30"
 msgid ""
 "We learned that the goblins imprisoned the survivors deep within their camp. "
 "Halsin could be held captive there - if he survived."
-msgstr "고블린들이 생존자들을 야영지 깊숙한 곳에 가둬놨다는 사실을 알아냈다. 할신이 살아남았다면 그곳에 있을지도 모른다."
+msgstr "고블린들이 생존자들을 그들 야영지 깊숙한 곳에 가둬놨다는 사실을 알아냈다. 할신이 살아남았다면 그곳에 갇혀 있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12519,7 +12471,6 @@ msgstr "고블린들이 생존자들을 야영지 깊숙한 곳에 가둬놨다�
 #. ID = HalsinLeft_NoHelp_Unknown
 #. Objective = GLO_Tadpole_SUB_Druid_Meet
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:15493
-#, fuzzy
 msgctxt "hfd205631g8f16g4704g9879g04a4622bf166"
 msgid ""
 "We saved a druid named Halsin. He can't heal us, but we might find answers "
@@ -13721,10 +13672,9 @@ msgstr "고블린들이 숲을 공격하려고 계획 중이다. 그곳으로 �
 #. ObjectiveID = DEN_Conflict_LearnAboutGrove
 #. QuestID = DEN_Conflict
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1950
-#, fuzzy
 msgctxt "h2b70c1a2g84adg4e4bgb8d8g7b83e0eab619"
 msgid "Travel to the Emerald Grove."
-msgstr "숲으로 여행하자."
+msgstr "에메랄드 숲으로 여행하자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -13782,10 +13732,9 @@ msgstr "라스에 따르면 오직 할신만이 카그하를 설득해 의식을
 #. ObjectiveID = DEN_Conflict_HelpGrove
 #. QuestID = DEN_Conflict
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2160
-#, fuzzy
 msgctxt "h0a3ea282g14e3g4e81ga95cg8d0ddb391f62"
 msgid "Help the Emerald Grove."
-msgstr "숲을 돕자."
+msgstr "에메랄드 숲을 돕자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -13853,10 +13802,9 @@ msgstr "우리는 고블린들을 도와 숲을 불태워버리기로 했다. �
 #. ObjectiveID = DEN_Conflict_DestroyGrove
 #. QuestID = DEN_Conflict
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2250
-#, fuzzy
 msgctxt "hfb74b218gecf0g4014g8b38gf9b51e83b4ce"
 msgid "Destroy the Emerald Grove."
-msgstr "숲을 파괴하자."
+msgstr "에메랄드 숲을 파괴하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -13888,12 +13836,11 @@ msgstr "제블로어에게 말을 걸자."
 #. ID = AoD_Started_ParentUpdate
 #. Objective = DEN_Conflict_SecureGrove
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:17196
-#, fuzzy
 msgctxt "h83575c22g8284g4f2eg9b46g0317776c21d7"
 msgid ""
 "The goblins are about to attack the grove. If we want to save the tieflings, "
 "we need to get back to the grove to protect it - and fast."
-msgstr "고블린들이 숲을 향해 출발했다. 그들을 해치우면 티플링들이 안전하게 길을 따라 떠날 수 있을 것이다."
+msgstr "고블린들이 숲을 공격하기 직전이다. 티플링들을 구하기를 원한다면, 숲을 보호하기 위해 귀환할 필요가 있다. 그것도 빠르게."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -13901,11 +13848,9 @@ msgstr "고블린들이 숲을 향해 출발했다. 그들을 해치우면 티�
 #. ObjectiveID = DEN_Conflict_SecureGrove
 #. QuestID = DEN_Conflict
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2228
-#, fuzzy
-#| msgid "Protect the Emerald Grove."
 msgctxt "hd93cc3c4gaca0g4774g8280g6a4a0b43cc11"
 msgid "Report to the tiefling leader."
-msgstr "숲의 안전을 확보하자."
+msgstr "티플링 지도자에게 보고하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -14296,10 +14241,9 @@ msgstr "가시의 의식은 위험한 마법이다. 카그하는 왜 의식에 �
 #. ObjectiveID = DEN_Conflict_SUB_Ritual_Investigate
 #. QuestID = DEN_Conflict_SUB_Ritual
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2379
-#, fuzzy
 msgctxt "h94126db7g3f44g4307gb189gc2de6ab01e8f"
 msgid "Search the Emerald Grove."
-msgstr "숲을 수색하자."
+msgstr "에메랄드 숲을 수색하자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -14308,10 +14252,9 @@ msgstr "숲을 수색하자."
 #. MarkerLevel = WLD_Main_A
 #. MarkerTargetObjectType = Trigger
 #: Mods/GustavDev/Story/Journal/Markers/e7733c5a-49e5-d868-c129-b3f244bfe4da.lsx:8
-#, fuzzy
 msgctxt "hfd8d0089gf07eg40d7ga7beg172e6f879392"
 msgid "Emerald Grove"
-msgstr "드루이드 숲"
+msgstr "에메랄드 숲"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -14343,10 +14286,9 @@ msgstr "드로 라즐란이 죽었으니 고블린들을 이끌 자가 없다. �
 #. ObjectiveID = DEN_Conflict_SUB_Goblin_Return
 #. QuestID = DEN_Conflict_SUB_Goblin
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1553
-#, fuzzy
 msgctxt "h7484dd6eg70b6g4cffga242g7f83a552b395"
 msgid "Speak with Zevlor."
-msgstr "제블로어에게 돌아가자."
+msgstr "제블로어와 대화하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -14750,10 +14692,9 @@ msgstr ""
 #. ParentQuestID = DEN_Conflict
 #. QuestID = DEN_Conflict_SUB_AoD
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:18288
-#, fuzzy
 msgctxt "h37e3aa67gbb80g4081g972dg33b4004328d0"
 msgid "Raid the Emerald Grove"
-msgstr "숲 습격"
+msgstr "에메랄드 숲 습격"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -14830,10 +14771,9 @@ msgstr "티플링들은 모든 준비를 마쳤다. 이제 경적을 부는 일�
 #. ObjectiveID = DEN_Conflict_SUB_AoD_Sound
 #. QuestID = DEN_Conflict_SUB_AoD
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1356
-#, fuzzy
 msgctxt "h718bdec6g5e7cg4e2fgba79gece7f2bd4b7f"
 msgid "Blow the horn."
-msgstr "뿔나팔을 울리자."
+msgstr "뿔나팔을 불자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -14864,10 +14804,9 @@ msgstr "우린 티플링들을 배신하고 민타라와 절대자의 편에 섰
 #. ObjectiveID = DEN_Conflict_SUB_AoD_Slaughter
 #. QuestID = DEN_Conflict_SUB_AoD
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1367
-#, fuzzy
 msgctxt "h1f02bc0eg466cg45dega105g4915d2d97f0c"
 msgid "Slaughter the Emerald Grove."
-msgstr "숲을 학살하자."
+msgstr "에메랄드 숲을 학살하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -15190,10 +15129,9 @@ msgstr "민타라와 그녀의 군대가 숲으로 출발했다. 그들은 우�
 #. ObjectiveID = DEN_Conflict_SUB_AoD_Secure
 #. QuestID = DEN_Conflict_SUB_AoD
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2789
-#, fuzzy
 msgctxt "he7af6f40g2ee5g40c2ga4eagba44739af08a"
 msgid "Secure the Emerald Grove. "
-msgstr "숲의 안전을 확보하자."
+msgstr "에메랄드 숲의 안전을 확보하자. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -15395,10 +15333,9 @@ msgstr "몰이 드루이드들에게서 어떤 우상을 훔쳐달라고 부탁�
 #. ObjectiveID = DEN_IdolTheft_StealIdol
 #. QuestID = DEN_IdolTheft
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1468
-#, fuzzy
 msgctxt "h3a92dc7dg2845g4f4aga1e4ga3cf4ccfcd7c"
 msgid "Steal the druids' sacred idol."
-msgstr "우상을 훔치자."
+msgstr "드루이드의 신성한 우상을 훔치자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -15429,7 +15366,6 @@ msgstr "우리는 신성한 우상을 훔치고 의식을 방해했다. 하지�
 #. ObjectiveID = DEN_IdolTheft_FightDruids
 #. QuestID = DEN_IdolTheft
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1479
-#, fuzzy
 msgctxt "hb98aaadbgffacg47b6g8cb1gdf31a21d3399"
 msgid "Fight the druids."
 msgstr "드루이드들에게 맞서자."
@@ -15660,7 +15596,6 @@ msgstr "우리는 아라벨라를 구해냈고, 그녀는 바로 부모님에게
 #. ObjectiveID = DEN_SnakeCourt_ReturnParent
 #. QuestID = DEN_SnakeCourt
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1530
-#, fuzzy
 msgctxt "h401ba132g0424g460aga911gb343e8f37454"
 msgid "Return to Arabella's parents."
 msgstr "아라벨라의 부모님에게 돌아가자."
@@ -15784,7 +15719,6 @@ msgstr "아라벨라는 카그하의 뱀에 의해 숨지고 말았다. 그녀�
 #. ObjectiveID = DEN_SnakeCourt_MeetParent
 #. QuestID = DEN_SnakeCourt
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1767
-#, fuzzy
 msgctxt "h163179e6ga778g4e1cg9dfdgfdae1b7737fc"
 msgid "Find Arabella's parents."
 msgstr "아라벨라의 부모님을 찾자."
@@ -15829,7 +15763,6 @@ msgstr ""
 #. ParentQuestID = GLO_Tadpole
 #. QuestID = GLO_Tadpole_SUB_Society
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:19614
-#, fuzzy
 msgctxt "h61e2c2ebg0ee4g4fdag8f06g22a420056534"
 msgid "Help Omeluum Investigate the Parasite"
 msgstr "오멜룸의 기생충 조사 돕기"
@@ -15841,7 +15774,6 @@ msgstr "오멜룸의 기생충 조사 돕기"
 #. ID = GotTheRing
 #. Objective = GLO_Tadpole_SUB_Society_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:19620
-#, fuzzy
 msgctxt "h350e3c5bgd3fag48a5gb09eg34f1a4bdfbf4"
 msgid ""
 "We've acquired Omeluum's Ring of Mind-Shielding. It might protect its wearer "
@@ -16025,7 +15957,6 @@ msgstr "오멜룸이 시술을 시작하기 전에, 우리가 찾은 버섯으�
 #. ObjectiveID = GLO_Tadpole_SUB_Society_DrinkPotion
 #. QuestID = GLO_Tadpole_SUB_Society
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1739
-#, fuzzy
 msgctxt "h4c7772a9ge3b6g4cbbg81feg289211762b3a"
 msgid "Drink the potion Omeluum made."
 msgstr "오멜룸이 만들어준 물약을 마시자."
@@ -16037,15 +15968,14 @@ msgstr "오멜룸이 만들어준 물약을 마시자."
 #. ID = ToldAboutRing
 #. Objective = GLO_Tadpole_SUB_Society_BuyRing
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:19830
-#, fuzzy
 msgctxt "h8b0ca348g03f3g4eb5ga0b6g7d1f0f8700f9"
 msgid ""
 "The potion Omeluum gave us only made the parasite stronger - unlocking a "
 "strange, new power. To calm it down, Omeluum is willing to trade us a Ring "
 "of Mind-Shielding."
 msgstr ""
-"오멜룸이 준 물약은 전혀 통하지 않았다. 오히려 기생충이 더욱 강해졌다. 기생충을 안정시키기 위해 오멜룸이 정신 보호의 반지를 "
-"건네주겠다고 한다."
+"오멜룸이 준 물약은 오히려 기생충을 더 강하게 만들었으며, 이상하고 새로운 힘을 해제했다. 기생충을 안정시키기 위해, 오멜룸이 정신 "
+"보호의 반지를 건네주겠다고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -16053,7 +15983,6 @@ msgstr ""
 #. ObjectiveID = GLO_Tadpole_SUB_Society_BuyRing
 #. QuestID = GLO_Tadpole_SUB_Society
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1750
-#, fuzzy
 msgctxt "h6647c194g6b2bg4256g995fga19e1f618e4c"
 msgid "Get the Ring of Mind-Shielding from Omeluum."
 msgstr "오멜룸에게서 정신 보호의 반지를 건네받자."
@@ -16111,7 +16040,6 @@ msgstr "마인드 플레이어에게 납치당한 것도 모자라 알 수 없�
 #. ObjectiveID = TUT_NautiloidEscape_Start
 #. QuestID = TUT_NautiloidEscape
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1862
-#, fuzzy
 msgctxt "h90801f71gde8fg44c9g976cg85e5b77adba1"
 msgid "Find a way off the nautiloid."
 msgstr "노틸로이드에서 탈출할 방법을 찾자."
@@ -16190,7 +16118,6 @@ msgstr "마인드 플레이어의 하수인 중 하나인 지성 포식자를 �
 #. ID = ReachedHelm
 #. Objective = TUT_NautiloidEscape_ReachedHelm
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:19988
-#, fuzzy
 msgctxt "h76b79961ge166g447bgbb99g629e740d3d0d"
 msgid ""
 "The mind flayer told us we need to connect the nerves of the transponder to "
@@ -16224,7 +16151,6 @@ msgstr "중계기"
 #. ID = EscapedHell
 #. Objective = TUT_NautiloidEscape_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:20009
-#, fuzzy
 msgctxt "h7ab9eb03g144bg43f4ga28dg33e38f680f6e"
 msgid "We escaped the Hells on the nautiloid."
 msgstr "노틸로이드에 탄 채로 지옥에서 탈출했다."
@@ -17394,10 +17320,9 @@ msgstr "우리가 구출한 여성에게서는 아무것도 알아낼 수 없었
 #. ObjectiveID = PLA_GrandDukeRescue_SearchGrandDuke
 #. QuestID = PLA_GrandDukeRescue
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2012
-#, fuzzy
 msgctxt "hf524295bg067eg4de4gba68g13501cb4b57b"
 msgid "Search for Grand Duke Ravengard."
-msgstr "대공을 찾자."
+msgstr "레이븐가드 대공을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17553,7 +17478,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11426
 msgctxt "hc97b64d0g1ca6g44dbga4bcg620e7bfc7bcc"
 msgid "Search for Grand Duke Ravengard."
-msgstr "대공을 찾자."
+msgstr "레이븐가드 대공을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17623,7 +17548,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10846
 msgctxt "h74d566b2g212fg4983ga8d1g661e908ae07c"
 msgid "Search for Grand Duke Ravengard."
-msgstr "대공을 찾자."
+msgstr "레이븐가드 대공을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17762,7 +17687,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10812
 msgctxt "had396886g1ea6g4063ga8d0g874037d1fd8e"
 msgid "Search for Grand Duke Ravengard."
-msgstr "대공을 찾자."
+msgstr "레이븐가드 대공을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17989,10 +17914,9 @@ msgstr "아스타리온을 찾는 괴물 사냥꾼을 만났다. 그에게서 �
 #. ID = MetGur_LearnedEmployer
 #. Objective = ORI_COM_Astarion_Travel
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:21971
-#, fuzzy
 msgctxt "hdec1bb8bg45eeg4442ga96cgcb6969c68cf2"
 msgid "We learned that the monster hunter was serving someone named Ulma."
-msgstr "우리는 괴물 사냥꾼이 메이든 펠이라는 사람을 섬기고 있다는 사실을 알아냈다."
+msgstr "우리는 괴물 사냥꾼이 울마라는 사람을 섬기고 있다는 사실을 알아냈다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18856,7 +18780,6 @@ msgstr "다크 저스티시어 몇명의 시체를 발견했다. 이곳에서 �
 #. ID = FoundJusiticiar_KnowShar
 #. Objective = ORI_COM_Shadowheart_Sub_Justiciar_ExploreGrymforge
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:23158
-#, fuzzy
 msgctxt "h620cd172gbdd3g4aa7g8903g4b89aaa15575"
 msgid ""
 "We found the corpses of several Dark Justiciars - Shar must have been "
@@ -18919,7 +18842,6 @@ msgstr "고대 사원으로 향하는 다리가 파괴되었지만 분명 다른
 #. ID = WalkedSharTemplePathBlocked
 #. Objective = ORI_COM_Shadowheart_Sub_Justiciar_ReachTemple
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:23246
-#, fuzzy
 msgctxt "h48757c33ga780g48efgbc30g67c20bc2d8af"
 msgid ""
 "The cultists were trying to find an ancient temple, but the bridge has been "
@@ -19638,12 +19560,11 @@ msgstr "할신이 탐험 실패의 혼돈 속에서 곰으로 변신했다는 �
 #. ID = LearnedPit
 #. Objective = DEN_Conflict_SUB_Halsin_Find
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:24140
-#, fuzzy
 msgctxt "hcd286cdcg5919g4aadg958cgc9dd06a44715"
 msgid ""
 "We learned that the goblins imprisoned the survivors deep within their camp. "
 "Halsin could be held captive there - if he survived."
-msgstr "고블린들이 생존자들을 야영지 깊숙한 곳에 가둬놨다는 사실을 알아냈다. 할신이 살아남았다면 그곳에 있을지도 모른다."
+msgstr "고블린들이 생존자들을 그들 야영지 깊숙한 곳에 가둬놨다는 사실을 알아냈다. 할신이 살아남았다면 그곳에 갇혀 있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -19678,10 +19599,9 @@ msgstr ""
 #. ObjectiveID = DEN_Conflict_SUB_Halsin_Defeat
 #. QuestID = DEN_Conflict_SUB_Halsin
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:2104
-#, fuzzy
 msgctxt "h776d3b45gc1c0g47d0gaa27g09213a7f8300"
 msgid "Defeat the goblin leaders."
-msgstr "고블린 지도자들을 죽이자."
+msgstr "고블린 지도자들을 물리치자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -20115,7 +20035,6 @@ msgstr "툴라"
 #. ID = FoundNoblestalk
 #. Objective = UND_DuergarPoison_Cure
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26200
-#, fuzzy
 msgctxt "h3930e7deg8abag42c7gb649g3867ce0c2b57"
 msgid ""
 "We found an extremely rare noblestalk mushroom, famous for its healing "
@@ -20394,7 +20313,6 @@ msgstr "니어의 머리를 가져온 대가로 군주 스포가 보상해주었
 #. ID = MyconidsDead
 #. Objective = UND_MyconidRevenge_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26552
-#, fuzzy
 msgctxt "h4a720bafgee29g4c23gbeceg18f6f2bf76ff"
 msgid "There are no Myconid Sovereigns left to reward us for Nere's head."
 msgstr "니어의 머리를 가져온 보상을 치뤄줄 마이코니드 군주가 없다."
@@ -20478,7 +20396,6 @@ msgstr "아다만틴 대장간"
 #. ID = LearnedForgeDrow
 #. Objective = UND_AdamantineForge_LearnAdamantineForge
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26694
-#, fuzzy
 msgctxt "hbe0eafe4gaefbg4374g9886gd40338168c83"
 msgid ""
 "We learned that an Adamantine Forge is hidden deep within the Underdark."
@@ -20501,7 +20418,6 @@ msgstr "아다만틴 대장간에 대해 더 알아보자."
 #. ID = LearnedRivalry
 #. Objective = UND_AdamantineForge_LearnAdamantineForge
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26715
-#, fuzzy
 msgctxt "h1a389dd1gff5dg4d87ga228gcf7acc08b4d4"
 msgid ""
 "A group of drow wizards were looking for the Adamantine Forge, but they "
@@ -20528,7 +20444,6 @@ msgstr "대장간은 수호병에 의해 지켜지고 있는데, 그것은 마�
 #. ID = LearnedDuergarFirst
 #. Objective = UND_AdamantineForge_FindForge
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26757
-#, fuzzy
 msgctxt "haa11192cg9c35g4f79g9addgfc98d4ad078f"
 msgid ""
 "The duergar are looking for an Adamantine Forge hidden in Grymforge. We "
@@ -20552,7 +20467,6 @@ msgstr "아다만틴 대장간을 찾자."
 #. ID = EnteredForge
 #. Objective = UND_AdamantineForge_Activate
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26778
-#, fuzzy
 msgctxt "h7e7e92b4g1dbeg4cebgafc9g26c91904623d"
 msgid ""
 "We found the Adamantine Forge. Now we need to figure out how to activate it."
@@ -20618,7 +20532,6 @@ msgstr "대장간 수호병"
 #. ID = ItemPickedUp
 #. Objective = UND_AdamantineForge_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26820
-#, fuzzy
 msgctxt "h7f7e2e85gd918g4e83ga617g8cb6f42b3435"
 msgid ""
 "We used the Adamantine Forge to craft something of legend. If we find more "
@@ -20632,7 +20545,6 @@ msgstr "우리는 아다만틴 대장간을 이용해 뭔가 전설적인 것을
 #. ID = FoundMap
 #. Objective = UND_AdamantineForge_ReachForge
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26841
-#, fuzzy
 msgctxt "hf12e6eefg5634g4f94g94b7g0fd6bfc7984f"
 msgid ""
 "We found a memory shard that revealed the location of the Adamantine Forge."
@@ -20668,7 +20580,6 @@ msgstr "대장간을 이용하려면, 주형과 미스랄 광석을 각각의 �
 #. ID = LeftAct
 #. Objective = UND_AdamantineForge_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26883
-#, fuzzy
 msgctxt "h1cf6fc86ge452g4125g9f7cgb64f0aff9240"
 msgid "We left without unravelling the mysteries of the Adamantine Forge. "
 msgstr "아다만틴 대장간의 수수께끼를 파해치지 않고 지역을 떠났다. "
@@ -20680,7 +20591,6 @@ msgstr "아다만틴 대장간의 수수께끼를 파해치지 않고 지역을 
 #. ID = LearnedDuergarQuest
 #. Objective = UND_AdamantineForge_FindForge
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26904
-#, fuzzy
 msgctxt "heff9fa48g7b71g44b4g9aefgb21982ea0426"
 msgid "A duergar mentioned the Adamantine Forge was nearby."
 msgstr "듀에르가가 아다만틴 대장간이 근처에 있다고 했다."
@@ -20725,7 +20635,6 @@ msgstr "재련된 아이템"
 #. ID = LostItem
 #. Objective = UND_AdamantineForge_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26946
-#, fuzzy
 msgctxt "h5d62e485ge354g4a7ega18ag0bc995b6afa0"
 msgid ""
 "We lost what we crafted in the Adamantine Forge. If we find more ore, we can "
@@ -22435,7 +22344,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:7281
 msgctxt "hd09458f8gadaeg43c4g810eg873a8fd11d08"
 msgid "Journey to Baldur's Gate."
-msgstr ""
+msgstr "발더스 게이트로 여행하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -24617,7 +24526,7 @@ msgctxt "h6ebc34b6gf76fg4585gb65eg5914fa5d6b8f"
 msgid ""
 "The inquisitor demanded that we hand over the artefact, but we refused. Our "
 "only option now is to defeat him and his guards."
-msgstr ""
+msgstr "심문관은 아티팩트를 요구했지만, 우리는 거절했다. 이제 우리가 할 수 있는 일은 그와 경비병들을 물리치는 것뿐이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -35061,7 +34970,7 @@ msgctxt "h767184d6g999fg4517g8b2eg95cc3890c030"
 msgid ""
 "We chose to spare Redhammer from the gathered Waveservants - but they won't "
 "let him free without a fight. "
-msgstr ""
+msgstr "우리는 레드해머를 파도종복들로부터 지켜주기로 했다. 하지만 종복들은 싸움 없이 그를 보내주지 않을 것이다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -35071,7 +34980,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10197
 msgctxt "h9139a5f9g793cg4f9bgaa95g7c81fd43a609"
 msgid "Defeat the Waveservants. "
-msgstr ""
+msgstr "파도 종복들을 물리치자. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -41564,7 +41473,7 @@ msgstr "기생충의 기억을 거둬들이자."
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:53302
 msgctxt "h6a141330g9bfbg434dg87bdga34ca2bda96e"
 msgid "Kill Raphael's Old Enemy"
-msgstr ""
+msgstr "라파엘의 오랜 숙적 처치"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -41574,7 +41483,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:53308
 msgctxt "h9e5b1799g060ag4905g8020ga715001b718b"
 msgid "We slew the orthon."
-msgstr ""
+msgstr "오르쏜을 처치했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -41630,7 +41539,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5747
 msgctxt "h6bd05968g9ee2g4d8eg8693gd905d1f96940"
 msgid "Deal with Raphael's Old Enemy"
-msgstr ""
+msgstr "라파엘의 오랜 숙적을 만나 담판 짓기"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -41652,7 +41561,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:53434
 msgctxt "hdfdfe37dg7b5fg479bgb848g7d7881c0e908"
 msgid "We encountered Raphael's old enemy - an orthon named Yurgir."
-msgstr ""
+msgstr "라파엘의 오랜 숙적과 마주쳤다. 유르기르라는 이름의 오르쏜이었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -41697,7 +41606,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5713
 msgctxt "h03efbba0g5165g4577g804fg25124d477561"
 msgid "Investigate the Gauntlet of Shar for clues."
-msgstr ""
+msgstr "샤의 건틀릿을 조사해 단서를 찾아보자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -41764,7 +41673,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5730
 msgctxt "h87535a23g3194g42bbg94f7g22a73eeb3468"
 msgid "Return to Yurgir."
-msgstr ""
+msgstr "유르기르에게 돌아가자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -41775,7 +41684,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/fd6b8a13-9f26-4c97-ba83-9cfb73f6fcd3.lsx:8
 msgctxt "h6924abffge64cg4b0bg8966g30aecf6b0460"
 msgid "Yurgir"
-msgstr ""
+msgstr "유르기르"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -41783,11 +41692,12 @@ msgstr ""
 #. ID = LiftedContract
 #. Objective = SHA_OldEnemy_SUB_BreakContract_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:53574
+#, fuzzy
 msgctxt "h892b5da7g5485g4157g8248g08cf013d1793"
 msgid ""
 "We helped the orthon break free from his contract - but it seems that "
 "Raphael had already planned for the outcome."
-msgstr ""
+msgstr "오르쏜을 도와 계약에서 해방되도록 도와주었다. 하지만 라파엘도 이 경우를 미리 알고 대비해둔 모양이었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -41807,7 +41717,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:53616
 msgctxt "hb75bef56g9f85g4be1gb864ga9b2b984627f"
 msgid "We killed the orthon without resolving his contract."
-msgstr ""
+msgstr "오르쏜의 계약을 해결해주지 않고 처치했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -51266,7 +51176,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8617
 msgctxt "h92827e33gb1e0g43a6gbf5fg0227fcefc170"
 msgid "Search the Sword Coast for signs of a Githyanki Crèche."
-msgstr ""
+msgstr "기스양키 양성소에 대한 흔적을 찾기 위해 소드 코스트를 탐색하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -51310,7 +51220,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8623
 msgctxt "h0dc82dedg9dfag4dbdg9ce2g7684b4c5c832"
 msgid "Talk to Zorru."
-msgstr ""
+msgstr "조르에게 말을 걸자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -51330,7 +51240,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8605
 msgctxt "h5e5832fagd06eg4d47gbe8dg5553d5f2de39"
 msgid "Search the Sword Coast for signs of a Githyanki Crèche."
-msgstr ""
+msgstr "기스양키 양성소에 대한 흔적을 찾기 위해 소드 코스트를 탐색하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -51402,7 +51312,7 @@ msgctxt "h0d721f71g89ecg4d31ga6e4g5bea4100fe77"
 msgid ""
 "Search for signs of a Githyanki Crèche near the mountain pass in the "
 "northwest."
-msgstr ""
+msgstr "북서쪽 근처 산길에서 기스양키 양성소에 대한 흔적을 찾아보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -55430,7 +55340,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10116
 msgctxt "hd4e1342bgf5f8g48bdgb8f1g6a6957b6414e"
 msgid "Search for Grand Duke Ravengard."
-msgstr "대공을 찾자."
+msgstr "레이븐가드 대공을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -56798,7 +56708,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10708
 msgctxt "h02fe8898g9771g4753g8f0dge9b6ad57dd1e"
 msgid "Search for Grand Duke Ravengard."
-msgstr "대공을 찾자."
+msgstr "레이븐가드 대공을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
