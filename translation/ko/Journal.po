@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-30 08:37+0000\n"
-"Last-Translator: chups <bridgestone747@gmail.com>\n"
+"PO-Revision-Date: 2023-10-31 17:37+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6890,7 +6890,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11140
 msgctxt "hfc69d107g78b3g4bf2gbe00g0a22081d709f"
 msgid "Master The Necromancy of Thay."
-msgstr ""
+msgstr "테이의 강령술을 터득하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -6914,7 +6914,7 @@ msgctxt "h216cd27fg32e5g4247ga361gdc912a6150ce"
 msgid ""
 "We deciphered the final page of 'The Necromancy of Thay'. The power to "
 "summon powerful Thayan undead is ours."
-msgstr ""
+msgstr "'테이의 강령술'의 마지막 장을 해독함으로써, 강력한 테이의 언데드를 소환할 수 있는 힘을 얻게 되었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7306,6 +7306,8 @@ msgid ""
 "to Baldur's Gate, near a mountain pass in the northwest. We should travel "
 "there with Lae'zel."
 msgstr ""
+"우리는 조르라는 이름의 티플링과 대화했다. 그는 발더스 게이트로 가는 길에서 기스양키를 봤다고 한다. 북서쪽 근처의 산길이다. 레이젤과 "
+"함께 그곳으로 여행해 보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7729,7 +7731,7 @@ msgctxt "he131d303g32dcg4916g8cc1g20f5a54e0949"
 msgid ""
 "Ghustil Stornugoss is waiting at her desk. We should tell her about the "
 "parasite in our heads."
-msgstr ""
+msgstr "거스틸 스토르누고스가 그녀의 자리에서 기다리고 있다. 우리 머릿속에 들어있는 기생충에 대해 말해보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7898,6 +7900,7 @@ msgid ""
 "Queen Vlaakith appeared as a projection in the Inquisitor's chamber. She "
 "wants us to enter the artefact and slay a prisoner held inside it."
 msgstr ""
+"심문관의 집무실에서 블라키스 여왕이 투영체로 나타났다. 여왕은 우리가 아티팩트로 들어가서 안에 있는 갇힌 자를 처치하길 원하고 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -7934,6 +7937,8 @@ msgid ""
 "wants us to enter the artefact and slay a prisoner held inside it; Lae'zel "
 "has urged us to do as the queen has bidden."
 msgstr ""
+"심문관의 집무실에서 블라키스 여왕이 투영체로 나타나, 우리가 아티펙트 안으로 들어가서 갇힌 자를 처치하길 원했다. 레이젤은 여왕의 명령을 "
+"따라야 한다고 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -7947,6 +7952,8 @@ msgid ""
 "wants us to enter the artefact and slay a prisoner held inside it. Lae'zel "
 "didn't witness this, but she surely would have wanted us to obey."
 msgstr ""
+"심문관의 집무실에서 블라키스 여왕이 투영체로 나타나, 우리가 아티펙트 안으로 들어가서 갇힌 자를 처치하길 원했다. 레이젤은 그 자리에 "
+"없었지만, 분명 여왕의 명령대로 하길 바랐을 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8047,7 +8054,7 @@ msgctxt "ha89979d8g669cg4a52ga681gdf988c1e37a4"
 msgid ""
 "We failed to fulfil Vlaakith's orders, and provoked the Githyanki Crèche. "
 "Lae'zel should know what happened."
-msgstr ""
+msgstr "우리는 블라키스의 명령을 이행하지 못했고, 기스양키 양성소를 자극했다. 레이젤은 무슨 일이 벌어졌었는지 알아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8059,7 +8066,7 @@ msgctxt "h5bd9ef9eg8bdfg41cfgb25cg6bb6638c630a"
 msgid ""
 "We left the Inquisitor's chamber without entering the artefact. We should "
 "talk to Lae'zel about it."
-msgstr ""
+msgstr "아티팩트에 들어가지 않고 심문관의 방을 떠났다. 이것에 대해 레이젤과 대화를 나눠보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8072,6 +8079,7 @@ msgid ""
 "We spoke to Lae'zel about all that happened with Vlaakith. In spite of the "
 "crèche's hostility, perhaps we still might be cured here."
 msgstr ""
+"블라키스와 일어났던 모든 일에 대해 레이젤과 이야기를 나눴다. 양성소의 적대감에도 불구하고, 우리는 여기서 치유될 수 있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8081,7 +8089,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8037
 msgctxt "h3b3e4e6fga3d2g44f5g9722g13c78a97ebae"
 msgid "Search the Githyanki Crèche for the purification device."
-msgstr ""
+msgstr "기스양키 양성소에서 정화 장치를 찾아보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8095,6 +8103,7 @@ msgid ""
 "with any hope of a cure there. We should talk to Lae'zel about our next "
 "steps."
 msgstr ""
+"우리는 고대의 장치를 작동시켜 기스양키 양성소를 파괴했고, 그곳에서 치료받을 가능성도 사라졌다. 레이젤과 다음 단계에 대해 이야기해야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8104,7 +8113,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8054
 msgctxt "h3c291225g69bag4b4fgbabfg9fbe3f52e9d6"
 msgid "Talk to Lae'zel."
-msgstr ""
+msgstr "레이젤과 이야기하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8118,6 +8127,8 @@ msgid ""
 "with any lingering hope of a cure there. We should talk to Lae'zel about our "
 "next steps."
 msgstr ""
+"우리는 고대의 장치를 작동시켜 기스양키 양성소를 파괴했고, 그곳에서 치료받을 일말의 가능성도 사라졌다. 레이젤과 다음 단계에 대해 "
+"이야기해야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8131,6 +8142,8 @@ msgid ""
 "with any chance of speaking to the Inquisitor. We should talk to Lae'zel "
 "about our next steps."
 msgstr ""
+"우리는 고대의 장치를 작동시켰고, 기스양키 양성소를 파괴함으로써 심문관과 얘기할 어떤 기회도 사라졌다. 레이젤과 다음 단계에 대해 "
+"이야기해야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8196,7 +8209,7 @@ msgstr "이제 기스양키 양성소로 갈 수 없게 되었다. 앞으로 어
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8072
 msgctxt "h4c9b3fa5g124bg4439ga9a3g96fd8d98aa5a"
 msgid "Talk to Lae'zel about her business at the Githyanki Crèche."
-msgstr ""
+msgstr "레이젤에게 기스양키 양성소에서 어떤 할 일이 있는지 물어보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8210,6 +8223,8 @@ msgid ""
 "Moonrise Towers. There, we might discover more about the illithid parasites "
 "in our brain."
 msgstr ""
+"레이젤은 문라이즈 타워에서 절대자에게 타격을 가하는 데 집중해야 한다고 믿는다. 그곳에서 우리 뇌에 있는 일리시드 기생충에 대해 더 많은 "
+"것을 알게 될 수도 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8219,7 +8234,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8078
 msgctxt "h289b4aa8g8a28g4705g930fg1f34eae37716"
 msgid "Deal with the Absolute threat at Moonrise Towers."
-msgstr ""
+msgstr "문라이즈 타워에서 절대자의 위협을 처리하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8245,7 +8260,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8084
 msgctxt "h34e97ab8g462cg4d64gbe5bg52b01a57878b"
 msgid "Help Lae'zel regain Vlaakith's favour."
-msgstr ""
+msgstr "레이젤이 블라키스의 신임을 되찾을 수 있도록 도와주자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8260,6 +8275,9 @@ msgid ""
 "agreed to meet him in Baldur's Gate, where he knows of someone who can break "
 "the artefact's resident free."
 msgstr ""
+"키스락 보스가 야영지에 나타났다. 그가 주장하기를, 아티팩트 안에 있는 존재가 블라키스의 폭정으로부터 기스양키 동족들을 해방시켜 줄 "
+"열쇠라고 했다. 우리는 발더스 게이트에서 그를 만나기로 했고, 거기서 그는 아티팩트의 거주자를 자유롭게 할 수 있는 자가 있다고 들었다고 "
+"한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8283,6 +8301,8 @@ msgid ""
 "in Baldur's Gate, at an establishment called Sharess' Caress. We should pay "
 "this mysterious contact a visit."
 msgstr ""
+"키스락 보스가 가지고 다니던 편지를 찾았다. 발더스 게이트에 있는 샤레스의 애무라는 장소에서 만나자는 내용이었다. 이 수수께끼의 접선자를 "
+"방문해 보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8297,6 +8317,8 @@ msgid ""
 "threat of the illithid Grand Design and fulfil Lae'zel's duty as a githyanki "
 "warrior."
 msgstr ""
+"우리는 케서릭 쏨을 물리쳤지만, 절대자는 여전히 위협요소로 남았다. 우리는 발더스 게이트로 가서 엘더 브레인을 제거해야 한다. 이를 통해 "
+"일리시드의 원대한 설계의 위협을 종식시키고, 기스양키 전사로서의 레이젤의 의무를 다할 수도 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8308,7 +8330,7 @@ msgctxt "h5453aac7g1a59g4cc6ga1degfa243ab7f3e0"
 msgid ""
 "We discovered that an ancient githyanki prince called Orpheus was being held "
 "prisoner inside the artefact. We should talk to Lae'zel about him. "
-msgstr ""
+msgstr "오르페우스라는 고대 기스양키 왕자가 아티팩트 안에 갇혀있다는 걸 알아냈다. 그에 대해 레이젤과 대화해야겠다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8318,7 +8340,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8096
 msgctxt "he03d6a82g8a2cg4652gbbd8gc6f62abc29fc"
 msgid "Talk to Lae'zel about Orpheus."
-msgstr ""
+msgstr "오르페우스에 대해 레이젤과 대화하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8334,6 +8356,9 @@ msgid ""
 "forward for the githyanki; we should free him at the first possible "
 "opportunity."
 msgstr ""
+"야영지에 나타난 블라키스는 레이젤에게 제안을 했다. 오르페우스를 죽이면, 블라키스가 레이젤을 아스트랄 차원으로 승천시키고, 그녀의 "
+"선택받은 자로서 추대할 것이라고. 레이젤은 거부했고, 그로인해 블라키스의 분노를 샀다. 레이젤은 기스양키가 나아갈 길은 오르페우스라고 "
+"믿었다. 기회가 닿는 한 빨리 오르페우스를 해방시켜야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8343,7 +8368,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8102
 msgctxt "h1e9aa59fg6123g4910gbf70g2db87af74713"
 msgid "Find a way to free Orpheus from his domed prison."
-msgstr ""
+msgstr "오르페우스를 둥근 지붕의 감옥에서 풀어주는 방법을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8358,6 +8383,8 @@ msgid ""
 "Lae'zel agreed. We should free and kill Orpheus at the first possible "
 "opportunity."
 msgstr ""
+"블라키스가 야영지에 나타나 레이젤에게 제안을 했다. 오르페우스를 죽이면, 레이젤을 아스트랄 차원으로 승천시키고 그녀를 자신의 선택받은 "
+"자로 추대할 것이라고. 레이젤은 동의했다. 기회가 닿는 한 빨리 오르페우스를 해방시켜 죽여야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8370,6 +8397,7 @@ msgid ""
 "Lae'zel insisted we find a way to free Orpheus from his prison. Only then "
 "will she be able to kill the prince and regain Vlaakith's favour."
 msgstr ""
+"레이젤은 오르페우스를 감옥에서 풀어줄 방법을 찾아야 한다고 주장했다. 그래야만 왕자를 죽이고 블라키스의 호의를 되찾을 수 있을 테니까."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8383,6 +8411,8 @@ msgid ""
 "Baldur's Gate. They might know how to release Orpheus from his prison so he "
 "can be killed."
 msgstr ""
+"레이젤은 발더스 게이트의 샤레스의 애무에서 보스의 수수께끼의 접선자를 찾고 싶어 한다. 그가 오르페우스를 감옥에서 해방시키는 방법을 알고 "
+"있을지도 모른다. 그래야 그를 죽일 수 있으니까."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8392,7 +8422,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8108
 msgctxt "h0d22a7ebg6ff1g49dfga61ega9ee7681647a"
 msgid "Find Voss' contact at Sharess' Caress."
-msgstr ""
+msgstr "샤레스의 애무에서 보스의 연락책을 찾아라."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -8419,6 +8449,9 @@ msgid ""
 "forward for the githyanki; we should meet Voss' contact and find out how to "
 "free the prince."
 msgstr ""
+"야영지에 나타난 블라키스는 레이젤에게 제안을 했다. 오르페우스를 죽이면, 블라키스는 레이젤을 아스트랄 차원으로 승천시키고 그녀를 자신의 "
+"선택받은 자로 추대할 것이라고. 레이젤은 거부했고, 그로인해 블라키스의 분노를 샀다. 레이젤은 기스양키의 미래는 오르페우스라고 믿었다. "
+"보스의 접선자를 만나서 어떻게 왕자를 해방할 것인지 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8433,6 +8466,8 @@ msgid ""
 "Lae'zel agreed. We should meet Voss' contact and find out how to free "
 "Orpheus - and kill him."
 msgstr ""
+"블라키스가 야영지에 나타나 레이젤에게 제안을 했다. 오르페우스를 죽이면, 블라키스는 레이젤을 아스트랄 차원으로 승천시키고, 그녀의 "
+"선택받은 자로서 추대할 것이라고. 레이젤은 동의했다. 보스의 접선자를 만나서 오르페우스를 풀어주는 방법을 찾아서, 그를 죽여야만 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8470,6 +8505,9 @@ msgid ""
 "forward for the githyanki; we should meet Kith'rak Voss and find out how to "
 "free the prince."
 msgstr ""
+"야영지에 나타난 블라키스는 레이젤에게 제안을 했다. 오르페우스를 죽이면, 블라키스는 레이젤을 아스트랄 차원으로 승천시키고 그녀를 자신의 "
+"선택받은 자로 추대할 것이라고. 레이젤은 거부했고, 그로인해 블라키스의 분노를 샀다. 레이젤은 오르페우스가 기스양키의 나아갈 길이라 "
+"믿었다. 우리는 키스락 보스를 만나서 왕자를 해방시킬 방법을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8484,6 +8522,8 @@ msgid ""
 "Lae'zel agreed. We should meet Kith'rak Voss and find out how to free "
 "Orpheus - and kill him."
 msgstr ""
+"블라키스가 야영지에 나타나 레이젤에게 제안을 했다. 오르페우스를 죽이면, 블라키스는 레이젤을 아스트랄 차원으로 승천시키고 그녀를 자신의 "
+"선택받은 자로 추대할 것이라고. 레이젤은 동의했다. 우리는 보스를 만나서 오르페우스를 해방시킬 방법을 찾아서, 그를 죽여야만 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8521,6 +8561,9 @@ msgid ""
 "forward for the githyanki; we should meet Raphael and find out how to free "
 "the prince."
 msgstr ""
+"블라키스가 야영지에 나타나 레이젤에게 제안을 했다. 오르페우스를 죽이면, 블라키스는 레이젤을 아스트랄 차원으로 승천시키고 그녀를 자신의 "
+"선택받은 자로 추대할 것이라고. 레이젤은 거부했고, 블라키스의 분노를 샀다. 레이젤은 기스양키의 미래는 오르페우스에게 달려있다고 믿었다. "
+"라파엘을 만나서 왕자를 해방시킬 방법을 찾아야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -11464,7 +11507,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11078
 msgctxt "h1653eeffg3cedg416aga360gb663cac09e81"
 msgid "Find the source of the parasite."
-msgstr ""
+msgstr "기생충의 근원을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -11477,7 +11520,7 @@ msgid ""
 "It is clear that the parasites are coming from Moonrise Towers. Infiltrating "
 "the Towers and finding the source of this evil may be our only chance of "
 "finding a cure."
-msgstr ""
+msgstr "기생충들이 문라이즈 타워에서 왔다는 게 확실해졌다. 치료 방법을 찾으려면 탑에 잠입해 악의 근원을 파헤치는 수밖엔 없다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -15975,7 +16018,7 @@ msgid ""
 "of Mind-Shielding."
 msgstr ""
 "오멜룸이 준 물약은 오히려 기생충을 더 강하게 만들었으며, 이상하고 새로운 힘을 해제했다. 기생충을 안정시키기 위해, 오멜룸이 정신 "
-"보호의 반지를 건네주겠다고 한다."
+"보호의 반지를 거래해 주겠다고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -15985,7 +16028,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:1750
 msgctxt "h6647c194g6b2bg4256g995fga19e1f618e4c"
 msgid "Get the Ring of Mind-Shielding from Omeluum."
-msgstr "오멜룸에게서 정신 보호의 반지를 건네받자."
+msgstr "오멜룸에게서 정신 보호의 반지를 얻어 내자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -20647,11 +20690,9 @@ msgstr "아다만틴 대장간에서 주조한 것을 잃어버렸다. 광석을
 #. CategoryID = BaldursGate
 #. QuestID = UND_MonkAmulet
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:26975
-#, fuzzy
-#| msgid "Help the Cursed Monk"
 msgctxt "hc0a96286ged74g4428ga72cgcbfde2a5195d"
 msgid "Help the Spirit of the Amulet"
-msgstr "저주받은 몽크 돕기"
+msgstr "아뮬렛의 영혼 돕기"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -20695,13 +20736,14 @@ msgstr ""
 #. ID = ToldAboutShirra
 #. Objective = UND_MonkAmulet_TravelToBG
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:27002
-#, fuzzy
 msgctxt "h834e31aagb854g4221gbc08gd531305fc9bc"
 msgid ""
 "We found the amulet. It's been possessed by a spirit. The spirit wishes to "
 "be returned to his granddaughter. She lives at the Open Hand Temple in "
 "Wyrm's Crossing."
-msgstr "우리는 영혼이 깃든 저주받은 목걸이를 발견했다. 자신을 발더스 게이트에 있는 그의 손녀에게 돌려달라고 한다."
+msgstr ""
+"우리는 그 아뮬렛을 찾았다. 그것은 한 영혼에 의해 잠식되어 있었다. 그 영혼은 그의 손녀에게 돌아가기를 소망했다. 손녀는 고룡 다리에 "
+"있는 열린 손의 신전에 살고 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -20769,7 +20811,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:27107
 msgctxt "hc7ab5681gef14g4567g9147ga0c752d68e38"
 msgid "We didn't help the spirit of the amulet."
-msgstr "우린 저주받은 몽크를 돕지 않았다."
+msgstr "우린 아뮬렛의 영혼을 돕지 않았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -20792,7 +20834,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9030
 msgctxt "h7f6772d3gf4feg498bg8c9fgcd557232ace1"
 msgid "Bring the spirit of the amulet to Shirra."
-msgstr "저주받은 몽크를 시라에게 데려다 주자."
+msgstr "아뮬렛의 영혼을 시라에게 데려다 주자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -20849,7 +20891,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11489
 msgctxt "ha849bd4dgf34cg4d75gb0f3g74290bd1fd24"
 msgid "Find out what the spirit of the amulet wants."
-msgstr "저주받은 몽크가 무엇을 원하는 지 알아내자."
+msgstr "아뮬렛의 영혼이 무엇을 원하는 지 알아내자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -20880,7 +20922,6 @@ msgstr "돌무더기 통과하기"
 #. ID = LearnedRubble
 #. Objective = UND_AdamantineForge_SUB_Rubble_PassRubble
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:27223
-#, fuzzy
 msgctxt "hcb4ad586g8b25g4001ga0c4ga99dce1cc703"
 msgid ""
 "We found a passage buried in rubble that leads to the Adamantine Forge. We "
@@ -21151,7 +21192,6 @@ msgstr "딥 노움 생존자"
 #. ID = ThankedFreed_Beldron
 #. Objective = UND_GnomeRescue_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:27513
-#, fuzzy
 msgctxt "ha0a4d9c2g50a4g4c84g9191gb8315e3ce3cf"
 msgid ""
 "The Ironhand Gnomes plan to return to Baldur's Gate without their leader "
@@ -21179,7 +21219,6 @@ msgstr ""
 #. ID = ThankedFreed_BeldronThulla
 #. Objective = UND_GnomeRescue_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:27555
-#, fuzzy
 msgctxt "hf1a7ebb6g2506g4aa5g9f91g7a9f11dabcf8"
 msgid ""
 "While some Ironhand Gnomes were taken to Moonrise Towers, the ones we freed "
@@ -27504,10 +27543,9 @@ msgstr ""
 #. ObjectiveID = GLO_RaphaelDeal_MakeDeal
 #. QuestID = GLO_RaphaelDeal
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:3981
-#, fuzzy
 msgctxt "h6352c95ag7ae9g4a84gb300g13ac638323c8"
 msgid "Talk to Raphael to reconsider his deal."
-msgstr "라파엘의 제안을 받아들일지 거절할지 정하자."
+msgstr "라파엘에게 얘기해 그의 제안을 재고하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -27747,10 +27785,9 @@ msgstr ""
 #. CategoryID = MainQuest
 #. QuestID = GLO_Moonrise
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:35656
-#, fuzzy
 msgctxt "hc8606e97gea02g4413g83d0gd435e0291f91"
 msgid "Infiltrate Moonrise Towers"
-msgstr "문라이즈 타워로"
+msgstr "문라이즈 타워로의 잠입"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -31765,7 +31802,6 @@ msgstr "워터딥의 위저드"
 #. ID = RecruitedGale
 #. Objective = ORI_COM_Gale_Travel
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:41084
-#, fuzzy
 msgctxt "hbeca3f01ge7cdg4c49gac86g5ef6de642084"
 msgid ""
 "A wizard named Gale joined the party. He claims to have been on the "
@@ -31789,7 +31825,6 @@ msgstr "게일과 계속 여행하자."
 #. ID = LearnedBackstory
 #. Objective = ORI_COM_Gale_Hunt
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:41105
-#, fuzzy
 msgctxt "h06821c89gd2f6g4213g930fga02265d6139b"
 msgid ""
 "Gale told us about his romance with the goddess Mystra, and how in his "
@@ -31798,8 +31833,9 @@ msgid ""
 "been keeping the orb stable by feeding it the Weave contained in powerful "
 "items."
 msgstr ""
-"게일이 여신 미스트라와의 연애사와 자기 몸 속의 위험한 네더릴제 보주에 대한 이야기를 했다. 강력한 마법 아이템으로만 안정을 유지할 수 "
-"있다."
+"게일이 여신 미스트라와의 연애담을 얘기해 줬다. 그리고 그녀를 감명시키기 위해, 지금은 그의 가슴에 묻혀 있는, 극도로 휘발성 강한 "
+"위브의 보주를 풀어 놓았다고 한다. 그것은 네더릴 마법에 의해 오염됐으며, 위브가 포함된 강력한 아이템들을 먹이로 공급하면서 오브를 "
+"안정시켰다고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -31941,14 +31977,15 @@ msgstr ""
 #. ID = GaveTwoItems
 #. Objective = ORI_COM_Gale_Hunt
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:41336
-#, fuzzy
 msgctxt "h5bd214edg20e8g46e7gbcf9g31387d63e05d"
 msgid ""
 "We gave Gale another magical item, but this time the Weave inside wasn't "
 "quite as effective at stabilising his condition. He seems only mildly "
 "concerned about that. For now, we should keep looking for any suitable items "
 "for the next time he calls on us."
-msgstr "게일에게 또 유물을 줬다. 일단 이걸로 충분하다고 한다."
+msgstr ""
+"우리는 게일에게 또 다른 마법 아이템을 줬다. 하지만 이번엔 아이템 속 위브가 그의 증상을 진정시키는데 그다지 효과가 없었다. 게일은 "
+"그것에 대해 크게 걱정하지 않는 것 같았다. 어쨌든 지금은, 다음에 그가 우리에게 부탁할 때를 대비해 계속 적당한 아이템을 찾아봐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -31967,10 +32004,9 @@ msgstr "게일이 일행을 떠나 돌아오지 않을 것이다."
 #. ID = CompanionHostile
 #. Objective = ORI_COM_Gale_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:41378
-#, fuzzy
 msgctxt "h3a562cd4g3b10g4fa2g9a07g103e7c0a58bf"
 msgid "Gale turned against us. "
-msgstr "게일은 우리를 등졌다."
+msgstr "게일은 우리를 등졌다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -31990,10 +32026,9 @@ msgstr "조치를 취했지만 게일의 상태에 더 이상 변함이 없다. 
 #. ObjectiveID = ORI_COM_Gale_Sate
 #. QuestID = ORI_COM_Gale
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6245
-#, fuzzy
 msgctxt "hc28a8c4dg12e2g496fg90d6g9f2cb1c937e0"
 msgid "Continue your journey."
-msgstr "게일과 계속 여행하자."
+msgstr "여행을 계속하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -32914,12 +32949,11 @@ msgstr "죽을 경우에는..."
 #. ID = GaleDied
 #. Objective = ORI_COM_Gale_FollowInstruction
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:42613
-#, fuzzy
 msgctxt "hb999e5edg4033g407dga989g496b85af00d6"
 msgid ""
 "Gale died, activating a magical projection of himself which insisted that he "
 "be resurrected with the utmost urgency."
-msgstr "게일의 마법 환영이 그를 부활시킬 방법을 자세히 알려주었다."
+msgstr "게일은 죽었으며, 그의 마법 투영체가 활성화 되었고, 그 자신이 최대한 긴급하게 부활해야 한다고 주장했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -32938,12 +32972,11 @@ msgstr "환영의 지시를 따르자."
 #. ID = OpenedPouch
 #. Objective = ORI_COM_Gale_PlayNotes
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:42634
-#, fuzzy
 msgctxt "h34437e36gdb1cg4235g955ag0f0ee959726f"
 msgid ""
 "We opened the pouch correctly, and were able to retrieve the flute and "
 "letter. Now we need to play the correct tune on the flute."
-msgstr "주머니를 열었다. 이제 플루트로 알맞은 선율을 연주하자."
+msgstr "우리는 그 주머니를 올바르게 열었고, 플루트와 편지를 꺼낼 수 있었다. 이제 플루트로 알맞은 선율을 연주하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -32962,13 +32995,14 @@ msgstr "정확한 선율을 연주하자."
 #. ID = GotScroll
 #. Objective = ORI_COM_Gale_Resurrect
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:42655
-#, fuzzy
 msgctxt "hc5abfc41geee0g41a6g9647g65df2bfbb854"
 msgid ""
 "We told the magma mephit his name. In return, he turned the letter into a "
 "Scroll of True Resurrection.Using the scroll, we should be able to resurrect "
 "Gale in no time."
-msgstr "마그마 메피트에게 그의 이름을 알려주었다. 그는 보답으로 편지를 진정한 부활 두루마리로 만들어 주었다."
+msgstr ""
+"마그마 메피트에게 그의 이름을 알려주었다. 그는 보답으로 편지를 진정한 부활 두루마리로 만들어 주었다. 그 두루마리를 사용해서, 우리는 "
+"게일을 바로 부활시킬 수 있었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -33011,7 +33045,6 @@ msgstr "주머니에는 플루트와 편지가 들어있을 것이다. 편지에
 #. ID = LearnedMephit
 #. Objective = ORI_COM_Gale_FollowInstruction
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:42718
-#, fuzzy
 msgctxt "h5dfdff60gbb81g48e7g8ea0g35b23e88fe80"
 msgid ""
 "Playing the flute correctly should summon a magma mephit. It will ask us a "
@@ -33025,10 +33058,9 @@ msgstr "플루트를 정확히 연주하면 마그마 메피트가 소환될 것
 #. ID = PlayedNotes
 #. Objective = ORI_COM_Gale_NameMephit
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:42739
-#, fuzzy
 msgctxt "h47253f67gb808g4efeg9965g5f259c48d899"
 msgid "We played the correct melody on the flute, summoning the magma mephit."
-msgstr "플루트로 알맞은 음을 연주하여 메피트를 소환했다."
+msgstr "플루트로 알맞은 선율을 연주하여 마그마 메피트를 소환했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -33047,13 +33079,14 @@ msgstr "메피트의 이름을 외치자."
 #. ID = DestroyedPouch
 #. Objective = ORI_COM_Gale_Resurrect
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:42760
-#, fuzzy
 msgctxt "hbcffbb85g9217g480cgbe09g1ae7bd925dd6"
 msgid ""
 "We inadvertently destroyed the strange pouch Gale carried, along with any "
 "means of resurrecting him it contained. We'll need to find another way to "
 "resurrect Gale."
-msgstr "주머니가 파괴되었으니, 게일을 부활시킬 다른 방법을 찾아야 한다."
+msgstr ""
+"우리는 의도치 않게 게일의 이상한 주머니를 훼손해 버렸고, 부활시킬 수 있는 주머니 안의 모든 수단을 잃어버렸다. 게일을 부활시킬 다른 "
+"방법을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -33061,12 +33094,11 @@ msgstr "주머니가 파괴되었으니, 게일을 부활시킬 다른 방법을
 #. ID = LearnedPouch
 #. Objective = ORI_COM_Gale_FollowInstruction
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:42781
-#, fuzzy
 msgctxt "hf73c54ebg6a45g40dag9f43gc0eadae8649a"
 msgid ""
 "First, we need to retrieve the special pouch he carries on his person, and "
 "unthread the purple seam - moving counter-clockwise."
-msgstr "먼저, 게일이 지니고 다닌 주머니를 회수해, 보라색 실밥을 반시계 방향으로 풀어야 한다."
+msgstr "먼저, 그가 지니고 다녔던 그 특별한 주머니를 회수해, 보라색 실밥을 반시계 방향으로 풀어야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -35164,7 +35196,7 @@ msgstr "테니엘의 그림자를 찾아보자."
 #: Mods/GustavDev/Story/Journal/Markers/b240dd5e-9888-4f15-aa9a-565c3b21cbf0.lsx:8
 msgctxt "h9d3116b0gaf38g42e5g8adbgf3d6d774c0b6"
 msgid "House with Flowers"
-msgstr ""
+msgstr "꽃이 만발한 집"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35538,10 +35570,9 @@ msgstr ""
 #. CategoryID = Shadowcurse
 #. QuestID = MOO_GnomeRescue
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:45613
-#, fuzzy
 msgctxt "hcc49c2ffg8ce1g406bga9a6g32e6774321f0"
 msgid "Rescue Wulbren"
-msgstr "문라이즈 타워에서 노움 구출"
+msgstr "울브렌 구출"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -47070,7 +47101,7 @@ msgctxt "h803daf97g57f5g442agb1f7g9fab8fdcc05f"
 msgid ""
 "We tried to capture Isobel, but she died. We should return to Moonrise "
 "Towers, and report back to Ketheric."
-msgstr ""
+msgstr "이소벨을 사로잡으려 했으나 죽고 말았다. 문라이즈 타워로 돌아가 케서릭에게 이를 보고해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -47080,7 +47111,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9115
 msgctxt "hf2089227g90a1g400ag9ac6g4a60bfa962bd"
 msgid "Report to Ketheric."
-msgstr ""
+msgstr "케서릭에게 보고하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -47093,7 +47124,7 @@ msgctxt "hbaf0fb15g2590g43bfg9fa8gbdefcf6ddc63"
 msgid ""
 "We captured Isobel. We should return to Moonrise Towers, and report back to "
 "Ketheric."
-msgstr ""
+msgstr "이소벨을 사로잡았다. 문라이즈 타워로 돌아가 케서릭에게 이를 보고해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -47107,6 +47138,8 @@ msgid ""
 "Towers. If we do this, Last Light will no longer be protected from the "
 "shadow curse."
 msgstr ""
+"케서릭은 우리에게 최후의 빛 여관에 있는 이소벨을 납치해 문라이즈 타워로 데려올 것을 명했다. 성공하면 최후의 빛은 더 이상 그림자 "
+"저주로부터 보호받지 못할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -47116,7 +47149,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:60894
 msgctxt "h4018deaegf3f2g4d06g928ag546ac401cced"
 msgid "We captured Isobel and sent her to Ketheric."
-msgstr ""
+msgstr "이소벨을 붙잡아 케서릭에게 넘겼다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -48549,7 +48582,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:62627
 msgctxt "h71d450d6g1d70g40e7g84d9gcf19af331a76"
 msgid "A Familiar Face"
-msgstr ""
+msgstr "익숙한 얼굴"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48573,7 +48606,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:7372
 msgctxt "hdcce27eage6cdg4c9dg8bbag81ec6ec3c68a"
 msgid "Continue your journey."
-msgstr ""
+msgstr "여행을 계속하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -49363,12 +49396,11 @@ msgstr "문라이즈 타워로의 여정"
 #. ID = ReadHalsinDiary_MT
 #. Objective = GLO_PathToMoonrise_FindWayToMT
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:63726
-#, fuzzy
 msgctxt "h2d06027agcd64g4973gadb9g6e38296fa764"
 msgid ""
 "We found a diary written by the druid Halsin. In it, he writes about the "
 "parasites originating in Moonrise Towers."
-msgstr "드루이드 할신이 작성한 일기를 발견했다. 그는 그곳에 기생충에 관한 내용과 그것이 문라이즈 타워에서 왔을 것이라고 적어놓았다."
+msgstr "드루이드 할신이 작성한 일기를 발견했다. 그는 기생충이 문라이즈 타워에서 왔을 것이라고 적어놓았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -49398,13 +49430,13 @@ msgstr "할신은 기생충이 문라이즈 타워라는 곳에서 퍼져 나오
 #. ID = ToldMoonrise_Known_MT
 #. Objective = GLO_PathToMoonrise_FindWayToMT
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:63768
-#, fuzzy
 msgctxt "h9197fc54g6e34g482cg8585ga5b5dc9b3b68"
 msgid ""
 "Halsin said that the illithid parasites had been altered by followers of the "
 "Absolute. If we want answers, we need to head to the cult's base at Moonrise "
 "Towers."
-msgstr "할신은 기생충이 절대자의 추종자들에 의해 변질되었다고 했다. 답을 찾으려면, 문라이즈 타워에 있는 그들의 근거지로 향해야 한다."
+msgstr ""
+"할신은 일리시드 기생충이 절대자의 추종자들에 의해 변질되었다고 했다. 답을 찾으려면, 문라이즈 타워에 있는 광신도의 근거지로 향해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -49413,15 +49445,14 @@ msgstr "할신은 기생충이 절대자의 추종자들에 의해 변질되었�
 #. ID = ToldMoonrise_Unknown_MT
 #. Objective = GLO_PathToMoonrise_FindWayToMT
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:63789
-#, fuzzy
 msgctxt "h1155e7b4g41bdg4b81gb3b7g5aae48a63b2e"
 msgid ""
 "A druid named Halsin said that the illithid parasites had been altered by "
 "followers of the Absolute. If we want answers, we need to head to the cult's "
 "base at Moonrise Towers."
 msgstr ""
-"할신이라는 드루이드에 따르면 기생충이 절대자의 추종자들에 의해 변질되었다고 한다. 답을 찾으려면, 문라이즈 타워에 있는 그들의 근거지로 "
-"향해야 한다."
+"할신이라는 드루이드에 따르면 일리시드 기생충이 절대자의 추종자들에 의해 변질되었다고 한다. 답을 찾으려면, 문라이즈 타워에 있는 광신도의 "
+"근거지로 향해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -49467,13 +49498,11 @@ msgstr "민타라를 따르는 존재가 산길을 따라 우리를 문라이즈
 #. ID = ToldMoonrise_Minthara
 #. Objective = GLO_PathToMoonrise_FindWayToMT
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:63878
-#, fuzzy
 msgctxt "h30d34985g0264g448bgb9c4ge8d4129ac5ee"
 msgid ""
 "Minthara told us to go to Moonrise Towers - the heart of the Absolute's "
 "power. We might learn more about the parasite there."
-msgstr ""
-"민타라는 우리가 절대자의 힘의 심장부인 문라이즈 타워로 향해야 한다고 말했다. 그곳에서 기생충에 대해 더 알아낼 수 있을지도 모른다."
+msgstr "민타라는 우리가 절대자의 힘의 심장부인 문라이즈 타워로 가라고 말했다. 그곳에서 기생충에 대해 더 알아낼 수 있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -49481,13 +49510,13 @@ msgstr ""
 #. ID = ToldMoonrise_Nere
 #. Objective = GLO_PathToMoonrise_FindWayToMT
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:63899
-#, fuzzy
 msgctxt "h4ea4b533gc032g434cgbca6geb7fe0fbc3f9"
 msgid ""
 "True Soul Nere spoke of Moonrise Towers, where someone called the General "
 "resides. If we want answers about our parasite, we need to head there."
 msgstr ""
-"참된 영혼 니어가 문라이즈 타워에 장군이라고 불리는 자가 거주한다고 했다. 우리 기생충에 대한 답을 찾으려면, 그곳으로 향해야만 한다."
+"참된 영혼 니어가 문라이즈 타워를 언급했다. 그곳엔 장군이라고 불리는 자가 거주한다고 했다. 우리 기생충에 대한 답을 찾으려면, 그곳으로 "
+"향해야만 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -49534,7 +49563,7 @@ msgctxt "h9eb6535dg6ec2g475ega92fg92dba1b1f7db"
 msgid ""
 "Nere asked us to report on his situation to Moonrise Towers. This might be "
 "our chance to infiltrate the heart of the Absolute's power."
-msgstr ""
+msgstr "니어가 우리에게 문라이즈 타워에 상황을 보고하라고 했다. 이것이 절대자의 힘의 중심부에 침투할 기회일지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -49547,6 +49576,7 @@ msgid ""
 "Halsin's corpse told us we can get to Moonrise Towers by following the "
 "Chiontar. However, he warned of danger and darkness ahead."
 msgstr ""
+"할신의 시체가 말하길 치온타르를 따라가면 문라이즈 타워에 갈 수 있다고 했다. 하지만, 그는 앞에 위험과 어둠이 있다고 경고했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -49557,7 +49587,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:64036
 msgctxt "hcc84a26cg19b6g4c46g9e09ga47e632a8409"
 msgid "A Familiar Face"
-msgstr ""
+msgstr "익숙한 얼굴"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -51952,7 +51982,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8886
 msgctxt "h855d4ccdgf743g4711g8527g94a934e17242"
 msgid "Deal with the Absolute threat at Moonrise Towers."
-msgstr ""
+msgstr "문라이즈 타워에서 절대자의 위협을 처리하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -52081,7 +52111,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8909
 msgctxt "hf211f74dg7c3cg4a78g832cg83496d35dd1a"
 msgid "Find Voss' contact at Sharess' Caress in Baldur's Gate."
-msgstr "발더스 게이트에 있는 샤레스의 애무에서 보스의 접선책을 찾자."
+msgstr "발더스 게이트에 있는 샤레스의 애무에서 보스의 접선자를 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -52795,7 +52825,6 @@ msgstr ""
 #. CategoryID = MainQuest
 #. QuestID = TUT_ShadowheartEscape
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:68204
-#, fuzzy
 msgctxt "h50486e90g6514g49f2gb04egdb27ea4edb9f"
 msgid "Rescue the Illithids' Captive"
 msgstr "일리시드 포로를 구하기"
@@ -53527,11 +53556,9 @@ msgstr ""
 #. ObjectiveID = ORI_COM_Karlach_SUB_ForgingOfTheHeart_FindDammon_Act2
 #. QuestID = ORI_COM_Karlach_SUB_ForgingOfTheHeart
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9369
-#, fuzzy
-#| msgid "Meet Dammon in Baldur's Gate."
 msgctxt "h59e69a1fg40ddg4680gb04cg1cf38439156d"
 msgid "Meet Dammon on the road ahead."
-msgstr "발더스 게이트에서 대먼을 만나자."
+msgstr "앞쪽의 길에서 대먼을 만나자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -54384,11 +54411,9 @@ msgstr ""
 #. ObjectiveID = ORI_Avatar_Karlach_SUB_ForgingOfTheHeart_WaitForDammon
 #. QuestID = ORI_Avatar_Karlach_SUB_ForgingOfTheHeart
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9635
-#, fuzzy
-#| msgid "Meet Dammon in Baldur's Gate."
 msgctxt "ha09d42bdgf13bg41beg97b6ga19b723fa92f"
 msgid "Meet Dammon on the road ahead."
-msgstr "발더스 게이트에서 대먼을 만나자."
+msgstr "앞쪽의 길에서 대먼을 만나자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -54409,11 +54434,9 @@ msgstr ""
 #. ObjectiveID = ORI_Avatar_Karlach_SUB_ForgingOfTheHeart_FindDammon_Act2
 #. QuestID = ORI_Avatar_Karlach_SUB_ForgingOfTheHeart
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9641
-#, fuzzy
-#| msgid "Meet Dammon in Baldur's Gate."
 msgctxt "h63a59048gdcf8g4ffbgb17agb97b337a20e2"
 msgid "Meet Dammon on the road ahead."
-msgstr "발더스 게이트에서 대먼을 만나자."
+msgstr "앞쪽의 길에서 대먼을 만나자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -58892,7 +58915,6 @@ msgstr "바알의 네더스톤"
 #. MarkerLevel = SCL_Main_A
 #. MarkerTargetObjectType = Item
 #: Mods/GustavDev/Story/Journal/Markers/44be8c20-76c5-4735-5949-1e9f5817d646.lsx:8
-#, fuzzy
 msgctxt "h35198903g720fg4e93g9a9egd604cd1146d4"
 msgid "Ketheric's Netherstone"
 msgstr "케서릭의 네더스톤"
