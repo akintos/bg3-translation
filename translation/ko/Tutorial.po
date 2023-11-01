@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-31 17:37+0000\n"
+"PO-Revision-Date: 2023-11-01 19:37+0000\n"
 "Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -7342,7 +7342,7 @@ msgctxt "hf1f8a61fg82d0g4efeg81e8g374083940149"
 msgid ""
 "You have embraced ceremorphosis and become half-illithid. You can now unlock "
 "even more powerful psionics."
-msgstr ""
+msgstr "당신은 뇌변이를 받아들여 하프 일리시드가 되었습니다. 더욱 강력한 사이오닉을 해방할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7364,7 +7364,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1244
 msgctxt "he44c18bagc9e1g4547g9bebg75a909419f91"
 msgid "Half-Illithid"
-msgstr ""
+msgstr "하프 일리시드"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7375,7 +7375,7 @@ msgctxt "h30efebf9gcf04g4097g8b16g4d16eb85ed2a"
 msgid ""
 "You have embraced ceremorphosis and become half-illithid. You can now unlock "
 "even more powerful psionics."
-msgstr ""
+msgstr "당신은 뇌변이를 받아들여 하프 일리시드가 되었습니다. 더욱 강력한 사이오닉을 해방할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7399,6 +7399,8 @@ msgid ""
 "the <LSTag Type=\"Image\" Info=\"TutorialCallForthAllies_c\"/> button at the "
 "bottom of your screen."
 msgstr ""
+"동료가 당신을 돕기로 맹세했습니다. 전투중 화면 아래 <LSTag Type=\"Image\" Info="
+"\"TutorialCallForthAllies_c\"/> 버튼을 눌러 동료를 소환할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7410,6 +7412,8 @@ msgid ""
 "Your allies have pledged to help you. You can summon them during combat with "
 "the <LSTag Type=\"Image\" Info=\"TutorialCallForthAllies\"/> button."
 msgstr ""
+"동료가 당신을 돕기로 맹세했습니다. 전투중 화면 아래 <LSTag Type=\"Image\" Info="
+"\"TutorialCallForthAllies_c\"/> 버튼을 눌러 동료를 소환할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7418,7 +7422,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1265
 msgctxt "h455cf8feg3731g4f26g8a89g5e6f3c1cb9d6"
 msgid "You can equip an item in your Character Sheet."
-msgstr ""
+msgstr "캐릭터 시트에 있는 장비를 착용할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7430,6 +7434,8 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu \n"
 " <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> Open Character Sheet"
 msgstr ""
+"[IE_PanelSelect] 게임 메뉴 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 캐릭터 시트 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7465,18 +7471,6 @@ msgstr "[IE_ToggleInventory] 인벤토리 열기"
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Party Inventory
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1279
-#, fuzzy
-#| msgid ""
-#| "The Party View allows you to manage character inventories, spells, and "
-#| "reactions. Equipment can also be managed here, letting you handle "
-#| "encumbrance, split stacks of items, search for specific items, and mark "
-#| "wares. The Party View also lets you compare the character sheets of party "
-#| "members and examine class features.\n"
-#| "\n"
-#| "[IE_PanelSelect] Open Game Menu\n"
-#| "<LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> Open Character Sheet "
-#| "\n"
-#| "[IE_UITabPrev] Switch to Party View"
 msgctxt "h227f9978gf7dbg45ffga3fcg30dea6b2927f"
 msgid ""
 "The Party View allows you to manage character inventories, spells, and "
@@ -7493,8 +7487,7 @@ msgstr ""
 "있습니다.\n"
 "\n"
 "[IE_PanelSelect] 게임 메뉴 열기\n"
-"<LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 캐릭터 시트 열기\n"
-"[IE_UITabPrev] 파티 보기 전환"
+"<LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 캐릭터 시트 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
