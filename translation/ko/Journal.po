@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-11-03 03:37+0000\n"
+"PO-Revision-Date: 2023-11-03 09:48+0000\n"
 "Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -7988,7 +7988,7 @@ msgid ""
 "We should enter the portal and return to the crèche."
 msgstr ""
 "아티팩트의 갇힌 자가 꿈속의 인물이라는 걸 알아냈다. 절대자의 목소리에 대항할 수 있는 수단을 잃지 않으려면, 그를 죽일 수 없었다. "
-"포탈을 통해 양성소로 돌아가자."
+"차원문을 통해 양성소로 돌아가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8378,7 +8378,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8102
 msgctxt "h1e9aa59fg6123g4910gbf70g2db87af74713"
 msgid "Find a way to free Orpheus from his domed prison."
-msgstr "오르페우스를 둥근 지붕의 감옥에서 풀어주는 방법을 찾자."
+msgstr "오르페우스를 돔형 감옥에서 풀어주는 방법을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8548,8 +8548,8 @@ msgid ""
 "We found Kith'rak Voss arguing with Raphael about Orpheus. If we talk to "
 "Raphael, we might learn how to release Orpheus from his domed prison."
 msgstr ""
-"키스락 보스가 라파엘과 오르페우스에 대해 논쟁하는 것을 발견했다. 라파엘과 대화를 하면, 오르페우스를 둥근 지붕의 감옥에서 해방시킬 "
-"방법을 알아낼 수 있을지도 모른다."
+"키스락 보스가 라파엘과 오르페우스에 대해 논쟁하는 것을 발견했다. 라파엘과 대화를 하면, 오르페우스를 돔형 감옥에서 해방시킬 방법을 "
+"알아낼 수 있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -8819,6 +8819,8 @@ msgid ""
 "from his prison so he can be killed. To that end, we should find a way to "
 "infiltrate Raphael's House of Hope and take the Orphic Hammer."
 msgstr ""
+"우리는 키스락 보스를 물리쳤다. 레이젤은 오르페우스를 죽일 수 있게, 감옥에서 해방시켜주기를 그 어느 때보다도 단호하게 원하고 있다. "
+"그러기 위해서는, 라파엘의 희망의 집에 잠입해서 오르페우스의 망치를 가져오는 방법을 찾아야만 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8832,6 +8834,8 @@ msgid ""
 "be used to break Orpheus free from his domed prison. It's located in "
 "Raphael's House of Hope; we should find a way to retrieve it."
 msgstr ""
+"오르페우스의 망치라는 물건의 존재를 알게 되었다. 오르페우스를 돔형 감옥에서 해방시킬 수 있는 것이었다. 이것은 라파엘의 희망의 집에 "
+"있다. 이것을 확보할 방법을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8845,6 +8849,8 @@ msgid ""
 "be used to break Orpheus free from his domed prison. It is kept somewhere in "
 "Raphael's House of Hope."
 msgstr ""
+"오르페우스의 망치라는 물건의 존재를 알게 되었다. 오르페우스를 돔형 감옥에서 해방시킬 수 있는 것이었다. 이것은 라파엘의 희망의 집 "
+"어딘가에 보관되어 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8856,7 +8862,7 @@ msgctxt "h60f71353g063cg486cga3b8g0bb4609040ba"
 msgid ""
 "We found our way into the House of Hope. We should look for the Orphic "
 "Hammer."
-msgstr ""
+msgstr "희망의 집으로 들어가는 길을 찾았다. 오르페우스의 망치를 찾아야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -8868,7 +8874,7 @@ msgctxt "hf4a10f2bg4d29g4df6gab2fg4ea85b84b662"
 msgid ""
 "We found the Orphic Hammer, but it is protected by a magic field. There must "
 "be a way to disable it."
-msgstr ""
+msgstr "오르페우스의 망치를 찾았지만, 마법장에 의해 보호받고 있다. 이를 무력화할 방법이 있을 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9095,6 +9101,8 @@ msgid ""
 "Orpheus from his prison. Now that he is gone, we must find a way to enter "
 "the artefact and break Orpheus free."
 msgstr ""
+"라파엘이 오르페우스를 감옥에서 해방시킬 방법을 알려줬다는 우리의 거짓말을 키스락 보스가 믿었다. 이제 그가 죽었으니, 아티팩트에 들어가서 "
+"오르페우스를 해방시킬 방법을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9108,6 +9116,8 @@ msgid ""
 "unchanged. We must find a way to enter the artefact and use the Orphic "
 "Hammer to break Orpheus free."
 msgstr ""
+"레이젤의 뜻과 달리 우리는 키스락 보스를 물리쳤지만, 그녀의 임무는 변하지 않았다. 아티팩트에 들어가 오르페우스의 망치를 사용해 "
+"오르페우스를 해방시킬 방법을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9119,7 +9129,7 @@ msgctxt "h27c1203eg4d37g428dga802g5d6503dcc260"
 msgid ""
 "We defeated Kith'rak Voss. Now, we must find a way to enter the artefact and "
 "free Orpheus - and kill him."
-msgstr ""
+msgstr "키스락 보스를 물리쳤다. 이제, 아티팩트로 들어가서 오르페우스를 해방시킬 방법을 찾아야 한다. 그리고 그를 죽인다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9131,7 +9141,7 @@ msgctxt "h98aed6ceg6dbeg4238gbb07g8185c42804a5"
 msgid ""
 "We've retrieved the Orphic Hammer. Now, we must find a way to enter the "
 "artefact to free Orpheus from his prison."
-msgstr ""
+msgstr "오르페우스의 망치를 확보했다. 이제, 오르페우스를 감옥에서 해방시키기 위해 아티팩트로 들어갈 방법을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9143,7 +9153,7 @@ msgctxt "hddb29fcbg3033g44dcg91aag8c4e77ed5802"
 msgid ""
 "We've returned to the Astral Prism. Using the Orphic Hammer, we can now "
 "break Orpheus free from his prison."
-msgstr ""
+msgstr "우리는 아스트랄 프리즘으로 돌아왔다. 오르페우스의 망치를 사용해 오르페우스를 감옥에서 해방시킬 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9155,7 +9165,7 @@ msgctxt "h47ad2175g48ffg4ae0ga4b4g0bf510a140f1"
 msgid ""
 "We've returned to the Astral Prism - but with no means of breaking Orpheus "
 "from his prison. Perhaps we might still find a way."
-msgstr ""
+msgstr "우리는 아스트랄 프리즘으로 돌아왔지만, 오르페우스를 감옥에서 해방시킬 방법이 없다. 여전히 방법을 찾아야 할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9167,7 +9177,7 @@ msgctxt "h14e81ef3gbc04g4577gbc91g87b03a68032a"
 msgid ""
 "We've accepted a diabolical pact with Raphael and taken the Orphic Hammer. "
 "We can now break Orpheus free from his prison."
-msgstr ""
+msgstr "우리는 라파엘과의 악마의 계약을 받아들이고 오르페우스의 망치를 확보했다. 이제 우리는 오르페우스를 감옥에서 해방시킬 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9181,6 +9191,8 @@ msgid ""
 "assimilate Orpheus ourselves. Either way, Orpheus will perish - and Lae'zel "
 "is not likely to stand for it. "
 msgstr ""
+"황제는 우리에게 두 가지 선택지를 주었다. 황제가 오르페우스를 흡수하게 하거나, 우리가 직접 오르페우스를 흡수하는 것이다. 어느 쪽이든, "
+"오르페우스는 죽을 것이고, 레이젤은 그걸 용납하지 않을 것이다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9194,6 +9206,8 @@ msgid ""
 "assimilate Orpheus ourselves. Either way, Orpheus will perish - and Lae'zel "
 "will have done the will of Queen Vlaakith."
 msgstr ""
+"황제는 우리에게 두 가지 선택지를 주었다. 황제가 오르페우스를 흡수하게 하거나, 우리가 직접 오르페우스를 흡수하는 것이다. 어느 쪽이든, "
+"오르페우스는 죽을 것이고, 레이젤은 블라키스 여왕의 뜻을 완수하게 될 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9408,7 +9422,7 @@ msgctxt "hbb36e112g316fg4521ga182gf15e10973cfb"
 msgid ""
 "The shadow curse turned Lae'zel into a monster. She never made it to the "
 "Githyanki Crèche."
-msgstr ""
+msgstr "그림자 저주가 레이젤을 괴물로 만들었다. 그녀는 절대 기스양키 양성소에 도착하지 못할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9420,7 +9434,7 @@ msgctxt "ha1517333g3c11g4f2ag8fa6gdcdf69f75c66"
 msgid ""
 "Lae'zel turned against us when we attacked Ch'r'ai W'wargaz. Our journey "
 "together is over."
-msgstr ""
+msgstr "우리가 츠라이 와르가즈를 공격했을 때 레이젤은 우리에게 등을 돌렸다. 함께했던 우리의 여행은 끝났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9434,6 +9448,8 @@ msgid ""
 "killing Orpheus afterwards. She ascended to Tu'narath upon a mighty red "
 "dragon."
 msgstr ""
+"우리는 네더브레인을 물리쳤고, 그 후에 레이젤은 오르페우스를 죽임으로서 블라키스에 대한 의무를 다했다. 그녀는 강력한 레드 드래곤을 타고 "
+"튜나라쓰로 승천했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9446,6 +9462,7 @@ msgid ""
 "We defeated the Netherbrain. Having fulfilled her duty to Vlaakith by "
 "killing Orpheus, Lae'zel ascended to Tu'narath upon a mighty red dragon."
 msgstr ""
+"우리는 네더브레인을 물리쳤다. 오르페우스를 죽임으로서 블라키스의 의무를 다한 레이젤은, 강력한 레드 드래곤을 타고 튜나라쓰로 승천했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9457,7 +9474,7 @@ msgctxt "h55a12e61gdca9g4811g80c3g22d2cc5bf75b"
 msgid ""
 "We defeated the Netherbrain - but Vlaakith rejected Lae'zel's bid for "
 "ascension, as she hadn't killed Orpheus."
-msgstr ""
+msgstr "우리는 네더브레인을 물리쳤지만, 오르페우스를 죽이지 않았다는 이유로 블라키스는 레이젤의 승천을 거절했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9469,7 +9486,7 @@ msgctxt "hcadc1742gfe62g4d3cgb06fgb0e43a3516a1"
 msgid ""
 "We defeated the Netherbrain, but Lae'zel abandoned her bid for ascension, "
 "choosing to remain in Faerûn instead."
-msgstr ""
+msgstr "우리는 네더브레인을 물리쳤지만, 레이젤은 승천을 포기하고 대신 페이룬에 남기로 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9481,7 +9498,7 @@ msgctxt "h8c42bb1dgc2e2g4c24gbcb3g55930067eb82"
 msgid ""
 "We defeated the Netherbrain, but Lae'zel abandoned her bid for ascension, "
 "choosing to remain in Faerûn with her lover instead."
-msgstr ""
+msgstr "우리는 네더브레인을 물리쳤지만, 레이젤은 승천을 포기하고 대신 연인과 함께 페이룬에 남기로 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9491,7 +9508,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:11466
 msgctxt "ha3bcfc0cg385ag4ffcg8ad1g27fe2a9dcb55"
 msgid "We killed Lae'zel before she could take Orpheus' life."
-msgstr ""
+msgstr "레이젤이 오르페우스의 목숨을 빼앗기 전에 그녀를 죽였다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9503,7 +9520,7 @@ msgctxt "h8445e05cgc689g4094ga410gd65b7eae7738"
 msgid ""
 "We defeated the Netherbrain with Orpheus' aid. Lae'zel joined the prince's "
 "rebellion, and they flew off together upon mighty red dragons."
-msgstr ""
+msgstr "오르페우스의 도움으로 네더브레인을 물리쳤다. 레이젤은 왕자의 반란에 합류했고, 둘은 강력한 레드 드래곤을 타고 함께 날아갔다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9516,6 +9533,7 @@ msgid ""
 "We defeated the Netherbrain with Orpheus' aid. The prince sacrificed "
 "himself, leaving Lae'zel to lead the rebellion against Vlaakith in his stead."
 msgstr ""
+"오르페우스의 도움으로 네더브레인을 물리쳤다. 왕자는 자신을 희생하고, 레이젤이 그를 대신해 블라키스에 대한 반란을 이끌게 되었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9527,7 +9545,7 @@ msgctxt "h4d761657g5d20g40a3ga190g617869051818"
 msgid ""
 "We defeated the Netherbrain. A heretic in the eyes of her people, Lae'zel "
 "remained on Faerûn to make a new life for herself."
-msgstr ""
+msgstr "우리는 네더브레인을 물리쳤다. 자신의 종족의 눈에는 이단자였던 레이젤은, 스스로 페이룬에 남아 새로운 삶을 살기로 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9539,7 +9557,7 @@ msgctxt "hcc4dcccegb86eg4517gb2a5g03b7a84d4baa"
 msgid ""
 "We defeated the Netherbrain with Orpheus' aid, but rather than join the "
 "prince's rebellion, Lae'zel chose to make a new life in Faerûn."
-msgstr ""
+msgstr "오르페우스의 도움으로 네더브레인을 물리쳤지만, 왕자의 반란에 가담하는 대신, 레이젤은 페이룬에서 새로운 삶을 살기로 결정했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9553,6 +9571,7 @@ msgid ""
 "prince's rebellion, Lae'zel chose to make a new life in Faerûn with her "
 "lover."
 msgstr ""
+"오르페우스의 도움으로 네더브레인을 물리쳤지만, 왕자의 반란에 가담하는 대신, 레이젤은 연인과 함께 페이룬에서 새로운 삶을 살기를 선택했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9564,7 +9583,7 @@ msgctxt "h4702fbe3gf875g446fga862g7f9ae2d11ec9"
 msgid ""
 "We've gained access to the Githyanki Crèche. We should locate the curative "
 "device - but doing so might require some finesse."
-msgstr ""
+msgstr "우리는 기스양키 양성소로 접근할 수 있었다. 치유 장치를 찾아야 하지만, 그러기 위해서는 조금의 수완이 필요할 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9606,7 +9625,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:11655
 msgctxt "h363cdd43gf764g4057ga8c6geb687b93ddd7"
 msgid "The barrier has been lowered. We should take the Orphic Hammer."
-msgstr ""
+msgstr "방어막이 약해졌다. 오르페우스의 망치를 가져가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9616,7 +9635,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:11676
 msgctxt "he99db1e9ge78bg477agba8bg9b7090463a69"
 msgid "The Orphic Hammer is ours. We should speak with Lae'zel."
-msgstr ""
+msgstr "오르페우스의 망치는 우리 것이다. 레이젤과 대화해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -9626,7 +9645,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8498
 msgctxt "h0b21b94ag44cfg44f2g80d3g80fead9eb763"
 msgid "Talk to Lae'zel about the Orphic Hammer."
-msgstr ""
+msgstr "오르페우스의 망치에 대해 레이젤과 얘기해 보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9638,7 +9657,7 @@ msgctxt "h16822193gb998g406bgb88fg7c171743912c"
 msgid ""
 "Lae'zel turned against us when Orpheus was assimilated. Our journey together "
 "is over."
-msgstr ""
+msgstr "오르페우스가 흡수 당했을 때 레이젤은 우리에게 등을 돌렸다. 함께했던 우리의 여행은 끝났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9650,7 +9669,7 @@ msgctxt "h6077ae5ag2d5fg424ag813fg3ea28ba9dc1a"
 msgid ""
 "Lae'zel turned against us when we tried to free Orpheus. Our journey "
 "together is over."
-msgstr ""
+msgstr "오르페우스를 해방시키려 했을 때 레이젤은 우리에게 등을 돌렸다. 함께했던 우리의 여행은 끝났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9663,6 +9682,7 @@ msgid ""
 "We defeated the Netherbrain with Orpheus' aid and joined the prince's "
 "rebellion. Together, we flew off upon mighty red dragons."
 msgstr ""
+"우리는 오르페우스의 도움을 받아 네더브레인을 물리쳤고, 왕자의 반란에 가담했다. 우리는 함께 강력한 레드 드래곤을 타고 날아갔다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9675,6 +9695,8 @@ msgid ""
 "We defeated the Netherbrain with Orpheus' aid, but the prince sacrificed "
 "himself, leaving us to lead the rebellion against Vlaakith in his stead."
 msgstr ""
+"우리는 오르페우스의 도움을 받아 네더브레인을 물리쳤다. 하지만 왕자는 스스로 희생하면서, 그를 대신해 우리가 블라키스에 대한 반란을 "
+"이끌게 하였다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9687,6 +9709,8 @@ msgid ""
 "We defeated the Netherbrain. Having fulfilled our duty to Vlaakith by "
 "killing Orpheus, we ascended to Tu'narath upon mighty red dragons."
 msgstr ""
+"우리는 네더브레인을 물리쳤다. 오르페우스를 죽이면서 블라키스에 대한 우리의 의무를 다했고, 우리는 강력한 레드 드래곤을 타고 튜나라쓰로 "
+"승천했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9699,6 +9723,8 @@ msgid ""
 "We defeated the Netherbrain and Lae'zel fulfilled her duty to Vlaakith by "
 "killing Orpheus afterwards. We ascended to Tu'narath upon mighty red dragons."
 msgstr ""
+"우리는 네더브레인을 물리쳤고, 그 후 레이젤은 오르페우스를 죽여 블라키스에 대한 그녀의 의무를 다했다. 우리는 강력한 레드 드래곤을 타고 "
+"튜나라쓰로 승천했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9786,6 +9812,8 @@ msgid ""
 "The Prince of the Comet is no more. Orpheus was assimilated, leaving us to "
 "focus on defeating the Netherbrain and stopping the illithid Grand Design."
 msgstr ""
+"혜성의 왕자는 이제 없다. 오르페우스는 흡수되었고, 이제 우리는 네더브레인을 물리치고 일리시드의 원대한 설계를 막는 데만 집중할 수 있게 "
+"되었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9797,7 +9825,7 @@ msgctxt "hac2eaa50g83d3g4829g8de0g12c696c83d84"
 msgid ""
 "We attacked Kith'rak Voss, who fled. We must find our own way into the "
 "Astral Prism to free Orpheus."
-msgstr ""
+msgstr "우리는 키스락 보스를 공격했고, 그는 도망쳤다. 오르페우스를 해방시키기 위해선 아스트랄 프리즘으로 가는 길을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -9893,6 +9921,8 @@ msgid ""
 "We learned of a ritual in The Devil's Fee that can open a portal to the "
 "House of Hope - we should head there to retrieve the Orphic Hammer."
 msgstr ""
+"데빌의 수수료에서 어떤 의식을 알아냈다. 이 의식은 희망의 집으로 통하는 차원문을 열 수 있다고 한다. 오르페우스의 망치를 확보하기 위해 "
+"그곳으로 향하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -10342,7 +10372,7 @@ msgstr "듀에르가 하사관에게 신발을 줘야 한다."
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:12669
 msgctxt "h34717116g99dbg4f80g89bfg23f4ab6d8944"
 msgid "The duergar left without her boots."
-msgstr ""
+msgstr "듀에르가들이 그녀의 부츠를 두고 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -10352,7 +10382,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:12690
 msgctxt "h90f308c1g633eg4a61g978eg8889ceb2d105"
 msgid "We took the boots from the injured gnome - she was too weak to stop us."
-msgstr ""
+msgstr "부상당한 노움에게서 부츠를 훔쳤다. 그녀는 우리를 막을 힘이 없었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -23221,7 +23251,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:3050
 msgctxt "h8f780582ga41fg490agaabcgc92c959f0cc4"
 msgid "Head through the portal to the Dream Visitor's aid."
-msgstr "꿈의 방문자를 돕기 위해 포탈을 넘어가자."
+msgstr "꿈의 방문자를 돕기 위해 차원문을 넘어가자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -28279,8 +28309,8 @@ msgid ""
 "Disciple Z'rell has granted us an audience with Ketheric Thorm. He will be "
 "the one to pass judgement upon us. We can find him on the roof of Moonrise."
 msgstr ""
-"우리는 이소벨을 잡는 데 실패했지만, 나이트송을 회수하는 데 성공했기 때문에 신봉자 즈렐은 우리에게 절대자와의 접견을 허락해 주었다. "
-"절대자가 우리에 대한 판결을 내려 줄 것이다. 문라이즈 타워 꼭대기에서 그를 만날 수 있다."
+"우리는 이소벨을 잡는 데 실패했지만, 나이트송을 회수하는 데 성공했기 때문에 신봉자 즈렐은 우리에게 케서릭 쏨과의 접견을 허락해 주었다. "
+"케서릭이 우리에 대한 판결을 내려 줄 것이다. 문라이즈 타워 꼭대기에서 그를 만날 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35239,7 +35269,7 @@ msgid ""
 "Halsin delved into the Shadowfell to rescue Thaniel. We must defend the "
 "portal Halsin created, or he will be trapped in the Shadowfell forever."
 msgstr ""
-"할신은 테니엘을 구하기 위해 섀도펠로 진입했다. 할신이 만든 포탈을 지켜내야만 한다, 포탈이 파괴된다면 그는 섀도펠에 영영 갇혀버릴 "
+"할신은 테니엘을 구하기 위해 섀도펠로 진입했다. 할신이 만든 차원문을 지켜내야만 한다, 차원문이 파괴된다면 그는 섀도펠에 영영 갇혀버릴 "
 "것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
@@ -35250,7 +35280,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:4825
 msgctxt "h8c7990a8g44bfg4f6ag849cgb783a1d83033"
 msgid "Defend the portal."
-msgstr "포탈을 지켜내자."
+msgstr "차원문을 지켜내자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -35261,7 +35291,7 @@ msgstr "포탈을 지켜내자."
 #: Mods/GustavDev/Story/Journal/Markers/57325ddc-725c-498b-89ec-80cba9710691.lsx:8
 msgctxt "h10031697gec2ag4f4ag9391g9c63a177aa56"
 msgid "Portal to Shadowfell"
-msgstr "섀도펠로 가는 포탈"
+msgstr "섀도펠로 가는 차원문"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -52201,7 +52231,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8892
 msgctxt "h30a26e81g17c9g4332g88a3g1838c5d29775"
 msgid "Find a way to free Orpheus from his domed prison."
-msgstr ""
+msgstr "오르페우스를 돔형 감옥에서 풀어주는 방법을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -58583,7 +58613,7 @@ msgstr "바알 신전"
 #: Mods/GustavDev/Story/Journal/Markers/80b4f485-c912-4184-be74-8d2556f087ef.lsx:8
 msgctxt "hea2225a9g1ca8g4458g906fga91ac4a22944"
 msgid "Devil's Fee"
-msgstr ""
+msgstr "데빌의 수수료"
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
