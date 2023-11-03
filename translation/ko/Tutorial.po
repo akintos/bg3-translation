@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-11-01 19:37+0000\n"
+"PO-Revision-Date: 2023-11-03 03:37+0000\n"
 "Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -7505,7 +7505,7 @@ msgstr "파티 보기"
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1282
 msgctxt "ha74a113eg54efg460egbc83g799f9ff68b58"
 msgid "You can see the inventories of all party members in the Party View."
-msgstr ""
+msgstr "파티 보기에서 모든 파티원의 인벤토리를 볼 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7518,6 +7518,9 @@ msgid ""
 "\"TutorialPartyInventory\"/> Open Party View\n"
 "[IE_DragSingleToggle] and click to select multiple items. "
 msgstr ""
+"[IE_TogglePartyCharacterView] <LSTag Type=\"Image\" Info="
+"\"TutorialPartyInventory\"/> 파티 보기 열기\n"
+"[IE_DragSingleToggle] 다수의 아이템을 선택하려면 클릭. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7945,7 +7948,7 @@ msgctxt "he92054f2gfd15g4738g81b5g6a091f971a7f"
 msgid ""
 "While listening to another's conversation, you can select a dialogue option "
 "to suggest it to the player speaking."
-msgstr ""
+msgstr "다른 이의 대화를 듣는 중에 대화 중인 플레이어에게 선택지를 골라 제안할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -7979,7 +7982,7 @@ msgctxt "h850702d2ga785g4a97g98b8g29f9473972d2"
 msgid ""
 "While listening to another's conversation, you can select a dialogue option "
 "to suggest it to the player speaking."
-msgstr ""
+msgstr "다른 사람의 대화를 듣는 동안 대화 옵션을 선택하여 현재 대화 중인 플레이어에게 제안할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8152,6 +8155,8 @@ msgid ""
 "proficiency bonus to attack rolls with this weapon or be able to use its "
 "special weapon actions. "
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialRedWarning\"/> 이 무기로 공격 시 공격력 굴림에 숙련 "
+"보너스를 더하거나 특수 무기 행동을 사용할 수 없습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8187,6 +8192,8 @@ msgid ""
 "increase your armour class, but will give you disadvantage on some rolls and "
 "stop you from casting spells."
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialRedWarning\"/> 방패를 착용하면 당신의 방어도가 증가하지만, "
+"일부 굴림에 불리점을 갖게 되고 주문을 시전할 수 없게 될 것입니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8208,6 +8215,8 @@ msgid ""
 "increase your armour class, but your lack of training will give you "
 "disadvantage on some rolls and stop you from casting spells."
 msgstr ""
+"<LSTag Type=\"Image\" Info=\"TutorialRedWarning\"/> 방패를 착용하면 당신의 방어도가 증가하지만, "
+"숙련되어 있지 않다면 일부 굴림에 불리점을 갖게 되고 주문을 시전할 수 없게 됩니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8352,7 +8361,7 @@ msgstr ""
 msgctxt "h60910e47g0267g4ee5g9625g413983f1e77c"
 msgid ""
 "Easily cycle your focus between items, objects, and creatures in the world. "
-msgstr ""
+msgstr "월드의 아이템, 사물, 생명체 간에 시점을 쉽게 전환할 수 있습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8361,7 +8370,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1458
 msgctxt "h39db7649g0512g4bbeg83a6g60846751428c"
 msgid "[IE_PrevObject] [IE_NextObject] Switch focus"
-msgstr ""
+msgstr "[IE_PrevObject] [IE_NextObject] 시점 전환"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8376,6 +8385,10 @@ msgid ""
 "\n"
 "[IE_PrevObject] [IE_NextObject] Switch focus"
 msgstr ""
+"세계를 탐험하는 동안 마주치는 사물에 따라 캐릭터의 시점을 빠르게 전환할 수 있습니다. 전투 중에는 이 기능을 사용하여 마주친 적들에게로 "
+"시점을 쉽게 전환할 수 있습니다.\n"
+"\n"
+"[IE_PrevObject] [IE_NextObject] 시점 전환"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8384,7 +8397,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1460
 msgctxt "h44c870dag4700g4de5ga205g9ebf0a48b85d"
 msgid "Switch Focus"
-msgstr ""
+msgstr "시점 전환"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8393,7 +8406,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1470
 msgctxt "he3b148a8g5c9dg4d71g95f2g58bd1df637b0"
 msgid "Effortlessly cycle your focus between different enemies in combat."
-msgstr ""
+msgstr "전투 중에 다양한 적들을 대상으로 시점을 쉽게 전환할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8825,7 +8838,7 @@ msgctxt "h82c7967ege1e1g4b70gac56g9605ec3a3ee8"
 msgid ""
 "Foraging is a thing of the past in the Elfsong Tavern - to purchase camp "
 "supplies for resting simply visit the dumbwaiter hatch.  "
-msgstr ""
+msgstr "엘프송 여관은 과거에는 채집을 했었습니다 - 휴식을 위한 야영 물자를 구매하고 싶다면 식품대 해치로 가세요.  "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8834,7 +8847,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1587
 msgctxt "h1726cc52g0e2eg4b2ag986ag915e4fd985e2"
 msgid "Elfsong Hospitality"
-msgstr ""
+msgstr "엘프송 환대"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8845,7 +8858,7 @@ msgctxt "h7b1ad162g3ff5g4b21gb510g0ba0136988b8"
 msgid ""
 "Foraging is a thing of the past in the Elfsong Tavern - to purchase camp "
 "supplies for resting simply visit the dumbwaiter hatch.  "
-msgstr ""
+msgstr "엘프송 여관은 과거에는 채집을 했었습니다 - 휴식을 위한 야영 물자를 구매하고 싶다면 식품대 해치로 가세요.  "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9250,7 +9263,7 @@ msgctxt "hc970e36dgc59dg4ceeg94d3gb929b628b3ec"
 msgid ""
 "Before you roll an active skill check, you can add any bonuses you have "
 "available from spells, features, or allies to improve your chances. "
-msgstr ""
+msgstr "직접 사용하는 기술 판정을 굴리기 전에 주문, 요소, 동맹 등 가능한 보너스를 더하여 확률을 높일 수 있습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9259,7 +9272,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1662
 msgctxt "h23e781ccgbc0ag41b9gaacbgd7e6fbbba226"
 msgid "Bonuses to Skill Checks"
-msgstr ""
+msgstr "기술 판정 보너스"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9270,7 +9283,7 @@ msgctxt "h080dd936g8864g437dg9629g55d6cf406943"
 msgid ""
 "Before you roll an active skill check, you can add any bonuses you have "
 "available from spells, features, or allies to improve your chances. "
-msgstr ""
+msgstr "직접 사용하는 기술 판정을 굴리기 전에 주문, 요소, 동맹 등 가능한 보너스를 더하여 확률을 높일 수 있습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
