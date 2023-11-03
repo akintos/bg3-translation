@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-23 01:38+0900\n"
-"PO-Revision-Date: 2023-11-03 09:48+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"POT-Creation-Date: 2023-11-03 18:50+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.0.0\n"
 
 #. FilePath = Public/GustavDev/Backgrounds/BackgroundGoals.lsx
 #. NodeID = BackgroundGoal
@@ -2658,10 +2656,14 @@ msgstr "아동 보호 기관"
 #. NodeID = BackgroundGoal
 #. HandlePath = Description
 #: Public/GustavDev/Backgrounds/BackgroundGoals.lsx:1485
+#, fuzzy
+#| msgid ""
+#| "Burn Kerri's portrait with the Torch of True Revocation and banish Kerri "
+#| "from the Material Plane."
 msgctxt "h242e3aa4g9ebbg4dcagb624gf462eac83781"
 msgid ""
-"Burn Kerri's portrait with the Torch of True Revocation and banish Kerri "
-"from the Material Plane."
+"Burn Kerri's portrait with the Torch of Revocation and banish Kerri from the "
+"Material Plane."
 msgstr "케리의 초상화를 확실한 철회의 횃불로 태우고 케리를 물질계에서 추방 하기."
 
 #. FilePath = Public/GustavDev/Backgrounds/BackgroundGoals.lsx
@@ -3912,8 +3914,10 @@ msgstr "부도덕한 독창성"
 #. NodeID = BackgroundGoal
 #. HandlePath = Description
 #: Public/GustavDev/Backgrounds/BackgroundGoals.lsx:2187
+#, fuzzy
+#| msgid "Describe your perfect weapon to Danthelon."
 msgctxt "h66b1471dgb7b2g4187g9aa1g7d32ecaa62b4"
-msgid "Describe your perfect weapon to Danthelon."
+msgid "Describe your perfect weapon to Gyldro Angleiron."
 msgstr "단셀론에게 당신이 가진 완벽한 무기에 대해 설명하기."
 
 #. FilePath = Public/GustavDev/Backgrounds/BackgroundGoals.lsx
@@ -4858,7 +4862,7 @@ msgstr "돌아온 선장"
 #. HandlePath = Description
 #: Public/GustavDev/Backgrounds/BackgroundGoals.lsx:2718
 msgctxt "h53f29371g6e2ag4c1bg803bg19bfbfbda6ed"
-msgid "Find and use the Torch of True Revocation."
+msgid "Find and use the Torch of Revocation."
 msgstr ""
 
 #. FilePath = Public/GustavDev/Backgrounds/BackgroundGoals.lsx
@@ -5499,8 +5503,10 @@ msgstr "마른 하늘에 날벼락"
 #. NodeID = BackgroundGoal
 #. HandlePath = Description
 #: Public/GustavDev/Backgrounds/BackgroundGoals.lsx:3078
+#, fuzzy
+#| msgid "Close the pinned Mindflayer's eyes forever."
 msgctxt "hf35ec687gad70g4a9bgae39g5d4e93f48aba"
-msgid "Close the pinned Mindflayer's eyes forever."
+msgid "Close the pinned mind flayer's eyes forever."
 msgstr "쓰러진 마인드 플레이어의 눈을 영원히 감기기."
 
 #. FilePath = Public/GustavDev/Backgrounds/BackgroundGoals.lsx
@@ -8720,256 +8726,6 @@ msgctxt "h6227cc98ge006g447bgb5ceg8ecde8b9d0e4"
 msgid "Know Your Place"
 msgstr "분수를 알아라"
 
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = Description
-#. Passives = Background_Acolyte
-#: Public/Shared/Backgrounds/Backgrounds.lsx:8
-msgctxt "hc8252abag3e39g42edg8bbdg81ff077c6918"
-msgid ""
-"You have spent your life in service to a temple, learning sacred rites and "
-"providing sacrifices to the god or gods you worship. Serving the gods and "
-"discovering their sacred works will guide you to greatness."
-msgstr ""
-"당신은 신전에서 봉사하며, 신성한 의식을 익히고 모시는 신(들)에게 제물을 공양하는 삶을 살아왔습니다. 신을 섬기며 그들이 이룬 신성한 "
-"업적을 발견해내면 당신은 위대한 경지로 인도될 것입니다."
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = DisplayName
-#. Passives = Background_Acolyte
-#: Public/Shared/Backgrounds/Backgrounds.lsx:9
-msgctxt "hb10c1825g27e8g47fag9e51gf79f5a8d1c2f"
-msgid "Acolyte"
-msgstr "복사"
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = Description
-#. Passives = Background_Charlatan
-#: Public/Shared/Backgrounds/Backgrounds.lsx:19
-msgctxt "hc2a850cbg31e7g459dgbe67g508f2cf9e34a"
-msgid ""
-"You're an expert in manipulation, prone to exaggeration and more than happy "
-"to profit from it. Bending the truth and turning allies against each other "
-"will lead to greater success down the road."
-msgstr ""
-"당신은 상황 조작의 전문가로, 과장을 일삼는 경향이 있으며 거기서 이득을 얻는 것을 좋아합니다. 진실을 왜곡하고 상대를 같은 편끼리 "
-"싸우게 만들면 더 큰 성과를 얻게 될 것입니다."
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = DisplayName
-#. Passives = Background_Charlatan
-#: Public/Shared/Backgrounds/Backgrounds.lsx:20
-msgctxt "h4858e9a1gb81fg4335g9839gcd8e479ce0cc"
-msgid "Charlatan"
-msgstr "사기꾼"
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = Description
-#. Passives = Background_Criminal
-#: Public/Shared/Backgrounds/Backgrounds.lsx:30
-msgctxt "h272b6b69g45d1g46e0g94c7gdffa9d6f6977"
-msgid ""
-"You have a history of breaking the law and survive by leveraging less-than-"
-"legal connections. Profiting from criminal enterprise will lead to greater "
-"opportunities in the future."
-msgstr ""
-"당신은 전과가 있는 인물이며 법에 저촉되는 연줄을 활용해 생존해 왔습니다. 범죄 기획으로 이득을 얻어 내면 향후 더 대단한 기회에 접근할 "
-"수 있을 것입니다."
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = DisplayName
-#. Passives = Background_Criminal
-#: Public/Shared/Backgrounds/Backgrounds.lsx:31
-msgctxt "h3da3856dg029eg4476gb757g01c7cbdc44e6"
-msgid "Criminal"
-msgstr "범죄자"
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = Description
-#. Passives = Background_Entertainer
-#: Public/Shared/Backgrounds/Backgrounds.lsx:41
-msgctxt "h8836d00eg7705g445dgb3ddg3267612158ad"
-msgid ""
-"You live to sway and subvert your audience, engaging common crowds and high "
-"society alike. Preserving art and bringing joy to the hapless and "
-"downtrodden heightens your charismatic aura."
-msgstr ""
-"당신은 관객을 장악하고 그들의 관념을 뒤집어엎는 삶을 추구하며, 일반 대중과 상류층 모두의 마음을 사로잡습니다. 예술을 보호하며, "
-"불운하고 탄압받는 이들에게 즐거움을 선사해주면 당신의 매력이 고조될 것입니다."
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = DisplayName
-#. Passives = Background_Entertainer
-#: Public/Shared/Backgrounds/Backgrounds.lsx:42
-msgctxt "h4aab9e83g2faeg420fg829fg4a48a1e72bed"
-msgid "Entertainer"
-msgstr "연예인"
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = Description
-#. Passives = Background_FolkHero
-#: Public/Shared/Backgrounds/Backgrounds.lsx:52
-msgctxt "ha2408e5ag545ag4a95ga943ge2d09c63bf81"
-msgid ""
-"You're a champion of the common people, challenging tyrants and monsters to "
-"protect the helpless. Saving innocents in imminent danger will make your "
-"legend grow."
-msgstr ""
-"당신은 민중들의 투사로, 힘없는 이들을 보호하기 위해 폭군과 괴물에게 도전합니다. 무고한 이를 절체절명의 위기에서 구해주면 당신의 전설은 "
-"더욱 커질 것입니다."
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = DisplayName
-#. Passives = Background_FolkHero
-#: Public/Shared/Backgrounds/Backgrounds.lsx:53
-msgctxt "h23f8fc07g20e5g43a4gba1bgbb976e4c1557"
-msgid "Folk Hero"
-msgstr "민중 영웅"
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = Description
-#. Passives = Background_GuildArtisan
-#: Public/Shared/Backgrounds/Backgrounds.lsx:63
-msgctxt "h2423bbe6g99a3g44bcg987ag91722bdab14d"
-msgid ""
-"Your skill in a particular craft has earned you membership in a mercantile "
-"guild, offering privileges and protection while engaging in your art. "
-"Repairing and discovering rare crafts will bring new inspiration."
-msgstr ""
-"당신은 특수한 공예 기술로 상인 길드에서 자리를 얻었으며, 특권과 보호를 누리며 자신의 재주를 펼쳤습니다. 희귀한 공예품을 수리하거나 "
-"발견하면 새로운 영감을 얻을 것입니다."
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = DisplayName
-#. Passives = Background_GuildArtisan
-#: Public/Shared/Backgrounds/Backgrounds.lsx:64
-msgctxt "h256017d5g3d5fg4b8dg968ega7074ce7a090"
-msgid "Guild Artisan"
-msgstr "길드 장인"
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = Description
-#. Passives = Background_Noble
-#: Public/Shared/Backgrounds/Backgrounds.lsx:74
-msgctxt "hf4777470g419ag46fdgb3c2g335169065ce2"
-msgid ""
-"You were raised in a family among the social elite, accustomed to power and "
-"privilege. Accumulating renown, power, and loyalty will raise your status."
-msgstr "당신은 권위와 특권에 익숙한 상류 사회의 가정에서 자랐습니다. 명성, 힘, 충성심을 쌓아 올리면 당신의 상황이 향상될 것입니다."
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = DisplayName
-#. Passives = Background_Noble
-#: Public/Shared/Backgrounds/Backgrounds.lsx:75
-msgctxt "h85c48005g524eg41acg86d6g65ea50d8c179"
-msgid "Noble"
-msgstr "귀족"
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = Description
-#. Passives = Background_Outlander
-#: Public/Shared/Backgrounds/Backgrounds.lsx:85
-msgctxt "h6eb68c6cg86e4g434bg93cegb6c1356f3337"
-msgid ""
-"You grew up in the wilds, learning to survive far from the comforts of "
-"civilisation. Surviving unusual hazards of the wild will enhance your "
-"prowess and understanding."
-msgstr ""
-"당신은 야생의 환경에서 자라, 문명의 안락함과는 동떨어진 데서 생존하는 법을 터득했습니다. 야생의 생소한 위험 속에서 살아남으면 당신의 "
-"기량과 이해력이 향상될 것입니다."
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = DisplayName
-#. Passives = Background_Outlander
-#: Public/Shared/Backgrounds/Backgrounds.lsx:86
-msgctxt "h198c786cg54aag4408g9201g85069571dd1a"
-msgid "Outlander"
-msgstr "방랑자"
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = Description
-#. Passives = Background_Sage
-#: Public/Shared/Backgrounds/Backgrounds.lsx:96
-msgctxt "h6e9c7e20g1434g4bebg841eg43b7ba040200"
-msgid ""
-"You are curious and well-read, with an unending thirst for knowledge. "
-"Learning about rare lore of the world will inspire you to put this knowledge "
-"to greater purpose."
-msgstr ""
-"당신은 호기심 넘치고 박식하며 지식에 대한 끝없는 갈망을 품고 있습니다. 세계의 희귀한 지식을 습득하면 이를 활용해 더 큰 목적을 성취할 "
-"수 있을 것입니다."
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = DisplayName
-#. Passives = Background_Sage
-#: Public/Shared/Backgrounds/Backgrounds.lsx:97
-msgctxt "h020e2f73g0065g4b18g9079g57b665eae064"
-msgid "Sage"
-msgstr "현자"
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = Description
-#. Passives = Background_Soldier
-#: Public/Shared/Backgrounds/Backgrounds.lsx:107
-msgctxt "h8f84eff7g7d52g4a4bgb2edgc968e71cdd92"
-msgid ""
-"You are trained in battlefield tactics and combat, having served in a "
-"militia, mercenary company, or officer corps. Show smart tactics and bravery "
-"on the battlefield to enhance your prowess."
-msgstr ""
-"당신은 민병대, 용병단이나 장교단에서 복무하여 전장의 전술과 전투에 관한 훈련을 받았습니다. 전장에서 현명한 전법과 용맹을 발휘해 당신의 "
-"위용을 드높여 보십시오."
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = DisplayName
-#. Passives = Background_Soldier
-#: Public/Shared/Backgrounds/Backgrounds.lsx:108
-msgctxt "h0813c1b0gb6deg4a8cg8edag8bb1467df512"
-msgid "Soldier"
-msgstr "군인"
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = Description
-#. Passives = Background_Urchin
-#: Public/Shared/Backgrounds/Backgrounds.lsx:118
-msgctxt "haf35fb1ag533bg4fbfg8bb2gfacee676a28a"
-msgid ""
-"After surviving a poor and bleak childhood, you know how to make the most "
-"out of very little. Using your street smarts bolsters your spirit for the "
-"journey ahead."
-msgstr ""
-"가난하고 암울했던 어린 시절을 살아남은 당신은 가장 하찮은 것조차도 최대한 활용하는 방법을 알고 있습니다. 당신의 길거리 지식을 활용하면 "
-"앞으로의 여정을 위한 사기가 북돋을 것입니다."
-
-#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
-#. NodeID = Background
-#. HandlePath = DisplayName
-#. Passives = Background_Urchin
-#: Public/Shared/Backgrounds/Backgrounds.lsx:119
-msgctxt "hfc574d04g1194g4d05gbd18g5ba690653dca"
-msgid "Urchin"
-msgstr "부랑아"
-
 #. FilePath = Public/GustavDev/Backgrounds/Backgrounds.lsx
 #. NodeID = Background
 #. HandlePath = Description
@@ -9232,3 +8988,253 @@ msgstr ""
 msgctxt "hc1ff7042ga8cfg4934g954egefde79a5aa48"
 msgid "Legend of Baldur's Gate"
 msgstr "발더스 게이트의 전설"
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = Description
+#. Passives = Background_Acolyte
+#: Public/Shared/Backgrounds/Backgrounds.lsx:8
+msgctxt "hc8252abag3e39g42edg8bbdg81ff077c6918"
+msgid ""
+"You have spent your life in service to a temple, learning sacred rites and "
+"providing sacrifices to the god or gods you worship. Serving the gods and "
+"discovering their sacred works will guide you to greatness."
+msgstr ""
+"당신은 신전에서 봉사하며, 신성한 의식을 익히고 모시는 신(들)에게 제물을 공양하는 삶을 살아왔습니다. 신을 섬기며 그들이 이룬 신성한 "
+"업적을 발견해내면 당신은 위대한 경지로 인도될 것입니다."
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = DisplayName
+#. Passives = Background_Acolyte
+#: Public/Shared/Backgrounds/Backgrounds.lsx:9
+msgctxt "hb10c1825g27e8g47fag9e51gf79f5a8d1c2f"
+msgid "Acolyte"
+msgstr "복사"
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = Description
+#. Passives = Background_Charlatan
+#: Public/Shared/Backgrounds/Backgrounds.lsx:19
+msgctxt "hc2a850cbg31e7g459dgbe67g508f2cf9e34a"
+msgid ""
+"You're an expert in manipulation, prone to exaggeration and more than happy "
+"to profit from it. Bending the truth and turning allies against each other "
+"will lead to greater success down the road."
+msgstr ""
+"당신은 상황 조작의 전문가로, 과장을 일삼는 경향이 있으며 거기서 이득을 얻는 것을 좋아합니다. 진실을 왜곡하고 상대를 같은 편끼리 "
+"싸우게 만들면 더 큰 성과를 얻게 될 것입니다."
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = DisplayName
+#. Passives = Background_Charlatan
+#: Public/Shared/Backgrounds/Backgrounds.lsx:20
+msgctxt "h4858e9a1gb81fg4335g9839gcd8e479ce0cc"
+msgid "Charlatan"
+msgstr "사기꾼"
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = Description
+#. Passives = Background_Criminal
+#: Public/Shared/Backgrounds/Backgrounds.lsx:30
+msgctxt "h272b6b69g45d1g46e0g94c7gdffa9d6f6977"
+msgid ""
+"You have a history of breaking the law and survive by leveraging less-than-"
+"legal connections. Profiting from criminal enterprise will lead to greater "
+"opportunities in the future."
+msgstr ""
+"당신은 전과가 있는 인물이며 법에 저촉되는 연줄을 활용해 생존해 왔습니다. 범죄 기획으로 이득을 얻어 내면 향후 더 대단한 기회에 접근할 "
+"수 있을 것입니다."
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = DisplayName
+#. Passives = Background_Criminal
+#: Public/Shared/Backgrounds/Backgrounds.lsx:31
+msgctxt "h3da3856dg029eg4476gb757g01c7cbdc44e6"
+msgid "Criminal"
+msgstr "범죄자"
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = Description
+#. Passives = Background_Entertainer
+#: Public/Shared/Backgrounds/Backgrounds.lsx:41
+msgctxt "h8836d00eg7705g445dgb3ddg3267612158ad"
+msgid ""
+"You live to sway and subvert your audience, engaging common crowds and high "
+"society alike. Preserving art and bringing joy to the hapless and "
+"downtrodden heightens your charismatic aura."
+msgstr ""
+"당신은 관객을 장악하고 그들의 관념을 뒤집어엎는 삶을 추구하며, 일반 대중과 상류층 모두의 마음을 사로잡습니다. 예술을 보호하며, "
+"불운하고 탄압받는 이들에게 즐거움을 선사해주면 당신의 매력이 고조될 것입니다."
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = DisplayName
+#. Passives = Background_Entertainer
+#: Public/Shared/Backgrounds/Backgrounds.lsx:42
+msgctxt "h4aab9e83g2faeg420fg829fg4a48a1e72bed"
+msgid "Entertainer"
+msgstr "연예인"
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = Description
+#. Passives = Background_FolkHero
+#: Public/Shared/Backgrounds/Backgrounds.lsx:52
+msgctxt "ha2408e5ag545ag4a95ga943ge2d09c63bf81"
+msgid ""
+"You're a champion of the common people, challenging tyrants and monsters to "
+"protect the helpless. Saving innocents in imminent danger will make your "
+"legend grow."
+msgstr ""
+"당신은 민중들의 투사로, 힘없는 이들을 보호하기 위해 폭군과 괴물에게 도전합니다. 무고한 이를 절체절명의 위기에서 구해주면 당신의 전설은 "
+"더욱 커질 것입니다."
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = DisplayName
+#. Passives = Background_FolkHero
+#: Public/Shared/Backgrounds/Backgrounds.lsx:53
+msgctxt "h23f8fc07g20e5g43a4gba1bgbb976e4c1557"
+msgid "Folk Hero"
+msgstr "민중 영웅"
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = Description
+#. Passives = Background_GuildArtisan
+#: Public/Shared/Backgrounds/Backgrounds.lsx:63
+msgctxt "h2423bbe6g99a3g44bcg987ag91722bdab14d"
+msgid ""
+"Your skill in a particular craft has earned you membership in a mercantile "
+"guild, offering privileges and protection while engaging in your art. "
+"Repairing and discovering rare crafts will bring new inspiration."
+msgstr ""
+"당신은 특수한 공예 기술로 상인 길드에서 자리를 얻었으며, 특권과 보호를 누리며 자신의 재주를 펼쳤습니다. 희귀한 공예품을 수리하거나 "
+"발견하면 새로운 영감을 얻을 것입니다."
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = DisplayName
+#. Passives = Background_GuildArtisan
+#: Public/Shared/Backgrounds/Backgrounds.lsx:64
+msgctxt "h256017d5g3d5fg4b8dg968ega7074ce7a090"
+msgid "Guild Artisan"
+msgstr "길드 장인"
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = Description
+#. Passives = Background_Noble
+#: Public/Shared/Backgrounds/Backgrounds.lsx:74
+msgctxt "hf4777470g419ag46fdgb3c2g335169065ce2"
+msgid ""
+"You were raised in a family among the social elite, accustomed to power and "
+"privilege. Accumulating renown, power, and loyalty will raise your status."
+msgstr "당신은 권위와 특권에 익숙한 상류 사회의 가정에서 자랐습니다. 명성, 힘, 충성심을 쌓아 올리면 당신의 상황이 향상될 것입니다."
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = DisplayName
+#. Passives = Background_Noble
+#: Public/Shared/Backgrounds/Backgrounds.lsx:75
+msgctxt "h85c48005g524eg41acg86d6g65ea50d8c179"
+msgid "Noble"
+msgstr "귀족"
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = Description
+#. Passives = Background_Outlander
+#: Public/Shared/Backgrounds/Backgrounds.lsx:85
+msgctxt "h6eb68c6cg86e4g434bg93cegb6c1356f3337"
+msgid ""
+"You grew up in the wilds, learning to survive far from the comforts of "
+"civilisation. Surviving unusual hazards of the wild will enhance your "
+"prowess and understanding."
+msgstr ""
+"당신은 야생의 환경에서 자라, 문명의 안락함과는 동떨어진 데서 생존하는 법을 터득했습니다. 야생의 생소한 위험 속에서 살아남으면 당신의 "
+"기량과 이해력이 향상될 것입니다."
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = DisplayName
+#. Passives = Background_Outlander
+#: Public/Shared/Backgrounds/Backgrounds.lsx:86
+msgctxt "h198c786cg54aag4408g9201g85069571dd1a"
+msgid "Outlander"
+msgstr "방랑자"
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = Description
+#. Passives = Background_Sage
+#: Public/Shared/Backgrounds/Backgrounds.lsx:96
+msgctxt "h6e9c7e20g1434g4bebg841eg43b7ba040200"
+msgid ""
+"You are curious and well-read, with an unending thirst for knowledge. "
+"Learning about rare lore of the world will inspire you to put this knowledge "
+"to greater purpose."
+msgstr ""
+"당신은 호기심 넘치고 박식하며 지식에 대한 끝없는 갈망을 품고 있습니다. 세계의 희귀한 지식을 습득하면 이를 활용해 더 큰 목적을 성취할 "
+"수 있을 것입니다."
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = DisplayName
+#. Passives = Background_Sage
+#: Public/Shared/Backgrounds/Backgrounds.lsx:97
+msgctxt "h020e2f73g0065g4b18g9079g57b665eae064"
+msgid "Sage"
+msgstr "현자"
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = Description
+#. Passives = Background_Soldier
+#: Public/Shared/Backgrounds/Backgrounds.lsx:107
+msgctxt "h8f84eff7g7d52g4a4bgb2edgc968e71cdd92"
+msgid ""
+"You are trained in battlefield tactics and combat, having served in a "
+"militia, mercenary company, or officer corps. Show smart tactics and bravery "
+"on the battlefield to enhance your prowess."
+msgstr ""
+"당신은 민병대, 용병단이나 장교단에서 복무하여 전장의 전술과 전투에 관한 훈련을 받았습니다. 전장에서 현명한 전법과 용맹을 발휘해 당신의 "
+"위용을 드높여 보십시오."
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = DisplayName
+#. Passives = Background_Soldier
+#: Public/Shared/Backgrounds/Backgrounds.lsx:108
+msgctxt "h0813c1b0gb6deg4a8cg8edag8bb1467df512"
+msgid "Soldier"
+msgstr "군인"
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = Description
+#. Passives = Background_Urchin
+#: Public/Shared/Backgrounds/Backgrounds.lsx:118
+msgctxt "haf35fb1ag533bg4fbfg8bb2gfacee676a28a"
+msgid ""
+"After surviving a poor and bleak childhood, you know how to make the most "
+"out of very little. Using your street smarts bolsters your spirit for the "
+"journey ahead."
+msgstr ""
+"가난하고 암울했던 어린 시절을 살아남은 당신은 가장 하찮은 것조차도 최대한 활용하는 방법을 알고 있습니다. 당신의 길거리 지식을 활용하면 "
+"앞으로의 여정을 위한 사기가 북돋을 것입니다."
+
+#. FilePath = Public/Shared/Backgrounds/Backgrounds.lsx
+#. NodeID = Background
+#. HandlePath = DisplayName
+#. Passives = Background_Urchin
+#: Public/Shared/Backgrounds/Backgrounds.lsx:119
+msgctxt "hfc574d04g1194g4d05gbd18g5ba690653dca"
+msgid "Urchin"
+msgstr "부랑아"

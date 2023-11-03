@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-23 01:38+0900\n"
-"PO-Revision-Date: 2023-11-01 19:37+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"POT-Creation-Date: 2023-11-03 18:50+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.0.0\n"
 
 #. FilePath = Public/SharedDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -119,6 +117,146 @@ msgstr ""
 msgctxt "h401e72d2gb9d7g44f3gbd64gc95934805222"
 msgid "Luck Point(s)"
 msgstr "행운 포인트"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Interrupt_MAG_CriticalExecution
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:8
+msgctxt "hb31192e3g460eg46c9g81a5g953e66df08ee"
+msgid "Critical Execution"
+msgstr "치명타 처형"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Interrupt_MAG_ParalyzingCritical
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:15
+msgctxt "h1d881b86g5eceg486bg8706g6b9ea9b44795"
+msgid "Paralyzing Critical"
+msgstr "마비 치명타"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Interrupt_MAG_Shield
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:22
+msgctxt "h5784805eg341eg4e88g8073g3b0c0e9d1b2f"
+msgid "Shield"
+msgstr "방패"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Interrupt_MAG_Shield_LeatherArmor
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:29
+msgctxt "h19f23e5fg0855g4b33ga9adg470bce49727e"
+msgid "Shield"
+msgstr "방패"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Interrupt_MAG_Shield_HarpersAmulet
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:36
+msgctxt "hfcc8fbc5g75ebg494fg8a4cgd13caf2c46ea"
+msgid "Shield"
+msgstr "방패"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Interrupt_MAG_SecondChance
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:43
+msgctxt "h70b94fb9gc92cg428eg841dg96b5f6850725"
+msgid "Amulet of Second Chance"
+msgstr "두 번째 기회의 아뮬렛"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Passive_MAG_Extended_Target_Cantrip
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:50
+msgctxt "hd7dfc5d0g270bg44ecg8038ga0ec9b526eba"
+msgid "Extended Cantrips"
+msgstr "소마법 연장화"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Passive_MAG_ClosQuarterRangedSpell
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:57
+msgctxt "hcacdc7cdgeccdg499eg997dg0515a30f5b62"
+msgid "Close Quarter Spell"
+msgstr "근접 주문"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Passive_MAG_Warlock_Quickened_Cantrips
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:64
+msgctxt "ha94be1f1g1ddcg4c9cga735g6e3d8956b9fa"
+msgid "Quickened Cantrips"
+msgstr "소마법 신속화"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Interrupt_MAG_Counterspell
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:71
+msgctxt "h2ae2afb5gd50eg4d06g893dgc473b933d76f"
+msgid "Counterspell"
+msgstr "주문차단"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Interrupt_Scarab_Of_Protection
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:78
+msgctxt "h7d02c746g1eaeg413cga478g599fd904245f"
+msgid "Scarab of Protection"
+msgstr "보호의 스카라브"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Interrupt_Legendary_InfernalResistance
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:85
+msgctxt "h53b2acd7ga777g4c62g8b2eg9cdb910db192"
+msgid "Infernal Resistance"
+msgstr "지옥 저항"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Interrupt_LegendaryEvasion_Protection
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:92
+msgctxt "h2cba659cgd104g4931gb375g2dc1b1c8a590"
+msgid "Legendary Evasion"
+msgstr "전설적 회피"
+
+#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
+#. NodeID = ActionResourceDefinition
+#. HandlePath = DisplayName
+#. Name = Interrupt_AbsorbElements
+#. ReplenishType = Never
+#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:99
+msgctxt "h76cc8a84g9f7fg4d3egacefg684184d5101b"
+msgid "Absorb Elements"
+msgstr "원소 흡수"
 
 #. FilePath = Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -627,146 +765,6 @@ msgstr "맹세의 힘을 끌어내 행동을 강화할 수 있는 횟수입니�
 msgctxt "hf8f63addg6eeeg48e3g9b7fg902ebcca694d"
 msgid "Channel Oath Charge"
 msgstr "맹세 선언 충전"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Interrupt_MAG_CriticalExecution
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:8
-msgctxt "hb31192e3g460eg46c9g81a5g953e66df08ee"
-msgid "Critical Execution"
-msgstr "치명타 처형"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Interrupt_MAG_ParalyzingCritical
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:15
-msgctxt "h1d881b86g5eceg486bg8706g6b9ea9b44795"
-msgid "Paralyzing Critical"
-msgstr "마비 치명타"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Interrupt_MAG_Shield
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:22
-msgctxt "h5784805eg341eg4e88g8073g3b0c0e9d1b2f"
-msgid "Shield"
-msgstr "방패"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Interrupt_MAG_Shield_LeatherArmor
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:29
-msgctxt "h19f23e5fg0855g4b33ga9adg470bce49727e"
-msgid "Shield"
-msgstr "방패"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Interrupt_MAG_Shield_HarpersAmulet
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:36
-msgctxt "hfcc8fbc5g75ebg494fg8a4cgd13caf2c46ea"
-msgid "Shield"
-msgstr "방패"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Interrupt_MAG_SecondChance
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:43
-msgctxt "h70b94fb9gc92cg428eg841dg96b5f6850725"
-msgid "Amulet of Second Chance"
-msgstr "두 번째 기회의 아뮬렛"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Passive_MAG_Extended_Target_Cantrip
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:50
-msgctxt "hd7dfc5d0g270bg44ecg8038ga0ec9b526eba"
-msgid "Extended Cantrips"
-msgstr "소마법 연장화"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Passive_MAG_ClosQuarterRangedSpell
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:57
-msgctxt "hcacdc7cdgeccdg499eg997dg0515a30f5b62"
-msgid "Close Quarter Spell"
-msgstr "근접 주문"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Passive_MAG_Warlock_Quickened_Cantrips
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:64
-msgctxt "ha94be1f1g1ddcg4c9cga735g6e3d8956b9fa"
-msgid "Quickened Cantrips"
-msgstr "소마법 신속화"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Interrupt_MAG_Counterspell
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:71
-msgctxt "h2ae2afb5gd50eg4d06g893dgc473b933d76f"
-msgid "Counterspell"
-msgstr "주문차단"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Interrupt_Scarab_Of_Protection
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:78
-msgctxt "h7d02c746g1eaeg413cga478g599fd904245f"
-msgid "Scarab of Protection"
-msgstr "보호의 스카라브"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Interrupt_Legendary_InfernalResistance
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:85
-msgctxt "h53b2acd7ga777g4c62g8b2eg9cdb910db192"
-msgid "Infernal Resistance"
-msgstr "지옥 저항"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Interrupt_LegendaryEvasion_Protection
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:92
-msgctxt "h2cba659cgd104g4931gb375g2dc1b1c8a590"
-msgid "Legendary Evasion"
-msgstr "전설적 회피"
-
-#. FilePath = Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx
-#. NodeID = ActionResourceDefinition
-#. HandlePath = DisplayName
-#. Name = Interrupt_AbsorbElements
-#. ReplenishType = Never
-#: Public/GustavDev/ActionResourceDefinitions/ActionResourceDefinitions.lsx:99
-msgctxt "h76cc8a84g9f7fg4d3egacefg684184d5101b"
-msgid "Absorb Elements"
-msgstr "원소 흡수"
 
 #. FilePath = Public/Shared/Calendar/DayRanges.lsx
 #. NodeID = DayRange
@@ -3625,8 +3623,10 @@ msgstr "잠겨있어야 합니다."
 #. HandlePath = DisplayName
 #. Identifier = CE_A_Grounded_True
 #: Public/Shared/ErrorDescriptions/ConditionErrors.lsx:236
+#, fuzzy
+#| msgid "Target can't be Restrained."
 msgctxt "h0005b404g6facg4574g9a8cg6de138cc2fd6"
-msgid "Target can't be Restrained."
+msgid "Target cannot be moved by force."
 msgstr "구속될 수 없습니다."
 
 #. FilePath = Public/Shared/ErrorDescriptions/ConditionErrors.lsx
@@ -7715,7 +7715,7 @@ msgstr "석상 "
 #. LevelName = BGH_SteelWatchFoundry_B
 #. Name = DEC_GEN_Towels_Stacked_A_000
 #. Type = scenery
-#: Mods/GustavDev/Levels/BGH_SteelWatchFoundry_B/Scenery/_merged.lsx:12553
+#: Mods/GustavDev/Levels/BGH_SteelWatchFoundry_B/Scenery/_merged.lsx:12555
 msgctxt "h4fdedfc3gf347g49d1ga512g5bdb2187709e"
 msgid "Stacked Towels"
 msgstr "수건 더미"
@@ -7746,82 +7746,6 @@ msgstr "조각상"
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. LevelName = GLO_Cambion_C
-#. Name = FUR_GEN_House_Chair_Rich_B_007
-#. Type = scenery
-#. 
-#. FilePath = Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. LevelName = GLO_Cambion_B
-#. Name = FUR_GEN_House_Chair_Rich_B_007
-#. Type = scenery
-#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:2783
-#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:6488
-msgctxt "h6384e5fbg8ac1g4c97g976dgd561fc229814"
-msgid "Mahogany Chair"
-msgstr "마호가니 의자"
-
-#. FilePath = Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. LevelName = GLO_Cambion_C
-#. Name = FUR_GEN_House_Chair_Rich_B_002
-#. Type = scenery
-#. 
-#. FilePath = Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. LevelName = GLO_Cambion_B
-#. Name = FUR_GEN_House_Chair_Rich_B_002
-#. Type = scenery
-#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:13905
-#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:14591
-msgctxt "h5a8c96deg76a9g4651g9cdeg7616b2ec05c8"
-msgid "Mahogany Chair"
-msgstr "마호가니 의자"
-
-#. FilePath = Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. LevelName = GLO_Cambion_C
-#. Name = FUR_GEN_House_Chair_Rich_B_004
-#. Type = scenery
-#. 
-#. FilePath = Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. LevelName = GLO_Cambion_B
-#. Name = FUR_GEN_House_Chair_Rich_B_004
-#. Type = scenery
-#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:18742
-#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:2628
-msgctxt "he3c871c6g38ddg469egbcabg53b098eca25a"
-msgid "Mahogany Chair"
-msgstr "마호가니 의자"
-
-#. FilePath = Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. LevelName = GLO_Cambion_C
-#. Name = FUR_GEN_House_Chair_Rich_B_008
-#. Type = scenery
-#. 
-#. FilePath = Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. LevelName = GLO_Cambion_B
-#. Name = FUR_GEN_House_Chair_Rich_B_008
-#. Type = scenery
-#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:22005
-#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:9295
-msgctxt "h03e41171g0984g49cdg8d38g6d9a714948c8"
-msgid "Mahogany Chair"
-msgstr "마호가니 의자"
-
-#. FilePath = Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx
-#. NodeID = GameObjects
-#. HandlePath = DisplayName
-#. LevelName = GLO_Cambion_C
 #. Name = FUR_GEN_House_Chair_Rich_B_003
 #. Type = scenery
 #. 
@@ -7831,8 +7755,8 @@ msgstr "마호가니 의자"
 #. LevelName = GLO_Cambion_B
 #. Name = FUR_GEN_House_Chair_Rich_B_003
 #. Type = scenery
-#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:38159
 #: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:648
+#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:38159
 msgctxt "hcfb10c94g24efg4665g98bdg28200c064f33"
 msgid "Mahogany Chair"
 msgstr "마호가니 의자"
@@ -7841,18 +7765,56 @@ msgstr "마호가니 의자"
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. LevelName = GLO_Cambion_C
-#. Name = FUR_GEN_House_Chair_Rich_B_009
+#. Name = FUR_GEN_House_Chair_Rich_B_004
 #. Type = scenery
 #. 
 #. FilePath = Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. LevelName = GLO_Cambion_B
-#. Name = FUR_GEN_House_Chair_Rich_B_009
+#. Name = FUR_GEN_House_Chair_Rich_B_004
 #. Type = scenery
-#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:39668
-#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:14968
-msgctxt "hf713959eg3523g4cb8ga405gcda2cfe4ae70"
+#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:2628
+#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:18742
+msgctxt "he3c871c6g38ddg469egbcabg53b098eca25a"
+msgid "Mahogany Chair"
+msgstr "마호가니 의자"
+
+#. FilePath = Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx
+#. NodeID = GameObjects
+#. HandlePath = DisplayName
+#. LevelName = GLO_Cambion_C
+#. Name = FUR_GEN_House_Chair_Rich_B_006
+#. Type = scenery
+#. 
+#. FilePath = Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx
+#. NodeID = GameObjects
+#. HandlePath = DisplayName
+#. LevelName = GLO_Cambion_B
+#. Name = FUR_GEN_House_Chair_Rich_B_006
+#. Type = scenery
+#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:5467
+#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:43098
+msgctxt "h93b8a952g64e9g4475gbc88ga12fa15d308b"
+msgid "Mahogany Chair"
+msgstr "마호가니 의자"
+
+#. FilePath = Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx
+#. NodeID = GameObjects
+#. HandlePath = DisplayName
+#. LevelName = GLO_Cambion_C
+#. Name = FUR_GEN_House_Chair_Rich_B_007
+#. Type = scenery
+#. 
+#. FilePath = Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx
+#. NodeID = GameObjects
+#. HandlePath = DisplayName
+#. LevelName = GLO_Cambion_B
+#. Name = FUR_GEN_House_Chair_Rich_B_007
+#. Type = scenery
+#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:6488
+#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:2783
+msgctxt "h6384e5fbg8ac1g4c97g976dgd561fc229814"
 msgid "Mahogany Chair"
 msgstr "마호가니 의자"
 
@@ -7869,8 +7831,8 @@ msgstr "마호가니 의자"
 #. LevelName = GLO_Cambion_B
 #. Name = FUR_GEN_House_Chair_Rich_B_005
 #. Type = scenery
-#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:42343
 #: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:8511
+#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:42343
 msgctxt "h83f3624cg0267g4ab2g8ccdg393924887b03"
 msgid "Mahogany Chair"
 msgstr "마호가니 의자"
@@ -7879,36 +7841,74 @@ msgstr "마호가니 의자"
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. LevelName = GLO_Cambion_C
-#. Name = FUR_GEN_House_Chair_Rich_B_006
+#. Name = FUR_GEN_House_Chair_Rich_B_008
 #. Type = scenery
 #. 
 #. FilePath = Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. LevelName = GLO_Cambion_B
-#. Name = FUR_GEN_House_Chair_Rich_B_006
+#. Name = FUR_GEN_House_Chair_Rich_B_008
 #. Type = scenery
-#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:43098
-#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:5467
-msgctxt "h93b8a952g64e9g4475gbc88ga12fa15d308b"
+#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:9295
+#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:22005
+msgctxt "h03e41171g0984g49cdg8d38g6d9a714948c8"
 msgid "Mahogany Chair"
 msgstr "마호가니 의자"
 
-#. FilePath = Mods/Gustav/Levels/PLT_TUT_Elevator/Scenery/_merged.lsx
+#. FilePath = Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
-#. LevelName = PLT_TUT_Elevator
-#. Name = BLD_GEN_Platform_A_Wood_A_4D_0n1H_2W_Floor_A_Dynamic_000
+#. LevelName = GLO_Cambion_C
+#. Name = FUR_GEN_House_Chair_Rich_B_002
 #. Type = scenery
 #. 
+#. FilePath = Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx
+#. NodeID = GameObjects
+#. HandlePath = DisplayName
+#. LevelName = GLO_Cambion_B
+#. Name = FUR_GEN_House_Chair_Rich_B_002
+#. Type = scenery
+#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:14591
+#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:13905
+msgctxt "h5a8c96deg76a9g4651g9cdeg7616b2ec05c8"
+msgid "Mahogany Chair"
+msgstr "마호가니 의자"
+
+#. FilePath = Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx
+#. NodeID = GameObjects
+#. HandlePath = DisplayName
+#. LevelName = GLO_Cambion_C
+#. Name = FUR_GEN_House_Chair_Rich_B_009
+#. Type = scenery
+#. 
+#. FilePath = Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx
+#. NodeID = GameObjects
+#. HandlePath = DisplayName
+#. LevelName = GLO_Cambion_B
+#. Name = FUR_GEN_House_Chair_Rich_B_009
+#. Type = scenery
+#: Mods/Gustav/Levels/GLO_Cambion_B/Scenery/_merged.lsx:14968
+#: Mods/GustavDev/Levels/GLO_Cambion_C/Scenery/_merged.lsx:39668
+msgctxt "hf713959eg3523g4cb8ga405gcda2cfe4ae70"
+msgid "Mahogany Chair"
+msgstr "마호가니 의자"
+
 #. FilePath = Mods/GustavDev/Levels/PLT_SCL_MindFlayerColony_Elevator_B/Scenery/_merged.lsx
 #. NodeID = GameObjects
 #. HandlePath = DisplayName
 #. LevelName = PLT_SCL_MindFlayerColony_Elevator_B
 #. Name = BLD_GEN_Platform_A_Wood_A_4D_0n1H_2W_Floor_A_Dynamic_000
 #. Type = scenery
-#: Mods/GustavDev/Levels/PLT_SCL_MindFlayerColony_Elevator_B/Scenery/_merged.lsx:8
+#. 
+#. FilePath = Mods/Gustav/Levels/PLT_TUT_Elevator/Scenery/_merged.lsx
+#. NodeID = GameObjects
+#. HandlePath = DisplayName
+#. LevelName = PLT_TUT_Elevator
+#. Name = BLD_GEN_Platform_A_Wood_A_4D_0n1H_2W_Floor_A_Dynamic_000
+#. Type = scenery
 #: Mods/Gustav/Levels/PLT_TUT_Elevator/Scenery/_merged.lsx:8
+#: Mods/GustavDev/Levels/PLT_SCL_MindFlayerColony_Elevator_B/Scenery/_merged.lsx:8
 msgctxt "hf21020efgb616g4c79ga7b3gaddbb0c892df"
 msgid "Wooden Floorboards"
 msgstr "목재 마루판"
@@ -7941,7 +7941,7 @@ msgstr "요리 솥"
 #. LevelName = WLD_Main_A
 #. Name = S_HAG_GraveFlowers
 #. Type = scenery
-#: Mods/Gustav/Levels/WLD_Main_A/Scenery/_merged.lsx:5356
+#: Mods/Gustav/Levels/WLD_Main_A/Scenery/_merged.lsx:5350
 msgctxt "h67fa1be5g2a16g4e17gb082g4871b485038e"
 msgid "Purple Coneflowers"
 msgstr "보라색 에키네시아"
@@ -7952,7 +7952,7 @@ msgstr "보라색 에키네시아"
 #. LevelName = WLD_Main_A
 #. Name = S_FOR_Thayan_ApothecaryHerbs
 #. Type = scenery
-#: Mods/Gustav/Levels/WLD_Main_A/Scenery/_merged.lsx:10826
+#: Mods/Gustav/Levels/WLD_Main_A/Scenery/_merged.lsx:10816
 msgctxt "h41ff8c07g0b13g4af9g8fc9g01421e8b7f00"
 msgid "Withered flowers"
 msgstr "시든 꽃"
@@ -7963,7 +7963,7 @@ msgstr "시든 꽃"
 #. LevelName = WLD_Main_A
 #. Name = S_FOR_Owlbear_HatchedEgg_001
 #. Type = scenery
-#: Mods/Gustav/Levels/WLD_Main_A/Scenery/_merged.lsx:11519
+#: Mods/Gustav/Levels/WLD_Main_A/Scenery/_merged.lsx:11509
 msgctxt "h5ba683fag7839g4804g9860g3ed77d21a90b"
 msgid "Hatched Eggs"
 msgstr "부화한 알"
@@ -7974,7 +7974,7 @@ msgstr "부화한 알"
 #. LevelName = WLD_Main_A
 #. Name = DEC_CEM_Coffin_Wood_Poor_A_001
 #. Type = scenery
-#: Mods/Gustav/Levels/WLD_Main_A/Scenery/_merged.lsx:12022
+#: Mods/Gustav/Levels/WLD_Main_A/Scenery/_merged.lsx:12012
 msgctxt "h9fb58a65g5e98g47b2gbfeag0b96fcca9cbe"
 msgid "Open Coffin"
 msgstr "열린 관"
@@ -7985,7 +7985,7 @@ msgstr "열린 관"
 #. LevelName = WLD_Main_A
 #. Name = DEC_CEM_Coffin_Wood_Poor_A_000
 #. Type = scenery
-#: Mods/Gustav/Levels/WLD_Main_A/Scenery/_merged.lsx:12657
+#: Mods/Gustav/Levels/WLD_Main_A/Scenery/_merged.lsx:12647
 msgctxt "h6e55da1agdb6dg42dcg896fg81a0008e2f4f"
 msgid "Open Coffin"
 msgstr "열린 관"
@@ -7996,7 +7996,7 @@ msgstr "열린 관"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_127
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:12176
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:12174
 msgctxt "hb23b9697g0badg4a93g90cbg01d29a4771ab"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8007,7 +8007,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_131
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:21239
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:21236
 msgctxt "h9a596a96gecc1g4381ga3a3ged2ac6cf9d34"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8018,7 +8018,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_189
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:30214
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:30211
 msgctxt "h58081ad9gdc85g4242g9b41g5c2ff9c21524"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8029,7 +8029,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_130
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:37249
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:37247
 msgctxt "h28801752g7f98g4914g89fbgd923affc2782"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8040,7 +8040,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_136
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:53841
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:53832
 msgctxt "hf033a460g66d9g4e43g9a43g6647fbba895e"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8051,7 +8051,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_190
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:54716
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:54707
 msgctxt "h661dc296geed8g4a72gb5f6g704444410253"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8062,7 +8062,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_128
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:58316
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:58307
 msgctxt "he3be9f02gc834g4321gb566gfe4bc50db771"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8073,7 +8073,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_187
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:85109
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:85099
 msgctxt "ha5cd0cceg8f28g49aagb233g0e39be09bff6"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8084,7 +8084,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_194
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:102287
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:102275
 msgctxt "hb5d52838g10eag4f12g8454g9164c8b892c3"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8095,7 +8095,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_193
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:103770
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:103758
 msgctxt "hdf85fa84g5f47g46d3g9a06g463d4766974d"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8106,7 +8106,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_192
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:117083
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:117071
 msgctxt "h3d895dfag00c0g430agad43gceef4eee0c10"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8117,7 +8117,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = LTS_DUN_Bowls_H_115
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:133847
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:133834
 msgctxt "h7461b62dg5b35g4200gb399g54d7ec2012e0"
 msgid "Brazier"
 msgstr "화로"
@@ -8128,7 +8128,7 @@ msgstr "화로"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_135
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:269572
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:269538
 msgctxt "h4588dd82g062dg451eg87ffgf83a0579d61d"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8139,7 +8139,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_126
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:294321
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:294286
 msgctxt "hf7c0497eg2377g4f67g901eg0448ea711c22"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8150,7 +8150,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_188
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:306054
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:306018
 msgctxt "hb946dde6gce11g450bgbd9cg686ed5549210"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8161,7 +8161,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_SharTemple_E
 #. Name = DEC_GEN_Statue_Shar_Wall_A_191
 #. Type = scenery
-#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:313784
+#: Mods/GustavDev/Levels/WLD_SharTemple_E/Scenery/_merged.lsx:313746
 msgctxt "h3aaf16f7g7b36g498cgb2a3g0156e2e524d3"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8172,7 +8172,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_UnderdarkSubs_C
 #. Name = DEC_GEN_Statue_Shar_Wall_A_019
 #. Type = scenery
-#: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:161371
+#: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:161374
 msgctxt "he83f0d92g4afeg4963g9ed8gc43eae7a92d5"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8183,7 +8183,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_UnderdarkSubs_C
 #. Name = LTS_DUN_Bowls_D_Gold_Destruct_002
 #. Type = scenery
-#: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:180752
+#: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:180755
 msgctxt "h9607191cgc52fg4dc9ga664gd28bbbfd46a4"
 msgid "Brazier"
 msgstr "화로"
@@ -8194,7 +8194,7 @@ msgstr "화로"
 #. LevelName = WLD_UnderdarkSubs_C
 #. Name = DEC_GEN_Statue_Shar_Wall_A_016
 #. Type = scenery
-#: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:247538
+#: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:247542
 msgctxt "h2f015edfgfe2eg4e5cg956bgbe911416077d"
 msgid "Relief of Shar"
 msgstr "샤의 안도"
@@ -8205,7 +8205,7 @@ msgstr "샤의 안도"
 #. LevelName = WLD_UnderdarkSubs_C
 #. Name = LTS_DUN_Bowls_D_Gold_Destruct_000
 #. Type = scenery
-#: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:249182
+#: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:249186
 msgctxt "h094f3ed3gac69g47c6gb57ag5a6fe4775107"
 msgid "Brazier"
 msgstr "화로"
@@ -8216,7 +8216,7 @@ msgstr "화로"
 #. LevelName = WLD_UnderdarkSubs_C
 #. Name = LTS_DUN_Bowls_D_Gold_Destruct_001
 #. Type = scenery
-#: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:281627
+#: Mods/Gustav/Levels/WLD_UnderdarkSubs_C/Scenery/_merged.lsx:281631
 msgctxt "hf6503ca7g9d2ag4a63g8c53g5f3b110756bd"
 msgid "Brazier"
 msgstr "화로"
@@ -8235,7 +8235,7 @@ msgstr "화로"
 #. Name = DEC_Alchemy_Miscellaneous_Bookrest_A_002
 #. Type = scenery
 #: Mods/Gustav/Levels/WLD_VillageSubs_C/Scenery/_merged.lsx:33145
-#: Mods/Gustav/Levels/WLD_VillageSubs_C/Scenery/_merged.lsx:82518
+#: Mods/Gustav/Levels/WLD_VillageSubs_C/Scenery/_merged.lsx:82521
 msgctxt "ha27f07e3gac70g40eeg9be6g5bb873ded6a2"
 msgid "Book Rest"
 msgstr "독서대"
@@ -14097,31 +14097,6 @@ msgctxt "h2b7fe12ege3e4g42f0g8b9bg6ee81c206ea1"
 msgid "Sir Fuzzalump"
 msgstr "퍼잘럼프 경"
 
-#. FilePath = Public/Shared/Origins/Origins.lsx
-#. NodeID = Origin
-#. HandlePath = Description
-#. Name = Generic
-#. Passives = DeathSavingThrows
-#: Public/Shared/Origins/Origins.lsx:12
-msgctxt "h6a745207gc5e9g4d27gab7eg3358b5b76cdd"
-msgid ""
-"You've always felt you had a greater calling, but it has never borne fruit. "
-"Everything changes when you awaken imprisoned on an alien ship. Perhaps your "
-"time has finally come."
-msgstr ""
-"당신은 항상 본인에게 더 큰 부름이 있다고 느꼈지만, 아직 그 결실을 보지는 못했습니다. 외계 우주선에 갇힌 채 깨어나면 모든 것이 바뀔 "
-"것입니다. 어쩌면 당신의 때가 마침내 찾아왔는지도 모르겠습니다."
-
-#. FilePath = Public/Shared/Origins/Origins.lsx
-#. NodeID = Origin
-#. HandlePath = DisplayName
-#. Name = Generic
-#. Passives = DeathSavingThrows
-#: Public/Shared/Origins/Origins.lsx:13
-msgctxt "he7b2baecg7683g43acga5b0gb168078ec60f"
-msgid "Custom"
-msgstr "커스텀"
-
 #. FilePath = Public/GustavDev/Origins/Origins.lsx
 #. NodeID = Origin
 #. HandlePath = Description
@@ -14379,6 +14354,31 @@ msgstr "어두운 충동"
 msgctxt "hc012761egbc0bg45f5ga42dga49d1bdc1714"
 msgid "Losiir"
 msgstr "로시르"
+
+#. FilePath = Public/Shared/Origins/Origins.lsx
+#. NodeID = Origin
+#. HandlePath = Description
+#. Name = Generic
+#. Passives = DeathSavingThrows
+#: Public/Shared/Origins/Origins.lsx:12
+msgctxt "h6a745207gc5e9g4d27gab7eg3358b5b76cdd"
+msgid ""
+"You've always felt you had a greater calling, but it has never borne fruit. "
+"Everything changes when you awaken imprisoned on an alien ship. Perhaps your "
+"time has finally come."
+msgstr ""
+"당신은 항상 본인에게 더 큰 부름이 있다고 느꼈지만, 아직 그 결실을 보지는 못했습니다. 외계 우주선에 갇힌 채 깨어나면 모든 것이 바뀔 "
+"것입니다. 어쩌면 당신의 때가 마침내 찾아왔는지도 모르겠습니다."
+
+#. FilePath = Public/Shared/Origins/Origins.lsx
+#. NodeID = Origin
+#. HandlePath = DisplayName
+#. Name = Generic
+#. Passives = DeathSavingThrows
+#: Public/Shared/Origins/Origins.lsx:13
+msgctxt "he7b2baecg7683g43acga5b0gb168078ec60f"
+msgid "Custom"
+msgstr "커스텀"
 
 #. FilePath = Public/Gustav/Origins/Origins.lsx
 #. NodeID = Origin
@@ -17120,38 +17120,12 @@ msgstr "악기 숙련"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Acrobatics)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:352
-msgctxt "h98fde208g8d95g4832g80e3g09076bb94095"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Acrobatics\">Acrobatics</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Acrobatics\">곡예</LSTag>굴림에 <LSTag Tooltip=\"ProficiencyBonus"
-"\">숙련 보너스</LSTag>를 더합니다."
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
 #. HandlePath = DisplayName
 #. ExactMatch = ProficiencyBonus(Skill,Acrobatics)
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:353
 msgctxt "he51e9588g5c26g43b6gb890gbb06dd2172a8"
 msgid "Acrobatics Proficiency"
 msgstr "곡예 숙련"
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,AnimalHandling)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:358
-msgctxt "h1a87477cge794g43eag8f06ge44364db9f39"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"AnimalHandling\">Animal Handling</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"AnimalHandling\">동물 조련</LSTag>에 <LSTag Tooltip="
-"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17164,38 +17138,12 @@ msgstr "동물 조련 숙련"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Arcana)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:364
-msgctxt "h6f02c973gced3g4f0bg824egd8a9e908673e"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Arcana\">Arcana</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Arcana\">비전</LSTag> 굴림에 <LSTag Tooltip=\"ProficiencyBonus\""
-">숙련 보너스</LSTag>를 더합니다."
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
 #. HandlePath = DisplayName
 #. ExactMatch = ProficiencyBonus(Skill,Arcana)
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:365
 msgctxt "h974ac395g7cc6g4e7cg8637g3c40c644dff3"
 msgid "Arcana Proficiency"
 msgstr "비전 숙련"
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Athletics)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:370
-msgctxt "h3bad03f6gbd5bg41dfg851fg20ef293804a7"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Athletics\">Athletics</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Athletics\">운동</LSTag> 굴림에 <LSTag Tooltip=\"ProficiencyBonus"
-"\">숙련 보너스</LSTag>를 더합니다."
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17208,38 +17156,12 @@ msgstr "운동 숙련"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Deception)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:376
-msgctxt "he56b4fb7g8194g4d5fg93f9g0737ccb7875a"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Deception\">Deception</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Deception\">기만</LSTag> 굴림에 <LSTag Tooltip=\"ProficiencyBonus"
-"\">숙련 보너스</LSTag>를 더합니다."
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
 #. HandlePath = DisplayName
 #. ExactMatch = ProficiencyBonus(Skill,Deception)
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:377
 msgctxt "he2452f19g2c3ag4cbag9139gdc52235e248f"
 msgid "Deception Proficiency"
 msgstr "기만 숙련"
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,History)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:382
-msgctxt "heaf1d1ebg749eg4c72g8660g10a7f86c96bb"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"History\">History</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"History\">역사</LSTag> 굴림에 <LSTag Tooltip=\"ProficiencyBonus\""
-">숙련 보너스</LSTag>를 더합니다."
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17252,38 +17174,12 @@ msgstr "역사 숙련"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Insight)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:395
-msgctxt "h33f3ebfdg817cg480cg9dccg22c4bbceefd0"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Insight\">Insight</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Insight\">통찰</LSTag> 굴림에 <LSTag Tooltip=\"ProficiencyBonus\""
-">숙련 보너스</LSTag>를 더합니다."
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
 #. HandlePath = DisplayName
 #. ExactMatch = ProficiencyBonus(Skill,Insight)
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:396
 msgctxt "hc7cc4db1gf8b2g4189gb6e8gc83b2dbfabc7"
 msgid "Insight Proficiency"
 msgstr "통찰 숙련"
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Intimidation)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:401
-msgctxt "h1863263agc7e4g4ca0g8080g20bc6405bc5e"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Intimidation\">Intimidation</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Intimidation\">위협</LSTag> 굴림에 <LSTag Tooltip="
-"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17296,38 +17192,12 @@ msgstr "위협 숙련"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Investigation)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:407
-msgctxt "h48b6b30bg488eg45e3gb488g9e7ccd6d99db"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Investigation\">Investigation</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Investigation\">조사</LSTag> 굴림에 <LSTag Tooltip="
-"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
 #. HandlePath = DisplayName
 #. ExactMatch = ProficiencyBonus(Skill,Investigation)
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:408
 msgctxt "hbcfb2291gef12g4d1dga12agf99da0d4deb4"
 msgid "Investigation Proficiency"
 msgstr "조사 숙련"
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Medicine)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:413
-msgctxt "h2ebacb87g7bf2g482ag8f79gfc747bb6b00b"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Medicine\">Medicine</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Medicine\">의학</LSTag> 굴림에 <LSTag Tooltip=\"ProficiencyBonus"
-"\">숙련 보너스</LSTag>를 더합니다."
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17340,38 +17210,12 @@ msgstr "의학 숙련"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Nature)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:419
-msgctxt "h53d646f7g0a96g4399g830eg5bbd0525e421"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Nature\">Nature</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Nature\">자연</LSTag> 굴림에 <LSTag Tooltip=\"ProficiencyBonus\""
-">숙련 보너스</LSTag>를 더합니다."
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
 #. HandlePath = DisplayName
 #. ExactMatch = ProficiencyBonus(Skill,Nature)
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:420
 msgctxt "h47fa246eg97c5g467aga28eg42ccd14b3ad9"
 msgid "Nature Proficiency"
 msgstr "자연 숙련"
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Perception)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:425
-msgctxt "h27c02de4g0f49g4788ga01fgca43a6f7fb13"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Perception\">Perception</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Perception\">기만</LSTag> 굴림에 <LSTag Tooltip="
-"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17384,38 +17228,12 @@ msgstr "지각 숙련"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Performance)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:431
-msgctxt "hebc5cb52gc046g47b5ga9bfgd0151eaa60c9"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Performance\">Performance</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Performance\">공연</LSTag> 굴림에 <LSTag Tooltip="
-"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
 #. HandlePath = DisplayName
 #. ExactMatch = ProficiencyBonus(Skill,Performance)
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:432
 msgctxt "h8c4c4dfdgcd7fg45f4ga400g695a93991a74"
 msgid "Performance Proficiency"
 msgstr "공연 숙련"
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Persuasion)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:437
-msgctxt "hd14e778dgecd6g45a2gb292g0361a5eb047c"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Persuasion\">Persuasion</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Persuasion\">설득</LSTag> 굴림에 <LSTag Tooltip="
-"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17428,38 +17246,12 @@ msgstr "설득 숙련"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Religion)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:443
-msgctxt "h37367995g46d6g473bg9a2bgcb3f9f3fccaa"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Religion\">Religion</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Religion\">종교</LSTag> 굴림에 <LSTag Tooltip=\"ProficiencyBonus"
-"\">숙련 보너스</LSTag>를 더합니다."
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
 #. HandlePath = DisplayName
 #. ExactMatch = ProficiencyBonus(Skill,Religion)
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:444
 msgctxt "h7f10db57g6038g4e1bg925dgd5f4401b7215"
 msgid "Religion Proficiency"
 msgstr "종교 숙련"
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,SleightOfHand)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:449
-msgctxt "h49679d28ga32fg4073gb86bgb5c5af905140"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"SleightOfHand\">Sleight of Hand</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"SleightOfHand\">손재주</LSTag> 굴림에 <LSTag Tooltip="
-"\"ProficiencyBonus\">숙련 보너스</LSTag>를 더합니다."
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -17472,38 +17264,12 @@ msgstr "손재주 숙련"
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Stealth)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:455
-msgctxt "hebaa0c62gdcecg4493g98f2g4b9d4bd09c8a"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Stealth\">Stealth</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Stealth\">은신</LSTag> 굴림에 <LSTag Tooltip=\"ProficiencyBonus\""
-">숙련 보너스</LSTag>를 더합니다."
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
 #. HandlePath = DisplayName
 #. ExactMatch = ProficiencyBonus(Skill,Stealth)
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:456
 msgctxt "h378e6737g3f53g4625gbbd8gbdcfad316d93"
 msgid "Stealth Proficiency"
 msgstr "은신 숙련"
-
-#. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
-#. NodeID = ProgressionDescription
-#. HandlePath = Description
-#. ExactMatch = ProficiencyBonus(Skill,Survival)
-#: Public/Shared/Progressions/ProgressionDescriptions.lsx:461
-msgctxt "ha37dde39g3bd1g410eg84e5g672e713d3445"
-msgid ""
-"Add your <LSTag Tooltip=\"ProficiencyBonus\">Proficiency Bonus</LSTag> to "
-"any <LSTag Tooltip=\"Survival\">Survival</LSTag> roll."
-msgstr ""
-"<LSTag Tooltip=\"Survival\">생존</LSTag> 굴림에 <LSTag Tooltip=\"ProficiencyBonus"
-"\">숙련 보너스</LSTag>를 더합니다."
 
 #. FilePath = Public/Shared/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -19097,9 +18863,13 @@ msgstr "마족"
 #. HandlePath = Description
 #. Type = GreatOldOne
 #: Public/Shared/Progressions/ProgressionDescriptions.lsx:1107
+#, fuzzy
+#| msgid ""
+#| "Warlocks bound to eldritch beings in the Far Realms work towards inscrutable "
+#| "goals, gaining strange powers over entropy and the mind."
 msgctxt "hb7b7d61egabe0g4d48g812dgb214269b1a72"
 msgid ""
-"Warlocks bound to eldritch beings in the Far Realms work towards inscrutable "
+"Warlocks bound to eldritch beings in the Far Realm work towards inscrutable "
 "goals, gaining strange powers over entropy and the mind."
 msgstr ""
 "외우주의 섬뜩한 존재에게 종속되어 그들의 형언할 수 없는 목표를 위해 일하는 워락은 엔트로피와 정신에 관한 기묘한 힘을 얻습니다."
@@ -24525,8 +24295,10 @@ msgstr "단 1개의 저장 슬롯만 사용할 수 있으며, 파티원이 죽�
 #. Default = false
 #. Name = IRONMAN_MODE
 #: Public/Shared/Ruleset/RulesetModifiers.lsx:44
+#, fuzzy
+#| msgid "Tactician"
 msgctxt "hc46a669cgdbedg4bb4g8bfbg7940e7dd74d1"
-msgid "Tactician"
+msgid "Honour"
 msgstr "전술가"
 
 #. FilePath = Public/Shared/Ruleset/RulesetModifiers.lsx
@@ -26255,38 +26027,6 @@ msgctxt "hfe3fdd5cgf398g41f6g83dbgce649e2c64e5"
 msgid "Voice 4"
 msgstr "목소리 4"
 
-#. FilePath = Public/Shared/Voices/Voices.lsx
-#. NodeID = Voice
-#. HandlePath = DisplayName
-#: Public/Shared/Voices/Voices.lsx:9
-msgctxt "h0f3e340agfd77g4938g8d61gf8f58a6427ed"
-msgid "Voice 1"
-msgstr "목소리 1"
-
-#. FilePath = Public/Shared/Voices/Voices.lsx
-#. NodeID = Voice
-#. HandlePath = DisplayName
-#: Public/Shared/Voices/Voices.lsx:16
-msgctxt "hc068f5b5gde77g4d77ga1b6g930c84677f04"
-msgid "Voice 2"
-msgstr "목소리 2"
-
-#. FilePath = Public/Shared/Voices/Voices.lsx
-#. NodeID = Voice
-#. HandlePath = DisplayName
-#: Public/Shared/Voices/Voices.lsx:23
-msgctxt "hcc153d5dgc0fag4494ga28agc5a33cafcb68"
-msgid "Voice 3"
-msgstr "목소리 3"
-
-#. FilePath = Public/Shared/Voices/Voices.lsx
-#. NodeID = Voice
-#. HandlePath = DisplayName
-#: Public/Shared/Voices/Voices.lsx:30
-msgctxt "haf8931bdg6ea3g49f7g9621ge56041f00826"
-msgid "Voice 4"
-msgstr "목소리 4"
-
 #. FilePath = Public/Gustav/Voices/Voices.lsx
 #. NodeID = Voice
 #. HandlePath = DisplayName
@@ -26350,3 +26090,35 @@ msgstr "윌의 음성"
 msgctxt "h7160dd97g8707g405ega034g91548484be2c"
 msgid "Voice of Karlach"
 msgstr "칼라크의 음성"
+
+#. FilePath = Public/Shared/Voices/Voices.lsx
+#. NodeID = Voice
+#. HandlePath = DisplayName
+#: Public/Shared/Voices/Voices.lsx:9
+msgctxt "h0f3e340agfd77g4938g8d61gf8f58a6427ed"
+msgid "Voice 1"
+msgstr "목소리 1"
+
+#. FilePath = Public/Shared/Voices/Voices.lsx
+#. NodeID = Voice
+#. HandlePath = DisplayName
+#: Public/Shared/Voices/Voices.lsx:16
+msgctxt "hc068f5b5gde77g4d77ga1b6g930c84677f04"
+msgid "Voice 2"
+msgstr "목소리 2"
+
+#. FilePath = Public/Shared/Voices/Voices.lsx
+#. NodeID = Voice
+#. HandlePath = DisplayName
+#: Public/Shared/Voices/Voices.lsx:23
+msgctxt "hcc153d5dgc0fag4494ga28agc5a33cafcb68"
+msgid "Voice 3"
+msgstr "목소리 3"
+
+#. FilePath = Public/Shared/Voices/Voices.lsx
+#. NodeID = Voice
+#. HandlePath = DisplayName
+#: Public/Shared/Voices/Voices.lsx:30
+msgctxt "haf8931bdg6ea3g49f7g9621ge56041f00826"
+msgid "Voice 4"
+msgstr "목소리 4"

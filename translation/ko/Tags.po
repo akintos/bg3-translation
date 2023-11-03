@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-23 01:40+0900\n"
-"PO-Revision-Date: 2023-10-23 01:37+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"POT-Creation-Date: 2023-11-03 18:50+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.0.0\n"
 
 #. UUID = 04ae77c4-f708-4ffa-8c8b-3b762a066e2e
 #. 
@@ -390,22 +388,22 @@ msgstr "금단의 지식"
 #. 
 #. NodeID = Tags
 #. HandlePath = DisplayName
-#. Description = |This item can be used to open locks|
-#. Name = LOCKPICKS
+#. Description = Crime reaction tag for Moonrise Dungeon Mindwitness
+#. Name = ACT1_MOO_MINDWITNESS
 #. 
 #. NodeID = Tags
 #. HandlePath = DisplayName
-#. Description = Crime reaction tag for Moonrise Dungeon Mindwitness
-#. Name = ACT1_MOO_MINDWITNESS
+#. Description = |This item can be used to open locks|
+#. Name = LOCKPICKS
 #. 
 #. NodeID = Tags
 #. HandlePath = DisplayDescription
 #. Description = Earned by finishing the Tome of Thayan Necromancy. Will be relevant in later acts.
 #. Name = FORBIDDENKNOWLEDGE
-#: Public/Shared/Tags/1013e720-9b0f-4783-8686-9b5506840088.lsx:8
+#: Public/GustavDev/Tags/0ef680af-d077-466f-a9f3-0f9fa7104d24.lsx:8
 #: Public/Shared/Tags/0668a5fd-72e0-4f9e-b85e-baae8796c637.lsx:7
 #: Public/Shared/Tags/0668a5fd-72e0-4f9e-b85e-baae8796c637.lsx:8
-#: Public/GustavDev/Tags/0ef680af-d077-466f-a9f3-0f9fa7104d24.lsx:8
+#: Public/Shared/Tags/1013e720-9b0f-4783-8686-9b5506840088.lsx:8
 #: Public/Gustav/Tags/673cb6af-f12b-4d6e-abfa-1bb83cf4ce44.lsx:7
 msgctxt "h204da519g01abg4ecbgbeafg603c52d65312"
 msgid ""
@@ -1056,6 +1054,17 @@ msgstr ""
 "자헤이라의 모험의 역사 이야기는 서술하기에는 너무나도 깁니다. 다만 이렇게 정리할 순 있습니다. 자헤이라는 헛소리는 듣지 않지만, 목숨은 "
 "받아갑니다."
 
+#. UUID = 31d621af-5add-48a5-fa9a-313cba567171
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayName
+#. Name = SCRATCH_FETCH
+#. Description = |Tag for items that Scratch will try to fetch when thrown.|
+#: Public/GustavDev/Tags/31d621af-5add-48a5-9afa-3c3156ba7171.lsx:8
+msgctxt "h1e57f1c4gc1aag4115gb0c7g07e0e59798ce"
+msgid "Scratch can fetch"
+msgstr ""
+
 #. UUID = 3797bfc4-8004-4a19-7895-ce6114070bcc
 #. 
 #. NodeID = Tags
@@ -1063,8 +1072,8 @@ msgstr ""
 #. Name = FULL_CEREMORPH
 #. Description = |Player has become a full Mind Flayer|
 #: Public/GustavDev/Tags/3797bfc4-8004-4a19-9578-61ce0714cc0b.lsx:8
-#: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:508
-#: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:781
+#: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:585
+#: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:787
 msgctxt "h3660be4ag5385g4bf3g9d0bg1d304d634389"
 msgid "Full-Illithid"
 msgstr "완전한 일리시드"
@@ -1471,8 +1480,8 @@ msgstr "레이븐가드가 사다리 위로 올라가 미조라의 거미의 범
 #. Name = PARTIAL_CEREMORPH
 #. Description = |Has the player accepted the Emperor's offer to start transforming into a mindflayer?|
 #: Public/GustavDev/Tags/c0cd4ed8-11d1-4fb1-ae3a-3a14e41267c8.lsx:8
-#: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:244
-#: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:365
+#: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:321
+#: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:371
 msgctxt "he1923f58g7436g4389gaccagd0451014a925"
 msgid "Partial-Illithid"
 msgstr "부분 일리시드화"
@@ -3158,6 +3167,7 @@ msgstr ""
 #. Name = AVATAR
 #. Description = A Character Selected in Character Creation
 #: Public/Shared/Tags/306b9b05-1057-4770-aa17-01af21acd650.lsx:8
+#: Public/Game/GUI/Library/DataTemplates_k.xaml:711
 msgctxt "h15fc75eeg6c56g42e5g8882gbfdd714c5845"
 msgid "Avatar"
 msgstr "아바타"
@@ -9037,6 +9047,17 @@ msgctxt "h499c0c05g0a1cg4dc0ga7c4gb97c4903ca98"
 msgid "Kuo-Toa"
 msgstr "쿠오토아"
 
+#. UUID = e45ea222-a86f-4e00-caa1-d89858b2ceb1
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayName
+#. Name = HAS_EXCLAMATION_DIALOG
+#. Description = For characters that have the overhead exclamation dialog VFX.
+#: Public/Shared/Tags/e45ea222-a86f-4e00-a1ca-98d8b258b1ce.lsx:8
+msgctxt "h03921356gae44g4ffcgb0b9g51ec5114ede5"
+msgid "HAS_EXCLAMATION_DIALOG"
+msgstr ""
+
 #. UUID = e49c027c-6ec6-4158-fb9a-598b6d23fd10
 #. 
 #. NodeID = Tags
@@ -10235,9 +10256,12 @@ msgstr ""
 #. NodeID = Tags
 #. HandlePath = DisplayName
 #. Name = WIZARD_NECROMANCY
+#. Description = This tag identifies the player as a Necromancy Wizard
 #: Public/SharedDev/Tags/90d7fbd5-1264-4bd6-93ba-67c2116e6ab0.lsx:8
+#, fuzzy
+#| msgid "Bhosco, Wizard Studied in Necromancy"
 msgctxt "h146a8bd0g0d23g42abg8abfg21f88f1a349d"
-msgid "Bhosco, Wizard Studied in Necromancy"
+msgid "School of Necromancy"
 msgstr "사령계 마법을 수련한 위저드, 보스코"
 
 #. UUID = 92aae5aa-4595-4f1c-d296-249ed3996f5c
@@ -10568,6 +10592,17 @@ msgstr "그룸쉬의 팔라딘"
 msgctxt "h1a11b111g8825g46fdgb8a1ga25d69a8f01f"
 msgid "Sim, A servant of Gruumsh One-Eye, God of Conquest and patron of orcs."
 msgstr "정복의 신이자 오크의 후원자 외눈의 그룸쉬의 종, 심"
+
+#. UUID = e80394b9-d51b-40c6-7ba0-0fb3295779f2
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayName
+#. Name = DISCOVERED_SCRATCH
+#. Description = |Tag for items that Scratch has already found.|
+#: Public/SharedDev/Tags/e80394b9-d51b-40c6-a07b-b30f5729f279.lsx:8
+msgctxt "h86eb8879ge44cg4508g80cagb005725aa9d3"
+msgid "Discovered by Scratch"
+msgstr ""
 
 #. UUID = e8193d83-f2bc-4e21-7385-e1b4cc586393
 #. 
