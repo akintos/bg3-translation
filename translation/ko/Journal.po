@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-11-04 13:37+0000\n"
+"Last-Translator: 요하네스 <lowsdy1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -3049,7 +3051,7 @@ msgctxt "hf20a203bg5c69g4208gbeddg419b5e18e3d4"
 msgid ""
 "After Lorroakan's downfall, Rolan has become the master of Ramazith's Tower. "
 "He has given us Nightsong's bounty as a reward."
-msgstr ""
+msgstr "로로아칸의 몰락 후, 롤란이 라마지스의 탑의 주인이 되었다. 롤란에게서 나이트송의 현상금을 보상으로 받았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -3061,7 +3063,7 @@ msgctxt "h884a45b9g9ec2g41begbd17g8a32425ecaee"
 msgid ""
 "We betrayed Dame Aylin, but after the ensuing battle there was no one left "
 "alive to reward us."
-msgstr ""
+msgstr "우리는 여기사 에일린을 배신하였지만, 보상을 줄 사람이 아무도 남지 않았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -3073,7 +3075,7 @@ msgctxt "hb2a701bcgb9a8g4aa0ga594g0081c60191aa"
 msgid ""
 "We sided with Lorroakan against Dame Aylin. We must speak with him in order "
 "to claim our reward."
-msgstr ""
+msgstr "우리는 여기사 에일린에 맞서 로로아칸의 편에 섰다. 보상을 받기 위해 로로아칸과 대화하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -3083,7 +3085,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11680
 msgctxt "hb428e0b3g074eg4898g86a9gdc6c3f2cc0d4"
 msgid "Collect your reward from Lorroakan."
-msgstr ""
+msgstr "로로아칸에게서 보상을 받자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -3095,7 +3097,7 @@ msgctxt "h2974f9cbg4cb9g4cdegb709g5ae6ac68a90b"
 msgid ""
 "We sided with Lorroakan against Dame Aylin, but battle also claimed the "
 "wizard's life. We should speak with Rolan."
-msgstr ""
+msgstr "우리는 여기사 에일린에 맞서 로로아칸의 편에 섰지만, 전투 중에 로로아칸의 목숨 또한 빼앗겼다. 롤란과 대화하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -3105,7 +3107,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11669
 msgctxt "h44b5f13bgea58g4c0bg819dgeb5f0c1569c8"
 msgid "Collect your reward from Rolan."
-msgstr ""
+msgstr "롤란에게서 보상을 받자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -3116,7 +3118,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/77d69c73-13c6-4cf4-beaa-2f7acebbcfd8.lsx:8
 msgctxt "h92381888g2facg4d42g8266g069f85a99f1c"
 msgid "Rolan"
-msgstr ""
+msgstr "롤란"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -3126,7 +3128,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:3778
 msgctxt "heef3a734gb30cg4e42gb87dgb0dadaca8e9b"
 msgid "We betrayed Dame Aylin, but neglected to claim a reward."
-msgstr ""
+msgstr "우리는 여기사 에일린을 배신했지만, 보상을 받지 않았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18145,7 +18147,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:21950
 msgctxt "h34270fddg9ef2g414bg9761g0dc51187dba1"
 msgid "Grand Duke Ravengard is dead."
-msgstr ""
+msgstr "레이븐가드 대공은 죽었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18156,7 +18158,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:21971
 msgctxt "hbce3c6d1g61c3g40d6gb341gc031be4057fa"
 msgid "Grand Duke Ravengard is safe, and grateful for our help."
-msgstr ""
+msgstr "레이븐가드 대공은 안전하고, 우리의 도움에 고마워했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18169,7 +18171,7 @@ msgctxt "ha34bd661g2facg43ceg9ba8gb7b547b1db56"
 msgid ""
 "Mizora asked us to meet her in camp. She has an important proposal to make "
 "regarding Wyll's father, Grand Duke Ravengard."
-msgstr ""
+msgstr "미조라가 야영지에서 만나기를 바란다. 윌의 아버지, 레이븐가드 대공에 관해 중요한 제안이 있다고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -18791,7 +18793,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/b6776ad2-911f-465a-9918-a542464e6558.lsx:8
 msgctxt "ha7aa2d6egad58g4774ga8cag3e7a87905575"
 msgid "Road to Baldur's Gate"
-msgstr ""
+msgstr "발더스 게이트로 향하는 길"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18804,6 +18806,8 @@ msgid ""
 "Raphael left without revealing anything about Astarion's scars. It seems if "
 "we want answers, we'll need to reach Baldur's Gate and ask Cazador himself."
 msgstr ""
+"라파엘은 아스타리온의 흉터에 대해 아무것도 알려주지 않은 채 떠났다. 흉터의 정체를 알고 싶다면 발더스 게이트로 향해, 카자도르에게 직접 "
+"물어야 할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -18813,7 +18817,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11764
 msgctxt "hdfe3cbb2gc3f6g46a6gbf0ag486f2a79449c"
 msgid "Travel the road to Baldur's Gate."
-msgstr ""
+msgstr "발더스 게이트로 향하는 길을 여행하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18826,6 +18830,7 @@ msgid ""
 "We've reached Baldur's Gate. Astarion will want to find Cazador Szarr and "
 "face him, deciding his fate once and for all."
 msgstr ""
+"우리는 발더스 게이트에 도착했다. 아스타리온은 자신의 운명을 결정짓기 위해 카자도르 자르를 찾아, 그와 대면하고 싶어 할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -18835,7 +18840,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8472
 msgctxt "h9803cfc3gc41ag4437g9aa2gc5c6a9f5b1f6"
 msgid "Reach Cazador's palace."
-msgstr ""
+msgstr "카자도르의 성으로 향하자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -18846,7 +18851,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/d6559032-51fb-47c8-aba2-790807f7d11e.lsx:8
 msgctxt "hfd750373g9b69g432fg989eg808bbe32fbf2"
 msgid "Szarr Palace"
-msgstr ""
+msgstr "자르 대저택"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18861,6 +18866,8 @@ msgid ""
 "offered him a chance to redeem himself. Astarion agreed to help their "
 "children and kill Cazador."
 msgstr ""
+"아스타리온은 작은 괴물 사냥꾼 부족의 지도자, 울마를 만났다. 울마는 카자도르를 위해 자신의 아이들을 납치한 아스타리온을 알아보았지만, "
+"만회할 기회를 제안했다. 아스타리온은 아이들을 돕고 카자도르를 죽이는 것에 동의했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18875,6 +18882,8 @@ msgid ""
 "offered him a chance to redeem himself if he helped their children. Astarion "
 "refused and we were attacked by Ulma's people."
 msgstr ""
+"아스타리온은 작은 괴물 사냥꾼 부족의 지도자, 울마를 만났다. 울마는 카자도르를 위해 자신의 아이들을 납치한 아스타리온을 알아보았지만, "
+"만회할 기회를 제안했다. 아스타리온은 거절했고, 우리는 울마의 동료들에게 공격받았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18889,6 +18898,9 @@ msgid ""
 "offered him a chance to redeem himself. Astarion refused and Ulma asked us "
 "to help kill him. We agreed and Astarion attacked us."
 msgstr ""
+"아스타리온은 작은 괴물 사냥꾼 부족의 지도자, 울마를 만났다. 울마는 카자도르를 위해 자신의 아이들을 납치한 아스타리온을 알아보았지만, "
+"만회할 기회를 제안했다. 아스타리온은 거절했고, 울마는 우리에게 아스타리온을 죽이자고 제안했다. 우리는 제안을 받아들였고 아스타리온에게 "
+"공격받았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18904,6 +18916,9 @@ msgid ""
 "it's taking place in a defiled chapel beneath Cazador's palace before "
 "turning to mist and disappearing."
 msgstr ""
+"아스타리온은 프레이고의 여인숙에서 다른 뱀파이어 스폰, 달리리아와 페트라스를 만났다. 우리는 카자도르가 엄청난 힘을 얻을 수 있는 의식을 "
+"계획하고 있고, 아스타리온이 그 의식의 일부라는 사실을 알아냈다. 둘은 의식이 카자도르의 성 지하의 타락한 성당에서 이루어질 것이라는 "
+"사실을 밝히고는 안개가 되어 사라졌다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18919,6 +18934,9 @@ msgid ""
 "turned to mist and disappeared after a confrontation with Astarion. We will "
 "need to find Cazador to learn anything else."
 msgstr ""
+"아스타리온은 프레이고의 여인숙에서 다른 뱀파이어 스폰, 달리리아와 페트라스를 만났다. 우리는 카자도르가 엄청난 힘을 얻을 수 있는 의식을 "
+"계획하고 있고, 아스타리온이 그 의식의 일부라는 사실을 알아냈다. 둘은 아스타리온과의 충돌 후 안개가 되어 사라졌다. 더 많은 정보를 "
+"얻으려면 카자도르를 찾아야 할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18932,6 +18950,8 @@ msgid ""
 "Astarion and take him back to Cazador, but failed. Astarion will need to "
 "face Cazador if he's ever to be safe from his past."
 msgstr ""
+"한 무리의 뱀파이어 스폰이 밤중에 우리를 습격했다. 그들은 아스타리온을 납치해 카자도르에게 데려가려 했지만, 실패했다. 아스타리온은 "
+"과거에서 벗어나 안전해지기 위해서 카자도르와 대면해야 할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18945,6 +18965,8 @@ msgid ""
 "Astarion and took him back to Cazador. We need to find Cazador's palace if "
 "we're going to rescue Astarion."
 msgstr ""
+"한 무리의 뱀파이어 스폰이 밤중에 우리를 습격했다. 그들은 아스타리온을 납치해 카자도르에게 데려갔다. 아스타리온을 구하고 싶다면 "
+"카자도르의 성을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -18954,7 +18976,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:8483
 msgctxt "h9835a209gae4dg4e60ga092gcf2e9052ff7e"
 msgid "Locate and investigate Cazador's lair."
-msgstr ""
+msgstr "카자도르의 은신처를 찾아내고, 조사하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18966,7 +18988,7 @@ msgctxt "h1a4b5641gf994g49e3g8080g4218ad7e67ca"
 msgid ""
 "Astarion is free from Godey's kennel. We can now explore the palace and find "
 "Cazador."
-msgstr ""
+msgstr "아스타리온은 고디의 사육장에서 풀려났다. 이제 성을 조사하고 카자도르를 찾을 수 있을 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18978,7 +19000,7 @@ msgctxt "hbfb0a478g41e0g4481gb918g239b9c433003"
 msgid ""
 "We have entered Cazador's palace. Now we just need to find the vampire "
 "himself."
-msgstr ""
+msgstr "우리는 카자도르의 성에 들어왔다. 이젠 그 뱀파이어만 찾으면 된다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18990,7 +19012,7 @@ msgctxt "h9e682503gce75g4cb9ga6f7g4924ac333039"
 msgid ""
 "We used an elevator to descend into a secret dungeon under Cazador's Palace. "
 "We have yet to find what's hidden down here."
-msgstr ""
+msgstr "우리는 엘리베이터를 타고 카자도르의 성 밑의 비밀 지하 감옥으로 내려갔다. 무엇이 숨겨져 있는지 알아볼 차례다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -19007,6 +19029,9 @@ msgid ""
 "prison. We'll need to take it from him if we're to decide the prisoners' "
 "fates."
 msgstr ""
+"아스타리온은 자신이 카자도르에게 바쳤던 첫 희생양 중 한 명인 세바스찬을 만났다. 카자도르는 세바스찬을 식량이 아닌 뱀파이어 스폰으로 "
+"삼고 이 지하 감옥에 가둔 것이였다. 이곳에 아스타리온의 희생양들이 얼마나 더 '살아'있는지는 모르지만, 카자도르의 지팡이가 감옥을 "
+"제어한다는 사실을 알아냈다. 수감자들의 운명을 결정하기 위해서는 지팡이를 얻어야 할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -19020,6 +19045,8 @@ msgid ""
 "to sacrifice thousands of souls, including Astarion's, to ascend and gain "
 "incredible power."
 msgstr ""
+"우리는 카자도르가 치르려 하는 의식을 설명하는 두루마리를 발견했다. 카자도르는 아스타리온을 포함한 수천 명의 영혼을 희생시켜 승천하고, "
+"엄청난 힘을 손에 넣을 계획이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -19033,6 +19060,8 @@ msgid ""
 "prison. We'll need to take it from him if we're to decide the prisoners' "
 "fates."
 msgstr ""
+"우리는 카자도르가 감옥을 제어하는 마법 지팡이를 가지고 있다는 사실을 알았다. 수감자들의 운명을 결정하기 위해서는 지팡이를 얻어야 할 "
+"것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35630,7 +35659,7 @@ msgstr "만조의 알란드라 그레이에게 돌아가자."
 #: Mods/GustavDev/Story/Journal/Markers/c89fcd20-bdc0-474b-a3a1-77c7680b459e.lsx:8
 msgctxt "hbdcb477fg358fg416cgb27agad72a95be08d"
 msgid "Allandra Grey"
-msgstr ""
+msgstr "알란드라 그레이"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35772,6 +35801,7 @@ msgid ""
 "Holli the Waveservant.  Looks like both beast and master have fled the city. "
 "We should report back to Allandra Grey. "
 msgstr ""
+"파도종복 홀리를 죽인 '짐승'의 주인이 쓴 사직서를 발견했다. 짐승과 그 주인은 도시를 떠난 것 같다. 알란드라 그레이에게 보고해야겠다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35782,7 +35812,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:45693
 msgctxt "hffc4a071g66e5g4936ga648g05ce60f7d127"
 msgid "We told Allandra that the 'beast' and its master have fled the city."
-msgstr ""
+msgstr "알란드라에게 '짐승'과 그 주인이 도시를 떠났다고 말해주었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -35804,7 +35834,7 @@ msgctxt "h0362137egf6efg436bg8f8eg6f2fd46a96ef"
 msgid ""
 "According to Halsin, if we want to lift the shadow curse, we must find "
 "Thaniel - the spirit of the land."
-msgstr "할신에 의하면 그림자 저주를 풀기 위해서는 테니엘 - 대지의 영혼을 반드시 찾아야 한다."
+msgstr "할신에 의하면 그림자 저주를 풀기 위해서는 대지의 영혼 테니엘을 반드시 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective

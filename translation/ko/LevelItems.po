@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-11-04 13:37+0000\n"
+"Last-Translator: 요하네스 <lowsdy1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Mods/GustavDev/Levels/BGH_ArtistHouse_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -6243,7 +6245,7 @@ msgstr "나무 벤치"
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:139275
 msgctxt "hfc6bd39cgc712g4e75g801dgccb766a2fce7"
 msgid "Chandelier"
-msgstr ""
+msgstr "샹들리에"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -6389,7 +6391,7 @@ msgstr "등불"
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:159766
 msgctxt "h3d5c0d4eg99eeg4e2cgb23fg07363f49fad6"
 msgid "Chandelier"
-msgstr ""
+msgstr "샹들리에"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -8859,7 +8861,7 @@ msgstr "꽃병"
 #: Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx:1688
 msgctxt "h44d1138dg1d1dg4d62gbbcfg8c4c74d8c235"
 msgid "Chandelier"
-msgstr ""
+msgstr "샹들리에"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -8969,7 +8971,7 @@ msgstr "꽃병"
 #: Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx:13546
 msgctxt "he461d14ag6893g4826gb6f8g1e701967028b"
 msgid "Chandelier"
-msgstr ""
+msgstr "샹들리에"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_CazadorPalace_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -11901,7 +11903,7 @@ msgstr "오모톨라의 궤짝 열쇠"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:28947
 msgctxt "hd744a168g299eg4758g8a50g09ac87b5a377"
 msgid "High Security Vault nº7"
-msgstr ""
+msgstr "고급 보안 금고 7번"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12068,7 +12070,7 @@ msgstr "라임리치의 궤짝 열쇠"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:32274
 msgctxt "h5a593f3cgc63ag422bg93feg954ab7fc5c20"
 msgid "High Security Vault nº4"
-msgstr ""
+msgstr "고급 보안 금고 4번"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12195,11 +12197,9 @@ msgstr "'1번 금고'라는 글씨가 머리에 쓰여진 무거운 철제 열�
 #. Name = S_LOW_CountingHouse_Vault1_Key
 #. Type = item
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:35133
-#, fuzzy
-#| msgid "Counting House Vault 1 Key"
 msgctxt "hdeb90eeegbaf1g426ag9039g28fbcfaca3ab"
 msgid "High Security Vault nº1 Key"
-msgstr "회계 사무소 1번 금고 열쇠"
+msgstr "고급 보안 금고 1번 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12441,11 +12441,9 @@ msgstr "무거운 철제 열쇠"
 #. Name = S_LOW_CountingHouse_Vault3_Key
 #. Type = item
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:38844
-#, fuzzy
-#| msgid "Counting House Vault 3 Key"
 msgctxt "hc100dec4gbc3ag4a89g83feg9eb6bde9742a"
 msgid "High Security Vault nº3 Key"
-msgstr "회계 사무소 3번 금고 열쇠"
+msgstr "고급 보안 금고 3번 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13384,11 +13382,9 @@ msgstr ""
 #. Name = S_LOW_CountingHouse_Vault9_Key
 #. Type = item
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:54904
-#, fuzzy
-#| msgid "Counting House Vault 9 Key"
 msgctxt "h3fb22d9fg28dfg4b91g814ag97ccb08f051b"
 msgid "High Security Vault nº9 Key"
-msgstr "회계 사무소 9번 금고 열쇠"
+msgstr "고급 보안 금고 9번 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -14061,11 +14057,9 @@ msgstr ""
 #. Name = S_LOW_CountingHouse_Vault8_Key
 #. Type = item
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:65484
-#, fuzzy
-#| msgid "Counting House Vault 8 Key"
 msgctxt "hc7d96823ga7beg4650g999cg8c0af37eff43"
 msgid "High Security Vault nº8 Key"
-msgstr "회계 사무소 8번 금고 열쇠"
+msgstr "고급 보안 금고 8번 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -14390,7 +14384,7 @@ msgstr "양피지"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:70803
 msgctxt "hc2ddc38bg2682g4529gb31eg8952ca19313e"
 msgid "High Security Vault nº9"
-msgstr ""
+msgstr "고급 보안 금고 9번"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -14792,11 +14786,9 @@ msgstr "무거운 철제 열쇠"
 #. Name = S_LOW_CountingHouse_Vault4_Key
 #. Type = item
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:77012
-#, fuzzy
-#| msgid "Counting House Vault 4 Key"
 msgctxt "ha613b7f4gff2dg4b8fg88d1gae953e7b54f9"
 msgid "High Security Vault nº4 Key"
-msgstr "회계 사무소 4번 금고 열쇠"
+msgstr "고급 보안 금고 4번 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -14878,7 +14870,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:78495
 msgctxt "h23d11290gad1bg4331g8978g629b99adf2b6"
 msgid "High Security Vault nº6"
-msgstr ""
+msgstr "고급 보안 금고 6번"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -15378,7 +15370,7 @@ msgstr "헬름의 조각상"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:88664
 msgctxt "h3bc0263cgae28g47fdgb6efg0e60fa58b5e9"
 msgid "High Security Vault nº5"
-msgstr ""
+msgstr "고급 보안 금고 5번"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -15404,11 +15396,9 @@ msgstr "무거운 철제 열쇠"
 #. Name = S_LOW_CountingHouse_Vault7_Key
 #. Type = item
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:88911
-#, fuzzy
-#| msgid "Counting House Vault 7 Key"
 msgctxt "he17e4c2fg46fdg4622ga837g6e4db8e460cb"
 msgid "High Security Vault nº7 Key"
-msgstr "회계 사무소 7번 금고 열쇠"
+msgstr "고급 보안 금고 7번 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -15923,7 +15913,7 @@ msgstr "묘비"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:99484
 msgctxt "he4d04a75g2f58g4cefg8977ge6fb630757c2"
 msgid "High Security Vaults"
-msgstr ""
+msgstr "고급 보안 금고"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -16492,7 +16482,7 @@ msgstr "납골당 관문"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:110048
 msgctxt "h63947db9g967fg427fg960fg49c13adff1a9"
 msgid "High Security Vault nº1"
-msgstr ""
+msgstr "고급 보안 금고 1번"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -16894,7 +16884,7 @@ msgstr "티르 성소"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:116731
 msgctxt "he9dd6a64g7d5fg40b6ga49cgb5db17d47fab"
 msgid "High Security Vault nº3"
-msgstr ""
+msgstr "고급 보안 금고 3번"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -17250,7 +17240,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:123197
 msgctxt "h243cb0acg7b29g4c83gab1bg4dc6cfb6a852"
 msgid "High Security Vault nº8"
-msgstr ""
+msgstr "고급 보안 금고 8번"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -18598,7 +18588,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:155953
 msgctxt "h9e9b6fd9geb13g4078ga95ega9453101c34b"
 msgid "High Security Vault nº2"
-msgstr ""
+msgstr "고급 보안 금고 2번"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -18642,7 +18632,7 @@ msgstr "묘비"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:156971
 msgctxt "h0111ec18g0c4ag459agb11bgd4bbc26e86dd"
 msgid "Dagger of Levistus"
-msgstr ""
+msgstr "레비스투스의 단검"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26646,7 +26636,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:45133
 msgctxt "hdc9daa72ga269g455dga409g1ccce90278bb"
 msgid "Chandelier"
-msgstr ""
+msgstr "샹들리에"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26657,7 +26647,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:49003
 msgctxt "h8fa8d037gfa5ag4e3fgac03gbf826754769f"
 msgid "Chandelier"
-msgstr ""
+msgstr "샹들리에"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27102,7 +27092,7 @@ msgstr "마호가니 벤치"
 #: Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:126693
 msgctxt "h70b7e07dgf8eeg41a4ga01dg0bde02434df8"
 msgid "Chandelier"
-msgstr ""
+msgstr "샹들리에"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects

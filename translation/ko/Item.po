@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-11-04 13:37+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -478,7 +480,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/_merged.lsx:256670
 msgctxt "h0f225c42gd285g4ff9gb926gdb307ee11223"
 msgid "Salts of Copper Shavings"
-msgstr "구리 부스러기 소금"
+msgstr "구리 부스러기염"
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -2397,7 +2399,7 @@ msgstr "물에 적셔 놓으면 사랑에 번민하는 희미한 흐느낌을 �
 #: Public/SharedDev/RootTemplates/_merged.lsx:30767
 msgctxt "h12aef713ge2eeg41d3gb703gc7b7cc186eb5"
 msgid "Salts of Tree Bark"
-msgstr "나무껍질의 염"
+msgstr "나무껍질염"
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -4968,7 +4970,7 @@ msgctxt "h3d16d963gc0f1g43dbg8500g2587cbb7e9e3"
 msgid ""
 "This potion is so light, you feel that if you tossed it high, it might float "
 "like a lilypad on the pond of the air. "
-msgstr "이 포션은 정말 가벼워서 높이 던지면 연못 위의 수련 잎처럼 공중에 떠다닐 것만 같습니다. "
+msgstr "이 물약은 정말 가벼워서 높이 던지면 연못 위의 수련 잎처럼 공중에 떠다닐 것만 같습니다. "
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -10383,10 +10385,6 @@ msgstr "늘어진 피부의 머리"
 #. Stats = OBJ_BodyPart_Generic_Head
 #. Type = item
 #: Public/GustavDev/RootTemplates/_merged.lsx:144390
-#, fuzzy
-#| msgid ""
-#| "A whitered and hollowed head, mouth agape. Its lips are dragged down by "
-#| "rotten heavy jowls."
 msgctxt "he6096002gc79cg4017g8de2g273a5f48cc97"
 msgid ""
 "A withered and hollowed head, mouth agape. Its lips are dragged down by "
@@ -12699,7 +12697,6 @@ msgstr "마시기"
 #. Stats = OBJ_BloodPotion_Human
 #. Type = item
 #: Public/GustavDev/RootTemplates/_merged.lsx:4250
-#, fuzzy
 msgctxt "h19c27d42g9c55g4c1cga031gb3ba33ece025"
 msgid ""
 "Mundane pluckiness grants you <LSTag Tooltip=\"Proficiency\">Proficiency</"
@@ -12707,8 +12704,9 @@ msgid ""
 "Tooltip=\"LongRest\">Long Rest</LSTag> due to the wily resourcefulness now "
 "bubbling within it."
 msgstr ""
-"모든 <LSTag Tooltip=\"Skill\">기술</LSTag>에 <LSTag Tooltip=\"Proficiency\">숙련</"
-"LSTag>을 제공합니다. <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 취하기 전까지 효과가 지속됩니다."
+"평범했던 꾀는 이제 그 안에서 부글부글 끓어오르는 교활한 지략이 되어, <LSTag Tooltip=\"LongRest\">긴 휴식</"
+"LSTag>을 취하기 전까지 모든 <LSTag Tooltip=\"Skill\">기술</LSTag>에 <LSTag Tooltip="
+"\"Proficiency\">숙련</LSTag>을 제공합니다."
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -17360,10 +17358,6 @@ msgstr "호박 수프"
 #. Stats = CONS_FOOD_Soup_Pumpkin
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:265579
-#, fuzzy
-#| msgid ""
-#| "Creamy and smooth, this soup tastes like a winter evening spend by a warm "
-#| "hearth."
 msgctxt "h7db07379gbca3g4789gbff7g6f8a9d81746e"
 msgid ""
 "Creamy and smooth, this soup tastes like a winter evening spent by a warm "
@@ -18906,7 +18900,7 @@ msgstr "공격 증강 물약"
 #: Public/Shared/RootTemplates/_merged.lsx:667661
 msgctxt "he81c7c6egc46eg4d55g8b01g6218578aedbb"
 msgid "Barkskin Potion"
-msgstr "나무껍질 포션"
+msgstr "나무껍질 물약"
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -20207,7 +20201,7 @@ msgstr "광휘 피해에 <LSTag Tooltip=\"Resistant\">저항</LSTag>을 얻습�
 #: Public/Shared/RootTemplates/_merged.lsx:245885
 msgctxt "h62139e69gb76bg4101gbcbfgb71fc7d3c4bf"
 msgid "Fancy Potion Bottle"
-msgstr "화려한 포션병"
+msgstr "화려한 물약병"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -41636,10 +41630,6 @@ msgstr "그림 액자"
 #. Stats = OBJ_Painting_Landscape_A
 #. Type = item
 #: Public/SharedDev/RootTemplates/_merged.lsx:173032
-#, fuzzy
-#| msgid ""
-#| "Deliberately splotched with gold patches, this turqouise frame would be "
-#| "worth a good deal on its own to the right collector."
 msgctxt "h9585a7e0g2e59g452ag91bdg067c281aeb35"
 msgid ""
 "Deliberately splotched with gold patches, this turquoise frame would be "
@@ -41983,12 +41973,6 @@ msgstr "베인의 초상화"
 #. Stats = OBJ_Painting_Portrait_Generic
 #. Type = item
 #: Public/SharedDev/RootTemplates/_merged.lsx:222667
-#, fuzzy
-#| msgid ""
-#| "Abstract and a little disturbing for that, this portrait of Bane tries to "
-#| "depict his mastery of tyrannt using harsh, thick lines. Furthermore it "
-#| "renders him half-nude, oddly humanising, perhaps a nod to Bane's mortal "
-#| "origins before he ascended to godhood."
 msgctxt "h24b37c8agdadcg4263g8dbag1260f9e24e15"
 msgid ""
 "Abstract and a little disturbing for that, this portrait of Bane tries to "
@@ -42019,10 +42003,6 @@ msgstr "티플링 초상화"
 #. Stats = Painting_Portrait_Oval_A
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:481621
-#, fuzzy
-#| msgid ""
-#| "Detailed with a ruff and plush chair, this tielfing noble has been given a "
-#| "stoic air here."
 msgctxt "h943b667fgcc77g4fdbgbdd5g788e581211fb"
 msgid ""
 "Detailed with a ruff and plush chair, this tiefling noble has been given a "
@@ -42156,11 +42136,6 @@ msgstr "화염을 품은 라파엘"
 #. Stats = OBJ_Painting_Portrait_Generic
 #. Type = item
 #: Public/SharedDev/RootTemplates/_merged.lsx:149719
-#, fuzzy
-#| msgid ""
-#| "Strangely stiff and symmetrical in costruction, this image has an old-"
-#| "fashioned feel, as if Raphael commissioned something more flattering and the "
-#| "artist refused through a brave, bright protest."
 msgctxt "hf401a446g02a5g4d08g8a79gbda978d82323"
 msgid ""
 "Strangely stiff and symmetrical in construction, this image has an old-"
@@ -42190,11 +42165,6 @@ msgstr "화염을 품은 라파엘"
 #. Stats = OBJ_Painting_Portrait_Generic
 #. Type = item
 #: Public/SharedDev/RootTemplates/_merged.lsx:205834
-#, fuzzy
-#| msgid ""
-#| "Strangely stiff and symmetrical in costruction, this image has an old-"
-#| "fashioned feel, as if Raphael commissioned something more flattering and the "
-#| "artist refused through a brave, bright protest."
 msgctxt "he033eca9g937dg42eagac25g42c04809ecbb"
 msgid ""
 "Strangely stiff and symmetrical in construction, this image has an old-"
@@ -42337,10 +42307,6 @@ msgstr "출근 전의 믿음직한 티플링"
 #. Stats = Painting_Portrait_Rectangle_D
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:331945
-#, fuzzy
-#| msgid ""
-#| "Here an aristocrat poses before heading out to a day of poltiical discourse "
-#| "and chasing laws."
 msgctxt "hfe3bc964g6248g4ea9gbee8ga8e7659b1cd3"
 msgid ""
 "Here an aristocrat poses before heading out to a day of political discourse "
@@ -47647,12 +47613,11 @@ msgstr "보존된 마인드 플레이어 기생충"
 #. Name = LOOT_Druid_Autopsy_Set_Tadpole
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:379050
-#, fuzzy
 msgctxt "h8c62febcg36eeg444cg91cag888594b34367"
 msgid ""
 "Useless and limp, a mind flayer parasite hangs suspended in a clear mucoid "
 "fluid. Though dead, it can still be admired. "
-msgstr "탁한 수조의 깊숙한 곳에 흐느적거리는 기생충들이 얼핏 보입니다."
+msgstr "쓸모없고 축 늘어진 마인드 플레어 기생충이 맑은 점액질 액체에 매달려 있습니다. 죽었지만 여전히 감탄스럽습니다. "
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -50405,7 +50370,6 @@ msgstr "거칠고 너덜너덜해졌지만, 이 리넨들은 정성스럽게 접
 #. Stats = OBJ_Bedlinen
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:187440
-#, fuzzy
 msgctxt "hf9e7b5aaga40eg4ce6gb799g0199a710c704"
 msgid "Armour (civilian)"
 msgstr "갑옷 (민간용)"
@@ -52557,7 +52521,6 @@ msgstr "셀루네의 우상"
 #. Stats = OBJ_Idol_Selune
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:479894
-#, fuzzy
 msgctxt "h90d0e046gb518g46c1gb669g9516da84881f"
 msgid ""
 "A statue of Selûne, Our Lady of Silver, the Moonmaiden, gazing quietly at "
@@ -53240,7 +53203,7 @@ msgctxt "h9992bbc3g40aag4668gb03agca43d44c84d4"
 msgid ""
 "A small but heavy bar of untempered bronze, manufactured at the High House "
 "of Gond."
-msgstr "고위 곤드 집안에서 제조된 작지만 무거운 청동 막대기로, 단련되지 않은 청동입니다."
+msgstr "고위 곤드 가문에서 제조된, 작지만 무거운 제련되지 않은 청동괴입니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -53266,7 +53229,7 @@ msgctxt "hc9bc42cdg7fbbg41b9gbb00gd6c6ff97f7f1"
 msgid ""
 "A small but heavy bar of untempered gold, manufactured at the High House of "
 "Gond."
-msgstr "고위 곤드 가문에서 제조한 작지만 무거운 단련되지 않은 금괴입니다."
+msgstr "고위 곤드 가문에서 제조한, 작지만 무거운 제련되지 않은 금괴입니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -53288,12 +53251,11 @@ msgstr "미스랄 주괴"
 #. Stats = OBJ_Metalbar_Bronze
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:612455
-#, fuzzy
 msgctxt "h736916dbg0dfag419dg90dfg2388c032ff08"
 msgid ""
 "A small but heavy bar of exquisite mithral, manufactured at the High House "
 "of Gond."
-msgstr "고위 곤드 집안에서 제조된 작지만 무거운 청동 막대기로, 단련되지 않은 청동입니다."
+msgstr "고위 곤드 가문에서 제조된, 작지만 무거운 최상의 미스랄 괴입니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -53319,7 +53281,7 @@ msgctxt "h41a22ef3g68e4g43c9g957eg979b89f37b43"
 msgid ""
 "A small but heavy bar of untempered silver, manufactured at the High House "
 "of Gond."
-msgstr "고위 곤드 가문에서 생산한 작지만 무거운 단련되지 않은 은 덩어리입니다."
+msgstr "고위 곤드 가문에서 생산한, 작지만 무거운 단련되지 않은 은괴입니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -53902,7 +53864,6 @@ msgstr "청동 반지"
 #. Stats = ARM_Ring_D
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:451110
-#, fuzzy
 msgctxt "h85639af7g5cd3g445eg9150g068267397b73"
 msgid ""
 "A purple gemstone set in bronze, this ring has been crafted by a steady and "
@@ -56141,10 +56102,9 @@ msgstr "인간형 매혹의 두루마리"
 #. Stats = OBJ_Scroll_ChillTouch
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:350379
-#, fuzzy
 msgctxt "hb5a00eceg8724g43d0g9ac7g1622faf61382"
 msgid "Scroll of Bone Chill"
-msgstr "냉랭한 접촉의 두루마리"
+msgstr "싸늘한 손길의 두루마리"
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -56572,7 +56532,6 @@ msgstr "석화의 두루마리"
 #. Stats = OBJ_Scroll_Fly
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:79890
-#, fuzzy
 msgctxt "h73360d85gafd5g4b2dgaa32g068de79b7138"
 msgid "Scroll of Fly"
 msgstr "비행의 두루마리"
@@ -56693,10 +56652,9 @@ msgstr "가속의 두루마리"
 #. Stats = OBJ_Scroll_HideousLaughter
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:398905
-#, fuzzy
 msgctxt "h69cb3cecgee85g4cbcgbb45g313979b52271"
 msgid "Scroll of Tasha's Hideous Laughter"
-msgstr "끔찍한 웃음의 두루마리"
+msgstr "타샤의 끔찍한 웃음의 두루마리"
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -58357,11 +58315,9 @@ msgstr "정교하게 도금된 열쇠입니다."
 #. Name = S_LOW_CountingHouse_Vault5_Key
 #. Type = item
 #: Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx:384
-#, fuzzy
-#| msgid "Counting House Vault 5 Key"
 msgctxt "hfe4fa8eegbb90g471bgb427gb3a853ceae6a"
 msgid "High Security Vault nº5 Key"
-msgstr "회계 사무소 5번 금고 열쇠"
+msgstr "고급 보안 금고 5번 열쇠"
 
 #. FilePath = Mods/GustavDev/Globals/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -58397,13 +58353,11 @@ msgstr "회계 사무소 6번 금고 열쇠"
 #. Name = S_LOW_CountingHouse_Vault6_Key
 #. Type = item
 #: Mods/GustavDev/Globals/IRN_Main_A/Items/_merged.lsx:8
-#, fuzzy
-#| msgid "Heavy Iron Key"
 msgctxt "h202499e5gfc3cg4395gb25cgd816e83710b9"
 msgid ""
 "This key's owner seems to have adorned it with extra, superflous filigree "
 "that wasn't part of the original design. "
-msgstr "무거운 쇠 열쇠"
+msgstr "이 열쇠의 주인은 원래 디자인에는 포함되지 않은 추가적인, 불필요한 장식을 세공한 것 같습니다. "
 
 #. FilePath = Mods/GustavDev/Globals/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -61654,11 +61608,10 @@ msgstr "두개골 등불"
 #. Name = LTS_Goblins_Camp_Torch_A
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:251044
-#, fuzzy
 msgctxt "h7519aab7gf799g4fe9ga268g7a744ff718d3"
 msgid ""
 "A crude torch made from two skulls lashed together, fuelled by oil or pitch."
-msgstr "두개골 두 개를 엮어 만든 조잡한 횃불로, 기름이나 피치를 연료로 사용합니다."
+msgstr "두개골 두 개를 엮어 만든 조잡한 횃불로, 기름이나 수지를 연료로 사용합니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -64921,7 +64874,7 @@ msgstr "기스 포탑"
 #: Public/Shared/RootTemplates/_merged.lsx:571902
 msgctxt "ha5668d68g44eeg450dgaf2egdb025e938a59"
 msgid "Ubiquity Key"
-msgstr ""
+msgstr "편재의 열쇠"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -64933,7 +64886,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:571901
 msgctxt "h73db2426gb740g49c5g9747gde2a45bde6de"
 msgid "Ubiquity Key"
-msgstr ""
+msgstr "편재의 열쇠"
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -65239,10 +65192,9 @@ msgstr "코볼트 굴"
 #. Type = item
 #. WadableSurfaceType = SurfaceDeepWater
 #: Public/GustavDev/RootTemplates/_merged.lsx:231062
-#, fuzzy
 msgctxt "he1990708gaf30g424fga524gb23c96e36125"
 msgid "Marked Chest"
-msgstr "나무 궤짝"
+msgstr "표시된 궤짝"
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -65256,11 +65208,10 @@ msgstr "나무 궤짝"
 #. Type = item
 #. WadableSurfaceType = SurfaceDeepWater
 #: Public/GustavDev/RootTemplates/_merged.lsx:231060
-#, fuzzy
 msgctxt "h3f7b8a7fgc008g44cfgae65g446b9525b298"
 msgid ""
 "A chest of timber and iron. It has subtle markings scratched on the side."
-msgstr "나무와 쇠로 된 흔한 상자입니다."
+msgstr "나무와 쇠로 된 상자입니다. 측면에 미묘한 긁힘 자국이 있습니다."
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -67794,12 +67745,11 @@ msgstr "수수께끼의 아티팩트"
 #. Stats = OBJ_GenericImmutableObject
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:16568
-#, fuzzy
 msgctxt "h9952e22ega5abg4954g821dg56ee1fecb383"
 msgid ""
 "A many-sided artefact of blackened iron, engraved with pulsating runes. "
 "Something stirs within."
-msgstr "검게 그을린 철제 다면체 상자에 맥동하는 룬들이 새겨져 있습니다. 무언가가 안에서 꿈틀댑니다."
+msgstr "검게 그을린 철제 다면체 아티팩트에 맥동하는 룬들이 새겨져 있습니다. 무언가가 안에서 꿈틀댑니다."
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -68719,12 +68669,11 @@ msgstr "신성한 기회"
 #. Stats = OBJ_GenericImmutableObject
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:4197
-#, fuzzy
 msgctxt "h20192036ga972g483eg93ecg0f50e8710f37"
 msgid ""
 "A many-sided artefact of blackened iron, engraved with pulsating runes. "
 "Something stirs within."
-msgstr "검게 그을린 철제 다면체 상자에 맥동하는 룬들이 새겨져 있습니다. 무언가 안에서 꿈틀댑니다."
+msgstr "검게 그을린 철제 다면체 아티팩트에 맥동하는 룬들이 새겨져 있습니다. 무언가가 안에서 꿈틀댑니다."
 
 #. FilePath = Public/Gustav/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -68856,7 +68805,6 @@ msgstr "수서르 나무 껍질"
 #. Stats = QUEST_FOR_SussurBark
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:73150
-#, fuzzy
 msgctxt "hef0a4892g029bg452fgaa66g68bcfd6a5f8b"
 msgid ""
 "A piece of tough bark from a sussur tree. Holding it leaves a dull tingling "
@@ -69803,12 +69751,11 @@ msgstr "단순 독소"
 #. Stats = Solution_Toxin_Basic
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:397430
-#, fuzzy
 msgctxt "h72c8091ega2a0g4ed4g928fgcf3c3d7e8396"
 msgid ""
 "The emerald hue of this toxin is vivid and baleful as a sunrise over a "
 "swamp. "
-msgstr "이 용액의 선명한 녹색 그늘은 소유자의 잠재적 적들에게 조심하라고 경고하고 있습니다."
+msgstr "이 독의 에메랄드빛은 늪지대의 일출처럼 선명하고 불길합니다. "
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -70304,7 +70251,6 @@ msgstr "망치"
 #. Stats = OBJ_Tool_Hammer
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:554932
-#, fuzzy
 msgctxt "h7a37366fgb92ag4763gbe95gcb12472b3973"
 msgid ""
 "The varnish of this hammer's handle has been worn dull by callused hands."
@@ -72531,7 +72477,6 @@ msgstr "참나무 아버지에게 손수 축복받은 이 약제는 아무리 �
 #. Stats = UNI_Astarion_StarterArmor
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:161883
-#, fuzzy
 msgctxt "h8fbad734gc4aag4a43g9002g734165c75a58"
 msgid ""
 "Despite the careful stitches, the gold embroidery on this padded doublet is "
@@ -73569,12 +73514,11 @@ msgstr "괴물의 두개골"
 #. Name = UNI_Devils_Needle_Levistus_A
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:294597
-#, fuzzy
 msgctxt "h70d6ca62gf642g4163gbf9cg7a0010425347"
 msgid ""
 "This dagger, forged to honour the Frozen Prince of Stygia, sends a prickling "
 "shiver down the spine when grasped."
-msgstr "단검을 손에 쥐자 찌르는 듯한 감각이 척추를 타고 흐릅니다. 저승의 얼어붙은 왕자를 기리기 위해 만들어진 물건입니다."
+msgstr "단검을 손에 쥐자 찌르는 듯한 감각이 척추를 타고 흐릅니다. 스티지아의 얼음 왕자를 기리기 위해 만들어진 물건입니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -73583,10 +73527,9 @@ msgstr "단검을 손에 쥐자 찌르는 듯한 감각이 척추를 타고 흐�
 #. Name = UNI_Devils_Needle_Levistus_A
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:294596
-#, fuzzy
 msgctxt "hf0621b04g8222g43cbgbdcfg65914cdad65a"
 msgid "The Needle of Levistus"
-msgstr "끝이 가는 바늘에 녹과 먼지가 묻어 있습니다. "
+msgstr "레비스투스의 바늘"
 
 #. FilePath = Public/Gustav/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -73716,12 +73659,11 @@ msgstr "절대자의 강타"
 #. Stats = FOR_DeathOfATrueSoul_TrueSoul_Ring
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:75261
-#, fuzzy
 msgctxt "h62588623g7965g4211gbf4fg4bd0bca13081"
 msgid ""
 "This ring coaxes anyone branded by the Absolute. Their fingers veritably "
 "itch to slip it on."
-msgstr "이 반지는 뜨거운 열기를 내뿜지만, 살갗을 태우진 않습니다."
+msgstr "이 반지는 절대자에 의해 낙인찍힌 사람들을 유혹합니다. 그들의 손가락은 그것을 끼고 싶어 실제로 근질거립니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -74088,12 +74030,11 @@ msgstr "절대자의 전쟁판자"
 #. Stats = GOB_Priest_Shield
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:19552
-#, fuzzy
 msgctxt "h26a388d3gf562g494eg981ag81e12e6434e7"
 msgid ""
 "Blood is smeared across the shield's face, exalting wielders who bear the "
 "Absolute's mark."
-msgstr "방패의 앞면에 피가 묻어 있어, 절대자의 표식을 지닌 사용자들을 격양시키고, 표식을 지니지 않은 이들에겐 저주를 내립니다."
+msgstr "방패의 앞면에 피가 묻어 있어, 절대자의 표식을 지닌 사용자들을 격양시킵니다."
 
 #. FilePath = Public/Gustav/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -74352,10 +74293,9 @@ msgstr "그림자 칼날"
 #. Stats = WPN_ShadowBlade
 #. Type = item
 #: Public/GustavDev/RootTemplates/_merged.lsx:104429
-#, fuzzy
 msgctxt "hf76f063dg4d09g463cg9148g28e10f6a6d14"
 msgid "Umbral claws sweep through the long slender facets of the blade."
-msgstr "그림자 발톱이 길고 가느다란 칼날의 측면을 쓸어 넘깁니다."
+msgstr "어둠의 발톱이 길고 가느다란 칼날의 측면을 쓸어 넘깁니다."
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -74448,16 +74388,14 @@ msgstr "불기"
 #. Stats = OBJ_Music_Horn
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:81162
-#, fuzzy
 msgctxt "hfbf02626g9c4fg47bdg8c56g6a4579202386"
 msgid ""
 "Sound this horn to call Lump's frenzied band of ogres. They will feast on "
 "anyone they can get their hands on, but if you've made a deal with them, "
 "they will make an effort to spare your party."
 msgstr ""
-"이 뿔나팔을 불어 럼프의 광폭한 오우거 무리를 불러냅니다. \n"
-"\n"
-"그들은 손에 닿는 건 무엇이든 먹어 치우겠지만, 당신과 거래를 했다면 당신 일행에게는 해를 끼치지 않으려고 노력은 해볼 것입니다."
+"이 뿔나팔을 불어 럼프의 광폭한 오우거 무리를 불러냅니다. 그들은 손에 닿는 건 무엇이든 먹어 치우겠지만, 당신과 거래를 했다면 당신 "
+"일행에게는 해를 끼치지 않으려고 노력은 해볼 것입니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -75182,11 +75120,9 @@ msgstr ""
 #. Stats = LOW_OskarsBeloved_TorchOfTrueRevocation
 #. Type = item
 #: Public/GustavDev/RootTemplates/_merged.lsx:231993
-#, fuzzy
-#| msgid "Torch of True Revocation"
 msgctxt "h7ffa3da3g139fg4bacgb964g131f98669fbb"
 msgid "Torch of Revocation"
-msgstr "진정한 파기의 횃불"
+msgstr "파기의 횃불"
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -76007,19 +75943,14 @@ msgstr "장식이 새겨진 원수의 판금 갑옷"
 #. Stats = UNI_Ravengard_Plate
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:281791
-#, fuzzy
-#| msgid ""
-#| "The tabard adorning this perfectly-kept platemail denotes the status of its "
-#| "wearer - Marshal of the Flaming Fist and ultimate military authority in "
-#| "Baldur's Gate. "
 msgctxt "ha35b2c1ag9987g478dg8564gef3466fb4679"
 msgid ""
 "The tabard adorning this perfectly kept plate denotes the status of its "
 "wearer - Marshal of the Flaming Fist and ultimate military authority in "
 "Baldur's Gate."
 msgstr ""
-"완벽하게 관리된 이 판금 갑옷을 장식하고 있는 타바드는 갑옷의 착용자가 플레이밍 피스트의 원수이자 발더스 게이트의 군 통수권자임을 "
-"나타내고 있습니다. "
+"완벽하게 관리된 이 판금을 장식하고 있는 타바드는 갑옷의 착용자가 플레이밍 피스트의 원수이자 발더스 게이트의 군 통수권자임을 나타내고 "
+"있습니다."
 
 #. FilePath = Public/Gustav/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -76959,7 +76890,7 @@ msgstr "퍼플 웜 분비선"
 #: Public/GustavDev/RootTemplates/_merged.lsx:149163
 msgctxt "h729fb34egecd7g4bfaga699g375253b65d15"
 msgid "Spongy purple growths, slimed with residue."
-msgstr ""
+msgstr "해면체의 보라색 유기물, 잔여물로 미끄럽습니다."
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -77680,17 +77611,14 @@ msgstr "절대적인 힘의 반지"
 #. Stats = UND_KC_RingOfAbsolute
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:59317
-#, fuzzy
 msgctxt "h463df3bfg181dg4d0agb9d1g8ae4aad865ef"
 msgid ""
 "Darkness seems to blossom from this ring, heightened by the menacing glare "
 "of the Absolute's symbol, though for the Branded this symbol holds the "
 "promise of power."
 msgstr ""
-"절대자의 상징이 서슬퍼렇게 박혀 있는 이 반지에서 무시무시한 힘이 뿜어져 나옵니다.\n"
-"\n"
-"마치 쓰린의 열성적인 믿음을 흉내내는 듯한 이 반지의 힘은 오직 불신자들만을 향합니다. 절대자의 낙인을 받은 자들은 두려워할 필요가 "
-"없습니다."
+"이 반지에서는 어둠이 피어나는 것처럼 보입니다. 절대자의 상징이 위협적으로 빛나면서 이 어둠은 더욱 강해집니다. 하지만 낙인 찍힌 "
+"자들에게는 이 상징은 힘의 약속을 담고 있습니다."
 
 #. FilePath = Public/Gustav/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -77701,10 +77629,9 @@ msgstr ""
 #. Stats = UND_ArcaneLightsource
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:28326
-#, fuzzy
 msgctxt "hec6a8987g609ag4962g9979gb5e53dccef6c"
 msgid "Arcane Brazier"
-msgstr "펜던트 조명"
+msgstr "비전 화로"
 
 #. FilePath = Public/Gustav/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -77715,10 +77642,9 @@ msgstr "펜던트 조명"
 #. Stats = UND_ArcaneLightsource
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:80872
-#, fuzzy
 msgctxt "hbb631492gb07eg41f6gbeb3g25df049064cd"
 msgid "Arcane Brazier"
-msgstr "펜던트 조명"
+msgstr "비전 화로"
 
 #. FilePath = Public/Gustav/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -77729,10 +77655,9 @@ msgstr "펜던트 조명"
 #. Stats = UND_ArcaneLightsource
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:9393
-#, fuzzy
 msgctxt "h1a2e0459g3a75g4d54g9dfagcce2f855841c"
 msgid "Arcane Brazier"
-msgstr "펜던트 조명"
+msgstr "비전 화로"
 
 #. FilePath = Public/Gustav/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -77743,10 +77668,9 @@ msgstr "펜던트 조명"
 #. Stats = UND_ArcaneLightsource
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:78705
-#, fuzzy
 msgctxt "h80e8b04eg5833g4f51gafc9g9600e8e340c9"
 msgid "Arcane Brazier"
-msgstr "펜던트 조명"
+msgstr "비전 화로"
 
 #. FilePath = Public/Gustav/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -78261,7 +78185,6 @@ msgstr "수서르 꽃"
 #. Stats = UND_SussurTree_Flower
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:39480
-#, fuzzy
 msgctxt "he4a77145g2134g4557gbe34g8c9e1cf2e731"
 msgid ""
 "This bright blue flower, picked from a budding sussur tree, exudes a honey-"
@@ -78295,7 +78218,6 @@ msgstr "수서르 꽃"
 #. Stats = UND_SussurTree_Flower
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:55549
-#, fuzzy
 msgctxt "hc7a44c31g49a9g46a6g83a3gac5e652d7a1a"
 msgid ""
 "This bright blue flower, picked from a budding sussur tree, exudes a honey-"
@@ -78329,7 +78251,6 @@ msgstr "수서르 꽃"
 #. Stats = UND_SussurTree_Flower
 #. Type = item
 #: Public/Gustav/RootTemplates/_merged.lsx:21504
-#, fuzzy
 msgctxt "hf285c6cbgb322g4f11g9135gcf3e781280b8"
 msgid ""
 "This bright blue flower, picked from a budding sussur tree, exudes a honey-"
@@ -78601,7 +78522,7 @@ msgstr "이 가방 안에 들어간 모든 음식물은 즉시 곰팡이가 슬�
 #: Public/GustavDev/RootTemplates/_merged.lsx:93635
 msgctxt "h066e96a5gc89cg42c5g977fgaf86caacca9b"
 msgid "Bag of Moulding"
-msgstr ""
+msgstr "부패의 가방"
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -78882,11 +78803,6 @@ msgstr "되돌아오는 손도끼"
 #. Stats = WYR_Circus_HandaxeReturning
 #. Type = item
 #: Public/GustavDev/RootTemplates/_merged.lsx:130778
-#, fuzzy
-#| msgid ""
-#| "This loyal axe always returns to its owner after being thrown. However, it "
-#| "has no eyes and therefore dreadful aim, inevitably returing to its thrower "
-#| "blade-end-first."
 msgctxt "h16f8a1dcg9d86g49eag8624g48b34e0112c3"
 msgid ""
 "This loyal axe always returns to its owner after being thrown. However, it "
@@ -80159,10 +80075,9 @@ msgstr "고타쉬의 네더스톤"
 #. Stats = ARM_Ring_B_Gem_A_Gold
 #. Type = item
 #: Public/GustavDev/RootTemplates/_merged.lsx:22317
-#, fuzzy
 msgctxt "hc2d48c89g99f9g4ff4gb7d7g3091bc4e3e85"
 msgid "To the Best of Wives and Mothers"
-msgstr "'세상에 둘도 없을 아내이자 어머니에게'"
+msgstr "세상에 둘도 없을 아내이자 어머니에게"
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -80172,12 +80087,11 @@ msgstr "'세상에 둘도 없을 아내이자 어머니에게'"
 #. Stats = ARM_Ring_B_Gem_A_Gold
 #. Type = item
 #: Public/GustavDev/RootTemplates/_merged.lsx:22316
-#, fuzzy
 msgctxt "h146421a7g852ag4ae5g9b50g71dc23784cc2"
 msgid ""
 "A tarnished ring engraved with the following: 'To Ffion, Best of Wives and "
 "Best of Mothers.'"
-msgstr "'세상에 둘도 없을 아내이자 어머니인 피온에게'라고 새겨져 있는 빛바랜 반지입니다."
+msgstr "빛바랜 반지에는 다음과 같이 새겨져 있습니다: '세상에 둘도 없을 아내이자 어머니인 피온에게.'"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects

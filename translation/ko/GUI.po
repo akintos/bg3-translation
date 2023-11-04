@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-11-04 13:37+0000\n"
+"Last-Translator: akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #: Public/Game/GUI/Library/ActionResourceTemplates_c.xaml:119
 #: Public/Game/GUI/Library/ActionResourceTemplates_c.xaml:356
@@ -417,8 +419,6 @@ msgid "Highlight Intensity"
 msgstr "강조 정도"
 
 #: Public/Game/GUI/Library/CCLib_c.xaml:4918
-#, fuzzy
-#| msgid "Lip Colouration Intensity"
 msgctxt "hc93c40a6gf955g459bg835eg11152b6f0683"
 msgid "Tint Intensity"
 msgstr "입술 색 조절"
@@ -2284,7 +2284,7 @@ msgstr "아무"
 #: Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:791
 msgctxt "h326832c1gfe11g4b60g9165g26d05fcd0919"
 msgid "Available [1]"
-msgstr ""
+msgstr "사용 가능한 [1]"
 
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:5715
 msgctxt "hd79639b7gebffg4016ga0bfg7615cc3ca89c"
@@ -6748,8 +6748,8 @@ msgid ""
 "class. It influences your chance to hit and your damage output with weapon "
 "attacks or spells."
 msgstr ""
-"클래스에서 가장 중요한 <LSTag Tooltip=\"Abilities\">능력치</LSTag>입니다. 무기 공격이나 주문의 명중률과 "
-"피해 결과에 영향을 끼칩니다."
+"현재 클래스에서 가장 중요한 <LSTag Tooltip=\"Abilities\">능력치</LSTag>입니다. 무기 공격이나 주문의 "
+"명중률과 피해 결과에 영향을 끼칩니다."
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5563
 msgctxt "hdb40eff6g84d1g421dg906cg6779df63479f"
@@ -8232,7 +8232,7 @@ msgstr "다음 (수호자 선택)"
 #: Public/Game/GUI/Widgets/MainMenu_c.xaml:386
 msgctxt "h562afe65ge87fg4863gb4fcg56a432b35903"
 msgid "Press [IE_UIAccept] on another controller to start split-screen game!"
-msgstr ""
+msgstr "분할 화면 게임을 시작하려면 다른 컨트롤러에서 [IE_UIAccept] 를 누르세요!"
 
 #: Public/Game/GUI/Widgets/CharacterFullRespec.xaml:99
 #: Public/Game/GUI/Widgets/CharacterLevelUp.xaml:311
