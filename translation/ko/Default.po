@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-04 13:37+0000\n"
+"PO-Revision-Date: 2023-11-07 09:37+0000\n"
 "Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -3067,7 +3067,7 @@ msgstr ""
 #: Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx:296
 msgctxt "h807635d3gdea7g4519g9a33g6c9687e879fc"
 msgid "Can not teleport creatures larger than Medium."
-msgstr "중형보다 큰 크리처를 순간이동할 수 없습니다."
+msgstr "중형보다 큰 크리쳐를 순간이동할 수 없습니다."
 
 #. FilePath = Public/SharedDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -7548,7 +7548,7 @@ msgctxt "h7a54e545gc4ddg44d6g95f1g3e4c8e8d7338"
 msgid ""
 "Enemies that are standing in darkness are harder to hit, unless you have "
 "darkvision."
-msgstr "어둠 속에 있는 적은 맞추기 더 어려워집니다. 암흑시야가 없다면 말이죠."
+msgstr "어둠 속에 있는 적은 맞히기 더 어려워집니다. 암흑시야가 없다면 말이죠."
 
 #. FilePath = Public/Game/Hints/Hints.lsx
 #. NodeID = Hint
@@ -20914,7 +20914,7 @@ msgstr "지성과 기동성을 갖춘 이 깨어난 식물은 어둠으로 물�
 #: Public/SharedDev/Races/Races.lsx:4190
 msgctxt "h6a0f15bag5598g438fgbbc3g76ab35b73126"
 msgid "Blight"
-msgstr "마름병"
+msgstr "블라이트"
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24838,7 +24838,7 @@ msgctxt "h00c363efga48dg4362ga104ge5d6675dc682"
 msgid ""
 "You can't try to charm the creature again until your next <LSTag Tooltip="
 "\"LongRest\">Long Rest</LSTag>."
-msgstr "<LSTag Tooltip=\"LongRest\">긴 휴식</LSTag> 전에는 크리처를 매혹할 수 없습니다."
+msgstr "<LSTag Tooltip=\"LongRest\">긴 휴식</LSTag> 전에는 크리쳐를 매혹할 수 없습니다."
 
 #. FilePath = Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -25146,7 +25146,7 @@ msgctxt "hd42fded2gfbabg4aeeg8b3ag2f3f2a9469be"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Tadpoled creatures cannot be "
 "targeted."
-msgstr "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 기생된 크리처는 대상으로 지정할 수 없습니다."
+msgstr "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 기생된 크리쳐는 대상으로 지정할 수 없습니다."
 
 #. FilePath = Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
 #. NodeID = TooltipExtraTexts
@@ -25157,7 +25157,7 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> Creatures aligned with evil "
 "deities cannot be targeted."
 msgstr ""
-"<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 악한 신의 경향을 가진 크리처를 대상으로 지정할 수 "
+"<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 악한 신의 경향을 가진 크리쳐를 대상으로 지정할 수 "
 "없습니다."
 
 #. FilePath = Public/Shared/TooltipExtras/TooltipExtraTexts.lsx
@@ -25812,7 +25812,7 @@ msgstr "[2] 레벨 당 [1] 추가 피해를 가합니다."
 #: Public/Shared/TooltipExtras/TooltipUpcastDescriptions.lsx:89
 msgctxt "h19213467gd382g4279g9e9egd7c9d6bc87b1"
 msgid "Affects creatures for a longer duration."
-msgstr "더 오랜 기간 동안 크리처에게 영향을 줍니다."
+msgstr "더 오랜 기간 동안 크리쳐에게 영향을 줍니다."
 
 #. FilePath = Public/Shared/TooltipExtras/TooltipUpcastDescriptions.lsx
 #. NodeID = TooltipUpcastDescriptions

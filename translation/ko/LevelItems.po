@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-05 16:37+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-11-07 09:37+0000\n"
+"Last-Translator: chups <bridgestone747@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1019,7 +1019,7 @@ msgstr "진주"
 #: Mods/GustavDev/Levels/BGH_WaterQueenHouse_B_ART/Items/_merged.lsx:1526
 msgctxt "hafe362b6ga378g43c2gb003gb6097e479395"
 msgid "Flood Tide"
-msgstr "만조"
+msgstr "플러드 타이드"
 
 #. FilePath = Mods/GustavDev/Levels/BGH_WaterQueenHouse_B_ART/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1030,7 +1030,7 @@ msgstr "만조"
 #: Mods/GustavDev/Levels/BGH_WaterQueenHouse_B_ART/Items/_merged.lsx:2320
 msgctxt "h02275f83g73eag4ac2gb0aege0352e54572b"
 msgid "Second Tide"
-msgstr "두 번째 물결"
+msgstr "세컨드 타이드"
 
 #. FilePath = Mods/GustavDev/Levels/BGH_WaterQueenHouse_B_ART/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1041,7 +1041,7 @@ msgstr "두 번째 물결"
 #: Mods/GustavDev/Levels/BGH_WaterQueenHouse_B_ART/Items/_merged.lsx:3796
 msgctxt "h93c8688ag3d75g4bf4g998bgf245d962a9a4"
 msgid "First Tide"
-msgstr "첫 번째 물결"
+msgstr "퍼스트 타이드"
 
 #. FilePath = Mods/GustavDev/Levels/BGH_WaterQueenHouse_B_ART/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1429,7 +1429,7 @@ msgstr "입구"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:150
 msgctxt "hb63fbbbeg67abg4424g806eg6c3e4aabb5ba"
 msgid "Boulder"
-msgstr ""
+msgstr "바위"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -1637,11 +1637,9 @@ msgstr "벤리어의 궤짝"
 #. Stats = UNI_WYR_PaintingPuzzle_PaintingSlot
 #. Type = item
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:3740
-#, fuzzy
-#| msgid "Empty Niche"
 msgctxt "h46302d85g0cd4g4f17gb123g55c1f986cbba"
 msgid "'The Waiting Judgement'"
-msgstr "빈 틈새"
+msgstr "'기다리는 심판'"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2809,7 +2807,7 @@ msgstr "열기"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:24474
 msgctxt "hde86362cg0b76g474bg80dfg38c54eb6e541"
 msgid "Boulder"
-msgstr ""
+msgstr "바위"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2939,6 +2937,8 @@ msgid ""
 "contrast with her black. Her cloak bears an unusual symbol - nine tally "
 "marks. "
 msgstr ""
+"한 쌍의 남녀가 열렬한 대화를 나누는 장면이 그려져 있습니다. 남자의 적발과 여자의 흑발이 강렬한 대비를 이룹니다. 여자의 의복에는 보기 "
+"드물게도 아홉 개의 부절 문양이 그려져 있습니다. "
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2948,9 +2948,10 @@ msgstr ""
 #. Name = S_WYR_PaintingPuzzle_Painting3
 #. Type = item
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:26673
+#, fuzzy
 msgctxt "h481e3456ged47g422ega0c3g5f6911b7fc0b"
 msgid "'The Induction'"
-msgstr ""
+msgstr "'감응'"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2962,7 +2963,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:26679
 msgctxt "hb6a84a11g6024g40fbgb060gd5585d8dae01"
 msgid "Look closer"
-msgstr ""
+msgstr "자세히 보기"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3007,11 +3008,9 @@ msgstr "고룡바위 감옥 철창 열쇠"
 #. Name = WYR_WyrmRock_DeblinChestKey
 #. Type = item
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:27908
-#, fuzzy
-#| msgid "Deblin's Chest Key"
 msgctxt "h1aeec5b0gace0g4606gba84gc6cfc74e753f"
 msgid "Debin's Chest Key"
-msgstr "데블린의 궤짝 열쇠"
+msgstr "데빈의 궤짝 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3037,7 +3036,7 @@ msgstr "꽃처럼 생긴 열쇠입니다. 꽃잎에 '3'이 새겨져 있습니�
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:28036
 msgctxt "h1426010cgedd0g48cdgb1dag60b51546fa92"
 msgid "Benryr's Key"
-msgstr ""
+msgstr "벤릴의 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3051,7 +3050,7 @@ msgctxt "hcccf066fgfc58g4ef2g98e0gc2ef2920ba2b"
 msgid ""
 "A patriar magistrate condemns a red-haired man to a dreadful fate. The "
 "onlookers are saddened and ashamed in equal measure. "
-msgstr ""
+msgstr "한 귀족 판사가 적발의 남성에게 끔찍한 운명을 선고합니다. 구경꾼들은 똑같이 슬픔과 수치심에 빠집니다. "
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3063,7 +3062,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:29958
 msgctxt "h83a92627gc6b0g4542g8d15g6d13acda550b"
 msgid "'The Judgement'"
-msgstr ""
+msgstr "'판결'"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3075,7 +3074,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:29964
 msgctxt "h21d33851g6ab0g413agb879g99f9f31535d4"
 msgid "Look closer"
-msgstr ""
+msgstr "가까이 보기"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3086,7 +3085,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:30454
 msgctxt "h9c89079cgc865g43f3g9360g3951f979207d"
 msgid "Baldur's Mouth 1492 DR Issue 80"
-msgstr ""
+msgstr "발더스 마우스 신문 1492DR 제80호"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3121,7 +3120,7 @@ msgstr "녹슨 열쇠"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:30839
 msgctxt "hc82fc213g1542g4d33ga71eg746a11efc89b"
 msgid "Commodore Morgan Redlocks"
-msgstr ""
+msgstr "모건 레드록스 제독"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3155,7 +3154,7 @@ msgstr "레오의 밥그릇"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:31644
 msgctxt "h21f54902gc642g4367g9da2gc1d3d09705b5"
 msgid "Hole"
-msgstr ""
+msgstr "구멍"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3166,7 +3165,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:31839
 msgctxt "hf60ba843g18fbg4245ga60dg24e10f57c727"
 msgid "Crack in Wall to Prison"
-msgstr ""
+msgstr "감옥 벽에 난 균열"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3177,7 +3176,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:31955
 msgctxt "h5cf6286ega377g413ag891ag9e689707259c"
 msgid "The wearer is perpetually just a little bit damp. "
-msgstr ""
+msgstr "착용자는 영구적으로 약간 젖은 상태가 됩니다. "
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3188,7 +3187,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:31956
 msgctxt "h06127974g53aeg4953g88bag7b4fd64038d4"
 msgid "Reverse Rain Cloak"
-msgstr ""
+msgstr "역방향 비옷"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3211,7 +3210,7 @@ msgstr "현상수배서"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:32190
 msgctxt "h943d2e91ge618g4eb6g9d6eg3bc643752928"
 msgid "This key is caked in the dry, musty smell of ancient pigeon faeces."
-msgstr ""
+msgstr "이 열쇠는 오래된 비둘기 변으로 범벅이 되어 있습니다."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3223,7 +3222,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:32191
 msgctxt "hb69457cbg5492g4ce5gaefcgf3761f845eb8"
 msgid "Sword Coast Couriers Key"
-msgstr ""
+msgstr "소드 코스트 특송의 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3235,7 +3234,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:32266
 msgctxt "h38ec1bc2g41f8g41c7ga75egd19973761a87"
 msgid "This hefty key is etched with Flaming Fist markings."
-msgstr ""
+msgstr "이 묵직한 열쇠에는 플레이밍 피스트의 표식이 새겨져 있습니다."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3247,7 +3246,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:32267
 msgctxt "hf038dfb8g0ba3g4ba8gbe65g364d2adc231a"
 msgid "Munition Chest Key"
-msgstr ""
+msgstr "보급품 상자 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3258,7 +3257,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:32762
 msgctxt "hbd5f40efgc7bfg4c06g8034g6fcce76aa7fc"
 msgid "Underdark Room"
-msgstr ""
+msgstr "언더다크의 방"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3270,7 +3269,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:32838
 msgctxt "h859e7c2ag1cd4g4628ga221g8dae1205bc22"
 msgid "To Reddil, my love."
-msgstr ""
+msgstr "내 사랑 레딜에게."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3281,7 +3280,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:32929
 msgctxt "h3d8eae81g9345g4150ga962g03be759afaf1"
 msgid "Elminster's Library"
-msgstr ""
+msgstr "엘민스터의 도서관"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3363,7 +3362,7 @@ msgctxt "h34a2c1a0ga47ag44b9g9a25g1c1507cece4e"
 msgid ""
 "The red-haired thief tosses a hard-earned coin in the air as he slinks past "
 "Flaming Fist officers - none the wiser."
-msgstr ""
+msgstr "적발의 도둑이 아무것도 모르는 플레이밍 피스트 단원을 지나가며 어렵게 얻은 동전을 던지고 있습니다."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3385,7 +3384,7 @@ msgstr "'자유'"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:35105
 msgctxt "h34b5f359gb5e8g4eb8g8172gfc98191fdd7f"
 msgid "Look closer"
-msgstr ""
+msgstr "자세히 보기"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3429,7 +3428,7 @@ msgstr "되돌아오는 손도끼"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:36083
 msgctxt "h2dc9f408g98edg4de3gb9c1g782a61b1e897"
 msgid "Ground"
-msgstr ""
+msgstr "땅바닥"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3452,7 +3451,7 @@ msgstr "로건의 궤짝 열쇠"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:36204
 msgctxt "heee76ba5g8192g4a39gb943g5ff85cd5350b"
 msgid "Cave Entrance"
-msgstr ""
+msgstr "동굴 입구"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3501,7 +3500,7 @@ msgstr "체사의 연습용 검"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:36941
 msgctxt "h219b7a0ag4282g4678ga25bg78ccc08b29fa"
 msgid "Ground"
-msgstr ""
+msgstr "땅바닥"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3523,7 +3522,7 @@ msgstr "열린 손의 신전의 청사진"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:37184
 msgctxt "h6aa95117g5cd4g4dc8gaaf7g807be07218dd"
 msgid "Temple Plans"
-msgstr ""
+msgstr "신전 도면"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3561,6 +3560,9 @@ msgid ""
 "\n"
 "Decades, for preference."
 msgstr ""
+"이 거울을 충분히 오랜 시간 바라보면 늙은 당신의 모습을 볼 수 있습니다.\n"
+"\n"
+"몇 십년이면 충분히 오랜 시간이지요."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3571,7 +3573,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:38501
 msgctxt "h79956c39g49bdg4d50g84c4g3dca5e14e411"
 msgid "Mirror of Ageing"
-msgstr ""
+msgstr "나이듦의 거울"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3628,7 +3630,7 @@ msgstr "버려진 로켓"
 msgctxt "h3be0a76dgb3e0g491fga368g37a05f297636"
 msgid ""
 "A red-haired man pilfers a priceless artefact from the High Hall of Wonder. "
-msgstr ""
+msgstr "적발의 남자가 홀 오브 원더에서 값을 매길 수 없는 아티팩트를 훔치고 있습니다. "
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3639,7 +3641,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:39882
 msgctxt "h2cf5f6ecg641dg486agaa58gfae31bed2308"
 msgid "'The Theft'"
-msgstr ""
+msgstr "'도둑질'"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3650,7 +3652,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:39888
 msgctxt "h72391387g8adeg42b4g975bg95b4e0a4d457"
 msgid "Look closer"
-msgstr ""
+msgstr "자세히 보기"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3677,7 +3679,7 @@ msgctxt "h0ed400bdgaa3cg47dag8269g057ea92c4396"
 msgid ""
 "A red-haired man gifts the readily smiling urchin in front of him a red "
 "apple. Several other children gather, perhaps jealous in their hunger. "
-msgstr ""
+msgstr "적발의 사람이 웃는 표정을 짓는 부랑아에게 붉은 사과를 선물합니다. 다른 어린이들은 배고픔에 질투어린 눈으로 모여듭니다. "
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3689,7 +3691,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:40073
 msgctxt "h75fc949ag3ed1g4b0cgafdegd07d33518c52"
 msgid "'The Child'"
-msgstr ""
+msgstr "'어린아이'"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3701,7 +3703,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:40079
 msgctxt "h9e154d09g7fbeg4f17g9117g0ee5dd258be4"
 msgid "Look closer"
-msgstr ""
+msgstr "자세히 보기"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3712,7 +3714,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:40475
 msgctxt "h9146aecag88f4g4628ga323gfbf26b3ea225"
 msgid "A gem that was cut to sit neatly in a ring."
-msgstr ""
+msgstr "반지에 잘 끼워지도록 가공된 보석입니다."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3723,7 +3725,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:40476
 msgctxt "h5a9d8fecg62edg417bga47cg4cf16f9a9fbe"
 msgid "Ringless Gem"
-msgstr ""
+msgstr "반지에서 빠진 보석"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3747,7 +3749,7 @@ msgstr "은으로 도금된 정교한 열쇠입니다."
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:40751
 msgctxt "h170edae9gb136g4d3fgb1a8g04d5130311ea"
 msgid "Toymaker's House Key"
-msgstr ""
+msgstr "장난감 제작자의 집 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3758,7 +3760,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:41247
 msgctxt "h536ec797gd79eg49e4gadc6g74b5db000321"
 msgid "Grand Duke Eltan"
-msgstr ""
+msgstr "엘탄 대공"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3770,7 +3772,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:41285
 msgctxt "h30e5058dgcc05g4749g8a8bged51b49ec06e"
 msgid "Pigeon Remains"
-msgstr ""
+msgstr "비둘기 사체"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3781,7 +3783,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:41420
 msgctxt "h54ee4d63g32c1g41fcg93d7g03fc45252bb3"
 msgid "Urgent report for Duke Ravengard - Priority Entry"
-msgstr ""
+msgstr "레이븐가드 공작에게 올리는 긴급 보고 - 최우선 사항"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3792,7 +3794,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:41425
 msgctxt "h013070a7g5e73g44bbgb5edgabad346099d2"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3803,7 +3805,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:41473
 msgctxt "h94939353gfb4fg403egbbaagc64d77548e1b"
 msgid "A blood-drop ruby sits at the centre of this ring."
-msgstr ""
+msgstr "핏방울 같은 루비가 반지 한가운데에 놓여져 있습니다."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3829,7 +3831,7 @@ msgstr "꽃처럼 생긴 열쇠입니다. 꽃잎에 '4'가 새겨져 있습니�
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:41582
 msgctxt "h5eb3cab3g7277g48d5g9132g4ad3c3b08d09"
 msgid "Griska's Key"
-msgstr ""
+msgstr "그리스카의 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3840,7 +3842,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:41652
 msgctxt "hae3de4e9gdb2eg476fga892g46d219973376"
 msgid "The Cockeyed Stranger"
-msgstr ""
+msgstr "사팔뜨기 이방인"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3851,7 +3853,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:41688
 msgctxt "h678b78c7g1911g4d2bg8c5cg5083e478b30f"
 msgid "Dame Amafrey Ephemial"
-msgstr ""
+msgstr "아마프레이 에피미알 경"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3876,7 +3878,7 @@ msgctxt "hd7489ea1gacafg40f0ga043g95334caf4a5e"
 msgid ""
 "Every last offender interned in Wyrm's Rock Prison is logged in this well-"
 "worn ledger."
-msgstr ""
+msgstr "이 낡은 장부에 고룡 바위 감옥에 수감된 범법자들이 빠짐없이 기록되어 있습니다."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3887,7 +3889,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:42328
 msgctxt "h780b5468gaad2g4aa1ga06fg05255e6111c2"
 msgid "Prison Log"
-msgstr ""
+msgstr "감옥 일지"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3900,7 +3902,7 @@ msgctxt "h779877a5gf260g421bg969ag93661f6468a2"
 msgid ""
 "A severed hand with a ring on a finger. The ring was smelted with a grinning "
 "face on the band."
-msgstr ""
+msgstr "반지가 끼워진 잘린 손입니다. 반지의 테두리에 웃는 얼굴 모양이 녹아들어 있습니다."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3923,7 +3925,7 @@ msgstr "바크시의 궤짝 열쇠"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:43450
 msgctxt "hc12a5397gaf29g4f1fga280g4d25cae7c1bb"
 msgid "To Lower City"
-msgstr ""
+msgstr "하부 도시로"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3950,7 +3952,7 @@ msgctxt "h891f086dg3e4bg4ae9gb13dg1a296e0e43e0"
 msgid ""
 "This is the left boot of the famous magical footwear. Unfortunately, useless "
 "without its pair."
-msgstr ""
+msgstr "마법 신발의 왼쪽 한 짝입니다. 안타깝게도, 반대쪽 짝이 없으면 쓸모가 없습니다."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -3962,7 +3964,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:44554
 msgctxt "hd104644eg53c2g4e27g832age10790d702a7"
 msgid "Lonely Left Boot of Elvenkind"
-msgstr ""
+msgstr "엘프의 외로운 왼발 장화"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4010,7 +4012,7 @@ msgstr "꽃처럼 생긴 열쇠입니다. 꽃잎에 '2'가 새겨져 있습니�
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:45205
 msgctxt "h851b00a8g6bb1g4f86g86a9gfd96a58a78fa"
 msgid "Rosanna's Key"
-msgstr ""
+msgstr "로잔나의 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4021,7 +4023,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:45287
 msgctxt "h2da97ff2g3f17g494dgbbb4g89814b4caebb"
 msgid "Torn Parchment"
-msgstr ""
+msgstr "찢어진 양피지"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4033,7 +4035,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:45385
 msgctxt "h29453e7cgc8a0g47dbgbe4bgc0ff8a45ccfc"
 msgid "Wyrm's Rock Prison Cell Key"
-msgstr ""
+msgstr "고룡 바위 감옥 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4045,7 +4047,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:45757
 msgctxt "hfeb8ab63gc2f9g4c23g922dg197724dc4af3"
 msgid "Prison Entrance Door"
-msgstr ""
+msgstr "감옥 입구"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4058,7 +4060,7 @@ msgctxt "h38faa102g8e29g41d5g8a17g00434cf12a46"
 msgid ""
 "This magical broom bestows the power of flight to winged beings. Warning: "
 "chickens not included."
-msgstr ""
+msgstr "이 마법 빗자루는 날개 달린 모든 것에게 나는 능력을 부여합니다. 주의사항: 닭은 예외입니다."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4069,7 +4071,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:45889
 msgctxt "ha30a8c61g00efg466fg9767gd8c29ea54419"
 msgid "Definitely a Broom of Flying"
-msgstr ""
+msgstr "진짜루 비행의 빗자루"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4094,7 +4096,7 @@ msgstr "버려진 집 상자 열쇠"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:46562
 msgctxt "h8fef22f9g44e7g4ad2g9925g729bc2c10e28"
 msgid "Fraygo's Flophouse Back Door Key"
-msgstr ""
+msgstr "프레이고스 여인숙 뒷문 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4106,7 +4108,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:46792
 msgctxt "h1280fb02g94c3g4ad2g8f12gf8a523f2de99"
 msgid "Storage Room"
-msgstr ""
+msgstr "창고"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4144,6 +4146,8 @@ msgid ""
 "<LSTag Type=\"Spell\" Tooltip=\"Target_MageHand\">Mage Hand</LSTag>. This "
 "subtle magical ability explains how the djinni cheats at the wheel."
 msgstr ""
+"서커스 단원인 지니가 착용하던 반지입니다. 착용자는 <LSTag Type=\"Spell\" Tooltip=\"Target_MageHand"
+"\">마법사의 손</LSTag>을 시전할 수 있습니다. 돌림판 게임을 조작한 비결은 이 은밀한 마법 덕입니다."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4154,7 +4158,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:47797
 msgctxt "h699dd086g2238g43dag935fg59507e01325b"
 msgid "Tressym Nest"
-msgstr ""
+msgstr "트레심 둥지"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4166,7 +4170,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:47838
 msgctxt "h5efe4b18gda08g48b6gbbd6g7bea62a94709"
 msgid "Rusty Key"
-msgstr ""
+msgstr "녹슨 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4189,7 +4193,7 @@ msgstr "발더란 조각상"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:48128
 msgctxt "h16a80717g4c96g4823ga0fag6c6d5d031908"
 msgid "Audience Hall"
-msgstr ""
+msgstr "알현실"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4201,7 +4205,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:49041
 msgctxt "h78744344g9752g4785g8b0bga46f04176572"
 msgid "A flamboyant, weighty key that looks primed to open a precious chest."
-msgstr ""
+msgstr "귀중한 상자를 열 수 있을 법한 화려하고 묵직한 열쇠입니다."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4213,7 +4217,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:49042
 msgctxt "hb7ec4345g7086g49a3g9ba8gac3972a1ce19"
 msgid "Ringmaster's Key"
-msgstr ""
+msgstr "링마스터의 열쇠"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -6882,7 +6886,7 @@ msgstr "랍스터 우리"
 #: Mods/GustavDev/Levels/CMP_CTY_Slums_A/Items/_merged.lsx:2348
 msgctxt "h9d1cd2fcgce23g440agb652gb71190c724e0"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/CMP_CTY_Slums_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -7791,7 +7795,7 @@ msgstr "상호작용"
 #: Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx:30328
 msgctxt "h28987f74gec10g44a6gb715gce3954361d41"
 msgid "Heavy Oak Doors"
-msgstr ""
+msgstr "무거운 참나무 문"
 
 #. FilePath = Mods/GustavDev/Levels/CRE_GithDungeon_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -8585,7 +8589,7 @@ msgstr "작은 굴"
 #: Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx:12519
 msgctxt "h8191bbd3gbdc8g4f2egabb0gf9f3eacb238f"
 msgid "Monastery Basement"
-msgstr ""
+msgstr "수도원 지하"
 
 #. FilePath = Mods/GustavDev/Levels/CRE_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -8685,7 +8689,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_Catacombs_A/Items/_merged.lsx:7441
 msgctxt "h83a3dd8cg0e90g4dd2g90b3ga8559f1347a6"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Catacombs_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -8707,7 +8711,7 @@ msgstr "철제 횃불"
 #: Mods/GustavDev/Levels/CTY_Catacombs_A/Items/_merged.lsx:10097
 msgctxt "h6c66d2c5g52cag48a3ga8f1gc801f3fe76cd"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Catacombs_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -8740,7 +8744,7 @@ msgstr "철제 횃불"
 #: Mods/GustavDev/Levels/CTY_Catacombs_A/Items/_merged.lsx:13605
 msgctxt "hd9710ff7g6611g40ecg9d77gb2f0f48f602f"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Catacombs_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12347,7 +12351,7 @@ msgstr "묘비"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:37461
 msgctxt "h102e393cg4bd1g4ba7ga581gdfe759b344bd"
 msgid "Keep Out"
-msgstr ""
+msgstr "출입 금지"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -12968,7 +12972,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:47969
 msgctxt "h660b3a69g7042g4d33gaf77g383ae21a27d2"
 msgid "Loose Plank"
-msgstr ""
+msgstr "느슨한 판자"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13127,7 +13131,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:51038
 msgctxt "h0834e4aaga858g434cgb9edg930b98391aea"
 msgid "Smelly Bag"
-msgstr ""
+msgstr "냄새나는 가방"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13185,7 +13189,7 @@ msgstr "잉크 묻은 열쇠"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:51960
 msgctxt "h57d0de17gd8a2g4289g9d49g777c157b2a8d"
 msgid "Familiar Voice"
-msgstr ""
+msgstr "익숙한 목소리"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13208,7 +13212,7 @@ msgstr "스틸 워치 주조소"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:52176
 msgctxt "h794f8c2bge43dg4744gb10cg5685bd6cd9ea"
 msgid "A Pair of Wings"
-msgstr ""
+msgstr "날개 한 쌍"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13222,7 +13226,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:52372
 msgctxt "hbceeb341g5169g4cfcg9505g8840e9c11d5d"
 msgid "Szarr Palace"
-msgstr ""
+msgstr "자르 대저택"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -13418,7 +13422,7 @@ msgstr "챔벌레인의 개인실 열쇠"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:55281
 msgctxt "h4129b969g220cg48d3g994aga64fa2e58155"
 msgid "Zina's Dog Collar"
-msgstr ""
+msgstr "지나의 개 목걸이"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -14082,7 +14086,7 @@ msgstr "휸 영묘 열쇠"
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:65763
 msgctxt "ha3efd953gdb26g429egab44g14fd9a4c609d"
 msgid "Duel Arena"
-msgstr ""
+msgstr "결투장"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -23989,7 +23993,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:17797
 msgctxt "h35ae643fg1346g4936gb15dg794d2bf06efc"
 msgid "Cracked Wall"
-msgstr ""
+msgstr "금이 간 벽"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -24684,7 +24688,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:44777
 msgctxt "h6533099ag75beg4467gbf79g733dababbe16"
 msgid "This scroll is unread."
-msgstr ""
+msgstr "이 두루마리는 아직 읽지 않았습니다."
 
 #. FilePath = Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25354,7 +25358,7 @@ msgstr "고양이 구멍"
 #: Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:60350
 msgctxt "h66dbf64eg5829g4e05g99a3g8f0f3d1d9dc7"
 msgid "Mucus"
-msgstr ""
+msgstr "점액"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25376,7 +25380,7 @@ msgstr "낚시꾼의 메모"
 #: Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:60514
 msgctxt "h4d5c03adg9c0fg4d85g8e31gacf1acfb7775"
 msgid "Note"
-msgstr ""
+msgstr "필기장"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25456,7 +25460,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:64594
 msgctxt "h6bd30550g3f5ag4634g831fg173a668e5fed"
 msgid "Absolute Voice"
-msgstr ""
+msgstr "절대자의 목소리"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -25490,7 +25494,7 @@ msgstr "샤 제단"
 #: Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:65658
 msgctxt "h6a30ed3fgd775g4124gb8e1gf759b3856c0f"
 msgid "This parchment is unread."
-msgstr "이 두루마리는 아직 누구도 읽지 않았습니다."
+msgstr "이 양피지는 아직 누구도 읽지 않았습니다."
 
 #. FilePath = Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26145,7 +26149,7 @@ msgstr "절단된 골반"
 #: Mods/GustavDev/Levels/SCL_MoonriseDungeon_E_ART/Items/_merged.lsx:909
 msgctxt "hf9527fdbg6b6cg447eg9b75gbc5dd6380b1a"
 msgid "Torture Bed"
-msgstr ""
+msgstr "고문용 침대"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_MoonriseDungeon_E_ART/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -33097,7 +33101,7 @@ msgstr "우리 열쇠"
 #: Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:82776
 msgctxt "h72f336b9g4c0dg49d7gbc3eg5ab03ffa2dae"
 msgid "This parchment is unread."
-msgstr "이 두루마리는 아직 누구도 읽지 않았습니다."
+msgstr "이 양피지는 아직 누구도 읽지 않았습니다."
 
 #. FilePath = Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -33834,7 +33838,7 @@ msgstr "사색의 방 명판"
 #: Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:102536
 msgctxt "h95540f89gd472g4d96g82b8g6ed0ac4626ad"
 msgid "This parchment is unread."
-msgstr "이 두루마리는 아직 누구도 읽지 않았습니다."
+msgstr "이 양피지는 아직 누구도 읽지 않았습니다."
 
 #. FilePath = Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
