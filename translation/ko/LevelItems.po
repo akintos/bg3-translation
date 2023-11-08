@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-07 09:37+0000\n"
-"Last-Translator: chups <bridgestone747@gmail.com>\n"
+"PO-Revision-Date: 2023-11-08 11:37+0000\n"
+"Last-Translator: Kestrel <flameblast12@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1805,7 +1805,7 @@ msgstr "샤레스의 애무 저장고 열쇠"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:6520
 msgctxt "h91143629ga7e4g4668g8bd8g8e85f52744ca"
 msgid "Pigeon remains"
-msgstr "비둘기 시체"
+msgstr "비둘기 사체"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2157,10 +2157,9 @@ msgstr "피온의 열쇠"
 #. Name = S_WYR_GortashOfficeBustPlaque_03
 #. Type = item
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:13030
-#, fuzzy
 msgctxt "h8a7da6f6g8b9ag409bg88abga598ef713394"
 msgid "Magnate Carric Ilphescient"
-msgstr "거물 카릭 일페사이언트"
+msgstr "대부호 카릭 일페사이언트"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -2634,6 +2633,8 @@ msgid ""
 "You can cast <LSTag Type=\"Spell\" Tooltip=\"Target_MistyStep\">Misty Step</"
 "LSTag>, with the caveat that you will teleport leaving your clothes behind."
 msgstr ""
+"당신은 순간이동 능력인 <LSTag Type=\"Spell\" Tooltip=\"Target_MistyStep\">안개 걸음</"
+"LSTag>을 사용할 수 있습니다. 하지만 옷은 같이 이동하지 않음에 주의하세요."
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4228,7 +4229,7 @@ msgstr "링마스터의 열쇠"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:49119
 msgctxt "he4c6289fga999g461eg8638gb4128ec70176"
 msgid "Pigeon remains"
-msgstr ""
+msgstr "비둘기 사체"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4251,7 +4252,7 @@ msgstr "세릭의 궤짝 열쇠"
 #: Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx:49699
 msgctxt "h4f8af20cg8369g403cg9f0bgfc6ace7c0db3"
 msgid "This chunk of corpse is still garbed in clown clothes. "
-msgstr ""
+msgstr "이 토막난 시체에는 여전히 광대 옷이 입혀져 있습니다. "
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4284,7 +4285,7 @@ msgstr "철제 횃불"
 #: Mods/GustavDev/Levels/BGO_MerchantHouseBasement_A/Items/_merged.lsx:3374
 msgctxt "hfed2412eged84g4895gb3c0gedf33e9c5f5c"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_MerchantHouseBasement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4329,7 +4330,7 @@ msgstr "날개 달린 스밀로돈 조각상"
 #: Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:1086
 msgctxt "hd71bb304gd701g4ea4g89e3ge0648c1ecb92"
 msgid "Infiltration Training"
-msgstr ""
+msgstr "침입 훈련"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4340,7 +4341,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:1701
 msgctxt "he9116c11g8c44g4fe1ga6a1gd88692e21974"
 msgid "Outfit"
-msgstr ""
+msgstr "의상"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4418,7 +4419,7 @@ msgstr "장식된 의자"
 #: Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:6329
 msgctxt "h8c7369c9g7b3fg4ccdgab66gf96d9d886015"
 msgid "Outfit"
-msgstr ""
+msgstr "의상"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4462,7 +4463,7 @@ msgstr "기숙사"
 #: Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:8302
 msgctxt "h6b020acagf1d0g40cfg860fg12055216be5a"
 msgid "Outfit"
-msgstr ""
+msgstr "의상"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4484,7 +4485,7 @@ msgstr "화로"
 #: Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:9040
 msgctxt "h355e1ff1g3f35g439ega286g9360d6fe16a5"
 msgid "Outfit"
-msgstr ""
+msgstr "의상"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4506,7 +4507,7 @@ msgstr "화로"
 #: Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:9964
 msgctxt "hc2150df7g5297g4558g807bg64d79a270dbc"
 msgid "Armoury"
-msgstr ""
+msgstr "무기고"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4517,7 +4518,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:10251
 msgctxt "h3d0888e5g6e1ag416bg8897g32bfeaf4b294"
 msgid "Torture Bench"
-msgstr ""
+msgstr "고문대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4595,7 +4596,7 @@ msgstr "화로"
 #: Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:15603
 msgctxt "h89b0c7b7g9261g4443g8947g83bd503e9c51"
 msgid "Threshold of Loss"
-msgstr ""
+msgstr "상실의 입구"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4640,7 +4641,7 @@ msgstr "화로"
 #: Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx:17320
 msgctxt "ha3f5b12cgda80g403dgb894gb56babd64349"
 msgid "Interrogation Training"
-msgstr ""
+msgstr "심문 훈련"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_Sharran_Grotto/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4717,7 +4718,7 @@ msgstr "돌벽"
 #: Mods/GustavDev/Levels/BGO_SteelWatchLabControlCenter_B/Items/_merged.lsx:1274
 msgctxt "h60e58758g2423g4024gb24fg58173979a9db"
 msgid "Control Centre"
-msgstr ""
+msgstr "중앙 제어실"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_SteelWatchLabControlCenter_B/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4827,7 +4828,7 @@ msgstr "철제 횃불"
 #: Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx:2016
 msgctxt "hd902742dgfb0eg4934gbb9fgff477bba5630"
 msgid "Standing Torch"
-msgstr ""
+msgstr "횃대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -4981,7 +4982,7 @@ msgstr "1462년산 문셰이 진판델"
 #: Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx:8691
 msgctxt "h2512af89g9eefg41dfg846eg8cfa7f6186c7"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5003,7 +5004,7 @@ msgstr "문셰이 진판델 수집품"
 #: Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx:9170
 msgctxt "h35b045eage889g4777g8667g043ffb675c46"
 msgid "Standing Torch"
-msgstr ""
+msgstr "횃대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5014,7 +5015,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx:9711
 msgctxt "hd438beb9gb6a5g438egb3cfg8d6a2583b1f0"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5025,7 +5026,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx:9925
 msgctxt "ha1ccb196gc0ddg417dg83b8gb35d6a555b20"
 msgid "Moonshae Zinfandel 1465"
-msgstr ""
+msgstr "1465년산 문셰이 진판델"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5048,7 +5049,7 @@ msgstr "1464년산 문셰이 진판델"
 #: Mods/GustavDev/Levels/BGO_UC_GuildHall_A/Items/_merged.lsx:12803
 msgctxt "h6d87562bg1784g4d73gb9bag1b943855c563"
 msgid "No Entry - No Exit"
-msgstr ""
+msgstr "입장 불가 - 퇴장 불가"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_UC_Ruins_B/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5103,7 +5104,7 @@ msgstr "양초"
 #: Mods/GustavDev/Levels/BGO_UC_Ruins_B/Items/_merged.lsx:17427
 msgctxt "h962c582fgce37g4973g87d0g4e5275bd1a9f"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_UC_Sewer_D_Backup/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5126,7 +5127,7 @@ msgstr "화강암"
 #: Mods/GustavDev/Levels/BGO_WellDepths_A/Items/_merged.lsx:235
 msgctxt "h37c57854gb0fdg499egb201g0a9ad50c0110"
 msgid "Standing Torch"
-msgstr ""
+msgstr "횃대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmRockDungeon_D_Art/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5364,7 +5365,7 @@ msgstr "샹들리에"
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:21850
 msgctxt "h897bf156gf861g4c7egb943gf3bf11c0338a"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5375,7 +5376,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:22778
 msgctxt "h77551aaagbdd1g4b5fg9ec5g9acfb06023fb"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5485,7 +5486,7 @@ msgstr "등불"
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:31947
 msgctxt "ha75f703dg0011g4df8ga541g938eca5bffc1"
 msgid "Old Rusty Door"
-msgstr ""
+msgstr "오래되고 녹슨 문"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5507,7 +5508,7 @@ msgstr "나무 벤치"
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:36884
 msgctxt "h99b09efcgd913g4656g8a69ga03bfb97234e"
 msgid "Wooden Tub"
-msgstr ""
+msgstr "나무 목욕통"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5595,7 +5596,7 @@ msgstr "화강암 벤치"
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:45457
 msgctxt "h9e111e0bg102ag4da4g8fb0gb717f0544279"
 msgid "Wooden Tub"
-msgstr ""
+msgstr "나무 목욕통"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -5683,7 +5684,7 @@ msgstr "샹들리에"
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:57376
 msgctxt "hde5bb3c2g1004g4960ga744g211b91aacc96"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -6071,7 +6072,7 @@ msgstr "커다란 병"
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:109690
 msgctxt "h9b5fa22bg9293g4119g86c8g677b038ce218"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -6294,7 +6295,7 @@ msgstr "마호가니 벤치"
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:148365
 msgctxt "hfaddd62eged34g478agb9c0ge784f29c2a56"
 msgid "Wooden Tub"
-msgstr ""
+msgstr "나무 목욕통"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -6349,7 +6350,7 @@ msgstr "나무 상자"
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:154396
 msgctxt "hbc243331ga83dg438cgba64g88848adbb9f9"
 msgid "Wooden Tub"
-msgstr ""
+msgstr "나무 목욕통"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -6439,7 +6440,7 @@ msgstr "찬장"
 #: Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx:162180
 msgctxt "h588310efg448bg4f9dg8cbfg1f12b30f5d37"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/BGO_WyrmsCrossing_C/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -9140,7 +9141,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_FireWorks_Basement_A/Items/_merged.lsx:825
 msgctxt "h135bead6gb9a7g451bgaf9dg7e25dd19ca25"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_FireWorks_Basement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -9151,7 +9152,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_FireWorks_Basement_A/Items/_merged.lsx:1308
 msgctxt "hcf1ddaceg1068g4631g98d6g55d1e193ba96"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_FireWorks_Basement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -9162,7 +9163,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_FireWorks_Basement_A/Items/_merged.lsx:1975
 msgctxt "h30e77ae6g796ag4ae3g9114gb0bad3e8502f"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_FireWorks_Basement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -9173,7 +9174,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_FireWorks_Basement_A/Items/_merged.lsx:2585
 msgctxt "h0e690df8gba2dg467fgb65fg50cde0ec31b6"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_FireWorks_Basement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -9250,7 +9251,7 @@ msgstr "와인 선반"
 #: Mods/GustavDev/Levels/CTY_GeneralStore_Basement_A/Items/_merged.lsx:2443
 msgctxt "h5cb5c074gf171g4124g9702gf395b724d756"
 msgid "Landscape"
-msgstr ""
+msgstr "풍경화"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Golbraith_Basement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -19848,7 +19849,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_MusicStore_Basement_A/Items/_merged.lsx:2221
 msgctxt "hba4c8aa9gfc85g4be4g8c2dg8f6beed24653"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_MusicStore_Basement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -19893,7 +19894,7 @@ msgstr "잉크병과 깃대"
 #: Mods/GustavDev/Levels/CTY_MusicStore_Basement_A/Items/_merged.lsx:3679
 msgctxt "h4a46a977g4514g40b0g8146gd293e58f3779"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/CTY_Peartree_Basement_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -20153,7 +20154,7 @@ msgstr "나무 궤짝"
 #: Mods/GustavDev/Levels/Cre_GithCreche_D/Items/_merged.lsx:53
 msgctxt "h8c1693a6g1733g4328gaff3g00a37103d4e9"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/Cre_GithCreche_D/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -20234,7 +20235,7 @@ msgstr "장밋빛 아침 수도원 문"
 #: Mods/GustavDev/Levels/Cre_GithCreche_D/Items/_merged.lsx:12662
 msgctxt "hf0700c85g20ceg4808g8887g37d1455e57f7"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/END_CIN_ElfsongCamp_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26459,7 +26460,7 @@ msgstr "등불"
 #: Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:11290
 msgctxt "hf69e3805gb26bg415eg8ab4gf7104786a327"
 msgid "Landscape"
-msgstr ""
+msgstr "풍경화"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26470,7 +26471,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:13736
 msgctxt "h0a41e563gd441g4c10g9362g2b40fe275baa"
 msgid "Standing Torch"
-msgstr ""
+msgstr "횃대"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26860,7 +26861,7 @@ msgstr "수건 더미"
 #: Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:81470
 msgctxt "h44768106g323fg49c0gad7egaffeaf073d94"
 msgid "Balthazar's Torture Chair"
-msgstr ""
+msgstr "발타자르의 고문용 의자"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -26927,7 +26928,7 @@ msgstr "무덤"
 #: Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:87552
 msgctxt "hf8f5c9c3gf03eg4810gaddcg03c9245f7d96"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27262,7 +27263,7 @@ msgstr "마호가니 벤치"
 #: Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:135880
 msgctxt "ha260923ag723eg409bgbb86g1359c825c856"
 msgid "Goblet With Dead Tadpoles"
-msgstr ""
+msgstr "죽은 올챙이가 담긴 잔"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27582,7 +27583,7 @@ msgstr "의자"
 #: Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx:188592
 msgctxt "h859fcce6gabecg4cd7gb53cg7ec18081a239"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_RuinsBattlefield_G/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27671,7 +27672,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx:1128
 msgctxt "h8ea97941ge6cdg4157g9218g90deade5fe07"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27682,7 +27683,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx:1625
 msgctxt "h402a0f11gfcd8g4475g92f0gcf35591d96cd"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27904,7 +27905,7 @@ msgstr "책꽂이"
 #: Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx:12686
 msgctxt "h6a557bd1gd245g4ea7g96a1gd56ab5d193d1"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -27915,7 +27916,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx:13636
 msgctxt "hd31e61afg0234g4327g92a4g23803df5e339"
 msgid "Iron Candelabrum"
-msgstr ""
+msgstr "무쇠 촛대"
 
 #. FilePath = Mods/GustavDev/Levels/SCL_VillageSubs_E/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -31151,7 +31152,7 @@ msgstr "올라가기"
 #: Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:31475
 msgctxt "h7a32f131g2915g41bbgb831gfa48a79f08aa"
 msgid "Door to Shattered Sanctum"
-msgstr ""
+msgstr "파괴된 성소로 통하는 문"
 
 #. FilePath = Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -32487,7 +32488,7 @@ msgstr "무거운 열쇠"
 #: Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:65525
 msgctxt "h436528a1g01ecg4716ga899gd77e016883ac"
 msgid "Door to Shattered Sanctum"
-msgstr ""
+msgstr "파괴된 성소로 통하는 문"
 
 #. FilePath = Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
@@ -32500,7 +32501,7 @@ msgstr ""
 #: Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx:65848
 msgctxt "h228cc01cg2ac7g45acgb5e6gf92347b8ccf0"
 msgid "Priestess Quarters Entrance"
-msgstr ""
+msgstr "여사제의 방 입구"
 
 #. FilePath = Mods/Gustav/Levels/WLD_Main_A/Items/_merged.lsx
 #. NodeID = GameObjects
