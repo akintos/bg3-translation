@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-08 11:37+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2023-11-09 12:37+0000\n"
+"Last-Translator: Favmir <nevirful@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6041,19 +6041,14 @@ msgstr "지옥의 무기고"
 #. HandlePath = Content
 #. UUID = GEN_Panes_InfernalArmory
 #: Mods/Gustav/Localization/Generic_Books.lsx:743
-#, fuzzy
-#| msgid ""
-#| "['Infernal Arms': This tome details the various weapons and armor that can "
-#| "be found in the Hells, including their properties. The section on how to "
-#| "acquire them has been torn out.]"
 msgctxt "hd17fe6b5g0f51g4920gb47bg9d53c5294d98"
 msgid ""
 "['Infernal Arms': This tome details the various weapons and armour that can "
 "be found in the Hells, including their properties. The section on how to "
 "acquire them has been torn out.]"
 msgstr ""
-"['지옥의 무장들':이 서적은 지옥에서 볼 수 있는 다양한 종류의 무기와 갑옷들, 그들의 자산들에 대한 상세한 서술을 담고 있습니다. "
-"이것을 어떻게 해야 획득할 수 있는지에 대한 항목은 찢겨져 있습니다.]"
+"['지옥의 무장': 이 서적은 지옥에서 발견할 수 있는 다양한 종류의 무기와 갑옷들 및 각각의 특징들에 대한 상세한 서술을 담고 "
+"있습니다. 그것들을 어떻게 해야 획득할 수 있는지에 대한 항목은 찢겨져 있습니다.]"
 
 #. BookId = FOR_Bottomless_HermitParchment
 #. 
@@ -7159,7 +7154,7 @@ msgid ""
 "Eilistraee is kind enough to share our exile and watch over us until that "
 "day comes.\n"
 msgstr ""
-"[에일리스트레이의 신전에 배부할 목적으로 실버헤어 기사단이 발간한 <i>산산조각 난 셀다린</i>의 한 구절.]\n"
+"[에일리스트레이의 신전에 배부할 목적으로 은발 기사단이 발간한 <i>산산조각 난 셀다린</i>의 한 구절.]\n"
 "일부 현대 철학자들은 우리 민족의 몰락을 내분 탓으로 돌리고 있지만, 롤쓰의 배신 또한 과소평가되어서는 안 된다. 물론, 코렐론 "
 "라레시안이 돌아섰다는 롤쓰의 거짓말을 믿은 것은 드로우의 잘못이 맞지만, 코렐론은 우리의 조상들이 그러한 믿음을 저버리게 하게끔 행동한 "
 "적도 없다. 그랬는가? 코렐론의 침묵 또한 배신인 것이다.\n"
@@ -8232,7 +8227,7 @@ msgstr ""
 "칼라일:\n"
 "알고 있지요, 당신이 찾는 탐스럽게 굴곡진 언덕.\n"
 "청순한 밭에 쟁기 박아, 생명의 씨앗 심고 싶겠죠.\n"
-"하지만 당신은 커다란 뿔과 단단한 막대가 없군요.\n"
+"하지만 당신은 우람한 뿔과 단단한 꼬리가 없군요.\n"
 "그래서 무슨 여인을 침대로 이끌 수 있겠나요. \n"
 
 #. BookId = GEN_Races_ScandalousCambionPlayInterview
@@ -8365,12 +8360,11 @@ msgstr "예언가의 기록"
 #. Stats = BOOK_GEN_Races_SoothsayerAccount
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:622110
-#, fuzzy
 msgctxt "hf1afddecg9338g45e0gb0bdg95a7ac3931a8"
 msgid ""
 "Embossed with a unique personal seal in the Waterdhavian style, this book's "
 "author appears to be someone of high status within that city."
-msgstr "워터딥 양식의 인장이 새겨진 이 책의 저자는 도시에서 높은 지위에 있는 사람인 것 같습니다."
+msgstr "워터딥 양식으로 특별한인장이 새겨진 이 책의 저자는 도시에서 높은 지위를 가진 사람으로 보입니다."
 
 #. key = GEN_Races_SoothsayerAccount
 #. 
@@ -12898,13 +12892,14 @@ msgstr ""
 "\n"
 "셀루네를 섬기는 자들에게 불행 있으라! 셀루네는 네 가지 방법으로 사람의 눈을 속인다. \n"
 "\n"
-"첫째, 그냥 면도를 까먹었을 뿐인 당신의 남편을 늑대인간으로 여기게 한다.\n"
+"첫째, 그냥 면도를 까먹었을 뿐인 당신의 남편을 늑대인간으로 오해하게 한다.\n"
 "\n"
-"둘째, 언제나 모습이 바뀌기 때문에 손이 느린 화가들이 그 생김새를 그리기 어렵게 만든다.\n"
+"둘째, 언제나 모습이 바뀌기 때문에 손이 느린 화가들이 그 생김새를 그리기 어렵다.\n"
 "\n"
-"셋째, 조수의 변화. 엿 먹으라 그래.\n"
+"셋째, 조수의 변화. 그거 진짜 엿 같다.\n"
 "\n"
-"넷째, 사람들은 계속 달을 여성성과 연관 짓고 솔직히 우리는 똑같은 시를 계속 읽는 데 지쳤다. 이건 다 그 천족 계집 셀루네 탓이다."
+"넷째, 사람들은 계속 달을 여성성과 연관 짓는데 솔직히 말해서 그 똑같고 뻔한 시를 읽고 또 읽는 것도 지긋지긋하고, 이건 다 그 천족 "
+"계집 셀루네 때문이다."
 
 #. BookId = GLO_GeneralLoreBook_DragonbornButler
 #. 
@@ -17620,6 +17615,7 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = LOW_Baldur'sMouth_WillowbrookBrainstormNotes
 #: Public/GustavDev/Localization/generated_books.lsx:2066
+#, fuzzy
 msgctxt "hd2375acdgc1dcg4b6cg8e81g2240d5af8381"
 msgid ""
 "Father Lorgan murdered at his own temple, this is big news! Now, how best to "
@@ -17635,6 +17631,14 @@ msgid ""
 "But not good enough. All right, it's Ty time, a drink at the Elfsong will "
 "sharpen my wits."
 msgstr ""
+"로간 신부가 자신의 사원에서 살해되었다, 이거 대박 사건인데! 자, 이걸 어떻게 헤드라인으로 줄인다? 아이디어들 - \n"
+"\n"
+"-열린 손이 손잡이를 놓치다! ...아냐\n"
+"-추앙받는 사제, 잔혹하게 도륙되다! ... 안돼, 잔혹하게 도륙은 스텔메인 때 썼어\n"
+"-도살장이 된 사원,<b> 충격, 공포, 사제 살해!</b> ... 안돼 안돼 안돼, <b>간결하게</b> 타이야! 참내\n"
+"-찔리고 또 찔리고! ... 나쁘지 않은데\n"
+"\n"
+"근데 아직 멀었어. 뭐 됐다 이제 타이 타임이야. 엘프송 가서 한잔 하면 머리가 돌아가겠지."
 
 #. BookId = LOW_BaldursMouth_AntiPropaganda
 #. 
@@ -39526,7 +39530,6 @@ msgstr ""
 #. HandlePath = Content
 #. UUID = UND_FurnaceSearch_DisguisedDrowJournal
 #: Mods/Gustav/Localization/Act1_Books.lsx:1009
-#, fuzzy
 msgctxt "h789c74d0g66f4g4f49ga4d1gb4f8c00be5ba"
 msgid ""
 "Shittin' Nere and his shittin' scouting tasks. 'You, duergar, find another "
@@ -39538,8 +39541,13 @@ msgid ""
 "ha ha ha I found your way through the curse, shittin' Nere, the way through "
 "the Shadow-Curse is to let the curse go through YOU hahaha ha ha"
 msgstr ""
-"[이 고서에서는 플럼프의 짝짓기를 생생하게 묘사하고 있습니다. 또한, 각각의 촉수와 구멍 및 참가자들의 황홀한 쌕쌕거림과 윙윙거림의 "
-"역할을 포함하고 있습니다.]"
+"좆같은 니어랑 그 좆같은 정찰같으니. '너, 듀에르가, 그림자 저주를 통과해 갈 다른 길을 찾아라', 그래, 알겠어, 좆같은 니어야, 이 "
+"저주를 내린 사람이 누구든 간에 너보다는 훨씬 잘 알고 있었겠다 <b>방금 뭐였지?</b>\n"
+"\n"
+"노움들 노움들 언더다크에서 죽였을 텐데 그럴 리가\n"
+"\n"
+"하 하 하 저주를 통과할 길을 찾았다, 이 좆같은 니어야, 그림자 저주를 통과하는 방법은 저주가 <b>너를</b> 통과하게 하는 거다 "
+"하하하 하 하"
 
 #. BookId = UNI_SCL_NotSupposedToCry
 #. 
@@ -65716,7 +65724,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/WLD_Main_A/Items/_merged.lsx:78
 msgctxt "ha7c56077g92f0g4745gaa88g19d0a4ee20bc"
 msgid "In Search of the Nightsong"
-msgstr ""
+msgstr "나이트송을 찾아서"
 
 #. BookId = UND_NightsongBook
 #. 
@@ -65731,7 +65739,7 @@ msgctxt "hab984e2agf5ceg4e1dgabcfg726812619e75"
 msgid ""
 "This tome appears fairly new-printed; it can't be more than a decade or two "
 "old."
-msgstr ""
+msgstr "발행된 지 얼마 안 된 것 같은 책입니다. 해봤자 한두 세기 정도 된 듯합니다."
 
 #. key = UND_NightsongBook
 #. 
@@ -72401,6 +72409,11 @@ msgid ""
 "\n"
 "B."
 msgstr ""
+"마커스, 이 실험체들이 얼마나 귀한 것인지는 말 안 해도 잘 알겠지, 자네가 잘 활용하리라 믿네. 장군님을 기쁘게 해드릴 절호의 기회란 "
+"말이지. 절대 이 기회를 망치지 마. 지난 수확 이후로 실험체 재료들을 확보하는 게 어려웠다네. 만약 기회가 생기면 자네의 감사 인사를 "
+"장군님께 전할 수 있도록 해보겠네.\n"
+"\n"
+"B."
 
 #. BookId = CRA_Fisher_LoveLetter
 #. 
@@ -75666,6 +75679,13 @@ msgid ""
 "ha ha ha I found your way through the curse, shittin' Nere, the way through "
 "the Shadow-Curse is to let the curse go through YOU hahaha ha ha"
 msgstr ""
+"좆같은 니어랑 그 좆같은 정찰같으니. '너, 듀에르가, 그림자 저주를 통과해 갈 다른 길을 찾아라', 그래, 알겠어, 좆같은 니어야, 이 "
+"저주를 내린 사람이 누구든 간에 너보다는 훨씬 잘 알고 있었겠다 <b>방금 뭐였지?</b>\n"
+"\n"
+"노움들 노움들 언더다크에서 죽였을 텐데 그럴 리가\n"
+"\n"
+"하 하 하 저주를 통과할 길을 찾았다, 이 좆같은 니어야, 그림자 저주를 통과하는 방법은 저주가 <b>너를</b> 통과하게 하는 거다 "
+"하하하 하 하"
 
 #. key = COL_Colony_MistressOfSoulsResearchLog
 #. 
