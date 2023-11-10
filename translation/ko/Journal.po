@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-09 12:37+0000\n"
+"PO-Revision-Date: 2023-11-10 14:37+0000\n"
 "Last-Translator: chups <bridgestone747@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -3143,6 +3143,8 @@ msgid ""
 "the Underdark and a Sharran temple beyond. This might lead us to the "
 "Nightsong."
 msgstr ""
+"할신이 언더다크와 그 너머에 있는 샤 신전까지 이어져 있는 파괴된 셀루네 신전의 지하 터널에 대해 알려주었다. 이 길이 우리를 "
+"나이트송으로 이끌어 줄지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -3163,7 +3165,7 @@ msgstr "샤의 신전을 찾으세요."
 #: Mods/GustavDev/Story/Journal/Markers/ed6be795-83d2-41fc-a760-0d4989fe73cc.lsx:8
 msgctxt "h6def2ebbg1048g4feeg84b0g93f8295ccad3"
 msgid "Sharran Temple"
-msgstr ""
+msgstr "샤 신전"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -3177,6 +3179,7 @@ msgid ""
 "We found a book that told of a secret Sharran temple that contains the "
 "Nightsong. It is hidden underground, somewhere near Moonrise Towers."
 msgstr ""
+"우리는 나이트송이 있는 비밀 샤 신전에 대해 적혀있는 책을 발견했다. 신전은 문라이즈 타워 근처 어딘가 지하에 숨겨져 있다고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -16984,7 +16987,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9952
 msgctxt "h959d4092gc198g41e2gaf47g2e923b96b773"
 msgid "Rescue Zariel's asset from Moonrise Towers."
-msgstr ""
+msgstr "문라이즈 타워에서 자리엘의 중요한 인물을 구출하자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -17033,7 +17036,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9963
 msgctxt "h744f49eag1338g47c1g85d4gb7486f8a9f33"
 msgid "Wait for Mizora to be in contact."
-msgstr ""
+msgstr "미조라가 나타나길 기다리자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17063,7 +17066,7 @@ msgctxt "h7f7a09fdgef9bg4e52gb957g7cd144a1d05d"
 msgid ""
 "We've reached Wyrm's Crossing, on the outskirts of Baldur's Gate. We should "
 "keep an eye out for Mizora."
-msgstr ""
+msgstr "발더스 게이트 외곽에 있는 고룡 다리에 도착했다. 미조라를 주의 깊게 찾아봐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17076,7 +17079,7 @@ msgctxt "h4c3bada1ga16cg42a4g8614g9ef11b808fc5"
 msgid ""
 "We found Mizora at Wyrm's Rock fortress. She insisted we attend Gortash's "
 "ordination and seek her out afterwards."
-msgstr ""
+msgstr "고룡 다리 요새에서 미조라를 만났다. 우선 고타쉬의 대관식에 참석하고 나서 그녀를 찾아오라고 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -17086,7 +17089,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9969
 msgctxt "hc5bd6a8agac84g4ca5gbeb6g83e38d6340b3"
 msgid "Attend Gortash's ordination ceremony."
-msgstr ""
+msgstr "고타쉬의 대관식에 참석하자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -17097,7 +17100,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/c5fef2bb-421b-4ca2-9d1e-da1e07a6cbd6.lsx:8
 msgctxt "h8dba0948gfe39g4924g887fgf340689efa64"
 msgid "Ordination Ceremony"
-msgstr ""
+msgstr "대관식"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17108,7 +17111,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:20894
 msgctxt "hc0b2805bgeb24g4c9bg9cb6ge5140bec9605"
 msgid "The ceremony is over. We should return to Mizora."
-msgstr ""
+msgstr "대관식은 끝났다. 미조라에게 돌아가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -17203,7 +17206,7 @@ msgstr "고타쉬의 비밀 감옥에서 레이븐가드를 구하자."
 #: Mods/GustavDev/Story/Journal/Markers/6b6fac05-de68-4dcc-82ed-8b5ba1332a17.lsx:8
 msgctxt "he46afefegc116g4a5fgb9d8g91f4e391abb4"
 msgid "Lower City Docks"
-msgstr ""
+msgstr "하부 도시 부두"
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -17322,6 +17325,8 @@ msgid ""
 "the city. A tome called 'The Legend of Ansur' is key to finding the entrance "
 "to the wyrm's lair. "
 msgstr ""
+"레이븐가드 공작은 절대자의 재앙으로부터 발더스 게이트를 구할 유일한 방법은 도시 지하에 잠들어 있는 강력한 고룡, 안수르를 깨우는 "
+"것이라고 윌에게 말했다. '안수르의 전설'이라는 고서는 고룡의 은신처로 가는 입구를 찾는 열쇠다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -17398,6 +17403,8 @@ msgid ""
 "refused to stand down; we should check their possessions for any relevant "
 "information."
 msgstr ""
+"자문관 플로릭과 그 동료들은 윌이 도시를 차지하기 위해 아버지를 죽였다고 비난하면서 우릴 습격했다. 플로릭은 물러나길 거부했고 결국 "
+"패배했다. 유용한 정보가 있는지 그들의 소지품을 살펴봐야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -17429,7 +17436,7 @@ msgstr "자문관 플로릭"
 #: Mods/GustavDev/Story/Journal/Markers/e13d6fe2-c77a-4a1e-985f-6a930f491494.lsx:8
 msgctxt "ha20cff73g55a3g44cega132g8a1483890a94"
 msgid "Cordula Eltan"
-msgstr ""
+msgstr "코듈라 엘탄"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17445,6 +17452,8 @@ msgid ""
 "to stand down; we should check their possessions for any relevant "
 "information."
 msgstr ""
+"코듈라 엘탄과 그 동료들은 윌이 도시를 차지하기 위해 아버지를 죽였다고 비난하면서 우릴 습격했다. 엘탄은 물러나길 거부했고 결국 "
+"패배했다. 유용한 정보가 있는지 그들의 소지품을 살펴봐야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17455,7 +17464,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:21104
 msgctxt "h272b55bcgb4ceg4c83gb262gece8e3aed7f3"
 msgid "We've retrieved a book called 'The Legend of Ansur'. We should read it."
-msgstr ""
+msgstr "'안수르의 전설'이라는 책을 손에 넣었다. 읽어보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17473,6 +17482,9 @@ msgid ""
 "A tome called 'The Legend of Ansur' is key to finding the entrance to the "
 "wyrm's lair. "
 msgstr ""
+"자문관 플로릭과 그 동료들은 윌이 도시를 차지하기 위해 아버지를 죽였다고 비난하면서 우릴 습격했지만, 우리는 그들이 물러나도록 설득했다. "
+"플로릭은 절대자의 재앙으로부터 발더스 게이트를 구할 유일한 방법은 도시 지하에 잠들어 있는 강력한 고룡, 안수르를 깨우는 것이라고 "
+"말했다. '안수르의 전설'이라는 고서는 고룡의 은신처로 가는 입구를 찾는 열쇠다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17490,6 +17502,9 @@ msgid ""
 "A tome called 'The Legend of Ansur' is key to finding the entrance to the "
 "wyrm's lair. "
 msgstr ""
+"코듈라 엘탄과 그 동료들은 윌이 도시를 차지하기 위해 아버지를 죽였다고 비난하면서 우릴 습격했지만, 우리는 그들이 물러나도록 설득했다. "
+"엘탄은 절대자의 재앙으로부터 발더스 게이트를 구할 유일한 방법은 도시 지하에 잠들어 있는 강력한 고룡, 안수르를 깨우는 것이라고 말했다. "
+"'안수르의 전설'이라는 고서는 고룡의 은신처로 가는 입구를 찾는 열쇠다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17540,7 +17555,7 @@ msgctxt "h27b53accg7473g4d20g89bfgc5dbe8230686"
 msgid ""
 "We've reached the Wyrmway, where the great wyrm Ansur resides. We must make "
 "our way to him."
-msgstr ""
+msgstr "위대한 고룡 안수르가 있다는 고룡의 길에 도착했다. 반드시 그에게 가야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -17550,7 +17565,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10081
 msgctxt "h6385dd3cg8750g4e82g9c03g08dbbe2dfa5c"
 msgid "Find the way to Ansur."
-msgstr ""
+msgstr "안수르에게 가는 길을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17573,7 +17588,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10087
 msgctxt "hb3147424g1c59g4e37gb09bg5900ac04b2b4"
 msgid "Talk to Wyll."
-msgstr ""
+msgstr "윌과 대화하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17596,7 +17611,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10093
 msgctxt "hffa2092cg161dg4623g8fa3g163cd292aef2"
 msgid "Return to Ravengard."
-msgstr ""
+msgstr "레이븐가드에게 돌아가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57343,7 +57358,7 @@ msgctxt "hc7d9bac1g5a4fg4352g9e20gb6cfd0d1787e"
 msgid ""
 "I've delved deep into Moonrise Towers. I should search the area thoroughly - "
 "the devil that Mizora asked me to rescue must be nearby."
-msgstr ""
+msgstr "문라이즈 타워로 깊이 파고들었다. 미조라가 구출해달라고 한 데빌이 근처에 있을 것이니 이곳을 샅샅이 뒤져야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57369,7 +57384,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10557
 msgctxt "hc3d4d777ge212g40e6ga41bg01ca43a3828f"
 msgid "Wait for Mizora to be in contact."
-msgstr ""
+msgstr "미조라가 나타나길 기다리자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57400,7 +57415,7 @@ msgctxt "h7094fcceg98b6g4c12gba82g47172fd45f83"
 msgid ""
 "I've reached Wyrm's Crossing, on the outskirts of Baldur's Gate. I should "
 "keep an eye out for Mizora - she must be lurking about somewhere."
-msgstr ""
+msgstr "발더스 게이트 외곽에 있는 고룡 다리에 도착했다. 미조라를 주의 깊게 찾아봐야 한다. 분명 어딘가 숨어 있을 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57413,7 +57428,7 @@ msgctxt "hce1fb6d9g3b9cg4764gae71g7e2624482ac6"
 msgid ""
 "I found Mizora at Wyrm's Rock fortress. She insisted I attend Gortash's "
 "ordination and seek her out afterwards."
-msgstr ""
+msgstr "고룡 다리 요새에서 미조라를 만났다. 우선 고타쉬의 대관식에 참석하고 나서 그녀를 찾아오라고 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57423,7 +57438,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10563
 msgctxt "h701427efg6137g4042gbdb7g75767a12090a"
 msgid "Attend Gortash's ordination ceremony."
-msgstr ""
+msgstr "고타쉬의 대관식에 참석하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57434,7 +57449,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:73036
 msgctxt "h7e0a8a1dgb593g412ag90a0ge3d9ab71f9fd"
 msgid "The ceremony is over. I should return to Mizora."
-msgstr ""
+msgstr "대관식은 끝났다. 미조라에게 돌아가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57457,7 +57472,7 @@ msgctxt "h5bbb0b0fg3825g49e6gacd2ga2fc6a8a262f"
 msgid ""
 "Mizora asked me to meet her in camp. She has an important proposal to make "
 "regarding my father. What is she scheming?"
-msgstr ""
+msgstr "미조라가 야영지에서 만나자고 했다. 아버지에 관한 중요한 제안이 있다고 했다. 무슨 일을 꾸미는 걸까?"
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57608,6 +57623,8 @@ msgid ""
 "located somewhere within Wyrm's Rock Prison, and the notes inside it hint "
 "that opening the way involves lightning sparks and torches."
 msgstr ""
+"'안수르의 전설'을 읽은 후, 위대한 고룡 안수르가 비밀 은신처인 고룡의 길에 존재하고 있다는 사실을 알게 되었다. 그 입구는 고룡 바위 "
+"감옥 어딘가에 있을 것인데, 책 속의 메모는 번개와 횃불이 고룡의 길을 열어줄 것이라고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57617,7 +57634,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10630
 msgctxt "h51e81cf7g84e2g49b4gbec2gcc0533b9863d"
 msgid "Find the entrance to Ansur's lair, the Wyrmway."
-msgstr ""
+msgstr "안수르의 은신처, 고룡의 길 입구를 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57662,6 +57679,8 @@ msgid ""
 "refused to stand down; we should check their possessions for any relevant "
 "information."
 msgstr ""
+"자문관 플로릭과 그 동료들은 윌이 도시를 차지하기 위해 아버지를 죽였다고 비난하면서 우릴 습격했다. 플로릭은 물러나길 거부했고 결국 "
+"패배했다. 유용한 정보가 있는지 그들의 소지품을 살펴봐야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57686,6 +57705,8 @@ msgid ""
 "so I could take over the city. I defeated them after Eltan refused to stand "
 "down; I should check their possessions for any relevant information."
 msgstr ""
+"코듈라 엘탄과 그 동료들은 내가 도시를 차지하기 위해 아버지를 죽였다고 비난하면서 습격했다. 엘탄은 물러나길 거부했고 결국 패배했다. "
+"유용한 정보가 있는지 그들의 소지품을 살펴봐야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57696,7 +57717,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:73267
 msgctxt "hb60e06d6g5329g40cag830ag14ffb6c71579"
 msgid "I've retrieved a book called 'The Legend of Ansur'. I should read it."
-msgstr ""
+msgstr "'안수르의 전설'이라는 책을 손에 넣었다. 읽어보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57714,6 +57735,9 @@ msgid ""
 "A tome called 'The Legend of Ansur' is key to finding the entrance to the "
 "wyrm's lair. "
 msgstr ""
+"자문관 플로릭과 그 동료들은 내가 도시를 차지하기 위해 아버지를 죽였다고 비난하면서 습격했지만, 나는 그들이 물러나도록 설득했다. "
+"플로릭은 절대자의 재앙으로부터 발더스 게이트를 구할 유일한 방법은 도시 지하에 잠들어 있는 강력한 고룡, 안수르를 깨우는 것이라고 "
+"말했다. '안수르의 전설'이라는 고서는 고룡의 은신처로 가는 입구를 찾는 열쇠다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57731,6 +57755,9 @@ msgid ""
 "called 'The Legend of Ansur' is key to finding the entrance to the wyrm's "
 "lair. "
 msgstr ""
+"코듈라 엘탄과 그 동료들은 내가 도시를 차지하기 위해 아버지를 죽였다고 비난하면서 습격했지만, 나는 그들이 물러나도록 설득했다. 엘탄은 "
+"절대자의 재앙으로부터 발더스 게이트를 구할 유일한 방법은 도시 지하에 잠들어 있는 강력한 고룡, 안수르를 깨우는 것이라고 말했다. "
+"'안수르의 전설'이라는 고서는 고룡의 은신처로 가는 입구를 찾는 열쇠다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57743,7 +57770,7 @@ msgctxt "h2a5be17bg4d58g429cga2adge52c168d4c7e"
 msgid ""
 "I've reached the Wyrmway, where the great wyrm Ansur resides. I must make my "
 "way to him."
-msgstr ""
+msgstr "위대한 고룡 안수르가 있다는 고룡의 길에 도착했다. 반드시 그에게 가야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57753,7 +57780,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10673
 msgctxt "hd415f5cbga508g48cfg8c9egc7c765c7416d"
 msgid "Find the way to Ansur."
-msgstr ""
+msgstr "안수르에게 가는 길을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57801,7 +57828,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10685
 msgctxt "ha0be1db6g658bg42fcgad1fgf091f048685b"
 msgid "Return to Ravengard."
-msgstr ""
+msgstr "레이븐가드에게 돌아가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59244,7 +59271,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:75189
 msgctxt "h85d84840g696cg4f55g829fg8651b3b10439"
 msgid "Wyrmway"
-msgstr ""
+msgstr "고룡의 길"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59260,6 +59287,8 @@ msgid ""
 "located somewhere within Wyrm's Rock Prison, and the notes inside it hint "
 "that opening the way involves lightning sparks and torches."
 msgstr ""
+"'안수르의 전설'을 읽은 후, 위대한 고룡 안수르가 비밀 은신처인 고룡의 길에 존재하고 있다는 사실을 알게 되었다. 그 입구는 고룡 바위 "
+"감옥 어딘가에 있을 것인데, 책 속의 메모는 번개와 횃불이 고룡의 길을 열어줄 것이라고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59272,7 +59301,7 @@ msgctxt "h7d5162abg9bcag4054gb51dg5d0b511a2995"
 msgid ""
 "I reached the Wyrmway, where the great wyrm Ansur resides. I must make my "
 "way to him."
-msgstr ""
+msgstr "위대한 고룡 안수르가 있다는 고룡의 길에 도착했다. 반드시 그에게 가야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59285,7 +59314,7 @@ msgctxt "h7ba448dcg969dg4603g9c6cge89d5325f56a"
 msgid ""
 "The statue guarding the Wyrmway entrance informed me I cannot reach Ansur's "
 "lair until I prove myself as a worthy hero."
-msgstr ""
+msgstr "고룡의 길 입구를 지키는 조각상은 내가 합당한 영웅임을 증명해야만 안수르의 은신처에 갈 수 있다고 알려주었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59298,7 +59327,7 @@ msgctxt "h7bc3b48egcb50g42f3g8405ge829d0fd39c7"
 msgid ""
 "I completed the Wyrmway's challenges. I should proceed to the statue at the "
 "entrance to Ansur's Lair."
-msgstr ""
+msgstr "고룡의 길 도전을 완료했다. 안수르의 은신처 입구에 있는 조각상으로 가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59310,7 +59339,7 @@ msgstr ""
 msgctxt "hbab5ca21g9662g4365ga413g01f4b0acbd43"
 msgid ""
 "I gained access to Ansur's lair without completing the Wyrmway's challenges."
-msgstr ""
+msgstr "고룡의 길에서의 도전을 완수하지 않은 채 안수르의 은신처에 들어갔다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59322,7 +59351,7 @@ msgstr ""
 msgctxt "h44dfb955gd598g488bg86f8gbd0ba61a9b60"
 msgid ""
 "Ansur, the great wyrm, is a mere pile of bones. I should investigate further."
-msgstr ""
+msgstr "위대한 고룡 안수르는 한 무더기의 뼈일 뿐이었다. 좀 더 조사해 보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59335,7 +59364,7 @@ msgctxt "h10942172ge990g4747gad0ag2beeeed08839"
 msgid ""
 "I've been granted access to Ansur's lair. It's time to see what awaits me "
 "there."
-msgstr ""
+msgstr "안수르의 은신처로 들어갈 수 있게 되었다. 무엇이 기다리고 있을지 확인해 볼 시간이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59346,7 +59375,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:75342
 msgctxt "hb9c8f472g3a49g4f00g8de2gb671985794a9"
 msgid "I have forsaken my tasks in the Wyrmway and won't be able to return."
-msgstr ""
+msgstr "고룡의 길에서의 나의 임무를 포기했고 다시 돌아갈 수 없게 되었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59359,7 +59388,7 @@ msgctxt "h9856654fg2f49g4696gb915gcaea3524f285"
 msgid ""
 "Ansur is no more. Baldur's Gate will have to survive without its great "
 "dragon defender."
-msgstr ""
+msgstr "안수르는 죽었다. 발더스 게이트는 위대한 수호용 없이도 살아남아야 할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -59370,7 +59399,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:75389
 msgctxt "hebf0a795gb0a0g4b7ag8f79g825d0a7e78ef"
 msgid "Wyrmway"
-msgstr ""
+msgstr "고룡의 길"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59386,6 +59415,8 @@ msgid ""
 "located somewhere within Wyrm's Rock Prison, and the notes inside it hint "
 "that opening the way involves lightning sparks and torches."
 msgstr ""
+"'안수르의 전설'을 읽은 후, 우리는 위대한 고룡 안수르가 비밀 은신처인 고룡의 길에 존재하고 있다는 사실을 알게 되었다. 그 입구는 "
+"고룡 바위 감옥 어딘가에 있을 것인데, 책 속의 메모는 번개와 횃불이 고룡의 길을 열어줄 것이라고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59398,7 +59429,7 @@ msgctxt "hda9b4bb2g4263g4edega7bbg07b23bbf86d7"
 msgid ""
 "We've reached the Wyrmway, where the great wyrm Ansur resides. We must make "
 "our way to him."
-msgstr ""
+msgstr "위대한 고룡 안수르가 있다는 고룡의 길에 도착했다. 반드시 그에게 가야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59411,7 +59442,7 @@ msgctxt "h0d7cd9a1g04b2g41adgb4ffged39a6bef961"
 msgid ""
 "The statue guarding the Wyrmway entrance informed us we cannot reach Ansur's "
 "lair until we prove ourselves as worthy heroes."
-msgstr ""
+msgstr "고룡의 길 입구를 지키는 조각상은 우리가 합당한 영웅임을 증명해야만 안수르의 은신처에 갈 수 있다고 알려주었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59424,7 +59455,7 @@ msgctxt "hdbcc732bg1870g47e2g974dg4997a0a8a0a7"
 msgid ""
 "We completed the Wyrmway's challenges. We should proceed to the statue at "
 "the entrance to Ansur's Lair."
-msgstr ""
+msgstr "고룡의 길 도전을 완료했다. 안수르의 은신처 입구에 있는 조각상으로 가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59436,7 +59467,7 @@ msgstr ""
 msgctxt "h482c0cf6g91dbg44c9ga1c6g3a78aa9121c6"
 msgid ""
 "We gained access to Ansur's lair without completing the Wyrmway's challenges."
-msgstr ""
+msgstr "고룡의 길에서의 도전을 완수하지 않은 채 안수르의 은신처에 들어갔다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59449,7 +59480,7 @@ msgctxt "h7ec97662ge25fg4165gb9c3g0f7e4cebf7d5"
 msgid ""
 "We've been granted access to Ansur's lair. It's time to see what awaits us "
 "there."
-msgstr ""
+msgstr "안수르의 은신처로 들어갈 수 있게 되었다. 무엇이 우리를 기다리고 있을지 확인해 볼 시간이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59462,7 +59493,7 @@ msgctxt "h8d202708g7bdbg464egac8bg88efbe66ee9a"
 msgid ""
 "Ansur, the great wyrm, is a mere pile of bones. We should investigate "
 "further."
-msgstr ""
+msgstr "위대한 고룡 안수르는 한 무더기의 뼈일 뿐이었다. 좀 더 조사해 보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59475,7 +59506,7 @@ msgctxt "h1a88fffag73e0g4f8fg82e0ga43778114de0"
 msgid ""
 "Ansur is no more. Baldur's Gate will have to survive without its great "
 "dragon defender."
-msgstr ""
+msgstr "안수르는 죽었다. 발더스 게이트는 위대한 수호용 없이도 살아남아야 할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59486,7 +59517,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:75563
 msgctxt "hcffa9fd0g1a94g4566gb346g23f0ae98fc22"
 msgid "We have forsaken our tasks in the Wyrmway and won't be able to return."
-msgstr ""
+msgstr "우리는 고룡의 길에서의 임무를 포기했고 다시 돌아갈 수 없게 되었다."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
