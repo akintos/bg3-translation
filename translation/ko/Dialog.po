@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-10 14:37+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-11-12 09:37+0000\n"
+"Last-Translator: akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1108,7 +1108,7 @@ msgstr "날 죽이면 넌 <i>개</i>처럼 사냥당할 거다."
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackedGuardInCombat:50930a8a-6b82-f8f5-8baf-4bae15c0809b
 msgctxt "h2e3ee6b4g3c00g41fegb9fdgf3cbd2520bfa"
 msgid "Stand down - or face the consequences."
-msgstr "물러서지 않으면 결과를 마주하게 될 거다."
+msgstr "물러서지 않으면 대가를 치르게 해 주마."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackedGuardInCombat
 #. Speaker = GROUP_Guards
@@ -5890,7 +5890,7 @@ msgstr "뭔가 숨길 게 있나?"
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Noticed_Sneaking:a8065599-bba5-4bf5-8588-bbeef9006d87
 msgctxt "h0509ca09g7064g4814g944ag35e8e701b37f"
 msgid "Stop that."
-msgstr "그만 해."
+msgstr "그만해."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Noticed_SummonAssault
 #. Speaker = GROUP_Animals
@@ -25538,17 +25538,15 @@ msgstr "*운 지지리도 없는 이름 모를 농부 소년의 묘.*"
 #. NodeID = 015d7056-bcf3-bfed-60c4-2615bd0f1d4c
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_Tombstone_34:015d7056-bcf3-bfed-60c4-2615bd0f1d4c
-#, fuzzy
 msgctxt "h94208c3fgebedg4686gaefdg676786580edd"
 msgid "*Here lies Duncan, last of the Ghorey clan, who died without issue.*"
-msgstr "*고리 일족의 마지막 혈통 던컨, 여기에 곱게 잠들다.*"
+msgstr "*고리 일족의 마지막 혈통 던컨, 여기에 고이 잠들다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_WorkshopTombstone
 #. Speaker = Narrator
 #. NodeID = 68430d39-fbe0-fd35-9e46-a99fe11fce8c
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Graveyard_AD_WorkshopTombstone:68430d39-fbe0-fd35-9e46-a99fe11fce8c
-#, fuzzy
 msgctxt "h85643187g6330g427fg8203g31dd4ce9e4bf"
 msgid "*This tombstone is yet to be engraved.*"
 msgstr "*이 묘비는 아직 새겨지지 않았습니다.*"
@@ -25558,12 +25556,11 @@ msgstr "*이 묘비는 아직 새겨지지 않았습니다.*"
 #. NodeID = 5263c286-eaf1-aa13-f44b-84fdac6a78e0
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Guildhall_AD_Rule:5263c286-eaf1-aa13-f44b-84fdac6a78e0
-#, fuzzy
 msgctxt "hfee0b4abg07c2g421cg890cgdb26c475dc42"
 msgid ""
 "*The Guildhall has one rule: All crime stays in the city streets, where it "
 "belongs. Break this rule and you die.*"
-msgstr "*길드홀에는 한가지 규칙이 있습니다. '모든 범죄는 도시 거리에서만, 어길시 사형.*"
+msgstr "*길드홀의 단 한가지 규칙. '모든 범죄는 도시 거리에서만, 어길시 사형.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_Guildhall_AD_VintageMoonshaeZinfandelCollection
 #. Speaker = Narrator
@@ -26661,7 +26658,7 @@ msgstr "*명성 있는 대장장이였던 브로닉 레로우, 여기 잠들다.
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone20:1aee913a-6848-6665-8d3f-7d94db3c934e
 msgctxt "h1591d0edgab28g47a7gbb61g72cc9dbf7de6"
 msgid "*Dedicated to Hugo Hobbs, cobbler. Hobbs the Cobbs to his friends.*"
-msgstr "*친구들에게는 홉스 더 콥스라는 애칭이 더 익숙한, 구두수선공 휴고 홉스(Hugo Hobbs)에게 바칩니다.\""
+msgstr "*신발 수선공 휴고 홉스. 친구들은 휴곱스라고 불렀다.\""
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/TWN_SCLCemetery_AD_HouseOfHealing_Gravestone21
 #. Speaker = Narrator
@@ -39442,7 +39439,7 @@ msgstr "그만 둬."
 #: Mods/Gustav/Story/Dialogs/Generics/GLO_PAD_CrimeAgainstPartOfTheTeam:6ad94e76-a4a5-40eb-846d-e8141e3594f9
 msgctxt "hbcbe5fe9gfb31g4a64g82cfg53b6fc5e6336"
 msgid "Stop that."
-msgstr "그만 해."
+msgstr "그만해."
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Generics/GLO_PAD_CrimeAgainstPartOfTheTeam
 #. Speaker = Player

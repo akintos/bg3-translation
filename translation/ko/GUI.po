@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-10 14:37+0000\n"
-"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
+"PO-Revision-Date: 2023-11-12 09:37+0000\n"
+"Last-Translator: akintos <akintos47@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2444,12 +2444,12 @@ msgstr "표시"
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6858
 msgctxt "hddb17d4eg181fg4e65g9f0cg8e430dc903ca"
 msgid "Hide"
-msgstr "숨기"
+msgstr "숨김"
 
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6874
 msgctxt "hfb427664gb836g49ebga804g0aa44391e8ad"
 msgid "Replace weapon"
-msgstr "무기 교체"
+msgstr "무기 숨김"
 
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6928
 msgctxt "h5c3d81adg53ffg44f7gaabfg58ddbfb5d13d"
@@ -2848,11 +2848,9 @@ msgid "Level up"
 msgstr "레벨 업"
 
 #: Public/Game/GUI/Library/DataTemplates_k.xaml:971
-#, fuzzy
-#| msgid "Join dialogue"
 msgctxt "h182e2a31gc475g436egb05cga8b95d58b7a8"
 msgid "Listen"
-msgstr "대화 참여"
+msgstr "듣기"
 
 #: Public/Game/GUI/Library/DataTemplates_k.xaml:1101
 msgctxt "h861b4dc9g3666g4c95g8f44gea717dbf6a9e"
@@ -4239,7 +4237,7 @@ msgstr "태그"
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6754
 msgctxt "h90154bd4g08b9g46efg8e70gbce5d5a99e1a"
 msgid "Show Helmet"
-msgstr "투구 보이기"
+msgstr "투구 보임"
 
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2366
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6962
@@ -4470,14 +4468,14 @@ msgstr ""
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6770
 msgctxt "h57dce093g8d4ag43b4gb7a3g525250a499c1"
 msgid "Hide during dialogues"
-msgstr "대화 중엔 숨기기"
+msgstr "대화 중 숨김"
 
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:3264
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:309
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6785
 msgctxt "h5bd7b04cg842eg4892ga9b7ga421ad707517"
 msgid "Hide Helmet"
-msgstr "투구 숨기기"
+msgstr "투구 숨김"
 
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:3268
 msgctxt "hb82d55a4g4478g4234g8a45gd27ddab005e6"
@@ -10574,7 +10572,7 @@ msgstr "두루마리"
 #: Public/Game/GUI/Widgets/LearnSpells_c.xaml:148
 msgctxt "he42b09d7ga8a6g43a9gb829g43fee5664185"
 msgid "You don't have any spell scrolls that can offer new knowledge."
-msgstr "새로운 지식을 배울 수 있는 주문 스크롤을 지니고 있지 않습니다."
+msgstr "새로운 지식을 배울 수 있는 주문 두루마리를 지니고 있지 않습니다."
 
 #: Public/Game/GUI/Widgets/LearnSpells.xaml:239
 msgctxt "h82b57884g9542g4415gac97g16a53810d331"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-10 14:37+0000\n"
+"PO-Revision-Date: 2023-11-12 09:37+0000\n"
 "Last-Translator: chups <bridgestone747@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -3154,7 +3154,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11691
 msgctxt "h0d85dfe7g36feg487ega75agac28be4eedee"
 msgid "Find the Sharran Temple."
-msgstr "샤의 신전을 찾으세요."
+msgstr "샤의 신전을 찾아라."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -17011,7 +17011,7 @@ msgctxt "hb532cc36g4a2fg4c4bgbbe8ga0a5f0885a17"
 msgid ""
 "We've delved deep into Moonrise Towers. We should search the area thoroughly "
 "- the devil that Mizora asked us to rescue must be nearby."
-msgstr ""
+msgstr "문라이즈 타워로 깊이 파고들었다. 미조라가 구출해달라고 한 데빌이 근처에 있을 것이니 이곳을 샅샅이 뒤져야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -19573,8 +19573,8 @@ msgid ""
 "destroyed. If we find another way in, we might discover what happened to the "
 "Dark Justiciars."
 msgstr ""
-"사교 신도들이 고대 사원을 찾으려 했지만, 다리가 파괴되어 있다. 다른 길을 찾으면 다크 저스티시어들에게 어떤 일이 일어난건지 알아낼 수 "
-"있을지도 모른다."
+"사교 신도들이 고대 사원을 찾으려 했지만, 다리가 파괴되어 있다. 다른 길을 찾으면 다크 저스티시어들에게 어떤 일이 일어난 건지 알아낼 "
+"수 있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -45162,14 +45162,6 @@ msgstr "계속 모험하자."
 #. ID = ElminsterBrief
 #. Objective = ORI_Avatar_Gale_FindHeart
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:57840
-#, fuzzy
-#| msgid ""
-#| "My mentor, the great wizard Elminster, sought me out in order to deliver a "
-#| "message from Mystra herself. She instructs me to find the 'Heart of the "
-#| "Absolute', and when I find it, to blow it up by detonating the orb. "
-#| "Elminster granted me a powerful spell in order to do this, and has "
-#| "stabilised to orb to grant me enough time to find it. I need to learn more "
-#| "about this 'Heart', and how else it might be defeated."
 msgctxt "hdc98be8agfcd5g46b0g93efg3f7ccf3892f9"
 msgid ""
 "My mentor, the great wizard Elminster, sought me out in order to deliver a "
@@ -45179,9 +45171,9 @@ msgid ""
 "stabilised the orb to grant me enough time to find it. I need to learn more "
 "about this 'Heart', and how else it might be defeated."
 msgstr ""
-"나의 스승이자 위대한 위저드 엘민스터가 미스트라의 전언을 손수 전하기 위해 나를 찾아왔다. 미스트라는 내게 '절대자의 심장'을 찾아, 그 "
-"자리에서 보주를 터뜨려 날려버리라고 지시했다. 엘민스터는 이를 해낼 수 있도록 내게 강력한 주문을 걸었고, 심장을 찾기에 충분한 시간을 "
-"벌어주기 위해 보주를 안정화시켰다. 이 '심장'에 대해, 그리고 그것을 파괴할 다른 방법이 있는지 더 자세히 알아봐야 한다."
+"나의 스승이자 위대한 위저드 엘민스터가 미스트라의 전언을 손수 전하기 위해 나를 찾아왔다. 미스트라는 내게 '절대자의 심장부'를 찾아, "
+"그 자리에서 보주를 터뜨려 날려버리라고 지시했다. 엘민스터는 이를 해낼 수 있도록 내게 강력한 주문을 걸었고, 심장부를 찾기에 충분한 "
+"시간을 벌어주기 위해 보주를 안정화시켰다. 이 '심장부'에 대해, 그리고 그것을 파괴할 다른 방법이 있는지 더 자세히 알아봐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -45392,7 +45384,7 @@ msgctxt "h18b73e94g192bg4618gb369g302fef3f12f0"
 msgid ""
 "I encountered Elminster while travelling on the road. He sought me out on a "
 "matter of great importance, and is waiting to speak with me in camp."
-msgstr ""
+msgstr "여행길 도중에 엘민스터와 만났다. 매우 중요한 문제로 나를 찾아왔으며, 야영지에서 나와 대화하길 기다리고 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -46853,7 +46845,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/dc8dd1b3-9fcd-4749-b4d3-8576c558cc1b.lsx:8
 msgctxt "h9d359c2ag3b22g4006g9b4fg0ddd46ed554d"
 msgid "Elminster's Library"
-msgstr ""
+msgstr "엘민스터의 도서관"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -54811,7 +54803,7 @@ msgctxt "he62dc820g2fdeg4ae0g8e1dg698473481331"
 msgid ""
 "Dammon might have come up with a new plan for Karlach's heart. We should ask "
 "him."
-msgstr ""
+msgstr "대먼이 칼라크의 심장을 위한 새로운 계획을 떠올렸을지도 모른다. 그에게 물어봐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -55021,7 +55013,7 @@ msgctxt "h0939a982g82e2g4c4dg8c03gfb95348f33df"
 msgid ""
 "Dammon might have come up with a new plan for Karlach's heart. We should ask "
 "him."
-msgstr ""
+msgstr "대먼이 칼라크의 심장을 위한 새로운 계획을 떠올렸을지도 모른다. 그에게 물어봐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -55464,7 +55456,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:70857
 msgctxt "h988271acgcd6ag45b9ga653gf5577257bd44"
 msgid "Dammon might be able to fix my engine. Better give him a shot at it."
-msgstr ""
+msgstr "대먼이 내 엔진을 고칠 수 있을지도 모른다. 한번 찾아가 보는 게 좋겠지."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -56495,7 +56487,7 @@ msgctxt "hebddc0b8gfdc9g4539g81a3g64f2931afb22"
 msgid ""
 "The woman trapped in the fires at Waukeen's Rest has died. Duke Ravengard's "
 "whereabouts are still unknown."
-msgstr ""
+msgstr "와우킨의 쉼터에서 화재로 갇혔던 여자가 사망했다. 레이븐가드 공작의 행방은 여전히 묘연하다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -56518,7 +56510,7 @@ msgctxt "h2674675fg41f8g4551gb136gc71b4657a9d0"
 msgid ""
 "Counsellor Florrick, the woman trapped in the fires at Waukeen's Rest, has "
 "died. Duke Ravengard's whereabouts are still unknown."
-msgstr ""
+msgstr "와우킨의 쉼터에서 화재로 갇혔던 자문관 플로릭이 사망했다. 레이븐가드 공작의 행방은 여전히 묘연하다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -56531,7 +56523,7 @@ msgctxt "h353b3882ga2f8g4c78g98a9g03def6036cc3"
 msgid ""
 "We have yet to rescue anyone from the burning fires of Waukeen's Rest, "
 "including Grand Duke Ravengard."
-msgstr ""
+msgstr "와우킨의 쉼터의 화재에서 누구든지 구해야 한다. 레이븐가드 대공을 포함해서."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
