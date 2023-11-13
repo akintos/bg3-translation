@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-10 14:37+0000\n"
-"Last-Translator: 요하네스 <lowsdy1@gmail.com>\n"
+"PO-Revision-Date: 2023-11-13 15:37+0000\n"
+"Last-Translator: Favmir <nevirful@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1054,7 +1054,7 @@ msgstr "부패의 계절"
 #: Public/Shared/Calendar/DayRanges.lsx:137
 msgctxt "he3231c5egaa4eg484cg8b74g5ddd0a25b0e8"
 msgid "Uktar"
-msgstr "우크타르"
+msgstr "욱타르"
 
 #. FilePath = Public/Shared/Calendar/DayRanges.lsx
 #. NodeID = DayRange
@@ -1608,7 +1608,7 @@ msgctxt "h751d5f52g977fg43a0g913bg536fdb5a87f7"
 msgid ""
 "Graced by a lady or lord of the fey, you are imbued with all the sumptuous "
 "and scary qualities of your patron's extraordinary realm. "
-msgstr "페이의 왕이나 여왕의 은총을 받은 당신은 후원자의 경이로운 왕국이 지닌 화려하면서도 무시무시한 온갖 특성에 물들고 말았습니다. "
+msgstr "페이 왕이나 여왕의 은총에 힘입어, 후원자의 기이한 세계에서 화려하고도 무시무시한 온갖 능력을 내려받습니다. "
 
 #. FilePath = Public/SharedDev/ClassDescriptions/ClassDescriptions.lsx
 #. NodeID = ClassDescription
@@ -5261,7 +5261,7 @@ msgstr "긴 휴식을 취해야 합니다."
 #: Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx:268
 msgctxt "hdb253db0g5274g434fgb6f9gaf41ad18da46"
 msgid "Target must be wearing the matching ring."
-msgstr "대상이 알맞은 반지를 착용하고 있어야 합니다."
+msgstr "대상이 연결된 반지를 착용하고 있어야 합니다."
 
 #. FilePath = Public/GustavDev/ErrorDescriptions/ConditionErrors.lsx
 #. NodeID = ConditionErrors
@@ -14821,7 +14821,7 @@ msgctxt "h8c57592eg4e92g4ccdgb43fgaa16b26d6ac0"
 msgid ""
 "Graced by a lady or lord of the fey, you are imbued with all the sumptuous "
 "and scary qualities of your patron's extraordinary realm. "
-msgstr "페이의 왕이나 여왕의 은총을 받은 당신은 후원자의 경이로운 왕국이 지닌 화려하면서도 무시무시한 온갖 특성에 물들고 말았습니다. "
+msgstr "페이 왕이나 여왕의 은총에 힘입어, 후원자의 기이한 세계에서 화려하고도 무시무시한 온갖 능력을 내려받습니다. "
 
 #. FilePath = Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -15828,7 +15828,7 @@ msgctxt "hf27dd66eg769fg465egbad7g7efebcd30e81"
 msgid ""
 "Graced by a lady or lord of the fey, you are imbued with all the sumptuous "
 "and scary qualities of your patron's extraordinary realm. "
-msgstr "페이의 왕이나 여왕의 은총을 받은 당신은 후원자의 경이로운 왕국이 지닌 화려하면서도 무시무시한 온갖 특성에 물들고 말았습니다. "
+msgstr "페이 왕이나 여왕의 은총에 힘입어, 후원자의 기이한 세계에서 화려하고도 무시무시한 온갖 능력을 내려받습니다. "
 
 #. FilePath = Public/SharedDev/Progressions/ProgressionDescriptions.lsx
 #. NodeID = ProgressionDescription
@@ -21514,12 +21514,11 @@ msgstr "홀리펀트"
 #. Name = Steelwatcher
 #. RaceSoundSwitch = SteelWatcher
 #: Public/SharedDev/Races/Races.lsx:4477
-#, fuzzy
 msgctxt "h63362488g3fdag40a2g8228ga141010b9afe"
 msgid ""
 "The operations of these huge steel juggernauts are powered by engines of "
 "churning hellfire. "
-msgstr "이 거대한 강철 저거너트는 마구 끓어오르는 지옥불 엔진으로 가동됩니다. "
+msgstr "이 거대한 강철 괴수는 마구 끓어오르는 지옥불 엔진으로 가동됩니다. "
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -21601,12 +21600,11 @@ msgstr "까마귀"
 #. HandlePath = Description
 #. Name = Butler
 #: Public/SharedDev/Races/Races.lsx:4515
-#, fuzzy
 msgctxt "h6f474acegb9aeg4cefgb109g4577be291a2e"
 msgid ""
 "The Temple of Bhaal's maid-of-all-work. Obsequious and eternal, Sceleritas "
 "lives to die, and dies to serve. "
-msgstr "바알 신전의 잡부 시녀, 영원한 아첨의 스켈레리타스는 죽기 위해 살고, 섬기기 위해 죽습니다. "
+msgstr "바알 신전의 시종, 영원한 아첨의 스켈레리타스는 죽기 위해 살고, 섬기기 위해 죽습니다. "
 
 #. FilePath = Public/SharedDev/Races/Races.lsx
 #. NodeID = Race
@@ -24296,11 +24294,9 @@ msgstr "단 1개의 저장 슬롯만 사용할 수 있으며, 파티원이 죽�
 #. Default = false
 #. Name = IRONMAN_MODE
 #: Public/Shared/Ruleset/RulesetModifiers.lsx:44
-#, fuzzy
-#| msgid "Tactician"
 msgctxt "hc46a669cgdbedg4bb4g8bfbg7940e7dd74d1"
 msgid "Honour"
-msgstr "전술가"
+msgstr "명예"
 
 #. FilePath = Public/Shared/Ruleset/RulesetModifiers.lsx
 #. NodeID = RulesetModifier

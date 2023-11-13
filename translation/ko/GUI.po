@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-12 09:37+0000\n"
-"Last-Translator: akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2023-11-13 15:37+0000\n"
+"Last-Translator: Kei <marfree1425@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -457,7 +457,7 @@ msgstr "아니오"
 #: Public/Game/GUI/Library/CCLib_c.xaml:5666
 msgctxt "h0dab6b33gf8f3g4d26g8426g23d2d6da3b3a"
 msgid "View Selection Grid"
-msgstr ""
+msgstr "선택한 그리드 보기"
 
 #: Public/Game/GUI/Library/CCLib_k.xaml:120
 #: Public/Game/GUI/Library/CCLib_c.xaml:110
@@ -2439,7 +2439,7 @@ msgstr "([1]) 전부 추출"
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6823
 msgctxt "h99bd79aeg8906g4400g9bdbg2ea075945d2e"
 msgid "Show"
-msgstr "표시"
+msgstr "보임"
 
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:6858
 msgctxt "hddb17d4eg181fg4e65g9f0cg8e430dc903ca"
@@ -2475,7 +2475,7 @@ msgstr "더미 나누기"
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:7771
 msgctxt "had94b224g2d0eg43a9g96a7g27311c05ef99"
 msgid "Toggle Armour Set Visibility"
-msgstr "방어구 표시 토글"
+msgstr "평상시 보이는 방어구"
 
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:7914
 msgctxt "hf235de4fg6999g4be2gaaffgb79ffac98628"
@@ -3474,7 +3474,7 @@ msgstr "가끔씩"
 #: Public/Game/GUI/Library/OptionTemplates_Shared.xaml:330
 msgctxt "h49bdef21g67ceg462agabadgcebe899b2419"
 msgid "Rare"
-msgstr ""
+msgstr "희귀"
 
 #: Public/Game/GUI/Library/OptionTemplates_Shared.xaml:334
 msgctxt "hf55f2b8bgffa6g4589ga3c2g3e960d208aec"
@@ -4409,7 +4409,7 @@ msgstr "쌍수 무기 토글"
 #: Public/Game/GUI/Widgets/MakeCamp_c.xaml:238
 msgctxt "hf8dd4c2fg97e0g4ccdgac1ag3cd1fe5060ef"
 msgid "Tooltips (OFF)"
-msgstr ""
+msgstr "툴팁 끄기"
 
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:3075
 #: Public/Game/GUI/Widgets/ActionRadials.xaml:1700
@@ -4461,7 +4461,7 @@ msgstr "닫기"
 #: Public/Game/GUI/Widgets/MakeCamp_c.xaml:263
 msgctxt "hb33ec471gd611g4ee3gbbffg699af8f79167"
 msgid "Tooltips (ON)"
-msgstr ""
+msgstr "툴팁 켜기"
 
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:3261
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:305
@@ -4880,7 +4880,7 @@ msgstr "이 세이브를 불러오려면 최신 패치로 업데이트해야 합
 #: Public/Game/GUI/Library/SaveLoad.xaml:447
 msgctxt "h40105512g9c1fg4d09ga9cbgbefd1d9b2ee7"
 msgid "Save contains missing mods"
-msgstr ""
+msgstr "저장 파일이 현재 없는 모드를 포함하고 있습니다"
 
 #: Public/Game/GUI/Library/SaveLoad_c.xaml:375
 #: Public/Game/GUI/Library/SaveLoad_c.xaml:404
@@ -5768,7 +5768,7 @@ msgid ""
 "higher."
 msgstr ""
 "만약 당신의 <LSTag Tooltip=\"Dexterity\">민첩</LSTag>이 <LSTag Tooltip=\"Strength\""
-">근력</LSTag> 보다 높다면, 근력이 아닌 민첩에 따라 수치가 증가합니다."
+">근력</LSTag> 보다 높다면, 근력이 아닌 민첩에 따라 공격력이 증가합니다."
 
 #: Public/Game/GUI/Library/Tooltips.xaml:3039
 msgctxt "hed951236g8283g4cafgb782g053ae0e08595"
@@ -6171,6 +6171,13 @@ msgid ""
 "<LSTag Type=\"Status\" Tooltip=\"CHARMED\">Charmed</LSTag>, and <LSTag Type="
 "\"Status\" Tooltip=\"DOMINATE_PERSON\">Dominated</LSTag>."
 msgstr ""
+"특정 상태이상은 캐릭터의 행동을 금지하거나 영향을 미칩니다. 예시: <LSTag Type=\"Status\" Tooltip="
+"\"FRIGHTENED\">공포</LSTag>, <LSTag Type=\"Status\" Tooltip=\"PARALYZED\">마비</"
+"LSTag>, <LSTag Type=\"Status\" Tooltip=\"STUNNED\">기절</LSTag>, <LSTag Type="
+"\"Status\" Tooltip=\"RESTRAINED\">구속</LSTag>, <LSTag Type=\"Status\" Tooltip="
+"\"POLYMORPH_SHEEP\">변형</LSTag>, <LSTag Type=\"Status\" Tooltip=\"CHARMED\""
+">매혹</LSTag>, and <LSTag Type=\"Status\" Tooltip=\"DOMINATE_PERSON\""
+">지배</LSTag>."
 
 #: Public/Game/GUI/Library/Tooltips.xaml:3492
 #: Public/Game/GUI/Library/Tooltips.xaml:6640
@@ -6770,7 +6777,7 @@ msgstr "근육과 물리적 힘. 근접 무기를 다루는 능력에 영향을 
 #: Public/Game/GUI/Library/Tooltips.xaml:5594
 msgctxt "ha9eabfe7ga85ag413cgb41dgb3dc10ac60f9"
 msgid "to Saving Throws"
-msgstr "내성 굴림에 합산"
+msgstr "만큼 내성 굴림에 합산"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5633
 msgctxt "h6d38bfa3gc691g4615ga348g558bba90d805"
@@ -6780,7 +6787,7 @@ msgstr "능력치 점수 출처:"
 #: Public/Game/GUI/Library/Tooltips.xaml:5649
 msgctxt "h0d7c6ca5g3899g4a98ga481g6ebcb5e33ace"
 msgid " to Strength <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>"
-msgstr " 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산"
+msgstr " 만큼 근력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5655
 msgctxt "hbf128ebdgdfffg4ea9gbf4bg1659ccefd287"
@@ -6795,7 +6802,7 @@ msgstr ""
 #: Public/Game/GUI/Library/Tooltips.xaml:5660
 msgctxt "h40b510fcg6ca8g41a5ga64ag1ba1e466ca59"
 msgid " to Dexterity <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> "
-msgstr " 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산 "
+msgstr " 만큼 민첩 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산 "
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5666
 msgctxt "h411a732ag4b4cg4094g9a5egd325fecf4645"
@@ -6805,7 +6812,7 @@ msgstr "기억력과 정신력. 위저드의 주문 시전 능력을 향상합�
 #: Public/Game/GUI/Library/Tooltips.xaml:5671
 msgctxt "h747b2490g6db3g4eb4gafb6geb7727fa7380"
 msgid " to Intelligence <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>"
-msgstr " 지능 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산"
+msgstr " 만큼 지능 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5677
 msgctxt "h7a02f64dg4593g408fgbf93gb0dbabc182c9"
@@ -6817,7 +6824,7 @@ msgstr "지구력과 강인함. 최대 <LSTag Tooltip=\"HitPoints\">체력</LSTa
 #: Public/Game/GUI/Library/Tooltips.xaml:5682
 msgctxt "hc5fd4b41g56f4g4697gbd8bg26157dbd98bc"
 msgid " to Constitution <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag> "
-msgstr " 건강 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산 "
+msgstr " 만큼 건강 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산 "
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5688
 msgctxt "h35233e68gf68ag461cgac5fgc15806be3dc7"
@@ -6828,7 +6835,7 @@ msgstr "감각과 직관. 클레릭, 드루이드, 레인저의 주문 시전을
 #: Public/Game/GUI/Library/Tooltips.xaml:5693
 msgctxt "h075239cfg1a10g4488g9f69gd17325f79bc6"
 msgid " to Wisdom <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>"
-msgstr " 지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산"
+msgstr " 만큼 지혜 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5699
 msgctxt "h441085efge3a5g4004gba8dgf2378e8986c8"
@@ -6840,7 +6847,7 @@ msgstr "개성의 힘. 바드, 팔라딘, 소서러, 워락의 주문 시전을 
 #: Public/Game/GUI/Library/Tooltips.xaml:5704
 msgctxt "h4f9a292fg3aa1g4fb0gb503g472a8ceac6f0"
 msgid " to Charisma <LSTag Tooltip=\"AbilityCheck\">Checks</LSTag>"
-msgstr " 매력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산"
+msgstr " 만큼 매력 <LSTag Tooltip=\"AbilityCheck\">판정</LSTag>에 합산"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5718
 msgctxt "h40b6867ag0d94g4132ga679g791cb1c8968a"
@@ -7224,7 +7231,7 @@ msgstr "<hl>면역:</hl> 데미지를 받지 않습니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:9663
 msgctxt "hea17a85cg4aaag4679g9cbdge242e8f3bb9a"
 msgid "from <hl>[1]</hl>"
-msgstr "<hl>[1]</hl>(으)로부터"
+msgstr "<hl>[1]</hl>에서 얻음"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:8312
 msgctxt "h8a6537cdg4967g472bg9bbfg64a000c6359b"
@@ -7931,7 +7938,7 @@ msgstr "뒤로"
 #: Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1571
 msgctxt "hf4097c9dg6d44g45a2ga3c0g0a43f32f154e"
 msgid "Change Extract"
-msgstr ""
+msgstr "추출물 변경"
 
 #: Public/Game/GUI/Widgets/AlchemyPanel_c.xaml:1741
 msgctxt "h754d9e2bg0222g4724gb593g6808bc98fd25"
@@ -8339,7 +8346,7 @@ msgstr "잠김"
 #: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:796
 msgctxt "h764fcd6cgd702g41bcg93a6g64855afd2c92"
 msgid "Hesitating"
-msgstr ""
+msgstr "망설임"
 
 #: Public/Game/GUI/Widgets/CharacterPanel.xaml:256
 #: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:531
@@ -10243,7 +10250,7 @@ msgstr "웨이포인트"
 #: Public/Game/GUI/Widgets/JournalMap_c.xaml:37
 msgctxt "h9de3577bg4511g4486g8954ga3d4c7d750bf"
 msgid "Show keyboard"
-msgstr ""
+msgstr "키보드 보기"
 
 #: Public/Game/GUI/Widgets/JournalMap_c.xaml:172
 msgctxt "hc4b2fdbega3a5g49f5ga02agab6214927bbe"

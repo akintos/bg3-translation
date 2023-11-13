@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-12 09:37+0000\n"
-"Last-Translator: chups <bridgestone747@gmail.com>\n"
+"PO-Revision-Date: 2023-11-13 15:37+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3192,7 +3192,7 @@ msgctxt "hc96a133bg567dg458cg95f6g003b15dced76"
 msgid ""
 "The bridge connecting the Underdark to the Sharran temple is gone. To reach "
 "the Nightsong, we'll have to go overland."
-msgstr ""
+msgstr "언더다크와 샤의 신전을 연결하는 다리가 사라졌다. 나이트송에 도달하려면 육로로 이동해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -3202,7 +3202,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11702
 msgctxt "h7c292df8gca02g4d60g8b2bgce0ad143ea59"
 msgid "Find another route to the Sharran Temple."
-msgstr ""
+msgstr "샤의 신전으로 통하는 또 다른 길을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -10095,6 +10095,8 @@ msgid ""
 "she will ascend Lae'zel to the Astral Plane and honour her as her Chosen. "
 "Lae'zel agreed. We should speak to her to decide how to proceed."
 msgstr ""
+"블라키스가 야영지에 나타나 레이젤에게 제안을 했다. 오르페우스를 죽이면, 블라키스는 레이젤을 아스트랄 차원으로 승천시키고 그녀를 자신의 "
+"선택받은 자로 추대할 것이라고. 레이젤은 수락했다. 레이젤과 이야기해서 어떻게 할지 결정해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -10110,6 +10112,9 @@ msgid ""
 "forward for the githyanki; we should speak to her first to decide how to "
 "proceed."
 msgstr ""
+"야영지에 나타난 블라키스는 레이젤에게 제안을 했다. 오르페우스를 죽이면, 블라키스가 레이젤을 아스트랄 차원으로 승천시키고, 그녀의 "
+"선택받은 자로서 추대할 것이라고. 레이젤은 거부했고, 그로인해 블라키스의 분노를 샀다. 레이젤은 기스양키가 나아갈 길은 오르페우스라고 "
+"믿었다. 레이젤과 먼저 이야기해서 어떻게 할지 결정해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -11456,7 +11461,7 @@ msgstr "벤린이 부부의 결혼 지참금 이야기를 했다. 찾아보는 �
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:13980
 msgctxt "hca6f5d7dgacb2g45bfg8165gb6fccc7474a7"
 msgid "Benryn is beyond our help."
-msgstr ""
+msgstr "벤린은 우리의 도움을 받을 수 없다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -11467,7 +11472,7 @@ msgstr ""
 msgctxt "hb75f0806g98f3g48a9ga613ge489fe4f5359"
 msgid ""
 "We left before we could tie up loose ends with Benryn. We must press on."
-msgstr ""
+msgstr "벤린과의 미결된 부분을 마무리하기도 전에 우리는 떠났다. 계속 나아가야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -11790,6 +11795,8 @@ msgid ""
 "Chosen of the Dead Three and involving an elder brain. We must overcome this "
 "greater evil if we wish to heal ourselves once and for all."
 msgstr ""
+"우리가 생각했던 것보다 훨씬 더 큰 음모가 진행되고 있다. 삼악신의 선택받은 자가 주도하고, 엘더 브레인이 관여하고 있다. 우리 스스로 "
+"진정한 치유를 하기 위해서는, 이 더 큰 악을 극복해야만 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -11801,7 +11808,7 @@ msgctxt "h1a922ed0gd245g452fg8a58g562c5d1f61e1"
 msgid ""
 "Our chance of finding a cure seems to be diminishing as we continue our "
 "journey - but we must press on."
-msgstr ""
+msgstr "여정을 계속할수록 치유법을 찾을 가능성은 점점 줄어들고 있는 것 같지만, 우리는 계속 나아가야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -12227,6 +12234,8 @@ msgid ""
 " they may know where we can find a Githyanki Crèche to cure our illithid "
 "infection."
 msgstr ""
+"산길 근처에서 기스양키 순찰대를 발견했다. 일리시드 감염을 치유할 수 있는 기스양키 양성소가 어디에 있는지 알고 있을지도 모르니, 그들과 "
+"이야기를 나눠보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12238,7 +12247,7 @@ msgctxt "h3c52b797g9299g4550gab58g6a7d10af707a"
 msgid ""
 "We found the githyanki patrol, but they proved uncooperative. We still don't "
 "know where the crèche is - we should search them for clues."
-msgstr ""
+msgstr "기스양키 순찰대를 찾았지만, 협조적이지 않았다. 아직 양성소가 어디에 있는지는 모른다. 단서를 찾기 위해 수색해보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12250,7 +12259,7 @@ msgctxt "hc814556bgc82bg46d2gbc07g730f5b9d649a"
 msgid ""
 "We defeated Sarth Baretha and her squadron - we should search her body for "
 "more information about the nearby crèche. "
-msgstr ""
+msgstr "사쓰 바레사와 그녀의 분대를 물리쳤다. 근처의 양성소에 대한 정보를 얻기 위해서는 그녀의 시체를 수색해야 한다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12262,7 +12271,7 @@ msgctxt "h47f26feeg325fg42eega161g2e6e2424d357"
 msgid ""
 "The Githyanki Crèche is nestled somewhere within Rosymorn Monastery. We "
 "should take a look."
-msgstr ""
+msgstr "기스양키 양성소는 장밋빛 아침 수도원 어딘가에 숨겨져 있다. 한번 찾아보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -12272,7 +12281,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11241
 msgctxt "hf428821dg1ff4g453egab5age7eb07e8d2f3"
 msgid "Find the Githyanki Crèche's entrance."
-msgstr ""
+msgstr "기스양키 양성소의 입구를 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12292,7 +12301,7 @@ msgstr "양성소 의무실을 찾았다. 누가 운영하던 그 사람과 얘�
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11258
 msgctxt "h05ab775eg6ad5g4cbbg8fe0gd1048f3ee2d4"
 msgid "Speak to Ghustil Stornugoss."
-msgstr ""
+msgstr "거스틸 스토르누고스와 얘기하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12304,7 +12313,7 @@ msgctxt "h49608a70g487dg41d0ga4b7g3b8ca0e3d1e7"
 msgid ""
 "The ghustil, this crèche's medical expert, may have a way to cure our "
 "illithid infection."
-msgstr ""
+msgstr "이 양성소의 의료 전문가인 거스틸이 일리시드 감염을 치유할 방법을 가지고 있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12317,6 +12326,7 @@ msgid ""
 "Though Vlaakith and the Inquisitor tried to kill us, we should still speak "
 "to the ghustil. We may still be able to cleanse our illithid parasite."
 msgstr ""
+"블라키스와 심문관이 우리를 죽이려 했지만, 그래도 거스틸에게 말을 걸어야 한다. 여전히 우리의 일리시드 기생충을 정화할 수도 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12338,7 +12348,7 @@ msgctxt "hd638ca44gd952g4f1cga0b2g31b26c6642a1"
 msgid ""
 "Zorru left the grove. We'll have to find another lead to the Githyanki "
 "Crèche."
-msgstr ""
+msgstr "조르는 숲을 떠났다. 기스양키 양성소로 가는 다른 실마리를 찾아야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12350,7 +12360,7 @@ msgctxt "he4632e26g1c72g41aeg8e02gc2d6fdc23d33"
 msgid ""
 "We spoke to a tiefling called Zorru. He wouldn't tell us anything about the "
 "githyanki he'd seen. We'll have to find the crèche."
-msgstr ""
+msgstr "조르라는 티플링과 대화를 나눴다. 그는 자신이 본 기스양키에 대해 아무것도 말해주지 않으려 했다. 양성소를 찾아야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12363,6 +12373,7 @@ msgid ""
 "We spoke to a tiefling called Zorru. He wouldn't tell us anything about the "
 "githyanki he'd seen. We'll have to find them ourselves."
 msgstr ""
+"조르라는 티플링과 대화를 나눴다. 그는 자신이 본 기스양키에 대해 아무것도 말해주지 않으려 했다. 우리 스스로 그들을 찾아봐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -12376,6 +12387,8 @@ msgid ""
 "her people will be able to cure our illithid infection.  She could be right -"
 " we need to find a way in."
 msgstr ""
+"레이젤이라는 기스양키가 우리와 합류했다. 그녀는 근처에 있는 그녀 동족의 양성소에서 일리시드 감염을 치료할 수 있을 거라고 한다. 그녀 "
+"말이 맞을지도 모른다. 우리는 들어갈 방법을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -12819,7 +12832,7 @@ msgstr "고블린들이 생존자들을 그들 야영지 깊숙한 곳에 가둬
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11753
 msgctxt "h28378341g71dcg4e14gb6bag5aee9abe4962"
 msgid "Search for Halsin in the Goblin Camp prison."
-msgstr ""
+msgstr "고블린 야영지 감옥에서 할신을 찾자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -12830,7 +12843,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/7b746d71-da02-4974-8575-8033f657fd63.lsx:8
 msgctxt "h7652317bg7ebeg42dcg8cdbg7913d31ec7e8"
 msgid "Goblin Camp Prison"
-msgstr ""
+msgstr "고블린 야영지 감옥"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -13071,7 +13084,7 @@ msgstr "우리는 고블린 무리가 어떤 동물에게 학살당한 현장을
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11742
 msgctxt "hdf5bef94g5bb0g4e50g9a3dg2c517814f470"
 msgid "Search for Halsin in the Emerald Grove."
-msgstr ""
+msgstr "에메랄드 숲에서 할신을 찾자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -13082,7 +13095,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/eae6dcfa-0411-407a-be2b-e9b287bc47db.lsx:8
 msgctxt "h81b3d919g1924g4133g9331g01162447d63b"
 msgid "Emerald Grove"
-msgstr ""
+msgstr "에메랄드 숲"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -13317,7 +13330,7 @@ msgstr "할신이 우리를 치료해줄 수는 없지만 문라이즈 타워로
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:16299
 msgctxt "h1890eb05g7612g4752gb81cg6d6c9fb434a2"
 msgid "We left the area without seeing if the druid Halsin could help us."
-msgstr ""
+msgstr "우리는 드루이드 할신이 우리를 도울 수 있는지 확인하지도 않고 그곳을 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -13329,7 +13342,7 @@ msgctxt "h0a80c990g482eg465ag943bgc302aedd47d5"
 msgid ""
 "Halsin has returned to the grove - he may have good advice for our next "
 "steps."
-msgstr ""
+msgstr "할신이 숲으로 돌아왔다. 그가 다음 단계에 대한 좋은 조언을 해줄지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -13341,7 +13354,7 @@ msgstr ""
 msgctxt "h057914d6g47a6g4508ga6f9g4144a2e1e56c"
 msgid ""
 "Halsin thanked us and assured us that Rath would reward us for rescuing him."
-msgstr ""
+msgstr "할신은 우리에게 고마움을 표하며 라스가 자신을 구해준 것에 대한 보상을 해줄 거라고 분명히 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -13509,7 +13522,7 @@ msgstr "에텔이 도움의 가격을 제시했다. 눈 한쪽을 달라고 한�
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:16583
 msgctxt "h73286d63g0faeg4d6ag8bfag8a012b019c93"
 msgid "We left the area before finding out whether the old lady could help us."
-msgstr ""
+msgstr "우리는 그 노파가 우리를 도와줄 수 있는지 알아보기도 전에 그곳을 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -13743,7 +13756,7 @@ msgstr "해독제를 만들기 위해서는 실바누스의 축복을 받은 만
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:16867
 msgctxt "h4bd6df53gff9eg432dg8933gb78a11383497"
 msgid "We left the area without seeing if the druid apprentice could heal us."
-msgstr ""
+msgstr "드루이드 수습생이 우리를 치유할 수 있는지 확인하지도 않고 그곳을 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -13890,7 +13903,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:17046
 msgctxt "h125b5523g354dg4f3fgac05gced798fae625"
 msgid "We left the area without seeing if the goblin priestess could heal us."
-msgstr ""
+msgstr "고블린 여사제가 우리를 치유할 수 있는지 확인하지도 않고 그곳을 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -15976,7 +15989,7 @@ msgctxt "h395d19bdg154fg4c13gb578g4d0c49afa09a"
 msgid ""
 "We decided to turn on the tieflings and attack the grove. The idol is the "
 "least of Mol's worries now."
-msgstr ""
+msgstr "우리는 티플링을 향해 숲을 공격하기로 결정했다. 이제 몰의 걱정거리 중 최소한 그 우상 따위는 중요한 게 아니게 됐다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -15989,7 +16002,7 @@ msgctxt "ha15788c8g34b5g4b44gb568g1a247c1f8bef"
 msgid ""
 "With goblins threatening the grove, Mol has bigger things to worry about "
 "than the idol. We need to deal with the raiders first."
-msgstr ""
+msgstr "고블린이 숲을 위협하고 있는 중이며, 몰은 우상보다 더 신경 써야 할 일이 생겼다. 우리는 습격자들과 우선 협상해봐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -16010,7 +16023,7 @@ msgstr "고블린 공격으로부터 에메랄드 숲을 지키자."
 msgctxt "hebbc87e6g1941g4da5g82edg1ae6d1ace695"
 msgid ""
 "Now that the goblin threat has been dealt with, we can give Mol the idol."
-msgstr ""
+msgstr "이제 고블린의 위협이 처리됐으니, 몰에게 우상을 줄 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -16264,7 +16277,7 @@ msgstr "아라벨라의 부모님은 딸의 운명을 영영 알지 못할 것�
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:19953
 msgctxt "h9b3dc8faga684g4d17gb126g84764d0a2511"
 msgid "It's too late to help Arabella."
-msgstr ""
+msgstr "아라벨라를 돕기엔 너무 늦었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -16532,7 +16545,7 @@ msgctxt "he0403ec9g8b79g4c89gb5c1gf8e48b1dd251"
 msgid ""
 "We created an alchemical extract using the mushrooms. Hopefully Omeluum can "
 "use this."
-msgstr ""
+msgstr "우리는 버섯을 사용하여 연금술 추출물을 만들었다. 오멜룸이 이것을 사용할 수 있으면 좋겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -16544,7 +16557,7 @@ msgctxt "h70a4a628g00e3g4408g9becg8448162b32bc"
 msgid ""
 "We created a potion using the mushrooms Omeluum asked us for. We should "
 "bring it to him."
-msgstr ""
+msgstr "버섯을 사용하여 오멜룸이 요청한 물약을 만들었다. 그에게 가져다 주자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -16833,6 +16846,8 @@ msgid ""
 "be a dangerous devil. We resolved the situation peacefully and recruited "
 "Wyll to our party. We should get to know him better."
 msgstr ""
+"윌이라는 괴물 사냥꾼이 우리 야영지에서 칼라크를 대면했고, 칼라크를 위험한 데빌로 믿고 있었다. 우리는 평화롭게 상황을 해결하고 윌을 "
+"우리 일행에 합류시켰다. 그를 좀 더 알아가야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -16857,6 +16872,8 @@ msgid ""
 "be a dangerous devil. We slayed Karlach and recruited Wyll to our party. We "
 "should get to know him better."
 msgstr ""
+"윌이라는 괴물 사냥꾼이 우리 야영지에서 칼라크를 대면했고, 칼라크를 위험한 데빌로 믿고 있었다. 우리는 칼라크를 베었고 윌을 우리 일행에 "
+"합류시켰다. 그를 좀 더 알아가야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -16870,6 +16887,8 @@ msgid ""
 "We located Karlach, who was not the treacherous devil Wyll believed her to "
 "be. We resolved the situation peacefully, but Wyll owes us an explanation."
 msgstr ""
+"우리는 칼라크를 찾았고, 윌이 그녀를 위험한 데빌이라고 믿었던 것과는 다르게 실제론 아니었다. 우리는 이 상황을 평화롭게 해결했지만, "
+"윌에게는 설명이 필요하다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -16921,6 +16940,8 @@ msgid ""
 "Wyll celebrated an uneasy victory after Karlach's defeat. We should continue "
 "our travels - though a good night's rest in camp might prove illuminating."
 msgstr ""
+"윌은 칼라크를 물리치고 쉽지 않은 승리를 자축했다. 우리는 여정을 계속해야 한다. 그래도 야영지에서의 한 밤의 기분 좋은 휴식은 좋은 "
+"생각일 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -16962,6 +16983,8 @@ msgid ""
 "slain Karlach. She rewarded him for his obedience and departed - though it "
 "seems likely we'll meet her again."
 msgstr ""
+"윌의 사악한 후원자인 미조라를 만났다. 그녀는 자신이 시킨대로 칼라크를 죽였다는 사실에 기뻐하며 보상을 내렸다. 그녀는 떠났지만, 다시 "
+"만나게 될 것 같다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -17578,7 +17601,7 @@ msgctxt "h8edb17c7g3fbbg4e8ega1f9g747238e675be"
 msgid ""
 "We defeated the resurrected remains of the great wyrm Ansur. We should talk "
 "to Wyll."
-msgstr ""
+msgstr "위대한 고룡 안수르의 부활한 유해를 물리쳤다. 윌과 이야기해야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -17601,7 +17624,7 @@ msgctxt "h3a8ccd16g664bg4c44g855bg5c966ad7518b"
 msgid ""
 "We defeated the resurrected remains of the great wyrm Ansur. We should "
 "return to camp and inform Duke Ravengard."
-msgstr ""
+msgstr "위대한 고룡 안수르의 부활한 유해를 물리쳤다. 야영지로 돌아가 레이븐가드 공작에게 이 사실을 알려야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -17750,7 +17773,7 @@ msgctxt "hd91e7df0ge4dfg4d52g9679gc772a0650c7a"
 msgid ""
 "We abandoned Wyll's remaining considerations and pressed on towards an "
 "uncertain fate."
-msgstr ""
+msgstr "우리는 윌에게 남아 있던 고려 사항들을 포기하고 불확실한 운명을 향해 나아갔다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -18005,6 +18028,8 @@ msgid ""
 "We met Counsellor Florrick at Last Light Inn. She urged us to search for "
 "Grand Duke Ravengard. She believes he is being held in Moonrise Towers."
 msgstr ""
+"최후의 빛 여관에서 자문관 플로릭을 만났다. 그녀는 우리에게 레이븐가드 대공을 찾아달라고 요구했다. 그녀는 그가 문라이즈 타워에 "
+"갇혀있다고 믿는다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18054,6 +18079,7 @@ msgid ""
 "We finally found Grand Duke Ravengard - standing by Gortash's side as he "
 "crowned Gortash the new Archduke. He disappeared after the ceremony."
 msgstr ""
+"우리는 마침내 레이븐가드 대공을 찾았다. 그는 고타쉬 곁에 서서 고타쉬를 새로운 공왕으로 즉위시켰다. 그는 대관식이 끝나자마자 사라졌다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -18146,7 +18172,7 @@ msgstr "레이븐가드 대공을 찾자."
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:21908
 msgctxt "h010795c2g84dag41b0g9c19gb311e1d4233d"
 msgid "We found Grand Duke Ravengard. We need to lead him to safety."
-msgstr ""
+msgstr "우리는 레이븐가드 대공을 찾았다. 그를 안전한 곳으로 데려가야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -18156,7 +18182,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10854
 msgctxt "h9efca24fg1158g4842g808eg379e9329d9fb"
 msgid "Lead Grand Duke Ravengard to safety."
-msgstr ""
+msgstr "레이븐가드 대공을 안전한 곳으로 데려가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -18178,7 +18204,7 @@ msgstr "레이븐가드 대공은 마침내 안전해졌다. 야영지에서 그
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10860
 msgctxt "hfec1aab4g998ag46d5g848bgceaddd8eb6f4"
 msgid "Speak to Grand Duke Ravengard."
-msgstr ""
+msgstr "레이븐가드 대공에게 얘기하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -20299,7 +20325,7 @@ msgstr "고블린들이 생존자들을 그들 야영지 깊숙한 곳에 가둬
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11731
 msgctxt "h4bf13642g5798g4f8fgb1c9g013015ac75d5"
 msgid "Search for Halsin in the Goblin Camp prison."
-msgstr ""
+msgstr "고블린 야영지 감옥에서 할신을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -20528,7 +20554,7 @@ msgstr "우리는 고블린 무리가 어떤 동물에게 학살당한 현장을
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11720
 msgctxt "h1618ed2bgd118g430fg8afbge4d801bbdeaf"
 msgid "Search for Halsin in the Emerald Grove."
-msgstr ""
+msgstr "에메랄드 숲에서 할신을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43036,7 +43062,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:55189
 msgctxt "h4b22f864ged5eg4e67g9afbg372b12cec614"
 msgid "We read Caution Before the Seelie."
-msgstr ""
+msgstr "우리는 책 '실리 왕궁에서 지켜야 할 주의 사항을 읽었다'."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -47330,7 +47356,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/c77f183b-90f0-4260-a0ed-a1b967f6150a.lsx:8
 msgctxt "hea62bc39gcb39g47e1gb5fdg0e7db741b039"
 msgid "Knights of the Shield Hideout"
-msgstr ""
+msgstr "나이츠 오브 더 실드 은신처"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -56536,7 +56562,7 @@ msgctxt "h897f8c66g6666g4cc2g83f9g1864d2fcd8e6"
 msgid ""
 "We discovered that Grand Duke Ravengard is not only an important figurehead "
 "in the city of Baldur's Gate - he is also Wyll's father."
-msgstr "우린 레이븐가드 대공이 발더스 게이트에서 중요한 인물일 뿐 아니라 - 윌의 아버지라는 것을 알아냈다."
+msgstr "우린 레이븐가드 대공이 발더스 게이트에서 중요한 인물일 뿐 아니라, 윌의 아버지라는 것을 알아냈다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -56626,7 +56652,7 @@ msgctxt "he2e24c93ga627g4f36g8f5bgea9e1ab1d813"
 msgid ""
 "Grand Duke Ravengard was infected with an illithid tadpole. He is being "
 "transported to Baldur's Gate along with an enormous elder brain."
-msgstr ""
+msgstr "레이븐가드 대공이 일리시드 올챙이에 감염되었다. 그는 거대한 엘더 브레인과 함께 발더스 게이트로 이동중이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -56650,7 +56676,7 @@ msgid ""
 "Grand Duke Ravengard is gone from Gortash's audience chamber. His "
 "whereabouts are currently unknown. We should search the city for signs of "
 "the duke."
-msgstr ""
+msgstr "고타쉬의 알현실에서 레이븐가드 대공이 사라졌다. 그의 행방은 알 수 없다. 도시를 수색해서 대공의 흔적을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -56660,7 +56686,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11410
 msgctxt "hfc29b332g6142g48d5g83ceg6bfd8e08eae1"
 msgid "Search for Grand Duke Ravengard in the city."
-msgstr ""
+msgstr "도시에서 레이븐가드 대공을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -56686,7 +56712,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10130
 msgctxt "h2311cc65gbc1fg48f5ga6fbge1794e9a96e4"
 msgid "Search for Grand Duke Ravengard in the city."
-msgstr ""
+msgstr "도시에서 레이븐가드 대공을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -56937,7 +56963,7 @@ msgctxt "heb4f4857g8f6fg4ea1g9689ga6126f3c2f66"
 msgid ""
 "We continued on our journey, leaving our remaining concerns regarding Duke "
 "Ravengard behind us."
-msgstr ""
+msgstr "우리는 여행을 계속했다. 레이븐가드 공작에 대한 걱정은 뒤로 미룬 채."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57040,7 +57066,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/d9dd0b18-0e46-4953-8783-a19bc25a8577.lsx:8
 msgctxt "h206ea71dg57dbg42f8g9059gb1fd72de3085"
 msgid "Suspicious house"
-msgstr ""
+msgstr "수상한 집"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57075,7 +57101,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10222
 msgctxt "h1a54cf8cg0a4fg4474g8338g750215a87764"
 msgid "Investigate Last Light Inn."
-msgstr ""
+msgstr "최후의 빛 여관을 조사하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57089,6 +57115,8 @@ msgid ""
 "innkeeper's owner, a mason called Morfred, was the leader of a resistance "
 "movement against the Sharrans."
 msgstr ""
+"최후의 빛 여관에서 셀루네 신도들의 유물이 숨겨진 곳을 발견했다. 여관의 주인인 모프레드라는 석공이 샤 신도들에게 대항하는 저항운동의 "
+"지도자였던 것 같다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57100,7 +57128,7 @@ msgctxt "h3b49be6ag5928g4cf1g92cag038dccc20b5c"
 msgid ""
 "The Masons' Guild seems to have been the centre of the Selûnite resistance "
 "in the area. We should seek it out and investigate further."
-msgstr ""
+msgstr "석공 조합이 이 지역의 셀루네 저항군의 중심이었던 것 같다. 그곳을 찾아서 더 조사해보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57135,6 +57163,7 @@ msgid ""
 "the Selûnite resistance. He was determined to fight on against the Sharrans "
 "however he could, even if it cost him his life."
 msgstr ""
+"석공 조합에 도착해 셀루네 저항군의 지도자 모프레드의 글을 발견했다. 그는 목숨을 바쳐서라도 샤 신도들에 맞서 싸우겠다고 결심했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57146,7 +57175,7 @@ msgctxt "h806454fcgdce2g4646g9dafg970790faec96"
 msgid ""
 "We continued on our journey without completing our investigation into signs "
 "of Selûnite resistance."
-msgstr ""
+msgstr "셀루네 저항군의 흔적에 대한 조사를 마무리하지 못한 채 여정을 계속했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -57156,7 +57185,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:72731
 msgctxt "h7f224f93gb270g4324gb568gcefafd23ee2b"
 msgid "The Blade of Frontiers"
-msgstr ""
+msgstr "변경의 칼날"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57173,6 +57202,9 @@ msgid ""
 "fiend; if she were to be loosed upon the Sword Coast, there's no telling "
 "what havoc she would wreak."
 msgstr ""
+"나는 노틸로이드, 즉 마인드 플레이어 함선에서 깨어났다. 마지막으로 기억나는 것은 내 목표물, 칼라크라 불리는 위험한 데빌을 쫓던 것, "
+"아베르누스의 불타는 지옥의 풍경을 가로질렀던 것. 이 배에서 탈출해서 그 지옥의 마족을 박살내야만 한다. 만일 칼라크를 소드 코스트에 "
+"풀어 놓으면, 그녀가 어떤 혼란을 일으킬지는 아무도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57182,7 +57214,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10517
 msgctxt "h3541c348gc24fg4ac0ga6e0ge9415995f81d"
 msgid "Hunt and destroy Karlach."
-msgstr ""
+msgstr "칼라크를 찾아 없애자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57197,6 +57229,8 @@ msgid ""
 "mission: hunt and kill the devil called Karlach. If I fail, the consequences "
 "could be dire."
 msgstr ""
+"나의 후원자 미조라가 나의 야영지에 방문했다. 그녀는 내 임무를 상기시켜주었다. 칼라크라는 데빌을 사냥해서 죽여야 한다는 것. 실패하면, "
+"끔찍한 결과가 따를지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57209,7 +57243,7 @@ msgctxt "hfeb08c33gea7ag4443g848ega1ee2d71ca0d"
 msgid ""
 "I met a group of paladins who know Karlach and want her dead. They provided "
 "me with her exact whereabouts."
-msgstr ""
+msgstr "칼라크를 알고 죽이고 싶어하는 팔라딘 무리를 만났다. 그들은 칼라크의 정확한 위치를 알려주었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57222,7 +57256,7 @@ msgctxt "hdba21976g4f4bg4c70g925egdaa01612df65"
 msgid ""
 "Karlach joined the party. I should take a long rest and confront her in camp "
 "- this uneasy peace can't last forever."
-msgstr ""
+msgstr "칼라크가 파티에 합류했다. 야영지에서 긴 휴식을 취하고 그녀와 대면해야겠다. 이런 불안한 평화는 영원히 지속될 수 없으니까."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57249,6 +57283,9 @@ msgid ""
 "to wait long to find out - Mizora is sure to appear in my camp and give me a "
 "piece of her mind."
 msgstr ""
+"칼라크를 찾았지만, 미조라가 말한 위험한 데빌이 아니라 아크데빌 자리엘의 계략의 희생자였다. 나는 내 임무에도 불구하고 그녀를 "
+"살려주었다. 내가 어떤 처벌을 받게 될지는 모르겠지만, 그리 오래 기다리지 않아도 알 수 있게 됐다. 미조라는 나의 야영지에 어김없이 "
+"나타났고 나에게 따끔하게 한 소리 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57258,7 +57295,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10534
 msgctxt "h85d14699g0b72g4804g9682g333bca803249"
 msgid "Rest at camp. Your patron will want to have words."
-msgstr ""
+msgstr "야영지에서 휴식을 취하자. 당신의 후원자가 말을 걸고 싶어할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57273,6 +57310,8 @@ msgid ""
 "pleased; I should rest in camp and await her next instructions. I am due a "
 "reward for my efforts."
 msgstr ""
+"칼라크는 끝장났고, 소드 코스트는 안전해졌다. 미조라가 기뻐할 것이다. 야영지에서 쉬면서 그녀의 다음 지시를 기다려야겠다. 내가 한 일에 "
+"대한 보상을 받아야겠어."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57287,6 +57326,8 @@ msgid ""
 "terms of our pact. I am fortunate she did not cast me into the Hells, but "
 "I'm still alive - for now.  I can only imagine what she'll demand of me next."
 msgstr ""
+"미조라가 계약을 어긴것에 대한 벌로 나를 데빌의 모습으로 변신시켰다. 다행히도 지옥에 떨어뜨리진 않았지만, 아직은 살아있다. 미조라가 "
+"다음에 분명히 무언가를 요구할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57311,6 +57352,8 @@ msgid ""
 "handsomely for my efforts. She'll be back, of course; when a devil owns your "
 "soul, there is no getting rid of her.  "
 msgstr ""
+"미조라는 칼라크를 처리한 것에 대해 기뻐하며 큰 보상을 해주었다. 데빌이 당신의 영혼을 소유한 상태이므로, 그녀를 없애지 않는 한 당연히 "
+"그녀는 돌아올 것이다.  "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57787,6 +57830,8 @@ msgid ""
 "resurrected remains - but what's to become of Baldur's Gate without Ansur's "
 "might to protect it? I must rest in camp and consider my options."
 msgstr ""
+"위대한 고룡 안수르는 내가 도착하기도 전에 이미 죽은 지 오래였다. 나는 그의 부활한 유해를 물리쳤다. 도시를 지켜줄 안수르의 힘이 "
+"없다면 발더스 게이트는 어떻게 될까? 야영지에서 쉬면서 남은 선택지를 생각해 봐야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57796,7 +57841,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10679
 msgctxt "h5d9ea8edgb787g46dag8d8dgcf4beaa6a708"
 msgid "Rest at camp and consider your next steps."
-msgstr ""
+msgstr "야영지에서 휴식을 취하고 다음 행동을 계획하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57811,6 +57856,8 @@ msgid ""
 "resurrected remains - but what's to become of Baldur's Gate without Ansur's "
 "might to protect it? I must return to father and tell him what's transpired."
 msgstr ""
+"발더스 게이트를 지키는 위대한 고룡 안수르는 내가 도착하기 오래전에 이미 죽었다. 부활한 그의 유해를 물리쳤지만, 안수르의 힘이 없다면 "
+"발더스 게이트는 어떻게 될까? 아버지께 돌아가서 무슨일이 일어났는지 얘기해봐야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -57837,6 +57884,9 @@ msgid ""
 "help lead Baldur's Gate to the prosperous future it deserves. The Blade of "
 "Frontiers is dead. Long live Grand Duke Wyll Ravengard!"
 msgstr ""
+"아버지의 축복을 받아, 나는 발더스 게이트의 대공이 되기로 결심했다. 절대자를 물리친 후 사람들은 나를, 얼더 레이븐가드의 유일한 "
+"아들로서, 용기와 정의의 후예로서, 발더스 게이트를 그에 걸맞은 미래로 이끌어갈 수 있는 인물로서, 환영할 것이다. 변경의 칼날은 "
+"죽었다. 윌 대공 만만세!"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -57987,7 +58037,7 @@ msgctxt "hbb2fab87g071bg4690g913dg4767249817c2"
 msgid ""
 "The woman trapped in the fires at Waukeen's Rest has died. I have yet to "
 "find my father."
-msgstr ""
+msgstr "와우킨의 쉼터에서 화재에 갇혔던 여자가 사망했다. 아버지는 아직 찾지 못했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -58011,6 +58061,7 @@ msgid ""
 "Counsellor Florrick, the woman trapped in the fires at Waukeen's Rest, and "
 "my father's trusted advisor, has died. I have yet to find my father."
 msgstr ""
+"자문관 플로릭, 와우킨의 쉼터에서 화재로 갇혔던 그 여자, 그리고 아버지가 신뢰했던 고문관인 그녀가 죽었다. 아직 아버지를 찾지 못했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -58023,7 +58074,7 @@ msgctxt "h272989e4g840eg4eeeg80f7g0d63cfa535da"
 msgid ""
 "I have yet to rescue anyone from the burning fires of Waukeen's Rest, "
 "including my father, Grand Duke Ravengard."
-msgstr ""
+msgstr "아직 아버지인 레이븐가드 대공을 포함해 와우킨의 쉼터에서 누구도 구하지 못했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -58100,6 +58151,8 @@ msgid ""
 "father's ear, there's no telling what damage this cult could inflict upon "
 "the city."
 msgstr ""
+"아버지가 일리시드 올챙이에 감염되었다. 아버지는 거대한 엘더 브레인과 함께 발더스 게이트로 이동하고 있다. 절대자가 아버지를 굴복시키려고 "
+"하는 이상, 이 교단이 도시에 어떤 피해를 입힐지는 알 수가 없다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -58122,7 +58175,7 @@ msgctxt "h12519b66g6439g48fbg9f9fg19501b4f63f5"
 msgid ""
 "Father is gone from Gortash's audience chamber. His whereabouts are "
 "currently unknown - but he must still be in the city. I need to find him."
-msgstr ""
+msgstr "고타쉬의 알현실에서 아버지가 사라졌다. 지금은 어디에 계신지 모르지만, 아직 도시에 계실 것이다. 아버지를 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -58132,7 +58185,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11416
 msgctxt "hc9c80a51g5046g46b9gac18ge74a028a0798"
 msgid "Search for Grand Duke Ravengard in the city."
-msgstr ""
+msgstr "도시에서 레이븐가드 대공을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -58147,6 +58200,8 @@ msgid ""
 "locate and rescue my father. It would seem he is as good as dead - though I "
 "can't be sure. Perhaps I might still find and save him."
 msgstr ""
+"미조라가 아버지를 찾아서 구할 수 있다고 암시했음에도 불구하고, 미조라와의 계약을 끊었다. 아버지는 죽은 것이나 마찬가지인 것 같지만, "
+"확신할 수는 없다. 어쩌면 내가 아버지를 찾아서 구할 수도."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -58156,7 +58211,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10722
 msgctxt "h9ac05f99gdd73g4c26g873bg8a0b99538cfe"
 msgid "Search for Grand Duke Ravengard in the city."
-msgstr ""
+msgstr "도시에서 레이븐가드 대공을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -58169,7 +58224,7 @@ msgctxt "he5a987dfg6de3g4f36g811aga851bc9a9202"
 msgid ""
 "My father, Grand Duke Ravengard, is dead - but Mizora is still waiting to "
 "speak with me. I should see what she has to say."
-msgstr ""
+msgstr "나의 아버지, 레이븐가드 대공은 죽었지만, 미조라는 여전히 나와 대화를 원한다. 그녀가 무슨 말을 하는지 들어보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -58243,6 +58298,7 @@ msgid ""
 "all, per the terms of Mizora's bargain, I traded my freedom for the life of "
 "my father."
 msgstr ""
+"아버지를 찾았지만, 미조라는 내가 아버지를 구하게 해줄 생각이 없다. 결국, 미조라와의 거래에서, 나는 아버지의 목숨과 내 자유를 바꿨다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
