@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-13 15:37+0000\n"
-"Last-Translator: Kei <marfree1425@gmail.com>\n"
+"PO-Revision-Date: 2023-11-16 01:37+0000\n"
+"Last-Translator: Monopic <dhin1213@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -4917,7 +4917,7 @@ msgstr "당신은 다양한 악기들을 연주하여 군중을 즐겁게 만들
 #: Public/Game/GUI/Library/Tooltips.xaml:6238
 msgctxt "h7a505843g6315g491fgb777ga13adac924b2"
 msgid "Can only be used once per turn."
-msgstr "턴 당 한 번만 사용할 수 있습니다."
+msgstr "턴당 한 번만 사용할 수 있습니다."
 
 #: Public/Game/GUI/Library/Tooltips.xaml:54
 #: Public/Game/GUI/Widgets/ActionRadials.xaml:124
@@ -6345,12 +6345,12 @@ msgstr "[1] 치유"
 #: Public/Game/GUI/Library/Tooltips.xaml:3934
 msgctxt "h90a7ff55g589dg43f4gb38egd040fea0d635"
 msgid "[1]~[2] Damage per turn"
-msgstr "턴 당 [1]~[2] 피해"
+msgstr "턴당 [1]~[2] 피해"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:3972
 msgctxt "h7e1aa3a5g2d52g4179gbce9gbdb4182f5211"
 msgid "[1] damage per turn"
-msgstr "턴 당 [1] 피해"
+msgstr "턴당 [1] 피해"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:3991
 msgctxt "h151e5400g4218g486fga6ccg5bc82239aa09"
@@ -7195,7 +7195,7 @@ msgstr "재충전: "
 #: Public/Game/GUI/Library/Tooltips.xaml:8126
 msgctxt "hab6eefdfgb328g4cf2g9c76g5f5a196d8423"
 msgid "Once per turn"
-msgstr "턴 당 한 번"
+msgstr "턴당 한 번"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:8132
 msgctxt "h2d4b70ddg94e1g466bga966g635c7f75fadb"
@@ -8791,7 +8791,7 @@ msgstr "기회 공격 유발"
 #: Public/Game/GUI/Widgets/CursorText.xaml:330
 msgctxt "h392eef12g97b6g47c8g858egd305c12f7dfd"
 msgid "Can't be healed"
-msgstr "치료 불가"
+msgstr "치유 불가"
 
 #: Public/Game/GUI/Widgets/CursorText_c.xaml:260
 #: Public/Game/GUI/Widgets/HotBar.xaml:3803
@@ -11184,7 +11184,7 @@ msgstr "반응 행동"
 #: Public/Game/GUI/Widgets/ReactionDecisionPopup_c.xaml:380
 msgctxt "h6e84ebd2g4056g48b9ga760g3805aaadf1a8"
 msgid "Skip Reactions"
-msgstr ""
+msgstr "반응하지 않음"
 
 #. FilePath = Public/Shared/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial

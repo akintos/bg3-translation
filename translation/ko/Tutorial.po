@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-10 14:37+0000\n"
-"Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
+"PO-Revision-Date: 2023-11-16 01:37+0000\n"
+"Last-Translator: Monopic <dhin1213@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1422,10 +1422,6 @@ msgstr "체력이 바닥났지만, 이미 2번의 짧은 휴식을 취했습니�
 #. HandlePath = KeyboardInputList
 #. TutorialName = End the day (low health and no short rests)
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:43
-#, fuzzy
-#| msgid ""
-#| "<LSTag Type=\"Image\" Info=\"TutorialCamp\"/> Open Rest Menu \n"
-#| "<LSTag Type=\"Image\" Info=\"TutorialLongRest\"/> Initiate Long Rest"
 msgctxt "h1b6e646eg8ac9g436eg949bg6a2611d63612"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialCampMenu\"/> Open Rest Menu \n"
@@ -1508,10 +1504,6 @@ msgstr "보충 가능한 자원이 바닥났지만, 이미 2번의 짧은 휴식
 #. HandlePath = KeyboardInputList
 #. TutorialName = End the day (depleted short rest resource)
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:57
-#, fuzzy
-#| msgid ""
-#| "<LSTag Type=\"Image\" Info=\"TutorialCamp\"/> Open Rest Menu \n"
-#| "<LSTag Type=\"Image\" Info=\"TutorialLongRest\"/> Initiate Long Rest"
 msgctxt "h95792abfg4151g4aa4g813dg95507a928aaa"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialCampMenu\"/> Open Rest Menu \n"
@@ -1569,10 +1561,6 @@ msgstr "보충 가능한 자원이 바닥났습니다. 긴 휴식을 취해 체�
 #. HandlePath = KeyboardInputList
 #. TutorialName = End the day (depleted long rest resource)
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:70
-#, fuzzy
-#| msgid ""
-#| "<LSTag Type=\"Image\" Info=\"TutorialCamp\"/> Open Rest Menu \n"
-#| "<LSTag Type=\"Image\" Info=\"TutorialLongRest\"/> Initiate Long Rest"
 msgctxt "hd49a9396g3342g4859ga721g50b7efd635c5"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialCampMenu\"/> Open Rest Menu \n"
@@ -1628,12 +1616,6 @@ msgstr "음식과 음료 수집을 잊지 마십시오. 긴 휴식으로 체력�
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Camp Supplies
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:91
-#, fuzzy
-#| msgid ""
-#| "Food and drink are needed to successfully completely a <LSTag Tooltip="
-#| "\"LongRest\">Long Rest</LSTag> at your camp and are automatically added to "
-#| "your Supplies Bag when picked up. More nutritious food and drink will have "
-#| "higher value when used for Long Resting. "
 msgctxt "h85db4793g150fg415dg8838gf9323c436ad8"
 msgid ""
 "Food and drink are needed to successfully complete a <LSTag Tooltip="
@@ -1641,8 +1623,8 @@ msgid ""
 "your Camp Supply Sack when picked up. More nutritious food and drink will "
 "have higher value when used for Long Resting. "
 msgstr ""
-"<LSTag Tooltip=\"LongRest\">긴 휴식</LSTag> 때 완전히 회복하려면 음식과 음료가 꼭 필요합니다. 야영 물자 "
-"배낭을 갖고 있다면 모든 음식과 음료 아이템은 자동으로 배낭에 정리됩니다. 영양가가 풍부할수록 제공하는 수치가 높습니다. "
+"음식과 음료는 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 통한 완전 회복에 꼭 필요합니다. 야영 물자 "
+"배낭이 있는 경우 음식과 음료 수집 시 자동으로 배낭에 정리됩니다. 영양가가 풍부할수록 더 높은 야영 물자 수치를 제공합니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1669,12 +1651,6 @@ msgstr "음식과 음료 아이템을 놓치지 마세요. 긴 휴식으로 체�
 #. HandlePath = KeyboardJournalDescription
 #. TutorialName = Camp Supplies
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:95
-#, fuzzy
-#| msgid ""
-#| "Food and drink are needed to successfully completely a <LSTag Tooltip="
-#| "\"LongRest\">Long Rest</LSTag> at your camp and are automatically added to "
-#| "your Supplies Bag when picked up. More nutritious food and drink will have "
-#| "higher value when used for Long Resting. "
 msgctxt "hefff1e02g2071g4b3cga9b9g5ef58a5f3a4e"
 msgid ""
 "Food and drink are needed to successfully complete a <LSTag Tooltip="
@@ -1683,7 +1659,7 @@ msgid ""
 "have higher value when used for Long Resting. "
 msgstr ""
 "음식과 음료는 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>을 통한 완전 회복에 꼭 필요합니다. 야영 물자 "
-"배낭이 있는 경우, 음식과 음료를 수집할 때 자동으로 배낭에 정리됩니다. 영양가가 풍부할 수록 더 높은 야영 물자 수치를 가집니다. "
+"배낭이 있는 경우 음식과 음료 수집 시 자동으로 배낭에 정리됩니다. 영양가가 풍부할수록 더 높은 야영 물자 수치를 제공합니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -1839,7 +1815,6 @@ msgstr "새로운 야영지 장소로 이동하면 이전 야영지에 남아 �
 #. HandlePath = DisplayTitle
 #. TutorialName = Camp Declutter
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:133
-#, fuzzy
 msgctxt "h4ea6ceb0g537ag42c9gb06dg69499bb503db"
 msgid "Camp Decluttering"
 msgstr "야영지 정리"
@@ -2197,10 +2172,10 @@ msgid ""
 "\" Tooltip=\"Shout_Rage\">Rage</LSTag>. Be careful, as these effects could "
 "be deadly or ridiculous. "
 msgstr ""
-"위브는 변덕스럽습니다 - 어떤 마법은 예상치 못한 결과를 낳을 수 있습니다. <LSTag Tooltip=\"WildMagic\">와일드 "
-"매직</LSTag>소서러와 바바리안은 주문을 영창하거나 <LSTag Type=\"Spell\" Tooltip=\"Shout_Rage\""
+"위브는 변덕스럽습니다. 어떤 마법은 예상치 못한 결과를 낳을 수 있습니다. <LSTag Tooltip=\"WildMagic\">와일드 "
+"매직</LSTag> 소서러와 바바리안은 주문을 영창하거나 <LSTag Type=\"Spell\" Tooltip=\"Shout_Rage\""
 ">분노</LSTag>하는 것으로 무작위의 마법 효과를 불러일으킬 수 있습니다. 단, 이 효과들은 치명적이거나 터무니없을 수도 있으니 "
-"조심하십시오."
+"조심하십시오. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2235,10 +2210,10 @@ msgid ""
 "\" Tooltip=\"Shout_Rage\">Rage</LSTag>. Be careful, as these effects could "
 "be deadly or ridiculous. "
 msgstr ""
-"위브는 변덕스럽습니다 - 어떤 마법은 예상치 못한 결과를 낳을 수 있습니다. <LSTag Tooltip=\"WildMagic\">와일드 "
-"매직</LSTag>소서러와 바바리안은 주문을 영창하거나 <LSTag Type=\"Spell\" Tooltip=\"Shout_Rage\""
+"위브는 변덕스럽습니다. 어떤 마법은 예상치 못한 결과를 낳을 수 있습니다. <LSTag Tooltip=\"WildMagic\">와일드 "
+"매직</LSTag> 소서러와 바바리안은 주문을 영창하거나 <LSTag Type=\"Spell\" Tooltip=\"Shout_Rage\""
 ">분노</LSTag>하는 것으로 무작위의 마법 효과를 불러일으킬 수 있습니다. 단, 이 효과들은 치명적이거나 터무니없을 수도 있으니 "
-"조심하십시오."
+"조심하십시오. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2458,8 +2433,8 @@ msgid ""
 "[IE_ToggleInGameMenu] Open Spellbook"
 msgstr ""
 "몇몇 주문 시전자(위저드, 드루이드, 클레릭, 팔라딘)는 놀랍도록 마법을 다재다능하게 다루며, 전투 중이 아닐 때 다양한 주문을 미리 "
-"준비할 수 있습니다. 클래스 별 사용가능한 주문 목록은 레벨이 올라갈수록 증가하며, 이중 위저드는 주문 두루마리를 통해서도 새로운 주문을 "
-"배울 수 있습니다.\n"
+"준비할 수 있습니다. 클래스 별 사용가능한 주문 목록은 레벨이 올라갈수록 증가하며, 이 중 위저드는 주문 두루마리를 통해서도 새로운 "
+"주문을 배울 수 있습니다.\n"
 "\n"
 "[IE_ToggleInGameMenu] 주문책 열기"
 
@@ -2507,8 +2482,8 @@ msgid ""
 "[IE_ToggleSpells] Open Spellbook"
 msgstr ""
 "몇몇 주문 시전자(위저드, 드루이드, 클레릭, 팔라딘)는 놀랍도록 마법을 다재다능하게 다루며, 전투 중이 아닐 때 다양한 주문을 미리 "
-"준비할 수 있습니다. 클래스 별 사용가능한 주문 목록은 레벨이 올라갈수록 증가하며, 이중 위저드는 주문 두루마리를 통해서도 새로운 주문을 "
-"배울 수 있습니다.\n"
+"준비할 수 있습니다. 클래스 별 사용가능한 주문 목록은 레벨이 올라갈수록 증가하며, 이 중 위저드는 주문 두루마리를 통해서도 새로운 "
+"주문을 배울 수 있습니다.\n"
 "\n"
 "[IE_ToggleSpells] 주문책 열기"
 
@@ -2955,8 +2930,8 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu \n"
 " <LSTag Type=\"Image\" Info=\"TutorialSpellbook\"/> Open Spellbook"
 msgstr ""
-"마법사는 두루마리에서 몇 가지 주문을 배울 수 있는데, 두루마리의 상세 메뉴 또는 주문책 화면을 사용하면 됩니다. 이 주문을 마법사의 "
-"주문서에 복사하려면 값어치 있는 물건, 즉 금화가 필요합니다. 마법사는 시전할 수 있는 최고 레벨보다 높은 레벨의 주문을 배울 수 "
+"위저드는 두루마리에서 몇 가지 주문을 배울 수 있는데, 두루마리의 상세 메뉴 또는 주문책 화면을 사용하면 됩니다. 이 주문을 위저드의 "
+"주문서에 복사하려면 값어치 있는 물건, 즉 금화가 필요합니다. 위저드는 시전할 수 있는 최고 레벨보다 높은 레벨의 주문을 배울 수 "
 "없습니다.\n"
 "\n"
 "[IE_ContextMenu] 두루마리의 상세 메뉴를 사용하여 주문 배우기\n"
@@ -3012,8 +2987,8 @@ msgid ""
 "[IE_ContextMenu] Use a scroll's Context Menu to learn a spell\n"
 "[IE_ToggleSpells] Open Spellbook"
 msgstr ""
-"마법사는 두루마리에서 몇 가지 주문을 배울 수 있는데, 두루마리의 상세 메뉴 또는 주문책 화면을 사용하면 됩니다. 이 주문을 마법사의 "
-"주문서에 복사하려면 값어치 있는 물건, 즉 금화가 필요합니다. 마법사는 시전할 수 있는 최고 레벨보다 높은 레벨의 주문을 배울 수 "
+"위저드는 두루마리에서 몇 가지 주문을 배울 수 있는데, 두루마리의 상세 메뉴 또는 주문책 화면을 사용하면 됩니다. 이 주문을 위저드의 "
+"주문서에 복사하려면 값어치 있는 물건, 즉 금화가 필요합니다. 위저드는 시전할 수 있는 최고 레벨보다 높은 레벨의 주문을 배울 수 "
 "없습니다.\n"
 "\n"
 "[IE_ContextMenu] 두루마리의 상세 메뉴를 사용하여 주문 배우기\n"
@@ -3087,7 +3062,7 @@ msgstr ""
 "해서 누가 먼저 행동할지 결정합니다. 모든 전투원들은 화면 상단에 우선권 굴림 순서대로 보여지며, 주인공 파티에 대한 태도에 따라 색깔로 "
 "강조됩니다. 아군은 녹색, 적은 빨간색, 중립은 노란색입니다.\n"
 "턴이 진행되는 동안, 캐릭터들은 <LSTag Tooltip=\"Action\">행동</LSTag>, 추가 행동, <LSTag "
-"Tooltip=\"MovementSpeed\">이동</LSTag>을 할 수 있습니다. 턴종료 아이콘을 눌러서 턴을 종료 할 수 있습니다."
+"Tooltip=\"MovementSpeed\">이동</LSTag>을 할 수 있습니다. 턴 종료 아이콘을 눌러서 턴을 종료할 수 있습니다."
 "\n"
 "\n"
 "[IE_ToggleSpells] 행동 원형 메뉴 열기"
@@ -3141,7 +3116,7 @@ msgstr ""
 "해서 누가 먼저 행동할지 결정합니다. 모든 전투원들은 화면 상단에 우선권 굴림 순서대로 보여지며, 주인공 파티에 대한 태도에 따라 색깔로 "
 "강조됩니다. 아군은 녹색, 적은 빨간색, 중립은 노란색입니다.\n"
 "턴이 진행되는 동안, 캐릭터들은 <LSTag Tooltip=\"Action\">행동</LSTag>, 추가 행동, <LSTag "
-"Tooltip=\"MovementSpeed\">이동</LSTag>을 할 수 있습니다. 턴종료 아이콘을 눌러서 턴을 종료 할 수 있습니다."
+"Tooltip=\"MovementSpeed\">이동</LSTag>을 할 수 있습니다. 턴 종료 아이콘을 눌러서 턴을 종료할 수 있습니다."
 "\n"
 "\n"
 "<LSTag Type=\"Image\" Info=\"TutorialActionFilter\"/> 행동을 의미\n"
@@ -3221,7 +3196,7 @@ msgctxt "h145922a8gac55g4ef7gbfcagb334615a50ca"
 msgid ""
 "Bring back a friend's avatar by using Withers' Wardrobe of Wayward Friends "
 "in your camp."
-msgstr ""
+msgstr "캠프에 있는 위더스의 고집불통 친구들을 위한 옷장을 이용해서 동료의 아바타를 되살려 보세요."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3234,6 +3209,8 @@ msgid ""
 "Wardrobe of Wayward Friends in your camp. They'll join as long as there's a "
 "free spot in your party. You cannot do this at night."
 msgstr ""
+"캠프에 있는 위더스의 고집불통 친구들을 위한 옷장을 이용해서 동료의 아바타를 되살릴 수 있습니다. 파티에 빈 자리가 있다면 합류 할 "
+"것입니다. 다만 밤에는 되살릴 수 없습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3242,7 +3219,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:414
 msgctxt "hdd09e1a1g1facg4aa8gbb31g31b88af95877"
 msgid "Withers' Wardrobe of Wayward Friends"
-msgstr ""
+msgstr "위더스의 고집불통 친구들을 위한 옷장"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3253,7 +3230,7 @@ msgctxt "hb1277886g7f9cg40b7g8deage2c5da67f53d"
 msgid ""
 "Bring back a friend's avatar by using Withers' Wardrobe of Wayward Friends "
 "in your camp."
-msgstr ""
+msgstr "캠프에 있는 위더스의 고집불통 친구들을 위한 옷장을 이용해서 동료의 아바타를 되살려 보세요."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3266,6 +3243,8 @@ msgid ""
 "Wardrobe of Wayward Friends in your camp. They'll join as long as there's a "
 "free spot in your party. You cannot do this at night."
 msgstr ""
+"캠프에 있는 위더스의 고집불통 친구들을 위한 옷장을 이용해서 동료의 아바타를 되살릴 수 있습니다. 파티에 빈 자리가 있다면 합류 할 "
+"것입니다. 다만 밤에는 되살릴 수 없습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3277,6 +3256,8 @@ msgid ""
 "Your friend's avatar will remain in your party when they're offline. You can "
 "dismiss them by talking to them and selecting the option to wait in camp."
 msgstr ""
+"동료의 아바타는 동료가 오프라인 상태일 경우 파티에 남아 있을 것입니다. 아바타에 말을 걸어 캠프에서 대기하기를 선택하면 파티에서 떠나 "
+"보낼 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3294,6 +3275,10 @@ msgid ""
 "if there is any. Only when there is no unclaimed avatar will they be able to "
 "create a new one."
 msgstr ""
+"동료의 아바타는 동료가 오프라인 상태일 경우 파티에 남아 있을 것입니다. 아바타에 말을 걸어 캠프에서 대기하기를 선택하면 파티에서 해제할 "
+"수 있습니다. 일정한 제한은 있습니다. 오리진 캐릭터가 아닌 커스텀 아바타만 해제 할 수 있고, 캠프에서만 해제할 수 있습니다. 캠프에서 "
+"위더스의 고집불통 친구들을 위한 옷장을 통해 다시 아바타를 데려 올 수 있습니다. 나중에 동료가 게임에 참가하는 경우, 해제된 아바타가 "
+"있다면 그 아바타가 배정될 것입니다. 해제된 상태인 아바타가 없을 경우에만 새로운 아바타를 생성 할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3302,7 +3287,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:427
 msgctxt "hbf3c6b55gdf68g4383gb742g5413bfa5470e"
 msgid "Dismiss Avatar"
-msgstr ""
+msgstr "아바타 해제하기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3314,6 +3299,8 @@ msgid ""
 "Your friend's avatar will remain in your party when they're offline. You can "
 "dismiss them by talking to them and selecting the option to wait in camp."
 msgstr ""
+"동료의 아바타는 동료가 오프라인 상태일 경우 파티에 남아 있을 것입니다. 아바타에 말을 걸어 캠프에서 대기하기를 선택하면 파티에서 해제할 "
+"수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3331,6 +3318,10 @@ msgid ""
 "if there is any. Only when there is no unclaimed avatar will they be able to "
 "create a new one."
 msgstr ""
+"동료의 아바타는 동료가 오프라인 상태일 경우 파티에 남아 있을 것입니다. 아바타에 말을 걸어 캠프에서 대기하기를 선택하면 파티에서 해제할 "
+"수 있습니다. 일정한 제한은 있습니다. 오리진 캐릭터가 아닌 커스텀 아바타만 해제 할 수 있고, 캠프에서만 해제할 수 있습니다. 캠프에서 "
+"위더스의 고집불통 친구들을 위한 옷장을 통해 다시 아바타를 데려 올 수 있습니다. 나중에 동료가 게임에 참가하는 경우, 해제된 아바타가 "
+"있다면 그 아바타가 배정될 것입니다. 해제된 상태인 아바타가 없을 경우에만 새로운 아바타를 생성 할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3490,16 +3481,6 @@ msgstr "[IE_ShowWorldTooltips] 적 시야 보이기"
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Enemy Sightlines
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:468
-#, fuzzy
-#| msgid ""
-#| "Sightlines mark the areas that other creatures in the world can see. You can "
-#| "see sightlines by toggling their visibility or sneaking. If you step into a "
-#| "sightline while hiding, you will roll a <LSTag Tooltip=\"Stealth\">Stealth</"
-#| "LSTag> check to see if the creature notices you - and will be discovered if "
-#| "you fail. If you are trying to be stealthy, these areas are worth avoiding.\n"
-#| "\n"
-#| "[IE_ShowWorldTooltips] Show enemy sightlines\n"
-#| "[IE_ToggleSpells] <LSTag Type=\"Image\" Info=\"TutorialGroupSneak\"/> Sneak"
 msgctxt "hebc6153ag4a51g42a5g9731ga3b80715833c"
 msgid ""
 "Sightlines mark the areas that other creatures in the world can see. You can "
@@ -3514,7 +3495,7 @@ msgid ""
 "[IE_UISelectionDown] Hide party"
 msgstr ""
 "시야는 다른 크리쳐가 볼 수 있는 구역을 표시합니다. 시야를 토글하거나 은닉 상태로 진입하면 크리쳐의 시야를 볼 수 있습니다. 숨어 있는 "
-"동안 크리쳐의 시야내로 진입 하는 경우, <LSTag Tooltip=\"Stealth\">은닉</LSTag> 판정을 해서 크리쳐가 당신을 "
+"동안 크리쳐의 시야내로 진입 하는 경우, <LSTag Tooltip=\"Stealth\">은신</LSTag> 판정을 해서 크리쳐가 당신을 "
 "인식하는지 결정되며, 실패하면 발각될 것입니다. 만약 계속 숨어 있기를 원하면, 이 구역들은 돌아가는 게 좋습니다.\n"
 "\n"
 "[IE_ShowWorldTooltips] 적의 시야 보이기\n"
@@ -3556,16 +3537,6 @@ msgstr "[IE_ShowSneakCones] 적 시야 보이기"
 #. HandlePath = KeyboardJournalDescription
 #. TutorialName = Enemy Sightlines
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:473
-#, fuzzy
-#| msgid ""
-#| "Sightlines mark the areas that other creatures in the world can see. You can "
-#| "see sightlines by toggling their visibility or sneaking. If you step into a "
-#| "sightline while hiding, you will roll a <LSTag Tooltip=\"Stealth\">Stealth</"
-#| "LSTag> check to see if the creature notices you - and will be discovered if "
-#| "you fail. If you are trying to be stealthy, these areas are worth avoiding.\n"
-#| "\n"
-#| "[IE_ShowSneakCones] Show enemy sightlines\n"
-#| "<LSTag Type=\"Image\" Info=\"TutorialGroupSneak\"/> Sneak"
 msgctxt "h86c944c5g7545g4d0fgaa1egf712d25b92d9"
 msgid ""
 "Sightlines mark the areas that other creatures in the world can see. You can "
@@ -3579,11 +3550,12 @@ msgid ""
 "[IE_ShowSneakCones] Show enemy sightlines\n"
 "<LSTag Type=\"Image\" Info=\"TutorialGroupSneak\"/> Sneak"
 msgstr ""
-"시야는 다른 크리쳐가 볼 수 있는 구역을 표시합니다. 시야를 토글하거나 은닉 상태로 진입하면 크리쳐의 시야를 볼 수 있습니다. 숨어 있는 "
-"동안 크리쳐의 시야내로 진입 하는 경우, <LSTag Tooltip=\"Stealth\">은닉</LSTag> 판정을 해서 크리쳐가 당신을 "
-"인식하는지 결정되며, 실패하면 발각될 것입니다. 만약 계속 숨어 있기를 원하면, 이 구역들은 돌아가는 게 좋습니다.\n"
+"시야선은 다른 크리쳐가 볼 수 있는 구역을 표시합니다. 시야를 토글하거나 은닉 상태에 들어가면 시야선을 볼 수 있습니다. 옅은 붉은색으로 "
+"강조한 영역을 통과한다면, <LSTag Tooltip=\"Stealth\">은신</LSTag> 판정을 해서 크리쳐가 당신을 인식하는지 "
+"결정하여, 실패하면 발각될 것입니다. 진한 붉은색으로 강조한 영역 안으로 움직인다면, 바로 당신의 위치가 들킬 것입니다. 만약 계속 숨어 "
+"있기를 원하면, 이 구역들은 피해 가는 게 좋습니다.\n"
 "\n"
-"[IE_ShowSneakCones] 적 시야 보이기\n"
+"[IE_ShowSneakCones] 적 시야선 보이기\n"
 "<LSTag Type=\"Image\" Info=\"TutorialGroupSneak\"/> 은닉"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
@@ -3718,7 +3690,7 @@ msgid ""
 "LSTag> when attacked from stealth. Surprised characters cannot move or take "
 "actions or reactions in the first round of combat. "
 msgstr ""
-"캐릭터는 은닉한 상대에게 공격 당했을 때 <LSTag Type=\"Status\" Tooltip=\"SURPRISED\">기습당한</"
+"캐릭터는 은신한 상대에게 공격 당했을 때 <LSTag Type=\"Status\" Tooltip=\"SURPRISED\">기습당함</"
 "LSTag> 상태가 됩니다. 기습당한 캐릭터는 전투의 첫 번째 라운드에서 움직이거나 행동, 반응 행동 등을 하지 못합니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
@@ -3755,7 +3727,7 @@ msgid ""
 "LSTag> when attacked from stealth. Surprised characters cannot move or take "
 "actions or reactions in the first round of combat. "
 msgstr ""
-"캐릭터는 은닉한 상대에게 공격 당했을 때 <LSTag Type=\"Status\" Tooltip=\"SURPRISED\">기습당한</"
+"캐릭터는 은신한 상대에게 공격 당했을 때 <LSTag Type=\"Status\" Tooltip=\"SURPRISED\">기습당함</"
 "LSTag> 상태가 됩니다. 기습당한 캐릭터는 전투의 첫 번째 라운드에서 움직이거나 행동, 반응 행동 등을 하지 못합니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
@@ -5561,7 +5533,7 @@ msgstr ""
 "[IE_UIMove] 을 사용해 캐릭터를 움직이세요. 그룹으로 묶인 같은 파티의 캐릭터들은 자동으로 따라옵니다.\n"
 "커서 모드를 토글하여 카메라와 캐릭터를 더 세밀하게 조작할 수도 있습니다.\n"
 "\n"
-"[IE_UIMove] 움직이\n"
+"[IE_UIMove] 움직이기\n"
 "[IE_ToggleInputMode] 선택 커서 토글"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
@@ -7891,7 +7863,7 @@ msgid ""
 "[IE_PanelSelect] Open Game Menu \n"
 " <LSTag Type=\"Image\" Info=\"TutorialMap\"/> Open Map"
 msgstr ""
-"[IE_PanelSelect] Open Game Menu \n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
 " <LSTag Type=\"Image\" Info=\"TutorialMap\"/> 지도 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
@@ -7911,7 +7883,7 @@ msgstr ""
 "페이룬 전역의 특정 위치들은 눈에 띄는 순간이동 인장이 표시 되어 있습니다. 웨이포인트라는 것이죠. 영리한 모험가는 이 웨이포인트를 "
 "사용하여 이전에 가본 적이 있는 위치로 즉시 이동할 수 있습니다.\n"
 "\n"
-"[IE_PanelSelect] Open Game Menu \n"
+"[IE_PanelSelect] 게임 메뉴 열기\n"
 " <LSTag Type=\"Image\" Info=\"TutorialMap\"/> 지도 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
@@ -8639,7 +8611,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1508
 msgctxt "heac1577cge165g482fg9f12ge0656def73d8"
 msgid "Hold [IE_Interact] to search area"
-msgstr ""
+msgstr "[IE_Interact]을 길게 눌러 주변 탐색"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8655,6 +8627,11 @@ msgid ""
 "Hold [IE_Interact] to search area\n"
 "\n"
 msgstr ""
+"주변 탐색을 사용해 상호작용할 수 있는 가까운 아이템과 상자를 강조할 수 있습니다. 조심하세요, 전부 가져도 되는 게 아닙니다. 그리고 "
+"도둑질은 범죄입니다!\n"
+"\n"
+"[IE_Interact]을 길게 눌러 주변 탐색\n"
+"\n"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9090,7 +9067,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1624
 msgctxt "hb8cf5322gd47bg487ag85d6g09427d1b2a73"
 msgid "Spellcasting"
-msgstr "주문시전"
+msgstr "주문 시전"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9142,10 +9119,10 @@ msgid ""
 "><LSTag Type=\"Image\" Info=\"TutorialSneakAttackMelee\"/> Sneak Attack"
 msgstr ""
 "로그는 <LSTag Type=\"Spell\" Tooltip=\"Target_SneakAttack\">암습 공격</LSTag>을 이용해 "
-"적에게 막대한 피해를 입힙니다. 멀리서 치명적인 화살을 날리든, 아니면 눈치 채지 못하는 대상에게 칼을 꽂든 상관 없습니다. 어쨌든, "
+"적에게 막대한 피해를 입힙니다. 멀리서 치명적인 화살을 날리든, 아니면 눈치 채지 못하는 대상에게 칼을 꽂든 상관 없습니다. 하지만, "
 "암습 공격은 로그 <i>역시</i> <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag "
 "Tooltip=\"Advantage\">이점</LSTag>이 <i>있거나</i>, 아군이 적의 근접공격 범위에 있어야 합니다. 로그는 "
-"명중 굴림에 이점을 얻기 위해 추가 행동으로 <LSTag Tooltip=\"Stealth\">은닉</LSTag> 판정을 시도해 볼 수 "
+"명중 굴림에 이점을 얻기 위해 추가 행동으로 <LSTag Tooltip=\"Stealth\">은신</LSTag> 판정을 시도해 볼 수 "
 "있습니다.\n"
 "\n"
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 명중 굴림에 <LSTag Tooltip="
@@ -9185,10 +9162,10 @@ msgid ""
 "\" Info=\"TutorialSneakAttackMelee\"/> Sneak Attack"
 msgstr ""
 "로그는 <LSTag Type=\"Spell\" Tooltip=\"Target_SneakAttack\">암습 공격</LSTag>을 이용해 "
-"적에게 막대한 피해를 입힙니다. 멀리서 치명적인 화살을 날리든, 아니면 눈치 채지 못하는 대상에게 칼을 꽂든 상관 없습니다. 어쨌든, "
+"적에게 막대한 피해를 입힙니다. 멀리서 치명적인 화살을 날리든, 아니면 눈치 채지 못하는 대상에게 칼을 꽂든 상관 없습니다. 하지만, "
 "암습 공격은 로그 <i>역시</i> <LSTag Tooltip=\"AttackRoll\">명중 굴림</LSTag>에 <LSTag "
 "Tooltip=\"Advantage\">이점</LSTag>이 <i>있거나</i>, 아군이 적의 근접공격 범위에 있어야 합니다. 로그는 "
-"명중 굴림에 이점을 얻기 위해 추가 행동으로 <LSTag Tooltip=\"Stealth\">은닉</LSTag> 판정을 시도해 볼 수 "
+"명중 굴림에 이점을 얻기 위해 추가 행동으로 <LSTag Tooltip=\"Stealth\">은신</LSTag> 판정을 시도해 볼 수 "
 "있습니다.\n"
 "\n"
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 명중 굴림에 <LSTag Tooltip="
@@ -9211,12 +9188,12 @@ msgid ""
 "Hold [IE_CameraZoomOut] to enter Tactical View\n"
 "Hold [IE_CameraZoomIn] to leave Tactical View"
 msgstr ""
-"카메라를 회전하고 이동시켜 주변을 더 잘 볼 수 있으며, 카메라를 완전히 줌아웃하여 탑 다운 시점에서 화면을 볼 수 있게 전술 보기를 "
+"카메라를 회전하고 이동시켜 주변을 더 잘 볼 수 있으며, 카메라를 완전히 줌 아웃하여 탑 다운 시점에서 화면을 볼 수 있도록 전술 보기를 "
 "사용할 수 있습니다.\n"
 "\n"
-"[IE_CameraRotate] 카메라 회전\n"
-"[IE_CameraZoomOut] 고정해서 전술보기로 진입\n"
-"[IE_CameraZoomIn] 고정해서 전술보기 나가기"
+"[IE_CameraRotate]로 카메라 회전\n"
+"[IE_CameraZoomOut]을 길게 눌러 전술 보기 진입\n"
+"[IE_CameraZoomIn]을 길게 눌러 전술 보기 나가기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9772,7 +9749,7 @@ msgctxt "h753ec58agcafbg42afg8ea4gc7ec77803490"
 msgid ""
 "Your companion is willing to become a half-illithid and can use the Astral "
 "Tadpole to transform."
-msgstr ""
+msgstr "동료가 하프 일리시드가 되길 원합니다. 아스트랄 올챙이를 사용하여 형태를 변화시킬 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9781,7 +9758,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1793
 msgctxt "h08ba9144g2981g4b86gbf13g35db38c9178b"
 msgid "Companion Convinced"
-msgstr ""
+msgstr "설득된 동료"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9792,7 +9769,7 @@ msgctxt "hbf48ca9age91bg44e1gbe41g81f419ec286d"
 msgid ""
 "Your companion is willing to become a half-illithid and can use the Astral "
 "Tadpole to transform."
-msgstr ""
+msgstr "동료가 하프 일리시드가 되길 원합니다. 아스트랄 올챙이를 사용하여 형태를 변화시킬 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9803,7 +9780,7 @@ msgctxt "h7195f4ddg49aeg4335gbe41g90bbea8f4778"
 msgid ""
 "Find mind flayer parasites around Faerûn and on infected individuals. You "
 "can consume them to access illithid powers. "
-msgstr ""
+msgstr "페이룬 주변과 감염된 개체에서 마인드 플레이어 기생충을 찾으세요. 기생충을 소모하여 일리시드 능력을 해방할 수 있습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9816,6 +9793,9 @@ msgid ""
 " <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> Open Inventory\n"
 " <LSTag Type=\"Image\" Info=\"TutorialConsumableTadpole\"/> Consume Parasite"
 msgstr ""
+"[IE_PanelSelect] 게임 메뉴 열기 \n"
+" <LSTag Type=\"Image\" Info=\"TutorialCharacterSheet\"/> 인벤토리 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialConsumableTadpole\"/> 기생충 소모하기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9835,7 +9815,7 @@ msgctxt "hbe866644g2a72g43ddga292gf6f9d131097c"
 msgid ""
 "Find mind flayer parasites around Faerûn and on infected individuals. You "
 "can consume them to access illithid powers. "
-msgstr ""
+msgstr "페이룬 주변과 감염된 개체에서 마인드 플레이어 기생충을 찾으세요. 기생충을 소모하여 일리시드 능력을 해방할 수 있습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9847,6 +9827,8 @@ msgid ""
 "[IE_ToggleInventory] Open Inventory\n"
 " <LSTag Type=\"Image\" Info=\"TutorialConsumableTadpole\"/> Consume Parasite"
 msgstr ""
+"[IE_ToggleInventory] 인벤토리 열기\n"
+" <LSTag Type=\"Image\" Info=\"TutorialConsumableTadpole\"/> 기생충 소모하기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9869,6 +9851,8 @@ msgid ""
 "[IE_ContextMenu] Open Object Context Menu\n"
 "[IE_UIMove] Move object"
 msgstr ""
+"[IE_ContextMenu] 상세 메뉴 열기\n"
+"[IE_UIMove] 물체 옮기기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial

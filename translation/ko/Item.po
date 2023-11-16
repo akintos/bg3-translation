@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-13 15:37+0000\n"
-"Last-Translator: Favmir <nevirful@gmail.com>\n"
+"PO-Revision-Date: 2023-11-16 01:37+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3781,7 +3781,7 @@ msgid ""
 "additional <LSTag Tooltip=\"Action\">action</LSTag>. Replaces effects from "
 "other elixirs when drunk. "
 msgstr ""
-"피의 욕망이 활성화됩니다. 턴 당 한 번, 적을 죽이면 [1]의 <LSTag Tooltip=\"TemporaryHitPoints\">임시 "
+"피의 욕망이 활성화됩니다. 턴당 한 번, 적을 죽이면 [1]의 <LSTag Tooltip=\"TemporaryHitPoints\">임시 "
 "체력</LSTag>과 추가 <LSTag Tooltip=\"Action\">행동</LSTag>을 얻습니다. 다른 영약의 효과를 대체합니다. "
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
@@ -4728,7 +4728,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/_merged.lsx:68101
 msgctxt "hf8e3afe2g531bg4201g8cb3gfa986dd01f39"
 msgid "Oil of Freezing"
-msgstr "냉동의 기름"
+msgstr "동결의 기름"
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -5434,7 +5434,7 @@ msgctxt "h8d1ea4bbg3374g4b5dg9bb9g439af1a7489e"
 msgid ""
 "Though it doesn't radiate any heat, this arrow's point will singe any flesh "
 "it touches."
-msgstr "열을 뿜어내지는 않지만 화살의 끝이 닿는 살점에는 상처를 낼 수 있습니다."
+msgstr "열을 뿜어내지 않는데도 불구하고, 이 화살촉이 닿는 살점은 화상을 입습니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -5446,7 +5446,7 @@ msgstr "열을 뿜어내지는 않지만 화살의 끝이 닿는 살점에는 �
 #: Public/Shared/RootTemplates/_merged.lsx:130668
 msgctxt "h3fd8d9b6gc313g4c06gb554g38571ae4045b"
 msgid "Arrow of Ice"
-msgstr "냉기 화살"
+msgstr "냉기의 화살"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -57692,7 +57692,7 @@ msgid ""
 "freezing sphere at overeager university students rather than actually stoop "
 "to giving them lectures. "
 msgstr ""
-"오틸루크는 학자 위저드로 보낸 불만투성이 나날 속에서 열정이 과도한 대학생들을 상대로 실제로 강의를 진행하기보다는 그의 유명한 냉동 "
+"오틸루크는 학자 위저드로 보낸 불만투성이 나날 속에서 열정이 과도한 대학생들을 상대로 실제로 강의를 진행하기보다는 그의 유명한 동결 "
 "구체를 던지곤 했습니다. "
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
@@ -74571,7 +74571,7 @@ msgstr "아직 완성되지 않은 주형일 뿐이지만, 그럼에도 이 메�
 #: Public/Shared/RootTemplates/_merged.lsx:640483
 msgctxt "hb1dc1967gae04g44dcg8653g6fe4a1b36b96"
 msgid "Scale Mail Mould (Medium)"
-msgstr "비늘 갑옷 주형 (약간 무거움)"
+msgstr "비늘 갑옷 주형 (평갑)"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -74677,7 +74677,7 @@ msgstr "특별한 장비를 제작하는데 사용할 수 있습니다. 특정 �
 #: Public/Shared/RootTemplates/_merged.lsx:649329
 msgctxt "h614abc01gfe3dg4875ga979gc4d5ab8f941c"
 msgid "Splint Mould (Heavy)"
-msgstr "스플린트 주형 (무거움)"
+msgstr "스플린트 주형 (중갑)"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects

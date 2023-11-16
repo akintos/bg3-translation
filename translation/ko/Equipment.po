@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-13 15:37+0000\n"
-"Last-Translator: Ponytail310 <sejini310@gmail.com>\n"
+"PO-Revision-Date: 2023-11-16 01:37+0000\n"
+"Last-Translator: 요하네스 <lowsdy1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1006,7 +1006,7 @@ msgctxt "ha6791064gd405g4387gbf23gf60ff47fac7b"
 msgid ""
 "Torn and hell-scented, these trousers have seen a good deal of action - "
 "though not perhaps the sort Karlach might prefer."
-msgstr "이 바지는 찢어지고 지옥의 냄새가 풍기며, 궂은 일을 많이 거친 듯 합니다 - 아마 칼라크도 그러고 싶지는 않았을 겁니다."
+msgstr "이 찢어진 바지는 지옥의 냄새가 풍기며, 주인과 함께 수많은 궂은 일을 해왔습니다. 아마 칼라크가 하고 싶은 일은 아니었겠지만."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -2644,13 +2644,13 @@ msgstr "무두장이의 기쁨"
 #. Name = ARM_Camp_Shoes_C
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:567136
-#, fuzzy
 msgctxt "hafc774acge18eg467egbc14g3926662adb2e"
 msgid ""
 "The tanners had an excellent time producing this leather - they actually got "
 "to use real animal flesh. Usually they work with much grosser stuff."
 msgstr ""
-"이 가죽 신발을 만든 무두장이는 진짜 동물 가죽을 다루며 아주 즐거운 시간을 보낸 모양입니다. 보통 다루는 재료들은 훨씬 역겹거든요."
+"이 가죽 신발을 만든 무두장이는 진짜 동물 가죽을 다루며 아주 즐거운 시간을 보낸 모양입니다. 그들이 주로 다루는 재료들은 훨씬 "
+"역겹거든요."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -7685,8 +7685,8 @@ msgid ""
 "wreath is forever linked to its lands, the tiny rubies connected to its "
 "stones and structures, bidding them to do their bidding."
 msgstr ""
-"이 머리장식의 나뭇가지는 반쯤 화석화되었는데, 드루이드들 사이에서 수 세대에 걸쳐 내려온 것입니다. 숲이 세워질 때 제작된 이 화관은 이 "
-"땅과 영원히 연결되어 있으며, 작은 루비들은 그 땅의 돌과 구조물들에 연결되어 명령을 내립니다."
+"이 머리띠의 나뭇가지는 드루이드 사이에서 수 세대에 걸쳐 내려오는 사이 반쯤 화석이 되었습니다. 드루이드 숲이 처음 세워질 때 제작된 "
+"물건으로, 이 왕관은 대지와 영원히 연결되어 있으며, 작은 루비를 통해 바위과 건물에 원격으로 명령을 내립니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -11850,7 +11850,7 @@ msgstr "반지에서 타오르는 열기가 발산되어 착용자의 머리부�
 #: Public/GustavDev/RootTemplates/_merged.lsx:105978
 msgctxt "hec80c9afgf2a7g4922gb3b6g71ff82a82b81"
 msgid "Ring of Self Immolation"
-msgstr "분신 반지"
+msgstr "자기발화 반지"
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -12239,6 +12239,11 @@ msgid ""
 "\n"
 "He would never forget it. "
 msgstr ""
+"간드렐이 일곱 살일 때, 공개 화형을 당한 뱀파이어 스폰에 크게 겁먹었던 적이 있었습니다. 그 생명체는 불길에 사로잡혀 있었지만, "
+"쭈그러들지 않았습니다. 하지만 점점 부풀어 오르더니 짜내어진 거머리처럼 터져버렸고, 어린 간드렐의 신발에 잿빛 분홍색의 걸쭉한 뇌가 "
+"튀었습니다.\n"
+"\n"
+"간드렐은 절대 잊지 못할 것입니다. "
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -16588,7 +16593,7 @@ msgid ""
 "The point of the rapier is capable of splitting into heated barbs, should "
 "the wielder decide to prick themselves to activate them - sacrifice for "
 "reward. "
-msgstr ""
+msgstr "이 레이피어의 끝은 달아오른 가시로 갈라질 수 있으나, 발동시키기 위해선 사용자 또한 찔려야 합니다. 보상을 위한 희생이죠. "
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -21703,7 +21708,7 @@ msgstr "이 모닝스타의 뾰족한 가시 밑에 머리카락 한 뭉치가 �
 #: Public/Shared/RootTemplates/_merged.lsx:663439
 msgctxt "hf4cbdab5ga75bg461bg870cg95f7556f7c41"
 msgid "Dolor's Dagger"
-msgstr ""
+msgstr "돌로의 단검"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects

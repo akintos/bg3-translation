@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-12 09:37+0000\n"
-"Last-Translator: Favmir <nevirful@gmail.com>\n"
+"PO-Revision-Date: 2023-11-16 01:37+0000\n"
+"Last-Translator: 요하네스 <lowsdy1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -11899,7 +11899,7 @@ msgstr "혼란 구름"
 #: Public/Shared/RootTemplates/_merged.lsx:63134
 msgctxt "h13c56f7bgbac1g4af7g8092g249e911ef4d0"
 msgid "Crawler Mucus"
-msgstr ""
+msgstr "크롤러 점액"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -11913,6 +11913,8 @@ msgid ""
 "<LSTag Type=\"Status\" Tooltip=\"POISONED\">Poisons</LSTag> and <LSTag Type="
 "\"Status\" Tooltip=\"PARALYZED\">Paralyses</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"POISONED\">중독</LSTag>과 <LSTag Type=\"Status"
+"\" Tooltip=\"PARALYZED\">마비</LSTag>를 시킵니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -11984,6 +11986,8 @@ msgid ""
 "<LSTag Type=\"Status\" Tooltip=\"POISONED\">Poisons</LSTag> and <LSTag Type="
 "\"Status\" Tooltip=\"PARALYZED\">Paralyses</LSTag>."
 msgstr ""
+"<LSTag Type=\"Status\" Tooltip=\"POISONED\">중독</LSTag>과 <LSTag Type=\"Status"
+"\" Tooltip=\"PARALYZED\">마비</LSTag>를 시킵니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -12063,7 +12067,7 @@ msgstr "안쪽에 있는 크리쳐를 짙게 가리고 눈을 멀게 합니다."
 #: Public/Shared/RootTemplates/_merged.lsx:250323
 msgctxt "hef10d5e8g2144g4c57g9305g761c3ae6a028"
 msgid "Strange Gas"
-msgstr ""
+msgstr "이상한 가스"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -12075,7 +12079,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:250322
 msgctxt "h7b4b57aag961cg42a7g9679g447a529d3d69"
 msgid "A strange gas of githyanki origin."
-msgstr ""
+msgstr "기스양키에서 유래한 이상한 가스입니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -12139,7 +12143,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:550785
 msgctxt "h1c64f4dag1268g4c18gb0b1g470d752a1c0a"
 msgid "Hellfire"
-msgstr ""
+msgstr "지옥불"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -12152,6 +12156,8 @@ msgid ""
 "Deals 6d6 Fire damage per turn that ignores <LSTag Tooltip=\"Resistant\""
 ">Resistances</LSTag> and <LSTag Tooltip=\"Immune\">Immunities</LSTag>."
 msgstr ""
+"턴당 6d6 화염 피해를 가하며, <LSTag Tooltip=\"Resistant\">저항</LSTag>과 <LSTag Tooltip="
+"\"Immune\">면역</LSTag>을 무시합니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -12184,7 +12190,7 @@ msgstr "턴당 1d6 광휘 피해를 줍니다."
 #: Public/Shared/RootTemplates/_merged.lsx:550836
 msgctxt "hcf9cd425gafe8g476fgaf96ga90055bc5957"
 msgid "Ice Cloud"
-msgstr ""
+msgstr "얼음 구름"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -12195,7 +12201,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:550835
 msgctxt "hcd27bed5gdc28g4efbg95bag8c197986bf72"
 msgid "Deals 10d6 Cold damage per turn."
-msgstr ""
+msgstr "턴당 10d6 냉기 피해를 가합니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -14578,7 +14584,7 @@ msgstr "은으로 도금된 정교한 열쇠입니다."
 #: Public/GustavDev/RootTemplates/_merged.lsx:179349
 msgctxt "h80c2bd38g9423g4d6cgb1efg91621fc1d4f8"
 msgid "Tombstone Shop Key"
-msgstr ""
+msgstr "묘비 제작소 열쇠"
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -14589,7 +14595,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/_merged.lsx:179348
 msgctxt "hd7cb72bfg9600g48a5g9a83g828787efcc59"
 msgid "A key to the front door of Candulhallow's Tombstone Shop."
-msgstr ""
+msgstr "칸덜할로우의 묘비 제작소 정문을 열 수 있는 열쇠입니다."
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
