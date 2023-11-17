@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-16 01:37+0000\n"
-"Last-Translator: Monopic <dhin1213@gmail.com>\n"
+"PO-Revision-Date: 2023-11-17 04:37+0000\n"
+"Last-Translator: Favmir <nevirful@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2213,7 +2213,7 @@ msgstr "속성"
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4475
 msgctxt "h83fee0c7g1777g4fddga60dg6a31e2320de2"
 msgid "Type"
-msgstr "종류"
+msgstr "유형"
 
 #: Public/Game/GUI/Library/CharacterSheetTemplates_k.xaml:4760
 #: Public/Game/GUI/Widgets/Examine_c.xaml:601
@@ -6549,7 +6549,7 @@ msgstr "속이고 기만합니다. 진실을 조작합니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:5332
 msgctxt "h5d18a95bgbe59g4d35g83b3g720d74f4b1bb"
 msgid "to Deception <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "기만 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5339
 msgctxt "h5e849499g23bfg4e5dga9f3gb6ce36f9abc2"
@@ -6559,7 +6559,7 @@ msgstr "위협적인 존재가 됩니다. 협박하고 두려움을 심어줍니
 #: Public/Game/GUI/Library/Tooltips.xaml:5344
 msgctxt "hbb4b11fag38c1g4a50g8b68g311e8ff34997"
 msgid "to Intimidation <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "위협 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5351
 msgctxt "ha6c0ffb0g73ccg4435g9d7ag8a24ee90a849"
@@ -6570,7 +6570,7 @@ msgstr "관객들을 즐겁게 합니다. 무대를 지휘합니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:5476
 msgctxt "hed4f2ecfg1ee8g4015g9954g7efed806cbf8"
 msgid "to Performance <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "공연 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5363
 msgctxt "h3d5ecb16g20f8g4febgba03g41ae11b9ddf2"
@@ -6580,7 +6580,7 @@ msgstr "매력을 발산합니다. 구슬리고 부추깁니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:5368
 msgctxt "h114841e2gc52fg4ea3g985bgb85a03117ef5"
 msgid "to Persuasion <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "설득 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5375
 msgctxt "h241bfb0fgffa2g4ccega96fgb26da384ecf8"
@@ -6596,7 +6596,7 @@ msgstr ""
 #: Public/Game/GUI/Library/Tooltips.xaml:5380
 msgctxt "hb51313bbga377g42f2g99e9g68b7d51c64ff"
 msgid "to Acrobatics <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "곡예 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5387
 msgctxt "ha18e79b2g111ag441egb532g3ff79d4ba842"
@@ -6612,7 +6612,7 @@ msgstr ""
 #: Public/Game/GUI/Library/Tooltips.xaml:5392
 msgctxt "hf46b2617g8fd2g4c84g9ea3g90e35dbef93e"
 msgid "to Sleight Of Hand <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "손재주 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5399
 msgctxt "hb2487d1bga7a8g4a2dgb6a8g447842179f6d"
@@ -6628,7 +6628,7 @@ msgstr ""
 #: Public/Game/GUI/Library/Tooltips.xaml:5404
 msgctxt "h968f7f17gb2ecg4bd4ga96cgd708bebb38cd"
 msgid "to Stealth <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "은신 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5411
 msgctxt "hda75bbd8g5613g4f40g8b8dgb8d3f4f6855d"
@@ -6638,7 +6638,7 @@ msgstr "마법을 알아봅니다. 마법부여된 아이템과 상호작용합�
 #: Public/Game/GUI/Library/Tooltips.xaml:5416
 msgctxt "h0ba372fdge68bg40d6g94a2g43cb9c369eb4"
 msgid "to Arcana <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "비전 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5423
 msgctxt "ha31089eegb95fg44d8gb191g302341c0b57a"
@@ -6648,7 +6648,7 @@ msgstr "과거의 세계와 사람들을 기억합니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:5428
 msgctxt "h8c1259b2g1231g4b68g893ag1b2bc53cc7c5"
 msgid "to History <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "역사 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5435
 msgctxt "h2a7019efgfaf7g455fg8fd9g4b7c275fbbfa"
@@ -6658,7 +6658,7 @@ msgstr "단서를 분석합니다. 수수께끼를 풀어냅니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:5440
 msgctxt "h0e43523ag5ae7g4b17g8251g95f14a6d61a9"
 msgid "to Investigation <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "조사 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5447
 msgctxt "h94f2954eg8a71g49c9ga9bdg66b65a04a23c"
@@ -6668,7 +6668,7 @@ msgstr "식물과 동물을 식별합니다. 자연과 친해집니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:5452
 msgctxt "h5837aba1gf5f1g4eb2g8e4ag2ec040ec9264"
 msgid "to Nature <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "자연 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5459
 msgctxt "h3adc18e5gc8c3g459dgbe82gb27aca09da54"
@@ -6678,7 +6678,7 @@ msgstr "신격을 알아봅니다. 신성한 의식을 이해합니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:5464
 msgctxt "h538e17dbge0cag4c76gbc64g74fb4e2e42e7"
 msgid "to Religion <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "종교 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5471
 msgctxt "ha90cb8b6g3aa7g4b94ga7e3gfa0823672af1"
@@ -6699,7 +6699,7 @@ msgstr "동물에게 영향을 끼칩니다. 강아지를 잘 쓰다듬습니다
 #: Public/Game/GUI/Library/Tooltips.xaml:5488
 msgctxt "he9ae12d6gccc1g4c8dg8e74gdffd58287cdc"
 msgid "to Animal Handling <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "동물 조련 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5495
 msgctxt "h2eb576b5gc088g40e6gad9ag52751e1f9be7"
@@ -6709,7 +6709,7 @@ msgstr "사람과 상황을 읽어냅니다. 거짓말을 간파합니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:5500
 msgctxt "h09a5ea20g22abg4d9bgb914geece8bd371eb"
 msgid "to Insight <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "통찰 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5507
 msgctxt "h0eb7380bg4477g4d04ga797ge577e24aa856"
@@ -6719,7 +6719,7 @@ msgstr "증상을 판별합니다. 질병을 진찰합니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:5512
 msgctxt "h34dc74d6g8374g44b8g97b0gde4b69690f5a"
 msgid "to Medicine <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "의학 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5519
 msgctxt "h7896bd12g83b9g4058gbc2cg477ba13c728a"
@@ -6729,7 +6729,7 @@ msgstr "환경을 관찰합니다. 숨겨진 세부사항을 발견합니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:5524
 msgctxt "hffe5599agfcf2g496dga29cg493db6d1c9cf"
 msgid "to Perception <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "지각 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5531
 msgctxt "had65a34cg53b1g4d6ag86d2g04258e4ed338"
@@ -6739,7 +6739,7 @@ msgstr "야생에서도 살아남습니다. 사냥감을 추적합니다."
 #: Public/Game/GUI/Library/Tooltips.xaml:5536
 msgctxt "h33b37b3eg71efg4ef1g8318g3baa0f40c41a"
 msgid "to Survival <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "생존 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5547
 msgctxt "h6836c376g7c23g42fbgb5ceg5b1cbf054975"

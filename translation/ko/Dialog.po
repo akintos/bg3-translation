@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-16 01:37+0000\n"
-"Last-Translator: 요하네스 <lowsdy1@gmail.com>\n"
+"PO-Revision-Date: 2023-11-17 04:37+0000\n"
+"Last-Translator: Favmir <nevirful@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -700,10 +700,9 @@ msgstr "<i>크룰 오'즈하안 드루우카온 아르!</i>"
 #.      - NOT_MESSING_AROUND(0) = True
 #. TagRule: GOBLIN
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackHelp:da7940f2-0704-fc96-3265-6c9104886366
-#, fuzzy
 msgctxt "hdf865eacgfdb1g4c54g86edg7e2111f2d93d"
 msgid "Yah! To me!"
-msgstr "그러시겠지! 덤벼라!"
+msgstr "좋아! 덤벼라!"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackHelp
 #. Speaker = GROUP_Animals
@@ -894,7 +893,7 @@ msgstr "이제 됐어, 넌 끝이다! 전투 준비!"
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackHelp:fb2cb8f6-5dc0-995d-49a5-da063b4148d5
 msgctxt "h84a7d189g4951g4fafg8559g0544c8732210"
 msgid "It ends NOW. To me!"
-msgstr "이젠 <b>진짜 끝</b> 이다. 덤벼!"
+msgstr "이젠 끝이다! 덤벼라!"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackHelp
 #. Speaker = GROUP_Animals
@@ -916,10 +915,9 @@ msgstr "너같은 골칫덩이에게 인내는 사치지! 덤벼라!"
 #.   Tag:
 #.      - BADASSCIVILIAN(0) = True
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackHelp:fb2cb8f6-5dc0-995d-49a5-da063b4148d5
-#, fuzzy
 msgctxt "h540f72eag8714g4c23g872agaf9025b01a48"
 msgid "Wrong move! To arms!"
-msgstr "실수했군! 전투준비!"
+msgstr "실수했군! 전투 준비!"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackHelp
 #. Speaker = GROUP_Animals
@@ -956,7 +954,7 @@ msgstr "<b>이젠</b> 끝이다! 전투준비!"
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackHelp:fb2cb8f6-5dc0-995d-49a5-da063b4148d5
 msgctxt "hdef24c35gc8e9g4016gb0edg0331ddb63196"
 msgid "All right - let's get this over with! To arms!"
-msgstr "좋아, 이제 그만 끝장내보자고! 전투준비!"
+msgstr "좋아, 이제 끝을 내자! 전투 준비!"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Attack_Assault_Construct
 #. Speaker = GROUP_Constructs
@@ -1038,7 +1036,7 @@ msgstr "\"우르릉\""
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Attack_GuardKiller:b38f492d-5c27-a0b9-755f-89d9c7f00775
 msgctxt "h378f11e0g9bbfg4010ga1d4gb4986becac1c"
 msgid "There's the killer!"
-msgstr "저기다! 살인자다!"
+msgstr "저기 살인자다!"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Attack_GuardKiller
 #. Speaker = GROUP_Guards
@@ -1067,10 +1065,9 @@ msgstr "도망칠 수 있을 거라 생각했나?"
 #. HandlePath = TaggedText[1].TagText[0]
 #. TagRule: AGGRESSIVE_GUARD
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Attack_GuardKiller:b38f492d-5c27-a0b9-755f-89d9c7f00775
-#, fuzzy
 msgctxt "h56ef57dagfc8bg434bgb542gbab83ce11241"
 msgid "Time to die!"
-msgstr "죽을 시간이다!"
+msgstr "이제 죽어라!"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_Attack_GuardKiller
 #. Speaker = GROUP_Guards
@@ -1108,7 +1105,7 @@ msgstr "날 죽이면 넌 <i>개</i>처럼 사냥당할 거다."
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackedGuardInCombat:50930a8a-6b82-f8f5-8baf-4bae15c0809b
 msgctxt "h2e3ee6b4g3c00g41fegb9fdgf3cbd2520bfa"
 msgid "Stand down - or face the consequences."
-msgstr "물러서지 않으면 대가를 치르게 해 주마."
+msgstr "물러서지 않으면 대가를 치를 것이다."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackedGuardInCombat
 #. Speaker = GROUP_Guards
@@ -1117,7 +1114,7 @@ msgstr "물러서지 않으면 대가를 치르게 해 주마."
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_AttackedGuardInCombat:50930a8a-6b82-f8f5-8baf-4bae15c0809b
 msgctxt "h3513f7cdg60afg4887g8400g5a9f193c3c4d"
 msgid "Stop this! Or my friends won't rest until they avenge me."
-msgstr "그만해! 내 친구들은 나의 복수를 하기 전까지 쉬지 않을 거야."
+msgstr "그만둬! 내 동료들은 끝까지 내 복수를 할 거야."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_CallForHelp
 #. Speaker = GROUP_Animals
@@ -1144,7 +1141,7 @@ msgstr "누가 좀 도와줘?!"
 #: Mods/Shared/Story/Dialogs/Crimes/GEB_AD_CallForHelp:14c52679-2cbf-491e-ad99-2ed534d8126f
 msgctxt "h8f12e803ge605g46fag8066g66b0658b03f6"
 msgid "Help - over here!"
-msgstr "도와줘. 여기야!"
+msgstr "도와줘! 여기야!"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/GEB_AD_CallForHelp
 #. Speaker = GROUP_Animals
@@ -24252,7 +24249,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/END_GatherYourAllies_AD_GuardHousePlaque:7065eaba-7888-f169-440a-7ea4f0abafbc
 msgctxt "h6b023828g95f7g4300ga54dg8bf9c6a2a541"
 msgid "*Watch Citadel, home to the protectors of Baldur's Gate.*"
-msgstr "*와치 시타델, 발더스 게이트의 수호자들의 고향이죠.*"
+msgstr "*워치 시타델, 발더스 게이트의 수호자들의 고향이죠.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/HAV_LastLightInn_AD_Inn_Blackboard2
 #. Speaker = Narrator
@@ -26060,7 +26057,7 @@ msgctxt "ha240d014g316bg4612gb070g5e8e4b816cde"
 msgid ""
 "*A broken Steel Watcher. A tag wired to it reads, 'Unit defective - return "
 "to the Steel Watch Foundry at the West Docks.'*"
-msgstr "*파괴된 스틸 워치. 연결된 태그에는 '유닛 결함 - 서쪽 부두의 스틸 워치 주조창으로 반환 요망'이라고 적혀 있습니다.*"
+msgstr "*파괴된 스틸 워치. 연결된 태그에는 '유닛 결함 - 서쪽 부두의 스틸 워치 주조소로 반환 요망'이라고 적혀 있습니다.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_SteelWatchFoundry_AD_CompleteSteelWatcher
 #. Speaker = Narrator
@@ -26073,7 +26070,7 @@ msgid ""
 "proudest achievement of the Foundry, and a tribute to the untiring efforts "
 "of the Banite overseers!*"
 msgstr ""
-"*여기, 전원을 넣지 않은 완성된 스틸 워치의 시제품이 굳건히 서 있습니다. 주조창의 가장 자랑스러운 업적이자 지칠 줄 모르는 베인 "
+"*여기, 전원을 넣지 않은 완성된 스틸 워치의 시제품이 굳건히 서 있습니다. 주조소의 가장 자랑스러운 업적이자 지칠 줄 모르는 베인 "
 "감독들에 대한 경외, 그 자체입니다!*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_SteelWatchFoundry_AD_FacilityTourPreparations
@@ -26095,7 +26092,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_SteelWatchFoundry_AD_FoundryWarning1:860ad045-273e-a7dd-659d-43b5f60c55f7
 msgctxt "hcc5a5a16g100ag4a29g8a63gd33e0d47ff1e"
 msgid "*Steel Watch Foundry - Entry Prohibited! By order of Lord Gortash.*"
-msgstr "*스틸 워치 주조창 - 출입 엄금! 군주 고타쉬의 명령에 의함.*"
+msgstr "*스틸 워치 주조소 - 출입 엄금! 군주 고타쉬의 명령에 의함.*"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/GeneratedNarratorADs/LOW_SteelWatchFoundry_AD_FoundryWarning2
 #. Speaker = Narrator
@@ -43851,7 +43848,7 @@ msgctxt "hf4bfd2d1g8e1dg4094g9915g48fa4ba30a3e"
 msgid ""
 "*The trader has no problem with you inspecting these goods, so long as "
 "you're willing to pay for them.*"
-msgstr "*상인은 당신이 이 물건들에 대해 돈을 지불할 의향이 있다면 물건을 둘러봐도 좋다고 허락했습니다.*"
+msgstr "*상인은 당신이 돈을 지불하기만 한다면 이 물건을 마음껏 봐도 좋다고 합니다.*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NGB_BuyFromTrader
 #. Speaker = Narrator
@@ -43865,7 +43862,7 @@ msgctxt "h31797e97g7890g4914g8621gcba43f0a463d"
 msgid ""
 "*The trader has no interest in selling that particular item, though you are "
 "welcome to purchase something else.*"
-msgstr "*상인에게는 그 아이템을 판매할 생각이 없지만, 당신이 다른 무언가를 구매하는 것은 환영합니다.*"
+msgstr "*상인은 그 물건은 판매할 생각이 없지만, 당신이 다른 무언가를 구매하는 것은 환영합니다.*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NGB_BuyFromTrader
 #. Speaker = Narrator
@@ -43916,7 +43913,7 @@ msgctxt "h8f74567fg7545g4260gbe8cg4f76065b892e"
 msgid ""
 "*This individual doesn't seem particularly fond of you. Perhaps a gift would "
 "improve their sentiment.*"
-msgstr "*상대는 당신에 대한 개인적인 우호감이 없는 듯 합니다. 아마 선물을 통해 상대의 감정을 개선할 수 있을 겁니다.*"
+msgstr "*상대는 당신이 딱히 마음에 들지는 않는 듯 합니다. 아마 선물을 통해 상대의 감정을 개선할 수 있을 겁니다.*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NGB_Default_Hostile
 #. Speaker = Narrator

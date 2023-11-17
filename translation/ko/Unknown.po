@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-16 01:37+0000\n"
-"Last-Translator: 요하네스 <lowsdy1@gmail.com>\n"
+"PO-Revision-Date: 2023-11-17 04:37+0000\n"
+"Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1617,7 +1617,7 @@ msgctxt "h3f68ab26g8c68g4716g8a32g8dd3e086ec2f"
 msgid ""
 "When enabled, you have to hold the button to enable \"Active Search\" [2] "
 "seconds instead of the standard [1] seconds."
-msgstr "활성화하면, 기본 [1] 초가 아닌 [2] 초 동안 \"주변 탐색\"을 하려면 버튼을 길게 눌러야 되는 걸로 설정합니다."
+msgstr "활성화하면, 기본 [1] 초가 아닌 [2] 초 동안 버튼을 누르고 있어야 \"주변 탐색\"을 발동합니다."
 
 msgctxt "h3f741839g5963g477bg91d6g5c35c17bf464"
 msgid "Core D&D Ruleset"
@@ -2049,11 +2049,11 @@ msgctxt "h4cd2f255g44cag4f31g8c07gecb6d105ceea"
 msgid ""
 "Are you sure? Proceeding will delete all the saves of this campaign, except "
 "save game \"[1]\"."
-msgstr ""
+msgstr "확실합니까? 계속 진행하면 저장된 \"[1]\" 게임을 제외한 이 캠페인의 모든 저장이 삭제됩니다."
 
 msgctxt "h4ce107a2g0f97g4140g9034ga5d72a4270d8"
 msgid "Class Resource"
-msgstr ""
+msgstr "클래스 자원"
 
 #, fuzzy
 msgctxt "h4cf8d62dg5fb2g487cga993g93b273cfaf51"
@@ -2062,11 +2062,11 @@ msgstr "주문 자동 추가"
 
 msgctxt "h4d8c07c9g2d2eg4753g8229ge38dcd4c14dd"
 msgid "Rotate Camera"
-msgstr ""
+msgstr "카메라 회전"
 
 msgctxt "h4e3abbadgd756g49f6g8fbdg239c64bb51d0"
 msgid "[1] against [2]."
-msgstr ""
+msgstr "[1]: [2]에 대항."
 
 msgctxt "h4e3eb4bdg5df8g4319g9ebfgd6324f6565c7"
 msgid "Weapon Proficiency"
@@ -2074,11 +2074,11 @@ msgstr "무기 숙련"
 
 msgctxt "h4e5fb9e2g5df2g4c08gaaabgbae0a0b47413"
 msgid "Manage"
-msgstr ""
+msgstr "관리"
 
 msgctxt "h4e824292gdd7bg4f25g8abbgea7db84a75fd"
 msgid "You've received a useful companion."
-msgstr ""
+msgstr "유용한 동료를 얻었습니다."
 
 msgctxt "h4eb283f1gbfddg4fdcgb417g84f28d5ae29b"
 msgid "Cold Damage"
@@ -2111,11 +2111,11 @@ msgstr "균형 맞추기"
 
 msgctxt "h4f9d4a77ga354g4bc4ga875gfcc82d2fdc90"
 msgid "UI Hot Bar Next"
-msgstr ""
+msgstr "UI 단축바 다음"
 
 msgctxt "h4fbbdf25g1ad3g4f18g8d18g6d7f319a8a02"
 msgid "Debug View: Deselect"
-msgstr ""
+msgstr "디버그 보기: 선택 취소"
 
 msgctxt "h50138312g6af0g4737gbea0g1c9a20c975f8"
 msgid "Colour-Blind Mode"
@@ -2123,11 +2123,12 @@ msgstr "색약 모드"
 
 msgctxt "h5061ac31ga861g4f56g8debg5544f103c9e9"
 msgid "Condition Type: Charmed"
-msgstr ""
+msgstr "상태: 매혹"
 
+#, fuzzy
 msgctxt "h50b19d40g6644g4a0fgaaa8geedf4feef9cf"
 msgid "full"
-msgstr ""
+msgstr "가득 참"
 
 msgctxt "h517db734g3a11g4331g9034g697e40614a9b"
 msgid ""
@@ -2145,10 +2146,12 @@ msgid ""
 "wearing armour. This is 10 + your Dexterity <LSTag Tooltip=\"AbilityModifier"
 "\">Modifier</LSTag>."
 msgstr ""
+"갑옷을 입지 않았을 때의 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag> 입니다. 10 + 민첩 <LSTag "
+"Tooltip=\"AbilityModifier\">수정치</LSTag>만큼 입니다."
 
 msgctxt "h5205f21bgd493g49a8g977dga75c8ca772fe"
 msgid "An error occurred during transfer. "
-msgstr ""
+msgstr "전송 중 오류가 발생했습니다. "
 
 #, fuzzy
 msgctxt "h52103f4bga860g4afeg8cefgefede098fc9d"
@@ -2157,7 +2160,7 @@ msgstr "무장 해제 도구를 이용해 함정을 무력화합니다."
 
 msgctxt "h52329428gb3cdg4ed1g9a51ge49c550a0dbc"
 msgid "[1] [2]"
-msgstr ""
+msgstr "[1] [2]"
 
 msgctxt "h523dbeb2g26fag45b7gaca3gabeb09302e02"
 msgid "UI Toggle Equipment"
@@ -2169,7 +2172,7 @@ msgstr ""
 
 msgctxt "h526eaafagc3d8g4ba6gad6cgc77fb5b95d87"
 msgid "Longer Active Search Hold"
-msgstr "주변 탐색 길게 유지"
+msgstr "주변 탐색 더 길게 누르기"
 
 msgctxt "h52747f85g1319g42c0gae13ge416498d7caa"
 msgid ""
@@ -4717,7 +4720,7 @@ msgstr ""
 
 msgctxt "hb4da6a16g24a7g4d39g8e71g09bb80781f5b"
 msgid "Healing"
-msgstr ""
+msgstr "치유"
 
 msgctxt "hb4f22f97gac61g4593gab8ag6ea0d081f59d"
 msgid "All Hair Colours"
@@ -4887,7 +4890,7 @@ msgstr "..."
 
 msgctxt "hbf602360g6cc3g48d8g855bg2f9add3d61be"
 msgid "<LSTag Type=\\\"Image\\\" Info=\\\"Prone\\\"/>Prone "
-msgstr ""
+msgstr "<LSTag Type=\\\"Image\\\" Info=\\\"Prone\\\"/>엎어짐 "
 
 msgctxt "hbfcdd348gb011g406dga7b8gff59908d3333"
 msgid "There are no statuses on this character"
@@ -4946,10 +4949,9 @@ msgid ""
 "This ruleset will grant you an experience closer to the tabletop version."
 msgstr ""
 
-#, fuzzy
 msgctxt "hc267c7bfg103eg4331gba05g1703604ebedb"
 msgid "Level"
-msgstr "파티 레벨"
+msgstr "레벨"
 
 msgctxt "hc28bb334g2a51g489fg8172g51aa87708f43"
 msgid "[1]% chance to vaporise ground surfaces into cloud surfaces."
@@ -4993,15 +4995,15 @@ msgstr "역장"
 
 msgctxt "hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_14"
 msgid "Weapon"
-msgstr ""
+msgstr "무기"
 
 msgctxt "hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_15"
 msgid "Spell"
-msgstr ""
+msgstr "주문"
 
 msgctxt "hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_16"
 msgid "Healing"
-msgstr ""
+msgstr "치유"
 
 msgctxt "hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_2"
 msgid "Piercing"
@@ -5029,7 +5031,7 @@ msgstr "화염"
 
 msgctxt "hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_8"
 msgid "Lightning"
-msgstr ""
+msgstr "번개"
 
 msgctxt "hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_9"
 msgid "Cold"
@@ -5043,7 +5045,7 @@ msgstr "다른 플레이어의 대화 장면을 자동으로 듣도록 해 줍�
 
 msgctxt "hc3e2d7e9g2945g41c0ga434g287939ff34ac"
 msgid "Armour Class [1]"
-msgstr ""
+msgstr "방어도 [1]"
 
 msgctxt "hc400c96fg06a0g4465ga952gef57bbcc7dff"
 msgid "Lock access for other players"
@@ -5059,7 +5061,7 @@ msgstr ""
 
 msgctxt "hc4cbc7bcg3413g42a4g83f8g3379dc6a4e08"
 msgid "to Athletics <LSTag Tooltip=\"SkillCheck\">Checks</LSTag>"
-msgstr ""
+msgstr "운동 <LSTag Tooltip=\"SkillCheck\">판정</LSTag>"
 
 msgctxt "hc4ce34a6g5b70g43e1g801cgc36e8ae4163c"
 msgid "[1]% chance to douse fires in a radius of [2]m"
@@ -5685,11 +5687,11 @@ msgstr "어둠 속에서 제한된 범위까지 볼 수 있습니다."
 
 msgctxt "he3339785g14a4g410ega095gf2ccb58a31a7"
 msgid "Teleport Party"
-msgstr ""
+msgstr "파티 순간이동"
 
 msgctxt "he35e068fgf63bg4921gb7e9g9cdbf104aa05"
 msgid "Toggle Helmet Visibility"
-msgstr ""
+msgstr "투구 보이기 토글"
 
 msgctxt "he3984e57gf0b5g4a00g8feagb1cf74d23e64"
 msgid "The weight of a container and its contents."
@@ -5701,7 +5703,7 @@ msgstr ""
 
 msgctxt "he4acf6a5gd317g410fgada7gddc109ec2f5b"
 msgid "Skill Check"
-msgstr ""
+msgstr "기술 판정"
 
 msgctxt "he59bf81fg69b7g406bgaf49g0db4478f75ac"
 msgid "Make peace"
