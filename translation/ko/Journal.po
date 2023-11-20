@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-19 14:37+0000\n"
+"PO-Revision-Date: 2023-11-20 15:37+0000\n"
 "Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -35474,7 +35474,7 @@ msgstr "길드회관으로 가자."
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:44942
 msgctxt "h28f9207bg243fg4c6bgbe58g1d1cb06f51cd"
 msgid "Stop the Presses"
-msgstr ""
+msgstr "출판 중지"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35487,6 +35487,7 @@ msgid ""
 "Ettvard Needle has written an article for the next Baldur's Mouth edition "
 "that will ruin our reputation. We must stop it from printing."
 msgstr ""
+"에트바드 니들은 발더스 마우스 다음 호를 위한 기사 하나를 썼다. 그 내용은 우리의 명성을 망칠 것이다. 인쇄를 중지시켜야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -35496,7 +35497,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:4752
 msgctxt "h06196feeg4419g449dgbd15gf53d58568a29"
 msgid "Stop the Baldur's Mouth Gazette printing slander."
-msgstr ""
+msgstr "발더스 마우스 신문이 명예를 훼손하는 내용을 인쇄하는 것을 멈춰라."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35508,7 +35509,7 @@ msgctxt "h23ecdf8dg0a91g4ca8g9529g759c1fa0c467"
 msgid ""
 "We found a test printing of tomorrow's article about us - it'll be "
 "disastrous for our reputation. We need to stop it printing. "
-msgstr ""
+msgstr "우리에 대한 내일자 기사가 시험 인쇄된 것을 발견했다. 우리 평판에 재앙이 될 것이다. 인쇄를 중단시켜야 한다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35522,6 +35523,8 @@ msgid ""
 "which headline article is printed in tomorrow's edition. To save our "
 "reputation, we should do just that."
 msgstr ""
+"발더스 마우스 인쇄기를 찾았고, 내일 신문에 실릴 헤드라인을 바꿀 수 있을 것 같다. 우리의 명성을 지키기 위해서는, 그렇게 하는 게 "
+"좋겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35535,6 +35538,8 @@ msgid ""
 "press, who'll swap tomorrow's headline article for us. We just need to find "
 "a replacement article. "
 msgstr ""
+"우리는 젤리위그와 친구가 되었다. 젤리위그는 발더스 마우스 인쇄소 안에 사는 페이 종족이며, 우리를 위해 내일자 헤드라인 기사를 바꿔치기 "
+"할 것이다. 우리는 단지 바꿔치기 할 기사만 찾으면 된다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35548,6 +35553,8 @@ msgid ""
 "us. If we find the printing press, perhaps we can get it published in place "
 "of the planned hit-piece."
 msgstr ""
+"발더스 마우스 건물에 버려진 기사 하나가 우리에 대해 긍정적으로 다뤘다. 인쇄기를 찾으면, 계획된 흠집내기 기사 대신에 이걸로 출판할 수 "
+"있을 것 같다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35559,7 +35566,7 @@ msgctxt "h26d428d1g3ecfg44fega2a5g8c409b190ba9"
 msgid ""
 "We found a positive headline about us to load into the printer - we just "
 "need to figure out how."
-msgstr ""
+msgstr "인쇄기에 밀어 넣을, 우리에게 호의적인 헤드라인을 찾았다. 어떻게 밀어 넣는지만 알면 된다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -35569,7 +35576,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:4758
 msgctxt "h279e2909g1131g4b66g9bddg48d12f72d153"
 msgid "Print a puff piece in the next broadsheet."
-msgstr ""
+msgstr "신문의 다음호에 찬양 기사를 인쇄하자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -35592,7 +35599,7 @@ msgctxt "h5571aaf8gc796g4f19ga79fg0c10f0d394bd"
 msgid ""
 "We found a positive headline about us for Jelliwig to load into tomorrow's "
 "edition before it prints."
-msgstr ""
+msgstr "우리에 대해 긍정적인 헤드라인 하나를 찾았고, 젤리위그가 내일 판본을 인쇄하기 전에 이 기사를 밀어 넣을 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35606,6 +35613,8 @@ msgid ""
 "Baldur's Mouth building. Tomorrow's paper should no longer damage our "
 "reputation. "
 msgstr ""
+"우리는 부정적인 헤드라인을 발더스 마우스 건물에서 찾은 다른 헤드라인으로 바꿔치기 했다. 이제는 내일 나올 신문이 우리의 평판을 "
+"손상시키지 않을 것이다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -35615,7 +35624,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:4769
 msgctxt "h6e5099ecg501bg470ega4ccg0bf07d7f5261"
 msgid "Check the next edition of the Baldur's Mouth Gazette."
-msgstr ""
+msgstr "발더스 마우스 신문의 다음 호를 확인하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35627,7 +35636,7 @@ msgctxt "h5c40697dg3eedg416dgb956g49f52bdcc36f"
 msgid ""
 "We didn't stop the negative headline printing - and our reputation around "
 "the city is in tatters."
-msgstr ""
+msgstr "부정적인 헤드라인이 인쇄되는 것을 막지 못했다. 그래서 도시에서의 우리의 평판은 너덜너덜해졌다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35639,7 +35648,7 @@ msgctxt "h3254c7aeg46e9g49a5gaa0bga4c1e728ac6e"
 msgid ""
 "We destroyed the Baldur's Mouth printing press - preventing the negative "
 "headline about us from being printed. "
-msgstr ""
+msgstr "발더스 마우스의 인쇄기를 파괴했다. 이것으로 우리에 대한 부정적인 기사가 실리지 않게 됐다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35652,6 +35661,7 @@ msgid ""
 "Ettvard threatened to ruin our reputation, so we ruined him. Today's paper "
 "should instead cover his demise. "
 msgstr ""
+"에트바드가 우리의 명성을 망치겠다고 협박했다. 그래서 우리가 그를 망쳤다. 오늘 신문의 표지는 그의 사망으로 대신 장식될 것이다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35663,7 +35673,7 @@ msgctxt "hdeaaac8eg629cg4143gbb59gb9e84f349d0b"
 msgid ""
 "The Baldur's Mouth headlines should be singing our praises - we should see "
 "if the city's populace noticed. "
-msgstr ""
+msgstr "발더스 마우스의 헤드라인은 우리를 칭송하고 있겠지만, 도시의 대중들도 주목하고 있는지 살펴봐야 한다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -35675,7 +35685,7 @@ msgctxt "h9dad7819gb56bg481agac67g9dffa125c127"
 msgid ""
 "The Baldur's Mouth headlines won't be mentioning us at all now - leaving our "
 "reputation intact. "
-msgstr ""
+msgstr "이제 발더스 마우스의 헤드라인에서 우리를 전혀 언급하지 않을 것이며, 우리의 명성은 그대로 유지될 것이다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
