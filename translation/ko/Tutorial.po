@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-17 04:37+0000\n"
-"Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
+"PO-Revision-Date: 2023-11-22 14:37+0000\n"
+"Last-Translator: 요하네스 <lowsdy1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3299,8 +3299,8 @@ msgid ""
 "Your friend's avatar will remain in your party when they're offline. You can "
 "dismiss them by talking to them and selecting the option to wait in camp."
 msgstr ""
-"동료의 아바타는 동료가 오프라인 상태일 경우 파티에 남아 있을 것입니다. 아바타에 말을 걸어 캠프에서 대기하기를 선택하면 파티에서 해제할 "
-"수 있습니다."
+"동료의 아바타는 동료가 오프라인 상태일 경우 파티에 남아 있을 것입니다. 아바타에 말을 걸어 야영지에서 대기하기를 선택하면 파티에서 "
+"해제할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3318,10 +3318,10 @@ msgid ""
 "if there is any. Only when there is no unclaimed avatar will they be able to "
 "create a new one."
 msgstr ""
-"동료의 아바타는 동료가 오프라인 상태일 경우 파티에 남아 있을 것입니다. 아바타에 말을 걸어 캠프에서 대기하기를 선택하면 파티에서 해제할 "
-"수 있습니다. 일정한 제한은 있습니다. 오리진 캐릭터가 아닌 커스텀 아바타만 해제 할 수 있고, 캠프에서만 해제할 수 있습니다. 캠프에서 "
-"위더스의 고집불통 친구들을 위한 옷장을 통해 다시 아바타를 데려 올 수 있습니다. 나중에 동료가 게임에 참가하는 경우, 해제된 아바타가 "
-"있다면 그 아바타가 배정될 것입니다. 해제된 상태인 아바타가 없을 경우에만 새로운 아바타를 생성 할 수 있습니다."
+"동료의 아바타는 동료가 오프라인 상태일 경우 파티에 남아 있을 것입니다. 아바타에 말을 걸어 야영지에서 대기하기를 선택하면 파티에서 "
+"해제할 수 있습니다. 일정한 제한은 있습니다. 오리진 캐릭터가 아닌 커스텀 아바타만 해제 할 수 있고, 야영지에서만 해제할 수 있습니다. "
+"야영지에서 위더스의 고집불통 친구들을 위한 옷장을 통해 다시 아바타를 데려 올 수 있습니다. 나중에 동료가 게임에 참가하는 경우, 해제된 "
+"아바타가 있다면 그 아바타가 배정될 것입니다. 해제된 상태인 아바타가 없을 경우에만 새로운 아바타를 생성 할 수 있습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3459,13 +3459,13 @@ msgstr ""
 #. HandlePath = ControllerDescription
 #. TutorialName = Enemy Sightlines
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:466
-#, fuzzy
-#| msgid "Avoid enemy sightlines while sneaking to remain Hidden."
 msgctxt "hd27f5021g9260g4862gb777gb967391458d1"
 msgid ""
 "Avoid enemy sightlines (highlighted in red) while sneaking to remain Hidden. "
 "Heavily highlighted red areas will immediately reveal your position."
-msgstr "계속 숨어 있으려면 적의 시야를 피하십시오."
+msgstr ""
+"계속 숨어 있으려면 붉은 색으로 표시되는 적의 시야를 피하십시오. 짙은 붉은 색으로 표시되는 시야 구역 안에 들어갈 경우 즉시 위치가 "
+"발각됩니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -3515,13 +3515,13 @@ msgstr "적 시야"
 #. HandlePath = KeyboardDescription
 #. TutorialName = Enemy Sightlines
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:471
-#, fuzzy
-#| msgid "Avoid enemy sightlines while sneaking to remain Hidden."
 msgctxt "h307bdee7g75fag4f32g9634g457146bbef54"
 msgid ""
 "Avoid enemy sightlines (highlighted in red) while sneaking to remain Hidden. "
 "Heavily highlighted red areas will immediately reveal your position."
-msgstr "계속 숨어 있으려면 적의 시야를 피하십시오."
+msgstr ""
+"계속 숨어 있으려면 붉은 색으로 표시되는 적의 시야를 피하십시오. 짙은 붉은 색으로 표시되는 시야 구역 안에 들어갈 경우 즉시 위치가 "
+"발각됩니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6890,16 +6890,6 @@ msgstr ""
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Turn Based Mode
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1127
-#, fuzzy
-#| msgid ""
-#| "Turn Based Mode pauses the world around you, breaking down time into rounds "
-#| "of 6 seconds each - helpful for avoiding traps or sneaking past enemies. In "
-#| "Turn Based Mode your characters all act and move on the same turn, after "
-#| "which everything else in the world acts (including traps, surfaces, and "
-#| "other creatures). You can toggle in and out of turn based mode at any time.\n"
-#| "\n"
-#| "[IE_ToggleManualTurnBasedMode] Toggle Turn Based Mode\n"
-#| "[IE_UIEndTurn] End turn "
 msgctxt "he23afa99gcd6fg409ag80a4g3fea183c816a"
 msgid ""
 "Turn-Based Mode pauses the world around you, breaking down time into rounds "
@@ -6946,16 +6936,6 @@ msgstr ""
 #. HandlePath = KeyboardJournalDescription
 #. TutorialName = Turn Based Mode
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1131
-#, fuzzy
-#| msgid ""
-#| "Turn Based Mode pauses the world around you, breaking down time into rounds "
-#| "of 6 seconds each - helpful for avoiding traps or sneaking past enemies. In "
-#| "Turn Based Mode your characters all act and move on the same turn, after "
-#| "which everything else in the world acts (including traps, surfaces, and "
-#| "other creatures). You can toggle in and out of turn based mode at any time.\n"
-#| "\n"
-#| "[IE_UIEnterTurnBased] Toggle Turn Based Mode\n"
-#| "<LSTag Type=\"Image\" Info=\"TutorialEndTurn\"/> End turn "
 msgctxt "h1d176aa3g5f80g43a1gadfdg04f839e0f609"
 msgid ""
 "Turn-Based Mode pauses the world around you, breaking down time into rounds "
@@ -8599,7 +8579,7 @@ msgstr "대상 전환"
 msgctxt "h0da279b5gca2dg4574gaa1fgd881084dd5bd"
 msgid ""
 "You can search the area around you and open a list of all nearby items. "
-msgstr ""
+msgstr "주위 지역을 탐색하여 가까이 있는 아이템 전체의 목록을 열 수 있습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8639,7 +8619,7 @@ msgctxt "hcada17b4g58adg4df9g8ef2ge3103988b031"
 msgid ""
 "You have less acute control over your followers and summons than your main "
 "party. Change to a party member for object interactions."
-msgstr ""
+msgstr "추종자와 소환수는 핵심 파티원과 다르게 제한적인 조작만 할 수 있습니다. 주변 사물과 상호작용하려면 파티원을 선택하세요."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8648,7 +8628,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1520
 msgctxt "h9d2806ffg356cg406fgb718g2c17cdaf2115"
 msgid "[IE_PartyManagement] Switch character"
-msgstr ""
+msgstr "[IE_PartyManagement] 캐릭터 전환"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8657,7 +8637,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1521
 msgctxt "ha24f724cgfa24g40f8ga310ged8ee100e4d8"
 msgid "Follower Interactions"
-msgstr ""
+msgstr "추종자 상호작용"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8668,7 +8648,7 @@ msgctxt "hc1f7d5bbgd774g43b1gbce8ge2fff25fcd6a"
 msgid ""
 "You have less acute control over your followers and summons than your main "
 "party. Change to a party member for object interactions."
-msgstr ""
+msgstr "추종자와 소환수는 핵심 파티원과 다르게 제한적인 조작만 할 수 있습니다. 주변 사물과 상호작용하려면 파티원을 선택하세요."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8677,7 +8657,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1524
 msgctxt "h66db8772gfeffg4224g82fbg806bb94855c8"
 msgid "[IE_CycleCharactersNext] [IE_CycleCharactersPrev] Change characters"
-msgstr ""
+msgstr "[IE_CycleCharactersNext] [IE_CycleCharactersPrev] 캐릭터 변경"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8779,6 +8759,10 @@ msgid ""
 "\n"
 "[IE_ToggleInGameMenu] Open Journal"
 msgstr ""
+"일지는 진행 중인 당신의 모험을 기록합니다. 지금까지 누구를 도왔으며, 어디를 갔으며, 이제 어디로 가야 하는지 적습니다. 만약 정확한 "
+"목적지가 있다면 지도에 마커로 표시됩니다. 대화 기록 창을 통해서 지금까지 나눈 모든 대화 내용도 다시 볼 수 있습니다.\n"
+"\n"
+"[IE_ToggleInGameMenu] 일지 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8823,6 +8807,10 @@ msgid ""
 "\n"
 "[IE_ToggleJournal] Open Journal"
 msgstr ""
+"일지는 진행 중인 당신의 모험을 기록합니다. 지금까지 누구를 도왔으며, 어디를 갔으며, 이제 어디로 가야 하는지 적습니다. 만약 정확한 "
+"목적지가 있다면 지도에 마커로 표시됩니다. 대화 기록 창을 통해서 지금까지 나눈 모든 대화 내용도 다시 볼 수 있습니다.\n"
+"\n"
+"[IE_ToggleJournal] 일지 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9890,6 +9878,8 @@ msgid ""
 "You will have Disadvantage on ranged attacks made in <LSTag Type=\"Image\" "
 "Info=\"TutorialStealthShadow\"/> dark areas unless you have Darkvision."
 msgstr ""
+"암흑시야가 없을 시 <LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/>어두운 곳에서 원거리 "
+"공격을 하면 불리점을 받습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9914,6 +9904,10 @@ msgid ""
 "\n"
 "<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/> Indicates dark areas."
 msgstr ""
+"크리쳐가 <LSTag Type=\"Passive\" Tooltip=\"Darkvision\">암흑시야</LSTag>가 없는 한, 어둠 "
+"속에서 원거리 공격을 하면<LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 받습니다.\n"
+"\n"
+"<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/> 어두운 영역을 나타냅니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9922,7 +9916,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1831
 msgctxt "h7065c464g823ag4dd4ga53dgce14d8aea35e"
 msgid "Ranged Attacks in Darkness"
-msgstr ""
+msgstr "어둠 속에서 원거리 공격"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9933,7 +9927,7 @@ msgctxt "h3d80537fgf7a0g4427g8315gf658dae63dfa"
 msgid ""
 "You will have Disadvantage on ranged attacks made in dark areas unless you "
 "have Darkvision."
-msgstr ""
+msgstr "암흑시야가 없을 시 어두운 곳에서 원거리 공격을 하면 불리점을 받습니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9943,7 +9937,7 @@ msgstr ""
 msgctxt "h4126da6eg09d3g4f2ag877bg73ab010778a3"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/> Indicates dark areas"
-msgstr ""
+msgstr "<LSTag Type=\"Image\" Info=\"TutorialStealthShadow\"/> 어두운 영역 표시"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9986,6 +9980,9 @@ msgid ""
 "attack while <LSTag Type=\"Status\" Tooltip=\"FLANKED\">Threatened</LSTag> "
 "in melee."
 msgstr ""
+"무기 사거리 밖에 있는 대상을 공격하면 <LSTag Tooltip=\"Disadvantage\">불리점</LSTag>을 받게 되며, 근접 "
+"상태에서 원거리 공격을 하면<LSTag Type=\"Status\" Tooltip=\"FLANKED\">위협받음</LSTag>을 받게 "
+"됩니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -9994,7 +9991,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1844
 msgctxt "ha58d282bgd07fg4188g832dg0863baf1fb38"
 msgid "Ranged Attack Disadvantage"
-msgstr ""
+msgstr "원거리 공격 불리점"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
