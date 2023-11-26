@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-24 16:37+0000\n"
-"Last-Translator: Favmir <nevirful@gmail.com>\n"
+"PO-Revision-Date: 2023-11-26 13:37+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2722,11 +2722,9 @@ msgstr "우리는 나이트송이 죽었다고 로로아칸에게 거짓말을 �
 #. ID = LorroakanDead
 #. Objective = SHA_Nightsong_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:3332
-#, fuzzy
-#| msgid "Lorroakan is dead. Nightsong is safe from him."
 msgctxt "h02e7a1ceg2a15g4d0bg8ca3geaf17b4a9ad6"
 msgid "Lorroakan is defeated. His search for the Nightsong is over."
-msgstr "로로아칸은 죽었다. 이제 나이트송은 안전하다."
+msgstr "로로아칸은 죽었다. 이제 녀석이 나이트송을 찾아다니는 일은 없을 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -19197,6 +19195,8 @@ msgid ""
 "We found Cazador, who overpowered Astarion and dragged him into the ritual. "
 "Now that Cazador has everything he needs, he'll ascend unless we stop him."
 msgstr ""
+"카자도르가 아스타리온을 제압해 강제로 의식에 참여시켰다. 카자도르의 승천에 필요한 것은 모두 모였으니, 그를 직접 저지하는 방법 밖에 "
+"없다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -19461,6 +19461,7 @@ msgid ""
 "Astarion spoke to Raphael while we were sleeping. The devil agreed to help "
 "Astarion if we kill his old enemy in the Temple of Shar."
 msgstr ""
+"아스타리온은 우리가 자고 있을 때 라파엘과 대화했다. 라파엘은 샤의 신전에 있는 그의 적을 죽여준다면 아스타리온을 도와주겠다고 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -19758,7 +19759,7 @@ msgid ""
 "We discovered the remains of long-dead Dark Justiciars in the ruined town of "
 "Reithwin. It seems they fought to the death in an effort to defend something "
 "important to them."
-msgstr ""
+msgstr "라이스윈 마을 폐허에서 오래 전 죽은 다크 저스티시어들을 발견했다. 무엇인가 중요한 것을 목숨을 바치면서 지킨 것으로 보인다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -19770,7 +19771,7 @@ msgctxt "hb4a39ef4gdf62g4c9bg88d8gc1ea7128519e"
 msgid ""
 "We discovered an ancient temple dedicated to Shar. This will be of great "
 "interest to Shadowheart - we should investigate further with her."
-msgstr ""
+msgstr "샤 여신에게 바치는 고대 신전을 발견했다. 섀도하트가 관심을 가질 터이다. 그녀와 함께 신전을 더욱 조사해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -19792,7 +19793,7 @@ msgctxt "h867945bfg1121g4eebgbc14g52f3897c98c7"
 msgid ""
 "We reached the place that Shadowheart had been seeking - an ancient temple "
 "dedicated to Shar. We should investigate further."
-msgstr ""
+msgstr "섀도하트가 찾아다니던 장소, 샤에게 바치는 고대 신전에 도착했다. 더욱 조사해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -19833,7 +19834,7 @@ msgid ""
 "We have found the Spear of Night. Now we only need to clear the way to the "
 "Inner Sanctum of the Gauntlet of Shar, where Shadowheart seeks to be "
 "anointed as a Dark Justiciar."
-msgstr ""
+msgstr "밤의 창을 찾았다. 이제 샤의 건틀릿의 내부 성소로 가는 길을 찾아, 섀도하트가 다크 저스티시어가 될수 있도록 하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -19856,7 +19857,7 @@ msgid ""
 "Shadowheart revealed to us that in order to become a Dark Justiciar, she "
 "must first acquire a weapon called the Spear of Night, hidden somewhere in "
 "the Silent Library."
-msgstr ""
+msgstr "섀도하트가 다크 저스티시어가 되기 위해서는 침묵의 도서관 어딘가에 보관되어 있는 밤의 창을 찾아야 한다고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -19877,7 +19878,7 @@ msgstr "밤의 창을 찾자."
 #: Mods/GustavDev/Story/Journal/Markers/5548e809-ca8e-aceb-b9e2-2df155e7e229.lsx:8
 msgctxt "hc3818226g5352g47beg8d0cg0a8f4b626d6e"
 msgid "Treasure Room"
-msgstr ""
+msgstr "보물 방"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -19890,7 +19891,7 @@ msgid ""
 "We have cleared the way to the Inner Sanctum. Shadowheart is now very close "
 "to proving herself to Shar and becoming a Dark Justiciar. We should "
 "accompany her downwards."
-msgstr ""
+msgstr "내부 성소로 들어왔다. 섀도하트가 다크 저스티시어로 거듭나기까지 얼마 남지 않았다. 섀도하트와 함께 내려가야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -26805,7 +26806,7 @@ msgstr ""
 msgctxt "hf8b907ddgcbe2g4d53g962eg34677c69448f"
 msgid ""
 "We told the hag survivors that we made a deal with the hag. They attacked us."
-msgstr ""
+msgstr "해그 생존자들에게 해그와 거래했다고 말했다. 그들은 우리를 공격했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -27321,7 +27322,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/c606405f-021f-4877-8e24-9880fc4a747f.lsx:8
 msgctxt "h79881367g0082g41bcgbf94g5bc2bbae8e2f"
 msgid "Jatlo"
-msgstr ""
+msgstr "잘토"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -28525,7 +28526,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:11462
 msgctxt "h1c8234cfg1ec1g477cgaf3cg4b94eb7f1bb1"
 msgid "Explore the House of Hope."
-msgstr ""
+msgstr "희망의 집을 탐색하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -28552,7 +28553,7 @@ msgctxt "h4989a85agd1e9g4d97ga992gb89c438bfac8"
 msgid ""
 "We returned to Sharess' Caress, but Raphael is no longer there. We'll have "
 "to find our own means of getting the Orphic Hammer from the House of Hope."
-msgstr ""
+msgstr "우리는 샤레스의 애무로 돌아갔지만, 라파엘은 없었다. 희망의 집에서 오르페우스의 망치를 얻을 방법을 알아서 찾아야 할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -37404,7 +37405,7 @@ msgid ""
 "and should check out the murder scene ."
 msgstr ""
 "죽은 자들과 대화를 나누어 보니, 붉은 옷을 입은 드워프가 로건 신부와 브릴고어를 죽였다는 사실을 알아냈다. 하지만 브릴고어의 무죄를 "
-"입증하기 위해서는 확실한 증거가 필요하다. 그러니 살인현장을 조사해 봐야겠다."
+"입증하기 위해서는 확실한 증거가 필요하다. 그러니 살인 현장을 조사해 봐야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38453,7 +38454,7 @@ msgctxt "h21e333dag1293g4695g8452geaba42d16262"
 msgid ""
 "If we want to become Unholy Assassins of Bhaal, we must first prove "
 "ourselves by slaying Jaheira."
-msgstr ""
+msgstr "바알의 부정한 암살자가 되기 위해서는, 우선 자헤이라를 죽여서 우리 자신을 증명해야만 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38465,7 +38466,7 @@ msgctxt "he5e9eab7gd627g42f0ga397g721463e0cfe7"
 msgid ""
 "If we want to become Unholy Assassins of Bhaal, we must first prove "
 "ourselves by slaying Minsc and Jaheira."
-msgstr ""
+msgstr "바알의 부정한 암살자가 되기 위해서는, 우선 민스크와 자헤이라를 죽여서 우리 자신을 증명해야만 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38478,6 +38479,8 @@ msgid ""
 "We slew Minsc to prove ourselves to Justice Sarevok. Now we can complete the "
 "ritual to become Unholy Assassins of Bhaal worthy of entering his temple. "
 msgstr ""
+"판관 사레복에게 우리 자신을 증명하기 위해 민스크를 죽였다. 이제 바알의 신전에 들어갈 자격이 있는 바알의 부정한 암살자가 되기 위한 "
+"의식을 완료할 수 있다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38489,7 +38492,7 @@ msgctxt "h629c31cfgc2b5g4d2fg9f36gb04e75e536c1"
 msgid ""
 "We slew Jaheira to prove ourselves to Justice Sarevok. Now we can complete "
 "the ritual to become Unholy Assassins of Bhaal."
-msgstr ""
+msgstr "판관 사레복에게 우리 자신을 증명하기 위해 자헤이라를 죽였다. 이제 바알의 부정한 암살자가 되기 위한 의식을 완료할 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38502,6 +38505,7 @@ msgid ""
 "We slew Minsc and Jaheira to prove ourselves to Justice Sarevok. Now we can "
 "complete the ritual to become Unholy Assassins of Bhaal."
 msgstr ""
+"판관 사레복에게 우리 자신을 증명하기 위해 민스크와 자헤이라를 죽였다. 이제 바알의 부정한 암살자가 되기 위한 의식을 완료할 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38513,7 +38517,7 @@ msgctxt "heaa71b7agdea3g45c2g8e83gb28173f110a7"
 msgid ""
 "Justice Sarevok has told us the price of becoming an Unholy Assassin of "
 "Bhaal: kill the hollyphant Investigator Valeria."
-msgstr ""
+msgstr "판관 사레복은 바알의 부정한 암살자가 되기 위한 대가를 알려주었다. 홀리펀트 수사관 발레리아를 죽이라는 것이었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -38523,7 +38527,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5181
 msgctxt "h4892e267g88f5g4699gbe30g5c9a4048f73b"
 msgid "Kill the hollyphant to become an Unholy Assassin of Bhaal. "
-msgstr ""
+msgstr "바알의 부정한 암살자가 되기 위해 홀리펀트를 죽이자. "
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -38546,7 +38550,7 @@ msgctxt "hdc833f1cg4970g4630g8deagc36a5199c15e"
 msgid ""
 "We slew the hollyphant Investigator Valeria, and must bathe in her blood to "
 "become Unholy Assassins."
-msgstr ""
+msgstr "우리는 홀리펀트 수사관 발레리아를 죽였고, 부정한 암살자가 되기 위해서는 그의 피로 목욕을 해야한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38556,7 +38560,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:48717
 msgctxt "hf6fada73g6e30g42d2ga512gc670266f0755"
 msgid "We killed Justice Sarevok and did not become Unholy Assassins."
-msgstr ""
+msgstr "우리는 판관 세레복을 죽였고 부정한 암살자가 되지 못했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38568,7 +38572,7 @@ msgctxt "h12ca2d65gf7b6g4efdga8f0g5333f3363aa8"
 msgid ""
 "We found the Temple of Bhaal, and have entered - ready to reclaim the "
 "Bhaalspawn birthright. "
-msgstr ""
+msgstr "바알의 신전을 찾아 들어섰다. 바알스폰의 타고난 권리를 되찾을 준비를 마쳤다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38664,7 +38668,7 @@ msgstr "칸덜할로우 묘비 제작소 지하에 있는 바알 법정에 들�
 #: Mods/GustavDev/Story/Journal/Markers/fe44e351-e845-47c3-90dc-78de06d54d62.lsx:8
 msgctxt "h07955bd7g74fdg4f05g8d20gebe29df98dfb"
 msgid "Murder Tribunal"
-msgstr ""
+msgstr "살인 법정"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38690,7 +38694,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:48869
 msgctxt "h6630ba29gdefbg4e9bg8513gd3bfa92c0528"
 msgid "Investigate the Murders"
-msgstr ""
+msgstr "살인 사건 조사"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38704,6 +38708,8 @@ msgid ""
 "into a test for cultists to access the Temple of Bhaal. We should show "
 "Investigator Valeria."
 msgstr ""
+"우리가 찾은 제거 명단에 로건 신부의 이름이 나와 있다. 광신도들이 바알 사원에 들어가기 위한 시험으로 그의 살인을 저지른 것으로 "
+"보인다. 수사관 발레리아에게 보여줘야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -38713,7 +38719,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5198
 msgctxt "h605e00bbgaf65g4928ga560g005437df73bd"
 msgid "Show the Bhaalist target list to the Investigator. "
-msgstr ""
+msgstr "수사관에게 바알의 제거 명단을 보여주자. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38727,6 +38733,8 @@ msgid ""
 "wider plot - and has asked us to bring the news to her constable, Gauntlet "
 "Devella, in the Lower City's Elfsong Tavern."
 msgstr ""
+"수사관 발레리아는 이제 로건 신부의 살인이 더 큰 음모와 연관되어 있다고 확신하며, 하부 도시 엘프송 여관에 있는 발레리아의 치안관 "
+"건틀릿 데벨라에게 이 소식을 전해달라고 요청했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -38736,7 +38744,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5209
 msgctxt "h2945fe8eg0e8bg44b2gb50bg31de3449fefe"
 msgid "Talk to Gauntlet Devella in the Elfsong Tavern."
-msgstr ""
+msgstr "엘프송 여관에 있는 건틀릿 데벨라와 얘기하자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -38747,7 +38755,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/dfdde895-eb6d-4262-968a-78448ced46ca.lsx:8
 msgctxt "h465d60deg3e23g40d9gab1eg2fbae15440a7"
 msgid "Gauntlet Devella"
-msgstr ""
+msgstr "건틀릿 데벨라"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38761,6 +38769,8 @@ msgid ""
 "alive are in the Lower City. The murderers following this list are trying to "
 "gain access to the Temple of Bhaal, presumably where we'll find Orin. "
 msgstr ""
+"바알의 살인자들을 위한 제거 명단을 찾았다. 유일하게 살아있는 희생자들은 하부 도시에 있다. 이 명단을 쫓는 살인자들은 바알의 신전에 "
+"접근하려고 한다. 추청컨대 거기서 오린을 보게 될 것이다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -38770,7 +38780,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5220
 msgctxt "h3688e528gcb2fg4467ga5dag36a935d595b9"
 msgid "Find the victims on the Bhaalist target list."
-msgstr ""
+msgstr "바알의 제거 명단의 희생자들을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38782,7 +38792,7 @@ msgctxt "h6eadc11cg93f4g4dd0ga42cga65d23e69c37"
 msgid ""
 "We confirmed Franc Peartree was dead, as the Bhaalist target list noted. We "
 "should check on the other victims too. "
-msgstr ""
+msgstr "바알의 제거 명단에 적힌 대로, 프랭크 페어트리는 죽었다는 사실을 확인했다. 다른 희생자들도 확인해야겠다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38796,6 +38806,8 @@ msgid ""
 "dressed in red. We should track down the remaining victims before they "
 "strike again. "
 msgstr ""
+"바알의 제거 명단에 있던 희생자 중 한 명이 자신을 죽인 자가 붉은 옷을 입고 있었다고 말했다. 살인자들이 다시 행동하기 전에 나머지 "
+"희생자들을 추적해야 한다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38807,7 +38819,7 @@ msgctxt "he567c827g22a3g42e5g9825gede813c37912"
 msgid ""
 "We confirmed Alexander Rainforest was dead, as the Bhaalist target list "
 "noted. We should check on the other victims too."
-msgstr ""
+msgstr "바알의 제거 명단에 적힌 대로, 알렉산더 레인포레스트는 죽었다는 사실을 확인했다. 다른 희생자들도 확인해야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38821,6 +38833,8 @@ msgid ""
 "dressed in red. We should track down the remaining victims before they "
 "strike again. "
 msgstr ""
+"바알의 제거 명단에 있던 희생자 중 한 명이 자신을 죽인 자가 붉은 옷을 입고 있었다고 말했다. 살인자들이 다시 행동하기 전에 나머지 "
+"희생자들을 추적해야 한다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38834,6 +38848,8 @@ msgid ""
 "dressed in red. We should track down the remaining victims before they "
 "strike again. "
 msgstr ""
+"바알 희생자의 지하실에 있는 수다쟁이 쥐가 범인을 목격했다. 붉은 옷을 입은 드워프였다고 한다. 살인자들이 다시 행동하기 전에 나머지 "
+"희생자들을 추적해야 한다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38869,7 +38885,7 @@ msgctxt "ha52dce04gc627g4875g84aeg97447229d44b"
 msgid ""
 "Nesha Leesha is dead by our hands - we should check in on the other victims "
 "from the Bhaalist target list. "
-msgstr ""
+msgstr "네샤 리샤가 우리 손에 의해 죽었다. 바알의 제거 명단에 있는 다른 희생자들도 확인해야겠다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38882,6 +38898,8 @@ msgid ""
 "We warned Nesha Leesha of the Bhaalist target list she's on - we should do "
 "the same for the other marked targets. "
 msgstr ""
+"우리는 네샤 리샤에게 그녀 자신이 바알의 제거 명단에 포함되어 있다는 사실을 경고했다. 명단의 또 다른 대상들에게도 똑같이 경고해 "
+"줘야겠다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38893,7 +38911,7 @@ msgctxt "h862b1ed4g11ccg4df8gb604g5b161e08b871"
 msgid ""
 "Figaro Pennygood is dead by our hands - we should check in on the other "
 "victims from the Bhaalist target list."
-msgstr ""
+msgstr "피가로 페니굿이 우리 손에 의해 죽었다. 바알의 제거 명단에 있는 다른 희생자들도 확인해야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38906,6 +38924,8 @@ msgid ""
 "We warned Figaro Pennygood of the Bhaalist target list he's on - we should "
 "do the same for the other marked targets. "
 msgstr ""
+"우리는 피가로 페니굿에게 그 자신이 바알의 제거 명단에 포함되어 있다는 사실을 경고했다. 명단의 또 다른 대상들에게도 똑같이 경고해 "
+"줘야겠다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38919,6 +38939,8 @@ msgid ""
 "list, slaughtered brutally. Figaro Pennygood is next on the list - we need "
 "to find him before the killer does."
 msgstr ""
+"바알의 제거 명단에 적힌 사람들 중 하나인, 코라 하이베리가 잔인하게 살해된 것을 발견했다. 피가로 페니굿은 명단의 다음 차례다. "
+"살인자가 행동하기전에 먼저 그를 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -38928,7 +38950,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5226
 msgctxt "hc397a925g84f7g42a1ga6f2g77216596c257"
 msgid "Chase down the serial killer. "
-msgstr ""
+msgstr "연쇄 살인범을 추적하자. "
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -38939,7 +38961,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/8e7b6612-a532-4878-bf80-a58d3f871cd2.lsx:8
 msgctxt "h0a02992egccd6g4d28gaebcg01fb36ea66fa"
 msgid "Track the Serial Killer"
-msgstr ""
+msgstr "연쇄 살인범 추적"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38953,6 +38975,8 @@ msgid ""
 "merchant. Figaro Pennygood is next on the target list - we need to find him "
 "before the killer does."
 msgstr ""
+"와인 상인으로 위장한 바알의 연쇄 살인마로부터 코라 하이베리를 구했다. 피가로 페니굿이 명단의 다음 차례다. 살인마가 행동하기전에 먼저 "
+"그를 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38966,6 +38990,8 @@ msgid ""
 "wine merchant. Figaro Pennygood is next on the target list - we need to find "
 "him before the killer does."
 msgstr ""
+"코라 하이베리가 와인 상인으로 위장한 바알의 연쇄 살인마로부터 살해당했다. 피가로 페니굿이 명단의 다음 차례다. 살인마가 행동하기전에 "
+"먼저 그를 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38979,6 +39005,7 @@ msgid ""
 "Dolor. We should check his body for any clues about finding the Bhaalist "
 "cult. "
 msgstr ""
+"살인마를 쓰러뜨려 살인 행각을 멈추게 했다. 돌로라는 이름의 드워프였다. 그의 시체를 뒤져서 바알 교단을 찾을 단서를 찾아야 한다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -38990,7 +39017,7 @@ msgctxt "h574d6510g5c46g4cbaga91fg667f63c3d9a7"
 msgid ""
 "Justice Sarevok is dead by our hands - we should speak to his hollyphant "
 "captive before heading to the Temple of Bhaal."
-msgstr ""
+msgstr "판관 세레복이 우리손에 의해 죽었다. 바알의 신전으로 가기전에 잡혀있던 홀리펀트에게 얘기하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -39000,7 +39027,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5237
 msgctxt "h9d8017aeg6ce2g4778gb463ga9cdd1b557fc"
 msgid "Talk to the Murder Tribunal's sacrifice."
-msgstr ""
+msgstr "살인 법정의 제물에게 말을 걸자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39012,7 +39039,7 @@ msgctxt "he9138b70gbbd6g4c4bga3d5gd1b2b69ea60d"
 msgid ""
 "Investigator Valeria told us where to find the Temple of Bhaal - Orin awaits "
 "us there. "
-msgstr ""
+msgstr "수사관 발레리아가 바알의 신전을 찾을 수 있는 곳을 알려줬다. 오린이 그곳에서 우리를 기다리고 있다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39024,7 +39051,7 @@ msgctxt "h1d949346g4230g4d5agbf63g5123bc9bc046"
 msgid ""
 "With Justice Sarevok and Investigator Valeria dead, we must search the "
 "Tribunal for a way of accessing the Temple of Bhaal."
-msgstr ""
+msgstr "판관 사레복과 수사관 발레리아가 죽음으로써, 바알의 신전으로 접근하기 위해 법정을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39038,6 +39065,8 @@ msgid ""
 "life - we wetted ourselves with her blood and were granted a way to access "
 "the Temple of Bhaal."
 msgstr ""
+"우리는 조사관 발레리아의 목숨을 대가로 바알의 부정한 암살자가 되었다. 그녀의 피로 우리 몸을 적시고, 바알의 신전으로 갈 수 있는 길을 "
+"열었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39050,6 +39079,8 @@ msgid ""
 "The next victim on the Bhaalist target list is the late Figaro Pennygood. We "
 "should check his place - see if the killer stopped by and left any clues. "
 msgstr ""
+"바알의 제거 명단의 다음 희생자는 사망한 피가로 페니굿이라고 한다. 그의 집을 살펴보자. 살인자가 거기 들렀는지, 흔적을 남겼는지 "
+"확인해보자. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -39059,7 +39090,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:5287
 msgctxt "he7ba3b71g22b7g497bg9ffag9258a35a0860"
 msgid "Follow the serial killer. "
-msgstr ""
+msgstr "연쇄 살인범을 추적하자. "
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -39070,7 +39101,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/f0e22122-700d-4bd9-a08c-a05fb056fafb.lsx:8
 msgctxt "h0712a724g6ea8g4307ga5a1g0d203c4b52f6"
 msgid "Murder Target: Figaro"
-msgstr "살해 표적: 피가로"
+msgstr "살인 대상: 피가로"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39084,6 +39115,8 @@ msgid ""
 "Candulhallow's Tombstones with a passphrase - seems as though the Bhaalist "
 "cult may be there."
 msgstr ""
+"피가로 페니굿의 시체에서 찾은 쪽지의 내용에는, 그를 죽인 살인자에게 암구호를 사용하여 칸덜할로우의 묘비 제작소로 들어가라는 지시가 적혀 "
+"있었다. 바알 교단이 거기에 있을 수 있음을 암시한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -39107,6 +39140,8 @@ msgid ""
 "Candulhallow's Tombstones with a passphrase - seems the Bhaalist cult may be "
 "there."
 msgstr ""
+"살인자 돌로의 주머니에서 찾은 쪽지의 내용에는, 암구호를 사용하여 칸덜할로우의 묘비 제작소로 들어가라는 지시가 적혀 있었다. 바알 교단이 "
+"거기에 있을 수 있음을 암시한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39120,6 +39155,8 @@ msgid ""
 "Bhaalist plot. She asked us to follow the people noted on the list, save "
 "them if possible, and get more information about the Bhaalist cult."
 msgstr ""
+"건틀릿 데벨라는 우리가 찾은 제거 명단이 더 거대한 바알의 음모와 연결되어 있음을 확신하고 있다. 그녀는 그 명단에 있는 사람들을 "
+"추적하라며, 가능하면 그들을 구해주고, 바알 교단에 대한 더 많은 정보를 알아내 달라는 부탁을 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39133,6 +39170,8 @@ msgid ""
 "Bhaal - presumably where we'll find Orin. Duke Stelmane's on this list. We "
 "should inform Gauntlet Devella."
 msgstr ""
+"바알 암살자들의 제거 명단을 찾았다. 암살자들은 바알의 신전에 들어가고 싶어한다. 추측컨대 이 신전에서 오린을 찾을 수 있을 것이다. "
+"스텔메인 공작도 이 명단에 있었다. 건틀릿 데벨라에게 알려야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39145,6 +39184,8 @@ msgid ""
 "Gortash told us how to find Orin the Red - follow the spate of murders "
 "across the city. The Open Hand Temple may be a good place to start."
 msgstr ""
+"고타쉬가 적색의 오린을 어떻게 찾을 수 있는지 알려줬다. 도시 전역에서 벌어지는 다수의 살인 사건들을 추적하면 된다고. 열린 손의 신전이 "
+"시작하기에 좋은 장소가 될지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -39154,7 +39195,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:9217
 msgctxt "hac1edf99g10e4g4edcga8d4gd1b5d86dcd8f"
 msgid "Follow the bloody trail of murders in Baldur's Gate."
-msgstr ""
+msgstr "발더스 게이트에서 피비린내 나는 살인 사건의 흔적을 따라가자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39168,6 +39209,8 @@ msgid ""
 "before our arrival into the city. We should investigate - it may help us "
 "find the Lord of Murder's Chosen."
 msgstr ""
+"우리가 도시에 도착하기 직전, 공작 스텔메인은 엘프송 여관에서 의식의 집행으로 살해당했다. 살인의 군주의 선택받은 자를 찾는 데 도움이 "
+"될지도 모르니 조사해보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -39177,7 +39220,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10450
 msgctxt "h9c3f7d13g38a4g4113gb7c1gd1480af6ab13"
 msgid "Investigate the murder of Duke Stelmane. "
-msgstr ""
+msgstr "스텔메인 대공의 살인 사건을 조사하자. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39190,6 +39233,8 @@ msgid ""
 "We defeated the Justice Sarevok and his Murder Tribunal, stopping the serial "
 "killings in Baldur's Gate for now. To end them for good, we must find Orin."
 msgstr ""
+"판관 사레복과 그의 살인 법정을 처리했고, 발더스 게이트에서 일어나던 연쇄 살인을 당장은 막았다. 이를 영원히 끝내려면, 오린을 찾아야만 "
+"한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39201,7 +39246,7 @@ msgctxt "he6a4ade5gb083g41d2g8bd8gdc62386f5811"
 msgid ""
 "We learned the passphrase we must speak at Candulhallow's Tombstones to meet "
 "with the Bhaalist cult."
-msgstr ""
+msgstr "바알 교단을 만나기 위해 우리가 칸덜할로우의 묘비 제작소에서 말해야 하는 암구호를 알아냈다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39213,7 +39258,7 @@ msgctxt "h2c8c6795g6c9eg4525g8840g432251f7946e"
 msgid ""
 "Justice Sarevok is dead by our hands - we can use his amulet to enter the "
 "Temple of Bhaal. "
-msgstr ""
+msgstr "판관 세레복은 우리의 손에 의해 죽었다. 바알의 신전에 들어가기 위해 그의 아뮬렛을 사용할 수 있다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39225,7 +39270,7 @@ msgctxt "h5afc57c4g283bg4551gb1b5g41374d3acf6c"
 msgid ""
 "We spoke the passphrase to enter Candulhallow's Tombstones - we should "
 "explore within to find the Bhaal cult. "
-msgstr ""
+msgstr "칸덜할로우 묘비 제작소에 들어가기 위한 암구호를 말했다. 바알 교단을 찾기 위해 안쪽을 탐험하자. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -39235,7 +39280,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10300
 msgctxt "h4135af51gf173g4246ga865g974100aefbe2"
 msgid "Infiltrate the Murder Tribunal."
-msgstr ""
+msgstr "살인 법정에 잠입하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39248,6 +39293,8 @@ msgid ""
 "The Flaming Fist have found elaborate, ritualistic murder scenes around the "
 "city. They could be Bhaalist - and could lead us to Orin."
 msgstr ""
+"플레이밍 피스트는 도시 곳곳에서 정교하고 의식적인 살인 현장을 발견했다. 이것들은 바알 신도의 짓일 수 있으며, 오린을 찾아내는 단서가 "
+"될 수도 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -39257,7 +39304,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:10439
 msgctxt "h6c805beag487cg4bd5g996fgca75b558002b"
 msgid "Find the unusually elaborate murder scene. "
-msgstr ""
+msgstr "비정상적으로 정교한 살인 현장을 찾자. "
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -39281,6 +39328,8 @@ msgid ""
 "Gauntlet Devella asked us to check out an elaborate murder scene that could "
 "be Bhaalist in nature. It could lead us to Orin the Red. "
 msgstr ""
+"건틀릿 데벨라가 정교한 살해 현장을 조사해 달라고 부탁했다. 사실상 바알 신도의 짓일 수 있다고 한다. 이를 통해 적색의 오린을 찾을 수 "
+"있을지도 모른다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39292,7 +39341,7 @@ msgctxt "h5a8e1e3eg142bg4c7dgb356g6b5b37ba5b5e"
 msgid ""
 "We killed the Bhaalspawn Sarevok Anchev. We should check his nearby "
 "sacrificial chamber for any further information on the Bhaal cult."
-msgstr ""
+msgstr "바알스폰 사레복 안체브를 죽였다. 그의 근처에 있는 제물의 방을 확인해서 바알 교단에 대한 정보를 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39306,6 +39355,8 @@ msgid ""
 "from a red dwarf.  The verse mentions murder and Unholy Assasins - perhaps "
 "we can use these instructions to find the Murder Tribunal. "
 msgstr ""
+"붉은 드워프에게서 칸덜할로우의 묘비 제작소에 대한 안내문과 암구호가 담긴 시를 훔쳤다. 시에는 살인과 부정한 암살자들이 언급되어 있다. "
+"이 안내문을 이용하면 살인 법정을 찾을 수 있을지도 모른다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -39316,7 +39367,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:49657
 msgctxt "hdf8fd88bg6092g4d5dg8c77gb6339fe484d2"
 msgid "Seek Protection from the Shadow Curse"
-msgstr "그림자 저주로부터 보호하기"
+msgstr "그림자 저주로부터 보호수단 찾기"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39329,7 +39380,7 @@ msgctxt "hc088c7a0g9769g4e5bga274g7bdb323cf7d1"
 msgid ""
 "The shadow curse is even stronger in certain areas. We need to find a way to "
 "fend it off."
-msgstr ""
+msgstr "그림자 저주가 특정 구역에서는 더욱 강력하다. 이 저주를 막을 방법을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -39350,7 +39401,7 @@ msgstr "저주로부터 우리를 보호할 방법을 찾자."
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:49684
 msgctxt "h8fbf337cg53efg47e2gadbbg9dbced081f4f"
 msgid "A deadly curse plagues this land. One wrong step could kill us."
-msgstr ""
+msgstr "이 땅은 치명적인 저주에 시달리고 있다. 한 발 잘못 내디뎠다간 죽을 수도 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -39541,7 +39592,7 @@ msgstr "최후의 빛 외곽의 하퍼들과 얘기해보자."
 #: Mods/GustavDev/Story/Journal/Markers/c044a440-7fdc-4f91-91a8-245d61fddf72.lsx:8
 msgctxt "h40e56d4eg414eg423bg97c7g9785e504cd76"
 msgid "Ambush Harpers"
-msgstr ""
+msgstr "하퍼들의 매복"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -41799,7 +41850,7 @@ msgctxt "h36522ab1g5de7g421cgb02bg285d6ca32a11"
 msgid ""
 "Despite all we've been through, we betrayed Dame Aylin and Isobel. We can no "
 "longer count on Dame Aylin in the final battle."
-msgstr ""
+msgstr "지금까지 많은 일이 있었지만, 결국 여기사 에일린과 이소벨을 배신하였다. 마지막 전투에서 그들의 도움을 기대할 수 없을 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -41881,7 +41932,7 @@ msgctxt "hf61c6609g1d98g4b7eg9033g76ae6c2a3059"
 msgid ""
 "I am Shar's Chosen. In the fight to come, my enemies will learn to fear the "
 "Mistress of the Night."
-msgstr ""
+msgstr "나는 샤의 선택받은 자이다. 앞으로 다가올 전투에서 적들은 밤의 여인을 두려워하게 될 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -41893,7 +41944,7 @@ msgctxt "hf75b0331gd7edg4bebg9253g3189d72d970c"
 msgid ""
 "I am the Vampire Ascendant! With the powers once promised to Cazador, I will "
 "dispose of my enemies."
-msgstr ""
+msgstr "내가 바로 승천한 뱀파이어다! 카자도르에게 약속되었었던 이 힘으로 적들을 처리할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -43438,7 +43489,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:55335
 msgctxt "h9a715265gf898g4f75g80a6g75d6357586c4"
 msgid "We sold Lorroakan's vault key to Guild Bursar Uktar."
-msgstr ""
+msgstr "길드 회계원 욱타르에게 로로아칸의 금고 열쇠를 팔았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43448,7 +43499,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:55361
 msgctxt "he65f2735gdeceg45c2gb3e9ga443ed7858e4"
 msgid "We sold Lady Jannath's vault key to Guild Bursar Uktar."
-msgstr ""
+msgstr "길드 회계원 욱타르에게 자나스 부인의 금고 열쇠를 팔았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43458,7 +43509,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:55387
 msgctxt "h191781aeg7175g47b3g8114ga7a5615b6754"
 msgid "We sold Cazador's vault key to Guild Bursar Uktar."
-msgstr ""
+msgstr "길드 회계원 욱타르에게 카자도르의 금고 열쇠를 팔았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43468,7 +43519,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:55413
 msgctxt "h21458434g1fabg413dgbcefgf319be91806b"
 msgid "We sold Grey's vault key to Guild Bursar Uktar."
-msgstr ""
+msgstr "길드 회계원 욱타르에게 그레이의 금고 열쇠를 팔았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43478,7 +43529,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:55439
 msgctxt "h0fa2ed55ga3b3g4aaeg874eg10cb3ae59a63"
 msgid "We sold Gortash's vault key to Guild Bursar Uktar."
-msgstr ""
+msgstr "길드 회계원 욱타르에게 고타쉬의 금고 열쇠를 팔았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43488,7 +43539,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:55465
 msgctxt "h94f1657ega206g49ebgbdd1g12bf776254ea"
 msgid "We sold Ravengard's vault key to Guild Bursar Uktar."
-msgstr ""
+msgstr "길드 회계원 욱타르에게 레이븐가드의 금고 열쇠를 팔았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43498,7 +43549,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:55491
 msgctxt "h623edfe5g3522g4dbag9f49gfba0959d9fed"
 msgid "We sold Nine-Fingers' vault key to Guild Bursar Uktar."
-msgstr ""
+msgstr "길드 회계원 욱타르에게 아홉손가락의 금고 열쇠를 팔았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43508,7 +43559,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:55517
 msgctxt "hf451510cg972cg4f14g80e8g7d1bfa6aea2e"
 msgid "We sold Viconia's vault key to Guild Bursar Uktar."
-msgstr ""
+msgstr "길드 회계원 욱타르에게 비코니아의 금고 열쇠를 팔았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43518,7 +43569,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:55543
 msgctxt "he81efb3egf229g4ff2ga216g44f824aba539"
 msgid "We sold Glitterbeard's vault key to Guild Bursar Uktar."
-msgstr ""
+msgstr "길드 회계원 욱타르에게 글리터비어드의 금고 열쇠를 팔았다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -47805,6 +47856,8 @@ msgid ""
 "us to a party in Cazador Szarr's palace. It sounds like something sinister "
 "is going on. We should investigate."
 msgstr ""
+"우리는 프레이고의 여인숙에서 뱀파이어 스폰으로 보이는 둘을 만났다. 그들은 우리를 카자도르 자르의 대저택에서 열리는 파티에 초대하였다. "
+"뭔가 불길한 일이 벌어지고 있는 것 같다. 조사해 보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -47814,7 +47867,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6848
 msgctxt "hfc66d1c8gceeag43abg8935g795b6051ca7b"
 msgid "Find the Szarr Palace."
-msgstr ""
+msgstr "자르 대저택을 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -47841,6 +47894,8 @@ msgid ""
 "She asked us to save the children and slay the vampire. We should find where "
 "Cazador resides."
 msgstr ""
+"우리는 구르족과 만났다. 지도자인 울마는 카자도르라는 뱀파이어가 부족원을 죽이고, 아이들을 납치하고 있다고 말했다. 아이들을 구하고, 그 "
+"뱀파이어를 죽여달라는 요청을 받았다. 카자도르의 거처를 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -47850,7 +47905,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:60801
 msgctxt "h316036e7g8caag4eb1g82d7gd4829fbb72ba"
 msgid "We entered Cazador's palace. We should look around for clues."
-msgstr ""
+msgstr "카자도르의 저택에 들어왔다. 이곳에서 단서를 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -47905,7 +47960,7 @@ msgctxt "h0543e7dfga686g4854ga6b4g486f23e62afc"
 msgid ""
 "We found a ring with inscriptions in an ancient language. We should hold "
 "onto it - it may prove useful."
-msgstr ""
+msgstr "고대 언어가 새겨져 있는 반지를 발견했다. 필요한 일이 있을지도 모르니 잘 간수하는 것이 좋겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -47917,7 +47972,7 @@ msgctxt "h2725deb3gda56g43f3ga154gadc736a2ae84"
 msgid ""
 "We found a dictionary for an ancient language. We should hold onto it - it "
 "may prove useful."
-msgstr ""
+msgstr "고대 언어 사전을 발견했다. 필요한 일이 있을지도 모르니 잘 간수하는 것이 좋겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -47931,6 +47986,7 @@ msgid ""
 "and dead bodies - and werewolves. We need to deal with them if we want to "
 "delve further into the palace."
 msgstr ""
+"연회장 같은 곳으로 통하는 문을 열었지만, 피와 시체, 그리고 늑대 인간들로 가득했다. 이곳을 더 조사하려면 이들을 먼저 처리해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -47954,6 +48010,8 @@ msgid ""
 "controls the prison doors with a staff. If we want to release them, we'll "
 "have to deal with Cazador ourselves."
 msgstr ""
+"감옥에 가두어져 있는 뱀파이어 스폰들을 발견했고, 그중 한 명이 카자도르가 지팡이로 감옥 문을 제어한다는 사실을 알려주었다. 스폰들을 "
+"풀어주고 싶다면, 우리가 직접 카자도르를 상대해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -48013,7 +48071,7 @@ msgctxt "hd530147age54fg4544g9de0g08835eabf1bc"
 msgid ""
 "We found Cazador Szarr. He plans to perform a rite that will grant him "
 "immense power. He must be stopped."
-msgstr ""
+msgstr "카자도르 자르를 찾았다. 카자도르는 거대한 힘을 부여받기 위한 의식을 계획하고 있다. 그를 멈춰야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -48035,7 +48093,7 @@ msgctxt "hb48ddcb0gf34bg45ccg8ac5g94f9cf6d1b5d"
 msgid ""
 "We defeated Cazador and released his prisoners. We should tell Ulma the good "
 "news."
-msgstr ""
+msgstr "우리는 카자도르를 쓰러뜨리고 수감자들을 풀어주었다. 울마에게 이 좋은 소식을 전해주자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -48068,7 +48126,7 @@ msgctxt "h05630faag84f3g4d4fga4d8g9b25b7a0157c"
 msgid ""
 "We defeated Cazador and killed his prisoners. We should tell Ulma what "
 "happened."
-msgstr ""
+msgstr "우리는 카자도르를 쓰러뜨리고 수감자들을 죽였다. 무슨 일이 있었는지 울마에게 알리자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48080,7 +48138,7 @@ msgctxt "hf4569ddbg7fc8g4331ga2b8g4b4c111aff60"
 msgid ""
 "We defeated Cazador and left the prisoners to their fate. We should tell "
 "Ulma what happened."
-msgstr ""
+msgstr "우리는 카자도르를 쓰러뜨리고 수감자들을 운명에 맡겼다. 무슨 일이 있었는지 울마에게 알리자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48113,7 +48171,7 @@ msgstr ""
 msgctxt "h51478cd2g4589g481cg99c2gfa81ac7dd714"
 msgid ""
 "We spared Cazador's life. Time will tell if it was the right thing to do."
-msgstr ""
+msgstr "카자도르의 목숨을 살렸다. 이게 옳은 일인지는 시간이 알려줄 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48367,6 +48425,8 @@ msgid ""
 "that killed Cazador and thousands of vampire spawn, including the children "
 "of the Gur monster hunters. It's hard to imagine Ulma will take this well."
 msgstr ""
+"아스타리온이 승천한 뱀파이어가 되었다. 우리는 아스타리온의 의식을 도왔고, 그 결과로 카자도르와 구르 괴물 사냥꾼의 아이들을 포함한 수천 "
+"명의 뱀파이어 스폰이 희생되었다. 울마가 이 사실을 잘 받아들일 것 같진 않다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -48379,6 +48439,7 @@ msgid ""
 "Astarion has become the Vampire Ascendant. We helped him complete the ritual "
 "which killed Cazador and all the vampire spawn."
 msgstr ""
+"아스타리온이 승천한 뱀파이어가 되었다. 우리는 아스타리온의 의식을 도왔고, 그 결과로 카자도르와 모든 뱀파이어 스폰이 희생되었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -49968,7 +50029,7 @@ msgctxt "h02f94b41geb43g422eg9523g78e55be09c8d"
 msgid ""
 "We agreed to help Minthara raid the Emerald Grove. In return, she promised "
 "us passage to Moonrise Towers."
-msgstr ""
+msgstr "우리는 민타라의 에메랄드 숲 습격을 돕기로 했다. 그 대가로 민타라는 문라이즈 타워로의 길을 약속했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -50759,6 +50820,8 @@ msgid ""
 "demanded. Nightsong seems to know something of my past, though will it prove "
 "to be worth risking the anger of my goddess?"
 msgstr ""
+"샤 여신님의 명령을 어기고 셀루네의 딸, 나이트송을 풀어주었다. 나이트송은 나의 과거에 대해 아는 것이 있는 듯하지만, 과연 여신님의 "
+"분노를 감수할 가치가 있을까?"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -50797,7 +50860,7 @@ msgctxt "h060c1a3ag5fa7g45ffg83a9g7d8a14f321e2"
 msgid ""
 "The Soft-Step Trial has been completed. I have demonstrated my stealth and "
 "cunning to Lady Shar, just like a true Dark Justiciar."
-msgstr ""
+msgstr "조용한 걸음의 시련을 완료했다. 진정한 다크 저스티시어다운 은신술과 교활함을 샤 여신께 증명했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -54892,7 +54955,7 @@ msgctxt "hc3c247c0g0003g47b3gb7f9g3d04fa85d999"
 msgid ""
 "Dammon may be able to work on Karlach's heart. But first, we should deal "
 "with the paladins she asked us to face."
-msgstr ""
+msgstr "대먼이 칼라크의 심장을 손봐줄 수 있을지도 모른다. 하지만, 칼라크가 부탁한 대로 팔라딘 들을 먼저 처리해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -56495,7 +56558,7 @@ msgctxt "hed87121cgf0a3g41aag9aa9g88a337cca9a9"
 msgid ""
 "Karlach joined us. She told us she's being hunted by servants of Zariel who "
 "are pretending to be Paladins of Tyr. We need to deal with them."
-msgstr ""
+msgstr "칼라크가 합류했다. 칼라크는 티르의 팔라딘으로 위장한 자리엘의 부하에게 쫓기고 있다고 말했다. 그 부하들을 처리해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -56734,7 +56797,7 @@ msgctxt "hb0487410gef50g417bg897dg21327ce6f5a1"
 msgid ""
 "We spoke to a corpse who claimed to be an infernal servant of the devil "
 "Zariel. What business does a devil have here?"
-msgstr ""
+msgstr "자신이 데빌 자리엘의 지옥 종복이라고 하는 시체와 대화했다. 데빌이 여기에 무슨 일일까?"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -59236,6 +59299,8 @@ msgid ""
 "githyanki custom. He left to prepare for the revolution that will follow "
 "Orpheus' deliverance."
 msgstr ""
+"우리는 라파엘과 계약을 하지 않았지만, 보스에게는 계약했다고 말했다. 그 보상으로 기스양키 관습에서 가장 높은 등급의 무기로 여겨지는 "
+"강력한 은검을 받았다. 보스는 오르페우스 구출 후의 혁명을 준비하기 위해 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -59322,7 +59387,7 @@ msgctxt "h144351e7ge3b3g4035g9d84g13edb184b6ad"
 msgid ""
 "We showed Voss the Orphic Hammer. He left to prepare for the revolution that "
 "will follow Orpheus' deliverance."
-msgstr ""
+msgstr "보스에게 오르페우스의 망치를 보여주었다. 보스는 오르페우스 구출 후의 혁명을 준비하기 위해 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -59335,7 +59400,7 @@ msgctxt "h8f1c5a8dg83d7g48f7gb8bcgeb3e431d7630"
 msgid ""
 "We didn't sign the contact with Raphael, but we told Voss that we did. He "
 "left to prepare for the revolution that will follow Orpheus' deliverance."
-msgstr ""
+msgstr "우리는 라파엘과 계약을 하지 않았지만, 보스에게는 계약했다고 말했다. 보스는 오르페우스 구출 후의 혁명을 준비하기 위해 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -59662,7 +59727,7 @@ msgstr "이제 양성소로 돌아갈 시간이 없다. 문라이즈 타워에�
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:75142
 msgctxt "hb113b6b2g04d6g41edga5c8g1c7dbd68c486"
 msgid "Lae'zel is no longer traveling with us."
-msgstr ""
+msgstr "레이젤은 이제 우리와 함께하지 않는다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
