@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-24 16:37+0000\n"
-"Last-Translator: Juyoung Park <jypark2934@gmail.com>\n"
+"PO-Revision-Date: 2023-11-27 14:37+0000\n"
+"Last-Translator: 요하네스 <lowsdy1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -10100,6 +10100,11 @@ msgid ""
 "<LSTag Type=\"Image\" Info=\"TutorialAlchemyMenu\"/> Craft Elixirs in the "
 "Alchemy Menu"
 msgstr ""
+"영약을 소모하면 다음 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>까지 캐릭터에게 다양한 효과를 부여합니다. "
+"새 영약을 마시면 이전 영약 효과를 대체합니다. 영약은 연금술 목록에서 제작할 수 있습니다.\n"
+"\n"
+"[IE_ToggleInGameMenu] 메인 메뉴 열기\n"
+"<LSTag Type=\"Image\" Info=\"TutorialAlchemyMenu\"/> 연금술 목록에서 영약 제조하기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -10108,7 +10113,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1869
 msgctxt "hce3b4358gd1dag46fagb7fcgc047ce7d461e"
 msgid "Elixirs"
-msgstr ""
+msgstr "영약"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -10119,7 +10124,7 @@ msgctxt "ha6d725eega062g4c44gbfc1gf0121e83cb6f"
 msgid ""
 "Elixirs grant a benefit until you Long Rest. Drinking another will remove "
 "any previous Elixir's effects."
-msgstr ""
+msgstr "영약은 다음 긴 휴식까지 효과가 지속됩니다. 다른 영약을 마실 경우 이전에 마신 영약의 효과는 사라집니다."
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -10136,7 +10141,7 @@ msgid ""
 "Press [IE_UIToggleAlchemy] to open the Alchemy Menu and craft Elixirs."
 msgstr ""
 "영약을 소모하면 다음 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>까지 캐릭터에게 다양한 효과를 부여합니다. "
-"새 영약을 마시면 이전 영약 효과를 대체합니다. 연금술 목록에서 제작할 수 있습니다.\n"
+"새 영약을 마시면 이전 영약 효과를 대체합니다. 영약은 연금술 목록에서 제작할 수 있습니다.\n"
 "\n"
 "[IE_UIToggleAlchemy]을 눌러 연금술 목록을 열고 영약을 제작하세요."
 
