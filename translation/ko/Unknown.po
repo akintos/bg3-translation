@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-29 07:37+0000\n"
+"PO-Revision-Date: 2023-11-30 16:37+0000\n"
 "Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -248,12 +248,12 @@ msgstr "냉기 취약"
 
 msgctxt "h0631f9fega065g4dd8gb252g10c7e39f4de7"
 msgid "Formsculpt: Tressym "
-msgstr ""
+msgstr "조형물: 트레심 "
 
 msgctxt "h063cab23g03a4g4edcga3dagc48f8bd4343a"
 msgid ""
 "Rearrange a creature's very being into the image of Gale's darling pet. "
-msgstr ""
+msgstr "크리쳐의 존재 자체를 게일의 사랑스러운 애완동물 모습으로 재정립합니다. "
 
 msgctxt "h068128edgd776g4cafg810dgaad640a97e71"
 msgid "Hold To End Turn"
@@ -316,7 +316,7 @@ msgstr "UI 스크롤 툴팁 위로"
 
 msgctxt "h094bf655g186ag463eg9592g52cfb47da8d1"
 msgid "Left Stick Sensitivity"
-msgstr ""
+msgstr "왼쪽 스틱 감도"
 
 msgctxt "h095391e4g90e3g442ag9967g89a0c38413f7"
 msgid "Hello! Let's play the game."
@@ -408,6 +408,8 @@ msgid ""
 "Wizard, High Aspirant, The Lord of Zeal - but none have yet been granted an "
 "audience with the God of Ambition. Until tonight, that is. "
 msgstr ""
+"단순한 필멸자들은 한때 위자드였고, 고위 열망자였으며, 열정의 군주였던 게일 데카리오스에게 간청을 속삭이지만, 아직 야망의 신과의 만남을 "
+"허락받은 사람은 아무도 없습니다. 오늘 밤까지는 말이죠. "
 
 msgctxt "h0d02dd0agba4fg4153ga1bbgf66098336641"
 msgid "Immune to [1]"
@@ -483,10 +485,9 @@ msgctxt "h111cc4d7g775ag4441g915bg8a7bd3c5333c"
 msgid "Rotate Character Left"
 msgstr "캐릭터 왼쪽으로 회전"
 
-#, fuzzy
 msgctxt "h11391777g962ag405ag8cd5g4e94771eb4f8"
 msgid "Hide Party View"
-msgstr "파티 인벤토리 숨기기"
+msgstr "파티 보기 숨기기"
 
 msgctxt "h117bf027g215fg48b6ga58egda83ed7572ff"
 msgid "Force Splitscreen"
@@ -725,7 +726,7 @@ msgctxt "h1ab54807g2f00g4eb3g91b7g27559060caa4"
 msgid ""
 "Adjust the sensitivity of the left stick. This will affect the movement of "
 "the cursor in places such as the map or during battle."
-msgstr ""
+msgstr "왼쪽 스틱의 감도를 조정합니다. 이러면 맵이나 전투 중 커서의 움직임에 영향을 줍니다."
 
 msgctxt "h1aca489dg4fdeg4bb1g9b2bg982281ae2864"
 msgid "Maximum AP"
@@ -805,7 +806,7 @@ msgstr "취소"
 
 msgctxt "h1b2509d1g9eb4g4c41gaf46g679922b60cb1"
 msgid "Dwarf"
-msgstr ""
+msgstr "드워프"
 
 msgctxt "h1bc39dd5g671cg4600g8fedg8f698b096f0d"
 msgid ""
@@ -2920,7 +2921,7 @@ msgstr "[2] 표면에 의해 [1] 치유됨."
 
 msgctxt "h70435603gc565g4c82ga751g391f49856ea7"
 msgid "[1]% chance to electrify surfaces"
-msgstr "표면에 전기 흐르게 할 확률 [1]%"
+msgstr "표면에 전기가 흐를 확률 [1]%"
 
 msgctxt "h7094e371gb3e9g4517ga4c5gfc143a6128c1"
 msgid "Provides an extra turn in combat.[2][3]"
@@ -3152,10 +3153,9 @@ msgctxt "h7b80d85cg3b80g4019ga18fgbbb84b736fea"
 msgid "UI Back"
 msgstr "UI 뒤로"
 
-#, fuzzy
 msgctxt "h7b850a94ge581g4e58gb591gbfe0d1b33604"
 msgid "Rounds"
-msgstr "턴"
+msgstr "라운드"
 
 #, fuzzy
 msgctxt "h7b9fbccfgfd13g4909gb80fgf3323d6ebed6"
@@ -3270,7 +3270,7 @@ msgstr "표면 전기화"
 
 msgctxt "h80d7bbbbgcf72g4b05gb381ge90bfc102ddd"
 msgid "Revive"
-msgstr ""
+msgstr "부활"
 
 msgctxt "h80de8e03gca3ag44d3g9f6bg0e9a661e9b21"
 msgid "Can't be teleported: ([1])"
@@ -3278,11 +3278,11 @@ msgstr "순간이동 될 수 없음: ([1])"
 
 msgctxt "h80f3d54cgd494g4a31g96b9g33a0e8c4061c"
 msgid "Object cannot be combined"
-msgstr ""
+msgstr "개체를 결합할 수 없음"
 
 msgctxt "h81372f8ega56fg4d56g8586ge1c6fc742ca3"
 msgid "Instantly kills target with status [4] below [1]% Vitality.[2][3]"
-msgstr ""
+msgstr "체력 [1]% 이하 [4] 상태 대상을 즉시 처치합니다.[2][3]"
 
 msgctxt "h814c9507g1d10g4fc9ga1d6g6bd110c28b8a"
 msgid "Abilities"
@@ -3290,15 +3290,15 @@ msgstr "능력치"
 
 msgctxt "h8184d7bdg0958g48bfg94d0g78c9ca523f16"
 msgid "Nvidia DLSS"
-msgstr ""
+msgstr "Nvidia DLSS"
 
 msgctxt "h81bd0cd0gf819g4e90g90d5g3fa42f344aac"
 msgid "[1]% chance to deelectrify surfaces"
-msgstr ""
+msgstr "표면에 전기가 흐르지 않을 확률 [1]%"
 
 msgctxt "h81ca2748g7469g47c9g8e5dg49ecc8d1e382"
 msgid "Spirit Vision"
-msgstr ""
+msgstr "영혼 시야"
 
 msgctxt "h81ca7f7dgeaddg491egb156g2eb669e2b03d"
 msgid "Unlock access for other players"
@@ -3312,11 +3312,11 @@ msgstr "<LSTag Tooltip=\"SpellcastingAbilityModifier\">주문시전 능력치</L
 
 msgctxt "h81e376c8g0c34g4515ga3aege5a4e252cbd3"
 msgid "Hide Inventory"
-msgstr ""
+msgstr "인벤토리 숨기기"
 
 msgctxt "h8210569agdc7eg431ag897eg13ff97caebb8"
 msgid "Press [IE_PanelSelect] and select Quest to view"
-msgstr ""
+msgstr "[IE_PanelSelect] 버튼을 눌러 볼 퀘스트를 선택"
 
 msgctxt "h8263e6acg0ef5g4987gaf5fg5ab6cc2e5975"
 msgid "Server Name"
@@ -3328,7 +3328,7 @@ msgstr "플레이어"
 
 msgctxt "h82e2ab7bg3b67g4e82ga2fdg312cd5b63603"
 msgid "Wand"
-msgstr ""
+msgstr "마법봉"
 
 msgctxt "h82ea3019gd811g4662ga732g6b03ff0c96aa"
 msgid "TV speakers"
@@ -3338,7 +3338,7 @@ msgctxt "h83012800gc6e0g44f0gbcacgdc190b004ef6"
 msgid ""
 "The number of save slots will exceed the maximum available slots. Please "
 "delete some saves and try again. "
-msgstr ""
+msgstr "저장 슬롯 수가 사용 가능한 최대 슬롯 수를 초과합니다. 일부 저장을 삭제하고 다시 시도하세요. "
 
 msgctxt "h836e898eg3fbag4a19g898dgb58ea19d1b2f"
 msgid "Discard changes?"
@@ -3346,19 +3346,19 @@ msgstr "변경 사항을 취소합니까?"
 
 msgctxt "h836ff844g6a45g48edgbfddgf254f3e614de"
 msgid "Camp Supply cost"
-msgstr ""
+msgstr "야영 물자 비용"
 
 msgctxt "h837f0d4dga403g4a64gbe13g90b03dc97c6f"
 msgid "[1] doesn't need to be identified"
-msgstr ""
+msgstr "[1]: 식별할 필요가 없음"
 
 msgctxt "h83912ad2gf7dbg4fa4g82e9g051988a21899"
 msgid "Assign to AI"
-msgstr ""
+msgstr "AI에게 할당"
 
 msgctxt "h83c9e1b9ge422g4dbegbc13g327724d4ef9e"
 msgid "Removes [1]."
-msgstr ""
+msgstr "[1] 제거합니다."
 
 msgctxt "h83e4cf1fgd1c8g4aa4ga419g7778ea6cf270"
 msgid "Give your new save a name"
@@ -3366,19 +3366,19 @@ msgstr "세이브파일 이름"
 
 msgctxt "h83eaa0a7gaa52g4e3cgbecag2549ce4e0c73"
 msgid "Right Cmd"
-msgstr ""
+msgstr "오른쪽 Cmd"
 
 msgctxt "h83f840f3g4e40g497dgb10cg2bfcbabf86d7"
 msgid "Completed Trigger"
-msgstr ""
+msgstr "완료된 트리거"
 
 msgctxt "h849528ecgefd5g4a45g847dg6918a176afea"
 msgid "Base <LSTag Tooltip=\"HitPoints\">Hit Point</LSTag> Increase"
-msgstr ""
+msgstr "기본 <LSTag Tooltip=\"HitPoints\">체력</LSTag> 증가"
 
 msgctxt "h84a180c4g39dcg43e9g95d5gea29abfbfa42"
 msgid "This character can see spirits."
-msgstr ""
+msgstr "이 캐릭터는 영혼을 볼 수 있습니다."
 
 msgctxt "h8538438bga62cg4ff9g96a9g1a7e40e9a36a"
 msgid "Another player joined locally!"
@@ -3387,7 +3387,7 @@ msgstr "또 다른 플레이어가 근처에서 합류했습니다!"
 #, fuzzy
 msgctxt "h85dee390ga806g48c4g9b03g60607af47d69"
 msgid "Show Party View"
-msgstr "파티 인벤토리 보기"
+msgstr "파티 뷰 표시"
 
 msgctxt "h87700dc6ge565g4173g89a2g4d09b2d83f97"
 msgid "Rotate Character Right"
