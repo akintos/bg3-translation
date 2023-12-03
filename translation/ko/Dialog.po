@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-30 16:37+0000\n"
-"Last-Translator: Favmir <nevirful@gmail.com>\n"
+"POT-Creation-Date: 2023-12-03 22:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.0.0\n"
 
 #. Dialog = Mods/Gustav/Story/Dialogs/CombatCinematics/Arena/ARENA_TestLevel_001
 #. Speaker = Player
@@ -40,12 +38,12 @@ msgctxt "h19b9d1e2g312cg4874g8905g4e4e48c60e5e"
 msgid "Default"
 msgstr "기본값"
 
-#. Dialog = Mods/Gustav/Story/Dialogs/CombatCinematics/COMBAT_Default
+#. Dialog = Mods/Gustav/Story/Dialogs/CombatCinematics/COMBAT_BOSS_Self-TargetedAbilities
 #. Speaker = Player
-#. NodeID = a380b8bc-b6d0-41c3-ade2-66e531048db6
+#. NodeID = 791d8ee6-46ad-4801-9fd1-8816a3806a1b
 #. HandlePath = TaggedText[0].TagText[0]
-#: Mods/Gustav/Story/Dialogs/CombatCinematics/COMBAT_Default:a380b8bc-b6d0-41c3-ade2-66e531048db6
-msgctxt "h8e4b3bc7g7897g4983ga4ffg3b5662609dbd"
+#: Mods/Gustav/Story/Dialogs/CombatCinematics/COMBAT_BOSS_Self-TargetedAbilities:791d8ee6-46ad-4801-9fd1-8816a3806a1b
+msgctxt "h22e1aa93g5fbfg4a4egaae4g55c86f79e4b2"
 msgid "Default"
 msgstr "기본값"
 
@@ -55,15 +53,6 @@ msgstr "기본값"
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/Gustav/Story/Dialogs/CombatCinematics/COMBAT_BOSS_Bulette_Target_Bite_Bulette:35d3162d-9010-45f4-87d3-f3a06a3313fb
 msgctxt "hc845c64bg1393g4f40g8e1bgdcc9be7f2ec1"
-msgid "Default"
-msgstr "기본값"
-
-#. Dialog = Mods/Gustav/Story/Dialogs/CombatCinematics/COMBAT_BOSS_Self-TargetedAbilities
-#. Speaker = Player
-#. NodeID = 791d8ee6-46ad-4801-9fd1-8816a3806a1b
-#. HandlePath = TaggedText[0].TagText[0]
-#: Mods/Gustav/Story/Dialogs/CombatCinematics/COMBAT_BOSS_Self-TargetedAbilities:791d8ee6-46ad-4801-9fd1-8816a3806a1b
-msgctxt "h22e1aa93g5fbfg4a4egaae4g55c86f79e4b2"
 msgid "Default"
 msgstr "기본값"
 
@@ -82,6 +71,15 @@ msgstr "기본값"
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/Gustav/Story/Dialogs/CombatCinematics/COMBAT_DeathSavingThrow:deed2bd6-bf29-4b16-8fbd-78a76310f8e1
 msgctxt "h82894ddeg44cfg4171ga1e0g92331d36573a"
+msgid "Default"
+msgstr "기본값"
+
+#. Dialog = Mods/Gustav/Story/Dialogs/CombatCinematics/COMBAT_Default
+#. Speaker = Player
+#. NodeID = a380b8bc-b6d0-41c3-ade2-66e531048db6
+#. HandlePath = TaggedText[0].TagText[0]
+#: Mods/Gustav/Story/Dialogs/CombatCinematics/COMBAT_Default:a380b8bc-b6d0-41c3-ade2-66e531048db6
+msgctxt "h8e4b3bc7g7897g4983ga4ffg3b5662609dbd"
 msgid "Default"
 msgstr "기본값"
 
@@ -20881,6 +20879,20 @@ msgctxt "hbed42b1cge66ag4708g961cge18b01316e1b"
 msgid "*If you were looking for attention - you've found it.*"
 msgstr "*사람들의 관심을 끌기 위해 그런 짓을 했다면, 아주 성공한 것 같네요.*"
 
+#. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_Assault
+#. Speaker = Narrator
+#. NodeID = c84b2bb6-656e-47db-a499-55bf5ae4dc02
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Object:
+#.      - GEB_Crime_IsAngry(0) = False
+#: Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_Assault:c84b2bb6-656e-47db-a499-55bf5ae4dc02
+msgctxt "h27735ee0g7a63g48c4gb1ecg6b9155ef5a1d"
+msgid ""
+"*Your aggression has won you no friends. Any further violence could be met "
+"with the same.*"
+msgstr "*당신의 공격성으로는 친구를 얻지 못합니다. 폭력을 또 저지르면 그에 상응하는 대가를 치를 수 있습니다.*"
+
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_PrisonerTalksToGuard
 #. Speaker = Narrator
 #. NodeID = bcde68a9-883c-fb72-cbf5-66f796b98835
@@ -21020,20 +21032,6 @@ msgctxt "he7a8ab1fg4a76g4c6ag835ag26bece70f532"
 msgid ""
 "*Your aggression has gone too far. You're being reported to the guards.*"
 msgstr "*당신의 공격성은 선을 넘었습니다. 곧 경비병에게 신고가 들어갈 겁니다.*"
-
-#. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_Assault
-#. Speaker = Narrator
-#. NodeID = c84b2bb6-656e-47db-a499-55bf5ae4dc02
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Object:
-#.      - GEB_Crime_IsAngry(0) = False
-#: Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_Assault:c84b2bb6-656e-47db-a499-55bf5ae4dc02
-msgctxt "h27735ee0g7a63g48c4gb1ecg6b9155ef5a1d"
-msgid ""
-"*Your aggression has won you no friends. Any further violence could be met "
-"with the same.*"
-msgstr "*당신의 공격성으로는 친구를 얻지 못합니다. 폭력을 또 저지르면 그에 상응하는 대가를 치를 수 있습니다.*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_Assault
 #. Speaker = Narrator
@@ -22104,24 +22102,6 @@ msgctxt "h26caba37g5482g40f4ga178g3b75b2cb230e"
 msgid "*Your lockpicking has landed you in trouble. You're being reported.*"
 msgstr "*당신은 신고당했습니다. 당신의 자물쇠 따기가 역경을 불러왔군요.*"
 
-#. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MovedCorpse
-#. Speaker = Narrator
-#. NodeID = 0a3fa9c6-844e-49bd-0258-e509b4d09050
-#. HandlePath = TaggedText[0].TagText[1]
-#. CheckFlags:
-#.   Object:
-#.      - GEB_CRIME_DroppedOwnedCorpse(0) = False
-#.      - GEB_Crime_IsAngry(0) = False
-#.      - GEB_CRIME_PickUpOwnedCorpse(0) = False
-#.   Tag:
-#.      - NOT_MESSING_AROUND(0) = False
-#.      - GOBLIN_KID(0) = False
-#: Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MovedCorpse:0a3fa9c6-844e-49bd-0258-e509b4d09050
-msgctxt "h82cf046dgd8c2g4c14g97e5ga4c1569e857b"
-msgid ""
-"*You were seen trying to move a corpse. Perhaps it should remain unmoved.*"
-msgstr "*당신이 시체를 옮기려고 하는 모습이 신고당했습니다. 역시 그냥 거기 뒀어야 했나 보네요.*"
-
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MessWithCorpse
 #. Speaker = Narrator
 #. NodeID = 00221539-f517-441d-af58-7dbeea413417
@@ -22201,19 +22181,6 @@ msgctxt "h8a1cc90dgc382g487agb549g12952c277793"
 msgid "*The dead cannot stop you, but the living can - get ready for a fight.*"
 msgstr "*죽은 이는 아무것도 못하지만 살아 있는 자는 다르죠. 싸움을 대비하십시오.*"
 
-#. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MovedCorpse
-#. Speaker = Narrator
-#. NodeID = e53e0919-8aad-bf78-968b-6a08046f7d70
-#. HandlePath = TaggedText[0].TagText[1]
-#. SetFlags:
-#.   Object:
-#.     - CRIME_FleeHelpFromDialog(0) = True
-#: Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MovedCorpse:e53e0919-8aad-bf78-968b-6a08046f7d70
-msgctxt "hd271f9b1gafb9g4f4fg82b9g6eaa108ae1d5"
-msgid ""
-"*You were witnessed interfering with a dead body. The alarm is being raised.*"
-msgstr "*당신이 시체를 만지는 것이 발각되었습니다. 경보가 울리고 있습니다.*"
-
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MessWithCorpse
 #. Speaker = Narrator
 #. NodeID = ca9e4b99-377c-4562-a6b8-cdddbb27098f
@@ -22261,6 +22228,24 @@ msgstr "*당신이 시체를 건드리는 모습이 발각당했습니다. 역�
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MovedCorpse
 #. Speaker = Narrator
 #. NodeID = 0a3fa9c6-844e-49bd-0258-e509b4d09050
+#. HandlePath = TaggedText[0].TagText[1]
+#. CheckFlags:
+#.   Object:
+#.      - GEB_CRIME_DroppedOwnedCorpse(0) = False
+#.      - GEB_Crime_IsAngry(0) = False
+#.      - GEB_CRIME_PickUpOwnedCorpse(0) = False
+#.   Tag:
+#.      - NOT_MESSING_AROUND(0) = False
+#.      - GOBLIN_KID(0) = False
+#: Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MovedCorpse:0a3fa9c6-844e-49bd-0258-e509b4d09050
+msgctxt "h82cf046dgd8c2g4c14g97e5ga4c1569e857b"
+msgid ""
+"*You were seen trying to move a corpse. Perhaps it should remain unmoved.*"
+msgstr "*당신이 시체를 옮기려고 하는 모습이 신고당했습니다. 역시 그냥 거기 뒀어야 했나 보네요.*"
+
+#. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MovedCorpse
+#. Speaker = Narrator
+#. NodeID = 0a3fa9c6-844e-49bd-0258-e509b4d09050
 #. HandlePath = TaggedText[0].TagText[2]
 #. CheckFlags:
 #.   Object:
@@ -22288,6 +22273,19 @@ msgstr "*시체를 건드리는 건 관심을 끌기 좋습니다. 이런 취미
 msgctxt "h35480e32ga225g4697ga738ge83311d7e868"
 msgid "*You were seen moving a corpse. The guards are being summoned.*"
 msgstr "*당신은 시체를 건드리는 걸 목격당했습니다. 경비병이 오고 있습니다.*"
+
+#. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MovedCorpse
+#. Speaker = Narrator
+#. NodeID = e53e0919-8aad-bf78-968b-6a08046f7d70
+#. HandlePath = TaggedText[0].TagText[1]
+#. SetFlags:
+#.   Object:
+#.     - CRIME_FleeHelpFromDialog(0) = True
+#: Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MovedCorpse:e53e0919-8aad-bf78-968b-6a08046f7d70
+msgctxt "hd271f9b1gafb9g4f4fg82b9g6eaa108ae1d5"
+msgid ""
+"*You were witnessed interfering with a dead body. The alarm is being raised.*"
+msgstr "*당신이 시체를 만지는 것이 발각되었습니다. 경보가 울리고 있습니다.*"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Crimes/NGB_Warning_MovedCorpse
 #. Speaker = Narrator
@@ -27678,6 +27676,18 @@ msgctxt "h4dbce797g6ef6g4acdgb32dge84e7fbd728d"
 msgid "No use. It's blocked."
 msgstr "소용 없어. 막혔어."
 
+#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat
+#. Speaker = Player
+#. NodeID = 675c774f-6978-aeac-eac0-59b176b6768b
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Tag:
+#.      - REALLY_GENERIC(0) = True
+#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat:675c774f-6978-aeac-eac0-59b176b6768b
+msgctxt "h8ac3429cg1f1ag42dcga4e5g9fda51fa3b70"
+msgid "Now is <i>not</i> the time."
+msgstr "지금은 때가 <i>아니야</i>."
+
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
 #. Speaker = Player
 #. NodeID = 01e4fcb8-6495-c24c-6067-2af7aaafc6cd
@@ -27689,6 +27699,18 @@ msgstr "소용 없어. 막혔어."
 msgctxt "h501f2a12gd3a7g4845g9003gb4951c70d592"
 msgid "No luck. There must be an activation mechanism somewhere nearby."
 msgstr "안되는군. 분명 근처에 이걸 작동시키는 장치가 있을 거야."
+
+#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat
+#. Speaker = Player
+#. NodeID = 675c774f-6978-aeac-eac0-59b176b6768b
+#. HandlePath = TaggedText[0].TagText[1]
+#. CheckFlags:
+#.   Tag:
+#.      - REALLY_GENERIC(0) = True
+#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat:675c774f-6978-aeac-eac0-59b176b6768b
+msgctxt "hce600449g029dg47dfga82eg53cdd23e12e4"
+msgid "Little busy."
+msgstr "좀 바쁜데."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
 #. Speaker = Player
@@ -27702,6 +27724,18 @@ msgctxt "h0c93dd26gbd70g4193gb853gb8efb2b8f451"
 msgid "Hm - it's not activated from here."
 msgstr "흠. 여기서 작동시키는 건 아니군."
 
+#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat
+#. Speaker = Player
+#. NodeID = 675c774f-6978-aeac-eac0-59b176b6768b
+#. HandlePath = TaggedText[0].TagText[2]
+#. CheckFlags:
+#.   Tag:
+#.      - REALLY_GENERIC(0) = True
+#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat:675c774f-6978-aeac-eac0-59b176b6768b
+msgctxt "hb396b3d7ga667g4f22g8360g466ddfc074b7"
+msgid "Let's focus on surviving first."
+msgstr "지금은 살아남는 데 집중하자고."
+
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
 #. Speaker = Player
 #. NodeID = 01e4fcb8-6495-c24c-6067-2af7aaafc6cd
@@ -27713,6 +27747,18 @@ msgstr "흠. 여기서 작동시키는 건 아니군."
 msgctxt "hd374c962gc5f8g486eg83e7g21cd8fcd0c34"
 msgid "Nothing. Perhaps it's activated from elsewhere?"
 msgstr "안되는군. 다른 곳에서 작동시키는 건가?"
+
+#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat
+#. Speaker = Player
+#. NodeID = 675c774f-6978-aeac-eac0-59b176b6768b
+#. HandlePath = TaggedText[0].TagText[3]
+#. CheckFlags:
+#.   Tag:
+#.      - REALLY_GENERIC(0) = True
+#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat:675c774f-6978-aeac-eac0-59b176b6768b
+msgctxt "h8a6b0059gbba3g4e7eg9f62g2644069f0d60"
+msgid "That can wait."
+msgstr "나중에 해도 되는 거야."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
 #. Speaker = Player
@@ -28160,54 +28206,6 @@ msgctxt "hde397ddege46dg40b9gbc53ge60e2ad9ecc5"
 msgid "Nothing's happening. There has to be a way to get it working nearby."
 msgstr "아무일도 일어나지 않는군. 근처에 작동시킬 수 있는 방법이 있을 거야."
 
-#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
-#. Speaker = Player
-#. NodeID = fa7861bd-a5d9-21d0-7880-59ec8b6e155d
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Tag:
-#.      - REALLY_GENERIC(0) = True
-#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere:fa7861bd-a5d9-21d0-7880-59ec8b6e155d
-msgctxt "h2b7f9a80g4d49g4f7fgbcf7g27eb54e43fd7"
-msgid "Nothing. There must be another trigger."
-msgstr "안 되는군. 분명 다른 작동법이 있겠지."
-
-#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
-#. Speaker = Player
-#. NodeID = fa7861bd-a5d9-21d0-7880-59ec8b6e155d
-#. HandlePath = TaggedText[0].TagText[1]
-#. CheckFlags:
-#.   Tag:
-#.      - REALLY_GENERIC(0) = True
-#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere:fa7861bd-a5d9-21d0-7880-59ec8b6e155d
-msgctxt "h38963e82g7b43g4ba7ga038g52de8e3049ba"
-msgid "Inactive. I should look around."
-msgstr "안 움직이는데. 주변을 살펴야겠어."
-
-#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
-#. Speaker = Player
-#. NodeID = fa7861bd-a5d9-21d0-7880-59ec8b6e155d
-#. HandlePath = TaggedText[0].TagText[2]
-#. CheckFlags:
-#.   Tag:
-#.      - REALLY_GENERIC(0) = True
-#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere:fa7861bd-a5d9-21d0-7880-59ec8b6e155d
-msgctxt "h4eec2c84gc729g41aag8516gc89fb8bddd30"
-msgid "Hm. This must activate elsewhere."
-msgstr "흠. 다른 곳을 작동시키나 보군."
-
-#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
-#. Speaker = Player
-#. NodeID = fa7861bd-a5d9-21d0-7880-59ec8b6e155d
-#. HandlePath = TaggedText[0].TagText[3]
-#. CheckFlags:
-#.   Tag:
-#.      - REALLY_GENERIC(0) = True
-#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere:fa7861bd-a5d9-21d0-7880-59ec8b6e155d
-msgctxt "h737df0cdg8eefg4e88gae8fg3c4f50c85530"
-msgid "Doesn't do much - maybe there's another close by?"
-msgstr ""
-
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow
 #. Speaker = Player
 #. NodeID = 09da7f09-9f33-fc0b-76e3-7ff714ba72c0
@@ -28267,6 +28265,18 @@ msgstr "못 쓰겠군. 적어도 당장은 말이야."
 msgctxt "hdb97bf39ga6fbg4508gacaeg00975fa8c134"
 msgid "Might not be the time."
 msgstr "지금은 못 쓸 것 같아."
+
+#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow
+#. Speaker = Player
+#. NodeID = 0a2c62d9-f58a-fb43-7902-d5d8c18aecbb
+#. HandlePath = TaggedText[0].TagText[1]
+#. CheckFlags:
+#.   Tag:
+#.      - REALLY_GENERIC(0) = True
+#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow:0a2c62d9-f58a-fb43-7902-d5d8c18aecbb
+msgctxt "hdea41641ged0cg4626g9114gc23e59b302f4"
+msgid "That's not going to work."
+msgstr "안 되는 거 같은데."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow
 #. Speaker = Player
@@ -28779,54 +28789,6 @@ msgstr "우리에게는 좀 더 급한 일이 있어."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat
 #. Speaker = Player
-#. NodeID = 675c774f-6978-aeac-eac0-59b176b6768b
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Tag:
-#.      - REALLY_GENERIC(0) = True
-#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat:675c774f-6978-aeac-eac0-59b176b6768b
-msgctxt "h8ac3429cg1f1ag42dcga4e5g9fda51fa3b70"
-msgid "Now is <i>not</i> the time."
-msgstr "지금은 때가 <i>아니야</i>."
-
-#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat
-#. Speaker = Player
-#. NodeID = 675c774f-6978-aeac-eac0-59b176b6768b
-#. HandlePath = TaggedText[0].TagText[1]
-#. CheckFlags:
-#.   Tag:
-#.      - REALLY_GENERIC(0) = True
-#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat:675c774f-6978-aeac-eac0-59b176b6768b
-msgctxt "hce600449g029dg47dfga82eg53cdd23e12e4"
-msgid "Little busy."
-msgstr "좀 바쁜데."
-
-#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat
-#. Speaker = Player
-#. NodeID = 675c774f-6978-aeac-eac0-59b176b6768b
-#. HandlePath = TaggedText[0].TagText[2]
-#. CheckFlags:
-#.   Tag:
-#.      - REALLY_GENERIC(0) = True
-#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat:675c774f-6978-aeac-eac0-59b176b6768b
-msgctxt "hb396b3d7ga667g4f22g8360g466ddfc074b7"
-msgid "Let's focus on surviving first."
-msgstr "지금은 살아남는 데 집중하자고."
-
-#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat
-#. Speaker = Player
-#. NodeID = 675c774f-6978-aeac-eac0-59b176b6768b
-#. HandlePath = TaggedText[0].TagText[3]
-#. CheckFlags:
-#.   Tag:
-#.      - REALLY_GENERIC(0) = True
-#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat:675c774f-6978-aeac-eac0-59b176b6768b
-msgctxt "h8a6b0059gbba3g4e7eg9f62g2644069f0d60"
-msgid "That can wait."
-msgstr "나중에 해도 되는 거야."
-
-#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Combat
-#. Speaker = Player
 #. NodeID = 70a95449-06c6-4242-9f0c-b8cb76d89bf1
 #. HandlePath = TaggedText[0].TagText[0]
 #. CheckFlags:
@@ -29113,6 +29075,15 @@ msgctxt "hae9fb81fgd6c0g4577gb6c0g5dfa3fef9c62"
 msgid "Let's finish this fight first."
 msgstr "싸움 먼저 끝내자고."
 
+#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Muted
+#. Speaker = Narrator
+#. NodeID = ef434381-cace-4d0f-ae93-562ada5c5434
+#. HandlePath = TaggedText[0].TagText[0]
+#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Muted:ef434381-cace-4d0f-ae93-562ada5c5434
+msgctxt "hb918e0d5g8446g4f75g9466g1314df93214e"
+msgid "*You cannot use that right now.*"
+msgstr "*지금은 사용할 수 없습니다.*"
+
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_MechanicalClick
 #. Speaker = GROUP_MechanicalClick
 #. NodeID = cb09064c-b05a-aa69-f54b-4f7ec7987272
@@ -29227,6 +29198,18 @@ msgctxt "h3430cbf5g5bb0g40e1g8e46g1ffee17fdf6b"
 msgid "Don't fancy getting my hands dirty. I need a shovel."
 msgstr "손을 더럽히는걸 좋아하진 않아. 삽이 필요해."
 
+#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
+#. Speaker = Player
+#. NodeID = fa7861bd-a5d9-21d0-7880-59ec8b6e155d
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Tag:
+#.      - REALLY_GENERIC(0) = True
+#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere:fa7861bd-a5d9-21d0-7880-59ec8b6e155d
+msgctxt "h2b7f9a80g4d49g4f7fgbcf7g27eb54e43fd7"
+msgid "Nothing. There must be another trigger."
+msgstr "안 되는군. 분명 다른 작동법이 있겠지."
+
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_UnlockedElsewhere
 #. Speaker = Player
 #. NodeID = 5eca7903-5a0f-972e-6052-6107babd2d95
@@ -29238,6 +29221,18 @@ msgstr "손을 더럽히는걸 좋아하진 않아. 삽이 필요해."
 msgctxt "hbcf45252ge5ccg4290ga309gb2477722e156"
 msgid "Locked tight. There must be a way to open it nearby."
 msgstr "단단히도 잠겼군. 근처에 이걸 열 수 있는 방법이 있을 거야."
+
+#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
+#. Speaker = Player
+#. NodeID = fa7861bd-a5d9-21d0-7880-59ec8b6e155d
+#. HandlePath = TaggedText[0].TagText[1]
+#. CheckFlags:
+#.   Tag:
+#.      - REALLY_GENERIC(0) = True
+#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere:fa7861bd-a5d9-21d0-7880-59ec8b6e155d
+msgctxt "h38963e82g7b43g4ba7ga038g52de8e3049ba"
+msgid "Inactive. I should look around."
+msgstr "안 움직이는데. 주변을 살펴야겠어."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_UnlockedElsewhere
 #. Speaker = Player
@@ -29251,6 +29246,18 @@ msgctxt "h3d3f4dffgd788g4cddg9a16g1e95b2ac133f"
 msgid "No way to open it from here."
 msgstr "여기서는 열 수 없어."
 
+#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
+#. Speaker = Player
+#. NodeID = fa7861bd-a5d9-21d0-7880-59ec8b6e155d
+#. HandlePath = TaggedText[0].TagText[2]
+#. CheckFlags:
+#.   Tag:
+#.      - REALLY_GENERIC(0) = True
+#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere:fa7861bd-a5d9-21d0-7880-59ec8b6e155d
+msgctxt "h4eec2c84gc729g41aag8516gc89fb8bddd30"
+msgid "Hm. This must activate elsewhere."
+msgstr "흠. 다른 곳을 작동시키나 보군."
+
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_UnlockedElsewhere
 #. Speaker = Player
 #. NodeID = 5eca7903-5a0f-972e-6052-6107babd2d95
@@ -29262,6 +29269,18 @@ msgstr "여기서는 열 수 없어."
 msgctxt "h7b50eae7g1dbag497bg9438g5fa202ca1cbf"
 msgid "It won't budge. Need to look elsewhere."
 msgstr "꼼짝도 안하네. 다른데를 찾아보라고."
+
+#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere
+#. Speaker = Player
+#. NodeID = fa7861bd-a5d9-21d0-7880-59ec8b6e155d
+#. HandlePath = TaggedText[0].TagText[3]
+#. CheckFlags:
+#.   Tag:
+#.      - REALLY_GENERIC(0) = True
+#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_ActivatedElsewhere:fa7861bd-a5d9-21d0-7880-59ec8b6e155d
+msgctxt "h737df0cdg8eefg4e88gae8fg3c4f50c85530"
+msgid "Doesn't do much - maybe there's another close by?"
+msgstr ""
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_UnlockedElsewhere
 #. Speaker = Player
@@ -40542,6 +40561,45 @@ msgstr "쯧. 햇빛 때문에 피부에 문제가 생기는군."
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror
 #. Speaker = Player
+#. NodeID = 2fe96a61-ab59-23d9-51e4-4ff76c0d8fcf
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Global:
+#.      - ORI_Astarion_State_BecameVampireLord = True
+#. TagRule: REALLY_ASTARION
+#: Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror:2fe96a61-ab59-23d9-51e4-4ff76c0d8fcf
+msgctxt "h84194977g024cg4bb3g807ag038b97f3df0c"
+msgid "Exquisite. Simply exquisite."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror
+#. Speaker = Player
+#. NodeID = 2fe96a61-ab59-23d9-51e4-4ff76c0d8fcf
+#. HandlePath = TaggedText[0].TagText[1]
+#. CheckFlags:
+#.   Global:
+#.      - ORI_Astarion_State_BecameVampireLord = True
+#. TagRule: REALLY_ASTARION
+#: Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror:2fe96a61-ab59-23d9-51e4-4ff76c0d8fcf
+msgctxt "hbeed64e1g950cg4266g9bbcgdf88ffa1084c"
+msgid "Oh, yes. I can see what all the fuss is about."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror
+#. Speaker = Player
+#. NodeID = 2fe96a61-ab59-23d9-51e4-4ff76c0d8fcf
+#. HandlePath = TaggedText[0].TagText[2]
+#. CheckFlags:
+#.   Global:
+#.      - ORI_Astarion_State_BecameVampireLord = True
+#. TagRule: REALLY_ASTARION
+#: Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror:2fe96a61-ab59-23d9-51e4-4ff76c0d8fcf
+msgctxt "h6f91abc2g06c0g4ff8gb016gadc1786183e0"
+msgid "How did I go two hundred years without seeing that face? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror
+#. Speaker = Player
 #. NodeID = 73d1ea95-ee2b-76f3-f629-876a41e3a05c
 #. HandlePath = TaggedText[0].TagText[0]
 #. TagRule: REALLY_WYLL and WYLL_DEVIL
@@ -40601,6 +40659,16 @@ msgctxt "h2ae23b5cg019fg4ff6gbf3dg4e5c90d82c5e"
 msgid ""
 "A bruise here, a scratch there. Nothing a good night's sleep couldn't cure."
 msgstr "여기 멍이 있고, 저기 긁힌 자국도 있네. 낫는덴 하룻밤 푹 자는 것만큼 좋은 게 없지."
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror
+#. Speaker = Player
+#. NodeID = 9f3e2e38-b720-2f64-ff1d-e430d8c1e402
+#. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: REALLY_ASTARION
+#: Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror:9f3e2e38-b720-2f64-ff1d-e430d8c1e402
+msgctxt "h8eab7530g5982g4b33gb5c7g3016f9c7c3f9"
+msgid "Hello again. Gods, I missed you."
+msgstr ""
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror
 #. Speaker = Player
@@ -40717,6 +40785,9 @@ msgstr "자부심은 받아들이고 허영은 거부해. 특히 비춰진 자�
 #. Speaker = Player
 #. NodeID = a843825d-2f32-4b93-892c-fe01af947a86
 #. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Global:
+#.      - ORI_Astarion_State_BecameVampireLord = False
 #. TagRule: REALLY_ASTARION
 #: Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror:a843825d-2f32-4b93-892c-fe01af947a86
 msgctxt "h6155b7b5g6ef1g4f10g8cf6ga117da3e8a21"
@@ -40727,6 +40798,9 @@ msgstr "이 모습이 근사하다는 걸 알기에 거울은 필요하지 않�
 #. Speaker = Player
 #. NodeID = a843825d-2f32-4b93-892c-fe01af947a86
 #. HandlePath = TaggedText[0].TagText[1]
+#. CheckFlags:
+#.   Global:
+#.      - ORI_Astarion_State_BecameVampireLord = False
 #. TagRule: REALLY_ASTARION
 #: Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror:a843825d-2f32-4b93-892c-fe01af947a86
 msgctxt "h0f29d974g5437g4b41gbf59ge718ddce9e5c"
@@ -40737,11 +40811,33 @@ msgstr "흠, 그래... 여전히 안 보이는군."
 #. Speaker = Player
 #. NodeID = a843825d-2f32-4b93-892c-fe01af947a86
 #. HandlePath = TaggedText[0].TagText[2]
+#. CheckFlags:
+#.   Global:
+#.      - ORI_Astarion_State_BecameVampireLord = False
 #. TagRule: REALLY_ASTARION
 #: Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror:a843825d-2f32-4b93-892c-fe01af947a86
 msgctxt "ha67ad35fg0feeg4ab6g9618g6a2e25927081"
 msgid "Looking perfect as always. I assume."
 msgstr "언제나처럼 완벽한 모습이겠지. 볼 수만 있었다면."
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror
+#. Speaker = Player
+#. NodeID = b1ad6f31-f56c-a14f-b4fd-4c7936a2c972
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Global:
+#.      - ORI_Astarion_State_BecameVampireLord = True
+#.   Local:
+#.      - b1149083-09c7-b913-25c7-05018185f16f_A = False
+#. SetFlags:
+#.   Local:
+#.     - b1149083-09c7-b913-25c7-05018185f16f_A = True
+#. TagRule: REALLY_ASTARION
+#: Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror:b1ad6f31-f56c-a14f-b4fd-4c7936a2c972
+msgctxt "ha9497ed2ga39bg47a1g91c7g2e6862d3351e"
+msgid ""
+"It's... me. The ritual gave me back my reflection - after all these years..."
+msgstr ""
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Generics/GLO_PAD_Mirror
 #. Speaker = Player
@@ -44303,7 +44399,7 @@ msgstr "*삐걱.*"
 #.      - ACT2_TWN_TOLLHOUSECOLLECTOR_FACE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:137d8a3d-b74d-1ecd-0e27-3950f4a4a964
 msgctxt "h83fed516g47acg4d3ega1b1ge76dbf16d36c"
-msgid "You will pay. They all do in the end. "
+msgid "You will pay. They all do in the end."
 msgstr "대가를 치러야 할 거다. 모두 결국에는 그렇게 되지. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44315,7 +44411,7 @@ msgstr "대가를 치러야 할 거다. 모두 결국에는 그렇게 되지. "
 #.      - ACT2_TWN_TOLLHOUSECOLLECTOR_FACE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:137d8a3d-b74d-1ecd-0e27-3950f4a4a964
 msgctxt "hde4dd51bg9335g488fg82e5g1d9282cee5d1"
-msgid "Nothing in life is for free. "
+msgid "Nothing in life is for free."
 msgstr "인생에서 공짜는 없어. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44327,7 +44423,7 @@ msgstr "인생에서 공짜는 없어. "
 #.      - ACT2_TWN_TOLLHOUSECOLLECTOR_FACE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:137d8a3d-b74d-1ecd-0e27-3950f4a4a964
 msgctxt "h072d4880gbb7fg4ddbg9aa8gf1671604469d"
-msgid "If not gold, then pay in blood! "
+msgid "If not gold, then pay in blood!"
 msgstr "돈이 없다면 피로 갚아라! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44375,7 +44471,7 @@ msgstr "해그는 절대 지지 않는단다, 아가야. 두고 보렴."
 #.      - ACT2_TWN_HOSPITAL_NURSE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:1441f17b-1384-38dd-5bb0-e51df5f90614
 msgctxt "h887cd8e4g8ed5g4f95g923cg4bb8611025c9"
-msgid "Absence awaits. The cure, the cure! \n"
+msgid "Absence awaits. The cure, the cure!"
 msgstr "부재가 기다린다. 치료, 치료! \n"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44399,7 +44495,7 @@ msgstr "가만히 있어. 아프지 않을 거야!"
 #.      - ACT2_TWN_HOSPITAL_NURSE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:1441f17b-1384-38dd-5bb0-e51df5f90614
 msgctxt "hcbe0b709gab0bg495fg9029g2ab349c0f187"
-msgid "No better? Death will cure you. "
+msgid "No better? Death will cure you."
 msgstr "더 나아지지 않는다고? 죽음이 널 치료해 줄 거다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44549,7 +44645,7 @@ msgstr "조금만 기다려 주십시오. 곧 그들이 당신께 넘겨질 겁�
 #.      - SCL_DRIDER(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:2efaa966-62e2-4381-a05c-809cc4b0de1c
 msgctxt "h5c501a03g5483g43edga640gac292344fcd7"
-msgid "The shadows hunger for your flesh. I shall feed them! "
+msgid "The shadows hunger for your flesh. I shall feed them!"
 msgstr "그림자가 네 살을 갈망하고 있다. 내가 그림자에게 먹여주지! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44561,7 +44657,7 @@ msgstr "그림자가 네 살을 갈망하고 있다. 내가 그림자에게 먹�
 #.      - SCL_DRIDER(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:2efaa966-62e2-4381-a05c-809cc4b0de1c
 msgctxt "h8968bcb6g2e28g47c1g8eadg8210aa0d9ff2"
-msgid "Die in darkness. It is my queen's will! "
+msgid "Die in darkness. It is my queen's will!"
 msgstr "어둠 속에서 죽어라. 나의 여왕님의 뜻이다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44732,7 +44828,7 @@ msgstr "*첨벙.*"
 #.      - APOSTLE_OF_MYRKUL(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:46084c62-667f-b3d9-0a1a-a3831babc755
 msgctxt "h13af9ed9g871cg4f64ga88dge72d72522989"
-msgid "You end and begin with me. "
+msgid "You end and begin with me."
 msgstr "너는 나와 함께 시작하고 끝나리라. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44744,7 +44840,7 @@ msgstr "너는 나와 함께 시작하고 끝나리라. "
 #.      - APOSTLE_OF_MYRKUL(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:46084c62-667f-b3d9-0a1a-a3831babc755
 msgctxt "h41bf10e6g5ff0g425fgb9e9ga5233549045a"
-msgid "One final threshold to cross. "
+msgid "One final threshold to cross."
 msgstr "날 가로막는 단 하나의 장애물만 남았구나."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44756,7 +44852,7 @@ msgstr "날 가로막는 단 하나의 장애물만 남았구나."
 #.      - APOSTLE_OF_MYRKUL(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:46084c62-667f-b3d9-0a1a-a3831babc755
 msgctxt "h1f8b6a9cg6f3cg4a40ga6f4g6b85bbb68781"
-msgid "Death is ready for you. "
+msgid "Death is ready for you."
 msgstr "죽음이 너를 기다린다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44768,7 +44864,7 @@ msgstr "죽음이 너를 기다린다. "
 #.      - APOSTLE_OF_MYRKUL(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:46084c62-667f-b3d9-0a1a-a3831babc755
 msgctxt "h827f5721gf1e9g414fg88b0gbdf13f9ef7a6"
-msgid "Death does not ask, Death is here. "
+msgid "Death does not ask, Death is here."
 msgstr "죽음은 물어보지 않는다. 죽음은 여기 있다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44840,7 +44936,7 @@ msgstr "잔이 비었군. 이제 술은 없어."
 #.      - BREWER_CREATURE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:51535458-d811-3d04-b35e-a11d3be4e117
 msgctxt "hdc78760dgf188g4a29gab99gf60f2f07d4c6"
-msgid "Too much drink. Now, die. "
+msgid "Too much drink. Now, die."
 msgstr "술을 너무 많이 마셨어. 이제, 죽어라. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44864,7 +44960,7 @@ msgstr ""
 #.      - GLO_GENERIC_CULTIST(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:5247b64f-929f-7704-4928-920165bce947
 msgctxt "hceffb7e9g34d3g45b0g91d6g960b05296f93"
-msgid "Time to die, heretic! "
+msgid "Time to die, heretic!"
 msgstr "죽을 시간이다, 이단자! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -44876,7 +44972,7 @@ msgstr "죽을 시간이다, 이단자! "
 #.      - GLO_GENERIC_CULTIST(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:5247b64f-929f-7704-4928-920165bce947
 msgctxt "hb92b32a3gdbceg4429gb518ge1536976de27"
-msgid "Your death is my offering! "
+msgid "Your death is my offering!"
 msgstr "너의 죽음을 제물로 바치겠다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -45780,7 +45876,7 @@ msgstr "널 땅속에 처박아 주겠다!"
 #.      - ACT3_LOW_VICONIA(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:782d4d84-e216-f0cd-d421-f37b7a4a9e38
 msgctxt "hca192f04g9962g42fega12dgbf1c82687db9"
-msgid "The darkness is ready. Surrender to it, and be free. "
+msgid "The darkness is ready. Surrender to it, and be free."
 msgstr "어둠은 준비됐다. 그 어둠에 항복하고, 자유를 얻어라. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -45792,7 +45888,7 @@ msgstr "어둠은 준비됐다. 그 어둠에 항복하고, 자유를 얻어라.
 #.      - ACT3_LOW_VICONIA(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:782d4d84-e216-f0cd-d421-f37b7a4a9e38
 msgctxt "hb1dc6223gbaf5g448ag8d4cgad18e6c4daad"
-msgid "There is only silence waiting for you now. "
+msgid "There is only silence waiting for you now."
 msgstr "이제 너를 기다리는 건 침묵뿐이다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -45804,7 +45900,7 @@ msgstr "이제 너를 기다리는 건 침묵뿐이다. "
 #.      - ACT3_LOW_VICONIA(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:782d4d84-e216-f0cd-d421-f37b7a4a9e38
 msgctxt "hf3dfdf30g0504g4ab7ga8b9g2c82dd7b42ad"
-msgid "Your heart beats its last. "
+msgid "Your heart beats its last."
 msgstr "네 심장이 마지막 박동을 치는구나. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -45816,7 +45912,7 @@ msgstr "네 심장이 마지막 박동을 치는구나. "
 #.      - ACT2_TWN_HOSPITAL_SURGEON(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:85dd4214-0414-5ac7-dc4a-6705fd9e64f2
 msgctxt "h1fcae8feg8d88g499ag8b84gcd0d5fa18d43"
-msgid "You could be cured by no steadier hand than mine. "
+msgid "You could be cured by no steadier hand than mine."
 msgstr "내 손보다 더 확실하게 치료 받을 수는 없을거야. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -45840,7 +45936,7 @@ msgstr "죽음이 널 영원히 편안하게 해줄 거야."
 #.      - ACT2_TWN_HOSPITAL_SURGEON(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:85dd4214-0414-5ac7-dc4a-6705fd9e64f2
 msgctxt "h8883d9cag7399g4895gb838g65dd3e799fa3"
-msgid "Hush. Your sickness will soon be over. "
+msgid "Hush. Your sickness will soon be over."
 msgstr "쉿. 너의 병은 곧 끝날거야. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -45852,7 +45948,7 @@ msgstr "쉿. 너의 병은 곧 끝날거야. "
 #.      - ACT2_TWN_HOSPITAL_SURGEON(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:85dd4214-0414-5ac7-dc4a-6705fd9e64f2
 msgctxt "hb7060002gd9bcg4809g8208ge16135c3b007"
-msgid "Be still. The sweet release of absence awaits you. "
+msgid "Be still. The sweet release of absence awaits you."
 msgstr "가만히 있어. 부재의 달콤한 해방이 기다리고 있어. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -46119,7 +46215,7 @@ msgstr ""
 #.      - MINSC(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:b63bcdf0-c4d2-71d8-0f43-e7a8fa59eb6c
 msgctxt "h1ece25edg8d7bg44dfg9015ga72b55190326"
-msgid "I will do it! I will kick your butt! "
+msgid "I will do it! I will kick your butt!"
 msgstr "내가 할 거야! 네 엉덩이를 걷어차주마! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -46131,7 +46227,7 @@ msgstr "내가 할 거야! 네 엉덩이를 걷어차주마! "
 #.      - MINSC(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:b63bcdf0-c4d2-71d8-0f43-e7a8fa59eb6c
 msgctxt "ha46204b4g2557g4fa0gb87egb16c8cedbab3"
-msgid "Boo will make space dust of you! "
+msgid "Boo will make space dust of you!"
 msgstr "부가 널 우주 먼지로 만들어 버릴 거야! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -46143,7 +46239,7 @@ msgstr "부가 널 우주 먼지로 만들어 버릴 거야! "
 #.      - MINSC(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:b63bcdf0-c4d2-71d8-0f43-e7a8fa59eb6c
 msgctxt "h7ca8a59egba9bg4a0fg8e2ag867e649fbce6"
-msgid "Ready or not, time to die! "
+msgid "Ready or not, time to die!"
 msgstr "준비됐든 안 됐든, 죽을 시간이다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -46215,7 +46311,7 @@ msgstr "네 뼈는 내 수집품에 추가하기 좋겠군."
 #.      - ACT2_SHA_BALTHAZAR(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:ce3bc35c-1d22-18cd-9e67-6a03715c0985
 msgctxt "hd15e7dafg5da3g418cgaca7gaa32a7b9bf83"
-msgid "I shall take your flesh and make a masterpiece of you. "
+msgid "I shall take your flesh and make a masterpiece of you."
 msgstr "네 살점을 뜯어서 걸작을 만들어주마. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -46335,7 +46431,7 @@ msgstr "너의 비참한 미래를 보라!"
 #.      - ACT3_LOW_SAREVOK(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:db34379d-934a-c1e6-309e-8701f0b82e7e
 msgctxt "h060ad8ccg124fg4d8dg83ebg6c01d67d7e4d"
-msgid "Bhaal will have his sacrifice. "
+msgid "Bhaal will have his sacrifice."
 msgstr "바알님이 제물을 받으시겠군. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -46347,7 +46443,7 @@ msgstr "바알님이 제물을 받으시겠군. "
 #.      - ACT3_LOW_SAREVOK(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:db34379d-934a-c1e6-309e-8701f0b82e7e
 msgctxt "h3d31bc51gc6fcg41f6gbe64g9f2096cb8705"
-msgid "You will make a fine offering for my Lord. "
+msgid "You will make a fine offering for my Lord."
 msgstr "내 주군을 위한 훌륭한 제물이 되겠군. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -46359,7 +46455,7 @@ msgstr "내 주군을 위한 훌륭한 제물이 되겠군. "
 #.      - ACT3_LOW_SAREVOK(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:db34379d-934a-c1e6-309e-8701f0b82e7e
 msgctxt "h2a60b39fg8b44g40cfgaa18g36dca0fef812"
-msgid "Murder awaits you. Pure murder. "
+msgid "Murder awaits you. Pure murder."
 msgstr "살인이 널 기다린다. 순수한 살인이지. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -46635,7 +46731,7 @@ msgstr "가까이 오거라. 널 찢어 버릴테다!"
 #.      - ACT3_WYR_GORTASH(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:ff2413a1-6fd4-36cb-ebf2-dfac0dd3c450
 msgctxt "h8af0d7fbgcf1eg460fg94a5gd486bd1fb696"
-msgid "Your death will be a real shame. "
+msgid "Your death will be a real shame."
 msgstr "네 죽음은 정말 안타까운 일이 될 거야. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -46647,7 +46743,7 @@ msgstr "네 죽음은 정말 안타까운 일이 될 거야. "
 #.      - ACT3_WYR_GORTASH(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:ff2413a1-6fd4-36cb-ebf2-dfac0dd3c450
 msgctxt "h19dcbfd9g7efdg4bffgbdc9g55d4f6f96690"
-msgid "You can't win - not now. "
+msgid "You can't win - not now."
 msgstr "넌 이길 수 없어. 지금은 말이지. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -46659,7 +46755,7 @@ msgstr "넌 이길 수 없어. 지금은 말이지. "
 #.      - ACT3_WYR_GORTASH(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback:ff2413a1-6fd4-36cb-ebf2-dfac0dd3c450
 msgctxt "h005e3394gfd0bg481fgab14gb12db9867282"
-msgid "What a waste of talent. "
+msgid "What a waste of talent."
 msgstr "이 얼마나 재능 낭비인가. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_CombatFallback
@@ -46851,7 +46947,7 @@ msgstr "어둠 속을 기어다니고 있느냐? 내가 찾아내 주마!"
 #.      - ACT3_LOW_ORIN(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:17af94e3-077e-4ac4-ba43-12fceeadf0df
 msgctxt "hf6e76f5dg98ebg47dbga33age03aee282090"
-msgid "Squeak squeak - where are you little morsel? "
+msgid "Squeak squeak - where are you little morsel?"
 msgstr "찍찍 찍찍, 어디 있니 귀여운 것? "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -46899,7 +46995,7 @@ msgstr "*삐걱.*"
 #.      - ACT2_TWN_TOLLHOUSECOLLECTOR_FACE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:1d85a982-510f-4acb-89ff-b233ed3a3c7c
 msgctxt "hcb4af864g2d53g44a7ga628gb2808aca767d"
-msgid "You will pay. They all do in the end. "
+msgid "You will pay. They all do in the end."
 msgstr "대가를 치러야 할 거다. 모두 결국에는 그렇게 되지. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -46911,7 +47007,7 @@ msgstr "대가를 치러야 할 거다. 모두 결국에는 그렇게 되지. "
 #.      - ACT2_TWN_TOLLHOUSECOLLECTOR_FACE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:1d85a982-510f-4acb-89ff-b233ed3a3c7c
 msgctxt "h905c0db9ge4e0g4cbdg961fg44b3e5341f24"
-msgid "Nothing in life is for free. "
+msgid "Nothing in life is for free."
 msgstr "인생에서 공짜는 없어. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -46923,7 +47019,7 @@ msgstr "인생에서 공짜는 없어. "
 #.      - ACT2_TWN_TOLLHOUSECOLLECTOR_FACE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:1d85a982-510f-4acb-89ff-b233ed3a3c7c
 msgctxt "h58066840g52f7g45b9g88c6g05d80b7ec5c5"
-msgid "If not gold, then pay in blood! "
+msgid "If not gold, then pay in blood!"
 msgstr "돈이 없다면 피로 갚아라! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -46935,7 +47031,7 @@ msgstr "돈이 없다면 피로 갚아라! "
 #.      - HAG(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:23b9b8d7-7438-49f0-9ba0-dd3f0141a4c8
 msgctxt "h8e39af65g9334g43a9g8ef4gf68116b6617d"
-msgid "Come back to Auntie, pet! "
+msgid "Come back to Auntie, pet!"
 msgstr "이모한테 돌아와, 귀염둥이! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -46959,7 +47055,7 @@ msgstr "영원히 숨을 수는 없단다. 내게서 말이지!"
 #.      - HAG(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:23b9b8d7-7438-49f0-9ba0-dd3f0141a4c8
 msgctxt "haab6dec6g2d94g4e3egbea3g838be2060ea4"
-msgid "Come out, pet. Auntie's got a treat for you! "
+msgid "Come out, pet. Auntie's got a treat for you!"
 msgstr "나와라, 얘야. 이모가 간식 줄게! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -46971,7 +47067,7 @@ msgstr "나와라, 얘야. 이모가 간식 줄게! "
 #.      - ACT2_TWN_HOSPITAL_NURSE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:249fade8-4241-4733-9664-9c6c70dcb684
 msgctxt "h64a78d8egfc43g4786gb06eg7268d937a268"
-msgid "Absence awaits. The cure, the cure! \n"
+msgid "Absence awaits. The cure, the cure!"
 msgstr "부재가 기다린다. 치료, 치료! \n"
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -46995,7 +47091,7 @@ msgstr "가만히 있어. 아프지 않을 거야!"
 #.      - ACT2_TWN_HOSPITAL_NURSE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:249fade8-4241-4733-9664-9c6c70dcb684
 msgctxt "h7e4c9888gb9feg47d6g9cadge7ab338d8897"
-msgid "No better? Death will cure you. "
+msgid "No better? Death will cure you."
 msgstr "더 나아지지 않는다고? 죽음이 널 치료해 줄 거다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47076,7 +47172,7 @@ msgstr "아직 너랑 결판이 안났어."
 #. HandlePath = TaggedText[0].TagText[0]
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:2e581b8c-642e-43f1-98ae-2342b8812f12
 msgctxt "h2f6336c2ged7ag4e57ga484g7469db74653f"
-msgid "Hide all you like, I'll find you! "
+msgid "Hide all you like, I'll find you!"
 msgstr "얼마든지 숨어봐, 내가 찾아내고 말겠다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47085,7 +47181,7 @@ msgstr "얼마든지 숨어봐, 내가 찾아내고 말겠다! "
 #. HandlePath = TaggedText[0].TagText[1]
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:2e581b8c-642e-43f1-98ae-2342b8812f12
 msgctxt "h20169b66gf376g4350gb032g824fe2460dc6"
-msgid "Where the hells have they gone? "
+msgid "Where the hells have they gone?"
 msgstr "대체 어디로 간 거야? "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47094,7 +47190,7 @@ msgstr "대체 어디로 간 거야? "
 #. HandlePath = TaggedText[0].TagText[2]
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:2e581b8c-642e-43f1-98ae-2342b8812f12
 msgctxt "h17b9b661gd6b5g40bfg8bd2g086d9679e01f"
-msgid "I know you're still out there! "
+msgid "I know you're still out there!"
 msgstr "아직 거기 밖에 있는 거 알아! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47103,7 +47199,7 @@ msgstr "아직 거기 밖에 있는 거 알아! "
 #. HandlePath = TaggedText[0].TagText[3]
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:2e581b8c-642e-43f1-98ae-2342b8812f12
 msgctxt "h1c4e3a2agc007g4fdag813bg7b29cbdc11cc"
-msgid "Show yourself! "
+msgid "Show yourself!"
 msgstr "모습을 드러내라! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47112,7 +47208,7 @@ msgstr "모습을 드러내라! "
 #. HandlePath = TaggedText[0].TagText[4]
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:2e581b8c-642e-43f1-98ae-2342b8812f12
 msgctxt "h6009cd25gcf77g4b87g836dg63aa228f0655"
-msgid "Can't seem to find them... "
+msgid "Can't seem to find them..."
 msgstr "못 찾겠어... "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47121,7 +47217,7 @@ msgstr "못 찾겠어... "
 #. HandlePath = TaggedText[0].TagText[5]
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:2e581b8c-642e-43f1-98ae-2342b8812f12
 msgctxt "he8ab71eagc470g48ddgb013g0d68f4ee7e61"
-msgid "Come out, coward! "
+msgid "Come out, coward!"
 msgstr "나와라, 겁쟁이! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47145,7 +47241,7 @@ msgstr "조금만 기다려 주십시오. 곧 그들이 당신께 넘겨질 겁�
 #.      - SCL_DRIDER(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:319a13d0-d880-4200-a3a4-4b2030d836ba
 msgctxt "he68244d2g7373g4035ga0a9g570f9bd7bfff"
-msgid "The shadows hunger for your flesh. I shall feed them! "
+msgid "The shadows hunger for your flesh. I shall feed them!"
 msgstr "그림자가 네 살을 갈망하고 있다. 내가 그림자에게 먹여주지! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47157,7 +47253,7 @@ msgstr "그림자가 네 살을 갈망하고 있다. 내가 그림자에게 먹�
 #.      - SCL_DRIDER(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:319a13d0-d880-4200-a3a4-4b2030d836ba
 msgctxt "he2a1f669ga71fg4209g86abgb538c6c492d8"
-msgid "Die in darkness. It is my queen's will! "
+msgid "Die in darkness. It is my queen's will!"
 msgstr "어둠 속에서 죽어라. 나의 여왕님의 뜻이다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47181,7 +47277,7 @@ msgstr "망나니 여왕의 이름으로, 널 찾고 말 테다!"
 #.      - ACT3_LOW_UMBERLEECULTIST(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:4e0222fe-add1-4928-a4da-b7dd0420bdc9
 msgctxt "h892778ffgabbeg4dbaga457g0735fed6e583"
-msgid "Hiding are we? Umberlee sees all. "
+msgid "Hiding are we? Umberlee sees all."
 msgstr "그게 숨은거야? 움벌리는 다 볼 수 있어. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47193,7 +47289,7 @@ msgstr "그게 숨은거야? 움벌리는 다 볼 수 있어. "
 #.      - ACT3_LOW_UMBERLEECULTIST(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:4e0222fe-add1-4928-a4da-b7dd0420bdc9
 msgctxt "h980dc6ceg64a4g4456ga6d4gb1deadeb388b"
-msgid "The depths will find you, and quench you. "
+msgid "The depths will find you, and quench you."
 msgstr "심연이 널 찾아내서 죽여버릴 것이다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47219,7 +47315,7 @@ msgstr "널 찾아내고 말겠어!"
 #. TagRule: BEHOLDER or SPECTATOR
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:557d4410-bd47-4492-9b2b-7fbfbf005b88
 msgctxt "h1e7a80c4g743fg4787g9e1agb989c8ac533a"
-msgid "Wherever you are, I'll see you. "
+msgid "Wherever you are, I'll see you."
 msgstr "어디에 있든, 널 찾아낼 거야. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47328,7 +47424,7 @@ msgstr "*첨벙.*"
 #.      - APOSTLE_OF_MYRKUL(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:602fc8f9-c269-40e6-bca3-5785dd0087be
 msgctxt "h7f883b99g1240g478cgad06gbfdca990ee98"
-msgid "You end and begin with me. "
+msgid "You end and begin with me."
 msgstr "너는 나와 함께 시작하고 끝나리라. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47340,7 +47436,7 @@ msgstr "너는 나와 함께 시작하고 끝나리라. "
 #.      - APOSTLE_OF_MYRKUL(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:602fc8f9-c269-40e6-bca3-5785dd0087be
 msgctxt "hc3c1eec8gda30g4555g83a1g4e7b8b98f785"
-msgid "One final threshold to cross. "
+msgid "One final threshold to cross."
 msgstr "날 가로막는 단 하나의 장애물만 남았구나."
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47352,7 +47448,7 @@ msgstr "날 가로막는 단 하나의 장애물만 남았구나."
 #.      - APOSTLE_OF_MYRKUL(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:602fc8f9-c269-40e6-bca3-5785dd0087be
 msgctxt "hfeec4ed4g43f6g485bgb2beg193e3cb2e8ee"
-msgid "Death is ready for you. "
+msgid "Death is ready for you."
 msgstr "죽음이 너를 기다린다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47364,7 +47460,7 @@ msgstr "죽음이 너를 기다린다. "
 #.      - APOSTLE_OF_MYRKUL(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:602fc8f9-c269-40e6-bca3-5785dd0087be
 msgctxt "h0b1a7117g1bc3g4f3cg8201g5349b953323e"
-msgid "Death does not ask, Death is here. "
+msgid "Death does not ask, Death is here."
 msgstr "죽음은 물어보지 않는다. 죽음은 여기 있다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47436,7 +47532,7 @@ msgstr "잔이 비었군. 이제 술은 없어."
 #.      - BREWER_CREATURE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:621c3d7f-8660-4bfa-ac51-63fad1cbd7d6
 msgctxt "hbbdca903gdb20g40c3gad5bg09a152707ec8"
-msgid "Too much drink. Now, die. "
+msgid "Too much drink. Now, die."
 msgstr "술을 너무 많이 마셨어. 이제, 죽어라. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47448,7 +47544,7 @@ msgstr "술을 너무 많이 마셨어. 이제, 죽어라. "
 #.      - GLO_GENERIC_CULTIST(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:63e41276-2324-444a-9035-cbb0af4e3f5d
 msgctxt "h8704921fgbd06g4b9dgb4fag864c1788f27d"
-msgid "Your time is up! "
+msgid "Your time is up!"
 msgstr "너의 시간은 끝났다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47460,7 +47556,7 @@ msgstr "너의 시간은 끝났다! "
 #.      - GLO_GENERIC_CULTIST(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:63e41276-2324-444a-9035-cbb0af4e3f5d
 msgctxt "he12ec582g0390g4cfag9f7cgb17a00489ab5"
-msgid "Time to die, heretic! "
+msgid "Time to die, heretic!"
 msgstr "죽을 시간이다, 이단자! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -47472,7 +47568,7 @@ msgstr "죽을 시간이다, 이단자! "
 #.      - GLO_GENERIC_CULTIST(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:63e41276-2324-444a-9035-cbb0af4e3f5d
 msgctxt "h3ded6659gdd68g44ecga1fegb1b94365e747"
-msgid "Your death is my offering! "
+msgid "Your death is my offering!"
 msgstr "너의 죽음을 제물로 바치겠다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48128,7 +48224,7 @@ msgstr "크르르!"
 #.      - GUARD(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:708c97a1-71d7-403e-be4d-77d202168e5a
 msgctxt "h3d864363g961ag4109g9847g2a8bbf7f96ea"
-msgid "They've gone! Find them! "
+msgid "They've gone! Find them!"
 msgstr "사라졌다! 찾아라! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48140,7 +48236,7 @@ msgstr "사라졌다! 찾아라! "
 #.      - GUARD(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:708c97a1-71d7-403e-be4d-77d202168e5a
 msgctxt "h9c355dd5g59edg4b83g9785g702cb5d4d474"
-msgid "Show yourself! "
+msgid "Show yourself!"
 msgstr "모습을 드러내라! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48314,7 +48410,7 @@ msgstr "*쉬익!*"
 #.      - OGRE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:7e26b1a5-9400-47fe-bdf4-688d30aff405
 msgctxt "h35f89f76gd08bg4832gbfddgb49bd05bc870"
-msgid "Come back! I wasn't done! "
+msgid "Come back! I wasn't done!"
 msgstr "돌아와! 아직 안 끝났어! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48338,7 +48434,7 @@ msgstr "어디로 갔어? 보이지가 않잖아!"
 #.      - OGRE(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:7e26b1a5-9400-47fe-bdf4-688d30aff405
 msgctxt "he1f97a6age2b9g461eg898bg59251162c9f8"
-msgid "Must be around here... "
+msgid "Must be around here..."
 msgstr "이 근처에 있을 거야... "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48350,7 +48446,7 @@ msgstr "이 근처에 있을 거야... "
 #.      - ACT3_LOW_VICONIA(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:7ef3f220-9a50-49aa-bfee-9de76d031ff5
 msgctxt "h8414f435gd118g49c3g9697g83909e5b6714"
-msgid "The darkness is ready. Surrender to it, and be free. "
+msgid "The darkness is ready. Surrender to it, and be free."
 msgstr "어둠은 준비됐다. 그 어둠에 항복하고, 자유를 얻어라. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48362,7 +48458,7 @@ msgstr "어둠은 준비됐다. 그 어둠에 항복하고, 자유를 얻어라.
 #.      - ACT3_LOW_VICONIA(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:7ef3f220-9a50-49aa-bfee-9de76d031ff5
 msgctxt "h7443279aga3adg4babg9a9ag6b368ff73a41"
-msgid "There is only silence waiting for you now. "
+msgid "There is only silence waiting for you now."
 msgstr "이제 너를 기다리는 건 침묵뿐이다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48374,7 +48470,7 @@ msgstr "이제 너를 기다리는 건 침묵뿐이다. "
 #.      - ACT3_LOW_VICONIA(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:7ef3f220-9a50-49aa-bfee-9de76d031ff5
 msgctxt "h706fc494gbc18g41f6g8350gfe61066e39e9"
-msgid "Your heart beats its last. "
+msgid "Your heart beats its last."
 msgstr "네 심장이 마지막 박동을 치는구나. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48386,7 +48482,7 @@ msgstr "네 심장이 마지막 박동을 치는구나. "
 #.      - ACT2_TWN_HOSPITAL_SURGEON(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:96d8ac77-85db-4650-84ce-3de20fb4bced
 msgctxt "hb7e6d3cdg4830g4281gbdb6gc10b95e812cb"
-msgid "You could be cured by no steadier hand than mine. "
+msgid "You could be cured by no steadier hand than mine."
 msgstr "내 손보다 더 확실하게 치료 받을 수는 없을거야. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48410,7 +48506,7 @@ msgstr "죽음이 널 영원히 편안하게 해줄 거야."
 #.      - ACT2_TWN_HOSPITAL_SURGEON(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:96d8ac77-85db-4650-84ce-3de20fb4bced
 msgctxt "h3668f3eag68e8g4a91g9470g7609f2b1d807"
-msgid "Hush. Your sickness will soon be over. "
+msgid "Hush. Your sickness will soon be over."
 msgstr "쉿. 너의 병은 곧 끝날거야. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48422,7 +48518,7 @@ msgstr "쉿. 너의 병은 곧 끝날거야. "
 #.      - ACT2_TWN_HOSPITAL_SURGEON(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:96d8ac77-85db-4650-84ce-3de20fb4bced
 msgctxt "h1b8ac2d0g4328g4e3bg9dc3g2b523637d4ed"
-msgid "Be still. The sweet release of absence awaits you. "
+msgid "Be still. The sweet release of absence awaits you."
 msgstr "가만히 있어. 부재의 달콤한 해방이 기다리고 있어. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48521,7 +48617,7 @@ msgstr "이런 비겁한 놈. 모습을 드러내라!"
 #.      - DRAGON(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:a09907ab-bb45-4374-b5c9-cddf2056e2b5
 msgctxt "hae0f324bga52cg440fg92a6ga1cf19ba9d1f"
-msgid "You cannot hide from fire. "
+msgid "You cannot hide from fire."
 msgstr "불을 피할 수는 없다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48533,7 +48629,7 @@ msgstr "불을 피할 수는 없다. "
 #.      - ACT2_MOO_KETHERIC(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:b5ec8e49-b124-41eb-85c1-f380db33ad79
 msgctxt "he69bf814g8fe0g4f0bga3ebg3f03034bd4c8"
-msgid "You've interfered for the last time, mortal. "
+msgid "You've interfered for the last time, mortal."
 msgstr "너의 마지막 간섭이었다, 필멸자. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48545,7 +48641,7 @@ msgstr "너의 마지막 간섭이었다, 필멸자. "
 #.      - ACT2_MOO_KETHERIC(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:b5ec8e49-b124-41eb-85c1-f380db33ad79
 msgctxt "h33fd94e2g123bg4e54gb2aag7e7a310642a3"
-msgid "It is over. You will fall. "
+msgid "It is over. You will fall."
 msgstr "끝났다. 넌 쓰러질 거야. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48557,7 +48653,7 @@ msgstr "끝났다. 넌 쓰러질 거야. "
 #.      - ACT2_MOO_KETHERIC(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:b5ec8e49-b124-41eb-85c1-f380db33ad79
 msgctxt "h79c4880fgbe9eg4ae8ga92cg2e2b68b246c0"
-msgid "My Lord awaits you. "
+msgid "My Lord awaits you."
 msgstr "나의 주인께서 너를 기다리고 있다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48569,7 +48665,7 @@ msgstr "나의 주인께서 너를 기다리고 있다. "
 #.      - GOBLIN(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:b7b53425-0b20-480e-a447-e6f3d7071777
 msgctxt "h451af580gb650g4a65g95d0g6b43cd1ff552"
-msgid "Oi! Come back! "
+msgid "Oi! Come back!"
 msgstr "어이! 돌아와! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48629,7 +48725,7 @@ msgstr "<b>네가 안 보여!</b>"
 #.      - MINSC(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:d2dc1145-d48c-46b9-a893-7844ee513fbb
 msgctxt "h44e394e2g25ecg4b78gb515ga26c214b2ba3"
-msgid "I will do it! I will kick your butt! "
+msgid "I will do it! I will kick your butt!"
 msgstr "내가 할 거야! 네 엉덩이를 걷어차주마! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48641,7 +48737,7 @@ msgstr "내가 할 거야! 네 엉덩이를 걷어차주마! "
 #.      - MINSC(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:d2dc1145-d48c-46b9-a893-7844ee513fbb
 msgctxt "hf51aa0bbg31dag4d67gb5abg19543ee45dc5"
-msgid "Boo will make space dust of you! "
+msgid "Boo will make space dust of you!"
 msgstr "부가 널 우주 먼지로 만들어 버릴 거야! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48653,7 +48749,7 @@ msgstr "부가 널 우주 먼지로 만들어 버릴 거야! "
 #.      - MINSC(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:d2dc1145-d48c-46b9-a893-7844ee513fbb
 msgctxt "h2eb6c859gde9eg42e3gae4fg1e600c5b60ca"
-msgid "Ready or not, time to die! "
+msgid "Ready or not, time to die!"
 msgstr "준비됐든 안 됐든, 죽을 시간이다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48725,7 +48821,7 @@ msgstr "네 뼈는 내 수집품에 추가하기 좋겠군."
 #.      - ACT2_SHA_BALTHAZAR(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:d6bdc6a5-ed60-49ab-8b87-372b43b6e387
 msgctxt "hcd691a44g31c0g4571ga940gaf138e1e6a67"
-msgid "I shall take your flesh and make a masterpiece of you. "
+msgid "I shall take your flesh and make a masterpiece of you."
 msgstr "네 살점을 뜯어서 걸작을 만들어주마. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48737,7 +48833,7 @@ msgstr "네 살점을 뜯어서 걸작을 만들어주마. "
 #.      - STEEL_WATCHER(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:d90a486a-4c0e-44f2-bb37-1a1fe5327d72
 msgctxt "h14b70336g8569g463ag8092g379598509b85"
-msgid "Citizen missing. Investigating. "
+msgid "Citizen missing. Investigating."
 msgstr "민간인 실종. 조사 중. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48749,7 +48845,7 @@ msgstr "민간인 실종. 조사 중. "
 #.      - STEEL_WATCHER(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:d90a486a-4c0e-44f2-bb37-1a1fe5327d72
 msgctxt "h9de96ba1g9d8dg49aagaef3ga605101c2b0c"
-msgid "Citizen is attempting to evade detection. "
+msgid "Citizen is attempting to evade detection."
 msgstr "민간인이 탐지를 회피하려고 합니다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48761,7 +48857,7 @@ msgstr "민간인이 탐지를 회피하려고 합니다. "
 #.      - STEEL_WATCHER(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:d90a486a-4c0e-44f2-bb37-1a1fe5327d72
 msgctxt "h94efcfd9g304ag4ba6g914cg49502d15a004"
-msgid "Continuing search. "
+msgid "Continuing search."
 msgstr "계속 수색 합니다. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48773,7 +48869,7 @@ msgstr "계속 수색 합니다. "
 #.      - STEEL_WATCHER(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:d90a486a-4c0e-44f2-bb37-1a1fe5327d72
 msgctxt "h08f16715g057dg426cg80a1g686fb95c9506"
-msgid "Sightline lost. Re-orienting. "
+msgid "Sightline lost. Re-orienting."
 msgstr "시야 상실. 재조정 중. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48809,7 +48905,7 @@ msgstr "너의 비참한 미래를 보라!"
 #.      - ACT3_LOW_SAREVOK(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:ea2b4068-20d6-474a-a289-192313604c9f
 msgctxt "ha7d20126g1334g40fcg9da3g5682242a91fe"
-msgid "Bhaal will have his sacrifice. "
+msgid "Bhaal will have his sacrifice."
 msgstr "바알님이 제물을 받으시겠군. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48821,7 +48917,7 @@ msgstr "바알님이 제물을 받으시겠군. "
 #.      - ACT3_LOW_SAREVOK(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:ea2b4068-20d6-474a-a289-192313604c9f
 msgctxt "h2f22adabg43beg4090g8a88g8e2a0076f600"
-msgid "You will make a fine offering for my Lord. "
+msgid "You will make a fine offering for my Lord."
 msgstr "내 주군을 위한 훌륭한 제물이 되겠군. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48833,7 +48929,7 @@ msgstr "내 주군을 위한 훌륭한 제물이 되겠군. "
 #.      - ACT3_LOW_SAREVOK(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:ea2b4068-20d6-474a-a289-192313604c9f
 msgctxt "hcb462d45gae61g4696g9bb4g4169862ee806"
-msgid "Murder awaits you. Pure murder. "
+msgid "Murder awaits you. Pure murder."
 msgstr "살인이 널 기다린다. 순수한 살인이지. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48846,7 +48942,7 @@ msgstr "살인이 널 기다린다. 순수한 살인이지. "
 #. TagRule: DROWELF or DROWHALFELF or ELF or HALFELF
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:f0b215e2-a57f-45a6-9d01-fecccb16a67b
 msgctxt "h815c405eg83d3g4748gb714g506b6ad8f693"
-msgid "What tiresome trickery is this? "
+msgid "What tiresome trickery is this?"
 msgstr "이 무슨 피곤한 속임수인가? "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48859,7 +48955,7 @@ msgstr "이 무슨 피곤한 속임수인가? "
 #. TagRule: DROWELF or DROWHALFELF or ELF or HALFELF
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:f0b215e2-a57f-45a6-9d01-fecccb16a67b
 msgctxt "hb3a9366aga0afg4ffbgadcbg7e872f294231"
-msgid "Show yourself, and I may show you mercy! "
+msgid "Show yourself, and I may show you mercy!"
 msgstr "모습을 드러내라. 그러면 자비를 베풀 수도 있다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48885,7 +48981,7 @@ msgstr "넌 끝장이야!"
 #. TagRule: HUMAN or TIEFLING
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:f0b215e2-a57f-45a6-9d01-fecccb16a67b
 msgctxt "h3b6a5799ga141g4fefg9d37g62e61a08ff71"
-msgid "How long are you going to keep this up for? "
+msgid "How long are you going to keep this up for?"
 msgstr "이걸 언제까지 계속할 거야? "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48898,7 +48994,7 @@ msgstr "이걸 언제까지 계속할 거야? "
 #. TagRule: HUMAN or TIEFLING
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:f0b215e2-a57f-45a6-9d01-fecccb16a67b
 msgctxt "h6398c344g326dg423bgbdc3g7c3b86f5e032"
-msgid "I will find you! "
+msgid "I will find you!"
 msgstr "널 찾아내고 말겠다! "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -48963,7 +49059,7 @@ msgstr "네가 널 잡으면 묻을 시체도 남지 않을 거다!"
 #. TagRule: GNOME or HALFLING
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:f0b215e2-a57f-45a6-9d01-fecccb16a67b
 msgctxt "hb8ff7547g697cg431egbb4ag015b34b07ac1"
-msgid "Where did you go? "
+msgid "Where did you go?"
 msgstr "어디로 간 거야? "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -49109,7 +49205,7 @@ msgstr "가까이 오거라. 널 찢어 버릴테다!"
 #.      - ACT3_WYR_GORTASH(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:fc7dc034-e753-45f9-8689-9e15d23a015c
 msgctxt "hb92f5cc0gc78fg4251ga154g593b59e8f9cf"
-msgid "Your death will be a real shame. "
+msgid "Your death will be a real shame."
 msgstr "네 죽음은 정말 안타까운 일이 될 거야. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -49121,7 +49217,7 @@ msgstr "네 죽음은 정말 안타까운 일이 될 거야. "
 #.      - ACT3_WYR_GORTASH(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:fc7dc034-e753-45f9-8689-9e15d23a015c
 msgctxt "h0ae08927gfb86g4681gb3f0gad9e172b8641"
-msgid "You can't win - not now. "
+msgid "You can't win - not now."
 msgstr "넌 이길 수 없어. 지금은 말이지. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -49133,7 +49229,7 @@ msgstr "넌 이길 수 없어. 지금은 말이지. "
 #.      - ACT3_WYR_GORTASH(0) = True
 #: Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback:fc7dc034-e753-45f9-8689-9e15d23a015c
 msgctxt "h51fe9047g507fg43e3g9f27g3539284170cc"
-msgid "What a waste of talent. "
+msgid "What a waste of talent."
 msgstr "이 얼마나 재능 낭비인가. "
 
 #. Dialog = Mods/Shared/Story/Dialogs/Generics/NO_RECORD/CMB_AD_SeekFallback
@@ -50362,6 +50458,16 @@ msgctxt "h6fb44242g71cfg4c7aga44bg5efc5b4a7a65"
 msgid "I'm a bit busy at the moment. We'll talk later."
 msgstr "지금 좀 정신이 없어. 이따가 얘기하자."
 
+#. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
+#. Speaker = Player
+#. NodeID = 3a106b26-8953-7c7d-ba2b-6e998377b218
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: REALLY_GALE
+#: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
+msgctxt "hd0012838g8fd8g4c5cg8f8egfb5fe9e89b73"
+msgid "Sorry, but I'm spoken for."
+msgstr ""
+
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_GaleDouble2
 #. Speaker = Gale
 #. NodeID = d1d61da2-af0c-4511-bdcc-f4343c65554d
@@ -50400,16 +50506,6 @@ msgstr "너와 대화할 생각은 없어."
 msgctxt "h00da4993gaeb1g482cgbce9g43347b416b5d"
 msgid "Do you mind? I'm <i>very </i>busy."
 msgstr "자리를 좀 비켜주겠어? 지금 <i>아주 </i>바빠서."
-
-#. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
-#. Speaker = Player
-#. NodeID = 3a106b26-8953-7c7d-ba2b-6e998377b218
-#. HandlePath = TaggedText[1].TagText[0]
-#. TagRule: REALLY_GALE
-#: Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog:3a106b26-8953-7c7d-ba2b-6e998377b218
-msgctxt "hd0012838g8fd8g4c5cg8f8egfb5fe9e89b73"
-msgid "Sorry, but I'm spoken for."
-msgstr ""
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_AD_NonBondedCompanionDialog
 #. Speaker = Player
@@ -51214,6 +51310,36 @@ msgstr ""
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction
 #. Speaker = The Emperor
+#. NodeID = 7d983c35-1d32-455d-9a17-83a21fa7960c
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Local:
+#.      - 810e3857-0c12-602f-523b-988bd01f848a_A = True
+#. SetFlags:
+#.   Local:
+#.     - 810e3857-0c12-602f-523b-988bd01f848a_B = True
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction:7d983c35-1d32-455d-9a17-83a21fa7960c
+msgctxt "ha8477588g5e23g4e74gbb6agff165b96a91f"
+msgid "<i>The brain is growing in power.</i>"
+msgstr ""
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction
+#. Speaker = The Emperor
+#. NodeID = b2557418-4ead-4d29-8c57-73065bf86b52
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Local:
+#.      - 810e3857-0c12-602f-523b-988bd01f848a_B = True
+#. SetFlags:
+#.   Local:
+#.     - 810e3857-0c12-602f-523b-988bd01f848a_C = True
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction:b2557418-4ead-4d29-8c57-73065bf86b52
+msgctxt "h93c976b3gfbcbg46f2g8c3age26f47733c7b"
+msgid "<i>It's getting ready to break free. </i>"
+msgstr ""
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction
+#. Speaker = The Emperor
 #. NodeID = dbdf7af6-1188-4d5b-9925-b48d1419abd6
 #. HandlePath = TaggedText[0].TagText[0]
 #. SetFlags:
@@ -51228,18 +51354,20 @@ msgstr ""
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction
 #. Speaker = The Emperor
-#. NodeID = 7d983c35-1d32-455d-9a17-83a21fa7960c
+#. NodeID = ece853c2-e0e0-4cd7-a61c-1d0ebf814e7b
 #. HandlePath = TaggedText[0].TagText[0]
 #. CheckFlags:
 #.   Local:
-#.      - 810e3857-0c12-602f-523b-988bd01f848a_A = True
+#.      - 810e3857-0c12-602f-523b-988bd01f848a_C = True
 #. SetFlags:
 #.   Local:
-#.     - 810e3857-0c12-602f-523b-988bd01f848a_B = True
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction:7d983c35-1d32-455d-9a17-83a21fa7960c
-msgctxt "ha8477588g5e23g4e74gbb6agff165b96a91f"
-msgid "<i>The brain is growing in power.</i>"
-msgstr ""
+#.     - 810e3857-0c12-602f-523b-988bd01f848a_B = False
+#.     - 810e3857-0c12-602f-523b-988bd01f848a_C = False
+#.     - 810e3857-0c12-602f-523b-988bd01f848a_A = False
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction:ece853c2-e0e0-4cd7-a61c-1d0ebf814e7b
+msgctxt "h817e5555g5320g4448g99ecge4b1359e1c03"
+msgid "<i>I don't think we have a lot of time left.</i>"
+msgstr "<i>우리에겐 남은 시간이 별로 없네.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_MindflayerOutburstStarted_EmperorReaction
 #. Speaker = The Emperor
@@ -51260,21 +51388,6 @@ msgid ""
 "worse will follow.</i>"
 msgstr "<i>변이가 계속 나타나는군. 브레인을 통제하지 못하면 상황은 점점 악화할 거다.</i>"
 
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction
-#. Speaker = The Emperor
-#. NodeID = b2557418-4ead-4d29-8c57-73065bf86b52
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Local:
-#.      - 810e3857-0c12-602f-523b-988bd01f848a_B = True
-#. SetFlags:
-#.   Local:
-#.     - 810e3857-0c12-602f-523b-988bd01f848a_C = True
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction:b2557418-4ead-4d29-8c57-73065bf86b52
-msgctxt "h93c976b3gfbcbg46f2g8c3age26f47733c7b"
-msgid "<i>It's getting ready to break free. </i>"
-msgstr ""
-
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_MindflayerOutburstStarted_EmperorReaction
 #. Speaker = The Emperor
 #. NodeID = 1484812f-897d-4594-a498-6d44910f018c
@@ -51292,23 +51405,6 @@ msgid ""
 "<i>Another transformation. The brain must be doing this of its own volition. "
 "The restraints on its behaviour seem to have eroded.</i>"
 msgstr "<i>또 다른 변이라. 브레인이 자의로 행동하는 것이 틀림없다. 족쇄가 풀린 것 같군.</i>"
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction
-#. Speaker = The Emperor
-#. NodeID = ece853c2-e0e0-4cd7-a61c-1d0ebf814e7b
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Local:
-#.      - 810e3857-0c12-602f-523b-988bd01f848a_C = True
-#. SetFlags:
-#.   Local:
-#.     - 810e3857-0c12-602f-523b-988bd01f848a_B = False
-#.     - 810e3857-0c12-602f-523b-988bd01f848a_C = False
-#.     - 810e3857-0c12-602f-523b-988bd01f848a_A = False
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_EmperorCombatReaction:ece853c2-e0e0-4cd7-a61c-1d0ebf814e7b
-msgctxt "h817e5555g5320g4448g99ecge4b1359e1c03"
-msgid "<i>I don't think we have a lot of time left.</i>"
-msgstr "<i>우리에겐 남은 시간이 별로 없네.</i>"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_BrainEscalation_AD_MindflayerOutburstStarted_EmperorReaction
 #. Speaker = The Emperor
@@ -51921,6 +52017,22 @@ msgctxt "h5216aa5fgd046g4351g8b34g08252ffe3b3c"
 msgid "That thing doesn't look too happy to be free."
 msgstr "풀려난 게 기뻐 보이지는 않는걸."
 
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess
+#. Speaker = GROUP_Daisy
+#. NodeID = 108b1b97-5bd8-941a-4d30-ebd4ac4a9c47
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Object:
+#.      - GLO_DaisyAD_AttackSuccess_Played02(1) = True
+#. SetFlags:
+#.   Object:
+#.     - GLO_DaisyAD_AttackSuccess_PlayedAll(1) = True
+#. TagRule: DAISY_MALE_VOICE
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess:108b1b97-5bd8-941a-4d30-ebd4ac4a9c47
+msgctxt "h4b91c59eg86c4g4d5bga6b0gf074970aaca3"
+msgid "Keep going!"
+msgstr "계속하세요!"
+
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
 #. Speaker = GROUP_Daisy
 #. NodeID = 0a3d9240-8e79-495a-9685-c366487ddf93
@@ -51936,6 +52048,22 @@ msgstr "풀려난 게 기뻐 보이지는 않는걸."
 msgctxt "hb8da709dg9df1g4cf2g836dgb469ba62e1d4"
 msgid "Try something else."
 msgstr "다른 방법을 시도해 보세요."
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess
+#. Speaker = GROUP_Daisy
+#. NodeID = 108b1b97-5bd8-941a-4d30-ebd4ac4a9c47
+#. HandlePath = TaggedText[1].TagText[0]
+#. CheckFlags:
+#.   Object:
+#.      - GLO_DaisyAD_AttackSuccess_Played02(1) = True
+#. SetFlags:
+#.   Object:
+#.     - GLO_DaisyAD_AttackSuccess_PlayedAll(1) = True
+#. TagRule: DAISY_FEMALE_VOICE
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess:108b1b97-5bd8-941a-4d30-ebd4ac4a9c47
+msgctxt "h4a7e2969gd9e2g4c2eg8401gc9f8fe38fcbe"
+msgid "Keep going!"
+msgstr "계속하세요!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
 #. Speaker = GROUP_Daisy
@@ -51989,96 +52117,6 @@ msgctxt "h5731a66cgcb11g4395g817egd517c3b2ee0f"
 msgid "Use your illithid potential!"
 msgstr "일리시드의 잠재력을 발휘하세요!"
 
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
-#. Speaker = GROUP_Daisy
-#. NodeID = 53d50882-684b-4cc2-80af-d31794e89f65
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Object:
-#.      - GLO_DaisyAD_AttackFail_Played01(1) = True
-#. SetFlags:
-#.   Object:
-#.     - GLO_DaisyAD_AttackFail_Played02(1) = True
-#. TagRule: DAISY_MALE_VOICE
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:53d50882-684b-4cc2-80af-d31794e89f65
-msgctxt "h21bfb9acg6510g4d17g9d39gab5e2159ac8c"
-msgid "Again!"
-msgstr "다시!"
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
-#. Speaker = GROUP_Daisy
-#. NodeID = 53d50882-684b-4cc2-80af-d31794e89f65
-#. HandlePath = TaggedText[1].TagText[0]
-#. CheckFlags:
-#.   Object:
-#.      - GLO_DaisyAD_AttackFail_Played01(1) = True
-#. SetFlags:
-#.   Object:
-#.     - GLO_DaisyAD_AttackFail_Played02(1) = True
-#. TagRule: DAISY_FEMALE_VOICE
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:53d50882-684b-4cc2-80af-d31794e89f65
-msgctxt "hbdc8dc3dgdfd2g4db0g8127g5b1f75f70343"
-msgid "Again!"
-msgstr "다시!"
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
-#. Speaker = GROUP_Daisy
-#. NodeID = 9d47939b-01a8-4694-b805-be0d8b969a10
-#. HandlePath = TaggedText[0].TagText[0]
-#. SetFlags:
-#.   Object:
-#.     - GLO_DaisyAD_AttackFail_Played01(1) = True
-#. TagRule: DAISY_MALE_VOICE
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:9d47939b-01a8-4694-b805-be0d8b969a10
-msgctxt "he5c57e90g90afg46a6gb47dgb3798d52b3b5"
-msgid "That won't work."
-msgstr "효과가 없었어요."
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
-#. Speaker = GROUP_Daisy
-#. NodeID = 9d47939b-01a8-4694-b805-be0d8b969a10
-#. HandlePath = TaggedText[1].TagText[0]
-#. SetFlags:
-#.   Object:
-#.     - GLO_DaisyAD_AttackFail_Played01(1) = True
-#. TagRule: DAISY_FEMALE_VOICE
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:9d47939b-01a8-4694-b805-be0d8b969a10
-msgctxt "h1fffdb0cg4bd2g4774gb7b7gfe6e2a427894"
-msgid "That won't work."
-msgstr "효과가 없었어요."
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess
-#. Speaker = GROUP_Daisy
-#. NodeID = 108b1b97-5bd8-941a-4d30-ebd4ac4a9c47
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Object:
-#.      - GLO_DaisyAD_AttackSuccess_Played02(1) = True
-#. SetFlags:
-#.   Object:
-#.     - GLO_DaisyAD_AttackSuccess_PlayedAll(1) = True
-#. TagRule: DAISY_MALE_VOICE
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess:108b1b97-5bd8-941a-4d30-ebd4ac4a9c47
-msgctxt "h4b91c59eg86c4g4d5bga6b0gf074970aaca3"
-msgid "Keep going!"
-msgstr "계속하세요!"
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess
-#. Speaker = GROUP_Daisy
-#. NodeID = 108b1b97-5bd8-941a-4d30-ebd4ac4a9c47
-#. HandlePath = TaggedText[1].TagText[0]
-#. CheckFlags:
-#.   Object:
-#.      - GLO_DaisyAD_AttackSuccess_Played02(1) = True
-#. SetFlags:
-#.   Object:
-#.     - GLO_DaisyAD_AttackSuccess_PlayedAll(1) = True
-#. TagRule: DAISY_FEMALE_VOICE
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess:108b1b97-5bd8-941a-4d30-ebd4ac4a9c47
-msgctxt "h4a7e2969gd9e2g4c2eg8401gc9f8fe38fcbe"
-msgid "Keep going!"
-msgstr "계속하세요!"
-
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess
 #. Speaker = GROUP_Daisy
 #. NodeID = 51e30db8-abba-4649-83d5-061ae53309cb
@@ -52094,6 +52132,22 @@ msgstr "계속하세요!"
 msgctxt "h8facec02ge642g4a88g9143g78c1a3312da4"
 msgid "Excellent!"
 msgstr "잘하셨어요!"
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
+#. Speaker = GROUP_Daisy
+#. NodeID = 53d50882-684b-4cc2-80af-d31794e89f65
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Object:
+#.      - GLO_DaisyAD_AttackFail_Played01(1) = True
+#. SetFlags:
+#.   Object:
+#.     - GLO_DaisyAD_AttackFail_Played02(1) = True
+#. TagRule: DAISY_MALE_VOICE
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:53d50882-684b-4cc2-80af-d31794e89f65
+msgctxt "h21bfb9acg6510g4d17g9d39gab5e2159ac8c"
+msgid "Again!"
+msgstr "다시!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess
 #. Speaker = GROUP_Daisy
@@ -52111,6 +52165,22 @@ msgctxt "h9b2e2600ge9f4g4870gb2c5ga29c1d776846"
 msgid "Excellent!"
 msgstr "잘하셨어요!"
 
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
+#. Speaker = GROUP_Daisy
+#. NodeID = 53d50882-684b-4cc2-80af-d31794e89f65
+#. HandlePath = TaggedText[1].TagText[0]
+#. CheckFlags:
+#.   Object:
+#.      - GLO_DaisyAD_AttackFail_Played01(1) = True
+#. SetFlags:
+#.   Object:
+#.     - GLO_DaisyAD_AttackFail_Played02(1) = True
+#. TagRule: DAISY_FEMALE_VOICE
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:53d50882-684b-4cc2-80af-d31794e89f65
+msgctxt "hbdc8dc3dgdfd2g4db0g8127g5b1f75f70343"
+msgid "Again!"
+msgstr "다시!"
+
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess
 #. Speaker = GROUP_Daisy
 #. NodeID = c0da95ce-a58c-439c-a21f-c83226872ee3
@@ -52124,6 +52194,19 @@ msgctxt "h4d9a8bebg3f88g47cbgb1f6gbbe4db977382"
 msgid "Good. Again!"
 msgstr "좋아요. 다시!"
 
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
+#. Speaker = GROUP_Daisy
+#. NodeID = 9d47939b-01a8-4694-b805-be0d8b969a10
+#. HandlePath = TaggedText[0].TagText[0]
+#. SetFlags:
+#.   Object:
+#.     - GLO_DaisyAD_AttackFail_Played01(1) = True
+#. TagRule: DAISY_MALE_VOICE
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:9d47939b-01a8-4694-b805-be0d8b969a10
+msgctxt "he5c57e90g90afg46a6gb47dgb3798d52b3b5"
+msgid "That won't work."
+msgstr "효과가 없었어요."
+
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackSuccess
 #. Speaker = GROUP_Daisy
 #. NodeID = c0da95ce-a58c-439c-a21f-c83226872ee3
@@ -52136,6 +52219,19 @@ msgstr "좋아요. 다시!"
 msgctxt "h75290b83gc3d7g420cga9adg60fbdae6a106"
 msgid "Good. Again!"
 msgstr "좋아요. 다시!"
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail
+#. Speaker = GROUP_Daisy
+#. NodeID = 9d47939b-01a8-4694-b805-be0d8b969a10
+#. HandlePath = TaggedText[1].TagText[0]
+#. SetFlags:
+#.   Object:
+#.     - GLO_DaisyAD_AttackFail_Played01(1) = True
+#. TagRule: DAISY_FEMALE_VOICE
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_DaisyAD_AttackFail:9d47939b-01a8-4694-b805-be0d8b969a10
+msgctxt "h1fffdb0cg4bd2g4774gb7b7gfe6e2a427894"
+msgid "That won't work."
+msgstr "효과가 없었어요."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler
 #. Speaker = Sceleritas Fel
@@ -53608,6 +53704,15 @@ msgctxt "h43f7fea1gaee6g41f8gbd04g8b3d9b3e4f8b"
 msgid "Please kill me any time it takes your fancy: if I may be so bold."
 msgstr "감히 말씀드리건대, 마음이 동한다면 언제든 저를 죽여주시지요."
 
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler_AD_Help
+#. Speaker = Sceleritas Fel
+#. NodeID = 3215f2c1-5172-496e-aec2-46b9d129b762
+#. HandlePath = TaggedText[0].TagText[0]
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler_AD_Help:3215f2c1-5172-496e-aec2-46b9d129b762
+msgctxt "h6c8a1e62g75a4g4721gb61egfa6cab07a10e"
+msgid "Allow your humble Butler to assist you!"
+msgstr "미천한 집사가 당신께 도움을 드리는 걸 허락해 주십시오!"
+
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler_AD_AttackedNPC
 #. Speaker = Sceleritas Fel
 #. NodeID = 392ad953-d8e3-4dd9-9375-ce1756298965
@@ -53625,15 +53730,6 @@ msgstr "운이 좋으시군요! 당신은 주인님께 살해당할 것입니다
 msgctxt "hc3c351c3g4e18g4e90gae60g4b9e5cb792b2"
 msgid "Only the Master is allowed to hurt me like that!"
 msgstr "내게 이런 고통을 줄 수 있는 건 주인님 뿐입니다!"
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler_AD_Help
-#. Speaker = Sceleritas Fel
-#. NodeID = 3215f2c1-5172-496e-aec2-46b9d129b762
-#. HandlePath = TaggedText[0].TagText[0]
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_Butler_AD_Help:3215f2c1-5172-496e-aec2-46b9d129b762
-msgctxt "h6c8a1e62g75a4g4721gb61egfa6cab07a10e"
-msgid "Allow your humble Butler to assist you!"
-msgstr "미천한 집사가 당신께 도움을 드리는 걸 허락해 주십시오!"
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_DarkUrge_PAD_SeesDUBecomeSlayer
 #. Speaker = Player
@@ -53779,6 +53875,27 @@ msgstr ""
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
 #. NodeID = 6c9dd0f2-d7f8-4b4e-8cf1-415ddc93b2dc
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Object:
+#.      - GLO_EmperorPrelude_Event_DroppedStone4(0) = True
+#. SetFlags:
+#.   Object:
+#.     - GLO_EmperorPrelude_Event_DroppedStone3(0) = False
+#.     - GLO_EmperorPrelude_Event_DroppedStone4(0) = False
+#.     - GLO_EmperorPrelude_Event_DroppedStone2(0) = False
+#.     - GLO_EmperorPrelude_Event_DroppedStone1(0) = False
+#. TagRule: DAISY_MALE_VOICE
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:6c9dd0f2-d7f8-4b4e-8cf1-415ddc93b2dc
+msgctxt "h4a909172g5963g4cb1g8ef1gb6960a10e896"
+msgid ""
+"You can keep doing this if you want, but I'm sure you won't like the "
+"consequences."
+msgstr "원한다면 계속 해도 좋다만, 그에 따를 결과를 반기지는 않을 거라고 장담하지."
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
+#. Speaker = GROUP_Daisy
+#. NodeID = 6c9dd0f2-d7f8-4b4e-8cf1-415ddc93b2dc
 #. HandlePath = TaggedText[1].TagText[0]
 #. CheckFlags:
 #.   Object:
@@ -53796,6 +53913,24 @@ msgid ""
 "You can keep doing this if you want, but I'm sure you won't like the "
 "consequences."
 msgstr "원한다면 계속 해도 좋다만, 그에 따를 결과를 반기지는 않을 거라고 장담하지."
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
+#. Speaker = GROUP_Daisy
+#. NodeID = b1bb81c1-e8be-4951-84e8-2081d2d0fd8b
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Object:
+#.      - GLO_EmperorPrelude_Event_DroppedStone2(0) = True
+#. SetFlags:
+#.   Object:
+#.     - GLO_EmperorPrelude_Event_DroppedStone3(0) = True
+#. TagRule: DAISY_MALE_VOICE
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:b1bb81c1-e8be-4951-84e8-2081d2d0fd8b
+msgctxt "h4b639296gc3fag467fga80agf11620dd6378"
+msgid ""
+"If you really don't want to carry it, at least leave it somewhere safe. Your "
+"camp, for example."
+msgstr "그걸 가지고 다니는 게 그렇게나 싫다면 적어도 어딘가 안전한 곳에 놔두라고. 예를 들면, 네 야영지 같은 곳 말이야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
@@ -53818,6 +53953,22 @@ msgstr "그걸 가지고 다니는 게 그렇게나 싫다면 적어도 어딘�
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
 #. NodeID = e252a27d-e788-47f4-b424-97f9dda20874
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Object:
+#.      - GLO_EmperorPrelude_Event_DroppedStone3(0) = True
+#. SetFlags:
+#.   Object:
+#.     - GLO_EmperorPrelude_Event_DroppedStone4(0) = True
+#. TagRule: DAISY_MALE_VOICE
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:e252a27d-e788-47f4-b424-97f9dda20874
+msgctxt "h9870a7b1g57e8g430fg8569ga4be33d5af7c"
+msgid "Are you trying to annoy me, or just careless?"
+msgstr "날 화나게 하려는 거야, 아니면 그냥 부주의한 거야?"
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
+#. Speaker = GROUP_Daisy
+#. NodeID = e252a27d-e788-47f4-b424-97f9dda20874
 #. HandlePath = TaggedText[1].TagText[0]
 #. CheckFlags:
 #.   Object:
@@ -53834,6 +53985,22 @@ msgstr "날 화나게 하려는 거야, 아니면 그냥 부주의한 거야?"
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
 #. NodeID = e68d4e05-7646-4e8a-b0aa-7ecc27cd27c1
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Object:
+#.      - GLO_EmperorPrelude_Event_DroppedStone1(0) = True
+#. SetFlags:
+#.   Object:
+#.     - GLO_EmperorPrelude_Event_DroppedStone2(0) = True
+#. TagRule: DAISY_MALE_VOICE
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:e68d4e05-7646-4e8a-b0aa-7ecc27cd27c1
+msgctxt "h3b52c475ged6ag40b4g8b46g6b1cb3b96974"
+msgid "Get that stone back, please."
+msgstr "그 돌 다시 돌려놔. 부탁이야."
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
+#. Speaker = GROUP_Daisy
+#. NodeID = e68d4e05-7646-4e8a-b0aa-7ecc27cd27c1
 #. HandlePath = TaggedText[1].TagText[0]
 #. CheckFlags:
 #.   Object:
@@ -53846,6 +54013,21 @@ msgstr "날 화나게 하려는 거야, 아니면 그냥 부주의한 거야?"
 msgctxt "haf689cc1g6b72g421cgbc9agf767ef873c4f"
 msgid "Get that stone back, please."
 msgstr "그 돌 다시 돌려놔. 부탁이야."
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
+#. Speaker = GROUP_Daisy
+#. NodeID = f3455d3b-34c8-4153-83d2-54e00ea8cac7
+#. HandlePath = TaggedText[0].TagText[0]
+#. SetFlags:
+#.   Object:
+#.     - GLO_EmperorPrelude_Event_DroppedStone1(0) = True
+#. TagRule: DAISY_MALE_VOICE
+#: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:f3455d3b-34c8-4153-83d2-54e00ea8cac7
+msgctxt "h58b904e2g3fceg4b37ga2f4ga4951d29d4c7"
+msgid ""
+"I wouldn't recommend losing that. We can't defeat the brain without that "
+"stone."
+msgstr "그걸 잃어버리는 건 추천하지 않겠어. 그 돌 없이는 브레인에게 맞설 수 없다고."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
 #. Speaker = GROUP_Daisy
@@ -53897,27 +54079,6 @@ msgctxt "he73e5aa5g8bb7g403dg81ccga4fd069d8163"
 msgid "<i>Wait - that hum of power. There's a Netherstone nearby!</i>"
 msgstr "<i>잠깐. 힘의 웅웅거림이 들리는군. 근처에 네더스톤이 있다!</i>"
 
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
-#. Speaker = GROUP_Daisy
-#. NodeID = 6c9dd0f2-d7f8-4b4e-8cf1-415ddc93b2dc
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Object:
-#.      - GLO_EmperorPrelude_Event_DroppedStone4(0) = True
-#. SetFlags:
-#.   Object:
-#.     - GLO_EmperorPrelude_Event_DroppedStone3(0) = False
-#.     - GLO_EmperorPrelude_Event_DroppedStone4(0) = False
-#.     - GLO_EmperorPrelude_Event_DroppedStone2(0) = False
-#.     - GLO_EmperorPrelude_Event_DroppedStone1(0) = False
-#. TagRule: DAISY_MALE_VOICE
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:6c9dd0f2-d7f8-4b4e-8cf1-415ddc93b2dc
-msgctxt "h4a909172g5963g4cb1g8ef1gb6960a10e896"
-msgid ""
-"You can keep doing this if you want, but I'm sure you won't like the "
-"consequences."
-msgstr "원한다면 계속 해도 좋다만, 그에 따를 결과를 반기지는 않을 거라고 장담하지."
-
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone
 #. Speaker = The Emperor
 #. NodeID = c477084b-5029-4e23-ab4a-4038a76f4e00
@@ -53935,24 +54096,6 @@ msgstr "원한다면 계속 해도 좋다만, 그에 따를 결과를 반기지�
 msgctxt "h878151a6g304eg4ac2g876fg61699fe942be"
 msgid "<i>If you insist on doing this, I hope you enjoy being a thrall.</i>"
 msgstr "<i>계속 그렇게 하겠다면야, 노예가 되는 것을 즐기길 바란다.</i>"
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
-#. Speaker = GROUP_Daisy
-#. NodeID = b1bb81c1-e8be-4951-84e8-2081d2d0fd8b
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Object:
-#.      - GLO_EmperorPrelude_Event_DroppedStone2(0) = True
-#. SetFlags:
-#.   Object:
-#.     - GLO_EmperorPrelude_Event_DroppedStone3(0) = True
-#. TagRule: DAISY_MALE_VOICE
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:b1bb81c1-e8be-4951-84e8-2081d2d0fd8b
-msgctxt "h4b639296gc3fag467fga80agf11620dd6378"
-msgid ""
-"If you really don't want to carry it, at least leave it somewhere safe. Your "
-"camp, for example."
-msgstr "그걸 가지고 다니는 게 그렇게나 싫다면 적어도 어딘가 안전한 곳에 놔두라고. 예를 들면, 네 야영지 같은 곳 말이야."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone
 #. Speaker = The Emperor
@@ -53972,22 +54115,6 @@ msgid ""
 msgstr ""
 "<i>그걸 가지고 다니는 게 그렇게나 싫다면 적어도 어딘가 안전한 곳에 놔두어라. 예를 들면, 네 야영지 같은 곳 말이다.</i>"
 
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
-#. Speaker = GROUP_Daisy
-#. NodeID = e252a27d-e788-47f4-b424-97f9dda20874
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Object:
-#.      - GLO_EmperorPrelude_Event_DroppedStone3(0) = True
-#. SetFlags:
-#.   Object:
-#.     - GLO_EmperorPrelude_Event_DroppedStone4(0) = True
-#. TagRule: DAISY_MALE_VOICE
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:e252a27d-e788-47f4-b424-97f9dda20874
-msgctxt "h9870a7b1g57e8g430fg8569ga4be33d5af7c"
-msgid "Are you trying to annoy me, or just careless?"
-msgstr "날 화나게 하려는 거야, 아니면 그냥 부주의한 거야?"
-
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone
 #. Speaker = The Emperor
 #. NodeID = d58d0609-7be1-400b-a15c-defb81813331
@@ -54003,22 +54130,6 @@ msgctxt "h3640806bg95ceg4330g9a1dg77cf18827947"
 msgid "<i>Are you trying to annoy me, or just woefully careless?</i>"
 msgstr "<i>날 짜증나게 하려는 것이냐, 아니면 그저 한심할 정도로 부주의한 것이냐?</i>"
 
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
-#. Speaker = GROUP_Daisy
-#. NodeID = e68d4e05-7646-4e8a-b0aa-7ecc27cd27c1
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Object:
-#.      - GLO_EmperorPrelude_Event_DroppedStone1(0) = True
-#. SetFlags:
-#.   Object:
-#.     - GLO_EmperorPrelude_Event_DroppedStone2(0) = True
-#. TagRule: DAISY_MALE_VOICE
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:e68d4e05-7646-4e8a-b0aa-7ecc27cd27c1
-msgctxt "h3b52c475ged6ag40b4g8b46g6b1cb3b96974"
-msgid "Get that stone back, please."
-msgstr "그 돌 다시 돌려놔. 부탁이야."
-
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone
 #. Speaker = The Emperor
 #. NodeID = d873eeb0-5fba-4594-be37-10054d67eb6a
@@ -54033,21 +54144,6 @@ msgstr "그 돌 다시 돌려놔. 부탁이야."
 msgctxt "hea8b3648g0b63g4f34g8990g177422596484"
 msgid "<i>Get that stone back - now. </i>"
 msgstr "<i>돌을 되찾아라, 당장.</i>"
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone
-#. Speaker = GROUP_Daisy
-#. NodeID = f3455d3b-34c8-4153-83d2-54e00ea8cac7
-#. HandlePath = TaggedText[0].TagText[0]
-#. SetFlags:
-#.   Object:
-#.     - GLO_EmperorPrelude_Event_DroppedStone1(0) = True
-#. TagRule: DAISY_MALE_VOICE
-#: Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_DaisyAD_DroppedStone:f3455d3b-34c8-4153-83d2-54e00ea8cac7
-msgctxt "h58b904e2g3fceg4b37ga2f4ga4951d29d4c7"
-msgid ""
-"I wouldn't recommend losing that. We can't defeat the brain without that "
-"stone."
-msgstr "그걸 잃어버리는 건 추천하지 않겠어. 그 돌 없이는 브레인에게 맞설 수 없다고."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_DroppedStone
 #. Speaker = The Emperor
@@ -54095,7 +54191,7 @@ msgstr "<i>가까운 해변에서 그걸 찾을 수 있기를 기도해라. 그�
 msgctxt "hd6d3e1a9ge384g4deag80afg1bc56ae28c95"
 msgid ""
 "<i>Of all the things you could have lost at sea, you lost a "
-"<b>Netherstone</b></i>. "
+"<b>Netherstone</b></i>."
 msgstr "<i>많고 많은 물건 중에 하필 <b>네더스톤을</b>바다에 빠뜨려 잃어버리다니.</i> "
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_EmperorPrelude_EmperorAD_LeftStonesInIronThrone
@@ -54877,7 +54973,7 @@ msgstr "와우. 이건 사랑이야."
 msgctxt "h533191e8g05e8g4502g89feg358512cbcb90"
 msgid ""
 "*Such a curious artefact. So small and seemingly harmless, and yet it "
-"contains so much.* "
+"contains so much.*"
 msgstr "*매우 흥미로운 인공물입니다. 아주 작고 무해해 보이지만, 이것이 담고 있는 것은 전혀 작지 않습니다.* "
 
 #. Dialog = Mods/Gustav/Story/Dialogs/Global/GLO_InfernalBox_BoxInteraction
@@ -55119,7 +55215,7 @@ msgstr "쉽지 않군. 혹시라도 힘이 더 필요하면 나한테 말 해."
 msgctxt "hf42466d4g79deg4e18ga0acgc20ac3253420"
 msgid ""
 "Curious artefact, isn't it? Ancient, beguiling, cryptic - the ABCs of "
-"mystery. "
+"mystery."
 msgstr ""
 "흥미로운 아티팩트군, 안 그래? 오래되고 묘한 매력이 있으면서도 수수께끼로 가득한 물건. 딱 불가사의의 정석이라고 할 수 있지. "
 
@@ -60931,6 +61027,32 @@ msgctxt "hc2ecadeeg6098g41b4ga00bgf0f60686b132"
 msgid "Not a chance I'll fit in there."
 msgstr "내가 거기에 들어갈 가능성은 전혀 없어."
 
+#. Dialog = Mods/Shared/Story/Dialogs/Global/GLO_PAD_TeleporterHole_Small
+#. Speaker = Narrator
+#. NodeID = 2e4979ef-0511-5459-1c1c-53ecf97ddcef
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Tag:
+#.      - CANTSPEAK(0) = True
+#: Mods/Shared/Story/Dialogs/Global/GLO_PAD_TeleporterHole_Small:2e4979ef-0511-5459-1c1c-53ecf97ddcef
+msgctxt "hdaa55390g2756g4a07g8ac5g40aac9805e80"
+msgid ""
+"*Whatever secrets lie beyond this opening will be for someone smaller to "
+"discover.*"
+msgstr ""
+
+#. Dialog = Mods/Shared/Story/Dialogs/Global/GLO_PAD_TeleporterHole_Tiny
+#. Speaker = Narrator
+#. NodeID = 8ee0db6b-bee0-a8e8-f3ce-1a1939609e92
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Tag:
+#.      - CANTSPEAK(0) = True
+#: Mods/Shared/Story/Dialogs/Global/GLO_PAD_TeleporterHole_Tiny:8ee0db6b-bee0-a8e8-f3ce-1a1939609e92
+msgctxt "h0095ddcag7f9ag421ega3a4gc54e78576574"
+msgid "*A tight fit for even the smallest of creatures, let alone you.*"
+msgstr ""
+
 #. Dialog = Mods/Shared/Story/Dialogs/Global/GLO_PAD_TeleporterHole_Tiny
 #. Speaker = Player
 #. NodeID = ffd3fe19-df4e-48b5-9e15-4a9f37a07bee
@@ -64078,15 +64200,6 @@ msgctxt "h718b3aa8gb454g423dg8454g7e91e1190f17"
 msgid "A True Soul parasite. You can absorb its potential like you did before."
 msgstr "참된 영혼의 기생충이군요. 당신이 전에 했던 것 처럼 그것의 잠재력을 흡수할 수 있습니다."
 
-#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Muted
-#. Speaker = Narrator
-#. NodeID = ef434381-cace-4d0f-ae93-562ada5c5434
-#. HandlePath = TaggedText[0].TagText[0]
-#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow_Muted:ef434381-cace-4d0f-ae93-562ada5c5434
-msgctxt "hb918e0d5g8446g4f75g9466g1314df93214e"
-msgid "*You cannot use that right now.*"
-msgstr "*지금은 사용할 수 없습니다.*"
-
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_PAD_Refusal
 #. Speaker = Narrator
 #. NodeID = bd9ff09a-3d2c-4a6f-83ab-3eca3fcba01e
@@ -64095,18 +64208,6 @@ msgstr "*지금은 사용할 수 없습니다.*"
 msgctxt "h4d4933f4g101ag42f2ga83bg3676de241752"
 msgid "*This character does not wish to consume tadpoles.*"
 msgstr "*이 인물은 올챙이를 삼키길 원하지 않습니다.*"
-
-#. Dialog = Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow
-#. Speaker = Player
-#. NodeID = 0a2c62d9-f58a-fb43-7902-d5d8c18aecbb
-#. HandlePath = TaggedText[0].TagText[1]
-#. CheckFlags:
-#.   Tag:
-#.      - REALLY_GENERIC(0) = True
-#: Mods/Shared/Story/Dialogs/Generics/GLO_AD_CannotUseNow:0a2c62d9-f58a-fb43-7902-d5d8c18aecbb
-msgctxt "hdea41641ged0cg4626g9114gc23e59b302f4"
-msgid "That's not going to work."
-msgstr "안 되는 거 같은데."
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_PAD_RefusalBeforeDaisy
 #. Speaker = Narrator
@@ -64605,7 +64706,7 @@ msgstr "<i>정신을 억지로 닫는다. 일리시드 기생충의 영향에 �
 #. TagRule: DAISY_MALE_VOICE
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_TrueSoulCorpse:d4be7eec-43c9-d303-8f5a-2cd9ecac2553
 msgctxt "h737f886cgd789g427cg92e1gcef73d35e7f9"
-msgid "You're not ready. It's all right. "
+msgid "You're not ready. It's all right."
 msgstr "준비되지 않았군요. 괜찮아요. "
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_TrueSoulCorpse
@@ -64618,7 +64719,7 @@ msgstr "준비되지 않았군요. 괜찮아요. "
 #. TagRule: DAISY_FEMALE_VOICE
 #: Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_TrueSoulCorpse:d4be7eec-43c9-d303-8f5a-2cd9ecac2553
 msgctxt "h67458cdag63a0g48bdgb392g6f5765144724"
-msgid "You're not ready. It's all right. "
+msgid "You're not ready. It's all right."
 msgstr "준비되지 않았군요. 괜찮아요. "
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/GLO_Tadpole_TrueSoulCorpse
@@ -68661,6 +68762,111 @@ msgid ""
 "thousand different dead.*"
 msgstr "*당신이 기억을 파고들기 시작하자, 머릿속에 천 구의 시체가 섬광처럼 스쳐지나 갑니다.*"
 
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn
+#. Speaker = Conjured Quasit
+#. NodeID = b88bd311-9e80-4b3e-bbc2-35ae834a9cd2
+#. HandlePath = TaggedText[0].TagText[0]
+#. SetFlags:
+#.   Local:
+#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_A = True
+#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn:b88bd311-9e80-4b3e-bbc2-35ae834a9cd2
+msgctxt "h431ecbf8gbb4ag4083g8d46g5cf69a43e2f5"
+msgid "It's <i>fisting</i> time."
+msgstr ""
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath
+#. Speaker = Conjured Quasit
+#. NodeID = 032f9b37-0b90-4463-83fe-33dab59381fd
+#. HandlePath = TaggedText[0].TagText[0]
+#. SetFlags:
+#.   Local:
+#.     - fc1f2ca2-818a-8886-4e9b-9ad13476d544_A = True
+#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath:032f9b37-0b90-4463-83fe-33dab59381fd
+msgctxt "h6e9ac3c3g892fg4b40ga681g84a117a2fbb2"
+msgid "Master..."
+msgstr ""
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn
+#. Speaker = Conjured Quasit
+#. NodeID = c8f20539-dc67-4a96-a4c4-53b7783d3ccc
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Local:
+#.      - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_A = True
+#.   Object:
+#.      - FOR_ThayanCellar_State_QuasitName1(0) = True
+#. SetFlags:
+#.   Local:
+#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_B = True
+#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn:c8f20539-dc67-4a96-a4c4-53b7783d3ccc
+msgctxt "h1473193eg61e8g4387ga5fag758b67628a74"
+msgid "Shovel is gonna MURDERISE you."
+msgstr ""
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath
+#. Speaker = Conjured Quasit
+#. NodeID = 058ee0e5-4e7b-4e0e-ad6b-1f2a2e36c307
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Local:
+#.      - fc1f2ca2-818a-8886-4e9b-9ad13476d544_A = True
+#. SetFlags:
+#.   Local:
+#.     - fc1f2ca2-818a-8886-4e9b-9ad13476d544_B = True
+#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath:058ee0e5-4e7b-4e0e-ad6b-1f2a2e36c307
+msgctxt "hea73b49egd353g4eeeg9da5g309dddccbac0"
+msgid "SHIT."
+msgstr ""
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn
+#. Speaker = Conjured Quasit
+#. NodeID = e6b9386c-3acc-4ed1-a13c-63e87039b069
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Local:
+#.      - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_C = True
+#. SetFlags:
+#.   Local:
+#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_C = False
+#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_B = False
+#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_A = False
+#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn:e6b9386c-3acc-4ed1-a13c-63e87039b069
+msgctxt "hed38725dg089bg4bedg8eb7gd75448866467"
+msgid "Chomp. CHOMP."
+msgstr ""
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath
+#. Speaker = Conjured Quasit
+#. NodeID = 1bf84e78-4125-429e-94ea-5e05e0cc580f
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Local:
+#.      - fc1f2ca2-818a-8886-4e9b-9ad13476d544_C = True
+#. SetFlags:
+#.   Local:
+#.     - fc1f2ca2-818a-8886-4e9b-9ad13476d544_A = False
+#.     - fc1f2ca2-818a-8886-4e9b-9ad13476d544_B = False
+#.     - fc1f2ca2-818a-8886-4e9b-9ad13476d544_C = False
+#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath:1bf84e78-4125-429e-94ea-5e05e0cc580f
+msgctxt "hba44e8dag0432g4be0g9724g86b3dfdcb29d"
+msgid "Piss... guzzler..."
+msgstr ""
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn
+#. Speaker = Conjured Quasit
+#. NodeID = f4f5692c-3bdc-4e0c-bdc8-c0fa32f948c6
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Local:
+#.      - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_B = True
+#. SetFlags:
+#.   Local:
+#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_C = True
+#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn:f4f5692c-3bdc-4e0c-bdc8-c0fa32f948c6
+msgctxt "hf45757e1g0834g4496gafcbgc7d5eae27ec8"
+msgid "Squeal, little piggies!"
+msgstr ""
+
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath
 #. Speaker = Conjured Quasit
 #. NodeID = 6119946d-8438-465c-9af0-1abe0d560a38
@@ -68693,16 +68899,16 @@ msgctxt "h669dfa8bgd8abg45f8g9ed2g8a8aa72e90a4"
 msgid "IT'S ONLY FUN WHEN SHOVEL DOES THE FISTING."
 msgstr ""
 
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints
 #. Speaker = Conjured Quasit
-#. NodeID = 032f9b37-0b90-4463-83fe-33dab59381fd
+#. NodeID = 129c0b91-ed43-4237-b77d-b2cb11fdd27f
 #. HandlePath = TaggedText[0].TagText[0]
 #. SetFlags:
 #.   Local:
-#.     - fc1f2ca2-818a-8886-4e9b-9ad13476d544_A = True
-#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath:032f9b37-0b90-4463-83fe-33dab59381fd
-msgctxt "h6e9ac3c3g892fg4b40ga681g84a117a2fbb2"
-msgid "Master..."
+#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_A = True
+#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints:129c0b91-ed43-4237-b77d-b2cb11fdd27f
+msgctxt "hb45eb33cgdb2cg47acgb207g834eddfc7f78"
+msgid "Argh, my <i>hole</i>."
 msgstr ""
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints
@@ -68722,48 +68928,53 @@ msgctxt "h963f3b6fg204bg4ab2g9dc5gbbd9e8f59e82"
 msgid "IT'S ONLY FUN WHEN BASKET DOES THE FISTING."
 msgstr ""
 
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints
 #. Speaker = Conjured Quasit
-#. NodeID = 058ee0e5-4e7b-4e0e-ad6b-1f2a2e36c307
+#. NodeID = 36b24495-30e8-4130-bfc3-cbfdcb25b446
 #. HandlePath = TaggedText[0].TagText[0]
 #. CheckFlags:
 #.   Local:
-#.      - fc1f2ca2-818a-8886-4e9b-9ad13476d544_A = True
+#.      - 02466e81-d666-6a6f-5303-d7bda80671a7_A = True
 #. SetFlags:
 #.   Local:
-#.     - fc1f2ca2-818a-8886-4e9b-9ad13476d544_B = True
-#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath:058ee0e5-4e7b-4e0e-ad6b-1f2a2e36c307
-msgctxt "hea73b49egd353g4eeeg9da5g309dddccbac0"
-msgid "SHIT."
-msgstr ""
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath
-#. Speaker = Conjured Quasit
-#. NodeID = 1bf84e78-4125-429e-94ea-5e05e0cc580f
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Local:
-#.      - fc1f2ca2-818a-8886-4e9b-9ad13476d544_C = True
-#. SetFlags:
-#.   Local:
-#.     - fc1f2ca2-818a-8886-4e9b-9ad13476d544_A = False
-#.     - fc1f2ca2-818a-8886-4e9b-9ad13476d544_B = False
-#.     - fc1f2ca2-818a-8886-4e9b-9ad13476d544_C = False
-#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnDeath:1bf84e78-4125-429e-94ea-5e05e0cc580f
-msgctxt "hba44e8dag0432g4be0g9724g86b3dfdcb29d"
-msgid "Piss... guzzler..."
+#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_B = True
+#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints:36b24495-30e8-4130-bfc3-cbfdcb25b446
+msgctxt "h72d7af03g54f7g42d0ga179gc7423a424481"
+msgid "Ouch, ouch, OUCH."
 msgstr ""
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints
 #. Speaker = Conjured Quasit
-#. NodeID = 129c0b91-ed43-4237-b77d-b2cb11fdd27f
+#. NodeID = 5dffd0b3-df83-4330-b8f8-69174d712d92
 #. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Local:
+#.      - 02466e81-d666-6a6f-5303-d7bda80671a7_C = True
 #. SetFlags:
 #.   Local:
-#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_A = True
-#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints:129c0b91-ed43-4237-b77d-b2cb11fdd27f
-msgctxt "hb45eb33cgdb2cg47acgb207g834eddfc7f78"
-msgid "Argh, my <i>hole</i>."
+#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_C = False
+#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_B = False
+#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_A = False
+#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints:5dffd0b3-df83-4330-b8f8-69174d712d92
+msgctxt "hc2edd6c6g9c27g4183g915egc84e6c96ca5c"
+msgid "Shit-swigging ballbag!"
+msgstr ""
+
+#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints
+#. Speaker = Conjured Quasit
+#. NodeID = d4530b1c-dd4f-4a14-a6d3-c169fa4bdd68
+#. HandlePath = TaggedText[0].TagText[0]
+#. CheckFlags:
+#.   Local:
+#.      - 02466e81-d666-6a6f-5303-d7bda80671a7_B = True
+#.   Object:
+#.      - FOR_ThayanCellar_State_QuasitName2(0) = True
+#. SetFlags:
+#.   Local:
+#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_C = True
+#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints:d4530b1c-dd4f-4a14-a6d3-c169fa4bdd68
+msgctxt "h3307bf86g4146g42fdgbf81g0ab3d04032ab"
+msgid "IT'S ONLY FUN WHEN FORK DOES THE FISTING."
 msgstr ""
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnSpell
@@ -68796,21 +69007,6 @@ msgctxt "h788725e0g9ba9g4febg9991gb3fad4281644"
 msgid "SHIT YOUR TROUSER HOLES. BASKET IS HERE."
 msgstr ""
 
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints
-#. Speaker = Conjured Quasit
-#. NodeID = 36b24495-30e8-4130-bfc3-cbfdcb25b446
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Local:
-#.      - 02466e81-d666-6a6f-5303-d7bda80671a7_A = True
-#. SetFlags:
-#.   Local:
-#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_B = True
-#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints:36b24495-30e8-4130-bfc3-cbfdcb25b446
-msgctxt "h72d7af03g54f7g42d0ga179gc7423a424481"
-msgid "Ouch, ouch, OUCH."
-msgstr ""
-
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnSpell
 #. Speaker = Conjured Quasit
 #. NodeID = 5113c0bf-5748-4d66-ac6e-f9284ff3d8a0
@@ -68824,23 +69020,6 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnSpell:5113c0bf-5748-4d66-ac6e-f9284ff3d8a0
 msgctxt "h6c4de5ccg9024g4240gbb90g09e807bd4db6"
 msgid "GONNA EAT YOUR BABIES."
-msgstr ""
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints
-#. Speaker = Conjured Quasit
-#. NodeID = 5dffd0b3-df83-4330-b8f8-69174d712d92
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Local:
-#.      - 02466e81-d666-6a6f-5303-d7bda80671a7_C = True
-#. SetFlags:
-#.   Local:
-#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_C = False
-#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_B = False
-#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_A = False
-#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints:5dffd0b3-df83-4330-b8f8-69174d712d92
-msgctxt "hc2edd6c6g9c27g4183g915egc84e6c96ca5c"
-msgid "Shit-swigging ballbag!"
 msgstr ""
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnSpell
@@ -68858,23 +69037,6 @@ msgstr ""
 #: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnSpell:b2bbb3f0-d7ea-479b-9f2a-b8607ab53ca8
 msgctxt "ha6824675g6807g4c9agab4ege8319370836c"
 msgid "MWAHAH."
-msgstr ""
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints
-#. Speaker = Conjured Quasit
-#. NodeID = d4530b1c-dd4f-4a14-a6d3-c169fa4bdd68
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Local:
-#.      - 02466e81-d666-6a6f-5303-d7bda80671a7_B = True
-#.   Object:
-#.      - FOR_ThayanCellar_State_QuasitName2(0) = True
-#. SetFlags:
-#.   Local:
-#.     - 02466e81-d666-6a6f-5303-d7bda80671a7_C = True
-#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnHitPoints:d4530b1c-dd4f-4a14-a6d3-c169fa4bdd68
-msgctxt "h3307bf86g4146g42fdgbf81g0ab3d04032ab"
-msgid "IT'S ONLY FUN WHEN FORK DOES THE FISTING."
 msgstr ""
 
 #. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnSpell
@@ -68941,67 +69103,6 @@ msgctxt "ha8756735gbbd4g4e87g8b07g81d264bbbe05"
 msgid "Fork is gonna MURDERISE you."
 msgstr ""
 
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn
-#. Speaker = Conjured Quasit
-#. NodeID = b88bd311-9e80-4b3e-bbc2-35ae834a9cd2
-#. HandlePath = TaggedText[0].TagText[0]
-#. SetFlags:
-#.   Local:
-#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_A = True
-#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn:b88bd311-9e80-4b3e-bbc2-35ae834a9cd2
-msgctxt "h431ecbf8gbb4ag4083g8d46g5cf69a43e2f5"
-msgid "It's <i>fisting</i> time."
-msgstr ""
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn
-#. Speaker = Conjured Quasit
-#. NodeID = c8f20539-dc67-4a96-a4c4-53b7783d3ccc
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Local:
-#.      - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_A = True
-#.   Object:
-#.      - FOR_ThayanCellar_State_QuasitName1(0) = True
-#. SetFlags:
-#.   Local:
-#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_B = True
-#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn:c8f20539-dc67-4a96-a4c4-53b7783d3ccc
-msgctxt "h1473193eg61e8g4387ga5fag758b67628a74"
-msgid "Shovel is gonna MURDERISE you."
-msgstr ""
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn
-#. Speaker = Conjured Quasit
-#. NodeID = e6b9386c-3acc-4ed1-a13c-63e87039b069
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Local:
-#.      - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_C = True
-#. SetFlags:
-#.   Local:
-#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_C = False
-#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_B = False
-#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_A = False
-#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn:e6b9386c-3acc-4ed1-a13c-63e87039b069
-msgctxt "hed38725dg089bg4bedg8eb7gd75448866467"
-msgid "Chomp. CHOMP."
-msgstr ""
-
-#. Dialog = Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn
-#. Speaker = Conjured Quasit
-#. NodeID = f4f5692c-3bdc-4e0c-bdc8-c0fa32f948c6
-#. HandlePath = TaggedText[0].TagText[0]
-#. CheckFlags:
-#.   Local:
-#.      - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_B = True
-#. SetFlags:
-#.   Local:
-#.     - f620a2d2-3b4a-82c8-e6b5-fd6bebc80680_C = True
-#: Mods/GustavDev/Story/Dialogs/Global/Shovel/GLO_Shovel_AD_CombatOnTurn:f4f5692c-3bdc-4e0c-bdc8-c0fa32f948c6
-msgctxt "hf45757e1g0834g4496gafcbgc7d5eae27ec8"
-msgid "Squeal, little piggies!"
-msgstr ""
-
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = Player
 #. NodeID = 0bf92f1a-24d3-e789-6523-fa239e38489e
@@ -69033,10 +69134,81 @@ msgstr "좀 더 생각해 보고요 - 그냥 놔 둘게요."
 #. Speaker = GROUP_Hirelings
 #. NodeID = 17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
 #. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
 msgctxt "h8836b042g240ag4aa7gb506g52cf87048624"
 msgid "A single mortal soul... tossed as the errant coin. So it shall be."
 msgstr "한 필멸의 영혼이... 빗나간 동전처럼 던져졌다. 그러니 그렇게 될 것이다."
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+msgctxt "hdc834204gc641g4ee8gaec4g59fef7e602de"
+msgid "A single mortal soul... tossed as the errant coin. So it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+#. HandlePath = TaggedText[2].TagText[0]
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+msgctxt "hb439b2f1g48eag4c15gaeceg5106a1cb4795"
+msgid "A single mortal soul... tossed as the errant coin. So it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+#. HandlePath = TaggedText[3].TagText[0]
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+msgctxt "h88617aecg9b00g44afg9a40g0fa8de6df85d"
+msgid "A single mortal soul... tossed as the errant coin. So it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+#. HandlePath = TaggedText[4].TagText[0]
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+msgctxt "h8b05704dg29ffg4d69gb1fdgedb9722910bd"
+msgid "A single mortal soul... tossed as the errant coin. So it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+#. HandlePath = TaggedText[5].TagText[0]
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+msgctxt "hd99d81dcgae98g43c4gb568ge218a2a6352f"
+msgid "A single mortal soul... tossed as the errant coin. So it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+#. HandlePath = TaggedText[6].TagText[0]
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+msgctxt "h2f07bd84g9b1fg4b69g8890g386be4b0c2ee"
+msgid "A single mortal soul... tossed as the errant coin. So it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+#. HandlePath = TaggedText[7].TagText[0]
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:17d2e858-d5c3-a0e2-2a0a-9546c4a60ba9
+msgctxt "h4ed93c82ga931g468cg9411gd151227c5abd"
+msgid "A single mortal soul... tossed as the errant coin. So it shall be."
+msgstr ""
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = Player
@@ -69075,10 +69247,81 @@ msgstr "왜 그런 식으로 말하는 거야?"
 #. Speaker = GROUP_Hirelings
 #. NodeID = 48e33fca-1a8b-4b93-0044-103e49426686
 #. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:48e33fca-1a8b-4b93-0044-103e49426686
 msgctxt "h3a441755g21ebg415dga8cbg3d84c3854189"
 msgid "These souls clawed their way back from the Fugue Plane for vengeance."
 msgstr "이 영혼들은 복수를 위해 배회 차원에서 이를 갈며 돌아왔다네."
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 48e33fca-1a8b-4b93-0044-103e49426686
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:48e33fca-1a8b-4b93-0044-103e49426686
+msgctxt "h0b8923adgd8afg4225gbcd7g09ec49af2b29"
+msgid "These souls clawed their way back from the Fugue Plane for vengeance."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 48e33fca-1a8b-4b93-0044-103e49426686
+#. HandlePath = TaggedText[2].TagText[0]
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:48e33fca-1a8b-4b93-0044-103e49426686
+msgctxt "h94452f38gca84g4ab0g8fa5g1f9895d1b01c"
+msgid "These souls clawed their way back from the Fugue Plane for vengeance."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 48e33fca-1a8b-4b93-0044-103e49426686
+#. HandlePath = TaggedText[3].TagText[0]
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:48e33fca-1a8b-4b93-0044-103e49426686
+msgctxt "hd4099f2bgb7d5g4239gacbfg7a74e9d82e3c"
+msgid "These souls clawed their way back from the Fugue Plane for vengeance."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 48e33fca-1a8b-4b93-0044-103e49426686
+#. HandlePath = TaggedText[4].TagText[0]
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:48e33fca-1a8b-4b93-0044-103e49426686
+msgctxt "h1b01cc1dg61a8g4e64g8209g405d3d29a289"
+msgid "These souls clawed their way back from the Fugue Plane for vengeance."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 48e33fca-1a8b-4b93-0044-103e49426686
+#. HandlePath = TaggedText[5].TagText[0]
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:48e33fca-1a8b-4b93-0044-103e49426686
+msgctxt "h9d90ce7cg65cdg4e02ga917gec9d747479e6"
+msgid "These souls clawed their way back from the Fugue Plane for vengeance."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 48e33fca-1a8b-4b93-0044-103e49426686
+#. HandlePath = TaggedText[6].TagText[0]
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:48e33fca-1a8b-4b93-0044-103e49426686
+msgctxt "h1aa8ca7dg9c91g461ega392g9fc9aa6fc669"
+msgid "These souls clawed their way back from the Fugue Plane for vengeance."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 48e33fca-1a8b-4b93-0044-103e49426686
+#. HandlePath = TaggedText[7].TagText[0]
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:48e33fca-1a8b-4b93-0044-103e49426686
+msgctxt "he1866081g1b97g412cgbd22ge47d5c814743"
+msgid "These souls clawed their way back from the Fugue Plane for vengeance."
+msgstr ""
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = Player
@@ -69113,6 +69356,7 @@ msgstr "너를 더 이상 쓸 일이 없다."
 #. Speaker = GROUP_Hirelings
 #. NodeID = 4ebee08b-fc9c-45eb-3ce7-4072f844e668
 #. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4ebee08b-fc9c-45eb-3ce7-4072f844e668
 msgctxt "h29521b16g8b71g4211g8ebbg47e9dd0ebfc1"
 msgid "This soul remembers its invective, but remembers not its tongue."
@@ -69120,12 +69364,153 @@ msgstr "이 영혼은 자신의 욕설은 기억하지만, 자신의 혀는 기�
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = GROUP_Hirelings
+#. NodeID = 4ebee08b-fc9c-45eb-3ce7-4072f844e668
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4ebee08b-fc9c-45eb-3ce7-4072f844e668
+msgctxt "hc52a3721gb44ag487fgb08bgd8d9e3489879"
+msgid "This soul remembers its invective, but remembers not its tongue. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4ebee08b-fc9c-45eb-3ce7-4072f844e668
+#. HandlePath = TaggedText[2].TagText[0]
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4ebee08b-fc9c-45eb-3ce7-4072f844e668
+msgctxt "h187e14fag0dbfg41fdg8fa3ga6251f617c54"
+msgid "This soul remembers its invective, but remembers not its tongue. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4ebee08b-fc9c-45eb-3ce7-4072f844e668
+#. HandlePath = TaggedText[3].TagText[0]
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4ebee08b-fc9c-45eb-3ce7-4072f844e668
+msgctxt "hbbedb78bg464eg4d23ga662gfc93bace098f"
+msgid "This soul remembers its invective, but remembers not its tongue. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4ebee08b-fc9c-45eb-3ce7-4072f844e668
+#. HandlePath = TaggedText[4].TagText[0]
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4ebee08b-fc9c-45eb-3ce7-4072f844e668
+msgctxt "h8f8ad031g2efdg4c27gbba8gace5324664bb"
+msgid "This soul remembers its invective, but remembers not its tongue. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4ebee08b-fc9c-45eb-3ce7-4072f844e668
+#. HandlePath = TaggedText[5].TagText[0]
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4ebee08b-fc9c-45eb-3ce7-4072f844e668
+msgctxt "h4f3ebcffg3b6ag4befg96fdg80ddbf340880"
+msgid "This soul remembers its invective, but remembers not its tongue. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4ebee08b-fc9c-45eb-3ce7-4072f844e668
+#. HandlePath = TaggedText[6].TagText[0]
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4ebee08b-fc9c-45eb-3ce7-4072f844e668
+msgctxt "h5f1f45cage1b9g4599g8c45g2464bd5b2b77"
+msgid "This soul remembers its invective, but remembers not its tongue. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4ebee08b-fc9c-45eb-3ce7-4072f844e668
+#. HandlePath = TaggedText[7].TagText[0]
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4ebee08b-fc9c-45eb-3ce7-4072f844e668
+msgctxt "h0049ee56g3e03g4ec9g8267ga5f05bcab5d7"
+msgid "This soul remembers its invective, but remembers not its tongue. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
 #. NodeID = 4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
 #. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
 msgctxt "h945b10afga860g4df7gbfd6g08e8e0b8fcda"
 msgid "Art thou certain?"
 msgstr "확실한가?"
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+msgctxt "h71efbd8cg5d26g407cgbb4ag6c615ea5a0bd"
+msgid "Art thou certain? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+#. HandlePath = TaggedText[2].TagText[0]
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+msgctxt "h6e439636g6423g4313ga4bdgbbd74877ad09"
+msgid "Art thou certain? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+#. HandlePath = TaggedText[3].TagText[0]
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+msgctxt "h95997b8dg5b6bg4e1dg8cbeg129d479a072e"
+msgid "Art thou certain? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+#. HandlePath = TaggedText[4].TagText[0]
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+msgctxt "hfb27a475gc9e4g4a79gb783g4698f2b0e424"
+msgid "Art thou certain? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+#. HandlePath = TaggedText[5].TagText[0]
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+msgctxt "h389bf450g4803g4204ga144gebfe92d17e42"
+msgid "Art thou certain? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+#. HandlePath = TaggedText[6].TagText[0]
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+msgctxt "h62e98e15g0c3fg4806ga60ag072e5ec7dbcc"
+msgid "Art thou certain? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+#. HandlePath = TaggedText[7].TagText[0]
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:4f546f59-d1f6-fb2f-8a35-6b9d7e460ffe
+msgctxt "h1b57c594g0d6eg40d2g838ag2bcee4049ec9"
+msgid "Art thou certain? "
+msgstr ""
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = Narrator
@@ -69148,10 +69533,102 @@ msgstr "*다른 목소리로 말하지만, 당신은 용병을 소환한 위더�
 #. CheckFlags:
 #.   Tag:
 #.      - AVATAR(1) = False
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:59b450bb-c7a9-1aa5-dfce-23b163d7e530
 msgctxt "hf94ef22cgbf65g46a2ga9b9gac4ca64ecdfe"
 msgid "This vessel's service lies with those of great import. Thou art not."
 msgstr "이 육신은 위대한 자들에게만 봉사한다네. 그대는 그렇지 않군."
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 59b450bb-c7a9-1aa5-dfce-23b163d7e530
+#. HandlePath = TaggedText[1].TagText[0]
+#. CheckFlags:
+#.   Tag:
+#.      - AVATAR(1) = False
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:59b450bb-c7a9-1aa5-dfce-23b163d7e530
+msgctxt "h8ec4da66g4cefg4733g980dgbe0105ca5af0"
+msgid "This vessel's service lies with those of great import. Thou art not. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 59b450bb-c7a9-1aa5-dfce-23b163d7e530
+#. HandlePath = TaggedText[2].TagText[0]
+#. CheckFlags:
+#.   Tag:
+#.      - AVATAR(1) = False
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:59b450bb-c7a9-1aa5-dfce-23b163d7e530
+msgctxt "h9b36aee1gec9ag4049g92a2gb1bfb688c67c"
+msgid "This vessel's service lies with those of great import. Thou art not. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 59b450bb-c7a9-1aa5-dfce-23b163d7e530
+#. HandlePath = TaggedText[3].TagText[0]
+#. CheckFlags:
+#.   Tag:
+#.      - AVATAR(1) = False
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:59b450bb-c7a9-1aa5-dfce-23b163d7e530
+msgctxt "h457e6403g8ea4g4ce4g80c2g2f3727003199"
+msgid "This vessel's service lies with those of great import. Thou art not. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 59b450bb-c7a9-1aa5-dfce-23b163d7e530
+#. HandlePath = TaggedText[4].TagText[0]
+#. CheckFlags:
+#.   Tag:
+#.      - AVATAR(1) = False
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:59b450bb-c7a9-1aa5-dfce-23b163d7e530
+msgctxt "hbae61a66g26cdg410aga741gcaae387dbfde"
+msgid "This vessel's service lies with those of great import. Thou art not. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 59b450bb-c7a9-1aa5-dfce-23b163d7e530
+#. HandlePath = TaggedText[5].TagText[0]
+#. CheckFlags:
+#.   Tag:
+#.      - AVATAR(1) = False
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:59b450bb-c7a9-1aa5-dfce-23b163d7e530
+msgctxt "h252e5720g7a54g4618g9c35g4c3b80900a0c"
+msgid "This vessel's service lies with those of great import. Thou art not. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 59b450bb-c7a9-1aa5-dfce-23b163d7e530
+#. HandlePath = TaggedText[6].TagText[0]
+#. CheckFlags:
+#.   Tag:
+#.      - AVATAR(1) = False
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:59b450bb-c7a9-1aa5-dfce-23b163d7e530
+msgctxt "heca584ffg878bg4e39g88c0ge9c0ae642e4d"
+msgid "This vessel's service lies with those of great import. Thou art not. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 59b450bb-c7a9-1aa5-dfce-23b163d7e530
+#. HandlePath = TaggedText[7].TagText[0]
+#. CheckFlags:
+#.   Tag:
+#.      - AVATAR(1) = False
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:59b450bb-c7a9-1aa5-dfce-23b163d7e530
+msgctxt "h858460d9g6c74g4e5eg9f82g6e354cdc1751"
+msgid "This vessel's service lies with those of great import. Thou art not. "
+msgstr ""
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = Player
@@ -69169,6 +69646,7 @@ msgstr "다시 일하러 가자."
 #. Speaker = GROUP_Hirelings
 #. NodeID = 63096253-fa76-de88-6984-0c877c8fdba0
 #. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:63096253-fa76-de88-6984-0c877c8fdba0
 msgctxt "h09d8804cgab03g4187g8040g84a4a8f71d78"
 msgid ""
@@ -69178,13 +69656,175 @@ msgstr "그들은 단지 메아리일 뿐이고, 스스로의 화법으로 말�
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = GROUP_Hirelings
+#. NodeID = 63096253-fa76-de88-6984-0c877c8fdba0
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:63096253-fa76-de88-6984-0c877c8fdba0
+msgctxt "h2f9e54f0g7e16g4bf6ga2afg28af17babef1"
+msgid ""
+"They are but echoes, they recall not a manner of speech - thus I lent them "
+"my rhetoric."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 63096253-fa76-de88-6984-0c877c8fdba0
+#. HandlePath = TaggedText[2].TagText[0]
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:63096253-fa76-de88-6984-0c877c8fdba0
+msgctxt "he365a0e8g8a63g44e0ga2a8gdd8191dcf652"
+msgid ""
+"They are but echoes, they recall not a manner of speech - thus I lent them "
+"my rhetoric."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 63096253-fa76-de88-6984-0c877c8fdba0
+#. HandlePath = TaggedText[3].TagText[0]
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:63096253-fa76-de88-6984-0c877c8fdba0
+msgctxt "h1b9dcbc2gb025g4719g9998g7fa12292af53"
+msgid ""
+"They are but echoes, they recall not a manner of speech - thus I lent them "
+"my rhetoric."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 63096253-fa76-de88-6984-0c877c8fdba0
+#. HandlePath = TaggedText[4].TagText[0]
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:63096253-fa76-de88-6984-0c877c8fdba0
+msgctxt "h854fa366g8c95g43c7gbec3g0b17789c0051"
+msgid ""
+"They are but echoes, they recall not a manner of speech - thus I lent them "
+"my rhetoric."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 63096253-fa76-de88-6984-0c877c8fdba0
+#. HandlePath = TaggedText[5].TagText[0]
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:63096253-fa76-de88-6984-0c877c8fdba0
+msgctxt "h0494184bg31c2g41ecg9cd8g994c9a584cca"
+msgid ""
+"They are but echoes, they recall not a manner of speech - thus I lent them "
+"my rhetoric."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 63096253-fa76-de88-6984-0c877c8fdba0
+#. HandlePath = TaggedText[6].TagText[0]
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:63096253-fa76-de88-6984-0c877c8fdba0
+msgctxt "h6cf16b89g88cag4ddagbad5gf99f4d142df3"
+msgid ""
+"They are but echoes, they recall not a manner of speech - thus I lent them "
+"my rhetoric."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 63096253-fa76-de88-6984-0c877c8fdba0
+#. HandlePath = TaggedText[7].TagText[0]
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:63096253-fa76-de88-6984-0c877c8fdba0
+msgctxt "h1b9a9df3g7c53g4859ga612g1304af7be232"
+msgid ""
+"They are but echoes, they recall not a manner of speech - thus I lent them "
+"my rhetoric."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
 #. NodeID = 71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
 #. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
 msgctxt "hb00e15d2gdb00g40f4g9a62g653c496015a4"
 msgid ""
 "Because you needed to speak to it. Because it feels... correct. Fitting."
 msgstr "왜냐하면 당신이 말을 걸 필요가 있기 때문이지. 그리고... 그게 맞는 것 같아. 그게 적합해."
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+msgctxt "h77dff6acgc5b6g4b9fgbe67gb7b0b93f6fcd"
+msgid ""
+"Because you needed to speak to it. Because it feels... correct. Fitting. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+#. HandlePath = TaggedText[2].TagText[0]
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+msgctxt "h0ee3e24egd44dg46a1gb73dgd2b930f1e512"
+msgid ""
+"Because you needed to speak to it. Because it feels... correct. Fitting. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+#. HandlePath = TaggedText[3].TagText[0]
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+msgctxt "he04da29dgf007g444fg9966geb15f52531dc"
+msgid ""
+"Because you needed to speak to it. Because it feels... correct. Fitting. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+#. HandlePath = TaggedText[4].TagText[0]
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+msgctxt "h1c0112eag69d7g4e11g97b6g8ccadd075f59"
+msgid ""
+"Because you needed to speak to it. Because it feels... correct. Fitting. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+#. HandlePath = TaggedText[5].TagText[0]
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+msgctxt "h0004b21fgc25eg4143g9c3dg009d7f2fcddd"
+msgid ""
+"Because you needed to speak to it. Because it feels... correct. Fitting. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+#. HandlePath = TaggedText[6].TagText[0]
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+msgctxt "h0f1f022cg5858g456dga85fg30a7982aaefc"
+msgid ""
+"Because you needed to speak to it. Because it feels... correct. Fitting. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+#. HandlePath = TaggedText[7].TagText[0]
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:71545e8e-4ef6-e6c3-3722-f5a1335f4fd2
+msgctxt "h5df07088g6480g47dfg9c88g3d18a2685a64"
+msgid ""
+"Because you needed to speak to it. Because it feels... correct. Fitting. "
+msgstr ""
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = Player
@@ -69206,6 +69846,7 @@ msgstr "이 육신을 제 야영지에 다시 가져가 주세요, 위더스."
 #. Speaker = GROUP_Hirelings
 #. NodeID = 857a0467-327f-9f44-f6e8-6ec01c8066ac
 #. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:857a0467-327f-9f44-f6e8-6ec01c8066ac
 msgctxt "hb428ba05g83b5g40e1g9b25g8d8ab239ddd1"
 msgid ""
@@ -69215,8 +69856,93 @@ msgstr "이렇게 말하는 데는 별로 노력이 들지 않는다네. 게다�
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = GROUP_Hirelings
+#. NodeID = 857a0467-327f-9f44-f6e8-6ec01c8066ac
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:857a0467-327f-9f44-f6e8-6ec01c8066ac
+msgctxt "h7f7ce307g6746g492bg8510gb4bead8a17ec"
+msgid ""
+"To speak thusly takes little of my effort. Besides, what better use is there "
+"of time than discourse? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 857a0467-327f-9f44-f6e8-6ec01c8066ac
+#. HandlePath = TaggedText[2].TagText[0]
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:857a0467-327f-9f44-f6e8-6ec01c8066ac
+msgctxt "h8d55842cge9cfg4f88g8ca9g27a314d931af"
+msgid ""
+"To speak thusly takes little of my effort. Besides, what better use is there "
+"of time than discourse? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 857a0467-327f-9f44-f6e8-6ec01c8066ac
+#. HandlePath = TaggedText[3].TagText[0]
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:857a0467-327f-9f44-f6e8-6ec01c8066ac
+msgctxt "h922e8b3bg5364g4f34gbd1cg32f1bce4460a"
+msgid ""
+"To speak thusly takes little of my effort. Besides, what better use is there "
+"of time than discourse? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 857a0467-327f-9f44-f6e8-6ec01c8066ac
+#. HandlePath = TaggedText[4].TagText[0]
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:857a0467-327f-9f44-f6e8-6ec01c8066ac
+msgctxt "ha6f54cffg43cag4312g9f6dg68138d64d517"
+msgid ""
+"To speak thusly takes little of my effort. Besides, what better use is there "
+"of time than discourse? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 857a0467-327f-9f44-f6e8-6ec01c8066ac
+#. HandlePath = TaggedText[5].TagText[0]
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:857a0467-327f-9f44-f6e8-6ec01c8066ac
+msgctxt "h430d8793g3017g43d2gb5b4g657113e342b8"
+msgid ""
+"To speak thusly takes little of my effort. Besides, what better use is there "
+"of time than discourse? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 857a0467-327f-9f44-f6e8-6ec01c8066ac
+#. HandlePath = TaggedText[6].TagText[0]
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:857a0467-327f-9f44-f6e8-6ec01c8066ac
+msgctxt "hd5ba56d1g1b85g4c8egb572ga80fed6e230d"
+msgid ""
+"To speak thusly takes little of my effort. Besides, what better use is there "
+"of time than discourse? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 857a0467-327f-9f44-f6e8-6ec01c8066ac
+#. HandlePath = TaggedText[7].TagText[0]
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:857a0467-327f-9f44-f6e8-6ec01c8066ac
+msgctxt "h6f56a583g9322g46adgb550g18d458394df8"
+msgid ""
+"To speak thusly takes little of my effort. Besides, what better use is there "
+"of time than discourse? "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
 #. NodeID = 944d5a81-1bd5-322e-6e0a-e05c28196627
 #. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:944d5a81-1bd5-322e-6e0a-e05c28196627
 msgctxt "h573c739bgb2efg43c3ga36eg9bdcc535a3c0"
 msgid "Thou art the master - so it shall be."
@@ -69224,12 +69950,153 @@ msgstr "그대는 나의 주인이네, 그렇게 하도록 하겠네."
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = GROUP_Hirelings
+#. NodeID = 944d5a81-1bd5-322e-6e0a-e05c28196627
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:944d5a81-1bd5-322e-6e0a-e05c28196627
+msgctxt "h8e3d23f3gd563g4062g9272gbd1f7c83c6ce"
+msgid "Thou art the master - so it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 944d5a81-1bd5-322e-6e0a-e05c28196627
+#. HandlePath = TaggedText[2].TagText[0]
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:944d5a81-1bd5-322e-6e0a-e05c28196627
+msgctxt "h6d3ebc36g5ae9g49f4ga2e6g05ee519134c1"
+msgid "Thou art the master - so it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 944d5a81-1bd5-322e-6e0a-e05c28196627
+#. HandlePath = TaggedText[3].TagText[0]
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:944d5a81-1bd5-322e-6e0a-e05c28196627
+msgctxt "h39459a05g402bg4d26g9823g69daa686a7b5"
+msgid "Thou art the master - so it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 944d5a81-1bd5-322e-6e0a-e05c28196627
+#. HandlePath = TaggedText[4].TagText[0]
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:944d5a81-1bd5-322e-6e0a-e05c28196627
+msgctxt "ha4fc4752g51f3g4cb3g881dgf203b8babe87"
+msgid "Thou art the master - so it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 944d5a81-1bd5-322e-6e0a-e05c28196627
+#. HandlePath = TaggedText[5].TagText[0]
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:944d5a81-1bd5-322e-6e0a-e05c28196627
+msgctxt "h6cc13f9cgc72bg4f00g9a10ge77a49a493be"
+msgid "Thou art the master - so it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 944d5a81-1bd5-322e-6e0a-e05c28196627
+#. HandlePath = TaggedText[6].TagText[0]
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:944d5a81-1bd5-322e-6e0a-e05c28196627
+msgctxt "h406174b1g5db8g49b8g9465g6069de00cab9"
+msgid "Thou art the master - so it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = 944d5a81-1bd5-322e-6e0a-e05c28196627
+#. HandlePath = TaggedText[7].TagText[0]
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:944d5a81-1bd5-322e-6e0a-e05c28196627
+msgctxt "h479aaabeg0a06g4a3bg9823g9f117bfa16f9"
+msgid "Thou art the master - so it shall be."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
 #. NodeID = a8c5a9a4-15e6-3a34-e971-c51480c5c530
 #. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:a8c5a9a4-15e6-3a34-e971-c51480c5c530
 msgctxt "h785a29d9g8ec2g4fbdg8330g2335c9355665"
 msgid "This vessel is at thy disposal. Do what thou wilt."
 msgstr "이 육신은 그대 마음대로 쓸 수 있다. 그대의 뜻대로 하거라."
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = a8c5a9a4-15e6-3a34-e971-c51480c5c530
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:a8c5a9a4-15e6-3a34-e971-c51480c5c530
+msgctxt "ha4782cf7g5ca8g4ccfga290g97ea27907ed2"
+msgid "This vessel is at thy disposal. Do what thou wilt. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = a8c5a9a4-15e6-3a34-e971-c51480c5c530
+#. HandlePath = TaggedText[2].TagText[0]
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:a8c5a9a4-15e6-3a34-e971-c51480c5c530
+msgctxt "hf5d65437ga98cg4f6egbb82g45528aef6fc2"
+msgid "This vessel is at thy disposal. Do what thou wilt."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = a8c5a9a4-15e6-3a34-e971-c51480c5c530
+#. HandlePath = TaggedText[3].TagText[0]
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:a8c5a9a4-15e6-3a34-e971-c51480c5c530
+msgctxt "h7f7d2b38g4a0dg45fbg84e2g14a6854679e5"
+msgid "This vessel is at thy disposal. Do what thou wilt."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = a8c5a9a4-15e6-3a34-e971-c51480c5c530
+#. HandlePath = TaggedText[4].TagText[0]
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:a8c5a9a4-15e6-3a34-e971-c51480c5c530
+msgctxt "h825acf5fg4434g4ed2g83e1g8d2422ef5315"
+msgid "This vessel is at thy disposal. Do what thou wilt."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = a8c5a9a4-15e6-3a34-e971-c51480c5c530
+#. HandlePath = TaggedText[5].TagText[0]
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:a8c5a9a4-15e6-3a34-e971-c51480c5c530
+msgctxt "h348cba06g2e7bg4a6fgb916gfcb3fa7b9cd0"
+msgid "This vessel is at thy disposal. Do what thou wilt."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = a8c5a9a4-15e6-3a34-e971-c51480c5c530
+#. HandlePath = TaggedText[6].TagText[0]
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:a8c5a9a4-15e6-3a34-e971-c51480c5c530
+msgctxt "h70ac0430g7b88g471egb887g6de38a7bc8c0"
+msgid "This vessel is at thy disposal. Do what thou wilt."
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = a8c5a9a4-15e6-3a34-e971-c51480c5c530
+#. HandlePath = TaggedText[7].TagText[0]
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:a8c5a9a4-15e6-3a34-e971-c51480c5c530
+msgctxt "h0776dcb7g1cc3g4ea3g9940ga2c53beed549"
+msgid "This vessel is at thy disposal. Do what thou wilt."
+msgstr ""
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = Player
@@ -69285,6 +70152,7 @@ msgstr "그래, 배회 차원으로 돌려 보내겠네."
 #. Speaker = GROUP_Hirelings
 #. NodeID = cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
 #. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
 msgctxt "h43690e97g70cfg4b7egb281gddb4377f5692"
 msgid "This soul awaits thy command."
@@ -69292,14 +70160,169 @@ msgstr "이 영혼은 그대의 명령을 기다리고 있네."
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = GROUP_Hirelings
+#. NodeID = cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+msgctxt "h9f60f7eeged18g4311gb528g2d0256a346b5"
+msgid "This soul awaits thy command. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+#. HandlePath = TaggedText[2].TagText[0]
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+msgctxt "h48f9fefbg4b87g47d4g857dgcefe44750601"
+msgid "This soul awaits thy command. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+#. HandlePath = TaggedText[3].TagText[0]
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+msgctxt "h865bf4ddg0997g4b28g9addg0e6d031459bd"
+msgid "This soul awaits thy command. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+#. HandlePath = TaggedText[4].TagText[0]
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+msgctxt "h0cebb478ge62ag4b35gac7dgfb5f197d8f9c"
+msgid "This soul awaits thy command. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+#. HandlePath = TaggedText[5].TagText[0]
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+msgctxt "hdc1af960gf65eg4c00gbf7fg97166a68826a"
+msgid "This soul awaits thy command. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+#. HandlePath = TaggedText[6].TagText[0]
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+msgctxt "h9facc27dgd4e8g4288g9214g3c4b591bbcbf"
+msgid "This soul awaits thy command. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+#. HandlePath = TaggedText[7].TagText[0]
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:cd9da5ad-e2de-96c7-6cf2-5b8cf13ed9c1
+msgctxt "h31836081geb4eg4e1eg8c92g10b1ab1353ea"
+msgid "This soul awaits thy command. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
 #. NodeID = dc6a3952-42e0-c6cf-ce17-33fbbf550101
 #. HandlePath = TaggedText[0].TagText[0]
+#. TagRule: GENERIC_VOICE_1_MALE
 #: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:dc6a3952-42e0-c6cf-ce17-33fbbf550101
 msgctxt "h86ea38f0geecag43bcg8e39g904a9addefda"
 msgid ""
 "The art of violence is one memory not lost to them - I assure you. Now, let "
 "us return to the fray."
 msgstr "폭력의 기술은 그들에게 결코 잊히지 않는 기억이라네. 보장하지. 이제, 다시 싸움터로 보내주게."
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = dc6a3952-42e0-c6cf-ce17-33fbbf550101
+#. HandlePath = TaggedText[1].TagText[0]
+#. TagRule: GENERIC_VOICE_2_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:dc6a3952-42e0-c6cf-ce17-33fbbf550101
+msgctxt "hfb6bdf46gfc63g4d11g88b5gcb97edb0d82f"
+msgid ""
+"The art of violence is one memory not lost to them - I assure you. Now, let "
+"us return to the fray. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = dc6a3952-42e0-c6cf-ce17-33fbbf550101
+#. HandlePath = TaggedText[2].TagText[0]
+#. TagRule: GENERIC_VOICE_3_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:dc6a3952-42e0-c6cf-ce17-33fbbf550101
+msgctxt "h9b959b09gce41g4752g9a21g7e2bb00ca9ed"
+msgid ""
+"The art of violence is one memory not lost to them - I assure you. Now, let "
+"us return to the fray. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = dc6a3952-42e0-c6cf-ce17-33fbbf550101
+#. HandlePath = TaggedText[3].TagText[0]
+#. TagRule: GENERIC_VOICE_4_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:dc6a3952-42e0-c6cf-ce17-33fbbf550101
+msgctxt "h655ee683g0be5g4ce0gbff3gcfcec41006a4"
+msgid ""
+"The art of violence is one memory not lost to them - I assure you. Now, let "
+"us return to the fray. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = dc6a3952-42e0-c6cf-ce17-33fbbf550101
+#. HandlePath = TaggedText[4].TagText[0]
+#. TagRule: GENERIC_VOICE_5_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:dc6a3952-42e0-c6cf-ce17-33fbbf550101
+msgctxt "ha7573f41g2d0eg4e71gb740g6058dfb22e07"
+msgid ""
+"The art of violence is one memory not lost to them - I assure you. Now, let "
+"us return to the fray. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = dc6a3952-42e0-c6cf-ce17-33fbbf550101
+#. HandlePath = TaggedText[5].TagText[0]
+#. TagRule: GENERIC_VOICE_6_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:dc6a3952-42e0-c6cf-ce17-33fbbf550101
+msgctxt "h8f0fdcd6g4b41g4728gadf3g08a51d2219dd"
+msgid ""
+"The art of violence is one memory not lost to them - I assure you. Now, let "
+"us return to the fray. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = dc6a3952-42e0-c6cf-ce17-33fbbf550101
+#. HandlePath = TaggedText[6].TagText[0]
+#. TagRule: GENERIC_VOICE_7_MALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:dc6a3952-42e0-c6cf-ce17-33fbbf550101
+msgctxt "h110602e5g4457g43c5g8a82g883f6fb32f40"
+msgid ""
+"The art of violence is one memory not lost to them - I assure you. Now, let "
+"us return to the fray. "
+msgstr ""
+
+#. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
+#. Speaker = GROUP_Hirelings
+#. NodeID = dc6a3952-42e0-c6cf-ce17-33fbbf550101
+#. HandlePath = TaggedText[7].TagText[0]
+#. TagRule: GENERIC_VOICE_8_FEMALE
+#: Mods/SharedDev/Story/Dialogs/Hirelings/Hireling:dc6a3952-42e0-c6cf-ce17-33fbbf550101
+msgctxt "h5001d78eg7a31g40bfga2e4g39c273ff2d15"
+msgid ""
+"The art of violence is one memory not lost to them - I assure you. Now, let "
+"us return to the fray. "
+msgstr ""
 
 #. Dialog = Mods/SharedDev/Story/Dialogs/Hirelings/Hireling
 #. Speaker = Player

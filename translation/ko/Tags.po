@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-03 18:50+0900\n"
-"PO-Revision-Date: 2023-11-27 14:37+0000\n"
-"Last-Translator: OSI <sein4510@naver.com>\n"
+"POT-Creation-Date: 2023-12-03 22:03+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.0.0\n"
 
 #. UUID = 04ae77c4-f708-4ffa-8c8b-3b762a066e2e
 #. 
@@ -379,6 +377,16 @@ msgstr "금단의 지식"
 #. UUID = 673cb6af-f12b-4d6e-faab-b81bf43c44ce
 #. 
 #. NodeID = Tags
+#. HandlePath = DisplayName
+#. Description = |This item can be used to open locks|
+#. Name = LOCKPICKS
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayDescription
+#. Description = Earned by finishing the Tome of Thayan Necromancy. Will be relevant in later acts.
+#. Name = FORBIDDENKNOWLEDGE
+#. 
+#. NodeID = Tags
 #. HandlePath = DisplayDescription
 #. Description = Combat tag for characters to ignore the Attack of Opportunity of enemies
 #. Name = IGNORE_AOO
@@ -392,21 +400,11 @@ msgstr "금단의 지식"
 #. HandlePath = DisplayName
 #. Description = Crime reaction tag for Moonrise Dungeon Mindwitness
 #. Name = ACT1_MOO_MINDWITNESS
-#. 
-#. NodeID = Tags
-#. HandlePath = DisplayName
-#. Description = |This item can be used to open locks|
-#. Name = LOCKPICKS
-#. 
-#. NodeID = Tags
-#. HandlePath = DisplayDescription
-#. Description = Earned by finishing the Tome of Thayan Necromancy. Will be relevant in later acts.
-#. Name = FORBIDDENKNOWLEDGE
-#: Public/GustavDev/Tags/0ef680af-d077-466f-a9f3-0f9fa7104d24.lsx:8
 #: Public/Shared/Tags/0668a5fd-72e0-4f9e-b85e-baae8796c637.lsx:7
 #: Public/Shared/Tags/0668a5fd-72e0-4f9e-b85e-baae8796c637.lsx:8
 #: Public/Shared/Tags/1013e720-9b0f-4783-8686-9b5506840088.lsx:8
 #: Public/Gustav/Tags/673cb6af-f12b-4d6e-abfa-1bb83cf4ce44.lsx:7
+#: Public/GustavDev/Tags/0ef680af-d077-466f-a9f3-0f9fa7104d24.lsx:8
 msgctxt "h204da519g01abg4ecbgbeafg603c52d65312"
 msgid ""
 "A tome of necromancy has seared strange, profane glyphs into your mind, but "
@@ -1074,8 +1072,8 @@ msgstr ""
 #. Name = FULL_CEREMORPH
 #. Description = |Player has become a full Mind Flayer|
 #: Public/GustavDev/Tags/3797bfc4-8004-4a19-9578-61ce0714cc0b.lsx:8
-#: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:585
-#: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:787
+#: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:796
+#: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:594
 msgctxt "h3660be4ag5385g4bf3g9d0bg1d304d634389"
 msgid "Full-Illithid"
 msgstr "완전한 일리시드"
@@ -1482,8 +1480,8 @@ msgstr "레이븐가드가 사다리 위로 올라가 미조라의 거미의 범
 #. Name = PARTIAL_CEREMORPH
 #. Description = |Has the player accepted the Emperor's offer to start transforming into a mindflayer?|
 #: Public/GustavDev/Tags/c0cd4ed8-11d1-4fb1-ae3a-3a14e41267c8.lsx:8
-#: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:321
-#: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:371
+#: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:380
+#: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:330
 msgctxt "he1923f58g7436g4389gaccagd0451014a925"
 msgid "Partial-Illithid"
 msgstr "부분 일리시드화"
@@ -3169,7 +3167,7 @@ msgstr ""
 #. Name = AVATAR
 #. Description = A Character Selected in Character Creation
 #: Public/Shared/Tags/306b9b05-1057-4770-aa17-01af21acd650.lsx:8
-#: Public/Game/GUI/Library/DataTemplates_k.xaml:711
+#: Public/Game/GUI/Library/DataTemplates_k.xaml:567
 msgctxt "h15fc75eeg6c56g42e5g8882gbfdd714c5845"
 msgid "Avatar"
 msgstr "아바타"
@@ -9775,6 +9773,17 @@ msgid ""
 msgstr ""
 "드래곤본은 비록 진짜 용은 아닐지언정, 몸속에 용의 피가 흐릅니다. 조상에게 물려받은 강력한 숨결과 초자연적인 강인함을 지니고 있습니다."
 
+#. UUID = 04fbb464-cc92-44de-f189-4b8d0f1bf433
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayName
+#. Name = GENERIC_VOICE_3_MALE
+#. Description = Tag to track which voice is assigned to a Hireling.
+#: Public/SharedDev/Tags/04fbb464-cc92-44de-89f1-8d4b1b0f33f4.lsx:8
+msgctxt "h0389350cg5c33g43c2g94a7g1731203990ee"
+msgid "Generic Voice 3 Male"
+msgstr ""
+
 #. UUID = 0a79a905-d41f-401f-e4a0-40a2431117fc
 #. 
 #. NodeID = Tags
@@ -9977,6 +9986,17 @@ msgid ""
 msgstr ""
 "드래곤본은 비록 진짜 용은 아닐지언정, 몸속에 용의 피가 흐릅니다. 조상에게 물려받은 강력한 숨결과 초자연적인 강인함을 지니고 있습니다."
 
+#. UUID = 3cf37529-bba1-4a4a-04a9-51a3cf387400
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayName
+#. Name = GENERIC_VOICE_2_FEMALE
+#. Description = Tag to track which voice is assigned to a Hireling.
+#: Public/SharedDev/Tags/3cf37529-bba1-4a4a-a904-a35138cf0074.lsx:8
+msgctxt "h0cddc662ge8f7g46a6g8593g49c485f0a2ba"
+msgid "Generic Voice 2 Female"
+msgstr ""
+
 #. UUID = 3d80e0d5-0e28-4363-53b1-a1c16d07d436
 #. 
 #. NodeID = Tags
@@ -10112,6 +10132,17 @@ msgctxt "hdb8cc75cgc965g46begaf9fg65097e5cca44"
 msgid "Kosen, A servant of Talos, God of Storms"
 msgstr "폭풍의 신 탈로스의 종, 코센"
 
+#. UUID = 6052ef1f-bc50-4dff-8b96-3a8dfd79b7de
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayName
+#. Name = GENERIC_VOICE_7_MALE
+#. Description = Tag to track which voice is assigned to a Hireling.
+#: Public/SharedDev/Tags/6052ef1f-bc50-4dff-968b-8d3a79fddeb7.lsx:8
+msgctxt "hff5fc651g3f31g48f3g951dga738fc57784a"
+msgid "Generic Voice 7 Male"
+msgstr ""
+
 #. UUID = 615d115d-6d1d-477c-2c8b-e9d88c1b7dfe
 #. 
 #. NodeID = Tags
@@ -10123,6 +10154,17 @@ msgstr "폭풍의 신 탈로스의 종, 코센"
 msgctxt "h96e90d6cg9fd6g4e2dgaa1bg9b81702fc4b9"
 msgid "Lizardfolk"
 msgstr "리저드포크"
+
+#. UUID = 6db4ba46-cd6a-4dfc-98b6-3f3903718593
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayName
+#. Name = GENERIC_VOICE_8_FEMALE
+#. Description = Tag to track which voice is assigned to a Hireling.
+#: Public/SharedDev/Tags/6db4ba46-cd6a-4dfc-b698-393f71039385.lsx:8
+msgctxt "h9572d4a9g76ebg47e2g844agecefa645109a"
+msgid "Generic Voice 8 Female"
+msgstr ""
 
 #. UUID = 70be60f2-016d-40e5-44b9-b8818c86f93a
 #. 
@@ -10168,6 +10210,17 @@ msgctxt "h4961d421g8c10g4415g915fg01d1edd1a0c1"
 msgid "Your previous oath was one of Vengeance."
 msgstr "당신의 이전 맹세는 복수의 맹세였습니다."
 
+#. UUID = 75cbe7ab-c39e-498e-8da0-c9b305ba8e03
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayName
+#. Name = GENERIC_VOICE_5_MALE
+#. Description = Tag to track which voice is assigned to a Hireling.
+#: Public/SharedDev/Tags/75cbe7ab-c39e-498e-a08d-b3c9ba05038e.lsx:8
+msgctxt "ha2359607g4c6eg45fdga482g0748adffff41"
+msgid "Generic Voice 5 Male"
+msgstr ""
+
 #. UUID = 7839884d-892a-4d60-cc95-73b00d427484
 #. 
 #. NodeID = Tags
@@ -10200,6 +10253,17 @@ msgstr "아라코크라"
 msgctxt "hc4e0eb48g4c14g4a1agb014g824aab1d58f3"
 msgid "Gruumsh"
 msgstr "그룸쉬"
+
+#. UUID = 84269483-f6fd-414e-a5b1-cbfa31426846
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayName
+#. Name = GENERIC_VOICE_1_MALE
+#. Description = Tag to track which voice is assigned to a Hireling.
+#: Public/SharedDev/Tags/84269483-f6fd-414e-b1a5-facb42314668.lsx:8
+msgctxt "h73909bd4g021ag46a9gbafbg4e3b488f0e15"
+msgid "Generic Voice 1 Male"
+msgstr ""
 
 #. UUID = 86de94fa-91a2-4abb-0186-adf2c7965906
 #. 
@@ -10275,6 +10339,17 @@ msgstr "사령계 마법을 수련한 위저드, 보스코"
 msgctxt "h2d2815e7g0dfdg4820g96cfgbb26f1315a30"
 msgid "Bestial"
 msgstr "짐승계"
+
+#. UUID = 937b5b86-0d77-4cb5-e1bc-d836d4280ea9
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayName
+#. Name = GENERIC_VOICE_6_FEMALE
+#. Description = Tag to track which voice is assigned to a Hireling.
+#: Public/SharedDev/Tags/937b5b86-0d77-4cb5-bce1-36d828d4a90e.lsx:8
+msgctxt "h36c9456dg8253g42c7gad79g7b51ac68ece7"
+msgid "Generic Voice 6 Female"
+msgstr ""
 
 #. UUID = 9deae354-0108-40b4-dba7-b26eba3f0f05
 #. 
@@ -10439,6 +10514,17 @@ msgstr "타박시"
 msgctxt "ha4de6750ge998g43d1g9c29g2e527f01137a"
 msgid "Elemental Air"
 msgstr "Elemental Air"
+
+#. UUID = b94f535a-e9c7-42ac-d8af-b0f8ad78f89a
+#. 
+#. NodeID = Tags
+#. HandlePath = DisplayName
+#. Name = GENERIC_VOICE_4_FEMALE
+#. Description = Tag to track which voice is assigned to a Hireling.
+#: Public/SharedDev/Tags/b94f535a-e9c7-42ac-afd8-f8b078ad9af8.lsx:8
+msgctxt "h4821a4fcg80d7g4a02ga3cfg24e654b09e5a"
+msgid "Generic Voice 4 Female"
+msgstr ""
 
 #. UUID = bafc25f8-20b0-4693-fea0-9673ef7b05cf
 #. 
