@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-03 22:03+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-12-04 15:37+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Public/Shared/ActionResourceDefinitions/ActionResourceDefinitions.lsx
 #. NodeID = ActionResourceDefinition
@@ -3784,7 +3786,7 @@ msgstr "닫힘"
 #: Public/Game/GUI/Library/MessageBoxTemplates.xaml:180
 msgctxt "h4242ad23gc2e7g4a6fg9825g487e19d7e1ab"
 msgid "Honour Mode"
-msgstr ""
+msgstr "명예 모드"
 
 #: Public/Game/GUI/Library/MessageBoxTemplates.xaml:184
 msgctxt "h33b1fe8dgf675g4ba9g9b65g9405137331cf"
@@ -3798,7 +3800,7 @@ msgctxt "hed392e60g9d7dg4f8ag9868g08ba6efef31c"
 msgid ""
 "<LSTag Type=\"Text\">End your campaign with honour.</LSTag> This will "
 "<b>delete this campaign</b>."
-msgstr ""
+msgstr "<LSTag Type=\"Text\">명예롭게 캠페인을 끝냅니다.</LSTag> <b>현재 진행 중인 모험이 삭제됩니다</b>."
 
 #: Public/Game/GUI/Library/MessageBoxTemplates.xaml:193
 msgctxt "h60e3d02bgd265g4ed3ga3d3g055312feda72"
@@ -3806,6 +3808,8 @@ msgid ""
 "<LSTag Type=\"Text\">Continue your campaign in dishonour.</LSTag> This will "
 "<b>load your previous savegame in Custom Mode</b>."
 msgstr ""
+"<LSTag Type=\"Text\">불명예스럽지만 모험을 계속합니다.</LSTag> <b>커스텀 모드에서 저장된 게임을 "
+"불러옵니다</b>."
 
 #: Public/Game/GUI/Library/NewOptionTemplates_c.xaml:62
 #: Public/Game/GUI/Widgets/ConnectivityMenu_c.xaml:115
@@ -4442,7 +4446,7 @@ msgstr ""
 #: Public/Game/GUI/Widgets/Overlay_c.xaml:345
 msgctxt "hfaac6c41gc244g45d5g952agb45eb21ee282"
 msgid "Using Melee Weapons"
-msgstr ""
+msgstr "근거리 무기 사용 중"
 
 #: Public/Game/GUI/Library/PreloadedActionRadials_c.xaml:1628
 msgctxt "h1018e7a5gdb9ag4b51g9898gc30c5b0ab518"
@@ -4470,7 +4474,7 @@ msgstr "취소"
 #: Public/Game/GUI/Widgets/Overlay_c.xaml:342
 msgctxt "h6e99c201gc607g4da9gba50gb83f93d8a6e6"
 msgid "Using Ranged Weapons"
-msgstr ""
+msgstr "원거리 무기 사용 중"
 
 #: Public/Game/GUI/Library/PreloadedActionRadials_c.xaml:1678
 #: Public/Game/GUI/Widgets/HotBar.xaml:1899
@@ -4505,7 +4509,7 @@ msgstr "닫기"
 #: Public/Game/GUI/Widgets/CursorText_c.xaml:343
 msgctxt "he2954eb6g6074g4b0ag90e9g8f14cc2ee21c"
 msgid "Select Item"
-msgstr ""
+msgstr "아이템 선택"
 
 #: Public/Game/GUI/Library/PreloadedActionRadials_c.xaml:1868
 msgctxt "h643ff96cg564dg4b8cg892bga492460d06b0"
@@ -4671,7 +4675,7 @@ msgstr "[1]"
 #: Public/Game/GUI/Widgets/PlayerPortraits.xaml:498
 msgctxt "h0098cd11gc624g49fdgb404g596b3245f9ac"
 msgid "Camp Companions"
-msgstr ""
+msgstr "야영지 동료"
 
 #: Public/Game/GUI/Library/PreloadedCharacterPanel_c.xaml:2217
 #: Public/Game/GUI/Library/DataTemplates.xaml:5189
@@ -4851,11 +4855,9 @@ msgid "Group All"
 msgstr "모두 합치기"
 
 #: Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:3498
-#, fuzzy
-#| msgid "Ungroup All Summons"
 msgctxt "he8756948g1795g4047g8eb3g76956ccd07fb"
 msgid "Ungroup Summons"
-msgstr "전체 소환수 그룹 해제"
+msgstr "소환수 그룹 해제"
 
 #: Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:3505
 msgctxt "h23283673g4496g4648g9c41gadd37637d89c"
@@ -4864,7 +4866,6 @@ msgstr "그룹화 확정"
 
 #: Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:3532
 #: Public/Game/GUI/Widgets/ActiveRoll_c.xaml:1135
-#, fuzzy
 msgctxt "h566c2213g6b06g4c09g912ege16b46f520ba"
 msgid "Back"
 msgstr "뒤로"
@@ -4939,11 +4940,9 @@ msgstr "최근 세이브만 남기고 삭제"
 #: Public/Game/GUI/Library/SaveLoad_c.xaml:298
 #: Public/Game/GUI/Library/SaveLoad_c.xaml:408
 #: Public/Game/GUI/Library/SaveLoad.xaml:223
-#, fuzzy
-#| msgid "Honour"
 msgctxt "hc46a669cgdbedg4bb4g8bfbg7940e7dd74d1"
 msgid "Single Save"
-msgstr "명예"
+msgstr "단일 저장"
 
 #. FilePath = Public/Shared/Ruleset/RulesetSelectionPresets.lsx
 #. NodeID = RulesetSelectionPreset
@@ -4955,7 +4954,7 @@ msgstr "명예"
 #: Public/Game/GUI/Library/SaveLoad.xaml:321
 msgctxt "hb80200a7g8e69g4f66gbc18g4155d70f0dcc"
 msgid "Honour"
-msgstr ""
+msgstr "명예"
 
 #: Public/Game/GUI/Library/SaveLoad_c.xaml:20
 #: Public/Game/GUI/Library/SaveLoad.xaml:23
@@ -5122,7 +5121,7 @@ msgstr "버전"
 #: Public/Game/GUI/Library/SaveLoad.xaml:400
 msgctxt "hb276a3ccg5e63g47fag8820gb751dc159b4e"
 msgid "You cannot reload a previous save while playing in Single Save mode. "
-msgstr ""
+msgstr "단일 저장 모드를 플레이하는 중에는 이전 저장 파일을 다시 불러올 수 없습니다. "
 
 #: Public/Game/GUI/Library/SaveLoad_c.xaml:233
 #: Public/Game/GUI/Library/SaveLoad.xaml:453
@@ -7675,12 +7674,14 @@ msgid ""
 "[1] was spotted by [2] in a lightly obscured area due to <LSTag Type=\"Status"
 "\" Tooltip=\"DARKVISION\">Darkvision</LSTag>."
 msgstr ""
+"[1]: 살짝 가려진 지역에서 [2]의 <LSTag Type=\"Status\" Tooltip=\"DARKVISION\">암흑시야</"
+"LSTag>로 인해 발각됨."
 
 #: Public/Game/GUI/Library/Tooltips.xaml:9566
 #: Public/Game/GUI/Library/Tooltips.xaml:9569
 msgctxt "h9b3fc3a8gde15g4893gadd4gbd074ae2bd0f"
 msgid "[1] was spotted by [2] in a lightly obscured area due to [3]."
-msgstr ""
+msgstr "[1]: 약간 가려진 곳에서 [3](으)로 인해 [2]에게 발각됨."
 
 #: Public/Game/GUI/Library/Tooltips.xaml:9634
 msgctxt "h58689011gf42cg4117gabc5ga0de20069370"
@@ -8007,7 +8008,7 @@ msgstr "계속"
 #: Public/Game/GUI/Widgets/ActiveRoll_c.xaml:1915
 msgctxt "h1b4c497eg18a1g436eg9af5g28d16cf1ef2f"
 msgid "Waiting for <hl>[1]</hl> to continue..."
-msgstr ""
+msgstr "<hl>[1]</hl>(이)가 계속하기를 기다리는 중..."
 
 #: Public/Game/GUI/Widgets/ActiveRoll.xaml:1638
 #: Public/Game/GUI/Widgets/ActiveRoll_c.xaml:1754
@@ -8432,7 +8433,7 @@ msgctxt "hf135a2ddg8e74g44b6gb899ga96c2410d384"
 msgid ""
 "Every 2 points above 10 in an ability score will provide a +1 bonus to "
 "related rolls. "
-msgstr ""
+msgstr "능력치 점수가 10을 넘기면 2점마다 관련 주사위 굴림에 +1 보너스를 얻습니다. "
 
 #: Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1361
 msgctxt "h0e1cbf9ege86fg4bebgb6e6g34aae0ab4460"
@@ -9139,7 +9140,7 @@ msgstr "투표 시작"
 #: Public/Game/GUI/Widgets/Dialogue_c.xaml:434
 msgctxt "hb981d2d4ga6eag4b9egadc7g88abe46e6461"
 msgid "Suggest Dialogue"
-msgstr ""
+msgstr "대화문 제안"
 
 #: Public/Game/GUI/Widgets/DragAndDropPreview.xaml:89
 msgctxt "h5c2c6740gfb1dg44c7gb02bg8976765deb82"
@@ -11152,6 +11153,10 @@ msgid ""
 "We recommend new players try a premade difficulty for their first campaign, "
 "as this cannot be changed at a later date."
 msgstr ""
+"발더스 게이트 3을 당신만의 방식으로 직접 규칙을 골라 플레이해보세요. 커스텀 모드는 게임의 스토리에 영향을 미치지 않으며, 도전 과제도 "
+"달성할 수 있습니다.\n"
+"\n"
+"게임 도중 변경이 불가능하므로, 신규 플레이어라면 첫 모험은 기존 난이도로 플레이하는 걸 권장합니다."
 
 #: Public/Game/GUI/Widgets/NewGameSettingsInformationPopup_c.xaml:32
 #: Public/Game/GUI/Widgets/NewGameSettingsInformationPopup.xaml:43
@@ -11183,6 +11188,19 @@ msgid ""
 "\n"
 "Good luck, honourable adventurer. You'll need it."
 msgstr ""
+"명예 모드는 숙련된 플레이어에게 추천하는 고난이도 캠페인입니다.\n"
+"\n"
+"더 강해진 보스: 이 모드에서는 포가튼 렐름의 가장 위험한 적들이 새로운 능력과 전설적인 행동으로 더욱 강력해집니다.\n"
+"\n"
+"더 엄격한 규칙: 전술가 모드의 난이도 상승에 더해, 후반부에 가까워질수록 행동과 피해 보너스 규칙이 더욱 엄격해집니다.\n"
+"\n"
+"단 하나의 저장 파일: 명예 모드에서는 상황이 원치 않는 방향으로 흘러가도 예전 저장 파일을 다시 불러올 수 없으며, 선택과 결과가 항상 "
+"그대로 유지됩니다. 전투에서 일행이 모두 쓰러지면, 명예 모드 플레이도 끝납니다. (원한다면 커스텀 모드로 모험을 계속할 수 있지만, "
+"게임을 완료해도 명예 모드를 클리어한 것으로 인정되지 않습니다.)\n"
+"\n"
+"이 모드에서 승리를 쟁취하고 게임을 완료하면, 다음 게임에서 사용할 수 있는 특전 주사위 세트를 보상으로 받게 됩니다.\n"
+"\n"
+"명예로운 모험가여, 행운이 함께하길 빕니다. 꼭 필요할 테니까요."
 
 #: Public/Game/GUI/Widgets/NewGameSettings_c.xaml:233
 #: Public/Game/GUI/Widgets/NewGameSettings.xaml:223

@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-03 22:03+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-12-04 15:37+0000\n"
+"Last-Translator: Ponytail310 <sejini310@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -3661,11 +3663,9 @@ msgstr "막대한 힘을 주고, 메이리나도 풀어 달라고 에텔 이모�
 #. ID = ReachedNoReturn
 #. Objective = HAG_HagSpawn_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:4696
-#, fuzzy
-#| msgid "We left before we could save the unfortunate Marinya."
 msgctxt "hfd7416ffg2df4g42a1ga4dbg2ea22e8da4f3"
 msgid "We left before we could save the unfortunate Mayrina."
-msgstr "불행한 메이리나를 구하지 않고 지역을 떠났다."
+msgstr "불운한 메이리나를 구하지 않고 지역을 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -28711,6 +28711,7 @@ msgid ""
 "We learned about a place nearby that is protected from the shadow curse. The "
 "people there may know how to get to Moonrise Towers safely."
 msgstr ""
+"근처에 그림자 저주에서 보호받는 장소가 있다는 사실을 알아냈다. 그곳의 거주민이라면 문라이즈 타워로 무사히 들어가는 방법을 알지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -28775,7 +28776,7 @@ msgctxt "he4064debg13e9g47d1gbff7gdbcaa6a5655d"
 msgid ""
 "We met a drider who worships the Absolute. He can lead us to the heart of "
 "the cult in Moonrise Towers, where we may find answers."
-msgstr ""
+msgstr "절대자를 숭배하는 드라이더를 만났다. 드라이더를 따라 문라이즈 타워의 교단 중심부로 가면 답이 나올지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -28919,7 +28920,7 @@ msgctxt "hf1eab101gbe61g40d1gbda4gcd633e3e9c98"
 msgid ""
 "We helped Balthazar return Nightsong to Moonrise Towers. Ketheric Thorm "
 "would be happy to hear this."
-msgstr ""
+msgstr "발타자르가 나이트송을 문라이즈 타워로 돌려보낼 수 있게 도왔다. 케서릭 쏨이 들으면 기뻐할 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42374,7 +42375,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:56025
 msgctxt "haa9c51d0g078bg42a7gad99g6292d65b8a65"
 msgid "Counsellor Florrick was executed - a dark day for Baldur's Gate."
-msgstr ""
+msgstr "자문관 플로릭이 처형당했다. 발더스 게이트의 운명이 어두워졌다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42387,6 +42388,7 @@ msgid ""
 "We freed Counsellor Florrick from Wyrm's Rock, impending doom, and her own "
 "dejection, and gained a powerful ally - without any casualties."
 msgstr ""
+"자문관 플로릭을 고룡 바위에서, 죽음의 위기와 그녀 자신의 낙담한 태도로부터 해방시켰다. 게다가 아무 피해 없이 강력한 동료가 생겼다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42398,7 +42400,7 @@ msgctxt "hb6dd90abg81b1g47efgbb8dg1308ff0bd6d8"
 msgid ""
 "We left Counsellor Florrick to an uncertain fate as we pressed on towards "
 "our own. "
-msgstr ""
+msgstr "자문관 플로릭이 어떻게 될지 상관없이, 우리는 갈 길을 갔다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -42408,7 +42410,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:56097
 msgctxt "he7c08141ge1ebg4019gbca4g02d1858b3c4e"
 msgid "Find Mystic Carrion's Servant"
-msgstr ""
+msgstr "썩어가는 비술사의 종복 찾기"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42422,6 +42424,8 @@ msgid ""
 "of one of his zombie servants, Thrumbo. He believes Thrumbo will still be "
 "somewhere in the Lower City. "
 msgstr ""
+"썩어가는 비술사를 만났다. 썩어가는 비술사는 좀비 종복 중 하나인 트럼보의 시체를 가져다주면 보상하겠다고 했다. 썩어가는 비술사는 "
+"트럼보가 아직 하부 도시 어딘가에 있을 거라고 믿는 듯하다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42431,7 +42435,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6191
 msgctxt "h2394661egfbf1g415bg99fegf7e291bd233f"
 msgid "Find Thrumbo for Mystic Carrion."
-msgstr ""
+msgstr "썩어가는 비술사를 위해 트럼보를 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42443,7 +42447,7 @@ msgctxt "h9b899550g177eg4321g90b3g489446c0ad01"
 msgid ""
 "We killed Mystic Carrion. We should let Thrumbo know he is no longer being "
 "pursued."
-msgstr ""
+msgstr "썩어가는 비술사를 죽였다. 트럼보에게 더 이상 쫓기며 살지 않아도 된다고 알려줘야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42455,7 +42459,7 @@ msgctxt "ha244e272g2ff7g4a50g8afagdeff08ca3883"
 msgid ""
 "We found the zombie Morbus. He told us that Thrumbo's meeting point for them "
 "was 'down the stairs, across the sand'."
-msgstr ""
+msgstr "좀비 모버스를 찾았다. 트럼보는 동료들과 '계단 아래로, 모래 건너서'에서 모일 예정이었다고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42467,7 +42471,7 @@ msgctxt "h9a388b23g8916g4cf9g88acg53f4586f8bd2"
 msgid ""
 "We found the zombie Lumbar. He told us that Thrumbo was going to get a boat. "
 "He must be hiding somewhere near the water."
-msgstr ""
+msgstr "좀비 럼바를 찾았다. 럼바는 트럼보가 배를 구하러 갔다고 했다. 트럼보는 물가 주변에서 몸을 숨기고 있을 것으로 보인다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42481,6 +42485,8 @@ msgid ""
 "abandoned house for them to hide in. Thrumbo told him that wardrobes are "
 "good hiding places."
 msgstr ""
+"좀비 새크럼을 찾았다. 새크럼은 트럼보가 은신처로 쓸 폐가를 찾고 있다고 했다. 또 트럼보는 옷장이 몸을 숨기기에 좋은 곳이라는 말을 "
+"했다고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42494,6 +42500,8 @@ msgid ""
 "He plans to buy a boat and row them all to freedom. They are to meet at the "
 "beach."
 msgstr ""
+"숨겨진 쪽지를 발견했다. 트럼보가 자기 동료들에게 쓴 쪽지였다. 쪽지에 따르면 트럼보는 쪽배를 사려는 듯하다. 아마 쪽배를 타고 "
+"도망가려는 것으로 보인다. 이를 위해 트럼보와 동료들은 해변에서 모일 예정이라고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42507,6 +42515,8 @@ msgid ""
 "mystic will keep resurrecting unless we find a jar with his heart inside it "
 "and destroy it."
 msgstr ""
+"트럼보가 썩어가는 비술사에 맞서 달라고 부탁했다. 비술사의 심장이 담긴 병을 찾아서 파괴하지 않으면 비술사는 계속해서 부활할 것이라고 "
+"경고했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42516,7 +42526,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6212
 msgctxt "h5427075ag0372g41c1g9e6fg9629cb573d9e"
 msgid "Decide Thrumbo's fate."
-msgstr ""
+msgstr "트럼보의 운명을 결정하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42528,7 +42538,7 @@ msgctxt "hdcaf0042g16deg4b18g8fb2gdf8680c11a63"
 msgid ""
 "We killed Thrumbo. We may want to bring his body to Mystic Carrion, as "
 "requested."
-msgstr ""
+msgstr "트럼보를 죽였다. 요청대로 트럼보의 시체를 썩어가는 비술사에게 가져가는 게 좋을 것 같다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42538,7 +42548,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6219
 msgctxt "hf2521750g2bd6g47f8g8e89gf80bd71ad183"
 msgid "Deliver Thrumbo's body to Mystic Carrion."
-msgstr ""
+msgstr "썩어가는 비술사에게 트럼보의 시신을 전달하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42552,6 +42562,8 @@ msgid ""
 "He suggested that the resurrection will take place wherever Carrion's heart "
 "is. We should find his heart before anyone else gets hurt."
 msgstr ""
+"썩어가는 비술사가 죽었다. 하지만 트럼보는 비술사가 곧 부활할 거라고 경고했다. 또 트럼보는 비술사가 심장이 있는 곳에서 부활할 거라고 "
+"덧붙였다. 누군가 다치기 전에 비술사의 심장을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42561,7 +42573,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6231
 msgctxt "h51e7c7cag1faag4295gbb17g06ab40fc6c4b"
 msgid "Kill Mystic Carrion for good."
-msgstr ""
+msgstr "썩어가는 비술사를 완전히 죽이자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42571,7 +42583,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:56301
 msgctxt "h3e1a7ebag0d8dg428bg8540gd6e00b306d07"
 msgid "Mystic Carrion resurrected, killing Thrumbo in the process."
-msgstr ""
+msgstr "썩어가는 비술사가 부활했다. 그 과정에서 트럼보가 살해당했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42583,7 +42595,7 @@ msgctxt "ha01ed7b3g24feg453agafe1g58da32c648b8"
 msgid ""
 "Mystic Carrion's heart is destroyed. If we kill him now, he will die for "
 "good."
-msgstr ""
+msgstr "썩어가는 비술사의 심장을 파괴했다. 이제 비술사를 죽이면, 비술사는 영원한 죽음에 이르게 된다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42593,7 +42605,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:56345
 msgctxt "h6546c22fg4b75g4d58ga782gf8f9fafee47d"
 msgid "We gave Thrumbo's body to Mystic Carrion, as requested."
-msgstr ""
+msgstr "요청대로 트럼보의 시체를 썩어가는 비술사에게 줬다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42603,7 +42615,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:56367
 msgctxt "h07692838g416ag4fd0gae2bg9f8958900990"
 msgid "We gave the jar containing Mystic Carrion's heart back to him."
-msgstr ""
+msgstr "썩어가는 비술사에게 자기 심장이 담긴 병을 돌려줬다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42613,7 +42625,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:56389
 msgctxt "hc89688b4g1aa4g45efgb201g539f61cd5b4a"
 msgid "We managed to lay Mystic Carrion to rest once and for all."
-msgstr ""
+msgstr "썩어가는 비술사에게 영원한 안식을 선사했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42625,7 +42637,7 @@ msgctxt "h461927f3g6dcbg43b4gbf05g60731d19a454"
 msgid ""
 "Our deal with Mystic Carrion fell through and he became hostile. We have no "
 "choice but to deal with him."
-msgstr ""
+msgstr "썩어가는 비술사와 했던 거래가 실패했다. 이제 비술사는 우리의 적이 되었다. 맞서 싸울 수밖에 없을 듯하다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42639,6 +42651,8 @@ msgid ""
 "He suggested that the resurrection will take place wherever Carrion's heart "
 "is. We should find his heart."
 msgstr ""
+"썩어가는 비술사가 죽었다. 하지만 트럼보는 비술사가 곧 부활할 거라고 경고했다. 또 트럼보는 비술사가 심장이 있는 곳에서 부활할 거라고 "
+"덧붙였다. 비술사의 심장을 찾아야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42650,7 +42664,7 @@ msgctxt "hc99a64aagec3eg4b96g9615gabd0ec66ee4e"
 msgid ""
 "We found Thrumbo, the zombie whose body Mystic Carrion asked us to bring "
 "him. Maybe we should talk to him."
-msgstr ""
+msgstr "트럼보를 찾았다. 썩어가는 비술사가 죽여서 데려오라던 그 좀비가 맞는 듯하다. 한번 트럼보와 대화해 봐야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42660,7 +42674,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6548
 msgctxt "h149f6f9dg28f4g4ff8g8ee5g696a1d65ba0c"
 msgid "Talk to Thrumbo."
-msgstr ""
+msgstr "트럼보에게 말을 걸자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -42671,7 +42685,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/Markers/f9fdc1e1-7ab9-4d62-9b01-3734f7cbec17.lsx:8
 msgctxt "hb311af9fga14fg4b63g80f4g603e9817a927"
 msgid "Thrumbo"
-msgstr ""
+msgstr "트럼보"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42685,6 +42699,8 @@ msgid ""
 "Thrumbo has three other zombie companions. If we find them, they might be "
 "able to tell us where Thrumbo went."
 msgstr ""
+"트럼보의 시체를 썩어가는 비술사에게 돌려주기로 했다. 썩어가는 비술사는 트럼보에게 세 명의 좀비 동료가 있다고 했다. 트럼보의 동료를 "
+"찾으면 트럼보가 어디로 갔는지 알게 될지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42696,7 +42712,7 @@ msgctxt "hf0a5194dg3d2ag4331ga0ddgadf66c8747ca"
 msgid ""
 "We gave the jar containing Mystic Carrion's heart back to him and "
 "successfully negotiated a better deal for it."
-msgstr ""
+msgstr "썩어가는 비술사에게 자기 심장이 담긴 병을 돌려줬다. 그리고 더 좋은 조건으로 협상에 성공했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42708,7 +42724,7 @@ msgctxt "hd03a7ad8gd0d1g44afg8dc0gbe0abde3df59"
 msgid ""
 "We destroyed a canopic jar containing one of Mystic Carrion's preserved "
 "internal organs, dispelling the cursed necromantic magic it contained."
-msgstr ""
+msgstr "썩어가는 비술사의 보존된 내장 중 하나가 담긴 유골함을 파괴하자, 그 안에 담겨 있던 저주받은 사령 마법이 해제됐다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42720,7 +42736,7 @@ msgctxt "h40002e69g22c6g4feeg9169gd02bf78ef337"
 msgid ""
 "We left Mystic Carrion and his servants to their own devices in our pursuit "
 "of the Brain. "
-msgstr ""
+msgstr "뇌를 추적하는 과정에서 썩어가는 비술사와 그의 종복들을 그들의 장치에 남겨 두었다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -42731,7 +42747,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:56579
 msgctxt "h378e9db9g7abcg4671ga467g4388ff1a59fb"
 msgid "End Mystic Carrion's Immortality"
-msgstr ""
+msgstr "썩어가는 비술사의 불멸성 끝내기"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42745,6 +42761,8 @@ msgid ""
 "his servants. There must be a way to kill him for good. Maybe his mansion "
 "holds answers."
 msgstr ""
+"썩어가는 비술사를 죽였다. 그러나 비술사는 부활한 것으로 보인다. 또 부활한 비술사는 좀비 종복도 한 명 살해한 것 같다. 비술사를 "
+"완전히 말살할 방법이 있을 것이다. 어쩌면 비술사의 저택에 단서가 있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42754,7 +42772,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6198
 msgctxt "hdeb4ba18gceb5g4c5dgac33g746fb8c5135d"
 msgid "Investigate Mystic Carrion's mansion."
-msgstr ""
+msgstr "썩어가는 비술사의 저택을 조사하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42768,6 +42786,8 @@ msgid ""
 "Thrumbo. There must be a way to kill him for good. Maybe his mansion holds "
 "answers."
 msgstr ""
+"썩어가는 비술사를 죽였다. 그러나 비술사는 부활한 것으로 보인다. 또 부활한 비술사는 트럼보도 살해한 것 같다. 비술사를 완전히 말살할 "
+"방법이 있을 것이다. 어쩌면 비술사의 저택에 단서가 있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42780,6 +42800,8 @@ msgid ""
 "We killed Mystic Carrion, but he resurrected, and now he's angry. There must "
 "be a way to kill him for good. Maybe his mansion holds answers."
 msgstr ""
+"썩어가는 비술사를 죽였다. 그러나 비술사는 분노에 휩싸인 채 부활했다. 비술사를 완전히 말살할 방법이 있을 것이다. 어쩌면 비술사의 "
+"저택에 단서가 있을지도 모른다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42791,7 +42813,7 @@ msgctxt "hac30793dgd94fg4d8fgb530g36716be5eb1e"
 msgid ""
 "We agreed to help Thrumbo permanently defeat Mystic Carrion. He told us to "
 "look for a chamber beneath Carrion's mansion."
-msgstr ""
+msgstr "트럼보를 도와 썩어가는 비술사를 완전히 말살하기로 했다. 트럼보는 우선 비술사의 저택의 지하실을 찾아보라고 했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42801,7 +42823,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6205
 msgctxt "h1ad78a28gf36eg487ag8e8ag703589f13659"
 msgid "Find Mystic Carrion's secret basement."
-msgstr ""
+msgstr "썩어가는 비술사의 비밀 지하실을 찾아보자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42815,6 +42837,8 @@ msgid ""
 "crypt. If we find this lair, we're bound to find some of his most well-"
 "guarded secrets. We might have luck looking for it somewhere in the sewers."
 msgstr ""
+"썩어가는 비술사가 예전에 고대의 지하 묘지에서 활동했다는 것을 알아냈다. 비술사의 은신처인 지하 묘지를 찾아야 한다. 그러면 비술사의 "
+"가장 중요한 비밀을 찾아낼 수 있을 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42824,7 +42848,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6250
 msgctxt "h0d2a22e6gc4beg405fg916eg4914b7259124"
 msgid "Find Mystic Carrion's Ancient Lair."
-msgstr ""
+msgstr "썩어가는 비술사의 고대의 은신처를 찾자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42836,7 +42860,7 @@ msgctxt "hbbed2faeg8666g4a72g830aga6395fa74f75"
 msgid ""
 "We found the Ancient Lair that Mystic Carrion wrote about. We should look "
 "for clues about where his heart might be."
-msgstr ""
+msgstr "썩어가는 비술사가 글로 언급했던 고대 은신처를 발견했다. 단서를 찾아서 비술사의 심장이 어디 있는지 알아내야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42846,7 +42870,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6257
 msgctxt "h36e2ffc8g8b1eg4d3bg9301g0f9adf3d2678"
 msgid "Explore the Ancient Lair."
-msgstr ""
+msgstr "고대의 은신처를 탐험하자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -42871,6 +42895,8 @@ msgid ""
 "putting canopic jars containing his organs within his zombie servants to "
 "preserve his life force. We must tell Thrumbo."
 msgstr ""
+"썩어가는 비술사의 은신처에서 쪽지 한 장을 발견했다. 쪽지에는 비술사가 자기 장기가 담긴 병을 좀비 종복들의 몸에 넣었다고 쓰여 있었다. "
+"이는 생명력을 보존하기 위한 것으로 보인다. 트럼보에게 이 사실을 알려야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42880,7 +42906,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6281
 msgctxt "headed0ecg5a6fg4bafg8389ga55d8988d18a"
 msgid "Get Mystic Carrion's heart from Thrumbo."
-msgstr ""
+msgstr "트럼보에게서 썩어가는 비술사의 심장을 얻어내자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42894,6 +42920,8 @@ msgid ""
 "putting jars containing his organs within his zombie servants to preserve "
 "his life force. It's clear now where to find Carrion's heart."
 msgstr ""
+"썩어가는 비술사의 은신처에서 쪽지 한 장을 발견했다. 쪽지에는 비술사가 자기 장기가 담긴 병을 좀비 종복들의 몸에 넣었다고 쓰여 있었다. "
+"이는 생명력을 보존하기 위한 것으로 보인다. 아무튼 이제 비술사의 심장이 어디 있는지 확실히 알게 되었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42907,6 +42935,8 @@ msgid ""
 "heart back from us. We must get it back and destroy it to defeat him for "
 "good."
 msgstr ""
+"썩어가는 비술사를 죽였다. 그러나 비술사는 부활한 것으로 보인다. 또 우리에게서 심장도 훔쳐 간 듯하다. 심장을 되찾아서 파괴해야 한다. "
+"그래야 비술사를 말살할 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42916,7 +42946,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6293
 msgctxt "h0712f2a9gde88g4956gb2b1gd9ba1dba5c6b"
 msgid "Destroy Mystic Carrion's heart."
-msgstr ""
+msgstr "썩어가는 비술사의 심장을 파괴하자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -42940,6 +42970,7 @@ msgid ""
 "We told Thrumbo that he had Carrion's heart in his chest and he vomited it "
 "out. We should destroy it."
 msgstr ""
+"트럼보에게 비술사의 심장이 트럼보의 가슴 속에 있다고 알려줬다. 트럼보는 이야기를 듣고는 심장을 토해냈다. 이제 심장을 파괴해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42951,7 +42982,7 @@ msgctxt "h484be4dfgffd1g4f10g9b7fg1f07b48017f9"
 msgid ""
 "We found Mystic Carrion's heart. We must destroy it if we are to kill him "
 "for good."
-msgstr ""
+msgstr "썩어가는 비술사의 심장을 찾아냈다. 심장을 파괴하면 비술사가 부활하지 못하게 된다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42963,7 +42994,7 @@ msgctxt "hba755ee2g3e76g4736g9efag97d4ddccb8af"
 msgid ""
 "We managed to destroy one of Mystic Carrion's canopic jars with fire. We "
 "should do the same to the one that contains his heart."
-msgstr ""
+msgstr "불을 이용해 썩어가는 비술사의 유골함 하나를 파괴했다. 이런 식으로 비술사의 심장이 담긴 병도 파괴해야 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42975,7 +43006,7 @@ msgctxt "hbc780976g3e53g40aag9f6dg762f554b7d94"
 msgid ""
 "Mystic Carrion's heart is destroyed. If we kill him now, he will die for "
 "good."
-msgstr ""
+msgstr "썩어가는 비술사의 심장을 파괴했다. 이제 비술사를 죽이면, 비술사는 영원한 죽음에 이르게 된다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -42985,7 +43016,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6305
 msgctxt "h24bfbc04g40dcg4a5bga8c9g8456177ca650"
 msgid "Destroy Carrion's heart"
-msgstr ""
+msgstr "비술사의 심장 파괴하기"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -42995,7 +43026,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:56871
 msgctxt "hb0ab0cc9g9537g4310g9625g0a15a825e868"
 msgid "We gave the jar containing Mystic Carrion's heart back to him."
-msgstr ""
+msgstr "썩어가는 비술사에게 자기 심장이 담긴 병을 돌려줬다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43007,7 +43038,7 @@ msgctxt "hcea575c5g059cg4bd7gac76gbb8714d946b1"
 msgid ""
 "We found Mystic Carrion's secret basement. We should look for information "
 "about his experiments."
-msgstr ""
+msgstr "썩어가는 비술사의 비밀 기지를 찾았다. 비술사의 실험에 관한 정보를 모아 봐야겠다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -43017,7 +43048,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6312
 msgctxt "hc9b54b58g1503g46ecgb755gb32c64b6afac"
 msgid "Explore Mystic Carrion's secret basement."
-msgstr ""
+msgstr "썩어가는 비술사의 비밀 지하실을 탐험하자."
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
@@ -43041,6 +43072,7 @@ msgid ""
 "We found one of Mystic Carrion's canopic jars. It's radiating with "
 "necromantic energy, but it's not his heart."
 msgstr ""
+"썩어가는 비술사의 유골함 중 하나를 찾았다. 유골함에서는 사령의 기운이 뿜어져 나오고 있지만, 여기 있는 건 그의 심장이 아니다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -43097,7 +43129,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6331
 msgctxt "hfebcd71dg9b08g460ega6c8gcf3c4dce6778"
 msgid "Commune with the Astral-Touched Tadpole. "
-msgstr ""
+msgstr "아스트랄 올챙이와 교감하자. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43109,7 +43141,7 @@ msgctxt "h2ff9a79agd1d4g4588gb549g724323c0f4b1"
 msgid ""
 "Communing with the Astral-Touched Tadpole unlocked the next stage of our "
 "illithid transformation. "
-msgstr ""
+msgstr "아스트랄 올챙이와 교감함으로써 일리시드 변신의 다음 단계를 해제했다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43121,7 +43153,7 @@ msgctxt "h35f52ef3g5ed3g41b3g8bb3g6c66fa8bd1d2"
 msgid ""
 "We did not commune with the Astral-Touched Tadpole, and our illithid "
 "potential remains untapped."
-msgstr ""
+msgstr "아스트랄 올챙이와 교감하지 않았기에, 일리시드 잠재력도 개발되지 않게 되었다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43229,7 +43261,7 @@ msgctxt "h50ff4203g6bc1g4bedgbb53g93ed50b2b559"
 msgid ""
 "We convinced the orthon of another way to escape the temple - by killing "
 "himself and returning to the Nine Hells."
-msgstr ""
+msgstr "스스로 목숨을 끊으면 신전을 벗어나서 아홉 지옥으로 돌아갈 수 있다고 오르쏜을 설득했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43239,7 +43271,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:57181
 msgctxt "hfc26e33age298g4c60gbff0gf7a54b5d8b34"
 msgid "We moved on before meeting Raphael's old enemy."
-msgstr ""
+msgstr "우리는 라파엘의 오랜 적을 만나기 전에 다른 곳으로 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43251,7 +43283,7 @@ msgctxt "hc84b4bceg60aag4926gb8b9g44f3af18e3c9"
 msgid ""
 "We helped the orthon break free from his contract - but it seems that "
 "Raphael had already planned for the outcome."
-msgstr ""
+msgstr "오르쏜을 도와 계약에서 해방되도록 도와주었다. 하지만 라파엘은 이미 이런 결과를 염두에 뒀던 모양이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43285,7 +43317,7 @@ msgctxt "ha28ff566g3537g4a97gab2eg7a9ca84341f3"
 msgid ""
 "We discovered signs of destruction throughout the temple. We can likely "
 "follow the trail of carnage to Raphael's old acquaintance."
-msgstr ""
+msgstr "신전 곳곳에서 파괴의 흔적이 드러났다. 이 학살의 흔적을 따라가면 라파엘의 옛 지인을 만날 수 있을 것이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43307,7 +43339,7 @@ msgctxt "h0473b04eg2db5g43c8g9609geda5faff5034"
 msgid ""
 "The orthon revealed the details of his contract with Raphael - he can only "
 "leave the temple once he has killed the last Sharran in residence."
-msgstr ""
+msgstr "오르쏜은 라파엘과 맺은 계약의 내용을 공개했다. 이곳에 사는 모든 샤 신도를 처치해야만 오르쏜이 신전을 떠날 수 있다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -43318,7 +43350,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:57322
 msgctxt "h5ed97e31g9ae1g49b1g9b1cg6df632b486ca"
 msgid "Break Yurgir's Contract"
-msgstr ""
+msgstr "유르기르의 계약 파기하기"
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -43351,7 +43383,7 @@ msgctxt "h949c1ceaga47ag469bg8124g91f7893b0e03"
 msgid ""
 "We came upon a mysterious ritual site. It seems one of the orthon's targets "
 "has assumed a new shape."
-msgstr ""
+msgstr "정체불명의 의식 현장을 마주했다. 오르쏜의 목표 중 하나가 새로운 형태로 변한 것 같다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43363,7 +43395,7 @@ msgctxt "h40da05bdged2dg4b1dg9764ga360977fb219"
 msgid ""
 "We discovered that the Last Justiciar's body was disassembled into a swarm "
 "of rats. Now that he's returned to his true form, we can kill him."
-msgstr ""
+msgstr "마지막 저스티어의 육신이 쥐 떼로 해체된 것을 발견했다. 이제 본래 모습으로 돌아왔으니, 우리는 그를 죽일 수 있게 됐다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -43373,7 +43405,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:6357
 msgctxt "h1fe13f7ag811bg4795gb632g8bb9f8f5d241"
 msgid "Deal with the Last Justiciar."
-msgstr ""
+msgstr "마지막 저스티어를 처리하자."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43385,7 +43417,7 @@ msgctxt "ha2990ec4gcbb3g4330g98d7g0a121b407009"
 msgid ""
 "We have dealt with the Last Justiciar, whose body had disassembled into a "
 "swarm of rats. Yurgir's contract can now be ended."
-msgstr ""
+msgstr "육신이 쥐 떼로 해체된 마지막 저스티어를 처리했다. 유르기르의 계약은 이제 끝났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/objective_prototypes.lsx
 #. NodeID = Objective
@@ -43414,12 +43446,11 @@ msgstr "유르기르"
 #. ID = LiftedContract
 #. Objective = SHA_OldEnemy_SUB_BreakContract_COMPLETION
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:57416
-#, fuzzy
 msgctxt "h892b5da7g5485g4157g8248g08cf013d1793"
 msgid ""
 "We helped the orthon break free from his contract - but it seems that "
 "Raphael had already planned for the outcome."
-msgstr "오르쏜을 도와 계약에서 해방되도록 도와주었다. 하지만 라파엘도 이 경우를 미리 알고 대비해둔 모양이었다."
+msgstr "오르쏜을 도와 계약에서 해방되도록 도와주었다. 하지만 라파엘은 이미 이런 결과를 염두에 뒀던 모양이다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43429,7 +43460,7 @@ msgstr "오르쏜을 도와 계약에서 해방되도록 도와주었다. 하지
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:57438
 msgctxt "hc276571fgbb6ag4648ga245g19b049f61f24"
 msgid "We moved on before we could break the orthon's contract."
-msgstr ""
+msgstr "우리는 오르쏜의 계약을 파기하기 전에 다른 곳으로 떠났다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43444,11 +43475,9 @@ msgstr ""
 #. Objective = LOW_SaveOmeluum_HelpOmeluumEscapeIRN
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:57460
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:57626
-#, fuzzy
-#| msgid "We killed the orthon without resolving his contract."
 msgctxt "hb75bef56g9f85g4be1gb864ga9b2b984627f"
 msgid "We defeated the orthon without resolving his contract."
-msgstr "오르쏜의 계약을 해결해주지 않고 처치했다."
+msgstr "오르쏜의 계약을 해결해주지 않고 그를 물리쳤다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43460,7 +43489,7 @@ msgctxt "h25e8d233g8badg47adg83b9gb17a0854d927"
 msgid ""
 "We spoke to the pile of corpses that serves as the orthon's bed. It "
 "mentioned that the orthon's last target is now 'many'."
-msgstr ""
+msgstr "오르쏜이 침대로 쓰는 시체 더미와 대화했다. 오르쏜의 마지막 목표가 이제 '여럿'이 되었다고 한다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43470,7 +43499,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:57504
 msgctxt "he0792a52g155bg40a3ga915gdd81b1ca81ee"
 msgid "We told the rat that we would leave them alone."
-msgstr ""
+msgstr "쥐들에게 건드리지 않겠다고 말했다."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43482,7 +43511,7 @@ msgctxt "haa23c2a3g4156g47e2gb901g86c4a0fbd8cb"
 msgid ""
 "We learned that the rats in the Gauntlet of Shar are actually one, single "
 "person - a man called Lyrthindor. "
-msgstr ""
+msgstr "샤의 건틀릿에서 만난 쥐들이 사실 한 명의 사람이라는 사실을 알아냈다. 그 사람은 리씬도르라는 이름을 갖고 있었다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -43494,7 +43523,7 @@ msgctxt "hba6989a2gdf83g4ddbg84a4gf6ceb69993eb"
 msgid ""
 "We made a deal with the rats. In return for being left alone, they told us "
 "about a cache of hidden treasure. "
-msgstr ""
+msgstr "쥐들과 거래했다. 쥐들을 건드리지 않는 대신 숨겨진 보물의 은닉처에 대해 들었다. "
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = Quest
@@ -43504,7 +43533,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/quest_prototypes.lsx:57576
 msgctxt "h88cc5b0egfe8bg45d8gbc50g0b145aaeac18"
 msgid "Retrieve Omeluum"
-msgstr ""
+msgstr "오멜룸 되찾기"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -60295,7 +60324,7 @@ msgstr "고룡의 길 도전을 완료했다. 안수르의 은신처 입구에 �
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:13132
 msgctxt "hc7b39ce8g49bag4cfega6b4gfc3f99f54e9e"
 msgid "Speak to the Wyrmway's central statue."
-msgstr ""
+msgstr "고룡의 길에 있는 중앙 조각상과 대화하기."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -60505,7 +60534,7 @@ msgstr "고룡의 길 도전을 완료했다. 안수르의 은신처 입구에 �
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:13206
 msgctxt "h9f23176cg814eg4ddcga837gea09ce004477"
 msgid "Speak to the Wyrmway's central statue."
-msgstr ""
+msgstr "고룡의 길에 있는 중앙 조각상과 대화하기."
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -60619,7 +60648,7 @@ msgstr ""
 #: Mods/GustavDev/Story/Journal/objective_prototypes.lsx:13341
 msgctxt "ha4770319ged1cg4970g8846g76075ed125d5"
 msgid "COMPLETION"
-msgstr ""
+msgstr "완료"
 
 #. FilePath = Mods/GustavDev/Story/Journal/quest_prototypes.lsx
 #. NodeID = QuestStep
@@ -60852,7 +60881,7 @@ msgstr "노래하는 류트"
 #: Mods/GustavDev/Story/Journal/Markers/320ffdfe-553a-4b4e-b6fc-7a187ccf428c.lsx:8
 msgctxt "h72762e0fg0167g4449g8caeg3530bb6b07ed"
 msgid "Barcus' Pack"
-msgstr ""
+msgstr "바커스의 배낭"
 
 #. NodeID = Marker
 #. HandlePath = DisplayText
