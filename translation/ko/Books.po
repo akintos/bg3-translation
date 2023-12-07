@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-03 22:02+0900\n"
-"PO-Revision-Date: 2023-12-05 16:37+0000\n"
+"PO-Revision-Date: 2023-12-07 00:37+0000\n"
 "Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -13395,7 +13395,7 @@ msgstr ""
 "[보아하니 플레이밍 피스트 용병단이 나인 핑거와 그 일당, '길드'에 대해 상당한 양의 정보를 모아 놓은 듯합니다. 용병단의 관심을 끈 "
 "장소를 거한 투스그론트가 지키고 있다고 하는데, 자세히 보니 '길드'에 소속된 떡대 하나하나를 모욕을 가득 담아 상세히 기술해 "
 "놓았습니다. 분명 용병단은 투스그론트나 다른 불한당들을 그다지 똑똑하다고 여기지 않는 모양입니다. 약도 없는 수준의 멍청이들이라고나 "
-"할까. 다만 나인 핑거는? 오직 그녀에 대해서만큼은 진중하고 두려움 섞인 어조로 묘사하고 있습니다.]"
+"할까. 다만 아홉 손가락은? 오직 그녀에 대해서만큼은 진중하고 두려움 섞인 어조로 묘사하고 있습니다.]"
 
 #. BookId = GLO_GeneralLoreBook_KoboldsArePeopleToo
 #. 
@@ -20592,7 +20592,7 @@ msgid ""
 "have Ascended and will have need of my services - or he will be no more, and "
 "mastery of the palace will fall to me."
 msgstr ""
-"카자도르 성의 의전관, 엔트원 듀페이의 일기\n"
+"카자도르 대저택의 의전관, 엔트원 듀페이의 일기\n"
 "\n"
 "[일기의 마지막 장에 쓰인 글]\n"
 "주인님이 의식을 위해 무슨 생각을 하시는지는 잘 알고 있고, 내가 그 없어진 애새끼 아스타리온의 대역이 될 생각은 없다. 카자도르가 나를 "
@@ -20600,8 +20600,8 @@ msgstr ""
 "예정이다.\n"
 "\n"
 "한 가지 유감인 것은 사랑하는 루리아나이다. 하지만 유일한 탈출 기회를 위해서 그녀에게 이 비밀을 말할 수는 없다. 나중에 물약의 효과가 "
-"사라졌을 땐 이미 카자도르는 승천하고 다시 나의 보좌가 필요할 것이다. 만약 그게 아니라면 카자도르는 사라졌을 것이고, 성의 지배권이 내 "
-"손에 들어올 것이다."
+"사라졌을 땐 이미 카자도르는 승천하고 다시 나의 보좌가 필요할 것이다. 만약 그게 아니라면 카자도르는 사라졌을 것이고, 대저택의 지배권이 "
+"내 손에 들어올 것이다."
 
 #. BookId = LOW_Cazador'sPalace_EternalCruelty
 #. 
@@ -41544,7 +41544,7 @@ msgctxt "h8d11d604gd28fg4c84ga576g3c7204858899"
 msgid ""
 "Gortash's malevolent retelling of the events preceding your adventure, up to "
 "the death of Ketheric."
-msgstr "당신의 모험이 시작되기 전부터 캐서릭의 죽음에 이르기까지 일어난 일들에 대한 고타쉬 관점의 악의적인 회고록입니다."
+msgstr "당신의 모험이 시작되기 전부터 케서릭의 죽음에 이르기까지 일어난 일들에 대한 고타쉬 관점의 악의적인 회고록입니다."
 
 #. key = WYR_WyrmFortressGortashOffice_GortashJournal
 #. 
@@ -64311,7 +64311,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:38509
 msgctxt "h49afe5c5g153eg4c82g840eg3c348a039692"
 msgid "Surgeon's Memorandum"
-msgstr "외과 의사의 제안서"
+msgstr "외과의의 제안서"
 
 #. BookId = TWN_Hospital_AnaesthesiaMemo
 #. 
@@ -64819,7 +64819,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/SCL_Main_A/Items/_merged.lsx:74510
 msgctxt "hd9093fc1g37ebg4298g97aag91bf991bd4fc"
 msgid "Tissue and Organ Register"
-msgstr ""
+msgstr "조직 및 장기 등록부"
 
 #. BookId = TWN_Hospital_SurgeonComplaints
 #. 
@@ -64871,6 +64871,29 @@ msgid ""
 "\n"
 "I will talk to my nephew. Whether he listens is another matter."
 msgstr ""
+"<b>조직 및 장기 등록부</b>\n"
+"\n"
+"기증자: 노움, 신원 불명\n"
+"회수 내역: 방광, 좌측 폐\n"
+"사인: 원인 불명의 괴사\n"
+"주: 피부에 괴저. 사지 말단 결손.\n"
+"\n"
+"기증자: 드워프, 신원 불명\n"
+"회수 내역: 왼손, 양발, 뇌(좌반구)\n"
+"사인: (비전에 의한) 복부 관통상\n"
+"주: 번개에 배가 뚫림. 우뇌는 타버림\n"
+"\n"
+"기증자: 인간, 신원 불명\n"
+"회수 내역: 유골만 회수\n"
+"사인: (비전에 의한) 화장\n"
+"주: 유골함에 넣어 전달됨\n"
+"\n"
+"[목록은 계속 이어집니다. 마지막 항목에는 흘러가는 필체로 쓴 방대한 주석이 있습니다.]\n"
+"\n"
+"케서릭은 최고급 표본을 약속했건만, 발타자르가 연구에 쓰라며 주는 것은 찌꺼기뿐이다. 비장 한 조각, 손가락 하나, 어쩌다 운 좋으면 "
+"괜찮은 머리 하나. 그 망할 사령술사 놈, 필시 좋은 사체는 자기가 쓰려고 빼돌리고 있을 거야.\n"
+"\n"
+"조카와 이야기해야겠어. 내 말을 들을지는 모르겠지만."
 
 #. BookId = TWN_Hospital_SurgeonResearch
 #. 
@@ -69405,10 +69428,10 @@ msgstr ""
 "라파엘에게 보내는 보고서\n"
 "\n"
 "오르페우스의 망치가 희망의 집에 있다는 정보가 어떻게 유출돼서 도시의 블랙마켓에서 떠돌고 있어요. 제가 생각하는 두 명의 용의자 중 "
-"첫째는 고타쉬. 당연히 희망의 집 비밀을 많이 알고 있겠죠. 둘째는 악마 연구자 상인 헬식이에요. 고타쉬가 카서스의 왕관을 훔치는 걸 "
-"도와준 대가로 해머에 대한 정보를 얻었을 가능성이 있어요.\n"
+"첫째는 고타쉬. 당연히 희망의 집 비밀을 많이 알고 있겠죠. 둘째는 악마학자 상인 헬시크에요. 고타쉬가 카서스의 왕관을 훔치는 걸 도와준 "
+"대가로 해머에 대한 정보를 얻었을 가능성이 있어요.\n"
 "\n"
-"저한테 맞춰보라고 한다면 헬식한테 걸겠어요. 돈이 되는 건 뭐든지 팔 방법을 찾는 사람이고, 오르페우스를 구출할 방법은 비싼 가격에 팔 "
+"저한테 맞춰보라고 한다면 헬시크에게 걸겠어요. 돈이 되는 건 뭐든지 팔 방법을 찾는 사람이고, 오르페우스를 구출할 방법은 비싼 가격에 팔 "
 "수 있으니까요.\n"
 "-코릴라"
 
