@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-03 22:02+0900\n"
-"PO-Revision-Date: 2023-12-08 03:37+0000\n"
+"PO-Revision-Date: 2023-12-09 14:37+0000\n"
 "Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -5893,7 +5893,7 @@ msgid ""
 "Chionthar. Arrows show the intended progress of the armies of the Absolute, "
 "with weak points in the city defences marked with X.]"
 msgstr ""
-"[발더스 게이트의 지도. 상부 도시와 하부 도시 그리고 도시 바깥의 고룡 다리와 회색 항구, 치온타르 강까지의 지형이 묘사되어 있습니다. "
+"[발더스 게이트의 지도. 상부 도시와 하부 도시 그리고 외부 도시의 고룡 다리와 회색 항구, 치온타르 강까지의 지형이 묘사되어 있습니다. "
 "화살표로 절대자 교단 병력의 진행 경로를 나타내고 있으며, 도시 방어 체계의 약점 부위들을 X자로 표시해 두었습니다.]"
 
 #. BookId = MOO_MapOfElturgard
@@ -10318,7 +10318,7 @@ msgid ""
 "consider themselves in the city proper...\n"
 msgstr ""
 "... 발더스 게이트 근처를 지나가는 육로 여행객들은 도시를 보기도 전에 그 냄새를 맡을 수 있다고 알려져 있습니다. 이는 발더스 "
-"게이트가 생존하고 번영하는 데 필요한 많은 것을 보유하고 있지만 동시에 성벽 안에 머물기 힘든 부분이 모여 있는 외곽 도시로 알려진 지역 "
+"게이트가 생존하고 번영하는 데 필요한 많은 것을 보유하고 있지만 동시에 성벽 안에 머물기 힘든 부분이 모여 있는 외부 도시로 알려진 지역 "
 "덕분입니다. 무두질 공장, 축사, 도살장, 염전, 규제가 덜한 시장, 그리고 도시로 몰려든 불운한 영혼들을 위한 판잣집과 수용소가 이곳에 "
 "가득합니다. \n"
 "\n"
@@ -13163,10 +13163,9 @@ msgstr ""
 #. Name = BOOK_GLO_GeneralLoreBook_HarperLore
 #. Type = item
 #: Public/GustavDev/RootTemplates/_merged.lsx:51071
-#, fuzzy
 msgctxt "hfb10e4c2gef2dg4c33g9efag1170467ed588"
 msgid "The Harpers"
-msgstr "하퍼들"
+msgstr "하퍼즈"
 
 #. key = GLO_GeneralLoreBook_HarperLore
 #. 
@@ -13187,7 +13186,7 @@ msgid ""
 "united in purpose and goal. One Harper agent deployed correctly in a "
 "conflict often achieves the same result as a loosed army."
 msgstr ""
-"하퍼는 세상의 모든 선과 미덕을 보존하기 위해 암약하는 비밀 결사입니다. 이들은 허를 찌르는 전투 방식과 교활한 정치적 책략으로 매번 "
+"하퍼즈는 세상의 모든 선과 미덕을 보존하기 위해 암약하는 비밀 결사입니다. 이들은 허를 찌르는 전투 방식과 교활한 정치적 책략으로 매번 "
 "악을 앞서지만, 형편 없는 조직력을 자랑합니다. (대다수의 요원들이 서로 얼굴도 이름도 모르는 마당에 어떻게 끈끈한 우정을 쌓을 수 "
 "있겠습니까?) 그러나 대의와 목표 앞에서는 단결되기 마련입니다. 웬만한 분쟁에 제대로 배치된 하퍼 요원 한 명은 기강 풀린 병사 한 "
 "부대와 맞먹는 성과를 내기도 합니다."
@@ -14717,11 +14716,11 @@ msgid ""
 "but it seems the Marshal of the Watch Citadel is sceptical and waiting for "
 "proof before admitting them to a role in the Upper City."
 msgstr ""
-"플레이밍 피스트로 알려진 유명한 - 혹은 악명 높은 - 용병단은 로어 시티와 고룡 다리를 포함한 외부도시의 치안 업무를 담당한다. 하지만 "
-"부유한 자들과 권력을 가진 자들의 집인 어퍼 시티는 누가 담당하는가? 그곳에선 단순히 워치라 불리는 매우 훈련 잘 된 단체가 치안을 "
-"유지한다. 피스트는 워치더러 도시 호족들의 장난감 병정 경호원이면서 진짜 범죄와 싸우는 데에는 손을 더럽히지 않는 사기꾼이라고 비하하지만 "
-"어퍼 시티에서 범죄를 저지른다면 사실과는 전혀 다르다 걸 알게 될 것이다. 워치는 잘 훈련되어있고 호족이 위협받는 상황에선 살상력을 쓸 "
-"수 있도록 허가받았다.\n"
+"플레이밍 피스트로 알려진 유명한 - 혹은 악명 높은 - 용병단은 로어 시티와 고룡 다리를 포함한 외부 도시의 치안 업무를 담당한다. "
+"하지만 부유한 자들과 권력을 가진 자들의 집인 어퍼 시티는 누가 담당하는가? 그곳에선 단순히 워치라 불리는 매우 훈련 잘 된 단체가 "
+"치안을 유지한다. 피스트는 워치더러 도시 호족들의 장난감 병정 경호원이면서 진짜 범죄와 싸우는 데에는 손을 더럽히지 않는 사기꾼이라고 "
+"비하하지만 어퍼 시티에서 범죄를 저지른다면 사실과는 전혀 다르다 걸 알게 될 것이다. 워치는 잘 훈련되어있고 호족이 위협받는 상황에선 "
+"살상력을 쓸 수 있도록 허가받았다.\n"
 "\n"
 "스틸 워치에 관해서 말하자면, 어퍼 시티의 수호자들과 이름을 공유하는 이 철컹거리는 기계들은 아직까지 플레이밍 피스트를 돕는 역할만 "
 "하고있다. 그들의 창조자 고타쉬 경은 이 방어자들이 발더스 게이트의 모두를 지키도록 설계되었다고 언급했지만 워치 요새의 정예들은 이에 "
@@ -14953,7 +14952,6 @@ msgstr "공식적으로 비공식적인 서커스 역사 "
 #. HandlePath = Content
 #. UUID = GLO_GeneralLoreBook_WhenTheCircusCameToTown
 #: Public/GustavDev/Localization/generated_books.lsx:820
-#, fuzzy
 msgctxt "hdb60b566ga729g4effg8dd1gd6e0c214c18a"
 msgid ""
 "[An excerpt from the <i>Officially Unofficial History of the Circus of the "
@@ -14996,7 +14994,7 @@ msgstr ""
 "남자는 그의 존재감으로 온 무대를 지배했다. 농담은 번개처럼 훅 들어왔고 후속타는 더욱 예리했다. 나를 포함한 관중은 완전히 매료된 채 "
 "눈물을 흘리며 웃어댔다. 공연이 끝날 때 쯤엔 덤피를 보러 왔다는 걸 잊을 지경이었다.\n"
 "\n"
-"서커스의 카리스마 넘치는 리더 루크레시우스는 바보가 아니었다. 다듬어지지 않은 채로도 빛나는 스타성을 눈여겨본 그녀는 그 자리에서 입단을 "
+"서커스의 카리스마 넘치는 리더 루크리셔스는 바보가 아니었다. 다듬어지지 않은 채로도 빛나는 스타성을 눈여겨본 그녀는 그 자리에서 입단을 "
 "제안했다. 그가 수줍게 수락하자 관중은 폭발적으로 환호했다. \n"
 "\n"
 "남자의 이름은 노리스 그리니였다. 그는 훗날 다른 이름으로 더욱 유명해지게 되는데...\n"
@@ -16604,8 +16602,8 @@ msgid ""
 "You're not alone! Join other survivors of hag treachery at Barren's Coop. "
 "Alone, we're vulnerable, but together we can stand up against hags!"
 msgstr ""
-"<b>주의!</b> 해그의 주술에 걸렸던 경험이 있나요? 사랑하는 이를 '계약'으로 잃으셨나요? 당신은 혼자가 아니랍니다! 베렌의 "
-"닭장에서 해그의 속임수에서 살아남은 다른 이들과 함께하세요. 혼자선 무기력하지만, 함께라면 우린 해그에 맞설 수 있답니다!"
+"<b>주의!</b> 해그의 주술에 걸렸던 경험이 있나요? 사랑하는 이를 '계약'으로 잃으셨나요? 당신은 혼자가 아니랍니다! 불임자 "
+"조합에서 해그의 속임수에서 살아남은 다른 이들과 함께하세요. 혼자선 무기력하지만, 함께라면 우린 해그에 맞설 수 있답니다!"
 
 #. BookId = LOW_AuntieEthelsRevenge_JatloLetter
 #. 
@@ -16661,7 +16659,7 @@ msgstr ""
 "\n"
 "잘 부탁하네,\n"
 "\n"
-"잘토\n"
+"자틀로\n"
 
 #. BookId = LOW_AuntieEthelsRevenge_KleidunnJournal
 #. 
@@ -21250,7 +21248,8 @@ msgid ""
 msgstr ""
 "\n"
 "***\n"
-"오늘 달리아와 페트라스가 사냥에서 돌아와, 아스타리온을 고룡다리에서 보았다며 급하게 보고하였다. 별난 이야기였지만, 진실이라는 듯했다.\n"
+"오늘 달리리아와 페트라스가 사냥에서 돌아와, 아스타리온을 고룡다리에서 보았다며 급하게 보고하였다. 별난 이야기였지만, 진실이라는 듯했다."
+"\n"
 "아스타리온이 태양 빛 아래에 서 있었다고? 나를 거역하려 하고 그게 <b>가능하다고</b>? 믿을 수 없다.\n"
 "\n"
 "아스타리온은 이제 말썽 그 이상이 되어버린 것 같다. 이제는 내 책임이 되었다. 하지만 어떻게든 복종시킬 것이다.\n"
@@ -32562,7 +32561,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/_merged.lsx:132745
 msgctxt "h3640c40fge097g42e8ga7c0g2b2450e3f268"
 msgid "Correspondence from Lady Esther"
-msgstr "에스더 부인의 편지"
+msgstr "에스더 여사의 편지"
 
 #. key = LOW_TheLodge_EstherLetter
 #. 
@@ -46468,7 +46467,7 @@ msgid ""
 "far as Wyrm's Crossing, as well as Grey Harbour and the near course of the "
 "Chionthar.]"
 msgstr ""
-"[상부 도시와 하부 도시 및 고룡 다리에까지 달하는 외곽 도시를 묘사한 발더스 게이트 지도로 회색 항구와 주변을 흐르는 치온타르 강 또한 "
+"[상부 도시와 하부 도시 및 고룡 다리에까지 달하는 외부 도시를 묘사한 발더스 게이트 지도로 회색 항구와 주변을 흐르는 치온타르 강 또한 "
 "볼 수 있습니다.]"
 
 #. key = GLO_Worldbuiling_Map_World_Elturgard
@@ -50284,7 +50283,7 @@ msgid ""
 msgstr ""
 "[서둘러 작성된 발더스 게이트에서 해야 할 일 목록입니다]\n"
 "\n"
-"숙박을 위해 외곽 도시에 들르기.\n"
+"숙박을 위해 외부 도시에 들르기.\n"
 "\n"
 "플레이밍 피스트에 가입하기.\n"
 "\n"
@@ -57656,7 +57655,7 @@ msgstr ""
 #: Mods/GustavDev/Levels/CTY_Main_A/Items/_merged.lsx:846
 msgctxt "h04f7df9cg4508g47f5g8b3bg6ba79b40c299"
 msgid "Dalyria's Journal"
-msgstr "달리아의 일지"
+msgstr "달리리아의 일지"
 
 #. key = LOW_CazadorsPalace_Bedrooms_SpawnsDiary
 #. 
@@ -81909,7 +81908,7 @@ msgstr ""
 #: Mods/GustavDev/Localization/Act3_Books.lsx:596
 msgctxt "hccc8d73cg46c2g49acgb7afg60f0c33e4cb8"
 msgid "Quenora Grisly"
-msgstr ""
+msgstr "퀘노라 그리슬리"
 
 #. key = LOW_MephistosVault_DoorC_Hint_001
 #. 
