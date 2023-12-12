@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-03 22:03+0900\n"
-"PO-Revision-Date: 2023-12-09 14:37+0000\n"
+"PO-Revision-Date: 2023-12-12 01:37+0000\n"
 "Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -6182,7 +6182,7 @@ msgstr "망토"
 #: Public/Shared/RootTemplates/_merged.lsx:72007
 msgctxt "hb57a3b6cg599ag4856g8558g951d2064313a"
 msgid "Gloves"
-msgstr ""
+msgstr "장갑"
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -11094,7 +11094,7 @@ msgstr "친구나 적을 담을 수 있는 휴대용 병입니다. 전자를 후
 #: Public/SharedDev/RootTemplates/_merged.lsx:145871
 msgctxt "h1c394236gf580g4464gbf04g565b56502091"
 msgid "Whittled Duck"
-msgstr ""
+msgstr "나무로 깎은 오리"
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -11106,7 +11106,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/_merged.lsx:145870
 msgctxt "hd33b9fcdgc075g4bf1g913dg93e776cbb5a3"
 msgid "A duck whittled out of wood. It smells of the deep forest."
-msgstr ""
+msgstr "나무로 깎은 오리입니다. 깊은 숲의 냄새가 납니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -22750,11 +22750,9 @@ msgstr "과일 바구니"
 #. Stats = Food_Basket_Lettuce
 #. Type = item
 #: Public/SharedDev/RootTemplates/_merged.lsx:48889
-#, fuzzy
-#| msgid "Fruit Basket"
 msgctxt "he6f5145cg954cg4608g96c2g60bb2952badb"
 msgid "Basket of Greens"
-msgstr "과일 바구니"
+msgstr "녹색 채소 바구니"
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -22765,7 +22763,7 @@ msgstr "과일 바구니"
 #: Public/SharedDev/RootTemplates/_merged.lsx:48888
 msgctxt "hd03db25fg93e6g4a1dg9ef9g1bc230ba3488"
 msgid "A small wicker basket, redolent with the musk of fresh cabbage."
-msgstr ""
+msgstr "신선한 양배추 향이 물씬 풍기는 작은 고리버들 바구니입니다."
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -24124,7 +24122,7 @@ msgstr "야채 상자"
 #: Public/SharedDev/RootTemplates/_merged.lsx:2443
 msgctxt "h46705981g3d13g40c8ga9f1g3f191ba20fe6"
 msgid "Crate of Produce"
-msgstr ""
+msgstr "농작물 상자"
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -24135,7 +24133,7 @@ msgstr ""
 #: Public/SharedDev/RootTemplates/_merged.lsx:2442
 msgctxt "h431dd7b9gc30dg4a6cg9dd8g9015b1bd916e"
 msgid "The aroma of fresh, ripe fruit sways around this heaped basket. "
-msgstr ""
+msgstr "수북한 바구니에서 잘 익은 신선한 과일 냄새가 물씬 풍깁니다. "
 
 #. FilePath = Public/SharedDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -33326,7 +33324,7 @@ msgstr "둥지"
 #: Public/Shared/RootTemplates/_merged.lsx:435352
 msgctxt "h57b8ddbdgcbecg4952ga24bgaa160c84655a"
 msgid "Slain Ooze"
-msgstr ""
+msgstr "사체 점액"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39090,7 +39088,7 @@ msgstr "불꽃"
 #: Public/Shared/RootTemplates/_merged.lsx:416034
 msgctxt "h3fb26a74g0602g4846g80dfg95f70b1b2527"
 msgid "Robes of the New Moon"
-msgstr ""
+msgstr "초승달의 로브"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39103,7 +39101,7 @@ msgctxt "hb3da1b8bgd434g44c9ga8a7g0f4c3f133d04"
 msgid ""
 "These Sharran robes emphasise authority and austerity over comfort - a "
 "negative, like the black hole of the new moon."
-msgstr ""
+msgstr "샤 교단의 로브로, 편안함보다는 권위와 엄격함을 강조하며, 초승달의 검은 구멍처럼 부정적인 느낌을 줍니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39114,7 +39112,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:566583
 msgctxt "h81916c0egb700g455cgacedge4a293e45bed"
 msgid "The Devil-Crushers"
-msgstr ""
+msgstr "데빌 분쇄기"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39125,7 +39123,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:566582
 msgctxt "h5b50d075g8fedg42eag963bgace6fc163440"
 msgid "Stained with imp guts and warmed from within by hot, sweaty toes."
-msgstr ""
+msgstr "임프의 내장으로 얼룩지고, 땀에 젖은 뜨거운 발로 안이 따듯하게 데워져 있습니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39136,7 +39134,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:713239
 msgctxt "h6a7ede59g3087g4c20g8352g467e3bd69f2d"
 msgid "Harper Boots"
-msgstr ""
+msgstr "하퍼 부츠"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39149,7 +39147,7 @@ msgctxt "hcae6423eg77b3g4a85g8a1fg0a32dbb0f8a1"
 msgid ""
 "Standard issue boots that may or may be modified depending on the wearer's "
 "needs. Examples include hidden knives, poison darts, and so on."
-msgstr ""
+msgstr "필요에 따라 약간의 개조가 가능한 표준 보급 부츠입니다. 예를 들어, 칼을 숨기거나 독이 발린 다트 등을 달 수 있습니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39160,7 +39158,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:489552
 msgctxt "h1141c5e4g87ceg42ceg9ec5gb4e6c16d8396"
 msgid "Senja'si Boots"
-msgstr ""
+msgstr "센자시 부츠"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39173,7 +39171,7 @@ msgctxt "h158c5215g4371g448bgb71eg1b086c28b08a"
 msgid ""
 "Lavishly decorated by M'Lar of the Comet with stolen metal filigree and "
 "pilfered rubies."
-msgstr ""
+msgstr "훔친 금속 줄 세공과 루비로 혜성의 믈라르가 화려하게 장식했습니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39184,7 +39182,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:661380
 msgctxt "hef15343bg59f7g483dgbfb9g23a2ecd22350"
 msgid "Metallic Boots"
-msgstr ""
+msgstr "금속 부츠"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39196,7 +39194,7 @@ msgstr ""
 msgctxt "h74d1eed4gb05ag48cfg806fga430b006ef1e"
 msgid ""
 "Cold and cruel, these boots would inflict serious damage if used in violence."
-msgstr ""
+msgstr "차갑고 잔혹한 부츠로, 폭력에 사용할 경우 심각한 피해를 줄 수 있습니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39207,7 +39205,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:568975
 msgctxt "h7132854dg3989g4e8dga655g3abebc1fedfb"
 msgid "Well-Cobbled Boots"
-msgstr ""
+msgstr "꼼꼼하게 수선된 부츠"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39220,7 +39218,7 @@ msgctxt "hc7852cdag31d4g4bdag98c5g7e38d8fcceae"
 msgid ""
 "Crafted from tough, reinforced leather, these oft-oiled boots are sure to "
 "survive many years of use."
-msgstr ""
+msgstr "보강된 질긴 가죽으로 제작된 부츠로, 자주 기름칠을 해서 앞으로도 몇 년은 거뜬히 신을 수 있을 것 같습니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39231,7 +39229,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:52015
 msgctxt "h9cad0664ga48fg4ffcg8827gf452ae03b090"
 msgid "Dandy's Dream Ensemble"
-msgstr ""
+msgstr "멋쟁이의 꿈 한벌"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -39244,7 +39242,7 @@ msgctxt "hfbb2e257gaaceg47d8gb104g3c3895a05989"
 msgid ""
 "While the leather is cheap and the silver is simply paint, this outfit is "
 "clearly loved and well looked after."
-msgstr ""
+msgstr "저렴한 가죽과 은색 페인트로 제작됐지만, 애정을 갖고 관리한 흔적이 보입니다."
 
 #. FilePath = Public/Gustav/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -47389,7 +47387,7 @@ msgctxt "hd1d60f00g0ab0g498fgbfc4g84e0651eeabf"
 msgid ""
 "Using this will clean off dirt, blood, and face-paint, and will remove "
 "conditions that make you smell."
-msgstr ""
+msgstr "먼지나 피, 얼굴용 물감을 지우거나, 악취를 유발하는 상태를 제거할 수 있습니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -47477,7 +47475,7 @@ msgctxt "ha11378a3gfd9bg458egb67dgad8d627385f0"
 msgid ""
 "Using this will clean off dirt, blood, and face-paint, and will remove "
 "conditions that make you smell."
-msgstr ""
+msgstr "먼지나 피, 얼굴용 물감을 지우거나, 악취를 유발하는 상태를 제거할 수 있습니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -47515,7 +47513,7 @@ msgctxt "h2921f3afg5d87g4477gb01dg9acdc4ea8167"
 msgid ""
 "Using this will clean off dirt, blood, and face-paint, and will remove "
 "conditions that make you smell."
-msgstr ""
+msgstr "먼지나 피, 얼굴용 물감을 지우거나, 악취를 유발하는 상태를 제거할 수 있습니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -52663,7 +52661,7 @@ msgstr "유리, 사파이어, 정교하게 세공된 금으로 제작된 이 잔
 #: Public/Shared/RootTemplates/_merged.lsx:628208
 msgctxt "he3774ea0ga5bbg4c8bg95f2gc24e9add3d9a"
 msgid "Hairbrush"
-msgstr ""
+msgstr "머리빗"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -52676,7 +52674,7 @@ msgstr ""
 msgctxt "h49279736g8af3g4039gb127gd88663a6735c"
 msgid ""
 "An intricately ornamented silver hairbrush with bristles made of boar fur."
-msgstr ""
+msgstr "멧돼지 털로 만든 뻣뻣한 빗살이 달린 복잡하게 장식된 은색 머리빗입니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -54901,7 +54899,7 @@ msgstr "자주 찢어지고 수선된 이 곰 인형은 한 번만 잘 꽉 쥐�
 #: Public/Shared/RootTemplates/_merged.lsx:348822
 msgctxt "h8d05d8afg631cg46e9ga3ebg0824ee3a9b1c"
 msgid "Clive"
-msgstr ""
+msgstr "클라이브"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -54914,7 +54912,7 @@ msgctxt "ha0f76646ga14eg4677gb1f2g8fb8189a5237"
 msgid ""
 "Despite being scorched and battered, this stuffed bear is still very "
 "huggable."
-msgstr ""
+msgstr "그을리고 낡았지만, 여전히 폭신폭신한 곰 인형입니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -54925,7 +54923,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:405274
 msgctxt "hb0aac796g7fb7g41c6gaa68g0732a998b11a"
 msgid "Doo"
-msgstr ""
+msgstr "두"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -54936,7 +54934,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:405273
 msgctxt "heb761b87g0ca7g4213ga302gb10523eab863"
 msgid "A new stuffed friend for Karlach, loved beyond repair."
-msgstr ""
+msgstr "칼라크의 새로운 인형 친구입니다. 많이 사랑 받았는지 낡아서 고칠 수 없습니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -55083,7 +55081,7 @@ msgstr "재료"
 #: Public/Shared/RootTemplates/_merged.lsx:539325
 msgctxt "hd72164b6g8298g4a30gb081ge740a649b65c"
 msgid "Whittled Duck"
-msgstr ""
+msgstr "나무로 깎은 오리"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -55094,7 +55092,7 @@ msgstr ""
 #: Public/Shared/RootTemplates/_merged.lsx:539324
 msgctxt "h5a24327cgbe8cg4d70g9b5fg91ab11766d34"
 msgid "A duck whittled out of wood. It smells of the deep forest."
-msgstr ""
+msgstr "나무로 깎은 오리입니다. 깊은 숲의 냄새가 납니다."
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -68235,7 +68233,7 @@ msgstr "검게 그을린 철제 다면체 아티팩트에 맥동하는 룬들이
 #: Public/Gustav/RootTemplates/_merged.lsx:58354
 msgctxt "h591dc436gb92dg4c89g913agd020473e2e07"
 msgid "Inert Astral Prism"
-msgstr ""
+msgstr "비활성 아스트랄 프리즘"
 
 #. FilePath = Public/Gustav/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -68247,7 +68245,7 @@ msgstr ""
 #: Public/Gustav/RootTemplates/_merged.lsx:58353
 msgctxt "h80e23c4fg82e7g4083gaac3gb8a14337ac43"
 msgid "This artefact, once so powerful, now sits empty and quiet."
-msgstr ""
+msgstr "한때는 너무도 강력한 힘을 지녔던 아티팩트가 텅 빈 채 고요히 잠들어 있습니다."
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -73867,11 +73865,9 @@ msgstr "가벼운 천으로 만든 치장용 로브. 전투보다는 유혹을 �
 #. Stats = UNI_Daisy_Plate
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:492958
-#, fuzzy
-#| msgid "Elegant Robe"
 msgctxt "h49049f03g68ceg47cbgb596g17f51df1afd3"
 msgid "Dreamwalker Plate"
-msgstr "우아한 로브"
+msgstr "꿈을 걷는 자의 판금"
 
 #. FilePath = Public/Shared/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -73881,13 +73877,9 @@ msgstr "우아한 로브"
 #. Stats = UNI_Daisy_Plate
 #. Type = item
 #: Public/Shared/RootTemplates/_merged.lsx:492957
-#, fuzzy
-#| msgid ""
-#| "A draped robe made with lightweight fabric. Made for seduction rather than "
-#| "battle."
 msgctxt "h153f4640ga6fcg40bfgae8aga5c3f0fcf9ed"
 msgid "A battle-burnished armour tempered with otherworldly steel."
-msgstr "가벼운 천으로 만든 치장용 로브. 전투보다는 유혹을 위해 제작되었습니다."
+msgstr "다른 세계의 강철과 전투로 단련된 갑옷입니다."
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -76775,7 +76767,7 @@ msgstr "이 반지는 마치 영구적으로 그림자로 감싸여 어둠을 �
 #: Public/GustavDev/RootTemplates/_merged.lsx:253521
 msgctxt "h07a9678cg261fg44f4g98bbg1a877b57e694"
 msgid "The Wasting Quiet"
-msgstr ""
+msgstr "황폐한 고요"
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects
@@ -76791,7 +76783,7 @@ msgstr ""
 msgctxt "hc1cb2698g1648g4967gaad6g9229d2de808d"
 msgid ""
 "A manifestation of childlike fear that silences and degrades all within. "
-msgstr ""
+msgstr "내면의 모든 것을 침묵시키고 타락시키는 어린아이 같은 두려움의 현현입니다. "
 
 #. FilePath = Public/GustavDev/RootTemplates/_merged.lsx
 #. NodeID = GameObjects

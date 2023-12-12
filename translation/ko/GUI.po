@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-03 22:03+0900\n"
-"PO-Revision-Date: 2023-12-10 23:37+0000\n"
+"PO-Revision-Date: 2023-12-12 01:37+0000\n"
 "Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -1513,7 +1513,6 @@ msgid "Hear Voice"
 msgstr "목소리 듣기"
 
 #: Public/Game/GUI/Library/CCLib_k.xaml:5076
-#, fuzzy
 msgctxt "h8949ad0egb0f8g4ea8gbf56g25a764a8bb34"
 msgid "Crest"
 msgstr "볏"
@@ -3794,6 +3793,8 @@ msgid ""
 "Your party has been defeated.\n"
 "Is this the end?"
 msgstr ""
+"일행이 전멸했습니다.\n"
+"이대로 끝나는 걸까요?"
 
 #: Public/Game/GUI/Library/MessageBoxTemplates.xaml:188
 msgctxt "hed392e60g9d7dg4f8ag9868g08ba6efef31c"
@@ -4438,7 +4439,7 @@ msgstr "비용"
 #: Public/Game/GUI/Library/PreloadedActionRadials_c.xaml:1589
 msgctxt "hf6830bd6g4b21g4a7aga963g30da537e64b7"
 msgid "Select from World"
-msgstr ""
+msgstr "화면에서 선택"
 
 #: Public/Game/GUI/Library/PreloadedActionRadials_c.xaml:1598
 #: Public/Game/GUI/Library/PreloadedActionRadials_c.xaml:1658
@@ -4849,10 +4850,9 @@ msgid "Split"
 msgstr "나누기"
 
 #: Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:3491
-#, fuzzy
 msgctxt "hd894e218g4ae0g42daga416gff818b8a0ffd"
 msgid "Group All"
-msgstr "모두 합치기"
+msgstr "모두 그룹에 추가"
 
 #: Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:3498
 msgctxt "he8756948g1795g4047g8eb3g76956ccd07fb"
@@ -4871,11 +4871,9 @@ msgid "Back"
 msgstr "뒤로"
 
 #: Public/Game/GUI/Library/PreloadedPlayerPortraits_c.xaml:3655
-#, fuzzy
-#| msgid "Group All Summons"
 msgctxt "hb3756335gddeeg4f75g9561g039d94305206"
 msgid "Group Summons"
-msgstr "전체 소환수 그룹화"
+msgstr "소환수 그룹 설정"
 
 #: Public/Game/GUI/Library/Reactions_c.xaml:62
 #: Public/Game/GUI/Library/Reactions_c.xaml:145
@@ -4926,10 +4924,9 @@ msgstr "캠페인 정보"
 #: Public/Game/GUI/Library/SaveLoad.xaml:497
 #: Public/Game/GUI/Widgets/SaveGame_c.xaml:217
 #: Public/Game/GUI/Widgets/LoadGame_c.xaml:168
-#, fuzzy
 msgctxt "hd338417fg3591g475bga45cg85abc82bfa55"
 msgid "Delete all but latest"
-msgstr "최근 세이브만 남기고 삭제"
+msgstr "가장 최근 파일을 제외하고 모두 삭제"
 
 #. FilePath = Public/Shared/Ruleset/RulesetModifiers.lsx
 #. NodeID = RulesetModifier
@@ -6820,7 +6817,7 @@ msgstr "HP"
 #: Public/Game/GUI/Library/Tooltips.xaml:5323
 msgctxt "h5f6a1f2ag0bc4g4ae6ga52ege6e0048af203"
 msgid "to <LSTag Tooltip=\"SkillCheck\">Skill Checks</LSTag>"
-msgstr ""
+msgstr ": <LSTag Tooltip=\"SkillCheck\">기술 판정</LSTag>"
 
 #: Public/Game/GUI/Library/Tooltips.xaml:5343
 msgctxt "h5febcaf6g13f4g4662g9c68ge24ec3c2d80a"
@@ -7810,10 +7807,9 @@ msgstr " (너무 무겁습니다) "
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1282
 #: Public/Game/GUI/Widgets/ActionResources_c.xaml:141
 #: Public/Game/GUI/Widgets/HotBar.xaml:4810
-#, fuzzy
 msgctxt "h8e97fb57g8443g4904g884bge82dd9d40aa3"
 msgid "Call Forth Allies"
-msgstr "동료 불러모으기"
+msgstr "아군 호출"
 
 #: Public/Game/GUI/Widgets/ActionResources_c.xaml:102
 #: Public/Game/GUI/Widgets/HotBar.xaml:841
@@ -8028,7 +8024,7 @@ msgstr "사용자 지정 주사위"
 #: Public/Game/GUI/Widgets/ActiveRoll_c.xaml:1968
 msgctxt "he06c0f84g0a9bg4679ga784gdfab1ea8908f"
 msgid "Waiting for <hl>[1]</hl> to re-roll or continue..."
-msgstr ""
+msgstr "<hl>[1]</hl>(이)가 주사위를 다시 굴리거나 계속하기를 기다리는 중..."
 
 #: Public/Game/GUI/Widgets/ActiveRoll_c.xaml:836
 msgctxt "h7bb9bbfbg5fc0g4728g9947g9a9e6c862e93"
@@ -8216,12 +8212,11 @@ msgid "Move Character"
 msgstr "캐릭터 이동"
 
 #: Public/Game/GUI/Widgets/CharacterAssign_c.xaml:317
-#, fuzzy
 msgctxt "h996ecd7fgf595g43bagaa5fg141ebb10a8a3"
 msgid ""
 "The Session Manager lets you manage who controls characters in a multiplayer "
 "game."
-msgstr "세션 관리자가 멀티플레이 게임에서 캐릭터 조작 관리 권한을 부여했습니다."
+msgstr "세션 관리자가 당신에게 멀티플레이 게임에서 누가 캐릭터를 조작할 수 있을지를 제어하게 허락하였습니다."
 
 #: Public/Game/GUI/Widgets/CharacterAssign_c.xaml:337
 #: Public/Game/GUI/Widgets/CharacterChangeAppearance.xaml:115
@@ -8438,7 +8433,7 @@ msgstr "능력치 점수가 10을 넘기면 2점마다 관련 주사위 굴림�
 #: Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1361
 msgctxt "h0e1cbf9ege86fg4bebgb6e6g34aae0ab4460"
 msgid "Select two abilities to get an additional bonus. "
-msgstr ""
+msgstr "추가 보너스를 받을 두 가지 능력치를 선택하십시오. "
 
 #: Public/Game/GUI/Widgets/CharacterCreation_c.xaml:1375
 #: Public/Game/GUI/Widgets/CharacterRespec_c.xaml:781
@@ -8569,11 +8564,9 @@ msgstr "[1]: 마인드 플레이어 기생충을 쓰는 걸 싫어합니다."
 #: Public/Game/GUI/Widgets/CharacterPanel.xaml:263
 #: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:395
 #: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:343
-#, fuzzy
-#| msgid "Choose an area of your mind to evolve."
 msgctxt "hb6d4f05fg375bg4219ga684g1be1396aa6e9"
 msgid "Evolve an area of your mind to embrace your potential."
-msgstr "진화시킬 정신의 영역을 고르세요."
+msgstr "정신의 영역을 진화시켜 잠재력을 받아들이십시오."
 
 #: Public/Game/GUI/Widgets/CharacterPanel.xaml:267
 msgctxt "h1f318f39g2d8eg46ccga7cag187950e70bbd"
@@ -8909,12 +8902,12 @@ msgstr "아이템 제거"
 #: Public/Game/GUI/Widgets/Container_c.xaml:811
 msgctxt "h7213ebe8gb542g4c85g8733g7149b02f4bf2"
 msgid "Move Selected"
-msgstr ""
+msgstr "이동 선택됨"
 
 #: Public/Game/GUI/Widgets/Container_c.xaml:794
 msgctxt "h857bebb2g8266g4b47g8387gcbac9175c779"
 msgid "Take Selected"
-msgstr ""
+msgstr "획득 선택됨"
 
 #: Public/Game/GUI/Widgets/ControllerOptions_c.xaml:158
 msgctxt "h05b1b507g66c2g4c1ega59bg709c57ea9203"
@@ -9051,7 +9044,7 @@ msgstr "[1] 확인"
 #: Public/Game/GUI/Widgets/CursorText_c.xaml:351
 msgctxt "h521c4991ge535g48dcg842dg26eb11b13c46"
 msgid "Select Target"
-msgstr ""
+msgstr "대상 선택"
 
 #: Public/Game/GUI/Widgets/CursorText_c.xaml:383
 #: Public/Game/GUI/Widgets/ShortcutsMenu_c.xaml:467
@@ -9836,10 +9829,9 @@ msgstr "게임 불러오기"
 #: Public/Game/GUI/Widgets/GameMenu.xaml:102
 #: Public/Game/GUI/Widgets/GameMenu_c.xaml:124
 #: Public/Game/GUI/Widgets/GameMenu_c.xaml:129
-#, fuzzy
 msgctxt "h908649e6gdfe9g4a44g8bf3ga66cc295f28e"
 msgid "Multiplayer"
-msgstr "세션"
+msgstr "멀티플레이"
 
 #: Public/Game/GUI/Widgets/GameMenu.xaml:114
 #: Public/Game/GUI/Widgets/GameMenu_c.xaml:137
@@ -10991,7 +10983,7 @@ msgstr "세션 설정 편집"
 #: Public/Game/GUI/Widgets/MainMenu.xaml:29
 msgctxt "hf23e5e61g00fcg4531g9f57gc6079562ba62"
 msgid "Cross-save activated"
-msgstr "크로스 세이브 기능 활성화됨"
+msgstr "교차 저장 기능 활성화됨"
 
 #: Public/Game/GUI/Widgets/MainMenu.xaml:266
 msgctxt "he6781e96gc753g46e8g9d9ag2492e0269ada"
@@ -11004,14 +10996,13 @@ msgctxt "hd2483c4eg1d05g4a56gae35g86f1ddad520e"
 msgid ""
 "Cross-save automatically syncs your latest five savegames between any "
 "platform on which you play Baldur's Gate 3."
-msgstr "크로스 세이브 기능은 발더스 게이트 3를 어떤 플랫폼에서 플레이하건 간에 가장 최근의 5개의 세이브를 자동으로 동기화시켜줍니다."
+msgstr "교차 저장 기능은 발더스 게이트 3를 어떤 플랫폼에서 플레이하건 간에 가장 최근의 5개의 세이브를 자동으로 동기화시켜줍니다."
 
 #: Public/Game/GUI/Widgets/MainMenu_c.xaml:38
 #: Public/Game/GUI/Widgets/MainMenu.xaml:28
-#, fuzzy
 msgctxt "h38a2b4efg958eg46baga570ge044a8985709"
 msgid "Activate Cross-Save?"
-msgstr "크로스 세이브 기능을 켤까요?"
+msgstr "교차 저장을 활성화하시겠습니까?"
 
 #: Public/Game/GUI/Widgets/MainMenu_c.xaml:177
 #: Public/Game/GUI/Widgets/MainMenu.xaml:124
@@ -11162,7 +11153,7 @@ msgstr ""
 #: Public/Game/GUI/Widgets/NewGameSettingsInformationPopup.xaml:43
 msgctxt "hc84c257fg484bg490cgab0dg6026185bdebe"
 msgid "Honour Mode Details"
-msgstr ""
+msgstr "명예 모드 세부 사항"
 
 #: Public/Game/GUI/Widgets/NewGameSettingsInformationPopup_c.xaml:34
 #: Public/Game/GUI/Widgets/NewGameSettingsInformationPopup.xaml:45
@@ -11226,7 +11217,7 @@ msgstr "게임 시작"
 #: Public/Game/GUI/Widgets/NewGameSettings.xaml:101
 msgctxt "h46c00fa7gbb38g480fg9a0fgb4232bec8658"
 msgid "Detailed Overview"
-msgstr ""
+msgstr "세부 개요"
 
 #: Public/Game/GUI/Widgets/NewGameSettings_c.xaml:374
 #: Public/Game/GUI/Widgets/NewGameSettings.xaml:410
@@ -11238,13 +11229,13 @@ msgstr "난이도 변경"
 #: Public/Game/GUI/Widgets/NewGameSettings.xaml:426
 msgctxt "h839dd40ag30f3g49e0g9135g411c9fcc81ba"
 msgid "Customise"
-msgstr ""
+msgstr "커스터마이즈"
 
 #: Public/Game/GUI/Widgets/NewGameSettings_c.xaml:402
 #: Public/Game/GUI/Widgets/NewGameSettings.xaml:434
 msgctxt "h6f947303gef88g4640g8e4cg1ec35b5da79e"
 msgid "Custom Mode"
-msgstr ""
+msgstr "커스텀 모드"
 
 #: Public/Game/GUI/Widgets/NewGameSettings_c.xaml:661
 #: Public/Game/GUI/Widgets/NewGameSettings.xaml:824
@@ -11252,19 +11243,19 @@ msgctxt "h3c46af69gfe72g49f1gb524g8bf318295dc3"
 msgid ""
 "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> This setting can't be changed "
 "once the game starts!"
-msgstr ""
+msgstr "<LSTag Type=\"Image\" Info=\"SoftWarning\"/> 이 설정은 게임이 시작되면 바꿀 수 없습니다!"
 
 #: Public/Game/GUI/Widgets/NewGameSettings_c.xaml:792
 #: Public/Game/GUI/Widgets/NewGameSettings.xaml:966
 msgctxt "h3745e72dg245ag4502g8774g8965baf256eb"
 msgid "Alter Custom Mode"
-msgstr ""
+msgstr "커스텀 모드 변경"
 
 #: Public/Game/GUI/Widgets/NewGameSettings_c.xaml:807
 #: Public/Game/GUI/Widgets/NewGameSettings.xaml:981
 msgctxt "hf8f0bd69gdbfeg4657gbb07gfda9602d4a08"
 msgid "Revert Changes"
-msgstr ""
+msgstr "변경 사항 되돌리기"
 
 #: Public/Game/GUI/Widgets/Notification_c.xaml:43
 #: Public/Game/GUI/Widgets/Notification.xaml:33
@@ -11423,13 +11414,13 @@ msgstr "삭제하기"
 #: Public/Game/GUI/Widgets/ProofOfHonour.xaml:68
 msgctxt "he3027a35g04e7g4966g9ae0g3a3b2cb70cc1"
 msgid "Proof of Honour"
-msgstr ""
+msgstr "명예의 증거"
 
 #: Public/Game/GUI/Widgets/ProofOfHonour_c.xaml:175
 #: Public/Game/GUI/Widgets/ProofOfHonour.xaml:176
 msgctxt "hda26f31cg9c53g43cdg99bdgef87a9e93d1f"
 msgid "A Fitting End"
-msgstr ""
+msgstr "적절한 결말"
 
 #: Public/Game/GUI/Widgets/ProofOfHonour_c.xaml:184
 #: Public/Game/GUI/Widgets/ProofOfHonour.xaml:185
@@ -11437,19 +11428,19 @@ msgctxt "h436aeeb2g69c5g43dcg914cg2344fb4741f6"
 msgid ""
 "The honourable adventurer fights with more mettle than most, but they die "
 "like any other."
-msgstr ""
+msgstr "명예로운 모험가는 누구보다 투지를 불태우며 싸우지만, 다른 모험가들과 마찬가지로 죽음을 맞이할 수 있습니다."
 
 #: Public/Game/GUI/Widgets/ProofOfHonour_c.xaml:201
 #: Public/Game/GUI/Widgets/ProofOfHonour.xaml:202
 msgctxt "h2c6b2736g52b1g4321gb0a2g4b7bb84522bc"
 msgid "Time Played:"
-msgstr ""
+msgstr "플레이한 시간:"
 
 #: Public/Game/GUI/Widgets/ProofOfHonour_c.xaml:203
 #: Public/Game/GUI/Widgets/ProofOfHonour.xaml:204
 msgctxt "h14260990gf4a6g49bag911fgdee30c5baf9e"
 msgid "Campaign Ended:"
-msgstr ""
+msgstr "캠페인 종료일:"
 
 #: Public/Game/GUI/Widgets/ReactionDecisionPopup.xaml:115
 msgctxt "heb56c0degea37g48dcga2f6g0ce95d14ffd1"
@@ -11918,7 +11909,7 @@ msgid ""
 "A Larian Studios Account lets you access exclusive content, as well as our "
 "online services, such as cross-save. Join our party by creating a new "
 "account below."
-msgstr "라리안 스튜디오 계정은 온라인 서비스, 교차 저장같은 특별한 기능을 제공합니다. 계정 생성으로 함께하십시오."
+msgstr "라리안 스튜디오 계정은 온라인 서비스, 교차 저장 같은 특별한 기능을 제공합니다. 계정 생성으로 함께하십시오."
 
 #: Public/Game/GUI/Widgets/SignUp_c.xaml:333
 msgctxt "h81fa45a1gcee1g482dgb2bcge83b4bd783f7"
@@ -12240,7 +12231,7 @@ msgstr "올챙이 사용 불가"
 #: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:599
 msgctxt "hd4d6eeadg2585g4731gb608g34a4a6e516e1"
 msgid "Ceremorphosis Achieved"
-msgstr ""
+msgstr "뇌변이 달성"
 
 #: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:800
 #: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:600
@@ -12248,7 +12239,7 @@ msgctxt "had45419bg39e7g4797g99bagbc53b23642b1"
 msgid ""
 "This character has evolved beyond tadpoles. View its full array of illithid "
 "powers in the Spellbook. "
-msgstr ""
+msgstr "이 캐릭터는 올챙이의 한계 이상으로 진화했습니다. 주문서에서 모든 일리시드 능력을 확인할 수 있습니다. "
 
 #: Public/Game/GUI/Widgets/TadpolePowersTree.xaml:826
 #: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:553
@@ -12269,10 +12260,9 @@ msgid "[1] is currently in combat."
 msgstr "[1]: 전투중입니다."
 
 #: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:351
-#, fuzzy
 msgctxt "he4188fdagc753g4e54g85efg2f435f8cb0cd"
 msgid "Manage Powers"
-msgstr "권능 조정"
+msgstr "능력 관리"
 
 #: Public/Game/GUI/Widgets/TadpolePowersTree_c.xaml:390
 msgctxt "hca3605b7gcb05g41ecgbc90g35363115fbc2"

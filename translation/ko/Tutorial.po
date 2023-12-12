@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-03 22:03+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-12-12 01:37+0000\n"
+"Last-Translator: OZmaster <sonbosun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. FilePath = Public/SharedDev/Tutorials/ModalTutorials.lsx
 #. NodeID = ModalTutorial
@@ -2327,15 +2329,6 @@ msgstr ""
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Bardic inspiration
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:246
-#, fuzzy
-#| msgid ""
-#| "Bardic Inspiration can be given to allies to spend on improving a <LSTag "
-#| "Tooltip=\"AbilityCheck\">check</LSTag>, boosting an <LSTag Tooltip="
-#| "\"AttackRoll\">attack</LSTag> or increasing <LSTag Tooltip=\"ArmourClass\""
-#| ">Armour Class</LSTag>. These options can be managed in the Action Radial "
-#| "Menu and in the Reactions Menu.\n"
-#| "\n"
-#| "[IE_ToggleInGameMenu] Open Character Sheet to manage reactions"
 msgctxt "he90b8435g77d2g46ffgb8bdg0ea85086d58d"
 msgid ""
 "Bardic Inspiration can be given to allies to spend on improving a <LSTag "
@@ -2350,7 +2343,7 @@ msgstr ""
 "\"AttackRoll\">공격력</LSTag>이나 <LSTag Tooltip=\"ArmourClass\">방어도</LSTag>를 "
 "증가시키는 데 사용할 수 있습니다. 행동 원형 메뉴와 반응 메뉴에서 선택을 지정할 수 있습니다.\n"
 "\n"
-"[IE_ToggleInGameMenu] 캐릭터 시트를 열어 반응 행동 지정하기"
+"[IE_PanelSelect] 캐릭터 시트를 열어 반응 행동 지정하기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -2430,14 +2423,6 @@ msgstr ""
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Prepare Spells
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:262
-#, fuzzy
-#| msgid ""
-#| "Some spellcasters (Wizards, Druids, Clerics and Paladins) are incredibly "
-#| "versatile magic users, and can prepare different spells when not in combat. "
-#| "The list of available spells for these classes grows when levelling up, and "
-#| "Wizards can also learn new spells from Spell Scrolls.\n"
-#| "\n"
-#| "[IE_ToggleInGameMenu] Open Spellbook"
 msgctxt "h0d7a974eg8f6bg4ff8gb125gb641b11b5db6"
 msgid ""
 "Some spellcasters (Wizards, Druids, Clerics and Paladins) are incredibly "
@@ -2451,7 +2436,7 @@ msgstr ""
 "준비할 수 있습니다. 클래스 별 사용가능한 주문 목록은 레벨이 올라갈수록 증가하며, 이 중 위저드는 주문 두루마리를 통해서도 새로운 "
 "주문을 배울 수 있습니다.\n"
 "\n"
-"[IE_ToggleInGameMenu] 주문책 열기"
+"[IE_PanelSelect] 주문책 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -6905,16 +6890,6 @@ msgstr ""
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Turn Based Mode
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1127
-#, fuzzy
-#| msgid ""
-#| "Turn-Based Mode pauses the world around you, breaking down time into rounds "
-#| "of 6 seconds each - helpful for avoiding traps or sneaking past enemies. In "
-#| "Turn-Based Mode, your characters all act and move on the same turn, after "
-#| "which everything else in the world acts (including traps, surfaces, and "
-#| "other creatures). You can toggle in and out of Turn-Based Mode at any time.\n"
-#| "\n"
-#| "[IE_ToggleManualTurnBasedMode] Toggle Turn-Based Mode\n"
-#| "[IE_UIEndTurn] End turn "
 msgctxt "he23afa99gcd6fg409ag80a4g3fea183c816a"
 msgid ""
 "Turn-Based Mode pauses the world around you, breaking down time into rounds "
@@ -6930,7 +6905,7 @@ msgstr ""
 "모드에서는 파티원 외의 게임내 행동들(함정, 표면, 기타 크리쳐들 포함)이 모두 종료된 후에, 파티원들 모두 같은 턴에 행동하고 "
 "움직입니다. 언제든지 턴제 모드를 켜고 끌 수 있습니다.\n"
 "\n"
-"[IE_ToggleManualTurnBasedMode] 턴제 모드 토글\n"
+"[IE_PanelSelect] 턴제 모드 토글\n"
 "[IE_UIEndTurn] 턴 종료 "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
@@ -7860,15 +7835,9 @@ msgstr "웨이포인트를 발견했습니다! 지도에서 이곳을 선택하�
 #. HandlePath = ControllerInputList
 #. TutorialName = Waypoints
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1336
-#, fuzzy
-#| msgid ""
-#| "[IE_PanelSelect] Open Game Menu \n"
-#| " <LSTag Type=\"Image\" Info=\"TutorialMap\"/> Open Map"
 msgctxt "h4f6cc672g605fg4c2bg8bffg13d4b6ef29db"
 msgid "[IE_UISwitchMode] Toggle Map"
-msgstr ""
-"[IE_PanelSelect] 게임 메뉴 열기\n"
-" <LSTag Type=\"Image\" Info=\"TutorialMap\"/> 지도 열기"
+msgstr "[IE_UISwitchMode] 지도 토글"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -8777,14 +8746,6 @@ msgstr ""
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Your Journal
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1556
-#, fuzzy
-#| msgid ""
-#| "The Journal records your adventure so far - who you've helped, where you've "
-#| "been, and where you might need to go next. If a goal points you to a "
-#| "specific location, it will appear as a marker on your map. You can also view "
-#| "every conversation you've had so far in the Dialogue History tab.\n"
-#| "\n"
-#| "[IE_ToggleInGameMenu] Open Journal"
 msgctxt "hdfd8a6eag904eg4f19g89deg1b5d41845233"
 msgid ""
 "The Journal records your adventure so far - who you've helped, where you've "
@@ -8797,7 +8758,7 @@ msgstr ""
 "일지는 진행 중인 당신의 모험을 기록합니다. 지금까지 누구를 도왔으며, 어디를 갔으며, 이제 어디로 가야 하는지 적습니다. 만약 정확한 "
 "목적지가 있다면 지도에 마커로 표시됩니다. 대화 기록 창을 통해서 지금까지 나눈 모든 대화 내용도 다시 볼 수 있습니다.\n"
 "\n"
-"[IE_ToggleInGameMenu] 일지 열기"
+"[IE_PanelSelect] 일지 열기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -10124,16 +10085,6 @@ msgstr "영약은 다음 긴 휴식까지 효과가 지속됩니다. 다른 영�
 #. HandlePath = ControllerJournalDescription
 #. TutorialName = Elixirs
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1868
-#, fuzzy
-#| msgid ""
-#| "Elixirs can provide a wide range of possible benefits to a character when "
-#| "consumed until their next <LSTag Tooltip=\"LongRest\">Long Rest</LSTag>. "
-#| "Drinking a new Elixir will replace any benefits granted by previously "
-#| "consumed Elixirs. You can craft them in the Alchemy Menu.\n"
-#| "\n"
-#| "[IE_ToggleInGameMenu] Open the Main Menu\n"
-#| "<LSTag Type=\"Image\" Info=\"TutorialAlchemyMenu\"/> Craft Elixirs in the "
-#| "Alchemy Menu"
 msgctxt "h43ee2fcdg04d6g4bccg89b8ga75b6d980ee5"
 msgid ""
 "Elixirs can provide a wide range of possible benefits to a character when "
@@ -10148,7 +10099,7 @@ msgstr ""
 "영약을 소모하면 다음 <LSTag Tooltip=\"LongRest\">긴 휴식</LSTag>까지 캐릭터에게 다양한 효과를 부여합니다. "
 "새 영약을 마시면 이전 영약 효과를 대체합니다. 영약은 연금술 목록에서 제작할 수 있습니다.\n"
 "\n"
-"[IE_ToggleInGameMenu] 메인 메뉴 열기\n"
+"[IE_PanelSelect] 메인 메뉴 열기\n"
 "<LSTag Type=\"Image\" Info=\"TutorialAlchemyMenu\"/> 연금술 목록에서 영약 제조하기"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
@@ -10199,7 +10150,7 @@ msgctxt "h65e2eb2ag30e2g45d5gaa72g799e4c275157"
 msgid ""
 "Important enemies throughout your adventure will be more powerful in Honour "
 "Mode. "
-msgstr ""
+msgstr "명예 모드에서는 모험 중에 만나는 중요한 적들이 더욱 강력해집니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -10211,7 +10162,7 @@ msgid ""
 "In Honour Mode, all of your foes become more stronger, but the most "
 "dangerous creatures in the Forgotten Realms also get a whole host of new "
 "powers in battle. "
-msgstr ""
+msgstr "명예 모드에서는 모든 적이 더욱 강력해지며, 또한 포가튼 렐름에서 가장 위험한 크리쳐들은 새로운 전투 능력을 얻습니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -10220,7 +10171,7 @@ msgstr ""
 #: Public/SharedDev/Tutorials/UnifiedTutorials.lsx:1881
 msgctxt "h5de66794geebdg4ae4g9a10gb179984775a0"
 msgid "Enemies in Honour Mode"
-msgstr ""
+msgstr "명예 모드에서의 적들"
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -10231,7 +10182,7 @@ msgctxt "h6496ab45g86f2g471ag9b56g73b3facd3d30"
 msgid ""
 "Important enemies throughout your adventure will be more powerful in Honour "
 "Mode. "
-msgstr ""
+msgstr "명예 모드에서는 모험 중에 만나는 중요한 적들이 더욱 강력해집니다. "
 
 #. FilePath = Public/SharedDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
@@ -10243,7 +10194,7 @@ msgid ""
 "In Honour Mode, all of your foes become more stronger, but the most "
 "dangerous creatures in the Forgotten Realms also get a whole host of new "
 "powers in battle. "
-msgstr ""
+msgstr "명예 모드에서는 모든 적이 더욱 강력해지며, 또한 포가튼 렐름에서 가장 위험한 크리쳐들은 새로운 전투 능력을 얻습니다. "
 
 #. FilePath = Public/GustavDev/Tutorials/UnifiedTutorials.lsx
 #. NodeID = UnifiedTutorial
