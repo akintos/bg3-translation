@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-03 22:02+0900\n"
-"PO-Revision-Date: 2023-12-21 22:37+0000\n"
+"PO-Revision-Date: 2023-12-23 07:37+0000\n"
 "Last-Translator: Ponytail310 <sejini310@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -12623,7 +12623,6 @@ msgstr ""
 #. Stats = BOOK_GLO_GeneralLoreBook_ChildrenOfStone
 #. Type = item
 #: Public/GustavDev/RootTemplates/_merged.lsx:189393
-#, fuzzy
 msgctxt "h1aa025d3g23dfg46a8gabd4g2ee71de76ebd"
 msgid "Dwarven Taxonomy"
 msgstr "드워프 분류 체계"
@@ -14533,7 +14532,6 @@ msgstr ""
 #. Stats = BOOK_GLO_GeneralLoreBook_TheLadyOfLuck
 #. Type = item
 #: Public/GustavDev/RootTemplates/_merged.lsx:166812
-#, fuzzy
 msgctxt "hb17568b1g76b8g4ba5ga895g1847d3632207"
 msgid "Tymora, Lady Luck"
 msgstr "행운의 여신 티모라"
@@ -15073,7 +15071,6 @@ msgstr "예술품 감정"
 #. HandlePath = Content
 #. UUID = GLO_OskarsBeloved_ArtAppraising
 #: Public/GustavDev/Localization/generated_books.lsx:4124
-#, fuzzy
 msgctxt "h38bf5126gc2a3g455cg9cc0g88233c9cf4b4"
 msgid ""
 "[<i>Art Appraisal</i> by Gonner Maude begins with this:]\n"
@@ -15101,17 +15098,17 @@ msgstr ""
 "\n"
 "어느 날 아침, 어머니가 저를 따로 불러서 아버지가 미쳤다고 말씀하셨습니다. 제가 7살 때 일이죠. 어머니는 꽤 온화하게 말씀하셨습니다. "
 "'네 아빠는 괜찮아. 그냥 미쳤을 뿐이야.'하고요. 미쳤다는 게 다시 서재에 틀어박혀서 사흘 동안 그림만 그려댄 걸 말하는 거냐고 "
-"물었더니, 어머니는 그게 아니라 아버지가 날카로운 붓으로 자해를 했다고 말씀하셨습니다. 그냥 그렇게 말씀하셨어요. 딱 사실만, 눈빛에는 "
-"아무런 공포도 없이 말입니다.\n"
+"물었더니, 어머니는 그게 아니라 아버지가 날카로운 붓으로 어머니를 공격했다고 말씀하셨습니다. 그냥 그렇게 말씀하셨어요. 딱 사실만, "
+"눈빛에는 아무런 공포도 없이 말입니다.\n"
 "\n"
-"제 부모님은 워터딥 외곽 헛간에서 어머니가 저를 다리 사이로 밀어낸 지 1년 뒤에 결혼했습니다. 그 때는 결혼한 지 6년째 되는 "
-"해였습니다.\n"
+"제 부모님은 워터딥 외곽 헛간에서 어머니가 저를 다리 사이로 밀어낸 지 1년 뒤에 결혼했습니다. 그때는 결혼한 지 6년째 되는 해였습니다."
 "\n"
-"예술은 참 우스운 일입니다.\n"
+"\n"
+"예술은 참 재미있는 것입니다.\n"
 "\n"
 "미처와 웹슨은 예술에 대한 좋은 분석을 내놓았습니다. 좋은 예술은 삶을 복제하지만, 위대한 예술은 삶을 <i>극복</i>한다고 말이죠. "
-"7살 때, 신발끈이 풀린 채로 바닥 위를 너무 빠르게 걷다가 엉덩이에 찰과상을 입은 그 날 아침, 저는 그 진실과, 그로부터 도출되는 "
-"결과를 알게 되었습니다: 즉, 삶이라는 희한한 것을 극복하는 동안, 위대한 예술은 삶을 쉽게 집어삼켜 버린다는 것을 말입니다."
+"신발 끈은 풀리고, 앉아서 끌고 다니다 벌게진 엉덩이의 일곱 살 나는 그날 아침, 그 진실과, 그로부터 도출되는 결과를 알게 되었습니다: "
+"즉, 삶이라는 희한한 것을 극복하는 동안, 위대한 예술은 삶을 쉽게 집어삼켜 버린다는 것을 말입니다."
 
 #. BookId = GLO_OskarsBeloved_FaerunianMasterPainters
 #. 
@@ -15208,51 +15205,6 @@ msgstr "집에서도 따라할 수 있는 요리 책"
 #. HandlePath = Content
 #. UUID = GLO_OskarsBeloved_PatriarFood
 #: Public/GustavDev/Localization/generated_books.lsx:4047
-#, fuzzy
-#| msgid ""
-#| "A Feast for a Tenday\n"
-#| "\n"
-#| "The following recipe requires a day or more to make; inform your servants to "
-#| "cook the sauce the day before, then again for some time on the day on which "
-#| "it is to be consumed. The earth and comforting flavours will thus have time "
-#| "to blend.\n"
-#| "\n"
-#| "INGREDIENTS:\n"
-#| "- 2 spoons of oil, olive\n"
-#| "- 1 unit of pork ribs or meaty pork neck bones\n"
-#| "- 5 cloves garlic, chopped\n"
-#| "- 1 large onion, diced\n"
-#| "- 1 punnet of mushrooms, sliced\n"
-#| "- 1.5 units ground beef\n"
-#| "- 1 cup high quality crushed tomatoes\n"
-#| "- 4 unit of tomatoes, preserved by canning\n"
-#| "- 1 small spoon of sugar\n"
-#| "- 2 dried bay leaves\n"
-#| "- 1 large pinch dried oregano\n"
-#| "- Salt and pepper, to taste\n"
-#| "- Crushed red pepper, to taste\n"
-#| "- 2 sprigs fresh basil\n"
-#| "- 2 sprigs fresh parsley\n"
-#| "\n"
-#| "DIRECTIONS:\n"
-#| "Stoke your furn to a high heat. Meanwhile, pat the pork dry, season with "
-#| "salt and pepper, and drizzle with oil. Place into a pan and bake in furn "
-#| "until deep golden brown. Set aside.\n"
-#| "Heat remaining olive oil in large, heavy pot. Fry chopped onions and "
-#| "mushrooms over medium heat and season. Do not allow them to brown overmuch. "
-#| "Add crumbled beef and cook until coloured, stirring. Season with salt, "
-#| "pepper, and oregano. Add chopped garlic and cook a very short time, then add "
-#| "tomatoes, salt, sugar, crushed red pepper, and bork, still on the bone. Add "
-#| "bay leaves, basil, parsley, and bring to a low simmer. Simmer as such for "
-#| "the better part of an afternoon -  three chimes of the bell will do.  Remove "
-#| "the pork to cool, then remove meat from bones and discard any fat or "
-#| "gristle. Shred the meat and return it to the sauce. Taste for further "
-#| "seasoning. When you are satisfied with the flavour, cool thoroughly and "
-#| "place in your cold storage to mature overnight. \n"
-#| "\n"
-#| " Serve the next day with your choice of accoutrement; this chef prefers "
-#| "pasta, plenty of hard, salty cheese, hard-boiled eggs, and a crisp, green "
-#| "salad on the side."
 msgctxt "h1f7426e4g5353g4782g929agc070ab85e7fc"
 msgid ""
 "A Feast for a Tenday\n"
@@ -15326,14 +15278,17 @@ msgstr ""
 "요리법:\n"
 "화덕을 센 불로 달구세요. 돼지고기를 두드려 물기를 제거하고, 소금과 후추로 간을 한 뒤 기름을 뿌려줍니다. 팬에 넣고 화덕에서 진한 "
 "황금빛 갈색이 될 때까지 구워서 따로 보관합니다.\n"
+"\n"
 "크고 무거운 냄비에 남은 올리브 오일을 두르고 가열합니다. 다진 양파와 버섯을 중간 불에 볶고 간을 맞춥니다. 너무 갈색이 되지 않도록 "
 "주의해야 합니다. 다진 쇠고기를 넣고 색이 날 때까지 저어가며 조리합니다. 소금, 후추, 오레가노로 간을 맞춥니다. 다진 마늘을 넣고 "
 "아주 짧게 조리한 뒤 토마토, 소금, 설탕, 으깬 고추, 돼지고기를 넣습니다. 돼지고기는 뼈채로 넣어줍니다. 월계수 잎, 바질, 파슬리를 "
-"넣고 약한 불로 끓입니다. 종이 세 번 울릴 때까지, 오후 한나절 동안 그대로 끓입니다. 돼지고기를 꺼내 식힌 다음 뼈에서 고기를 "
-"발라내고 지방이나 비계는 모두 버립니다. 고기를 잘게 썰어 소스에 다시 넣습니다. 양념이 더 필요한지 맛을 봅니다. 맛이 만족스러우면 "
-"완전히 식힌 후 차가운 곳에 두고 하룻밤 숙성시킵니다.\n"
+"넣고 약한 불로 끓입니다. 종이 세 번 울릴 때까지, 오후 한나절 동안 그대로 끓입니다.\n"
 "\n"
-"다음 날 파스타, 단단하고 염분이 있는 치즈, 삶은 달걀, 아삭한 그린 샐러드를 곁들여 드십시오."
+"돼지고기를 꺼내 식힌 다음 뼈에서 고기를 발라내고 지방이나 비계는 모두 버립니다. 고기를 잘게 썰어 소스에 다시 넣습니다. 양념이 더 "
+"필요한지 맛을 봅니다. 맛이 만족스러우면 완전히 식힌 후 차가운 곳에 두고 하룻밤 숙성시킵니다.\n"
+"\n"
+"다음 날, 기호에 따라 상을 차리십시오. 필자는 파스타, 단단하고 염분이 있는 치즈, 삶은 달걀, 아삭한 그린 샐러드를 곁들이는 것을 "
+"추천합니다."
 
 #. BookId = GLO_OskarsBeloved_RelationshipAdvice
 #. 
@@ -15372,7 +15327,6 @@ msgstr ""
 #. Name = BOOK_GLO_Sewers_MunicipalSanitationNotice
 #. Type = item
 #: Public/GustavDev/RootTemplates/_merged.lsx:30614
-#, fuzzy
 msgctxt "h6cc1ff07g8e59g46e1g8225ga388157b1a84"
 msgid "Municipal Sanitation Notice"
 msgstr "시내 위생 관련 공지사항"
@@ -29770,7 +29724,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/_merged.lsx:143043
 msgctxt "h399f4132g58f8g472ag9ffcgda2e7a24e8bc"
 msgid "Nocturne's Journal"
-msgstr ""
+msgstr "녹턴의 일지"
 
 #. key = LOW_SharranCloister_NocturnesJournal
 #. 
@@ -29808,6 +29762,22 @@ msgid ""
 "dead - even the Mother Superior does not seem to know. I'm sick with worry. "
 "I can't even bear to write any more."
 msgstr ""
+"[일기에 앞부분은 대부분 지워지거나 심하게 고친 흔적이 있습니다. 뒤로 갈수록 점점 안정을 찾은 듯한 모습입니다.]\n"
+"\n"
+"나는 녹턴이다. 나는 녹턴으로서 생각하고, 거울 속에서도 그녀를 본다. 누군가가 마지막으로 나를 잘못된 이름으로 부른 게 언제인지 "
+"기억나지 않는다. 섀도하트는 말실수를 빠르게 고쳐줬고, 악의를 가지고 날 다른 이름으로 부르는 녀석들을 혼내주었다. 그런 친구가 있어서 "
+"정말 다행이다.\n"
+"\n"
+"섀도하트의 기억을 또 가져갔다. 이전보다 더 많은 기억을 가져간 것 같다. 하지만 이젠 어떻게 해야 할지 안다. 섀도하트는 겁을 먹을 "
+"것이고, 나조차도 기억하지 못할 것이다. 그러면 난 섀도하트를 우리의 은신처로 데려가 자신이 누군지 기억하게 해주면 된다. 점점 더 "
+"능숙해지고 있다. 섀도하트가 마침내 나를 기억해 냈을 때, 그 눈빛을 보는 게 정말 좋다. 수도원장님은 섀도하트한테 왜 이런 짓을 하는 "
+"걸까? 왜 <i>섀도하트만</i> 그렇게 못 잡아먹어서 안달인 걸까?\n"
+"\n"
+"임무를 위해 섀도하트를 단장시키고 있다. 그리고 또 섀도하트의 기억을 가져가겠지. 섀도하트를 만나야 한다. 아직 날 기억할 때. 부디 "
+"몸조심하라고, 다시 만날 거라고 말해줘야 한다.\n"
+"\n"
+" 벌써 며칠이나 지났는데 아무런 소식이 없다. 섀도하트랑 다른 녀석들은 죽었는지 살았는지도 모른다. 수도원장님조차도 모르는 것 같다. "
+"너무 걱정된다. 걱정돼서 글도 안 써진다."
 
 #. BookId = LOW_SharranCloister_NoteToSelf(Bloodstains)
 #. 
@@ -29848,7 +29818,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/_merged.lsx:246001
 msgctxt "h904b0c26gb027g49c8gb3d0gac191eafd3ef"
 msgid "Security Guidelines"
-msgstr ""
+msgstr "보안 지침서"
 
 #. key = LOW_SharranCloister_SecurityGuidelines
 #. 
@@ -73649,7 +73619,7 @@ msgstr ""
 #: Public/GustavDev/RootTemplates/_merged.lsx:175520
 msgctxt "h085b7b80ga637g4b8aga28cgd37fff77d8af"
 msgid "The Layperson's Guide To Holy Exorcism"
-msgstr ""
+msgstr "문외한을 위한 신성한 퇴마 안내서"
 
 #. key = LOW_StormshoreTabernacle_TabernacleHauntedBlessings
 #. 
